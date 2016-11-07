@@ -21,7 +21,7 @@ exports.register = function (server, options, next) {
     'resultats',
     'section',
     'sujet',
-    'tests',
+    'tests'
   ]
 
   server.views({
