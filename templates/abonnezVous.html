@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<%= partials.mmhead({ title: 'PhD Résultats' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercher() %>
+
+<%= partials.titreSeulement({ title: "M'abonner" }) %>
+
+<!-- INTERFACE -->
+
+<!-- start form -->
+<div class="row" id="authenticate">
+
+  <div class="large-6 medium-6 small-6 columns">
+    <div class="callout">
+		<form>
+		<label><strong>Nom de famille</strong> <input type="text" name="nomFamille"></label>
+      <label><strong>Prénom</strong> <input type="text" name="prenom"></label>
+      <label><strong>Courriel</strong> <input type="text" name="courriel"></label>
+      <label><strong>Utilisateur</strong> <input type="text" name="username"></label>
+      <label><strong>Mot-de-passe</strong> <input type="text" name="password"></label>
+      <input class="button" type="submit" name="meAbonner" value="M'abonner">
+		</form>
+    </div>
+  </div>
+
+  <div class="large-6 medium-6 small-6 columns">
+    <div class="callout">
+		<br>
+      <p class="text-left"><em>Nom de famille</em> et <em>Prénom</em> sont facultatifs.</p>
+      <br>
+      <p class="text-left"><em>Courriel</em> est obligatoire, mais ne sera pas diffusé.<br>C'est <em>Utilisateur</em> qui sera employé dans le site.</p>
+      <br>
+      <p class="text-left"><em>Mot-de-passe</em> est obligatoire.</p>
+      <br>
+      <p class="text-left">Obtenir certificat (c'est-à-dire une clef public-privée) pour ne pas remplir <em>Utilisateur</em> et <em>Mot-de-passe</em> lorsqu'on se connecte.</p>
+      <br>
+      <p class="text-left">Premier mois est gratuit.</p>
+      <br>
+      <p class="text-left">Réduire le coût mensuel en participant activement.<br>Comités de lecture.</p>
+      <br>
+    </div>
+  </div>
+
+</div>
+<!-- end form -->
+
+<!-- SCRIPTS -->
+<%= partials.scripts() %>
+
+</body>
+</html>

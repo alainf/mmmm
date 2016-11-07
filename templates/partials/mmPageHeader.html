@@ -1,0 +1,29 @@
+<!-- PAGE HEADER -->
+<div class="row" id="title-line">
+	<!-- Left -->
+  <div class="large-3 medium-3 small-3 columns" id="title-left">
+      <%= partials.blocLangues({ langue: 'Fr' }) %>
+  </div>
+  <!-- Center -->
+  <div class="large-6 medium-6 small-6 columns" id="title-center">
+		<h3 id="page-main-title" class="text-center"><%- data.title %></h3>
+  </div>
+  <!-- Right -->
+  <div class="large-3 medium-3 small-3 columns" id="title-right">
+	
+    <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
+		 <div class="" id="bloc-fonctions">
+		 <ul class="menu align-right">
+			<li class="icon"><a title="Imprimer la page" href="#"><i class="fi-print"></a></i></li>
+			<li class="icon"><a title="Partager sur Facebook" href="#"><i class="fi-social-facebook"></a></i></li>
+			<li class="icon"><a title="Ajouter à mon agenda" href="/fr/moi#mon-agenda"><i class="fi-calendar"></a></i></li>
+      	<li class="icon"><a title="S'abonner aux notifications" href="#"><i class="fi-rss"></a></i></li>
+      	<li class="icon"><a title="Ajouter à mes favoris" href="#"><i class="fi-star"></a></i></li>
+		</ul>
+    </div>
+    <% } else { %>
+	 <p>&nbsp;</p>
+	 <% } %>
+
+  </div>
+</div>

@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+
+<%= partials.mmhead({ title: 'Sujet Agriculture' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercherFiltrer() %>
+
+<!-- breadcrumb -->
+<div class="row">
+	<div class="large-12 medium-12 small-12 columns">
+        <nav>
+			<ul class="breadcrumbs">
+			<li>sujet:</li>
+			<li><a href="accueil">Accueil</a></li>
+			<li>Agriculture</li>
+			<li>
+				<a class="prev-page" href="#"><strong>&lt;</strong></a>
+				<span> Page 1 </span>
+				<a class="next-page" href="#"><strong>&gt;</strong></a>
+			</li>
+			</ul>
+        </nav>
+	</div>
+</div>
+
+<%= partials.mmPageHeader({ title: 'Agriculture', usertype: 'membre' }) %>
+
+<!-- INTERFACE -->
+
+<div class="row" id="grid">
+
+	<!-- Left -->
+
+	<div class="large-3 medium-3 small-3 columns" id="grid-left">
+		<!-- sections -->
+		<div class="">
+			<h5 class="text-center"><strong>Sections</strong></h5>
+			<div class="callout">
+			<ul class="menu vertical">
+				<li><a href="/fr/enConstruction">Académique</a></li>
+				<li><a href="/fr/section">Entreprise</a></li>
+				<li><a href="/fr/enConstruction">La société</a></li>
+				<li><a href="/fr/enConstruction">Quoi faire en ville</a></li>
+				<li><a href="/fr/enConstruction">Revue de presse</a></li>
+				<li><a href="/fr/enConstruction">Vie culturelle</a></li>
+			</ul>
+			</div>
+		</div>
+		<!-- sujets -->
+      <div class="">
+			<h5 class="text-center"><strong>Sujets</strong></h5>
+			<div class="callout">
+				<ul class="menu vertical">
+				<li><a href="/fr/enConstruction">Acériculture</a></li>
+				<li><a href="/fr/enConstruction">Agriculture généralités</a></li>
+				<li><a href="/fr/enConstruction">Agrocarburants</a></li>
+				<li><a href="/fr/enConstruction">Aquaculture</a></li>
+				<li><a href="/fr/enConstruction">Botanique</a></li>
+				<li><a href="/fr/enConstruction">Conservation des ressources naturelles</a></li>
+				<li><a href="/fr/enConstruction">Expérimentation agricole</a></li>
+				<li><a href="/fr/enConstruction">Foresterie</a></li>
+				<li><a href="/fr/enConstruction">Industrie alimentaire</a></li>
+				<li><a href="/fr/enConstruction">Pêche</a></li>
+				<li><a href="/fr/enConstruction">Sciences de l'alimentation</a></li>
+				<li><a href="/fr/enConstruction">Viticulture</a></li>
+				<li><a href="/fr/enConstruction">Zootechnie (agriculture)</a></li>
+				</ul>
+			</div>
+		</div>
+  </div>
+
+    <!-- Center -->
+  <div class="large-6 medium-6 small-6 columns" id="grid-center">
+    <div>
+		<br>
+		<%= partials.article1() %>
+		<hr>
+		<%= partials.article2() %>
+		<hr>
+		<%= partials.article3() %>
+		<hr>
+		<%= partials.article4() %>
+		<hr>
+		<%= partials.article5() %>
+		<hr>
+    </div>
+  </div>
+
+  <!-- Right -->
+  <div class="large-3 medium-3 small-3 columns" id="grid-right">
+    <div class="">
+      <h5 class="text-center"><strong><%- data.__('En bref') %></strong></h5>
+      <%= partials.breve1() %>
+		<%= partials.breve2() %>
+		<%= partials.breve3() %>
+		<%= partials.breve4() %>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<%= partials.footer({ pagination: true, lastPage: '1 000', updated: '2016-11-03 à 05:18' }) %>
+
+<!-- SCRIPTS -->
+<%= partials.scripts() %>
+
+</body>
+</html>

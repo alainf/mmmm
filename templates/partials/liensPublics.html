@@ -1,0 +1,28 @@
+<!-- liens-publics -->
+<div class="row" id="liens-publics">
+	<div class="large-12 medium-12 small-12 columns">
+		<ul class="menu align-right">
+		<!-- -->
+		<% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
+		<li><a href="/fr/bye">Me déconnecter</a></li>
+		<% } else { %>
+		<li><a href="/fr/allo">Me connecter</a></li>
+		<% } %>
+		<!-- -->
+		<% if (data.usertype === 'anonyme') { %>
+			<li><a href="/fr/abonnez-vous">M'abonner</a></li>
+		<% } %>
+		<!-- -->
+		<% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
+		<li><a href="/fr/moi">Moi</a></li>
+		<% } %>
+		<!-- -->
+		<li><a href="/fr/bottin" title="Membres et groupes de la communauté">Bottin</a></li>
+		<li><a href="/fr/agenda" title="Agenda de la communauté">Agenda</a></li>
+		<li><a href="/fr/faq" title="Foire aux questions">FAQ</a></li>
+		<li><a href="/fr/apropos">À propos</a></li>
+		<li><a href="/fr/accueil">Accueil</a></li>
+		<!-- -->
+		</ul>
+	</div>
+</div>

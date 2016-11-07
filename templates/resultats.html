@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<%= partials.mmhead({ title: 'PhD Résultats' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercherFiltrer() %>
+
+<!-- breadcrumb -->
+<div class="row">
+	<div class="large-12 medium-12 small-12 columns">
+	<nav>
+		<ul class="breadcrumbs">
+		<li><a href="/fr/accueil">Accueil</a></li>
+		<li>Résultats</li>
+		<li>
+			<a class="prev-page" href="#"><strong>&lt;</strong></a>
+			<span> Page 1 </span>
+			<a class="next-page" href="#"><strong>&gt;</strong></a>
+		</li>
+		</ul>
+	</nav>
+	</div>
+</div>
+
+<%= partials.mmSearchHeader({ title: 'Résultats de recherche', usertype: 'membre' }) %>
+
+<!-- INTERFACE -->
+
+<br>
+<div class="row" id="search-area">
+
+  <div class="large-7 medium-7 small-7 columns">
+    <div class="">
+		<p><img src="/img/placeholders/search-left.png" alt="Résultats de recherche"></p>
+    </div>
+  </div>
+  
+  <div class="large-5 medium-5 small-5 columns">
+	 
+		<div class="">
+			<p><a target="_blank" href="https://en.wikipedia.org/wiki/Albert_Einstein">
+				<img src="/img/placeholders/search-right.png" alt="Information supplémentaire"></a>
+			</p>
+		</div>
+
+      <!-- début -->
+      <br>
+      <div class="" id="recherche-actuelle">
+      <h5 class="text-left">Recherche en cours</h5>
+			<dl>
+			<dt>Données <a class="icon" title="Filtrer les données" href="#"><i class="fi-pencil"></i></a></dt>
+			<dd>
+				<ul>
+					<li><span>Données triées par = Pertinence</span></li>
+					<li><span>Données en ordre = Descendant</span></li>
+				</ul>
+			</dd>
+			<dt>Termes <a class="icon" title="Ajouter un terme" href="#"><i class="fi-plus"></i></a>
+			</dt>
+			<dd>
+				<ul>
+					<li><span>Physicist</span></li>
+					<li><span>Albert Einstein</span></li>
+				</ul>
+			</dd>
+			<dt>Filtres&nbsp;
+				<a class="icon" title="Modifier filtres actuels" href="#"><i class="fi-pencil"></i></a>&nbsp;
+				<a class="icon" title="Ajouter un filtre" href="#"><i class="fi-plus"></i></a>
+			</dt>
+			<dd>
+				<ul>
+				<li><span><em>Langue</em> = Français ou Anglais</span></li>
+				<li><span><em>Date d'édition</em> &gt; 2014-01-01</span></li>
+				<li><span><em>Date d'édition</em> &lt; 2016-01-31</span></li>
+				<li><span><em>Format</em> = HTML</span></li>
+				</ul>
+			</dd>
+			</dl>
+		<br>
+		</div>
+      <!-- fin -->
+
+ </div>
+</div>
+<br>
+
+<!-- FOOTER -->
+<%= partials.footer({ pagination: true, lastPage: '500', updated: '2016-11-03 à 05:18' }) %>
+
+<!-- SCRIPTS -->
+<%= partials.scripts() %>
+
+</body>
+</html>

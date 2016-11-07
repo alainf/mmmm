@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<%= partials.mmhead({ title: 'PhD Agenda' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercher() %>
+
+<!-- title -->
+<div class="row" id="title line">
+  <div class="large-12 medium-12 small-12 columns">
+    <div class="callout">
+      <h3 id="page-main-title" class="text-center">Agenda</h3>
+      <p class="text-center"><em>Activités de cette communauté</em></p>
+      <blockquote class="text-center">Un agenda est un outil permettant d'associer des actions à des moments, et d'organiser ainsi son temps.<br>Il est utilisé afin de permettre à son utilisateur de planifier, de noter son emploi du temps, ses rendez-vous, etc.</blockquote>
+    </div>
+  </div>
+</div>
+
+<!-- INTERFACE -->
+
+<div class="row" id="top-row">
+	<div class="large-12 medium-12 small-12 columns" id="grid-center">
+
+		<!-- Horizontal TABS -->
+		<ul class="tabs" data-tabs id="page-tabs">
+		  <li class="tabs-title is-active"><a href="#du-nouveau" aria-selected="true"><span class="larger-text">Du nouveau</span></a></li>
+		  <li class="tabs-title"><a href="#appels-a-communication"><span class="larger-text">Appels</span></a></li>
+		  <li class="tabs-title"><a href="#bourses"><span class="larger-text">Bourses</span></a></li>
+		  <li class="tabs-title"><a href="#conferences"><span class="larger-text">Conférences</span></a></li>
+		  <li class="tabs-title"><a href="#congres"><span class="larger-text">Congrès</span></a></li>
+		  <li class="tabs-title"><a href="#emplois"><span class="larger-text">Emplois</span></a></li>
+		  <li class="tabs-title"><a href="#etudes"><span class="larger-text">Études</span></a></li>
+		  <li class="tabs-title"><a href="#lancements"><span class="larger-text">Lancements</span></a></li>
+		  <li class="tabs-title"><a href="#quoi-faire"><span class="larger-text">Quoi faire</span></a></li>
+		  <li class="tabs-title"><a href="#rendez-vous"><span class="larger-text">Rendez-vous</span></a></li>
+		</ul>
+
+		<div class="tabs-content" data-tabs-content="page-tabs">
+
+		  <div class="tabs-panel is-active" id="du-nouveau">
+				<div class="">
+					<div><h4>Du nouveau</h4></div>
+					<div class="content">
+					<p>Avis concernant ce qu'il y a de nouveau.</p>
+					<dl>
+						<dt>Avis #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Avis #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Avis #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez du nouveau">Proposez du nouveau</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="appels-a-communication">
+				<div class="">
+					<div><h4>Appels à communication</h4></div>
+					<div class="content">
+					<p>Appels à communication qui intéresseront les membres de cette communauté.</p>
+					<dl>
+						<dt>Appel #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Appel #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Appel #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez un appel à communication">Proposez un appel à communication</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="bourses">
+				<div class="">
+					<div><h4>Bourses</h4></div>
+					<div class="content">
+					<p>Bourses qui intéresseront les membres de cette communauté.</p>
+					<dl>
+						<dt>Bourse #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Bourse #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Bourse #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez une conférence">Proposez une bourse</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="conferences">
+				<div class="">
+					<div><h4>Conférences</h4></div>
+					<div class="content">
+					<p>Conférences qui intéresseront les membres de cette communauté.</p>
+					<dl>
+						<dt>Conférence #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Conférence #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Conférence #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez une conférence">Proposez une conférence</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="congres">
+				<div class="">
+					<div><h4>Congrès</h4></div>
+					<div class="content">
+					<p>Congrès qui intéresseront les membres de cette communauté.</p>
+					<dl>
+						<dt>Congrès #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Congrès #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Congrès #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez un congrès">Proposez un congrès</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="emplois">
+				<div class="">
+					<div><h4>Emplois</h4></div>
+					<div class="content">
+					<p>Emplois qui intéresseront les membres de cette communauté.</p>
+					<dl>
+						<dt>Emploi #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Emploi #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Emploi #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez du nouveau">Proposez un emploi</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="etudes">
+				<div class="">
+					<div><h4>Études</h4></div>
+					<div class="content">
+					<p>Événements et tâches en rapport aux études.</p>
+					<dl>
+						<dt>Études #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Études #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Études #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez un événement">Proposez un événement</a></p>
+					<p><a href="#" class="hollow button" title="Proposez une tâche">Proposez une tâche</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="lancements">
+				<div class="">
+					<div><h4>Lancements</h4></div>
+					<div class="content">
+					<p>Lancements [de livres] qui intéresseront les membres de cette communauté.</p>
+					<dl>
+						<dt>Lancement #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Lancement #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Lancement #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez un lancement">Proposez un lancement</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="quoi-faire">
+				<div class="">
+					<div><h4>Quoi faire</h4></div>
+					<div class="content">
+					<p>Activités de divertissement qui intéresseront les membres de cette communauté.</p>
+					<dl>
+						<dt>Activité #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Activité #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Activité #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez une activité">Proposez une activité</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		  <div class="tabs-panel" id="rendez-vous">
+				<div class="">
+					<div><h4>Rendez-vous</h4></div>
+					<div class="content">
+					<p>Les rendez-vous de la communauté.</p>
+					<dl>
+						<dt>Rendez-vous #1</dt>
+						<dd><p>data</p></dd>
+						<dt>Rendez-vous #2</dt>
+						<dd><p>data</p></dd>
+						<dt>Rendez-vous #3</dt>
+						<dd><p>data</p></dd>
+					</dl>
+					<p><a href="#" class="hollow button" title="Proposez un rendez-vous">Proposez un rendez-vous</a></p>
+					<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+					</div>
+				</div>
+		  </div>
+
+		</div>
+	</div>
+</div>
+
+<!-- FOOTER -->
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-03 à 06:51' }) %>
+
+<!-- SCRIPTS -->
+<%= partials.scripts() %>
+
+</body>
+</html>

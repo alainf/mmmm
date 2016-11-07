@@ -1,0 +1,425 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+
+<%= partials.mmhead({ title: 'Test Zurb' }) %>
+
+<body><br>
+
+<!-- pagination dans breadcrumb -->
+<div class="" id="pagination-mini">
+	<ul class="pagination text-center" role="navigation" aria-label="Pagination">
+		<li class="pagination-previous"><a href="#" aria-label="Previous page"></a></li>
+		<li class="pagination-next"><a href="#" aria-label="Next page"></a></li>
+	</ul>
+</div>
+
+<p class="icon"><a title="Mon agenda" href="#"><i class="fi-plus"></a></i></p>
+
+			<!-- nested ROW -->
+			<div class="row" id="form-photo">
+				<div class="large-6 medium-6 small-6 columns">
+					<div class="">
+						<p><strong>Ma photo</strong></p>
+						<p>Photo qui accompagne mes contributions.</p>
+						<form>
+							<label for="fileUpload" class="button">Téléverser image ...</label>
+							<input type="file" id="fileUpload" class="show-for-sr">
+						</form>
+						<p class="text-center"><em>Veuillez téléverser une image d'une taille d'environ 200 pixels par 200 pixels.</em></p>
+					</div>
+				</div>
+				<div class="large-6 medium-6 small-6 columns">
+					<div class="">
+						<p class="text-center"><img src="img/membres/me.jpg" width="200" height="200" alt="Alain"></p>
+					</div>
+				</div>
+			</div>
+
+<div class="row">
+	<div class="small-3 columns">
+		<div class="callout clearfix">
+			<ul class="vertical dropdown menu" data-dropdown-menu>
+			<li>
+				<a href="#">Section 1</a>
+				<ul class="menu vertical nested">
+				<li><a href="#">Sous-section 1A</a></li>
+				<li><a href="#">Sous-section 1B</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Section 2</a>
+				<ul class="menu vertical nested">
+				<li><a href="#">Sous-section 2A</a></li>
+				<li><a href="#">Sous-section 2B</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Section 3</a>
+				<ul class="menu vertical nested">
+				<li><a href="#">Sous-section 3A</a></li>
+				<li><a href="#">Sous-section 3B</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Section 4</a>
+				<ul class="menu vertical nested">
+				<li><a href="#">Sous-section 4A</a></li>
+				<li><a href="#">Sous-section 4B</a></li>
+				</ul>
+			</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<br>
+
+<div class="row">
+	<div class="small-12 columns">
+		<div class="callout primary clearfix">
+			<a class="alert button float-left">Float left</a>
+			<a class="warning button float-right">Float right</a>
+		</div>
+	</div>
+</div>
+
+<p>Goutte qui fait déborder le <s>verre</s>.</p>
+<p>Goutte qui fait déborder le <b>vase</b>.</p>
+
+<!-- Vertical TABS -->
+
+<div class="row collapse">
+  <div class="medium-3 columns">
+    <ul class="tabs vertical" id="example-vert-tabs" data-tabs>
+      <li class="tabs-title is-active"><a href="#panel1v" aria-selected="true">Tab 1</a></li>
+      <li class="tabs-title"><a href="#panel2v">Tab 2</a></li>
+      <li class="tabs-title"><a href="#panel3v">Tab 3</a></li>
+      <li class="tabs-title"><a href="#panel4v">Tab 4</a></li>
+      <li class="tabs-title"><a href="#panel5v">Tab 5</a></li>
+      <li class="tabs-title"><a href="#panel6v">Tab 6</a></li>
+    </ul>
+    </div>
+    <div class="medium-9 columns">
+    <div class="tabs-content vertical" data-tabs-content="example-vert-tabs">
+      <div class="tabs-panel is-active" id="panel1v">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      </div>
+      <div class="tabs-panel" id="panel2v">
+        <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+      </div>
+      <div class="tabs-panel" id="panel3v">
+        <img class="thumbnail" src="img/dans-articles/wagonwheel.jpg" width="300" height="300">
+      </div>
+      <div class="tabs-panel" id="panel4v">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      </div>
+      <div class="tabs-panel" id="panel5v">
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </div>
+      <div class="tabs-panel" id="panel6v">
+        <img class="thumbnail" src="img/dans-articles/Philippe_Couillard.jpg">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Horizontal TABS -->
+
+<ul class="tabs" data-tabs id="example-tabs">
+  <li class="tabs-title is-active"><a href="#panel1" aria-selected="true">Tab 1</a></li>
+  <li class="tabs-title"><a href="#panel2">Tab 2</a></li>
+  <li class="tabs-title"><a href="#panel3">Tab 3</a></li>
+  <li class="tabs-title"><a href="#panel4">Tab 4</a></li>
+</ul>
+
+<div class="tabs-content" data-tabs-content="example-tabs">
+  <div class="tabs-panel is-active" id="panel1">
+    <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+  </div>
+  <div class="tabs-panel" id="panel2">
+    <p>Suspendisse dictum feugiat nisl ut dapibus.  Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor.  Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
+  </div>
+  <div class="tabs-panel" id="panel3">
+    <p>CLONE de Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+     <p>CLONE de Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+      <p>CLONE de Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+  </div>
+  <div class="tabs-panel" id="panel4">
+    <p>CLONE de Suspendisse dictum feugiat nisl ut dapibus.  Vivamus hendrerit arcu sed erat molestie vehicula. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor.  Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.</p>
+  </div>
+</div>
+
+<!-- TOOLTIPS -->
+
+<span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="SOUTHERN OCEAN AND CLIMATE FIELD STUDIES WITH INNOVATIVE TOOLS">SOCLIM</span>
+
+<p>
+The <span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover="false" tabindex="1" title="Fancy word for a beetle.">scarabaeus</span> hung quite clear of any branches, and, if allowed to fall, would have fallen at our feet. Legrand immediately took the scythe, and cleared with it a circular space, three or four yards in diameter, just beneath the insect, and, having accomplished this, ordered Jupiter to let go the string and come down from the tree.
+</p>
+
+<p>
+The <span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-hover="false" tabindex="1" title="Fancy word for a beetle.">scarabaeus</span> hung quite clear of any branches, and, if allowed to fall, would have fallen at our feet. Legrand immediately took the scythe, and cleared with it a circular space, three or four yards in diameter, just beneath the insect, and, having accomplished this, ordered Jupiter to let go the string and come down from the tree.
+</p>
+
+<p>
+ggggggggggggggggggggggggggggggggggggggggggg. The <span data-tooltip aria-haspopup="true" class="has-tip left" data-disable-hover="false" tabindex="1" title="Fancy word for a beetle.">scarabaeus</span> hung quite clear of any branches, and, if allowed to fall, would have fallen at our feet. Legrand immediately took the scythe, and cleared with it a circular space, three or four yards in diameter, just beneath the insect, and, having accomplished this, ordered Jupiter to let go the string and come down from the tree.
+</p>
+
+<!-- MODAL -->
+
+<div class="reveal" id="exampleModal1" data-reveal>
+  <h1>Awesome. I Have It.</h1>
+  <p class="lead">Your couch. It is mine.</p>
+  <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+
+<p><a data-open="exampleModal1">Click me for a modal</a></p>
+
+<!-- A full-screen modal is 100% of the width and height of the window. Add the .full class to make it go. -->
+
+<p><a data-toggle="exampleModal8">Click me for a full-screen modal</a></p>
+
+<div class="full reveal" id="exampleModal8" data-reveal>
+  <p>OH I'M SO FUUUUL</p>
+  <img src="http://placekitten.com/1920/1280" alt="Intropsective Cage">
+  <button class="close-button" data-close aria-label="Close reveal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+
+<!-- toggle dropdown pane -->
+<button class="button" type="button" data-toggle="example-dropdown">Toggle Dropdown</button>
+<div class="dropdown-pane" id="example-dropdown" data-dropdown data-auto-focus="true">
+  Example form in a dropdown.
+  <form>
+    <div class="row">
+      <div class="medium-6 columns">
+        <label>Name
+          <input type="text" placeholder="Kirk, James T.">
+        </label>
+      </div>
+      <div class="medium-6 columns">
+        <label>Rank
+          <input type="text" placeholder="Captain">
+        </label>
+      </div>
+    </div>
+  </form>
+</div>
+
+<!-- dropdown pane on hover -->
+<button class="button" type="button" data-toggle="example-dropdown-1">Hoverable Dropdown</button>
+<div class="dropdown-pane" id="example-dropdown-1" data-dropdown data-hover="true" data-hover-pane="true">
+  Just some junk that needs to be said. Or not. Your choice.
+</div>
+
+<!-- slider -->
+<div class="row" id="slider">
+	<div class="small-10 columns">
+	  <div class="slider" data-slider data-initial-start="1">
+		 <span class="slider-handle"  data-slider-handle role="slider" tabindex="1" aria-controls="sliderOutput1"></span>
+		 <span class="slider-fill" data-slider-fill></span>
+	  </div>
+	</div>
+	<div class="small-2 columns">
+	  <input type="number" id="sliderOutput1">
+	</div>
+</div>
+
+<!-- accordion menu -->
+<ul class="vertical menu" data-accordion-menu>
+  <li>
+    <a href="#">Item 1</a>
+    <ul class="menu vertical nested">
+      <li><a href="#">Item 1A</a></li>
+      <li><a href="#">Item 1B</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#">Item 2</a>
+    <ul class="menu vertical nested">
+      <li><a href="#">Item 2A</a></li>
+      <li><a href="#">Item 2B</a></li>
+    </ul>
+  </li>
+</ul>
+
+<!-- dropdown menu -->
+<div class="callout">
+<h5 class="text-left"><strong>Dropdown Menu</strong></h5>
+<ul class="menu dropdown" data-dropdown-menu>
+  <li class="active">
+    <a href="#">Item 1</a>
+    <ul class="menu">
+      <li><a href="#">Item 1A</a></li>
+      <li><a href="#">Item 1B</a></li>
+      <li><a href="#">Item 1C</a></li>
+    </ul>
+  </li>
+    <li>
+    <a href="#">Item 2</a>
+    <ul class="menu">
+      <li><a href="#">Item 2A</a></li>
+      <li><a href="#">Item 2B</a></li>
+      <li><a href="#">Item 2C</a></li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<!-- Vertical menu -->
+<div class="callout">
+<h5 class="text-left"><strong>Menu vertical</strong></h5>
+	<div class="secondary callout">
+		<ul class="menu vertical">
+			<li><a href="/fr/accueil"><strong>Français</strong></a></li>
+			<li><a href="/en/accueil">Anglais</a></li>
+			<li><a href="/es/accueil">Espagnol</a></li>
+			<li><a href="/it/accueil">Italien</a></li>
+			<li><a href="/ar/accueil">Arabe</a></li>
+			<li><a href="/ru/accueil">Russe</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- Right-aligned menu -->
+<div class="row" id="liens-publics">
+	<div class="large-12 medium-12 small-12 columns">
+		<ul class="menu align-right">
+		<li><a href="/fr/bye">Me déconnecter</a></li>
+		<li><a href="/fr/contactez-nous">Contactez-nous</a></li>
+		<li><a href="/fr/agenda">Agenda</a></li>
+		<li><a href="/fr/faq">FAQ</a></li>
+		<li><a href="/fr/apropos">À propos</a></li>
+		<li><a href="/fr/accueil">Accueil</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- Grid row -->
+<div class="row" id="title line">
+  <div class="large-12 medium-12 small-12 columns">
+    <div class="callout">
+      <h3 class="text-center">TITRE</h3>
+    </div>
+  </div>
+</div>
+
+<!-- HR row -->
+<div class="row" id="title-line-hr1">
+  <div class="large-12 medium-12 small-12 columns"><hr></div>
+</div>
+
+<!-- Grid row -->
+<div class="row" id="grid">
+	<!-- LEFT -->
+  <div class="large-3 medium-3 small-3 columns" id="grid-left">
+      <div class="callout">
+		<h5 class="text-center"><strong>GAUCHE</strong></h5>
+      </div>
+  </div>
+  <!-- CENTER -->
+  <div class="large-6 medium-6 small-6 columns" id="grid-center">
+      <div class="callout">
+		<h5 class="text-center"><strong>CENTRE</strong></h5>
+    </div>
+  </div>
+  <!-- RIGHT -->
+  <div class="large-3 medium-3 small-3 columns" id="grid-right">
+    <div class="callout">
+      <h5 class="text-center"><strong>DROITE</strong></h5>
+    </div>
+  </div>
+</div>
+
+<!-- 	CONTENT -->
+<div class="row" id="content-pane">
+  <div class="large-6 medium-6 small-6 columns">
+    <div class="callout" id="article">
+      <p class="text-justify">ARTICLE</p>
+    </div>
+  </div>
+  <div class="large-6 medium-6 small-6 columns">
+    <div class="callout" id="metadata">
+      <p class="text-left">ATTRIBUTS</p>
+    </div>
+  </div>
+</div>
+
+<!-- langues -->
+      <div class="callout">
+		<h5 class="text-center"><strong>Langues</strong></h5>
+		<div class="secondary callout">
+      <ul class="menu vertical">
+			<li><a href="/fr/accueil"><strong>Français</strong></a></li>
+			<li><a href="/en/accueil">Anglais</a></li>
+			<li><a href="/es/accueil">Espagnol</a></li>
+			<li><a href="/it/accueil">Italien</a></li>
+			<li><a href="/ar/accueil">Arabe</a></li>
+			<li><a href="/ru/accueil">Russe</a></li>
+		</ul>
+		</div>
+    </div>
+
+<ul class="pagination text-center" role="navigation" aria-label="Pagination">
+  <li class="pagination-previous disabled">Previous</li>
+  <li class="current"><span class="show-for-sr">You're on page</span> 1</li>
+  <li><a href="#" aria-label="Page 2">2</a></li>
+  <li><a href="#" aria-label="Page 3">3</a></li>
+  <li><a href="#" aria-label="Page 4">4</a></li>
+  <li class="ellipsis"></li>
+  <li><a href="#" aria-label="Page 12">12</a></li>
+  <li><a href="#" aria-label="Page 13">13</a></li>
+  <li class="pagination-next"><a href="#" aria-label="Next page">Next</a></li>
+</ul>
+
+<div class="media-object">
+  <div class="media-object-section">
+    <div class="thumbnail">
+      <img src="http://www.cite-sciences.fr/fileadmin/_processed_/csm_KERGUELEN-tempete-2_24df1f8d69.jpg" width="200" height="200">
+    </div>
+  </div>
+  <div class="media-object-section">
+    <h4>Dreams feel real while we're in them.</h4>
+    <p>I'm going to improvise. Listen, there's something you should know about me... about inception. An idea is like a virus, resilient, highly contagious. The smallest seed of an idea can grow. It can grow to define or destroy you.</p>
+  </div>
+</div>
+
+<dl>
+	<dt>A</dt>
+	<dd>data</dd>
+	<dt>B</dt>
+	<dd>
+		<ul class="menu vertical">
+		<li><a href="#attributs">Attributs</a></li>
+		<li><a href="#evaluation">Évaluation</a></li>
+		<li><a href="#commentaires">Commentaires</a></li>
+		</ul>
+	</dd>
+</dl>
+
+<dl>
+	<dt>A</dt>
+	<dd><p>data</p></dd>
+	<dt>B</dt>
+	<dd><p>data</p></dd>
+	<dt>C</dt>
+	<dd><p>data</p></dd>
+	<dt>D</dt>
+	<dd><p>data</p></dd>
+</dl>
+
+<br>
+
+<!-- 	SCRIPTS -->
+<script src="js/vendor/jquery.js"></script>
+<script src="js/vendor/what-input.js"></script>
+<script src="js/vendor/foundation.min.js"></script>
+<script>
+	$(document).foundation();
+</script>
+
+</body>
+</html>

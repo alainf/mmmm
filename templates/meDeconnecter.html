@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<%= partials.mmhead({ title: 'PhD Me-déconnecter' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercher() %>
+
+<%= partials.titreSeulement({ title: "Me déconnecter" }) %>
+
+<!-- INTERFACE -->
+<div class="row" id="title line">
+  <div class="large-12 medium-12 small-12 columns">
+    <div class="">
+      <h5 class="text-center">Merci d'avoir fréquenté notre journal. À la prochaine.</h5>
+      <h4 class="text-center"><a href="allo">Me connecter</a></h4>
+    </div>
+  </div>
+</div>
+
+<!-- SCRIPTS -->
+<%= partials.scripts() %>
+
+</body>
+</html>

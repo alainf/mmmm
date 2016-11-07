@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+
+<%= partials.mmhead({ title: 'Section Entreprise' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercherFiltrer() %>
+
+<!-- breadcrumb -->
+<div class="row">
+	<div class="large-12 medium-12 small-12 columns">
+	<nav>
+		<ul class="breadcrumbs">
+		<li>section:</li>
+		<li><a href="/fr/accueil">Accueil</a></li>
+		<li>Entreprise</li>
+		<li>
+			<a class="prev-page" href="#"><strong>&lt;</strong></a>
+			<span> Page 1 </span>
+			<a class="next-page" href="#"><strong>&gt;</strong></a>
+		</li>
+		</ul>
+	</nav>
+	</div>
+</div>
+
+<%= partials.mmPageHeader({ title: 'Entreprise', usertype: 'membre' }) %>
+
+<!-- INTERFACE -->
+
+<div class="row" id="grid">
+
+  <!-- Left -->
+
+  <div class="large-3 medium-3 small-3 columns" id="grid-left">
+		<!-- sections -->
+      <div class="">
+			<h5 class="text-center"><strong>Sections</strong></h5>
+			<div class="callout">
+			<ul class="menu vertical">
+			<li><a href="/fr/enConstruction">Acteurs de l'entreprise</a></li>
+			<li><a href="/fr/enConstruction">Formes d'organisations</a></li>
+			<li><a href="/fr/enConstruction">Industries</a></li>
+			<li><a href="/fr/enConstruction">Investissement</a></li>
+			<li><a href="/fr/enConstruction">L'environnement externe de l'entreprise</a></li>
+			<li><a href="/fr/enConstruction">L'environnement interne de l'entreprise</a></li>
+			<li><a href="/fr/enConstruction">Secteurs industriels</a></li>
+			<li><a href="/fr/enConstruction">Statut juridique</a></li>
+			</ul>
+			</div>
+		</div>
+		<!-- sujets -->
+      <div class="">
+			<h5 class="text-center"><strong>Sujets</strong></h5>
+			<div class="callout">
+				<ul class="menu vertical">
+				<li><a href="sujet-agriculture">Agriculture</a></li>
+				<li><a href="/fr/enConstruction">Architecture</a></li>
+				<li><a href="/fr/enConstruction">Art</a></li>
+				<li><a href="/fr/enConstruction">Droit</a></li>
+				<li><a href="/fr/enConstruction">Économie</a></li>
+				<li><a href="/fr/enConstruction">Finance</a></li>
+				<li><a href="/fr/enConstruction">Généralités</a></li>
+				<li><a href="/fr/enConstruction">Informatique</a></li>
+				<li><a href="/fr/enConstruction">Langage et linguistique</a></li>
+				<li><a href="/fr/enConstruction">Politique</a></li>
+				<li><a href="/fr/enConstruction">Sciences de la gestion</a></li>
+				<li><a href="/fr/enConstruction">Sciences de la santé</a></li>
+				<li><a href="/fr/enConstruction">Sciences de la terre</a></li>
+				<li><a href="/fr/enConstruction">Sciences de l'éducation</a></li>
+				<li><a href="/fr/enConstruction">Sciences de l'environnement</a></li>
+				<li><a href="/fr/enConstruction">Sciences de l'information et de la communication</a></li>
+				<li><a href="/fr/enConstruction">Sciences des matériaux</a></li>
+				<li><a href="/fr/enConstruction">Sciences économiques</a></li>
+				<li><a href="/fr/enConstruction">Sciences exactes</a></li>
+				<li><a href="/fr/enConstruction">Sciences humaines</a></li>
+				<li><a href="/fr/enConstruction">Sciences sociales</a></li>
+				<li><a href="/fr/enConstruction">Sport</a></li>
+				<li><a href="/fr/enConstruction">Urbanisme</a></li>
+				<li><a href="#<en-construction">Zoologie</a></li>
+				</ul>
+			</div>
+		</div>
+  </div>
+
+  <!-- Center -->
+  <div class="large-6 medium-6 small-6 columns" id="grid-center">
+    <div>
+		<br>
+		<%= partials.article1() %>
+		<hr>
+		<%= partials.article2() %>
+		<hr>
+		<%= partials.article3() %>
+		<hr>
+		<%= partials.article4() %>
+		<hr>
+		<%= partials.article5() %>
+		<hr>
+    </div>
+  </div>
+
+  <!-- Right -->
+  <div class="large-3 medium-3 small-3 columns" id="grid-right">
+    <div class="">
+      <h5 class="text-center"><strong><%- data.__('En bref') %></strong></h5>
+      <%= partials.breve1() %>
+		<%= partials.breve2() %>
+		<%= partials.breve3() %>
+		<%= partials.breve4() %>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<%= partials.footer({ pagination: true, lastPage: '2 000', updated: '2016-11-02 à 21:23' }) %>
+
+<!-- SCRIPTS -->
+<%= partials.scripts() %>
+
+</body>
+</html>
