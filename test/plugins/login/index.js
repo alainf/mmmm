@@ -71,7 +71,7 @@ lab.experiment('LOGIN Home Page View', () => {
   lab.beforeEach((done) => {
     request = {
       method: 'GET',
-      url: '/fr/'
+      url: '/fr/partials'
     }
 
     done()
