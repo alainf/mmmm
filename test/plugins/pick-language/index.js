@@ -50,7 +50,7 @@ lab.experiment('Home Page View', () => {
   lab.beforeEach((done) => {
     request = {
       method: 'GET',
-      url: '/fr/'
+      url: '/fr/partials'
     }
 
     done()
@@ -59,8 +59,8 @@ lab.experiment('Home Page View', () => {
   lab.test('home page renders properly (fr)', (done) => {
     server.inject(request, (response) => {
       Code.expect(response.result).to.match(/Choisir la langue/i)
-      Code.expect(response.result).to.match(/<li class="active">[^]+<a href="\/fr\/">Français<\/a>/i)
-      Code.expect(response.result).to.match(/<li>[^]+<a href="\/en\/">English<\/a>/i)
+      Code.expect(response.result).to.match(/<li class="active">[^]+<a href="\/fr\/partials">Français<\/a>/i)
+      Code.expect(response.result).to.match(/<li>[^]+<a href="\/en\/partials">English<\/a>/i)
       Code.expect(response.statusCode).to.equal(200)
 
       done()
@@ -72,7 +72,7 @@ lab.experiment('Home Page View (en)', () => {
   lab.beforeEach((done) => {
     request = {
       method: 'GET',
-      url: '/en/'
+      url: '/en/partials'
     }
 
     done()
@@ -81,8 +81,8 @@ lab.experiment('Home Page View (en)', () => {
   lab.test('home page renders properly', (done) => {
     server.inject(request, (response) => {
       Code.expect(response.result).to.match(/Pick your language/i)
-      Code.expect(response.result).to.match(/<li class="active">[^]+<a href="\/en\/">English<\/a>/i)
-      Code.expect(response.result).to.match(/<li>[^]+<a href="\/fr\/">Français<\/a>/i)
+      Code.expect(response.result).to.match(/<li class="active">[^]+<a href="\/en\/partials">English<\/a>/i)
+      Code.expect(response.result).to.match(/<li>[^]+<a href="\/fr\/partials">Français<\/a>/i)
       Code.expect(response.statusCode).to.equal(200)
 
       done()

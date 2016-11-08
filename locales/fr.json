@@ -1,15 +1,15 @@
 {
-	"Liste %s": "Liste %s",
-	"Bienvenue à la démonstration hapi/lodash": "Bienvenue à la démonstration hapi/lodash",
-	"Accueil": "Accueil",
-	"Accueil du journal": "Accueil du journal",
-	"En bref": "En bref",
-	"Page": "Page",
-	"Sections": "Sections",
-	"Sujets": "Sujets",
-	"Super titre pour un super site": "Super titre pour un super site",
-	"Choisir la langue": "Choisir la langue",
-	"fr": "fr",
-	"en": "en",
-	"Les docs": "Les docs"
+  "Liste %s": "Liste %s",
+  "Bienvenue à la démonstration hapi/lodash": "Bienvenue à la démonstration hapi/lodash",
+  "Accueil": "Accueil",
+  "Accueil du journal": "Accueil du journal",
+  "En bref": "En bref",
+  "Page": "Page",
+  "Sections": "Sections",
+  "Sujets": "Sujets",
+  "Super titre pour un super site": "Super titre pour un super site",
+  "Choisir la langue": "Choisir la langue",
+  "en": "English",
+  "fr": "Français",
+  "Les docs": "Les docs"
 }
