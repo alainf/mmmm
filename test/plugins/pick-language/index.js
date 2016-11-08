@@ -7,19 +7,22 @@ const Hapi = require('hapi')
 const Vision = require('vision')
 const Inert = require('inert')
 const I18N = require('hapi-i18n')
+const PickLanguage = require('../../../plugins/pick-language/index')
 const ContextApp = require('hapi-context-app')
 const HomePlugin = require('../../../server/web/index')
-const PickLanguage = require('../../../plugins/pick-language/index')
 
 const lab = exports.lab = Lab.script()
 let request
 let server
 
 lab.beforeEach((done) => {
-  const plugins = [PickLanguage, ContextApp, Inert, Vision, HomePlugin]
+  const plugins = [ContextApp, Inert, PickLanguage, Vision, HomePlugin]
   server = new Hapi.Server()
   server.connection({ port: Config.get('/port/web') })
-  server.settings.app = { siteTitle: Config.get('/app/siteTitle') }
+  server.settings.app = {
+    siteTitle: Config.get('/app/siteTitle'),
+    languages: Config.get('/i18n/locales')
+  }
 
   server.register(
     {
@@ -55,7 +58,9 @@ lab.experiment('Home Page View', () => {
 
   lab.test('home page renders properly (fr)', (done) => {
     server.inject(request, (response) => {
-      Code.expect(response.result).to.match(/Bienvenue à la démonstration hapi\/lodash/i)
+      Code.expect(response.result).to.match(/Choisir la langue/i)
+      Code.expect(response.result).to.match(/<li class="active">[^]+<a href="\/fr\/">Français<\/a>/i)
+      Code.expect(response.result).to.match(/<li>[^]+<a href="\/en\/">English<\/a>/i)
       Code.expect(response.statusCode).to.equal(200)
 
       done()
@@ -75,7 +80,9 @@ lab.experiment('Home Page View (en)', () => {
 
   lab.test('home page renders properly', (done) => {
     server.inject(request, (response) => {
-      Code.expect(response.result).to.match(/Welcome to the hapi\/lodash demonstration/i)
+      Code.expect(response.result).to.match(/Pick your language/i)
+      Code.expect(response.result).to.match(/<li class="active">[^]+<a href="\/en\/">English<\/a>/i)
+      Code.expect(response.result).to.match(/<li>[^]+<a href="\/fr\/">Français<\/a>/i)
       Code.expect(response.statusCode).to.equal(200)
 
       done()
