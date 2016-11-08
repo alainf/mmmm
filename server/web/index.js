@@ -64,6 +64,12 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
+    path: '/{languageCode}/multilingual',
+    handler: { view: 'multilingual' }
+  })
+
+  server.route({
+    method: 'GET',
     path: '/css/{param*}',
     handler: { directory: { path: 'assets/css/' } }
   })
@@ -85,5 +91,5 @@ exports.register = function (server, options, next) {
 
 exports.register.attributes = {
   name: 'web',
-  dependencies: ['hapi-i18n', 'vision', 'inert']
+  dependencies: ['hapi-i18n', 'hapi-context-app', 'vision', 'inert']
 }
