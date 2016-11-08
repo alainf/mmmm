@@ -1,9 +1,6 @@
 <!doctype html>
 <html>
-<head>
-  <title>hapi-demo</title>
-  <link rel="stylesheet" media="all" href="/css/foundation.css">
-</head>
+<%= partials.head(data) %>
 <body>
 <div class="row column">
 
@@ -47,12 +44,5 @@ On utilise ensuite le langage JavaScript pour faire des boucles. Par exemple:
 
 <h2>Suite</h2>
 <p>La suite, à propos des <a href="partials">bouts de <i>templates</i> (<i>partials</i>)</a>.</p>
-</div>
 
-<script src="/js/vendor/jquery.js"></script>
-<script src="/js/vendor/what-input.js"></script>
-<script src="/js/vendor/foundation.min.js"></script>
-<script src="/js/app.js"></script>
-
-</body>
-</html>
+<%= partials.foot(data) %>
