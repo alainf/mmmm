@@ -11,5 +11,15 @@
   "Choisir la langue": "Choisir la langue",
   "en": "English",
   "fr": "Français",
-  "Les docs": "Les docs"
+  "Les docs": "Les docs",
+  "Support multilingue": "Support multilingue",
+  "Exemple": "Exemple",
+  "%s cheval": {
+    "one": "%s cheval",
+    "other": "%s chevaux"
+  },
+  "%s livre": {
+    "one": "%s livre",
+    "other": "%s livres"
+  }
 }

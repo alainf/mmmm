@@ -20,8 +20,7 @@ exports.register = function (server, options, next) {
     'page-int',
     'resultats',
     'section',
-    'sujet',
-    'tests'
+    'sujet'
   ]
 
   server.views({
@@ -45,6 +44,17 @@ exports.register = function (server, options, next) {
     handler: {
       view: {
         template: 'index',
+        context: { items: sections.items, items2: sujets.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/tests',
+    handler: {
+      view: {
+        template: 'tests',
         context: { items: sections.items, items2: sujets.items }
       }
     }

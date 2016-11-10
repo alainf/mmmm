@@ -10,5 +10,15 @@
   "Super titre pour un super site": "Super titre pour un super site",
   "fr": "Français",
   "en": "English",
-  "Choisir la langue": "Pick your language"
+  "Choisir la langue": "Pick your language",
+  "Support multilingue": "Support multilingue",
+  "Exemple": "Exemple",
+  "%s cheval": {
+    "one": "%s cheval",
+    "other": "%s chevaux"
+  },
+  "%s livre": {
+    "one": "%s livre",
+    "other": "%s livres"
+  }
 }

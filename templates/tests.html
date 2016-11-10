@@ -5,6 +5,19 @@
 
 <body><br>
 
+<div class="row">
+	<div class="large-12 medium-12 small-12 columns">
+		<div class="callout">
+			<h3>Sections</h3>
+			<ol>
+			  <% data.items.forEach((item) => { %>
+			  <li><%- item %></li>
+			  <% }) %>
+			</ol>
+		</div>
+	</div>
+</div>
+
 <!-- pagination dans breadcrumb -->
 <div class="" id="pagination-mini">
 	<ul class="pagination text-center" role="navigation" aria-label="Pagination">
@@ -30,7 +43,7 @@
 				</div>
 				<div class="large-6 medium-6 small-6 columns">
 					<div class="">
-						<p class="text-center"><img src="img/membres/me.jpg" width="200" height="200" alt="Alain"></p>
+						<p class="text-center"><img src="/img/membres/me.jpg" width="200" height="200" alt="Alain"></p>
 					</div>
 				</div>
 			</div>
@@ -107,7 +120,7 @@
         <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
       </div>
       <div class="tabs-panel" id="panel3v">
-        <img class="thumbnail" src="img/dans-articles/wagonwheel.jpg" width="300" height="300">
+        <img class="thumbnail" src="/img/dans-articles/wagonwheel.jpg" width="300" height="300">
       </div>
       <div class="tabs-panel" id="panel4v">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -116,7 +129,7 @@
         <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
       <div class="tabs-panel" id="panel6v">
-        <img class="thumbnail" src="img/dans-articles/Philippe_Couillard.jpg">
+        <img class="thumbnail" src="/img/dans-articles/Philippe_Couillard.jpg">
       </div>
     </div>
   </div>
@@ -161,7 +174,7 @@ The <span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-h
 </p>
 
 <p>
-ggggggggggggggggggggggggggggggggggggggggggg. The <span data-tooltip aria-haspopup="true" class="has-tip left" data-disable-hover="false" tabindex="1" title="Fancy word for a beetle.">scarabaeus</span> hung quite clear of any branches, and, if allowed to fall, would have fallen at our feet. Legrand immediately took the scythe, and cleared with it a circular space, three or four yards in diameter, just beneath the insect, and, having accomplished this, ordered Jupiter to let go the string and come down from the tree.
+The <span data-tooltip aria-haspopup="true" class="has-tip left" data-disable-hover="false" tabindex="1" title="Fancy word for a beetle.">scarabaeus</span> hung quite clear of any branches, and, if allowed to fall, would have fallen at our feet. Legrand immediately took the scythe, and cleared with it a circular space, three or four yards in diameter, just beneath the insect, and, having accomplished this, ordered Jupiter to let go the string and come down from the tree.
 </p>
 
 <!-- MODAL -->
@@ -414,9 +427,9 @@ ggggggggggggggggggggggggggggggggggggggggggg. The <span data-tooltip aria-haspopu
 <br>
 
 <!-- 	SCRIPTS -->
-<script src="js/vendor/jquery.js"></script>
-<script src="js/vendor/what-input.js"></script>
-<script src="js/vendor/foundation.min.js"></script>
+<script src="/js/vendor/jquery.js"></script>
+<script src="/js/vendor/what-input.js"></script>
+<script src="/js/vendor/foundation.min.js"></script>
 <script>
 	$(document).foundation();
 </script>
