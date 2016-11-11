@@ -55,7 +55,7 @@ exports.register = function (server, options, next) {
     handler: {
       view: {
         template: 'tests',
-        context: { items: sections.items, items2: sujets.items }
+        context: { lesSections: sections.items, lesSujets: sujets.items }
       }
     }
   })

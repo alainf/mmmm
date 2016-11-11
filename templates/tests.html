@@ -6,14 +6,24 @@
 <body><br>
 
 <div class="row">
-	<div class="large-12 medium-12 small-12 columns">
+	<div class="large-6 medium-6 small-6 columns">
 		<div class="callout">
 			<h3>Sections</h3>
-			<ol>
-			  <% data.items.forEach((item) => { %>
+			<ul>
+			  <% data.lesSections.forEach((item) => { %>
 			  <li><%- item %></li>
 			  <% }) %>
-			</ol>
+			</ul>
+		</div>
+	</div>
+	<div class="large-6 medium-6 small-6 columns">
+		<div class="callout">
+			<h3>Sujets</h3>
+			<ul>
+			  <% data.lesSujets.forEach((item) => { %>
+			  <li><%- item %></li>
+			  <% }) %>
+			</ul>
 		</div>
 	</div>
 </div>
