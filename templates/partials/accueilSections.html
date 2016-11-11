@@ -2,12 +2,11 @@
 	<div class="">
 		<div class="callout">
       <ul class="menu vertical">
-			<li><a href="/fr/enConstruction">Académique</a></li>
-			<li><a href="/fr/section">Entreprise</a></li>
-			<li><a href="/fr/enConstruction">Quoi faire en ville</a></li>
-			<li><a href="/fr/enConstruction">Revue de presse</a></li>
-			<li><a href="/fr/enConstruction">Société</a></li>
-			<li><a href="/fr/enConstruction">Vie culturelle</a></li>
+			<!-- debut -->
+			<% data.lesSections.forEach((item) => { %>
+			  <li><a href="/fr/enConstruction"><%- item %></a></li>
+			<% }) %>
+			<!-- fin -->
 		</ul>
 		</div>
 	</div>

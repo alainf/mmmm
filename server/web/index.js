@@ -5,7 +5,6 @@ exports.register = function (server, options, next) {
   const sujets = require('../../data/list2.json')
   const pages = [
     'abonnezVous',
-    'accueil',
     'agenda',
     'apropos',
     'articles',
@@ -55,6 +54,17 @@ exports.register = function (server, options, next) {
     handler: {
       view: {
         template: 'tests',
+        context: { lesSections: sections.items, lesSujets: sujets.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/accueil',
+    handler: {
+      view: {
+        template: 'accueil',
         context: { lesSections: sections.items, lesSujets: sujets.items }
       }
     }
