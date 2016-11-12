@@ -3,6 +3,8 @@
 exports.register = function (server, options, next) {
   const sections = require('../../data/list1.json')
   const sujets = require('../../data/list2.json')
+  const sujets2 = require('../../data/sujets-Agriculture.json')
+  const sections2 = require('../../data/sections-Entreprise.json')
   const pages = [
     'abonnezVous',
     'agenda',
@@ -17,9 +19,7 @@ exports.register = function (server, options, next) {
     'moi',
     'page-ext',
     'page-int',
-    'resultats',
-    'section',
-    'sujet'
+    'resultats'
   ]
 
   server.views({
@@ -66,6 +66,28 @@ exports.register = function (server, options, next) {
       view: {
         template: 'accueil',
         context: { lesSections: sections.items, lesSujets: sujets.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/sujet',
+    handler: {
+      view: {
+        template: 'sujet',
+        context: { lesSections: sections.items, lesSujets: sujets2.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/section',
+    handler: {
+      view: {
+        template: 'section',
+        context: { lesSections: sections2.items, lesSujets: sujets.items }
       }
     }
   })

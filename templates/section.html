@@ -34,57 +34,12 @@
 <div class="row" id="grid">
 
   <!-- Left -->
-
-  <div class="large-3 medium-3 small-3 columns" id="grid-left">
-		<!-- sections -->
-      <div class="">
-			<h5 class="text-center"><strong>Sections</strong></h5>
-			<div class="callout">
-			<ul class="menu vertical">
-			<li><a href="/fr/enConstruction">Acteurs de l'entreprise</a></li>
-			<li><a href="/fr/enConstruction">Formes d'organisations</a></li>
-			<li><a href="/fr/enConstruction">Industries</a></li>
-			<li><a href="/fr/enConstruction">Investissement</a></li>
-			<li><a href="/fr/enConstruction">L'environnement externe de l'entreprise</a></li>
-			<li><a href="/fr/enConstruction">L'environnement interne de l'entreprise</a></li>
-			<li><a href="/fr/enConstruction">Secteurs industriels</a></li>
-			<li><a href="/fr/enConstruction">Statut juridique</a></li>
-			</ul>
-			</div>
-		</div>
-		<!-- sujets -->
-      <div class="">
-			<h5 class="text-center"><strong>Sujets</strong></h5>
-			<div class="callout">
-				<ul class="menu vertical">
-				<li><a href="sujet-agriculture">Agriculture</a></li>
-				<li><a href="/fr/enConstruction">Architecture</a></li>
-				<li><a href="/fr/enConstruction">Art</a></li>
-				<li><a href="/fr/enConstruction">Droit</a></li>
-				<li><a href="/fr/enConstruction">Économie</a></li>
-				<li><a href="/fr/enConstruction">Finance</a></li>
-				<li><a href="/fr/enConstruction">Généralités</a></li>
-				<li><a href="/fr/enConstruction">Informatique</a></li>
-				<li><a href="/fr/enConstruction">Langage et linguistique</a></li>
-				<li><a href="/fr/enConstruction">Politique</a></li>
-				<li><a href="/fr/enConstruction">Sciences de la gestion</a></li>
-				<li><a href="/fr/enConstruction">Sciences de la santé</a></li>
-				<li><a href="/fr/enConstruction">Sciences de la terre</a></li>
-				<li><a href="/fr/enConstruction">Sciences de l'éducation</a></li>
-				<li><a href="/fr/enConstruction">Sciences de l'environnement</a></li>
-				<li><a href="/fr/enConstruction">Sciences de l'information et de la communication</a></li>
-				<li><a href="/fr/enConstruction">Sciences des matériaux</a></li>
-				<li><a href="/fr/enConstruction">Sciences économiques</a></li>
-				<li><a href="/fr/enConstruction">Sciences exactes</a></li>
-				<li><a href="/fr/enConstruction">Sciences humaines</a></li>
-				<li><a href="/fr/enConstruction">Sciences sociales</a></li>
-				<li><a href="/fr/enConstruction">Sport</a></li>
-				<li><a href="/fr/enConstruction">Urbanisme</a></li>
-				<li><a href="#<en-construction">Zoologie</a></li>
-				</ul>
-			</div>
-		</div>
-  </div>
+	<div class="large-3 medium-3 small-3 columns" id="grid-left">
+		<h5 class="text-center"><strong><%- data.__('Sections') %></strong></h5>
+		<%= partials.getSections(data) %>
+		<h5 class="text-center"><strong><%- data.__('Sujets') %></strong></h5>
+		<%= partials.getSujets(data) %>
+	</div>
 
   <!-- Center -->
   <div class="large-6 medium-6 small-6 columns" id="grid-center">

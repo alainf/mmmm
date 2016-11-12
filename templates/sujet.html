@@ -34,46 +34,14 @@
 <div class="row" id="grid">
 
 	<!-- Left -->
-
 	<div class="large-3 medium-3 small-3 columns" id="grid-left">
-		<!-- sections -->
-		<div class="">
-			<h5 class="text-center"><strong>Sections</strong></h5>
-			<div class="callout">
-			<ul class="menu vertical">
-				<li><a href="/fr/enConstruction">Académique</a></li>
-				<li><a href="/fr/section">Entreprise</a></li>
-				<li><a href="/fr/enConstruction">La société</a></li>
-				<li><a href="/fr/enConstruction">Quoi faire en ville</a></li>
-				<li><a href="/fr/enConstruction">Revue de presse</a></li>
-				<li><a href="/fr/enConstruction">Vie culturelle</a></li>
-			</ul>
-			</div>
-		</div>
-		<!-- sujets -->
-      <div class="">
-			<h5 class="text-center"><strong>Sujets</strong></h5>
-			<div class="callout">
-				<ul class="menu vertical">
-				<li><a href="/fr/enConstruction">Acériculture</a></li>
-				<li><a href="/fr/enConstruction">Agriculture généralités</a></li>
-				<li><a href="/fr/enConstruction">Agrocarburants</a></li>
-				<li><a href="/fr/enConstruction">Aquaculture</a></li>
-				<li><a href="/fr/enConstruction">Botanique</a></li>
-				<li><a href="/fr/enConstruction">Conservation des ressources naturelles</a></li>
-				<li><a href="/fr/enConstruction">Expérimentation agricole</a></li>
-				<li><a href="/fr/enConstruction">Foresterie</a></li>
-				<li><a href="/fr/enConstruction">Industrie alimentaire</a></li>
-				<li><a href="/fr/enConstruction">Pêche</a></li>
-				<li><a href="/fr/enConstruction">Sciences de l'alimentation</a></li>
-				<li><a href="/fr/enConstruction">Viticulture</a></li>
-				<li><a href="/fr/enConstruction">Zootechnie (agriculture)</a></li>
-				</ul>
-			</div>
-		</div>
-  </div>
+		<h5 class="text-center"><strong><%- data.__('Sections') %></strong></h5>
+		<%= partials.getSections(data) %>
+		<h5 class="text-center"><strong><%- data.__('Sujets') %></strong></h5>
+		<%= partials.getSujets(data) %>
+	</div>
 
-    <!-- Center -->
+  <!-- Center -->
   <div class="large-6 medium-6 small-6 columns" id="grid-center">
     <div>
 		<br>
