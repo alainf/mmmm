@@ -135,11 +135,11 @@
 			<!-- informations -->
 			<div class="content">
 				<dl>
-				<dt>Langues <a class="icon" title="Ajouter une langue" href="#"><i class="fi-plus"></i></a></dt>
+				<dt>Langues <%= partials.ajouterLangue() %></dt>
 				<dd><p>Français, Anglais</p></dd>
-				<dt>Lieux <a class="icon" title="Ajouter un lieu" href="#"><i class="fi-plus"></i></a></dt>
+				<dt>Lieux <%= partials.ajouterLieu() %></dt>
 				<dd><p>Montréal, Québec, Canada</p></dd>
-				<dt>Thème <a class="icon" title="Choisir un thème" href="#"><i class="fi-pencil"></i></a></dt>
+				<dt>Thème <%= partials.choisirTheme() %></dt>
 				<dd><p>Pas de thème particulier.</p></dd>
 				<dt>Traduire avec Google Translate</dt>
 				<dd>
@@ -164,17 +164,17 @@
 					<tr>
 						<td><em>Sujet</em></td>
 						<td><em>Breadcrumb</em></td>
-						<td><em>Retirer</em></td>
+						<td class="larger-text"><i class="fi-minus"></i></td>
 					</tr>
 					<tr>
 						<td><a href="#">Agriculture</a></td>
 						<td>Sujet/Agriculture/</td>
-						<td><a href="#">Retirer</a></td>
+						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 					</tr>
 					<tr>
 						<td><a href="#">Acériculture</a></td>
 						<td>Sujet/Agriculture/Acériculture/</td>
-						<td><a href="#">Retirer</a></td>
+						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 					</tr>
 				</table>
 				<!-- fin table -->
@@ -186,17 +186,17 @@
 					<tr>
 						<td><em>Sujet</em></td>
 						<td><em>Breadcrumb</em></td>
-						<td><em>Choisir</em></td>
+						<td class="larger-text"><a href="#"><i class="fi-plus"></i></a></td>
 					</tr>
 					<tr>
 						<td><a href="#">Agriculture</a></td>
 						<td>Sujet/Agriculture/</td>
-						<td><a href="#">Choisir</a></td>
+						<td class="larger-text"><a href="#"><i class="fi-plus"></i></a></td>
 					</tr>
 					<tr>
 						<td><a href="#">Acériculture</a></td>
 						<td>Sujet/Agriculture/Acériculture/</td>
-						<td><a href="#">Choisir</a></td>
+						<td class="larger-text"><a href="#"><i class="fi-plus"></i></a></td>
 					</tr>
 				</table>
 				<!-- fin table -->
@@ -219,7 +219,7 @@
 	  <div class="tabs-panel" id="mes-favoris">
 		<div class="" id="bloc-5">
 			<div><h4>Favoris</h4></div>
-			<p>Favoris seront privilégiés lors de l'affichage des informations.<br>Ils sont spécifiés en contexte.<br></p>
+			<p>Favoris seront privilégiés lors de l'affichage des informations.<br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .<br></p>
 			<div><h5>Affichage</h5></div>
 			<div class="row">
 				<div class="large-6 medium-6 small-6 columns">
@@ -293,32 +293,27 @@
 					<tr>
 						<td><em>Nom</em></td>
 						<td><em>Type</em></td>
-						<td><em>Consulter</em></td>
-						<td><em>Retirer</em></td>
+						<td class="larger-text"><i class="fi-minus"></i></td>
 					</tr>
 					<tr>
-						<td>Agriculture</td>
+						<td><a href="#">Agriculture</a></td>
 						<td>Sujet</td>
-						<td><a href="#">Lien vers page</a></td>
-						<td><a href="#">Retirer</a></td>
+						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 					</tr>
 					<tr>
-						<td>Berthiaume, Claude</td>
+						<td><a href="#">Berthiaume, Claude</a></td>
 						<td>Personne</td>
-						<td><a href="#">Lien vers page</a></td>
-						<td><a href="#">Retirer</a></td>
+						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 					</tr>
 					<tr>
-						<td>Entreprise</td>
+						<td><a href="#">Entreprise</a></td>
 						<td>Section</td>
-						<td><a href="#">Lien vers page</a></td>
-						<td><a href="#">Retirer</a></td>
+						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 					</tr>
 					<tr>
-						<td>Mission SOCLIM – Carnet de bord #2</td>
+						<td><a href="#">Mission SOCLIM – Carnet de bord #2</a></td>
 						<td>Article</td>
-						<td><a href="#">Lien vers page</a></td>
-						<td><a href="#">Retirer</a></td>
+						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 					</tr>
 				</table>
 				<!-- fin table -->
@@ -330,6 +325,7 @@
 	<div class="tabs-panel" id="mes-notifications">
 		<div class="" id="bloc-6">
 			<div><h4>Notifications</h4></div>
+			<p>Notifications sont spécifiées en contexte, en cliquant sur <i class="fi-rss"></i> .<br></p>
 			<div><h5>Préférences</h5></div>
 			<div class="content">
 			<p class="secondary callout">Notifications sont souhaitées:
@@ -419,27 +415,27 @@
 			<tr>
 				<td><em>Nom et lien</em></td>
 				<td><em>Type</em></td>
-				<td><em>Retirer</em></td>
+				<td class="larger-text"><i class="fi-minus"></i></td>
 			</tr>
 			<tr>
 				<td><a href="#">Agriculture</a></td>
 				<td>Sujet</td>
-				<td><a href="#">Retirer</a></td>
+				<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 			</tr>
 			<tr>
 				<td><a href="#">Acériculture</a></td>
 				<td>Sujet</td>
-				<td><a href="#">Retirer</a></td>
+				<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 			</tr>
 			<tr>
 				<td><a href="#">Alain Farmer</a></td>
 				<td>Personne</td>
-				<td><a href="#">Retirer</a></td>
+				<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 			</tr>
 			<tr>
 				<td><a href="#">Site web de Sage Publications</a></td>
 				<td>Ressource</td>
-				<td><a href="#">Retirer</a></td>
+				<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
 				</tr>
 			</table>
 			<!-- fin table -->
@@ -457,15 +453,6 @@
 				<dd>
 					<blockquote>Mon profil est complété à 50%.<br>Le compléter afin d'en retirer tous les bénéfices.</blockquote>
 				</dd>
-				<dt>Paramètres de ma participation</dt>
-				<dd>
-					<ul>
-					<li><a href="/fr/moi#mes-notifications">Notifications</a></li>
-					<li><a href="#">Sécurité</a></li>
-					<li><a href="#">Confidentialité</a></li>
-					<li><a href="#">Vie privée</a></li>
-					</ul>
-				</dd>
 				<dt>Historique de ma participation</dt>
 				<dd>
 					<ul>
@@ -473,6 +460,15 @@
 					<li><em>Dernière participation</em>: 2016-10-28 à 18h10.</li>
 					<li><em>Points cumulés</em>: 12 345 points</li>
 					<li><em>Réputation</em>: très fiable.</li>
+					</ul>
+				</dd>
+				<dt>Paramètres de ma participation</dt>
+				<dd>
+					<ul>
+					<li><a href="/fr/moi#mes-notifications">Notifications</a></li>
+					<li><a href="#">Sécurité</a></li>
+					<li><a href="#">Confidentialité</a></li>
+					<li><a href="#">Vie privée</a></li>
 					</ul>
 				</dd>
 				</dl>
@@ -887,6 +883,7 @@
 	  <div class="tabs-panel" id="mes-meteos">
 		<div class="" id="bloc-7">
 			<div><h4>Météos</h4></div>
+			<div><p>Météo des lieux que vous avez choisis dans <a href="#mes-preferences"><span class="larger-text">Préférences</span></a>.</p></div>
 			<div class="row">
 				<form>
 				<div class="large-4 medium-4 small-4 columns">
@@ -922,7 +919,7 @@
 </div>
 
 <!-- FOOTER -->
-<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-03 à 07:27' }) %>
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-12 à 12:56' }) %>
 
 <!-- SCRIPTS -->
 <%= partials.scripts() %>
