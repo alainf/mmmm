@@ -4,13 +4,13 @@
 		<ul class="menu align-right">
 		<!-- -->
 		<% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
-		<li><a href="/fr/bye">Me déconnecter</a></li>
+		<li><a href="/fr/meDeconnecter">Me déconnecter</a></li>
 		<% } else { %>
-		<li><a href="/fr/allo">Me connecter</a></li>
+		<li><a href="/fr/meConnecter">Me connecter</a></li>
 		<% } %>
 		<!-- -->
 		<% if (data.usertype === 'anonyme') { %>
-			<li><a href="/fr/abonnez-vous">M'abonner</a></li>
+			<li><a href="/fr/abonnezVous">M'abonner</a></li>
 		<% } %>
 		<!-- -->
 		<% if (data.usertype === 'membre' || data.usertype === 'admin') { %>

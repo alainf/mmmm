@@ -41,25 +41,31 @@
   
   <div class="large-5 medium-5 small-5 columns">
 	 
+		<!-- capsule -->
 		<div class="">
 			<p><a target="_blank" href="https://en.wikipedia.org/wiki/Albert_Einstein">
 				<img src="/img/placeholders/search-right.png" alt="Information supplémentaire"></a>
 			</p>
 		</div>
 
-      <!-- début -->
+      <!-- recherche -->
       <br>
       <div class="" id="recherche-actuelle">
       <h5 class="text-left">Recherche en cours</h5>
 			<dl>
-			<dt>Données <a class="icon" title="Filtrer les données" href="#"><i class="fi-pencil"></i></a></dt>
+			<dt>Données</dt>
 			<dd>
-				<ul>
-					<li><span>Données triées par = Pertinence</span></li>
-					<li><span>Données en ordre = Descendant</span></li>
-				</ul>
+				<select>
+				<option value="trier-par-pertinence" selected>Données triées par pertinence</option>
+				<option value="trier-par-titre">Données triées par titre</option>
+				<option value="trier-par-date">Données triées par date</option>
+				</select>
+				<select>
+				<option value="ascendant" selected>Données en ordre ascendant</option>
+				<option value="descendant">Données en ordre descendant</option>
+				</select>
 			</dd>
-			<dt>Termes <a class="icon" title="Ajouter un terme" href="#"><i class="fi-plus"></i></a>
+			<dt>Termes <%= partials.ajouterTerme() %></a>
 			</dt>
 			<dd>
 				<ul>
@@ -82,7 +88,7 @@
 			</dl>
 		<br>
 		</div>
-      <!-- fin -->
+      <!-- fin recherche -->
 
  </div>
 </div>
