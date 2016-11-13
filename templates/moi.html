@@ -823,34 +823,8 @@
 					<li><strong><a title="Retirer une tâche" href="#">Retirer</a></strong> une tâche<br></li>
 				</ul>
 			</div>
-			<!-- table -->
-			<table class="hover">
-			<tr>
-			<td width="20%"><em>Moment</em></td>
-			<td width="5%"><em>&nbsp;</em></td>
-			<td width="60%"><em>Tâche</em></td>
-			<td width="15%"><em>Accomplie</em></td>
-			</tr>
-			<tr>
-				<td>2016-11-01-13h</td>
-				<td><span title="U" class="success badge">U</span></td>
-				<td><a href="#">Exemple #1 d'une tâche</a></td>
-				<td><a title="Tâche est accomplie" href="#">Oui</a> &nbsp;&nbsp; <a title="Retirer cette tâche" href="#"><i class="fi-minus"></i></a></td>
-			</tr>
-			<tr>
-				<td>2016-11-02-13h</td>
-				<td><span title="G" class="warning badge">G</span></td>
-				<td><a href="#">Exemple #2 d'une tâche</a></td>
-				<td><a title="Tâche n'est pas accomplie" href="#">Non</a> &nbsp; <a title="Retirer cette tâche" href="#"><i class="fi-minus"></i></a></td>
-			</tr>
-			<tr>
-				<td>2016-11-23-20h</td>
-				<td><span title="S" class="alert badge">S</span></td>
-				<td><a href="#">Exemple #3 d'une tâche</a></td>
-				<td><a title="Tâche n'est pas accomplie" href="#">Non</a> &nbsp; <a title="Retirer cette tâche" href="#"><i class="fi-minus"></i></a></td></tr>
-			</table>
-			<!-- fin table -->
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+			<%= partials.tableTaches() %>
+			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
 		</div>
 	  </div>
 
