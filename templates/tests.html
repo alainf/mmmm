@@ -5,6 +5,66 @@
 
 <body><br>
 
+<p><a data-open="modalTrierTaches">Trier tâches</a></p>
+<div class="reveal" id="modalTrierTaches" data-reveal>
+	<form>
+	<h4 class="text-center">Trier tâches</h4>
+	<div class="row">
+		<div class="large-6 medium-6 small-6 columns">
+			<div class="callout">
+			<p>Trier par:</p>
+			<input type="radio" name="trierPar" value="ParPertinence" id="ParPertinence" checked><label for="ParPertinence">Pertinence</label>
+			<br><input type="radio" name="trierPar" value="ParTitre" id="parTitre"><label for="parTitre">Titre</label>
+			<br><input type="radio" name="trierPar" value="ParDate" id="parDate"><label for="parDate">Date</label>
+			</div>
+		</div>
+		<div class="large-6 medium-6 small-6 columns">
+			<div class="callout">
+			<p>En ordre:</p>
+			<input type="radio" name="ordre" value="Ascendant" id="Ascendant" checked><label for="Ascendant">Ascendant</label>
+			<br><input type="radio" name="ordre" value="Descendant" id="Descendant"><label for="Descendant">Descendant</label>
+			</div>
+		</div>
+	</div>
+	</form>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
+</div>
+
+<p><a data-open="modalAjouterTache">Ajouter une tâche</a></p>
+
+<div class="large reveal" id="modalAjouterTache" data-reveal>
+	<h4>Ajouter une tâche</h4>
+	<p class="lead">Complétez le formulaire suivant:</p>
+	<form>
+	<dl>
+	<dt>Titre</dt>
+	<dd><input type="text" name="proposer-tache-titre"></dd>
+	<dt>URL</dt>
+	<dd><input type="text" name="proposer-tache-url"></dd>
+	<dt>Début</dt>
+	<dd><input type="text" name="proposer-tache-debut" placeholder="2016-11-11-13h"></dd>
+	<dt>Fin</dt>
+	<dd><input type="text" name="proposer-tache-fin" placeholder="2016-11-13-17h"></dd>
+	<dt>Description</dt>
+	<dd><textarea name="proposer-tache-body" placeholder="Exemple"></textarea></dd>
+	</dl>
+	<p><a href="#" class="button" title="Ajoutez une tâche">Ajouter</a></p>
+	</form>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
+</div>
+
+<div class="switch">
+  <input class="switch-input" id="yes-no" type="checkbox" name="exampleSwitch">
+  <label class="switch-paddle" for="yes-no">
+    <span class="switch-active" aria-hidden="true">Oui</span>
+    <span class="switch-inactive" aria-hidden="true">N</span>
+  </label>
+</div>
+
 <ul class="accordion" data-accordion>
   <li class="accordion-item" data-accordion-item>
     <a href="#" class="accordion-title">Janvier</a>
