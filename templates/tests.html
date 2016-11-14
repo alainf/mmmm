@@ -5,6 +5,62 @@
 
 <body><br>
 
+<div><h5>Affichage</h5></div>
+
+<div class="row">
+	<div class="large-6 medium-6 small-6 columns">
+		<div class="callout">
+			<p class="text-left">Présentement: <em>Aucun filtrage</em>.</p>
+			<p class="text-left">Filtrer par :</p>
+			<!-- begin dropdown menu -->
+			<div class="">
+				<ul class="menu dropdown" data-dropdown-menu>
+				<li class="active">
+					<a href="#"><strong>Choisir type</strong></a>
+					<ul class="menu">
+					<li><a href="#">Aucun filtrage</a></li>
+					<li><a href="#">Articles</a></li>
+					<li><a href="#">Personnes</a></li>
+					<li><a href="#">Ressources</a></li>
+					<li><a href="#">Sections</a></li>
+					<li><a href="#">Sujets</a></li>
+					<li><a href="#">Type n</a></li>
+					</ul>
+				</li>
+				</ul>
+			</div>
+			<!-- end dropdown menu -->
+		</div>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="large-6 medium-6 small-6 columns">
+		<div class="callout">
+			<p class="text-left">Présentement: Tableau trié par <em>Nom</em>.</p>
+			<p class="text-right">Trier par :</p>
+		</div>
+	</div>
+	<div class="large-6 medium-6 small-6 columns">
+		<div class="callout">
+			<!-- begin dropdown menu -->
+			<div class="text-left">
+				<ul class="menu dropdown" data-dropdown-menu>
+				<li class="active">
+					<a href="#"><strong>Choisir tri</strong></a>
+					<ul class="menu">
+					<li><a href="#">Nom</a></li>
+					<li><a href="#">Type</a></li>
+					</ul>
+				</li>
+				</ul>
+			</div>
+			<!-- end dropdown menu -->
+		</div>
+	</div>
+</div>
+
 <p><%= partials.modalAjouterTache() %></p>
 
 <p><%= partials.modalAjouterActivite() %></p>

@@ -319,7 +319,7 @@
 							<li><a href="#">Sujet</a></li>
 							<li><a href="#">Personne</a></li>
 							<li><a href="#">Ressource</a></li>
-							<li><a href="#">Catégorie n</a></li>
+							<li><a href="#">Type n</a></li>
 						 </ul>
 					  </li>
 					</ul>
@@ -715,30 +715,86 @@
 	  <div class="tabs-panel" id="mon-agenda">
 		<div class="" id="bloc-11">
 			<div><h4>Agenda</h4></div>
-			<div><blockquote>Gestion de mes tâches.</blockquote></div>
+
 			<div class="float-right">
-				<img src="/img/placeholders/agenda.jpg" width="400">
-			</div>
-			<div><h5>Légende</h5></div>
-			<div class="content">
+				<h5>Légende</h5>
 				<p>
 				<span title="U" class="success badge">U</span> Tâches ajoutées par l'<strong>utilisateur</strong><br>
 				<span title="G" class="warning badge">G</span> Tâches héritées de ses <strong>groupes</strong><br>
 				<span title="S" class="alert badge">S</span> Tâches ajoutées par le <strong>système</strong><br>
 				</p>
+				<img src="/img/placeholders/agenda.jpg" width="400">
 			</div>
+
 			<div><h5>Fonctions</h5></div>
 			<div class="content">
 				<ul>
 					<li><strong><%= partials.modalAjouterTache() %></strong><br></li>
-					<li><strong><a title="Modifier une tâche, donc Consulter aussi" href="#">Modifier</a></strong> une tâche<br></li>
-					<li><strong><a title="Trier tableau des tâches" href="#">Trier</a></strong> tableau des tâches<br></li>
-					<li><strong><a title="Filtrer tableau des tâches" href="#">Filtrer</a></strong> tableau des tâches<br></li>
-					<li><strong><a title="Commuter accomplissement d'une tâche" href="#">Commuter</a></strong> l'accomplissement d'une tâche<br></li>
-					<li><strong><a title="Retirer une tâche" href="#">Retirer</a></strong> une tâche<br></li>
+					<li><strong>Modifier</strong> une tâche<br></li>
+					<li><strong>Commuter</strong> l'accomplissement d'une tâche<br></li>
+					<li><strong>Retirer</strong> une tâche<br></li>
 				</ul>
 			</div>
+
+			<div class="row">
+				<div class="large-5 medium-5 small-5 columns">
+					<div class="">
+
+						<br><br>
+						
+						<p class="text-left">Présentement: <em>Aucun filtrage</em>.</p>
+						<table>
+							<tr>
+							<td class="text-right">Filtrer par :</td>
+							<td class="text-left">
+								<!-- begin dropdown menu -->
+								<ul class="menu dropdown" data-dropdown-menu>
+								<li class="active">
+									<a href="#"><strong>Choisir type</strong></a>
+									<ul class="menu">
+									<li><a href="#">Aucun filtrage</a></li>
+									<li><a href="#">Utilisateur</a></li>
+									<li><a href="#">Groupes</a></li>
+									<li><a href="#">Système</a></li>
+									</ul>
+								</li>
+								</ul>
+								<!-- end dropdown menu -->
+							</td>
+							</tr>
+						</table>
+						
+						<br>
+
+						<p class="text-left">Présentement: Trié par <em>Moment</em>.</p>
+						<table>
+							<tr>
+							<td class="text-right">Trier par :</td>
+							<td class="text-left">
+								<!-- begin dropdown menu -->
+								<ul class="menu dropdown" data-dropdown-menu>
+								<li class="active">
+									<a href="#"><strong>Choisir tri</strong></a>
+									<ul class="menu">
+									<li><a href="#">Moment</a></li>
+									<li><a href="#">Type</a></li>
+									<li><a href="#">Tâche</a></li>
+									<li><a href="#">Accomplie</a></li>
+									</ul>
+								</li>
+								</ul>
+								<!-- end dropdown menu -->
+							</td>
+							</tr>
+						</table>
+
+					</div>
+				</div>
+			</div>
+
+			<!-- table -->
 			<%= partials.tableTaches() %>
+			<!-- end table -->
 			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
 		</div>
 	  </div>
