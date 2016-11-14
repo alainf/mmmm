@@ -5,38 +5,35 @@
 
 <body><br>
 
-<p><a data-open="modalTrierTaches">Trier tâches</a></p>
-<div class="reveal" id="modalTrierTaches" data-reveal>
-	<form>
-	<h4 class="text-center">Trier tâches</h4>
-	<div class="row">
-		<div class="large-6 medium-6 small-6 columns">
-			<div class="callout">
-			<p>Trier par:</p>
-			<input type="radio" name="trierPar" value="ParPertinence" id="ParPertinence" checked><label for="ParPertinence">Pertinence</label>
-			<br><input type="radio" name="trierPar" value="ParTitre" id="parTitre"><label for="parTitre">Titre</label>
-			<br><input type="radio" name="trierPar" value="ParDate" id="parDate"><label for="parDate">Date</label>
-			</div>
-		</div>
-		<div class="large-6 medium-6 small-6 columns">
-			<div class="callout">
-			<p>En ordre:</p>
-			<input type="radio" name="ordre" value="Ascendant" id="Ascendant" checked><label for="Ascendant">Ascendant</label>
-			<br><input type="radio" name="ordre" value="Descendant" id="Descendant"><label for="Descendant">Descendant</label>
-			</div>
-		</div>
-	</div>
-	</form>
-	<button class="close-button" data-close aria-label="Close modal" type="button">
-		<span aria-hidden="true">&times;</span>
-	</button>
-</div>
+<p><%= partials.modalProposerRendezVous() %></p>
+
+<p><%= partials.modalProposerActivite() %></p>
+
+<p><%= partials.modalProposerLancement() %></p>
+
+<p><%= partials.modalProposerTache() %></p>
+
+<p><%= partials.modalProposerEmploi() %></p>
+
+<p><%= partials.modalProposerCongres() %></p>
+
+<p><%= partials.modalProposerConference() %></p>
+
+<p><%= partials.modalProposerBourse() %></p>
+
+<p><%= partials.modalProposerAppel() %></p>
+
+<p><%= partials.modalProposerNouveau() %></p>
+
+<%= partials.modalTrier({ ident: 'taches', title: 'mes tâches' }) %>
+
+<%= partials.modalTrier({ ident: 'articles', title: 'mes articles' }) %>
 
 <p><a data-open="modalAjouterTache">Ajouter une tâche</a></p>
 
 <div class="large reveal" id="modalAjouterTache" data-reveal>
 	<h4>Ajouter une tâche</h4>
-	<p class="lead">Complétez le formulaire suivant:</p>
+	<p>Complétez le formulaire suivant:</p>
 	<form>
 	<dl>
 	<dt>Titre</dt>
