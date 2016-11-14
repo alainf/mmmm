@@ -1,0 +1,29 @@
+<a data-open="modalAjouterTache">Ajouter une tâche</a>
+
+<div class="large reveal" id="modalAjouterTache" data-reveal>
+	<h4>Ajouter une tâche</h4>
+	<p>Ajoutez une tâche dans votre agenda.</p>
+	<form>
+	<dl>
+	<dt>Titre</dt>
+	<dd><input type="text" name="tache-titre"></dd>
+	<dt>URL</dt>
+	<dd><input type="text" name="tache-url"></dd>
+	<dt>Lieu</dt>
+	<dd><input type="text" name="tache-lieu"></dd>
+	<dt>Début</dt>
+	<dd><input type="text" name="tache-debut" placeholder="2016-11-11-13h"></dd>
+	<dt>Fin</dt>
+	<dd><input type="text" name="tache-fin" placeholder="2016-11-13-17h"></dd>
+	<dt>Description</dt>
+	<dd><textarea name="tache-contenu" placeholder="Exemple"></textarea></dd>
+	</dl>
+	<p>
+	<a href="#" class="button" title="Ajoutez une tâche">Ajouter</a>
+	<a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+	</p>
+	</form>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
+</div>

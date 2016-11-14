@@ -160,45 +160,13 @@
 			<div><h4>Mes sujets de recherche</h4></div>
 			<div class="content">
 				<!-- debut table -->
-				<table>
-					<tr>
-						<td><em>Sujet</em></td>
-						<td><em>Breadcrumb</em></td>
-						<td class="larger-text"><i class="fi-minus"></i></td>
-					</tr>
-					<tr>
-						<td><a href="#">Agriculture</a></td>
-						<td>Sujet/Agriculture/</td>
-						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-					</tr>
-					<tr>
-						<td><a href="#">Acériculture</a></td>
-						<td>Sujet/Agriculture/Acériculture/</td>
-						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-					</tr>
-				</table>
+				<%= partials.tableMesSujets() %>
 				<!-- fin table -->
 			</div>
 			<div><h4>Tous les sujets de recherche</h4></div>
 			<div class="content">
 				<!-- debut table -->
-				<table>
-					<tr>
-						<td><em>Sujet</em></td>
-						<td><em>Breadcrumb</em></td>
-						<td class="larger-text"><a href="#"><i class="fi-plus"></i></a></td>
-					</tr>
-					<tr>
-						<td><a href="#">Agriculture</a></td>
-						<td>Sujet/Agriculture/</td>
-						<td class="larger-text"><a href="#"><i class="fi-plus"></i></a></td>
-					</tr>
-					<tr>
-						<td><a href="#">Acériculture</a></td>
-						<td>Sujet/Agriculture/Acériculture/</td>
-						<td class="larger-text"><a href="#"><i class="fi-plus"></i></a></td>
-					</tr>
-				</table>
+				<%= partials.tableTousSujets() %>
 				<!-- fin table -->
 				<div class="row">
 					<div class="large-1 medium-1 small-1 columns">&nbsp;</div>
@@ -289,33 +257,7 @@
 			<div><h4>Mes favoris</h4></div>
 			<div class="content">
 				<!-- debut table -->
-				<table>
-					<tr>
-						<td><em>Nom</em></td>
-						<td><em>Type</em></td>
-						<td class="larger-text"><i class="fi-minus"></i></td>
-					</tr>
-					<tr>
-						<td><a href="#">Agriculture</a></td>
-						<td>Sujet</td>
-						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-					</tr>
-					<tr>
-						<td><a href="#">Berthiaume, Claude</a></td>
-						<td>Personne</td>
-						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-					</tr>
-					<tr>
-						<td><a href="#">Entreprise</a></td>
-						<td>Section</td>
-						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-					</tr>
-					<tr>
-						<td><a href="#">Mission SOCLIM – Carnet de bord #2</a></td>
-						<td>Article</td>
-						<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-					</tr>
-				</table>
+				<p><%= partials.tableFavoris() %></p>
 				<!-- fin table -->
 				<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
 			</div>
@@ -411,33 +353,7 @@
 			</div>
 			<div><br><h5>Ressources et termes concernés par les notifications</h5></div>
 			<!-- debut table -->
-			<table>
-			<tr>
-				<td><em>Nom et lien</em></td>
-				<td><em>Type</em></td>
-				<td class="larger-text"><i class="fi-minus"></i></td>
-			</tr>
-			<tr>
-				<td><a href="#">Agriculture</a></td>
-				<td>Sujet</td>
-				<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-			</tr>
-			<tr>
-				<td><a href="#">Acériculture</a></td>
-				<td>Sujet</td>
-				<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-			</tr>
-			<tr>
-				<td><a href="#">Alain Farmer</a></td>
-				<td>Personne</td>
-				<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-			</tr>
-			<tr>
-				<td><a href="#">Site web de Sage Publications</a></td>
-				<td>Ressource</td>
-				<td class="larger-text"><a href="#"><i class="fi-minus"></i></a></td>
-				</tr>
-			</table>
+			<%= partials.tableNotifications() %>
 			<!-- fin table -->
 			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
 		</div>
@@ -814,9 +730,8 @@
 			<div><h5>Fonctions</h5></div>
 			<div class="content">
 				<ul>
-					<li><strong><a title="Ajouter une tâche" href="#">Ajouter</a></strong> une tâche<br></li>
-					<li><strong><a title="Consulter une tâche" href="#">Consulter</a></strong> une tâche<br></li>
-					<li><strong><a title="Modifier une tâche" href="#">Modifier</a></strong> une tâche<br></li>
+					<li><strong><%= partials.modalAjouterTache() %></strong><br></li>
+					<li><strong><a title="Modifier une tâche, donc Consulter aussi" href="#">Modifier</a></strong> une tâche<br></li>
 					<li><strong><a title="Trier tableau des tâches" href="#">Trier</a></strong> tableau des tâches<br></li>
 					<li><strong><a title="Filtrer tableau des tâches" href="#">Filtrer</a></strong> tableau des tâches<br></li>
 					<li><strong><a title="Commuter accomplissement d'une tâche" href="#">Commuter</a></strong> l'accomplissement d'une tâche<br></li>
@@ -837,7 +752,7 @@
 				<span title="U" class="success badge">U</span> Activités ajoutées par l'<strong>utilisateur</strong><br>
 				<span title="G" class="warning badge">G</span> Activités héritées de ses <strong>groupes</strong><br>
 				<span title="S" class="alert badge">S</span> Activités ajoutées par le <strong>système</strong><br>
-				<span title="Ajouter une activité" class="badge">+</span> <a href="#">Ajouter une activité</a><br>
+				<span title="Ajouter une activité" class="badge">+</span> <%= partials.modalAjouterActivite() %>
 				</p>
 				<!-- <img src="/img/placeholders/calendrier.png" alt="Agenda" style="height: 80%;"> -->
 				<%= partials.calendrier2016() %>
