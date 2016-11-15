@@ -20,9 +20,13 @@
   <!--  tabulations -->
   <ul class="tabs vertical" data-tabs id="toc">
     <li class="tabs-title is-active"><a href="#membres" aria-selected="true"><span class="larger-text">Membres</span></a></li>
+    <li class="tabs-title"><a href="#pairs"><span class="larger-text">&nbsp;&nbsp; Mes pairs</span></a></li>
     <li class="tabs-title"><a href="#groupes"><span class="larger-text">Groupes</span></a></li>
+    <li class="tabs-title"><a href="#mesGroupes"><span class="larger-text">&nbsp;&nbsp; Mes groupes</span></a></li>
     <li class="tabs-title"><a href="#organisations"><span class="larger-text">Organisations</span></a></li>
+    <li class="tabs-title"><a href="#mesOrganisations"><span class="larger-text">&nbsp;&nbsp; Mes organisations</span></a></li>
     <li class="tabs-title"><a href="#personnes"><span class="larger-text">Personnes</span></a></li>
+    <li class="tabs-title"><a href="#mesPersonnes"><span class="larger-text">&nbsp;&nbsp; Mes personnes</span></a></li>
   </ul>
   </div>
 
@@ -37,8 +41,8 @@
     <div class="" id="bloc-1">
 
       <!-- Membres -->
-      <div><h4>Membres</h4></div>
-      <p>Choisir des pairs parmi ces membres de la communauté.</p>
+      <h4>Membres</h4>
+      <p>Pour inviter un membre à devenir un de vos <em>pairs</em>, cliquez sur le lien <i class="fi-link"></i> correspondant.</p>
       <hr>
 
       <!-- row-1 -->
@@ -186,10 +190,163 @@
     </div>
     </div>
 
+    <div class="tabs-panel" id="pairs">
+    <div class="" id="bloc-pairs">
+      <!-- Pairs -->
+      <h4>Pairs</h4>
+      <p>Pour <em>ajouter un pair</em>, consultez <a href="#membres"><em>Liste de tous les membres</em></a>, cliquez sur le lien <i class="fi-link"></i> correspondant.</p>
+      <hr>
+			<!-- Pairs -->
+			<h4>Mes pairs</h4>
+			<!-- row-1 -->
+			<div class="row">
+				<form>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Alain Farmer</h5>
+						<a href="#"><img src="/img/membres/me.jpg" width="200" height="200" alt="Pair #1"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter son profil" href="#"><i class="fi-torso"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterPair({ moi: 'Alain Farmer', nom: 'Alain Farmer', nombre: '1' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Larguer ce pair" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Claude Berthiaume</h5>
+						<a href="#"><img src="/img/membres/me.jpg" width="200" height="200" alt="Pair #2"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter son profil" href="#"><i class="fi-torso"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterPair({ moi: 'Alain Farmer', nom: 'Claude Berthiaume', nombre: '2' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Larguer ce pair" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Robert Ducharme</h5>
+						<a href="#"><img src="/img/membres/me.jpg" width="200" height="200" alt="Pair #3"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter son profil" href="#"><i class="fi-torso"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterPair({ moi: 'Alain Farmer', nom: 'Robert Ducharme', nombre: '3' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Larguer ce pair" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				</form>
+			</div>
+			<hr>
+			<!-- end row-1 -->
+
+			<!-- row-2 -->
+			<div class="row">
+				<form>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Platon</h5>
+						<a href="#"><img src="/img/membres/me.jpg" width="200" height="200" alt="Pair #1"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter son profil" href="#"><i class="fi-torso"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterPair({ moi: 'Alain Farmer', nom: 'Platon', nombre: '4' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Larguer ce pair" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Karl Marx</h5>
+						<a href="#"><img src="/img/membres/me.jpg" width="200" height="200" alt="Pair #2"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter son profil" href="#"><i class="fi-torso"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterPair({ moi: 'Alain Farmer', nom: 'Karl Marx', nombre: '5' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Larguer ce pair" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Bruno Latour</h5>
+						<a href="#"><img src="/img/membres/me.jpg" width="200" height="200" alt="Pair #3"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter son profil" href="#"><i class="fi-torso"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterPair({ moi: 'Alain Farmer', nom: 'Bruno Latour', nombre: '6' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Larguer ce pair" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				</form>
+			</div>
+			<hr>
+			<!-- end row-2 -->
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+    </div>
+
     <div class="tabs-panel" id="groupes">
     <div class="" id="bloc-2">
 
-      <div><h4>Groupes</h4></div>
+      <h4>Groupes</h4>
       <p>Choisir parmi les groupes de la communauté ou <strong>proposer un groupe</strong> <%= partials.ajouterGroupe() %></p>
       <hr>
 
@@ -338,9 +495,162 @@
     </div>
     </div>
 
+    <div class="tabs-panel" id="mesGroupes">
+    <div class="" id="bloc-mesGroupes">
+      <!-- Mes groupes -->
+      <h4>Groupes</h4>
+      <p>Pour <em>joindre un groupe</em>, consultez <a href="#groupes"><em>Liste des groupes</em></a>, puis cliquez sur le lien <i class="fi-link"></i> correspondant.</p>
+      <hr>
+
+		<h4>Mes groupes</h4>
+			
+			<!-- row-1 -->
+			<div class="row">
+				<form>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Groupe #1</h5>
+						<a href="#"><img src="/img/groupes/groupe-1.jpeg" alt="Groupe #1" width="200" height="200"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter ce groupe" href="#"><i class="fi-torsos-all"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterMonGroupe({ moi: 'Alain Farmer', nom: 'Groupe #1', nombre: '1' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Quitter ce groupe" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Groupe #2</h5>
+						<a href="#"><img src="/img/groupes/groupe-3.jpeg" alt="Groupe #2" width="200" height="200"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter ce groupe" href="#"><i class="fi-torsos-all"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterMonGroupe({ moi: 'Alain Farmer', nom: 'Groupe #2', nombre: '2' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Quitter ce groupe" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Groupe #3</h5>
+						<a href="#"><img src="/img/groupes/groupe-2.jpeg" width="200" height="200" alt="Groupe #3"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter ce groupe" href="#"><i class="fi-torsos-all"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterMonGroupe({ moi: 'Alain Farmer', nom: 'Groupe #3', nombre: '3' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Quitter ce groupe" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				</form>
+			</div>
+
+			<!-- row-2 -->
+			<hr>
+			<div class="row">
+				<form>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Groupe #4</h5>
+						<a href="#"><img src="/img/groupes/groupe-1.jpeg" alt="Groupe #1" width="200" height="200"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter ce groupe" href="#"><i class="fi-torsos-all"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterMonGroupe({ moi: 'Alain Farmer', nom: 'Groupe #4', nombre: '4' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Quitter ce groupe" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Groupe #5</h5>
+						<a href="#"><img src="/img/groupes/groupe-1.jpeg" alt="Groupe #2" width="200" height="200"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter ce groupe" href="#"><i class="fi-torsos-all"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterMonGroupe({ moi: 'Alain Farmer', nom: 'Groupe #5', nombre: '5' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Quitter ce groupe" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				<div class="large-4 medium-4 small-4 columns">
+					<div class="text-center">
+						<h5>Groupe #6</h5>
+						<a href="#"><img src="/img/groupes/groupe-1.jpeg" width="200" height="200" alt="Groupe #3"></a>
+							<!-- start nested row -->
+							<div class="row">
+								<div class="large-12 medium-12 small-12 columns">
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Consulter ce groupe" href="#"><i class="fi-torsos-all"></i></a>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<%= partials.modalContacterMonGroupe({ moi: 'Alain Farmer', nom: 'Groupe #6', nombre: '6' }) %>
+									</div>
+									<div class="large-4 medium-4 small-4 columns">
+										<a class="icon" title="Quitter ce groupe" href="#"><i class="fi-unlink"></i></a>
+									</div>
+								</div>
+							</div>
+							<!-- end nested row -->
+					</div>
+				</div>
+				</form>
+			</div>
+      
+      <hr>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+    </div>
+
     <div class="tabs-panel" id="organisations">
     <div class="" id="bloc-3">
-      <div><h4>Catégories d'organisations</h4></div>
+      <h4>Catégories d'organisations</h4>
       <div class="content">
         <ul>
           <li>A<br></li>
@@ -350,7 +660,7 @@
           <li>etc<br></li>
         </ul>
       </div>
-      <div><h4>Organisations</h4></div>
+      <h4>Organisations</h4>
       <div class="content">
         <ul>
           <li>Liste des organisations<br></li>
@@ -362,9 +672,19 @@
     </div>
     </div>
 
+    <div class="tabs-panel" id="mesOrganisations">
+    <div class="" id="bloc-mesOrganisations">
+      <!-- Mes organisations -->
+      <h4>Mes organisations</h4>
+      <p>Voici l'interface pour gérer mes organisations.</p>
+      <hr>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+    </div>
+
     <div class="tabs-panel" id="personnes">
     <div class="" id="bloc-4">
-      <div><h4>Catégories de personnes</h4></div>
+      <h4>Catégories de personnes</h4>
       <div class="content">
         <ul>
           <li>Auteurs<br></li>
@@ -372,7 +692,7 @@
           <li>etc<br></li>
         </ul>
       </div>
-      <div><h4>Personnes</h4></div>
+      <h4>Personnes</h4>
       <div class="content">
         <ul>
           <li>Liste des personnes<br></li>
@@ -380,6 +700,16 @@
           <li><strong>Proposer une personne</strong> <%= partials.ajouterPersonne() %><br></li>
         </ul>
       </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+    </div>
+
+    <div class="tabs-panel" id="mesPersonnes">
+    <div class="" id="bloc-mesPersonnes">
+      <!-- Mes personnes -->
+      <h4>Mes personnes</h4>
+      <p>Voici l'interface pour gérer mes personnes.</p>
+      <hr>
       <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
     </div>
     </div>
@@ -392,7 +722,7 @@
 <br>
 
 <!-- FOOTER -->
-<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-12 à 11:40' }) %>
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-15 à 14:58' }) %>
 
 <!-- SCRIPTS -->
 <%= partials.scripts() %>
