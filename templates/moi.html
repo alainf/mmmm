@@ -799,12 +799,13 @@
 			<div><h4>Calendrier</h4></div>
 			<div class="content">
 				<p>
+				<span title="A" class="success badge">A</span> Activités choisies parmi <strong>Agenda public</strong><br>
 				<span title="T" class="secondary badge">T</span> Tâches de l'agenda de l'<strong>utilisateur</strong><br>
-				<span title="U" class="success badge">U</span> Activités ajoutées par l'<strong>utilisateur</strong><br>
+				<span title="U" class="badge">U</span> Activités ajoutées par l'<strong>utilisateur</strong><br>
 				<span title="G" class="warning badge">G</span> Activités héritées de ses <strong>groupes</strong><br>
 				<span title="S" class="alert badge">S</span> Activités ajoutées par le <strong>système</strong><br>
-				<span title="Ajouter une activité" class="badge">+</span> <%= partials.modalAjouterActivite() %>
 				</p>
+				<p><strong><%= partials.modalAjouterActivite() %></strong></p>
 				<!-- <img src="/img/placeholders/calendrier.png" alt="Agenda" style="height: 80%;"> -->
 				<%= partials.calendrier2016() %>
 			</div>
