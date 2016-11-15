@@ -13,6 +13,7 @@ exports.register = function (server, options, next) {
     'bottin',
     'enConstruction',
     'faq',
+    'favoris',
     'index',
     'meConnecter',
     'meDeconnecter',
