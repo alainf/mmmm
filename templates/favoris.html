@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<%= partials.mmhead({ title: 'PhD Favoris' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercher() %>
+
+<%= partials.titreSeulement({ title: "Favoris" }) %>
+
+<!-- INTERFACE -->
+
+<div class="row" id="grid">
+
+	<!-- LEFT -->
+  <div class="large-3 medium-3 small-3 columns" id="grid-left">
+	<!-- 	tabulations -->
+	<ul class="tabs vertical" data-tabs id="compte">
+	  <li class="tabs-title"><a href="#mes-sujets"><span class="larger-text">Sujets de recherche</span></a></li>
+	  <li class="tabs-title is-active"><a href="#A" aria-selected="true"><span class="larger-text">A</span></a></li>
+	  <li class="tabs-title"><a href="#B"><span class="larger-text">B</span></a></li>
+	  <li class="tabs-title"><a href="#C"><span class="larger-text">C</span></a></li>
+	  <li class="tabs-title"><a href="#D"><span class="larger-text">D</span></a></li>
+	  <li class="tabs-title"><a href="#E"><span class="larger-text">E</span></a></li>
+	  <li class="tabs-title"><a href="#F"><span class="larger-text">F</span></a></li>
+	  <li class="tabs-title"><a href="#G"><span class="larger-text">G</span></a></li>
+	  <li class="tabs-title"><a href="#H"><span class="larger-text">H</span></a></li>
+	  <li class="tabs-title"><a href="#J"><span class="larger-text">J</span></a></li>
+	</ul>
+  </div>
+
+  <!-- RIGHT -->
+  
+  <div class="large-9 medium-9 small-9 columns" id="grid-right">
+  <div>
+
+	<form>
+	<div class="tabs-content" data-tabs-content="compte">
+
+	  <div class="tabs-panel" id="mes-sujets">
+		<div class="" id="bloc-4">
+			<div><h4>Mes sujets de recherche</h4></div>
+			<div class="content">
+				<!-- debut table -->
+				<%= partials.tableMesSujets() %>
+				<!-- fin table -->
+			</div>
+			<div><h4>Tous les sujets de recherche</h4></div>
+			<div class="content">
+				<!-- debut table -->
+				<%= partials.tableTousSujets() %>
+				<!-- fin table -->
+				<div class="row">
+					<div class="large-1 medium-1 small-1 columns">&nbsp;</div>
+					<div class="large-3 medium-3 small-3 columns">
+						<div class="text-right"><a href="#" class="button" title="Proposer un sujet ">Proposer un sujet</a></div>
+					</div>
+					<div class="large-6 medium-6 small-6 columns">
+						<div class="text-left"><input type="text" name="suggestion-sujet" value=""></div>
+					</div>
+					<div class="large-2 medium-2 small-2 columns">&nbsp;</div>
+				</div>
+				<!-- end row -->
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	  </div>
+
+	<div class="tabs-panel is-active" id="A">
+		<div class="" id="bloc-1">
+			<h4>A</h4>
+		</div>
+	</div>
+	</form>
+
+	<div class="tabs-panel" id="B">
+		<div class="" id="bloc-2">
+			<h4>BBBB</h4>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="C">
+		<div class="" id="bloc-2">
+			<h4>CCCCC</h4>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="D">
+		<div class="" id="bloc-2">
+			<h4>DDDDD</h4>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="E">
+		<div class="" id="bloc-2">
+			<h4>EEEEE</h4>
+		</div>
+	</div>
+
+	  </div>
+    </div>
+  </div>
+ 
+</div>
+
+<!-- FOOTER -->
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-13 à 23:02' }) %>
+
+<!-- SCRIPTS -->
+<%= partials.scripts() %>
+
+</body>
+</html>
