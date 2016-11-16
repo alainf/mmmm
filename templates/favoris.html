@@ -19,16 +19,19 @@
   <div class="large-3 medium-3 small-3 columns" id="grid-left">
 	<!-- 	tabulations -->
 	<ul class="tabs vertical" data-tabs id="compte">
-	  <li class="tabs-title"><a href="#mes-sujets"><span class="larger-text">Sujets de recherche</span></a></li>
-	  <li class="tabs-title is-active"><a href="#A" aria-selected="true"><span class="larger-text">A</span></a></li>
-	  <li class="tabs-title"><a href="#B"><span class="larger-text">B</span></a></li>
-	  <li class="tabs-title"><a href="#C"><span class="larger-text">C</span></a></li>
-	  <li class="tabs-title"><a href="#D"><span class="larger-text">D</span></a></li>
-	  <li class="tabs-title"><a href="#E"><span class="larger-text">E</span></a></li>
-	  <li class="tabs-title"><a href="#F"><span class="larger-text">F</span></a></li>
-	  <li class="tabs-title"><a href="#G"><span class="larger-text">G</span></a></li>
-	  <li class="tabs-title"><a href="#H"><span class="larger-text">H</span></a></li>
-	  <li class="tabs-title"><a href="#J"><span class="larger-text">J</span></a></li>
+		<li class="tabs-title"><a href="#activites"><span class="larger-text">Activités</span></a></li>
+		<li class="tabs-title"><a href="#appels"><span class="larger-text">Appels à comm.</span></a></li>
+		<li class="tabs-title"><a href="#articles"><span class="larger-text">Articles</span></a></li>
+		<li class="tabs-title"><a href="#bourses"><span class="larger-text">Bourses</span></a></li>
+		<li class="tabs-title"><a href="#conferences"><span class="larger-text">Conférences</span></a></li>
+		<li class="tabs-title"><a href="#congres"><span class="larger-text">Congrès</span></a></li>
+		<li class="tabs-title"><a href="#duNouveau"><span class="larger-text">Du nouveau</span></a></li>
+		<li class="tabs-title"><a href="#emplois"><span class="larger-text">Emplois</span></a></li>
+		<li class="tabs-title"><a href="#lancements"><span class="larger-text">Lancements</span></a></li>
+		<li class="tabs-title"><a href="#personnes"><span class="larger-text">Personnes</span></a></li>
+		<li class="tabs-title"><a href="#rendezVous"><span class="larger-text">Rendez-vous</span></a></li>
+		<li class="tabs-title"><a href="#sections"><span class="larger-text">Sections</span></a></li>
+		<li class="tabs-title is-active"><a href="#mes-sujets" aria-selected="true"><span class="larger-text">Sujets</span></a></li>
 	</ul>
   </div>
 
@@ -36,69 +39,137 @@
   
   <div class="large-9 medium-9 small-9 columns" id="grid-right">
   <div>
+  <div class="tabs-content" data-tabs-content="compte">
 
-	<form>
-	<div class="tabs-content" data-tabs-content="compte">
-
-	  <div class="tabs-panel" id="mes-sujets">
-		<div class="" id="bloc-4">
-			<div><h4>Mes sujets de recherche</h4></div>
+	<div class="tabs-panel" id="activites">
+		<div class="">
+			<h4>Activités qui m'intéressent</h4>
 			<div class="content">
-				<!-- debut table -->
-				<%= partials.tableMesSujets() %>
-				<!-- fin table -->
+				<%= partials.tableMesActivites() %>
 			</div>
-			<div><h4>Tous les sujets de recherche</h4></div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="appels">
+		<div class="">
+			<h4>Appels à communication qui m'intéressent</h4>
 			<div class="content">
-				<!-- debut table -->
-				<%= partials.tableTousSujets() %>
-				<!-- fin table -->
-				<div class="row">
-					<div class="large-1 medium-1 small-1 columns">&nbsp;</div>
-					<div class="large-3 medium-3 small-3 columns">
-						<div class="text-right"><a href="#" class="button" title="Proposer un sujet ">Proposer un sujet</a></div>
-					</div>
-					<div class="large-6 medium-6 small-6 columns">
-						<div class="text-left"><input type="text" name="suggestion-sujet" value=""></div>
-					</div>
-					<div class="large-2 medium-2 small-2 columns">&nbsp;</div>
-				</div>
-				<!-- end row -->
+				<%= partials.tableMesAppels() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="articles">
+		<div class="">
+			<h4>Articles qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesArticles() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="duNouveau">
+		<div class="">
+			<h4>Du nouveau qui m'intéresse</h4>
+			<div class="content">
+				<%= partials.tableMesAvis() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="bourses">
+		<div class="">
+			<h4>Bourses qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesBourses() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="conferences">
+		<div class="">
+			<h4>Conférences qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesConferences() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="congres">
+		<div class="">
+			<h4>Congrès qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesCongres() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="emplois">
+		<div class="">
+			<h4>Emplois qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesEmplois() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="lancements">
+		<div class="">
+			<h4>Lancements qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesLancements() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="personnes">
+		<div class="">
+			<h4>Personnes qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesPersonnes() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="rendezVous">
+		<div class="">
+			<h4>Mes rendez-vous</h4>
+			<div class="content">
+				<%= partials.tableMesRendezVous() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="sections">
+		<div class="">
+			<h4>Sections qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesSections() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	  <div class="tabs-panel is-active" id="mes-sujets">
+		<div class="">
+			<h4>Sujets qui m'intéressent</h4>
+			<div class="content">
+				<%= partials.tableMesSujets() %>
 			</div>
 			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
 		</div>
 	  </div>
-
-	<div class="tabs-panel is-active" id="A">
-		<div class="" id="bloc-1">
-			<h4>A</h4>
-		</div>
-	</div>
-	</form>
-
-	<div class="tabs-panel" id="B">
-		<div class="" id="bloc-2">
-			<h4>BBBB</h4>
-		</div>
-	</div>
-
-	<div class="tabs-panel" id="C">
-		<div class="" id="bloc-2">
-			<h4>CCCCC</h4>
-		</div>
-	</div>
-
-	<div class="tabs-panel" id="D">
-		<div class="" id="bloc-2">
-			<h4>DDDDD</h4>
-		</div>
-	</div>
-
-	<div class="tabs-panel" id="E">
-		<div class="" id="bloc-2">
-			<h4>EEEEE</h4>
-		</div>
-	</div>
 
 	  </div>
     </div>
