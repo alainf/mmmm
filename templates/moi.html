@@ -18,14 +18,13 @@
 	<!-- LEFT -->
   <div class="large-3 medium-3 small-3 columns" id="grid-left">
 	<!-- 	tabulations -->
-	<ul class="tabs vertical" data-tabs id="compte">
-	  <li class="tabs-title is-active"><a href="#mon-etat-de-compte" aria-selected="true"><span class="larger-text">État de compte</span></a></li>
-	  <li class="tabs-title"><a href="#mon-identification"><span class="larger-text">Identification</span></a></li>
+	<ul class="tabs vertical" data-tabs id="tabsMoi">
+	  <li class="tabs-title is-active"><a href="#compte" aria-selected="true"><span class="larger-text">Compte</span></a></li>
+	  <li class="tabs-title"><a href="#mon-identite"><span class="larger-text">Identité</span></a></li>
 	  <li class="tabs-title"><a href="#mes-preferences"><span class="larger-text">Préférences</span></a></li>
-	  <li class="tabs-title"><a href="#mes-sujets"><span class="larger-text">Sujets de recherche</span></a></li>
 	  <li class="tabs-title"><a href="#mes-favoris"><span class="larger-text">Favoris</span></a></li>
-	  <li class="tabs-title"><a href="#mes-notifications"><span class="larger-text">Notifications</span></a></li>
-	  <li class="tabs-title"><a href="#ma-participation"><span class="larger-text">Participation</span></a></li>
+	  <li class="tabs-title"><a href="#mes-notifications"><span class="larger-text">M'aviser</span></a></li>
+	  <li class="tabs-title"><a href="#ma-participation"><span class="larger-text">Participer</span></a></li>
 	  <li class="tabs-title"><a href="#mon-agenda"><span class="larger-text">Agenda</span></a></li>
 	  <li class="tabs-title"><a href="#mon-calendrier"><span class="larger-text">Calendrier</span></a></li>
 	  <li class="tabs-title"><a href="#mes-meteos"><span class="larger-text">Météos</span></a></li>
@@ -38,10 +37,10 @@
   <div>
 
 	<form>
-	<div class="tabs-content" data-tabs-content="compte">
-	  <div class="tabs-panel is-active" id="mon-etat-de-compte">
+	<div class="tabs-content" data-tabs-content="tabsMoi">
+	  <div class="tabs-panel is-active" id="compte">
 			<div class="" id="bloc-1">
-			<div><h4>État de compte</h4></div>
+			<h4>Compte</h4>
 			<div class="content">
 				<dl>
 				<dt>Type de compte</dt>
@@ -83,27 +82,64 @@
 	  </div>
 	  </form>
 
-	  <div class="tabs-panel" id="mon-identification">
+	  <div class="tabs-panel" id="mon-identite">
 		<div class="" id="bloc-2">
-			<div><h4>Identification</h4></div>
+			<h4>Identité</h4>
 			<form>
-			<div class="content">
-				<dl>
-				<dt>Nom de famille</dt>
-				<dd><p><input type="text" name="nomFamille" value="Farmer"></p></dd>
-				<dt>Prénom</dt>
-				<dd><p><input type="text" name="prenom" value="Alain"></p></dd>
-				<dt>Utilisateur</dt>
-				<dd><p><input type="text" name="username" value="alain"></p></dd>
-				<dt>Mot de passe</dt>
-				<dd><p><input type="text" name="password" value="************"></p></dd>
-				<dt>Courriel</dt>
-				<dd><p><input type="text" name="courriel" value="alain_farmer@yahoo.com"></p></dd>
-				<dt>Géolocalisation</dt>
-				<dd><p><input type="text" name="geolocalisation" value="Montréal"></p></dd>
-				</dl>
-				<p><input class="button" type="submit" name="enregistrer" value="Enregistrer"></p>
+			<!-- Grid row -->
+			<div class="row" id="title line">
+			  <div class="large-5 medium-5 small-5 columns">
+				 <div class="callout">
+					<p class="text-center"><u>Remplir obligatoirement</u></p>
+					<dl>
+					<dt>Nom de famille</dt>
+					<dd><p><input type="text" name="nomFamille" value="Farmer"></p></dd>
+					<dt>Prénom</dt>
+					<dd><p><input type="text" name="prenom" value="Alain"></p></dd>
+					<dt>Utilisateur</dt>
+					<dd><p><input type="text" name="username" value="alainf"></p></dd>
+					<dt>Mot de passe</dt>
+					<dd><p><input type="password" name="password" value="************"></p></dd>
+					</dl>
+				 </div>
+			  </div>
+			  <div class="large-7 medium-7 small-7 columns">
+				 <div class="callout">
+					<p class="text-center"><u>Remplir facultativement</u></p>
+					<dl>
+					<dt>Courriel</dt>
+					<dd>
+						<div class="input-group">
+							<input class="input-group-field" type="text" name="courriel" value="alain_farmer@yahoo.com">
+							<a class="input-group-button success button"><i class="fi-check"></i></a>
+						</div>
+					</dd>
+					<dt>Facebook</dt>
+					<dd>
+						<div class="input-group">
+							<input class="input-group-field" type="url" name="facebook" value="https://www.facebook.com/alain.farmer">
+							<a class="input-group-button success button"><i class="fi-check"></i></a>
+						</div>
+					</dd>
+					<dt>Code postal</dt>
+					<dd>
+						<div class="input-group">
+							<input class="input-group-field" type="text" name="geolocalisation" value="H4G 1H7">
+							<a class="input-group-button success button"><i class="fi-check"></i></a>
+						</div>
+					</dd>
+					<dt>Téléphone</dt>
+					<dd>
+						<div class="input-group">
+							<input class="input-group-field" type="text" name="telephone" value="514-710-1752">
+							<a class="input-group-button alert button"><i class="fi-lock"></i></a>
+						</div>
+					</dd>
+					</dl>
+				 </div>
 			</div>
+			</div>
+			<p><input class="button" type="submit" name="enregistrer" value="Enregistrer"></p>
 			</form>
 		</div>
 	  </div>
@@ -133,12 +169,10 @@
 			<!-- informations -->
 			<div class="content">
 				<dl>
-				<dt>Langues <%= partials.ajouterLangue() %></dt>
-				<dd><p>Français, Anglais</p></dd>
 				<dt>Lieux <%= partials.ajouterLieu() %></dt>
 				<dd><p>Montréal, Québec, Canada</p></dd>
-				<dt>Thème <%= partials.choisirTheme() %></dt>
-				<dd><p>Pas de thème particulier.</p></dd>
+				<dt>Langues <%= partials.ajouterLangue() %></dt>
+				<dd><p>Français, Anglais</p></dd>
 				<dt>Traduire avec Google Translate</dt>
 				<dd>
 					<form>
@@ -153,40 +187,13 @@
 		</div>
 	  </div>
 
-	  <div class="tabs-panel" id="mes-sujets">
-		<div class="" id="bloc-4">
-			<div><h4>Mes sujets de recherche</h4></div>
-			<div class="content">
-				<!-- debut table -->
-				<%= partials.tableMesSujets() %>
-				<!-- fin table -->
-			</div>
-			<div><h4>Tous les sujets de recherche</h4></div>
-			<div class="content">
-				<!-- debut table -->
-				<%= partials.tableTousSujets() %>
-				<!-- fin table -->
-				<div class="row">
-					<div class="large-1 medium-1 small-1 columns">&nbsp;</div>
-					<div class="large-3 medium-3 small-3 columns">
-						<div class="text-right"><a href="#" class="button" title="Proposer un sujet ">Proposer un sujet</a></div>
-					</div>
-					<div class="large-6 medium-6 small-6 columns">
-						<div class="text-left"><input type="text" name="suggestion-sujet" value=""></div>
-					</div>
-					<div class="large-2 medium-2 small-2 columns">&nbsp;</div>
-				</div>
-				<!-- end row -->
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	  </div>
-
 	  <div class="tabs-panel" id="mes-favoris">
 		<div class="" id="bloc-5">
-			<div><h4>Favoris</h4></div>
-			<p>Favoris seront privilégiés lors de l'affichage des informations.<br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .<br></p>
-			<div><h5>Affichage</h5></div>
+			<h4>Favoris</h4>
+			<p>Favoris seront privilégiés lors de l'affichage des informations.
+			<br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .
+			<br>Voir-aussi la page <a href="/fr/favoris">Favoris</a> pour les consulter par onglet.</p>
+			<h5>Affichage</h5>
 			<div class="row">
 				<div class="large-6 medium-6 small-6 columns">
 					<div class="">
@@ -273,7 +280,7 @@
 
 	<div class="tabs-panel" id="mes-notifications">
 		<div class="" id="bloc-6">
-			<div><h4>Notifications</h4></div>
+			<div><h4>M'aviser</h4></div>
 			<p>Notifications sont spécifiées en contexte, en cliquant sur <i class="fi-rss"></i> .<br></p>
 			<div><h5>Préférences</h5></div>
 			<div class="content">
@@ -287,7 +294,7 @@
 				&nbsp;<input type="radio" name="reception" value="site" id="site"><label for="site">en consultant site web</label>
 			</p>
 			<p class="secondary callout">Fréquence des notifications:
-				<br><br><input type="radio" name="frequence" value="Immédiatement" id="Immédiatement"><label for="Immédiatement">Immédiatement</label>
+				<br>&nbsp;<input type="radio" name="frequence" value="Immédiatement" id="Immédiatement"><label for="Immédiatement">Immédiatement</label>
 				&nbsp;<input type="radio" name="frequence" value="heure" id="heure"><label for="heure">1 fois par heure</label>
 				&nbsp;<input type="radio" name="frequence" value="jour" id="jour"><label for="jour">1 fois par jour</label>
 				&nbsp;<input type="radio" name="frequence" value="hebdo" id="hebdo"><label for="hebdo">1 fois par semaine</label>
@@ -369,12 +376,12 @@
 
 	  <div class="tabs-panel" id="ma-participation">
 		<div class="" id="bloc-8">
-			<div><h4>Participation</h4></div>
+			<div><h4>Participer</h4></div>
 				<div class="content">
 				<dl>
 				<dt>État de mon profil</dt>
 				<dd>
-					<blockquote>Mon profil est complété à 50%.<br>Le compléter afin d'en retirer tous les bénéfices.</blockquote>
+					<blockquote>Mon profil est complété à 50%.</blockquote>
 				</dd>
 				<dt>Historique de ma participation</dt>
 				<dd>
@@ -389,9 +396,7 @@
 				<dd>
 					<ul>
 					<li><a href="/fr/moi#mes-notifications">Notifications</a></li>
-					<li><a href="#">Sécurité</a></li>
-					<li><a href="#">Confidentialité</a></li>
-					<li><a href="#">Vie privée</a></li>
+					<li><a href="#">Sécurité, confidentialité et vie privée</a></li>
 					</ul>
 				</dd>
 				</dl>
@@ -540,7 +545,7 @@
 </div>
 
 <!-- FOOTER -->
-<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-13 à 23:02' }) %>
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-16 à 00:27' }) %>
 
 <!-- SCRIPTS -->
 <%= partials.scripts() %>
