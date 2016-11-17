@@ -147,7 +147,6 @@
 				 </div>
 			</div>
 			</div>
-			<p><input class="button" type="submit" name="enregistrer" value="Enregistrer"></p>
 			</form>
 		</div>
 	  </div>
@@ -200,192 +199,84 @@
 			<h4>Favoris</h4>
 			<p>Favoris seront privilégiés lors de l'affichage des informations.
 			<br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .
-			<br>Voir-aussi la page <a href="/fr/favoris">Favoris</a> pour les consulter par onglet.</p>
+			<br>Voir aussi la page <a href="/fr/favoris">Favoris</a> pour les consulter par onglet.</p>
 			<h5>Affichage</h5>
-			<div class="row">
-				<div class="large-6 medium-6 small-6 columns">
-					<div class="">
-						<p class="text-left">Présentement: <em>Aucun filtrage</em>.</p>
-					</div>
-				</div>
-				<div class="large-6 medium-6 small-6 columns">
-					<div class="">
-						<p class="text-left">Présentement: Tableau trié par <em>Nom</em>.</p>
-					</div>
-				</div>
-			</div>
-			<div class="row" id="">
-			  <div class="large-2 medium-2 small-2 columns">
-				 <div class="">
-					<p class="text-right">Filtrer par :</p>
-				 </div>
-			  </div>
-			  <div class="large-4 medium-4 small-4 columns">
-				 <div class="">
-					<!-- begin dropdown menu -->
-					<div class="text-left">
-					<ul class="menu dropdown" data-dropdown-menu>
-					  <li class="active">
-						 <a href="#"><strong>Choisir type</strong></a>
-						 <ul class="menu">
-							<li><a href="#">Aucun filtrage</a></li>
-							<li><a href="#">Articles</a></li>
-							<li><a href="#">Personnes</a></li>
-							<li><a href="#">Ressources</a></li>
-							<li><a href="#">Sections</a></li>
-							<li><a href="#">Sujets</a></li>
-							<li><a href="#" title="Du nouveau">Avis</a></li>
-							<li><a href="#">Appels à comm.</a></li>
-							<li><a href="#">Bourses</a></li>
-							<li><a href="#">Conférences</a></li>
-							<li><a href="#">Congrès</a></li>
-							<li><a href="#">Emplois</a></li>
-							<li><a href="#">Études</a></li>
-							<li><a href="#">Lancements</a></li>
-							<li><a href="#">Activités</a></li>
-							<li><a href="#">Rendez-vous</a></li>
-						 </ul>
-					  </li>
-					</ul>
-					</div>
-					<!-- end dropdown menu -->
-				 </div>
-			  </div>
-			  <div class="large-2 medium-2 small-2 columns">
-				 <div class="">
-					<p class="text-right">Trier par :</p>
-				 </div>
-			  </div>
-			  <div class="large-4 medium-4 small-4 columns">
-				 <div class="">
-					<!-- begin dropdown menu -->
-					<div class="text-left">
-					<ul class="menu dropdown" data-dropdown-menu>
-					  <li class="active">
-						 <a href="#"><strong>Choisir tri</strong></a>
-						 <ul class="menu">
-							<li><a href="#">Nom</a></li>
-							<li><a href="#">Type</a></li>
-						 </ul>
-					  </li>
-					</ul>
-					</div>
-					<!-- end dropdown menu -->
-				 </div>
-			  </div>
-			</div>
+			<select id="filtrer">
+				<option value="filtrer-aucun-favoris" selected>Aucun filtrage</option>
+				<option value="filtrer-favoris-par-Articles">Favoris filtrés par Articles</option>
+				<option value="filtrer-favoris-par-Personnes">Favoris filtrés par Personnes</option>
+				<option value="filtrer-favoris-par-Ressources">Favoris filtrés par Ressources</option>
+				<option value="filtrer-favoris-par-Sections">Favoris filtrés par Sections</option>
+				<option value="filtrer-favoris-par-Sujets">Favoris filtrés par Sujets</option>
+				<option value="filtrer-favoris-par-Avis">Favoris filtrés par Avis</option>
+				<option value="filtrer-favoris-par-Appels">Favoris filtrés par Appels à communication</option>
+				<option value="filtrer-favoris-par-Bourses">Favoris filtrés par Bourses</option>
+				<option value="filtrer-favoris-par-Conférences">Favoris filtrés par Conférences</option>
+				<option value="filtrer-favoris-par-Congrès">Favoris filtrés par Congrès</option>
+				<option value="filtrer-favoris-par-Emplois">Favoris filtrés par Emplois</option>
+				<option value="filtrer-favoris-par-Taches">Favoris filtrés par tâches</option>
+				<option value="filtrer-favoris-par-Lancements">Favoris filtrés par Lancements</option>
+				<option value="filtrer-favoris-par-Activités">Favoris filtrés par Activités</option>
+				<option value="filtrer-favoris-par-Rendez-vous">Favoris filtrés par Rendez-vous</option>
+			</select>
+			<select id="trier">
+				<option value="trier-favoris-par-nom" selected>Tableau trié par Nom</option>
+				<option value="trier-favoris-par-type">Tableau trié par Type</option>
+			</select>
 			<br>
-			
-			<div><h4>Mes favoris</h4></div>
+			<h4>Mes favoris</h4>
 			<div class="content">
-				<!-- debut table -->
 				<p><%= partials.tableFavoris() %></p>
-				<!-- fin table -->
 				<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
 			</div>
 		</div>
 	  </div>
 
 	<div class="tabs-panel" id="mes-notifications">
-		<div class="" id="bloc-6">
+		<div class="">
 			<div><h4>M'aviser</h4></div>
 			<p>Notifications sont spécifiées en contexte, en cliquant sur <i class="fi-rss"></i> .<br></p>
-			<div><h5>Préférences</h5></div>
+			<h5>Préférences</h5>
+			<select id="notifications">
+				<option value="notifications-oui" selected>Notifications sont souhaitées</option>
+				<option value="notifications-non">Notifications ne sont pas souhaitées</option>
+			</select>
+			<select id="recevoir-notifications">
+				<option value="par-courriel">Recevoir notifications par courriel</option>
+				<option value="par-messagerie">Recevoir notifications par messagerie</option>
+				<option value="par-site" selected>Recevoir notifications en consultant ce site</option>
+			</select>
+			<select id="frequence-notifications">
+				<option value="immediatement">Recevoir notifications immédiatement</option>
+				<option value="par-heure">Recevoir notifications 1 fois par heure</option>
+				<option value="par-jour" selected>Recevoir notifications 1 fois par jour</option>
+				<option value="par-semaine">Recevoir notifications 1 fois par semaine</option>
+				<option value="par-mois">Recevoir notifications 1 fois par mois</option>
+				<option value="jamais">Ne jamais recevoir de notifications</option>
+			</select>
+			<select id="filtrer">
+				<option value="aucun" selected>Aucun filtrage</option>
+				<option value="filtrer-par-sujet">Notifications filtrées par sujet</option>
+				<option value="filtrer-par-personne">Notifications filtrées par personne</option>
+				<option value="filtrer-par-ressource">Notifications filtrées par ressource</option>
+				<option value="filtrer-par-typen">Notifications filtrées par ... n</option>
+			</select>
+			<select id="trier">
+				<option value="trier-par-nom" selected>Tableau trié par Nom</option>
+				<option value="trier-par-type">Tableau trié par Type</option>
+			</select>
 			<div class="content">
-			<p class="secondary callout">Notifications sont souhaitées:
-				&nbsp;<input type="radio" name="notifications" value="Oui" id="Oui"><label for="Oui">Oui</label>
-				&nbsp;<input type="radio" name="notifications" value="Non" id="Non"><label for="Non">Non</label>
-			</p>
-			<p class="secondary callout">Comment recevoir notifications:
-				&nbsp;<input type="radio" name="reception" value="courriel" id="courriel"><label for="courriel">par courriel</label>
-				&nbsp;<input type="radio" name="reception" value="messagerie" id="messagerie"><label for="messagerie">par messagerie</label>
-				&nbsp;<input type="radio" name="reception" value="site" id="site"><label for="site">en consultant ce site</label>
-			</p>
-			<p class="secondary callout">Fréquence des notifications:
-				<br>&nbsp;<input type="radio" name="frequence" value="Immédiatement" id="Immédiatement"><label for="Immédiatement">Immédiatement</label>
-				&nbsp;<input type="radio" name="frequence" value="heure" id="heure"><label for="heure">1 fois par heure</label>
-				&nbsp;<input type="radio" name="frequence" value="jour" id="jour"><label for="jour">1 fois par jour</label>
-				&nbsp;<input type="radio" name="frequence" value="hebdo" id="hebdo"><label for="hebdo">1 fois par semaine</label>
-				&nbsp;<input type="radio" name="frequence" value="never" id="never"><label for="never">Jamais</label>
-			</p>
-			
-			<div><h5>Affichage</h5></div>
-			<div class="row">
-				<div class="large-6 medium-6 small-6 columns">
-					<div class="">
-						<p class="text-left">Présentement: <em>Aucun filtrage</em>.</p>
-					</div>
-				</div>
-				<div class="large-6 medium-6 small-6 columns">
-					<div class="">
-						<p class="text-left">Présentement: Tableau trié par <em>Nom</em>.</p>
-					</div>
-				</div>
+				<h5>Ressources et termes concernés par les notifications</h5>
+				<%= partials.tableNotifications() %>
+				<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
 			</div>
-			
-			<div class="row" id="">
-			  <div class="large-2 medium-2 small-2 columns">
-				 <div class="">
-					<p class="text-right">Filtrer par :</p>
-				 </div>
-			  </div>
-			  <div class="large-4 medium-4 small-4 columns">
-				 <div class="">
-					<!-- begin dropdown menu -->
-					<div class="text-left">
-					<ul class="menu dropdown" data-dropdown-menu>
-					  <li class="active">
-						 <a href="#"><strong>Choisir type</strong></a>
-						 <ul class="menu">
-							<li><a href="#">Aucun filtrage</a></li>
-							<li><a href="#">Sujet</a></li>
-							<li><a href="#">Personne</a></li>
-							<li><a href="#">Ressource</a></li>
-							<li><a href="#">Type n</a></li>
-						 </ul>
-					  </li>
-					</ul>
-					</div>
-					<!-- end dropdown menu -->
-				 </div>
-			  </div>
-			  <div class="large-2 medium-2 small-2 columns">
-				 <div class="">
-					<p class="text-right">Trier par :</p>
-				 </div>
-			  </div>
-			  <div class="large-4 medium-4 small-4 columns">
-				 <div class="">
-					<!-- begin dropdown menu -->
-					<div class="text-left">
-					<ul class="menu dropdown" data-dropdown-menu>
-					  <li class="active">
-						 <a href="#"><strong>Choisir tri</strong></a>
-						 <ul class="menu">
-							<li><a href="#">Nom</a></li>
-							<li><a href="#">Type</a></li>
-						 </ul>
-					  </li>
-					</ul>
-					</div>
-					<!-- end dropdown menu -->
-				 </div>
-			  </div>
-
-			</div>
-			<div><br><h5>Ressources et termes concernés par les notifications</h5></div>
-			<!-- debut table -->
-			<%= partials.tableNotifications() %>
-			<!-- fin table -->
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
 		</div>
 	</div>
 
 	  <div class="tabs-panel" id="ma-participation">
 		<div class="">
 			<h4>Participer</h4>
-
+			<br>
 			<div class="row">
 				 <div class="large-7 medium-7 small-7 columns">
 					<div class="">
@@ -447,7 +338,6 @@
 						</dl>
 					 </div>
 				</div>
-			</div>
 			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
 			</div>
 		</div>
