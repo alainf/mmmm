@@ -1,5 +1,7 @@
 'use strict'
 
+require('dotenv-safe').load()
+
 const Confidence = require('confidence')
 const criteria = { env: process.env.NODE_ENV }
 
