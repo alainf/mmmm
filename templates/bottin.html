@@ -43,6 +43,10 @@
       <!-- Membres -->
       <h4>Membres</h4>
       <p>Pour inviter un membre à devenir un de vos <em>pairs</em>, cliquez sur le lien <i class="fi-link"></i> correspondant.</p>
+      <select id="filtrer">
+			<option value="filtrer-membres-par-aucun">Aucun filtrage</option>
+			<option value="filtrer-membres-autocomplete" selected>Afficher que les membres qui contiennent le(s) terme(s) ci-dessous</option>
+		</select>
       <div class="row">
 			<div class="input-group">
 				<span class="input-group-label">Filtrer :</span>
@@ -200,6 +204,10 @@
       <!-- Pairs -->
       <h4>Pairs</h4>
       <p>Pour <em>ajouter un pair</em>, consultez <a href="#membres"><em>Liste de tous les membres</em></a>, cliquez sur le lien <i class="fi-link"></i> correspondant.</p>
+      <select id="filtrer">
+			<option value="filtrer-pairs-par-aucun">Aucun filtrage</option>
+			<option value="filtrer-pairs-autocomplete" selected>Afficher que les pairs qui contiennent le(s) terme(s) ci-dessous</option>
+		</select>
       <div class="row">
 			<div class="input-group">
 				<span class="input-group-label">Filtrer :</span>
@@ -662,6 +670,15 @@
     <div class="">
       <h4>Organisations</h4>
       <p>Consulter une organisation ou <strong>proposer une organisation</strong> <%= partials.ajouterOrganisation() %></p>
+      <h5>Affichage</h5>
+		<select id="trier">
+			<option value="trier-organisations-par-nom" selected>Tableau trié par Nom</option>
+			<option value="trier-organisations-par-apercu">Tableau trié par Aperçu</option>
+		</select>
+		<select id="filtrer">
+			<option value="filtrer-organisations-par-aucun">Aucun filtrage</option>
+			<option value="filtrer-organisations-autocomplete" selected>Afficher que les organisations qui contiennent le(s) terme(s) ci-dessous</option>
+		</select>
       <div class="row">
 			<div class="input-group">
 				<span class="input-group-label">Filtrer :</span>
@@ -678,10 +695,19 @@
       <!-- Mes organisations -->
       <h4>Mes organisations</h4>
       <p>Voici l'interface pour suivre les organisations qui m'intéressent.</p>
+      <h5>Affichage</h5>
+		<select id="trier">
+			<option value="trier-mes-orgs-par-nom" selected>Tableau trié par Nom</option>
+			<option value="trier-mes-orgs-par-apercu">Tableau trié par Aperçu</option>
+		</select>
+		<select id="filtrer">
+			<option value="filtrer-mes-orgs-par-aucun">Aucun filtrage</option>
+			<option value="filtrer-mes-orgs-autocomplete" selected>Afficher que mes organisations qui contiennent le(s) terme(s) ci-dessous</option>
+		</select>
       <div class="row">
 			<div class="input-group">
 				<span class="input-group-label">Filtrer :</span>
-				<input class="input-group-field" type="text" name="filtrerMesOrganisations" placeholder="Autocomplete">
+				<input class="input-group-field" type="text" name="filtrerMesOrgs" placeholder="Autocomplete">
 			</div>
 		</div>
       <%= partials.tableMesOrganisations() %>
@@ -693,6 +719,15 @@
     <div class="">
       <h4>Personnes</h4>
       <p>Consulter une personne ou <strong>proposer une personne</strong> <%= partials.ajouterPersonne() %></p>
+      <h5>Affichage</h5>
+		<select id="trier">
+			<option value="trier-personnes-par-nom" selected>Tableau trié par Nom</option>
+			<option value="trier-personnes-par-apercu">Tableau trié par Aperçu</option>
+		</select>
+		<select id="filtrer">
+			<option value="filtrer-personnes-par-aucun">Aucun filtrage</option>
+			<option value="filtrer-personnes-autocomplete" selected>Afficher que les personnes qui contiennent le(s) terme(s) ci-dessous</option>
+		</select>
       <div class="row">
 			<div class="input-group">
 				<span class="input-group-label">Filtrer :</span>
@@ -709,6 +744,15 @@
       <!-- Mes personnes -->
       <h4>Mes personnes</h4>
       <p>Voici l'interface pour suivre les personnes qui m'intéressent.</p>
+      <h5>Affichage</h5>
+		<select id="trier">
+			<option value="trier-mes-personnes-par-nom" selected>Tableau trié par Nom</option>
+			<option value="trier-mes-personnes-par-apercu">Tableau trié par Aperçu</option>
+		</select>
+		<select id="filtrer">
+			<option value="filtrer-mes-personnes-par-aucun">Aucun filtrage</option>
+			<option value="filtrer-mes-personnes-autocomplete" selected>Afficher que mes personnes qui contiennent le(s) terme(s) ci-dessous</option>
+		</select>
       <div class="row">
 			<div class="input-group">
 				<span class="input-group-label">Filtrer :</span>
