@@ -12,7 +12,6 @@ ddocManager(Config, function (err, resp) {
 
 Composer((err, server) => {
   if (err) { throw err }
-
   server.start((err) => {
     if (err) { throw err }
     console.log('Started the server on port ' + server.info.port)
