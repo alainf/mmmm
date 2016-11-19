@@ -25,6 +25,7 @@
 	  <li class="tabs-title"><a href="#mes-favoris"><span class="larger-text">Favoris</span></a></li>
 	  <li class="tabs-title"><a href="#mes-notifications"><span class="larger-text">M'aviser</span></a></li>
 	  <li class="tabs-title"><a href="#ma-participation"><span class="larger-text">Participer</span></a></li>
+	  <li class="tabs-title"><a href="#mon-historique"><span class="larger-text">Historique</span></a></li>
 	  <li class="tabs-title"><a href="#mon-agenda"><span class="larger-text">Agenda</span></a></li>
 	  <li class="tabs-title"><a href="#mon-calendrier"><span class="larger-text">Calendrier</span></a></li>
 	  <li class="tabs-title"><a href="#mes-meteos"><span class="larger-text">Météos</span></a></li>
@@ -39,7 +40,7 @@
 	<form>
 	<div class="tabs-content" data-tabs-content="tabsMoi">
 	  <div class="tabs-panel is-active" id="compte">
-			<div class="" id="bloc-1">
+			<div class="">
 			<h4>Compte</h4>
 			<div class="content">
 				<dl>
@@ -83,7 +84,7 @@
 	  </form>
 
 	  <div class="tabs-panel" id="mon-identite">
-		<div class="" id="bloc-2">
+		<div class="">
 			<h4>Identité</h4>
 			<form>
 			<!-- Grid row -->
@@ -152,7 +153,7 @@
 	  </div>
 
 	  <div class="tabs-panel" id="mes-preferences">
-		<div class="" id="bloc-3">
+		<div class="">
 			<h4>Préférences</h4>
 			<!-- photo -->
 			<div class="row" id="form-photo">
@@ -195,14 +196,14 @@
 	  </div>
 
 	  <div class="tabs-panel" id="mes-favoris">
-		<div class="" id="bloc-5">
+		<div class="">
 			<h4>Favoris</h4>
 			<p>Favoris seront privilégiés lors de l'affichage des informations.
 			<br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .
 			<br>Voir aussi la page <a href="/fr/favoris">Favoris</a> pour les consulter par onglet.</p>
 			<h5>Affichage</h5>
 			<select id="filtrer">
-				<option value="filtrer-aucun-favoris" selected>Aucun filtrage</option>
+				<option value="filtrer-favoris-par-Aucun" selected>Aucun filtrage</option>
 				<option value="filtrer-favoris-par-Articles">Favoris filtrés par Articles</option>
 				<option value="filtrer-favoris-par-Personnes">Favoris filtrés par Personnes</option>
 				<option value="filtrer-favoris-par-Ressources">Favoris filtrés par Ressources</option>
@@ -343,8 +344,33 @@
 		</div>
 	  </div>
 
+	  <div class="tabs-panel" id="mon-historique">
+		<div class="">
+			<h4>Historique</h4>
+			<p>Historique de ma participation, de toutes mes interactions.</p>
+			<h5>Affichage</h5>
+			<select id="filtrer">
+				<option value="filtrer-historique-par-Aucun" selected>Aucun filtrage</option>
+				<option value="filtrer-historique-par-Date">Historique filtré par Date</option>
+				<option value="filtrer-historique-par-Nom">Historique filtré par Nom</option>
+				<option value="filtrer-historique-par-Type">Historique filtré par Type</option>
+			</select>
+			<select id="trier">
+				<option value="trier-historique-par-date" selected>Tableau trié par Date</option>
+				<option value="trier-historique-par-nom">Tableau trié par Nom</option>
+				<option value="trier-historique-par-type">Tableau trié par Type</option>
+			</select>
+			<br>
+			<h4>Mes interactions</h4>
+			<div class="content">
+				<p><%= partials.tableMesInteractions() %></p>
+				<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+			</div>
+		</div>
+	  </div>
+
 	  <div class="tabs-panel" id="mon-agenda">
-		<div class="" id="bloc-11">
+		<div class="">
 			<h4>Agenda</h4>
 
 			<div class="float-right">
@@ -426,7 +452,7 @@
 	  </div>
 
 	  <div class="tabs-panel" id="mon-calendrier">
-		<div class="" id="bloc-12">
+		<div class="">
 			<h4>Calendrier</h4>
 			<div class="content">
 				<p>
@@ -445,7 +471,7 @@
 	  </div>
 
 	  <div class="tabs-panel" id="mes-meteos">
-		<div class="" id="bloc-7">
+		<div class="">
 			<h4>Météos</h4>
 			<div><p>Météo des lieux que vous avez choisis dans <a href="#mes-preferences"><span class="larger-text">Préférences</span></a>.</p></div>
 			<div class="row">
