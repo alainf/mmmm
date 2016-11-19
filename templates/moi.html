@@ -202,29 +202,35 @@
 			<br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .
 			<br>Voir aussi la page <a href="/fr/favoris">Favoris</a> pour les consulter par onglet.</p>
 			<h5>Affichage</h5>
-			<select id="filtrer">
-				<option value="filtrer-favoris-par-Aucun" selected>Aucun filtrage</option>
-				<option value="filtrer-favoris-par-Articles">Favoris filtrés par Articles</option>
-				<option value="filtrer-favoris-par-Personnes">Favoris filtrés par Personnes</option>
-				<option value="filtrer-favoris-par-Ressources">Favoris filtrés par Ressources</option>
-				<option value="filtrer-favoris-par-Sections">Favoris filtrés par Sections</option>
-				<option value="filtrer-favoris-par-Sujets">Favoris filtrés par Sujets</option>
-				<option value="filtrer-favoris-par-Avis">Favoris filtrés par Avis</option>
-				<option value="filtrer-favoris-par-Appels">Favoris filtrés par Appels à communication</option>
-				<option value="filtrer-favoris-par-Bourses">Favoris filtrés par Bourses</option>
-				<option value="filtrer-favoris-par-Conférences">Favoris filtrés par Conférences</option>
-				<option value="filtrer-favoris-par-Congrès">Favoris filtrés par Congrès</option>
-				<option value="filtrer-favoris-par-Emplois">Favoris filtrés par Emplois</option>
-				<option value="filtrer-favoris-par-Taches">Favoris filtrés par tâches</option>
-				<option value="filtrer-favoris-par-Lancements">Favoris filtrés par Lancements</option>
-				<option value="filtrer-favoris-par-Activités">Favoris filtrés par Activités</option>
-				<option value="filtrer-favoris-par-Rendez-vous">Favoris filtrés par Rendez-vous</option>
-			</select>
 			<select id="trier">
 				<option value="trier-favoris-par-nom" selected>Tableau trié par Nom</option>
 				<option value="trier-favoris-par-type">Tableau trié par Type</option>
 			</select>
-			<br>
+			<select id="filtrer">
+				<option value="filtrer-favoris-par-aucun">Aucun filtrage</option>
+				<option value="filtrer-favoris-par-autocomplete" selected>Afficher que les favoris qui contiennent le(s) terme(s) ci-dessous</option>
+				<option value="filtrer-favoris-par-articles">Afficher que les Articles</option>
+				<option value="filtrer-favoris-par-personnes">Afficher que les Personnes</option>
+				<option value="filtrer-favoris-par-ressources">Afficher que les Ressources</option>
+				<option value="filtrer-favoris-par-sections">Afficher que les Sections</option>
+				<option value="filtrer-favoris-par-sujets">Afficher que les Sujets</option>
+				<option value="filtrer-favoris-par-aAvis">Afficher que les Avis</option>
+				<option value="filtrer-favoris-par-appels">Afficher que les Appels à communication</option>
+				<option value="filtrer-favoris-par-bourses">Afficher que les Bourses</option>
+				<option value="filtrer-favoris-par-conférences">Afficher que les Conférences</option>
+				<option value="filtrer-favoris-par-congrès">Afficher que les Congrès</option>
+				<option value="filtrer-favoris-par-emplois">Afficher que les Emplois</option>
+				<option value="filtrer-favoris-par-taches">Afficher que les tâches</option>
+				<option value="filtrer-favoris-par-lancements">Afficher que les Lancements</option>
+				<option value="filtrer-favoris-par-activités">Afficher que les Activités</option>
+				<option value="filtrer-favoris-par-rendez-vous">Afficher que les Rendez-vous</option>
+			</select>
+			<div class="row">
+				<div class="input-group">
+					<span class="input-group-label">Filtrer :</span>
+					<input class="input-group-field" type="text" name="filtrerMesFavoris" placeholder="Autocomplete">
+				</div>
+			</div>
 			<h4>Mes favoris</h4>
 			<div class="content">
 				<p><%= partials.tableFavoris() %></p>
@@ -359,6 +365,7 @@
 				<option value="filtrer-historique-interaction" selected>Afficher que les interactions qui contiennent le(s) terme(s) ci-dessous</option>
 				<option value="filtrer-historique-commentaires">Afficher que les Commentaires</option>
 				<option value="filtrer-historique-evaluations">Afficher que les Évaluations</option>
+				<option value="filtrer-historique-recherches">Afficher que les Recherches</option>
 				<option value="filtrer-historique-suggestions">Afficher que les Suggestions</option>
 			</select>
 			<div class="row">
@@ -378,82 +385,53 @@
 	  <div class="tabs-panel" id="mon-agenda">
 		<div class="">
 			<h4>Agenda</h4>
-
-			<div class="float-right">
-				<h5>Légende</h5>
-				<p>
-				<span title="U" class="success badge">U</span> Tâches ajoutées par l'<strong>utilisateur</strong><br>
-				<span title="G" class="warning badge">G</span> Tâches héritées de ses <strong>groupes</strong><br>
-				<span title="S" class="alert badge">S</span> Tâches ajoutées par le <strong>système</strong><br>
-				</p>
-				<img src="/img/placeholders/agenda.jpg" width="400">
-			</div>
-
-			<div><h5>Fonctions</h5></div>
-			<div class="content">
-				<ul>
-					<li><strong><%= partials.modalAjouterTache() %></strong><br></li>
-					<li><strong>Modifier</strong> une tâche<br></li>
-					<li><strong>Commuter</strong> l'accomplissement d'une tâche<br></li>
-					<li><strong>Retirer</strong> une tâche<br></li>
-				</ul>
-			</div>
-
 			<div class="row">
-				<div class="large-5 medium-5 small-5 columns">
+				<div class="large-6 medium-6 small-6 columns">
 					<div class="">
-						<br><br>
-						<p class="text-left">Présentement: <em>Aucun filtrage</em>.</p>
-						<table>
-							<tr>
-							<td class="text-right">Filtrer par :</td>
-							<td class="text-left">
-								<!-- begin dropdown menu -->
-								<ul class="menu dropdown" data-dropdown-menu>
-								<li class="active">
-									<a href="#"><strong>Choisir type</strong></a>
-									<ul class="menu">
-									<li><a href="#">Aucun filtrage</a></li>
-									<li><a href="#">Utilisateur</a></li>
-									<li><a href="#">Groupes</a></li>
-									<li><a href="#">Système</a></li>
-									</ul>
-								</li>
-								</ul>
-								<!-- end dropdown menu -->
-							</td>
-							</tr>
-						</table>
-						<br>
-						<p class="text-left">Présentement: Trié par <em>Moment</em>.</p>
-						<table>
-							<tr>
-							<td class="text-right">Trier par :</td>
-							<td class="text-left">
-								<!-- begin dropdown menu -->
-								<ul class="menu dropdown" data-dropdown-menu>
-								<li class="active">
-									<a href="#"><strong>Choisir tri</strong></a>
-									<ul class="menu">
-									<li><a href="#">Moment</a></li>
-									<li><a href="#">Type</a></li>
-									<li><a href="#">Tâche</a></li>
-									<li><a href="#">Accomplie</a></li>
-									</ul>
-								</li>
-								</ul>
-								<!-- end dropdown menu -->
-							</td>
-							</tr>
-						</table>
-
+						<h5>Légende</h5>
+						<p>
+						<span title="U" class="success badge">U</span> Tâches ajoutées par l'<strong>utilisateur</strong><br>
+						<span title="G" class="warning badge">G</span> Tâches héritées de ses <strong>groupes</strong><br>
+						<span title="S" class="alert badge">S</span> Tâches ajoutées par le <strong>système</strong><br>
+						</p>
+					</div>
+				</div>
+				<div class="large-6 medium-6 small-6 columns">
+					<h5>Fonctions</h5>
+					<div class="content">
+						<ul>
+							<li><strong><%= partials.modalAjouterTache() %></strong><br></li>
+							<li><strong>Modifier</strong> une tâche<br></li>
+							<li><strong>Retirer</strong> une tâche<br></li>
+						</ul>
 					</div>
 				</div>
 			</div>
-			<!-- table -->
-			<%= partials.tableTaches() %>
-			<!-- end table -->
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+			<h5>Affichage</h5>
+			<select id="trier">
+				<option value="trier-taches-par-nom" selected>Tableau trié par Moment</option>
+				<option value="trier-taches-par-type">Tableau trié par Type</option>
+				<option value="trier-taches-par-type">Tableau trié par Nom</option>
+				<option value="trier-taches-par-accomplie">Tableau trié par Accomplie</option>
+			</select>
+			<select id="filtrer">
+				<option value="filtrer-taches-par-aucun">Aucun filtrage</option>
+				<option value="filtrer-taches-par-autocomplete" selected>Afficher que les tâches qui contiennent le(s) terme(s) ci-dessous</option>
+				<option value="filtrer-taches-de-type-U">Afficher que les tâches ajoutées par l'utilisateur</option>
+				<option value="filtrer-taches-de-type-G">Afficher que les tâches héritées de ses groupes</option>
+				<option value="filtrer-taches-de-type-S">Afficher que les tâches ajoutées par le système</option>
+			</select>
+			<div class="row">
+				<div class="input-group">
+					<span class="input-group-label">Filtrer :</span>
+					<input class="input-group-field" type="text" name="filtrerMesTaches" placeholder="Autocomplete">
+				</div>
+			</div>
+			<h4>Mes tâches</h4>
+			<div class="content">
+				<%= partials.tableTaches() %>
+				<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+			</div>
 		</div>
 	  </div>
 
