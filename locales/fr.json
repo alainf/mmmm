@@ -21,5 +21,6 @@
   "%s livre": {
     "one": "%s livre",
     "other": "%s livres"
-  }
+  },
+  "PhdAdmin": "PhdAdmin"
 }

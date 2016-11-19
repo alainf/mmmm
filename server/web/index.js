@@ -73,6 +73,17 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
+    path: '/{languageCode}/groupe',
+    handler: {
+      view: {
+        template: 'groupe1',
+        context: { lesSections: sections.items, lesSujets: sujets.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
     path: '/{languageCode}/sujet',
     handler: {
       view: {

@@ -1,0 +1,28 @@
+<a title="Joindre ce groupe" data-open="modalJoindreGroupe<%- data.nombre %>"><i class="larger-text fi-link"></i></a>
+
+<div class="reveal" id="modalJoindreGroupe<%- data.nombre %>" data-reveal>
+	<h4>Joindre groupe <%- data.nom %></h4>
+	<p>Veuillez spécifier votre nom et la raison de ce contact:</p>
+	<form>
+	<dl>
+	<dt>Votre nom</dt>
+	<dd><input type="text" name="contact-parQui" value="<%- data.moi %>"></dd>
+	<dt>Raison de ce contact</dt>
+	<dd>
+		<select>
+			<option value="Inviter" selected>Me joindre à ce groupe</option>
+			<option value="Information">Information</option>
+		</select>
+	</dd>
+	<dt>Détails</dt>
+	<dd><textarea name="joindre-raison">Je souhaite me joindre à votre groupe car ...</textarea></dd>
+	</dl>
+	<p>
+	<a href="#" class="button" title="Joindre ce groupe">Joindre</a>
+	<a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+	</p>
+	</form>
+	<button class="close-button" data-close aria-label="Close modal" type="button">
+		<span aria-hidden="true">&times;</span>
+	</button>
+</div>
