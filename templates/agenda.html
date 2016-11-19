@@ -14,7 +14,7 @@
   <div class="large-12 medium-12 small-12 columns">
     <div class="callout">
       <h3 id="page-main-title" class="text-center">Agenda</h3>
-      <p class="text-center"><em>Activités de cette communauté</em></p>
+      <p class="text-center"><em>Activités de phdAdmin</em></p>
       <blockquote class="text-center">
 			Un agenda est un outil permettant d'associer des actions à des moments, et d'organiser ainsi son temps.
 		</blockquote>
@@ -29,13 +29,13 @@
 
 		<!-- Horizontal TABS -->
 		<ul class="tabs" data-tabs id="page-tabs">
-		  <li class="tabs-title is-active"><a href="#du-nouveau" aria-selected="true"><span class="larger-text">Du nouveau</span></a></li>
 		  <li class="tabs-title"><a href="#appels-a-communication"><span class="larger-text">Appels</span></a></li>
-		  <li class="tabs-title"><a href="#bourses"><span class="larger-text">Bourses</span></a></li>
+		  <li class="tabs-title is-active"><a href="#avis" aria-selected="true"><span class="larger-text">Avis</span></a></li>
 		  <li class="tabs-title"><a href="#conferences"><span class="larger-text">Conférences</span></a></li>
 		  <li class="tabs-title"><a href="#congres"><span class="larger-text">Congrès</span></a></li>
 		  <li class="tabs-title"><a href="#emplois"><span class="larger-text">Emplois</span></a></li>
 		  <li class="tabs-title"><a href="#etudes"><span class="larger-text">Études</span></a></li>
+		  <li class="tabs-title"><a href="#financement"><span class="larger-text">Financement</span></a></li>
 		  <li class="tabs-title"><a href="#lancements"><span class="larger-text">Lancements</span></a></li>
 		  <li class="tabs-title"><a href="#quoi-faire"><span class="larger-text">Quoi faire</span></a></li>
 		  <li class="tabs-title"><a href="#rendez-vous"><span class="larger-text">Rendez-vous</span></a></li>
@@ -43,11 +43,11 @@
 
 		<div class="tabs-content" data-tabs-content="page-tabs">
 
-		  <div class="tabs-panel is-active" id="du-nouveau">
+		  <div class="tabs-panel is-active" id="avis">
 				<div class="row">
 					<div class="large-6 medium-6 small-6 columns">
 						<div class="">
-							<h4>Du nouveau</h4>
+							<h4>Avis</h4>
 							<div class="content">
 							<p>Avis concernant ce qu'il y a de nouveau.<br><%= partials.modalProposerNouveau() %></p>
 							<dl>
@@ -64,9 +64,9 @@
 					</div>
 					<div class="large-6 medium-6 small-6 columns">
 						<div class="">
-							<h4>Mes nouveaux</h4>
+							<h4>Mes avis</h4>
 							<div class="content">
-							<p>Avis qui m'intéresse.<br><%= partials.modalProposerNouveau() %></p>
+							<p>Avis qui m'intéressent.<br><%= partials.modalProposerNouveau() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-minus"></i></a></span> Avis #2</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -88,7 +88,7 @@
 						<div class="">
 						<h4>Appels à communication</h4>
 							<div class="content">
-							<p>Appels qui intéresseront cette communauté.<br><%= partials.modalProposerAppel() %></p>
+							<p>Appels qui intéresseront phdAdmin.<br><%= partials.modalProposerAppel() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Appel #1</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -121,52 +121,13 @@
 				</div>
 		  </div>
 
-		  <div class="tabs-panel" id="bourses">
-				<div class="row">
-					<div class="large-6 medium-6 small-6 columns">
-						<div class="">
-							<h4>Bourses</h4>
-							<div class="content">
-							<p>Bourses qui intéresseront cette communauté.<br><%= partials.modalProposerBourse() %></p>
-							<dl>
-							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Bourse #3</dt>
-							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Bourse #4</dt>
-							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Bourse #n</dt>
-							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-							</dl>
-							<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-							</div>
-						</div>
-					</div>
-					<div class="large-6 medium-6 small-6 columns">
-						<div class="">
-							<h4>Mes bourses</h4>
-							<div class="content">
-							<p>Bourses qui m'intéressent.<br><%= partials.modalProposerBourse() %></p>
-							<dl>
-							<dt><a href="#"><span class="larger-text"><i class="fi-minus"></i></a></span> Bourse #1</dt>
-							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-							<dt><a href="#"><span class="larger-text"><i class="fi-minus"></i></a></span> Bourse #2</dt>
-							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-							<dt><a href="#"><span class="larger-text"><i class="fi-minus"></i></a></span> Bourse #n</dt>
-							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-							</dl>
-							<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-							</div>
-						</div>
-					</div>
-				</div>
-		  </div>
-
 		  <div class="tabs-panel" id="conferences">
 				<div class="row">
 					<div class="large-6 medium-6 small-6 columns">
 						<div class="">
 							<h4>Conférences</h4>
 							<div class="content">
-							<p>Conférences qui intéresseront cette communauté.<br><%= partials.modalProposerConference() %></p>
+							<p>Conférences qui intéresseront phdAdmin.<br><%= partials.modalProposerConference() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Conférence #1</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -205,7 +166,7 @@
 						<div class="">
 							<h4>Congrès</h4>
 							<div class="content">
-							<p>Congrès qui intéresseront cette communauté.<br><%= partials.modalProposerCongres() %></p>
+							<p>Congrès qui intéresseront phdAdmin.<br><%= partials.modalProposerCongres() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Congrès #1</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -244,7 +205,7 @@
 						<div class="">
 							<h4>Emplois</h4>
 							<div class="content">
-							<p>Emplois qui intéresseront cette communauté.<br><%= partials.modalProposerEmploi() %></p>
+							<p>Emplois qui intéresseront phdAdmin.<br><%= partials.modalProposerEmploi() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Emploi #1</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -316,13 +277,52 @@
 				</div>
 		  </div>
 
+		<div class="tabs-panel" id="financement">
+				<div class="row">
+					<div class="large-6 medium-6 small-6 columns">
+						<div class="">
+							<h4>Financement</h4>
+							<div class="content">
+							<p>Bourses/subventions qui intéresseront phdAdmin.<br><%= partials.modalProposerBourse() %></p>
+							<dl>
+							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Bourse #3</dt>
+							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Bourse #4</dt>
+							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Bourse #n</dt>
+							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+							</dl>
+							<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+							</div>
+						</div>
+					</div>
+					<div class="large-6 medium-6 small-6 columns">
+						<div class="">
+							<h4>Mon financement</h4>
+							<div class="content">
+							<p>Bourses/subventions qui m'intéressent.<br><%= partials.modalProposerBourse() %></p>
+							<dl>
+							<dt><a href="#"><span class="larger-text"><i class="fi-minus"></i></a></span> Bourse #1</dt>
+							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+							<dt><a href="#"><span class="larger-text"><i class="fi-minus"></i></a></span> Bourse #2</dt>
+							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+							<dt><a href="#"><span class="larger-text"><i class="fi-minus"></i></a></span> Bourse #n</dt>
+							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+							</dl>
+							<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+		  </div>
+
 		  <div class="tabs-panel" id="lancements">
 				<div class="row">
 					<div class="large-6 medium-6 small-6 columns">
 						<div class="">
 							<h4>Lancements</h4>
 							<div class="content">
-							<p>Lancements [de livres] qui intéresseront cette communauté.<br><%= partials.modalProposerLancement() %></p>
+							<p>Lancements [de livres] qui intéresseront phdAdmin.<br><%= partials.modalProposerLancement() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Lancement #3</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -361,7 +361,7 @@
 						<div class="">
 							<h4>Quoi faire</h4>
 							<div class="content">
-							<p>Activités qui intéresseront cette communauté.<br><%= partials.modalProposerActivite() %></p>
+							<p>Activités qui intéresseront phdAdmin.<br><%= partials.modalProposerActivite() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Activité #1</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -400,7 +400,7 @@
 						<div class="">
 							<h4>Rendez-vous</h4>
 							<div class="content">
-							<p>Les rendez-vous de la communauté.<br><%= partials.modalProposerRendezVous() %></p>
+							<p>Les rendez-vous de phdAdmin.<br><%= partials.modalProposerRendezVous() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-plus"></i></a></span> Rendez-vous #2</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -417,7 +417,7 @@
 						<div class="">
 							<h4>Mes rendez-vous</h4>
 							<div class="content">
-							<p>Les rendez-vous qui m'intéressent.<br><%= partials.modalProposerRendezVous() %></p>
+							<p>Rendez-vous qui m'intéressent.<br><%= partials.modalProposerRendezVous() %></p>
 							<dl>
 							<dt><a href="#"><span class="larger-text"><i class="fi-minus"></i></a></span> Rendez-vous #1</dt>
 							<dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
@@ -438,7 +438,7 @@
 </div>
 
 <!-- FOOTER -->
-<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-13 à 19:48' }) %>
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-17 à 03:15' }) %>
 
 <!-- SCRIPTS -->
 <%= partials.scripts() %>

@@ -29,6 +29,7 @@
 		<li class="tabs-title"><a href="#emplois"><span class="larger-text">Emplois</span></a></li>
 		<li class="tabs-title"><a href="#lancements"><span class="larger-text">Lancements</span></a></li>
 		<li class="tabs-title"><a href="#personnes"><span class="larger-text">Personnes</span></a></li>
+		<li class="tabs-title"><a href="#recherches"><span class="larger-text">Recherches</span></a></li>
 		<li class="tabs-title"><a href="#rendezVous"><span class="larger-text">Rendez-vous</span></a></li>
 		<li class="tabs-title"><a href="#sections"><span class="larger-text">Sections</span></a></li>
 		<li class="tabs-title is-active"><a href="#mes-sujets" aria-selected="true"><span class="larger-text">Sujets</span></a></li>
@@ -136,6 +137,16 @@
 			<h4>Personnes qui m'intéressent</h4>
 			<div class="content">
 				<%= partials.tableMesPersonnes() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
+	<div class="tabs-panel" id="recherches">
+		<div class="">
+			<h4>Recherches effectuées</h4>
+			<div class="content">
+				<%= partials.tableMesRecherches() %>
 			</div>
 			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
 		</div>
