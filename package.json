@@ -23,7 +23,11 @@
   ],
   "dependencies": {
     "boom": "^4.2.0",
+    "cloudant-nano": "^6.4.1",
     "confidence": "3.x.x",
+    "couchdb-push": "git+https://github.com/millette/couchdb-push#version",
+    "dotenv-safe": "^3.0.0",
+    "glob": "^7.1.1",
     "glue": "4.x.x",
     "h2o2": "AVVS/h2o2",
     "hapi": "15.x.x",
@@ -36,7 +40,6 @@
     "inert": "^4.0.2",
     "lodash": "^4.16.6",
     "lodash-vision": "^0.0.1",
-    "nano": "^6.2.0",
     "pify": "^2.3.0",
     "vision": "4.x.x",
     "wreck": "^10.0.0"

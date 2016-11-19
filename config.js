@@ -1,5 +1,7 @@
 'use strict'
 
+require('dotenv-safe').load()
+
 const Confidence = require('confidence')
 const criteria = { env: process.env.NODE_ENV }
 
@@ -18,13 +20,18 @@ const defFalse = {
 const config = {
   $meta: 'This file configures the plot device.',
   projectName: 'hapi-demo',
-  app: { siteTitle: 'Super titre pour un super site' },
+  app: { siteTitle: process.env.SITETITLE },
+  db: {
+    url: process.env.DBURL,
+    name: process.env.DBNAME,
+    admin: process.env.DBADMIN,
+    password: process.env.DBPASSWORD
+  },
   i18n: {
     autoReload: defTrue,
     updateFiles: defTrue,
     locales: ['fr', 'en']
   },
-  db: { url: 'http://localhost:5990' },
   cookie: {
     password: 'password-should-be-32-characters',
     secure: defFalse
