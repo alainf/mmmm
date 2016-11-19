@@ -25,6 +25,7 @@
 	  <li class="tabs-title"><a href="#mes-favoris"><span class="larger-text">Favoris</span></a></li>
 	  <li class="tabs-title"><a href="#mes-notifications"><span class="larger-text">M'aviser</span></a></li>
 	  <li class="tabs-title"><a href="#ma-participation"><span class="larger-text">Participer</span></a></li>
+	  <li class="tabs-title"><a href="#mon-historique"><span class="larger-text">Historique</span></a></li>
 	  <li class="tabs-title"><a href="#mon-agenda"><span class="larger-text">Agenda</span></a></li>
 	  <li class="tabs-title"><a href="#mon-calendrier"><span class="larger-text">Calendrier</span></a></li>
 	  <li class="tabs-title"><a href="#mes-meteos"><span class="larger-text">Météos</span></a></li>
@@ -39,7 +40,7 @@
 	<form>
 	<div class="tabs-content" data-tabs-content="tabsMoi">
 	  <div class="tabs-panel is-active" id="compte">
-			<div class="" id="bloc-1">
+			<div class="">
 			<h4>Compte</h4>
 			<div class="content">
 				<dl>
@@ -83,7 +84,7 @@
 	  </form>
 
 	  <div class="tabs-panel" id="mon-identite">
-		<div class="" id="bloc-2">
+		<div class="">
 			<h4>Identité</h4>
 			<form>
 			<!-- Grid row -->
@@ -152,7 +153,7 @@
 	  </div>
 
 	  <div class="tabs-panel" id="mes-preferences">
-		<div class="" id="bloc-3">
+		<div class="">
 			<h4>Préférences</h4>
 			<!-- photo -->
 			<div class="row" id="form-photo">
@@ -195,35 +196,41 @@
 	  </div>
 
 	  <div class="tabs-panel" id="mes-favoris">
-		<div class="" id="bloc-5">
+		<div class="">
 			<h4>Favoris</h4>
 			<p>Favoris seront privilégiés lors de l'affichage des informations.
 			<br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .
 			<br>Voir aussi la page <a href="/fr/favoris">Favoris</a> pour les consulter par onglet.</p>
 			<h5>Affichage</h5>
-			<select id="filtrer">
-				<option value="filtrer-aucun-favoris" selected>Aucun filtrage</option>
-				<option value="filtrer-favoris-par-Articles">Favoris filtrés par Articles</option>
-				<option value="filtrer-favoris-par-Personnes">Favoris filtrés par Personnes</option>
-				<option value="filtrer-favoris-par-Ressources">Favoris filtrés par Ressources</option>
-				<option value="filtrer-favoris-par-Sections">Favoris filtrés par Sections</option>
-				<option value="filtrer-favoris-par-Sujets">Favoris filtrés par Sujets</option>
-				<option value="filtrer-favoris-par-Avis">Favoris filtrés par Avis</option>
-				<option value="filtrer-favoris-par-Appels">Favoris filtrés par Appels à communication</option>
-				<option value="filtrer-favoris-par-Bourses">Favoris filtrés par Bourses</option>
-				<option value="filtrer-favoris-par-Conférences">Favoris filtrés par Conférences</option>
-				<option value="filtrer-favoris-par-Congrès">Favoris filtrés par Congrès</option>
-				<option value="filtrer-favoris-par-Emplois">Favoris filtrés par Emplois</option>
-				<option value="filtrer-favoris-par-Taches">Favoris filtrés par tâches</option>
-				<option value="filtrer-favoris-par-Lancements">Favoris filtrés par Lancements</option>
-				<option value="filtrer-favoris-par-Activités">Favoris filtrés par Activités</option>
-				<option value="filtrer-favoris-par-Rendez-vous">Favoris filtrés par Rendez-vous</option>
-			</select>
 			<select id="trier">
 				<option value="trier-favoris-par-nom" selected>Tableau trié par Nom</option>
 				<option value="trier-favoris-par-type">Tableau trié par Type</option>
 			</select>
-			<br>
+			<select id="filtrer">
+				<option value="filtrer-favoris-par-aucun">Aucun filtrage</option>
+				<option value="filtrer-favoris-par-autocomplete" selected>Afficher que les favoris qui contiennent le(s) terme(s) ci-dessous</option>
+				<option value="filtrer-favoris-par-articles">Afficher que les Articles</option>
+				<option value="filtrer-favoris-par-personnes">Afficher que les Personnes</option>
+				<option value="filtrer-favoris-par-ressources">Afficher que les Ressources</option>
+				<option value="filtrer-favoris-par-sections">Afficher que les Sections</option>
+				<option value="filtrer-favoris-par-sujets">Afficher que les Sujets</option>
+				<option value="filtrer-favoris-par-aAvis">Afficher que les Avis</option>
+				<option value="filtrer-favoris-par-appels">Afficher que les Appels à communication</option>
+				<option value="filtrer-favoris-par-bourses">Afficher que les Bourses</option>
+				<option value="filtrer-favoris-par-conférences">Afficher que les Conférences</option>
+				<option value="filtrer-favoris-par-congrès">Afficher que les Congrès</option>
+				<option value="filtrer-favoris-par-emplois">Afficher que les Emplois</option>
+				<option value="filtrer-favoris-par-taches">Afficher que les tâches</option>
+				<option value="filtrer-favoris-par-lancements">Afficher que les Lancements</option>
+				<option value="filtrer-favoris-par-activités">Afficher que les Activités</option>
+				<option value="filtrer-favoris-par-rendez-vous">Afficher que les Rendez-vous</option>
+			</select>
+			<div class="row">
+				<div class="input-group">
+					<span class="input-group-label">Filtrer :</span>
+					<input class="input-group-field" type="text" name="filtrerMesFavoris" placeholder="Autocomplete">
+				</div>
+			</div>
 			<h4>Mes favoris</h4>
 			<div class="content">
 				<p><%= partials.tableFavoris() %></p>
@@ -312,7 +319,7 @@
 								<span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
 							</label>
 						</div>
-						<span>Partager mon <em>profil</em> avec mes pairs ?</span>
+						<span>Partager mon <em>agenda</em> avec mes pairs ?</span>
 						<div class="switch">
 							<input class="switch-input" type="checkbox" id="partagerMoiAvecPairs" name="partagerMoiAvecPairs">
 							<label class="switch-paddle" for="partagerMoiAvecPairs">
@@ -343,90 +350,93 @@
 		</div>
 	  </div>
 
-	  <div class="tabs-panel" id="mon-agenda">
-		<div class="" id="bloc-11">
-			<h4>Agenda</h4>
-
-			<div class="float-right">
-				<h5>Légende</h5>
-				<p>
-				<span title="U" class="success badge">U</span> Tâches ajoutées par l'<strong>utilisateur</strong><br>
-				<span title="G" class="warning badge">G</span> Tâches héritées de ses <strong>groupes</strong><br>
-				<span title="S" class="alert badge">S</span> Tâches ajoutées par le <strong>système</strong><br>
-				</p>
-				<img src="/img/placeholders/agenda.jpg" width="400">
-			</div>
-
-			<div><h5>Fonctions</h5></div>
-			<div class="content">
-				<ul>
-					<li><strong><%= partials.modalAjouterTache() %></strong><br></li>
-					<li><strong>Modifier</strong> une tâche<br></li>
-					<li><strong>Commuter</strong> l'accomplissement d'une tâche<br></li>
-					<li><strong>Retirer</strong> une tâche<br></li>
-				</ul>
-			</div>
-
+	  <div class="tabs-panel" id="mon-historique">
+		<div class="">
+			<h4>Historique</h4>
+			<p>Historique de ma participation, de toutes mes interactions.</p>
+			<h5>Affichage</h5>
+			<select id="trier">
+				<option value="trier-historique-par-moment" selected>Tableau trié par Moment effectué</option>
+				<option value="trier-historique-par-type">Tableau trié par Type d'interaction</option>
+				<option value="trier-historique-par-nom">Tableau trié par Interaction</option>
+			</select>
+			<select id="filtrer">
+				<option value="filtrer-historique-par-aucun">Aucun filtrage</option>
+				<option value="filtrer-historique-interaction" selected>Afficher que les interactions qui contiennent le(s) terme(s) ci-dessous</option>
+				<option value="filtrer-historique-commentaires">Afficher que les Commentaires</option>
+				<option value="filtrer-historique-evaluations">Afficher que les Évaluations</option>
+				<option value="filtrer-historique-recherches">Afficher que les Recherches</option>
+				<option value="filtrer-historique-suggestions">Afficher que les Suggestions</option>
+			</select>
 			<div class="row">
-				<div class="large-5 medium-5 small-5 columns">
-					<div class="">
-						<br><br>
-						<p class="text-left">Présentement: <em>Aucun filtrage</em>.</p>
-						<table>
-							<tr>
-							<td class="text-right">Filtrer par :</td>
-							<td class="text-left">
-								<!-- begin dropdown menu -->
-								<ul class="menu dropdown" data-dropdown-menu>
-								<li class="active">
-									<a href="#"><strong>Choisir type</strong></a>
-									<ul class="menu">
-									<li><a href="#">Aucun filtrage</a></li>
-									<li><a href="#">Utilisateur</a></li>
-									<li><a href="#">Groupes</a></li>
-									<li><a href="#">Système</a></li>
-									</ul>
-								</li>
-								</ul>
-								<!-- end dropdown menu -->
-							</td>
-							</tr>
-						</table>
-						<br>
-						<p class="text-left">Présentement: Trié par <em>Moment</em>.</p>
-						<table>
-							<tr>
-							<td class="text-right">Trier par :</td>
-							<td class="text-left">
-								<!-- begin dropdown menu -->
-								<ul class="menu dropdown" data-dropdown-menu>
-								<li class="active">
-									<a href="#"><strong>Choisir tri</strong></a>
-									<ul class="menu">
-									<li><a href="#">Moment</a></li>
-									<li><a href="#">Type</a></li>
-									<li><a href="#">Tâche</a></li>
-									<li><a href="#">Accomplie</a></li>
-									</ul>
-								</li>
-								</ul>
-								<!-- end dropdown menu -->
-							</td>
-							</tr>
-						</table>
+				<div class="input-group">
+					<span class="input-group-label">Filtrer :</span>
+					<input class="input-group-field" type="text" name="filtrerMesInteractions" placeholder="Autocomplete">
+				</div>
+			</div>
+			<h4>Mes interactions</h4>
+			<div class="content">
+				<p><%= partials.tableMesInteractions() %></p>
+				<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+			</div>
+		</div>
+	  </div>
 
+	  <div class="tabs-panel" id="mon-agenda">
+		<div class="">
+			<h4>Agenda</h4>
+			<div class="row">
+				<div class="large-6 medium-6 small-6 columns">
+					<div class="">
+						<h5>Légende</h5>
+						<p>
+						<span title="U" class="success badge">U</span> Tâches ajoutées par l'<strong>utilisateur</strong><br>
+						<span title="G" class="warning badge">G</span> Tâches héritées de ses <strong>groupes</strong><br>
+						<span title="S" class="alert badge">S</span> Tâches ajoutées par le <strong>système</strong><br>
+						</p>
+					</div>
+				</div>
+				<div class="large-6 medium-6 small-6 columns">
+					<h5>Fonctions</h5>
+					<div class="content">
+						<ul>
+							<li><strong><%= partials.modalAjouterTache() %></strong><br></li>
+							<li><strong>Modifier</strong> une tâche<br></li>
+							<li><strong>Retirer</strong> une tâche<br></li>
+						</ul>
 					</div>
 				</div>
 			</div>
-			<!-- table -->
-			<%= partials.tableTaches() %>
-			<!-- end table -->
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+			<h5>Affichage</h5>
+			<select id="trier">
+				<option value="trier-taches-par-nom" selected>Tableau trié par Moment</option>
+				<option value="trier-taches-par-type">Tableau trié par Type</option>
+				<option value="trier-taches-par-type">Tableau trié par Nom</option>
+				<option value="trier-taches-par-accomplie">Tableau trié par Accomplie</option>
+			</select>
+			<select id="filtrer">
+				<option value="filtrer-taches-par-aucun">Aucun filtrage</option>
+				<option value="filtrer-taches-par-autocomplete" selected>Afficher que les tâches qui contiennent le(s) terme(s) ci-dessous</option>
+				<option value="filtrer-taches-de-type-U">Afficher que les tâches ajoutées par l'utilisateur</option>
+				<option value="filtrer-taches-de-type-G">Afficher que les tâches héritées de ses groupes</option>
+				<option value="filtrer-taches-de-type-S">Afficher que les tâches ajoutées par le système</option>
+			</select>
+			<div class="row">
+				<div class="input-group">
+					<span class="input-group-label">Filtrer :</span>
+					<input class="input-group-field" type="text" name="filtrerMesTaches" placeholder="Autocomplete">
+				</div>
+			</div>
+			<h4>Mes tâches</h4>
+			<div class="content">
+				<%= partials.tableTaches() %>
+				<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+			</div>
 		</div>
 	  </div>
 
 	  <div class="tabs-panel" id="mon-calendrier">
-		<div class="" id="bloc-12">
+		<div class="">
 			<h4>Calendrier</h4>
 			<div class="content">
 				<p>
@@ -445,7 +455,7 @@
 	  </div>
 
 	  <div class="tabs-panel" id="mes-meteos">
-		<div class="" id="bloc-7">
+		<div class="">
 			<h4>Météos</h4>
 			<div><p>Météo des lieux que vous avez choisis dans <a href="#mes-preferences"><span class="larger-text">Préférences</span></a>.</p></div>
 			<div class="row">

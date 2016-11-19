@@ -22,13 +22,14 @@
 		<li class="tabs-title"><a href="#activites"><span class="larger-text">Activités</span></a></li>
 		<li class="tabs-title"><a href="#appels"><span class="larger-text">Appels à comm.</span></a></li>
 		<li class="tabs-title"><a href="#articles"><span class="larger-text">Articles</span></a></li>
+		<li class="tabs-title"><a href="#avis"><span class="larger-text">Avis</span></a></li>
 		<li class="tabs-title"><a href="#bourses"><span class="larger-text">Bourses</span></a></li>
 		<li class="tabs-title"><a href="#conferences"><span class="larger-text">Conférences</span></a></li>
 		<li class="tabs-title"><a href="#congres"><span class="larger-text">Congrès</span></a></li>
-		<li class="tabs-title"><a href="#duNouveau"><span class="larger-text">Du nouveau</span></a></li>
 		<li class="tabs-title"><a href="#emplois"><span class="larger-text">Emplois</span></a></li>
 		<li class="tabs-title"><a href="#lancements"><span class="larger-text">Lancements</span></a></li>
 		<li class="tabs-title"><a href="#personnes"><span class="larger-text">Personnes</span></a></li>
+		<li class="tabs-title"><a href="#recherches"><span class="larger-text">Recherches</span></a></li>
 		<li class="tabs-title"><a href="#rendezVous"><span class="larger-text">Rendez-vous</span></a></li>
 		<li class="tabs-title"><a href="#sections"><span class="larger-text">Sections</span></a></li>
 		<li class="tabs-title is-active"><a href="#mes-sujets" aria-selected="true"><span class="larger-text">Sujets</span></a></li>
@@ -71,9 +72,9 @@
 		</div>
 	</div>
 
-	<div class="tabs-panel" id="duNouveau">
+	<div class="tabs-panel" id="avis">
 		<div class="">
-			<h4>Du nouveau qui m'intéresse</h4>
+			<h4>Avis qui m'intéressent</h4>
 			<div class="content">
 				<%= partials.tableMesAvis() %>
 			</div>
@@ -141,6 +142,16 @@
 		</div>
 	</div>
 
+	<div class="tabs-panel" id="recherches">
+		<div class="">
+			<h4>Recherches effectuées</h4>
+			<div class="content">
+				<%= partials.tableMesRecherches() %>
+			</div>
+			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+		</div>
+	</div>
+
 	<div class="tabs-panel" id="rendezVous">
 		<div class="">
 			<h4>Mes rendez-vous</h4>
@@ -185,7 +196,7 @@
 </div>
 
 <!-- FOOTER -->
-<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-15 à 19:30' }) %>
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-18 à 20:23' }) %>
 
 <!-- SCRIPTS -->
 <%= partials.scripts() %>
