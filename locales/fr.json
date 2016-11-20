@@ -22,5 +22,6 @@
     "one": "%s livre",
     "other": "%s livres"
   },
-  "PhdAdmin": "PhdAdmin"
+  "PhdAdmin": "PhdAdmin",
+  "Groupe": "Groupe"
 }

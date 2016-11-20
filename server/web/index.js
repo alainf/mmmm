@@ -5,6 +5,8 @@ exports.register = function (server, options, next) {
   const sujets = require('../../data/list2.json')
   const sujets2 = require('../../data/sujets-Agriculture.json')
   const sections2 = require('../../data/sections-Entreprise.json')
+  const sectionsGr1 = require('../../data/sectionsGr1.json')
+  const sujetsGr1 = require('../../data/sujetsGr1.json')
   const pages = [
     'abonnezVous',
     'agenda',
@@ -77,7 +79,7 @@ exports.register = function (server, options, next) {
     handler: {
       view: {
         template: 'groupe1',
-        context: { lesSections: sections.items, lesSujets: sujets.items }
+        context: { lesSections: sectionsGr1.items, lesSujets: sujetsGr1.items }
       }
     }
   })
