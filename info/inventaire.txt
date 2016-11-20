@@ -1,0 +1,145 @@
+== Partials/Divers ==
+
+ajouterCommentaire
+ajouterGroupe
+ajouterLangue
+ajouterLien
+ajouterLien2
+ajouterLieu
+ajouterMotclef
+ajouterMotclef2
+ajouterOrganisation
+ajouterPersonne
+ajouterSujet
+ajouterSujet2
+ajouterTerme
+blocLangues
+breve
+calendrier2016
+choisirTheme
+detailedCommenter
+detailedEvaluation
+detailedTopRow
+footer
+getSections
+getSujets
+liensPublics
+logoChercher
+logoChercherFiltrer
+mmhead
+mmPageHeader
+mmSearchHeader
+pagination
+scripts
+titreSeulement
+
+== Partials/Temporary ==
+
+=== de Alain ===
+
+article1
+article2
+article3
+article4
+article5
+breve1
+breve2
+breve3
+breve4
+
+=== de Robin ===
+
+foot
+head
+languages
+login
+
+== Partials/Tables ==
+
+tableFavoris
+tableLesOrganisations
+tableLesPersonnes
+tableLesSections
+tableMesActivites
+tableMesAppels
+tableMesArticles
+tableMesAvis
+tableMesBourses
+tableMesConferences
+tableMesCongres
+tableMesEmplois
+tableMesInteractions
+tableMesLancements
+tableMesOrganisations
+tableMesPersonnes
+tableMesRecherches
+tableMesRendezVous
+tableMesSections
+tableMesSujets
+tableNotifications
+tablePages
+tableRubriques
+tableTaches
+tableTousSujets
+
+== Partials/Modals ==
+
+modalAjouterActivite
+modalAjouterTache
+modalChoisirSection
+modalChoisirSujet
+modalContacterGroupe
+modalContacterMembre
+modalContacterMonGroupe
+modalContacterNous
+modalContacterPair
+modalJoindreGroupe
+modalProposerActivite
+modalProposerAppel
+modalProposerArticle
+modalProposerBourse
+modalProposerConference
+modalProposerCongres
+modalProposerEmploi
+modalProposerLancement
+modalProposerNouveau
+modalProposerRendezVous
+modalProposerTache
+modalTrier
+
+== Pages aka Templates ==
+
+Accueil				templates/accueil
+Agenda				templates/agenda
+À propos				templates/apropos
+Bottin				templates/bottin
+Favoris				templates/favoris
+FAQ					templates/faq
+Groupe				templates/groupe1 + templates/maThese + templates/monJournal
+M'abonner			templates/abonnezVous
+Me connecter		templates/meConnecter
+Me déconnecter		templates/meDeconnecter
+Moi					templates/moi
+Page externe		templates/page-ext
+Page interne		templates/page-int
+Résultats			templates/resultats
+Section				templates/section
+Sujet					templates/sujet
+
+== Templates Temporaires ==
+
+=== de Robin ===
+
+templates/doc
+templates/docs
+templates/index
+templates/multilingual
+templates/partials
+templates/pick-language
+templates/woot
+
+=== de Alain ===
+
+En construction	templates/enConstruction	Page pour éviter erreur "404 Not Found".
+Tests					templates/tests				Espace d'expérimentation.
+Articles				templates/articles			Démo des options d'affichage des leads du journal;.

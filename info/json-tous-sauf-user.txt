@@ -1,0 +1,185 @@
+= JSON =
+
+== LEADS ==
+
+* 3 types de blocs: affichage = "article" ou "breve" ou "resultat"
+* dans chaque ressource, il y aura un attribut "lead" = référence vers le lead de la ressource.
+
+=== Articles ===
+
+- ressource					= référence vers l'objet de ce LEAD.
+- pertinence				= nombre float entre 1 et 10.
+- href						= url pour l'attribut HREF.
+- titre						= string
+- soustitre					= string
+- citation					= string ou HTML ou Markdown
+- contenu					= string ou HTML ou Markdown
+- thumb
+- thumb.beside				= "headline" ou "content"
+- thumb.float				= "left" ou "right"
+- thumb.tip					= string qui ira dans l'attribut "title" de la balise "img".
+- thumb.url					= url qui ira dans l'attribut "src" de la balise "img"
+
+=== Breves ===
+
+- ressource		= référence vers l'objet de ce LEAD.
+- pertinence	= nombre float entre 1 et 10.
+- href
+- titre
+- soustitre
+- contenu
+
+=== Resultat (de recherche) ===
+
+- ressource		= référence vers l'objet de ce LEAD.
+- pertinence	= nombre float entre 1 et 10.
+- href
+- titre
+- soustitre
+- contenu
+
+== CONTENT ==
+
+* Pages
+- nom
+- entête
+- sections
+- sujets
+- breadcrumb: items
+- pagination: nombre de pages
+- pagination: page actuelle
+
+* Groupes
+- nom
+- description
+- url
+- image
+- membres
+- etc
+
+* Organisations
+- nom
+- description
+- url
+- etc
+
+* Personnes
+- nomDeFamille
+- prenom
+- description
+- url
+- image
+- etc
+
+* FAQ
+- catégorie
+- question
+- réponse
+
+* Avis (aka "Du nouveau")
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Appels (aka "Appel à communication")
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Bourses
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Conférences
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Congrès
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Emplois
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Études // càd tâchesCommunes dans /agenda/Études/
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Activités // càd activitésCommunes dans /agenda/Quoi-faire/
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Lancements
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* RendezVous
+- nom
+- url
+- lieu
+- debut
+- fin
+- description
+
+* Contacter
+- cible
+- parQui
+- raison
+- message
+
+* Recherches (pour l'Historique de recherches)
+- type
+- nom
+- trierPar
+- trierEnOrdre
+- termes
+- filtres
+- quand recherche effectuée
+- quand doit-elle être répétée ?
+
+* Commentaires
+- contenu
+- versQui
+- parQui
+- quand
+
+* Articles
++ eval-appreciation		= une valeur par user = "Aucune", "Favorable", "Défavorable", "Spam", "Abus"
++ eval-pertinence			= une valeur par user = "Sans opinion", "Indispensable", "Important", "Intéressant", "Sans intérêt"
++ eval-qualite				= une valeur par user = "Sans opinion", "Excellente", "Bonne", "Criticable", "À éliminer"
++ dans-favoris				= une valeur par user = "Oui", "Non"
