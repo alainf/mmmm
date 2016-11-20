@@ -77,8 +77,7 @@ tableMesRendezVous
 tableMesSections
 tableMesSujets
 tableNotifications
-tablePages
-tableRubriques
+tableIndexeSite
 tableTaches
 tableTousSujets
 
