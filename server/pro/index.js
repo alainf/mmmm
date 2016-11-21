@@ -1,9 +1,12 @@
 'use strict'
 
+// npm
+const url = require('url')
 const Wreck = require('wreck')
-const Config = require('../../config')
 
 exports.register = (server, options, next) => {
+  const dbUrl = url.resolve(options.db.url, options.db.name)
+
   server.views({
     engines: { html: require('lodash-vision') },
     path: 'templates',
@@ -12,9 +15,9 @@ exports.register = (server, options, next) => {
   })
 
   const mapper = (request, callback) => {
-    const it = [Config.get('/db/url') + '/ya']
+    const it = [options.db.url + options.db.name]
     if (request.params.pathy) { it.push(request.params.pathy) }
-    callback(null, it.join('/') + '?include_docs=true', { accept: 'application/json' })
+    callback(null, it.join('/') + '?include_docs=true&reduce=false', { accept: 'application/json' })
   }
 
   const responder = (go, err, res, request, reply, settings, ttl) => {
@@ -65,6 +68,7 @@ exports.register = (server, options, next) => {
     }
   })
 
+  console.log(`CouchDB: ${dbUrl}`)
   next()
 }
 

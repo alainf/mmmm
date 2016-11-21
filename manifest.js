@@ -34,10 +34,16 @@ const manifest = {
     },
     {
       plugin: {
-        options: { cookie: {
-          password: Config.get('/cookie/password'),
-          secure: Config.get('/cookie/secure')
-        } },
+        options: {
+          db: {
+            url: Config.get('/db/url'),
+            name: Config.get('/db/name')
+          },
+          cookie: {
+            password: Config.get('/cookie/password'),
+            secure: Config.get('/cookie/secure')
+          }
+        },
         register: './plugins/login/index'
       },
       options: { routes: { prefix: '/user' } }
@@ -51,7 +57,13 @@ const manifest = {
     {
       plugin: {
         register: './server/pro/index',
-        options: { templateCached: Config.get('/cache/web') }
+        options: {
+          templateCached: Config.get('/cache/web'),
+          db: {
+            url: Config.get('/db/url'),
+            name: Config.get('/db/name')
+          }
+        }
       },
       options: { routes: { prefix: '/{languageCode}/pro' } }
     },
