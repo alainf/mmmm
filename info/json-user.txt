@@ -1,0 +1,58 @@
+== OBJETS ET LEURS PROPRIÉTÉS ==
+
+* User
+
+- type de compte
+- coût mensuel
+- déduction (en fonction de participation)
+- total à payer = coût mensuel - déduction
+- échéance: date
+- paiement: Carte de crédit, Paypal, Bitcoin, Autre ...
+- payer: quand, combien
+- donner: quand, combien
+
+- userID (generated)					= user-2015-11-30-03-36-33-86932355591
+- nom-de-famille						= Farmer
+- prenom									= Alain
+- utilisateur							= alainf
+- password								= **********
+- courriel								= alain_farmer@yahoo.com
+- Géolocalisation						= Montréal
+
+- pref.photo							= url
+- pref.langues							= liste de langues
+- pref.theme							= choix de thème = "Pas de thème particulier" or autres
+- pref.traduction.traduire			= Oui, Non
+- pref.traduction.aviser			= Oui, Non
+
+- mes-sujets							= tableau: sujet, breadcrumb
+- mes-favoris							= tableau: Nom, Type
+- mes-favoris-filtrage				= Aucun filtrage, Articles, Personnes, Ressources, Sections, Sujets, Type n
+- mes-favoris-tri						= Nom, Type
+
+- mes-notifications					= tableau: Nom, Type
+- mes-notifications.on				= Oui, Non
+- mes-notifications.comment		= par courriel, par messagerie, en consultant site web
+- mes-notifications.frequence		= Immédiatement, 1 fois par heure, 1 fois par jour,  1 fois par semaine,  Jamais
+- mes-notifications.filtrage		= Aucun filtrage, Sujet, Personne, Ressource, Type n
+- mes-notifications.tri				= Nom, Type
+
+- État-de-mon-profil 				= %
+- Participant-depuis					= 2008-01-01
+- Dernière-participation			= 2016-10-28 à 18h10.
+- Points-cumulés						= 12 345 points
+- Réputation							= très fiable, etc
+
+- mes-pairs								= liste de thumbnails avec nom, image, 3 liens
+- mes-groupes							= liste de thumbnails avec nom, image, 3 liens
+
+- mes-tâches							= { type, nom, url, lieu, debut, fin, description }
+- mes-tâches-filtrage				= Aucun filtrage, Sujet, Personne, Ressource, Type n
+- mes-tâches-tri						= Nom, Type
+
+- mes-activités						= { type, nom, url, lieu, debut, fin, description }
+
+tableau pour /bottin/Organisations		= type, nom, url, etc
+tableau pour /bottin/Personnes			= type, nom, url, etc
+
+moi/favoris/affichage/btn : add item to menu for each tab in Agenda (mes choix parmi ce qui est offert publiquement)

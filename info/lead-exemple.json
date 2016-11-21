@@ -1,0 +1,19 @@
+{
+   "_id": "lead-2016-11-16-14-21-00-86530352597",
+   "title": "PhD Admin - Article interne - Mission SOCLIM",
+   "path": "/fr/page-int/n",
+   "thumb": {
+       "beside": "content",
+       "float": "left",
+       "tip": "© Julien Boulanger",
+       "src": "http://www.cite-sciences.fr/fileadmin/_processed_/csm_KERGUELEN-tempete-2_24df1f8d69.jpg"
+   },
+   "pertinence": 1,
+   "ressource": "page-2015-01-25-02-39-29-85330294164",
+   "provenance": "http://glowbi.net/mission-soclim-carnet-de-bord-2/",
+   "tip": "Exemple d'un article interne",
+   "titre": "Mission SOCLIM",
+   "soustitre": "Carnet de bord #2",
+   "citation": null,
+   "contenu": "<p class=\"text-justify\">Le Marion Dufresne vient de rejoindre les îles Kerguelen. Suite de l'expédition <span data-tooltip aria-haspopup=\"true\" class=\"has-tip\" data-disable-hover=\"false\" tabindex=\"1\" title=\"SOUTHERN OCEAN AND CLIMATE FIELD STUDIES WITH INNOVATIVE TOOLS\">SOCLIM</span> dans l'océan Austral. Nous avons atteint depuis peu la région de Kerguelen, dans les Cinquantièmes hurlants...</p>"
+}
