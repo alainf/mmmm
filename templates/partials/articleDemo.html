@@ -1,12 +1,12 @@
                 <br>
 
                 <div class="media-object" id="article 1">
-                  <h4 class="headline"><a target="_blank" href="/fr/page-int" title="Exemple d'un article interne"><%= data.titre %><%= data.soustitre ? `${data.soustitre} – ${data.soustitre}` : '' %></a></h4>
+                  <h4 class="headline"><a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre ? `${data.soustitre}` : '' %></a></h4>
 
                   <% if (data.citation) { %>
                         <blockquote class="text-justify">
                               <em>
-                                    <%= data.citation %>
+											<%= data.citation %>
                               </em>
                         </blockquote>
                   <% } %>
