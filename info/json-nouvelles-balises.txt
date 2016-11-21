@@ -1,0 +1,35 @@
+= Remarques =
+
+* Terme "lead" = contenu affiché dans une grille du journal; dans Accueil et Sectiom et Sujet.
+* Image du lead est automatiquement réduite à la taille thumbnail.
+
+
+= Balises actuelles du JSON actuel =
+
+nom					= titre
+apercu				= soustitre
+description			= texte du lead
+source-url			= href du contenu, aka origine
+
+
+= Balises à ajouter au JSON actuel =
+
+affichage			= "article" ou "breve" ou "commentaire" ou "resultat"
+
+citation				= courte citation qui accompagne le lead.
+
+contenu				= article en plein-texte = résumé lorsque contenu est vide.
+
+image-beside		= "headline" ou "content"
+
+image-float			= "left" ou "right"
+
+image-url			= url de l'image qui accompagne le lead.
+
+appreciation		= une valeur par user = Aucune, Favorable, Défavorable, Spam, Abus
+
+eval-pertinence	= une valeur par user = Sans opinion, Indispensable, Important, Intéressant, Sans intérêt
+
+eval-qualite		= une valeur par user = Sans opinion, Excellente, Bonne, Criticable, À éliminer
+
+parmi-favoris		= une valeur par user = Oui/Non

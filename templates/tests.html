@@ -5,6 +5,54 @@
 
 <body><br>
 
+<div style="clear:left">
+  <p><a onclick="open_tab('apropos','a-propos-du-site')">À propos du site</a>
+  <p><a onclick="open_tab('apropos','plan-du-site')">Plan du site</a>
+  <p><a onclick="open_tab('apropos','indexe-du-site')">Indexe du site</a>
+  <p><a onclick="open_tab('apropos','a-propos-de-nous')">À propos de nous</a>
+  <p><a onclick="open_tab('apropos','notre-politique')">Notre politique</a>
+  <p><a onclick="open_tab('apropos','charte-editorial')">Charte éditorial</a>
+  <p><a onclick="open_tab('apropos','votre-participation')">Votre participation</a>
+  <p><a onclick="open_tab('apropos','comment-publier-avec-nous')">Comment publier avec nous</a>
+  <p><a onclick="open_tab('apropos','contactez-nous')">Contactez-nous</a>
+</div>
+
+<ul id="foobar" class="tabs" data-tabs>
+  <li class="tabs-title is-active"><a href="#panel1">Tab 1</a></li>
+  <li class="tabs-title"><a href="#panel2">Tab 2</a></li>
+  <li class="tabs-title"><a href="#panel3">Tab 3</a></li>
+</ul>
+
+<div class="tabs-content small-3 column" data-tabs-content="foobar">
+  <div class="tabs-panel is-active" id="panel1">
+    <p>Panel 1 - Lorem ipsum 1</p>
+  </div>
+  <div class="tabs-panel" id="panel2">
+    <p>Panel 2 - Lorem ipsum dolor 2</p>
+  </div>
+  <div class="tabs-panel" id="panel3">
+    <p>Panel 3 - Lorem ipsum dolor 3</p>
+  </div>
+</div>
+
+<div style="clear:left">
+  <a class="button" onclick="open_tab('foobar','panel1')">Remote Open 1</a>
+  <a class="button" onclick="open_tab('foobar','panel2')">Remote Open 2</a>
+  <a class="button" onclick="open_tab('foobar','panel3')">Remote Open 3</a>
+</div>
+
+<script>
+function open_tab(tab_id,panel) {
+  $("#"+tab_id).foundation("selectTab",$("#"+panel));
+}
+</script>
+
+<p>Deep linking was set as a default parameter in 3.2.3. If you download the latest version, 3.2.4, your deep linking should work fine. In case you don't want to update all of Foundation (although I recommend you keep up to date) to the latest version, you can just download the latest version of Tabs from the repository: jquery.foundation.tabs.js and replace the old tabs with this one. In, 3.2.4, if you want to disable deep linking you have to explicitly set deep_linking to false when you initialize the plugin.
+
+<pre>$(document).foundationTabs({deep_linking: false});</pre>
+
+<p><a href="/fr/apropos#plan-du-site">Plan du site</a></p>
+
 <div class="progress" role="progressbar" tabindex="0" aria-valuenow="50" aria-valuemin="0" aria-valuetext="50 percent" aria-valuemax="100">
   <div class="progress-meter" style="width: 25%"></div>
 </div>
@@ -601,6 +649,11 @@ The <span data-tooltip aria-haspopup="true" class="has-tip left" data-disable-ho
 <script src="/js/vendor/foundation.min.js"></script>
 <script>
 	$(document).foundation();
+</script>
+<script>
+function open_tab(tab_id,panel) {
+  $("#"+tab_id).foundation("selectTab",$("#"+panel));
+}
 </script>
 
 </body>
