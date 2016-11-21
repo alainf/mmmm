@@ -10,6 +10,7 @@ exports.register = function (server, options, next) {
   const pages = [
     'abonnezVous',
     'agenda',
+    'aider',
     'apropos',
     'articles',
     'bottin',
