@@ -7,7 +7,7 @@
 <% _(data.docs).each((doc, i) => { %>
 <h3>Doc #<%- i + 1 %></h3>
 <pre>
-<%= JSON.stringify(doc, null, ' ') %>
+<%- JSON.stringify(doc, null, ' ') %>
 </pre>
 <% }) %>
 <%= partials.foot(data) %>

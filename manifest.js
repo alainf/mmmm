@@ -69,6 +69,19 @@ const manifest = {
     },
     {
       plugin: {
+        register: './server/demo/index',
+        options: {
+          templateCached: Config.get('/cache/web'),
+          db: {
+            url: Config.get('/db/url'),
+            name: Config.get('/db/name')
+          }
+        }
+      },
+      options: { routes: { prefix: '/{languageCode}/demo' } }
+    },
+    {
+      plugin: {
         register: './server/web/index',
         options: { templateCached: Config.get('/cache/web') }
       }
