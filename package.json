@@ -25,7 +25,7 @@
     "boom": "^4.2.0",
     "cloudant-nano": "^6.4.1",
     "confidence": "3.x.x",
-    "couchdb-push": "git+https://github.com/millette/couchdb-push#version",
+    "couchdb-push": "2.3.2",
     "dotenv-safe": "^3.0.0",
     "glob": "^7.1.1",
     "glue": "4.x.x",
