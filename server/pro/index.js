@@ -15,7 +15,7 @@ exports.register = (server, options, next) => {
   })
 
   const mapper = (request, callback) => {
-    const it = [options.db.url + options.db.name]
+    const it = [dbUrl]
     if (request.params.pathy) { it.push(request.params.pathy) }
     callback(null, it.join('/') + '?include_docs=true&reduce=false', { accept: 'application/json' })
   }
