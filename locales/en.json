@@ -20,6 +20,7 @@
   "%s livre": {
     "one": "%s livre",
     "other": "%s livres"
-  }
+  },
   "Groupe": "Group",
+  "Les docs": "Les docs"
 }

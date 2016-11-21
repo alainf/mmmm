@@ -1,31 +1,31 @@
 'use strict'
 
-exports.register = function (server, options, next) {
-  const sections = require('../../data/list1.json')
-  const sujets = require('../../data/list2.json')
-  const sujets2 = require('../../data/sujets-Agriculture.json')
-  const sections2 = require('../../data/sections-Entreprise.json')
-  const sectionsGr1 = require('../../data/sectionsGr1.json')
-  const sujetsGr1 = require('../../data/sujetsGr1.json')
-  const pages = [
-    'abonnezVous',
-    'agenda',
-    'aider',
-    'apropos',
-    'articles',
-    'bottin',
-    'enConstruction',
-    'faq',
-    'favoris',
-    'index',
-    'meConnecter',
-    'meDeconnecter',
-    'moi',
-    'page-ext',
-    'page-int',
-    'resultats'
-  ]
+const sections = require('../../data/list1.json')
+const sujets = require('../../data/list2.json')
+const sujets2 = require('../../data/sujets-Agriculture.json')
+const sections2 = require('../../data/sections-Entreprise.json')
+const sectionsGr1 = require('../../data/sectionsGr1.json')
+const sujetsGr1 = require('../../data/sujetsGr1.json')
+const pages = [
+  'abonnezVous',
+  'agenda',
+  'aider',
+  'apropos',
+  'articles',
+  'bottin',
+  'enConstruction',
+  'faq',
+  'favoris',
+  'index',
+  'meConnecter',
+  'meDeconnecter',
+  'moi',
+  'page-ext',
+  'page-int',
+  'resultats'
+]
 
+exports.register = function (server, options, next) {
   server.views({
     engines: { html: require('lodash-vision') },
     path: 'templates',

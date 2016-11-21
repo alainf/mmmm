@@ -4,6 +4,9 @@
 const url = require('url')
 const Wreck = require('wreck')
 
+const sections = require('../../data/list1.json')
+const sujets = require('../../data/list2.json')
+
 exports.register = (server, options, next) => {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
@@ -14,11 +17,18 @@ exports.register = (server, options, next) => {
     isCached: options.templateCached
   })
 
+  const mapperAccueil = (request, callback) => {
+    const it = [dbUrl, '_design/app/_view/front']
+    callback(null, it.join('/') + '?include_docs=true&reduce=false', { accept: 'application/json' })
+  }
+
+/*
   const mapper = (request, callback) => {
     const it = [dbUrl]
     if (request.params.pathy) { it.push(request.params.pathy) }
     callback(null, it.join('/') + '?include_docs=true&reduce=false', { accept: 'application/json' })
   }
+*/
 
   const responder = (go, err, res, request, reply, settings, ttl) => {
     if (err) { return reply(err) } // FIXME: how to test?
@@ -35,8 +45,9 @@ exports.register = (server, options, next) => {
       tpl = 'doc'
       obj = { doc: payload }
     } else if (payload.rows) {
-      tpl = 'docs'
-      obj = { docs: payload.rows.map((d) => d.doc) }
+      // tpl = 'docs'
+      tpl = 'accueilDemo'
+      obj = { lesSections: sections.items, lesSujets: sujets.items, docs: payload.rows.map((d) => d.doc) }
     } else {
       tpl = 'woot'
       obj = { doc: payload }
@@ -44,6 +55,7 @@ exports.register = (server, options, next) => {
     reply.view(tpl, obj).etag(res.headers.etag)
   }
 
+/*
   server.route({
     method: 'GET',
     path: '/{pathy*}',
@@ -55,10 +67,12 @@ exports.register = (server, options, next) => {
       }
     }
   })
+*/
 
+/*
   server.route({
     method: 'GET',
-    path: '/d/{pathy*}',
+    path: '/{pathy*}',
     handler: {
       proxy: {
         passThrough: true,
@@ -67,12 +81,27 @@ exports.register = (server, options, next) => {
       }
     }
   })
+*/
+
+  server.route({
+    method: 'GET',
+    path: '/accueil',
+    handler: {
+      proxy: {
+        passThrough: true,
+        // mapUri: mapper,
+        mapUri: mapperAccueil,
+        onResponse: responder.bind(null, go2)
+      }
+    }
+  })
+
 
   console.log(`CouchDB: ${dbUrl}`)
   next()
 }
 
 exports.register.attributes = {
-  name: 'pro',
+  name: 'demo',
   dependencies: ['hapi-i18n', 'h2o2', 'vision']
 }

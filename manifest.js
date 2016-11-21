@@ -34,10 +34,16 @@ const manifest = {
     },
     {
       plugin: {
-        options: { cookie: {
-          password: Config.get('/cookie/password'),
-          secure: Config.get('/cookie/secure')
-        } },
+        options: {
+          db: {
+            url: Config.get('/db/url'),
+            name: Config.get('/db/name')
+          },
+          cookie: {
+            password: Config.get('/cookie/password'),
+            secure: Config.get('/cookie/secure')
+          }
+        },
         register: './plugins/login/index'
       },
       options: { routes: { prefix: '/user' } }
@@ -49,15 +55,30 @@ const manifest = {
     { plugin: 'vision' },
     { plugin: './plugins/pick-language/index' },
     {
-      plugin: './server/api/index',
-      options: { routes: { prefix: '/api' } }
+      plugin: {
+        register: './server/pro/index',
+        options: {
+          templateCached: Config.get('/cache/web'),
+          db: {
+            url: Config.get('/db/url'),
+            name: Config.get('/db/name')
+          }
+        }
+      },
+      options: { routes: { prefix: '/{languageCode}/pro' } }
     },
     {
       plugin: {
-        register: './server/pro/index',
-        options: { templateCached: Config.get('/cache/web') }
+        register: './server/demo/index',
+        options: {
+          templateCached: Config.get('/cache/web'),
+          db: {
+            url: Config.get('/db/url'),
+            name: Config.get('/db/name')
+          }
+        }
       },
-      options: { routes: { prefix: '/{languageCode}/pro' } }
+      options: { routes: { prefix: '/{languageCode}/demo' } }
     },
     {
       plugin: {

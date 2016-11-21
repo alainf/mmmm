@@ -1,3 +1,6 @@
+/* globals emit */
+'use strict'
+
 module.exports = {
   map: function (doc) {
     const ids = doc._id.split('-')
