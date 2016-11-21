@@ -20,18 +20,18 @@
   <div class="large-3 medium-3 small-3 columns" id="grid-left">
 
 	<!-- 	tabulations -->
-	<ul class="tabs vertical" data-tabs id="apropos">
-	  <li class="tabs-title is-active"><a href="/fr/apropos#a-propos-du-site" aria-selected="true">
+	<ul class="tabs vertical" data-options="deep_linking:true" data-tabs id="apropos">
+	  <li class="tabs-title is-active"><a href="#a-propos-du-site" aria-selected="true">
 		  <span class="larger-text">À propos du site</span></a>
 	  </li>
-	  <li class="tabs-title"><a href="/fr/apropos#plan-du-site"><span class="larger-text">Plan du site</span></a></li>
-	  <li class="tabs-title"><a href="/fr/apropos#indexe-du-site"><span class="larger-text">Indexe du site</span></a></li>
-	  <li class="tabs-title"><a href="/fr/apropos#a-propos-de-nous"><span class="larger-text">À propos de nous</span></a></li>
-	  <li class="tabs-title"><a href="/fr/apropos#notre-politique"><span class="larger-text">Notre politique</span></a></li>
-	  <li class="tabs-title"><a href="/fr/apropos#charte-editorial"><span class="larger-text">Charte éditorial</span></a></li>
-	  <li class="tabs-title"><a href="/fr/apropos#votre-participation"><span class="larger-text">Votre participation</span></a></li>
-	  <li class="tabs-title"><a href="/fr/apropos#comment-publier-avec-nous"><span class="larger-text">Comment publier avec nous</span></a></li>
-	  <li class="tabs-title"><a href="/fr/apropos#contactez-nous"><span class="larger-text">Contactez-nous</span></a></li>
+	  <li class="tabs-title"><a href="#plan-du-site"><span class="larger-text">Plan du site</span></a></li>
+	  <li class="tabs-title"><a href="#indexe-du-site"><span class="larger-text">Indexe du site</span></a></li>
+	  <li class="tabs-title"><a href="#a-propos-de-nous"><span class="larger-text">À propos de nous</span></a></li>
+	  <li class="tabs-title"><a href="#notre-politique"><span class="larger-text">Notre politique</span></a></li>
+	  <li class="tabs-title"><a href="#charte-editorial"><span class="larger-text">Charte éditorial</span></a></li>
+	  <li class="tabs-title"><a href="#votre-participation"><span class="larger-text">Votre participation</span></a></li>
+	  <li class="tabs-title"><a href="#comment-publier-avec-nous"><span class="larger-text">Comment publier avec nous</span></a></li>
+	  <li class="tabs-title"><a href="#contactez-nous"><span class="larger-text">Contactez-nous</span></a></li>
 	</ul>
 
   </div>
@@ -64,15 +64,18 @@
 					 <a href="#" class="accordion-title larger-text">À propos</a>
 					 <div class="accordion-content" data-tab-content>
 							<table>
-							<tr><td width="50%"><a href="/fr/apropos#a-propos-du-site">À propos du site</a></td><td width="50%">Aperçu ...</td></tr>
-							<tr><td><a href="/fr/apropos#plan-du-site">Plan du site</a></td><td>Aperçu ...</td></tr>
-							<tr><td><a href="/fr/apropos#indexe-du-site">Indexe du site</a></td><td>Aperçu ...</td></tr>
-							<tr><td><a href="/fr/apropos#a-propos-de-nous">À propos de nous</a></td><td>Aperçu ...</td></tr>
-							<tr><td><a href="/fr/apropos#notre-politique">Notre politique</a></td><td>Aperçu ...</td></tr>
-							<tr><td><a href="/fr/apropos#charte-editorial">Charte éditorial</a></td><td>Aperçu ...</td></tr>
-							<tr><td><a href="/fr/apropos#votre-participation">Votre participation</a></td><td>Aperçu ...</td></tr>
-							<tr><td><a href="/fr/apropos#comment-publier-avec-nous">Comment publier avec nous</a></td><td>Aperçu ...</td></tr>
-							<tr><td><a href="/fr/apropos#contactez-nous">Contactez-nous</a></td><td>Aperçu ...</td></tr>
+							<tr>
+								<td width="35%"><a onclick="open_tab('apropos','a-propos-du-site')">À propos du site</a></td>
+								<td width="65%">Aperçu ...</td>
+							</tr>
+							<tr><td><a onclick="open_tab('apropos','plan-du-site')">Plan du site</a></td><td>Aperçu ...</td></tr>
+							<tr><td><a onclick="open_tab('apropos','indexe-du-site')">Indexe du site</a></td><td>Aperçu ...</td></tr>
+							<tr><td><a onclick="open_tab('apropos','a-propos-de-nous')">À propos de nous</a></td><td>Aperçu ...</td></tr>
+							<tr><td><a onclick="open_tab('apropos','notre-politique')">Notre politique</a></td><td>Aperçu ...</td></tr>
+							<tr><td><a onclick="open_tab('apropos','charte-editorial')">Charte éditorial</a></td><td>Aperçu ...</td></tr>
+							<tr><td><a onclick="open_tab('apropos','votre-participation')">Votre participation</a></td><td>Aperçu ...</td></tr>
+							<tr><td><a onclick="open_tab('apropos','comment-publier-avec-nous')">Comment publier avec nous</a></td><td>Aperçu ...</td></tr>
+							<tr><td><a onclick="open_tab('apropos','contactez-nous')">Contactez-nous</a></td><td>Aperçu ...</td></tr>
 							</table>
 					 </div>
 				  </li>
@@ -80,7 +83,7 @@
 					 <a href="#" class="accordion-title larger-text">FAQ</a>
 					 <div class="accordion-content" data-tab-content>
 							<table>
-							<tr><td width="50%"><a href="/fr/faq#categorie-1">Catégorie 1</a></td><td width="50%">Aperçu ...</td></tr>
+							<tr><td width="30%"><a href="/fr/faq#categorie-1">Catégorie 1</a></td><td width="70%">Aperçu ...</td></tr>
 							<tr><td><a href="/fr/faq#categorie-2">Catégorie 2</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/faq#categorie-3">Catégorie 3</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/faq#categorie-4">Catégorie 4</a></td><td>Aperçu ...</td></tr>
@@ -95,7 +98,7 @@
 					 <a href="#" class="accordion-title larger-text">Agenda</a>
 					 <div class="accordion-content" data-tab-content>
 							<table>
-							<tr><td width="50%"><a href="/fr/agenda#appels-a-communication">Appels</a></td><td width="50%">Aperçu ...</td></tr>
+							<tr><td width="30%"><a href="/fr/agenda#appels-a-communication">Appels</a></td><td width="70%">Aperçu ...</td></tr>
 							<tr><td><a href="/fr/agenda#avis">Avis</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/agenda#conferences">Conférences</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/agenda#congres">Congrès</a></td><td>Aperçu ...</td></tr>
@@ -112,7 +115,7 @@
 					 <a href="#" class="accordion-title larger-text">Bottin</a>
 					 <div class="accordion-content" data-tab-content>
 							<table>
-							<tr><td width="50%"><a href="/fr/bottin#membres">Membres</a></td><td width="50%">Aperçu ...</td></tr>
+							<tr><td width="30%"><a href="/fr/bottin#membres">Membres</a></td><td width="70%">Aperçu ...</td></tr>
 							<tr><td><a href="/fr/bottin#pairs">&nbsp;&nbsp; Mes pairs</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/bottin#groupes">Groupes</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/bottin#mesGroupes">&nbsp;&nbsp; Mes groupes</a></td><td>Aperçu ...</td></tr>
@@ -127,7 +130,7 @@
 					 <a href="#" class="accordion-title larger-text">Favoris</a>
 					 <div class="accordion-content" data-tab-content>
 							<table>
-							<tr><td width="50%"><a href="/fr/favoris#activites">Activités</a></td><td width="50%">Aperçu ...</td></tr>
+							<tr><td width="30%"><a href="/fr/favoris#activites">Activités</a></td><td width="70%">Aperçu ...</td></tr>
 							<tr><td><a href="/fr/favoris#appels">Appels à comm.</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/favoris#articles">Articles</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/favoris#avis">Avis</a></td><td>Aperçu ...</td></tr>
@@ -148,7 +151,7 @@
 					 <a href="#" class="accordion-title larger-text">Moi</a>
 					 <div class="accordion-content" data-tab-content>
 							<table>
-							<tr><td width="50%"><a href="/fr/moi#compte">Compte</a></td><td width="50%">Aperçu ...</td></tr>
+							<tr><td width="30%"><a href="/fr/moi#compte">Compte</a></td><td width="70%">Aperçu ...</td></tr>
 							<tr><td><a href="/fr/moi#mon-identite">Identité</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/moi#mes-preferences">Préférences</a></td><td>Aperçu ...</td></tr>
 							<tr><td><a href="/fr/moi#mes-favoris">Favoris</a></td><td>Aperçu ...</td></tr>
@@ -348,6 +351,11 @@
 
 <!-- SCRIPTS -->
 <%= partials.scripts() %>
+<script>
+function open_tab(tab_id,panel) {
+  $("#"+tab_id).foundation("selectTab",$("#"+panel));
+}
+</script>
 
 </body>
 </html>
