@@ -49,10 +49,6 @@ const manifest = {
     { plugin: 'vision' },
     { plugin: './plugins/pick-language/index' },
     {
-      plugin: './server/api/index',
-      options: { routes: { prefix: '/api' } }
-    },
-    {
       plugin: {
         register: './server/pro/index',
         options: { templateCached: Config.get('/cache/web') }
