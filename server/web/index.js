@@ -87,10 +87,10 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/monJournal',
+    path: '/{languageCode}/journal1',
     handler: {
       view: {
-        template: 'monJournal',
+        template: 'journal1',
         context: { lesSections: sectionsGr1.items, lesSujets: sujetsGr1.items }
       }
     }
@@ -98,10 +98,32 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/maThese',
+    path: '/{languageCode}/journal2',
     handler: {
       view: {
-        template: 'maThese',
+        template: 'journal2',
+        context: { lesSections: sectionsGr1.items, lesSujets: sujetsGr1.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/these1',
+    handler: {
+      view: {
+        template: 'these1',
+        context: { lesSections: sectionsGr1.items, lesSujets: sujetsGr1.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/these2',
+    handler: {
+      view: {
+        template: 'these2',
         context: { lesSections: sectionsGr1.items, lesSujets: sujetsGr1.items }
       }
     }

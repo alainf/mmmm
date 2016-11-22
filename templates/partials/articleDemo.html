@@ -1,23 +1,26 @@
                 <br>
 
-                <div class="media-object" id="article 1">
-                  <h4 class="headline"><a target="_blank" href="/fr/page-int" title="Exemple d'un article interne"><%= data.titre %><%= data.soustitre ? `${data.soustitre} – ${data.soustitre}` : '' %></a></h4>
+                <div class="media-object">
+
+                  <h4 class="headline">
+							<a target="_blank" href="<%= data.path %>" title="<%= data.tip %>">
+								<%= data.titre %><%= data.soustitre ? `${data.soustitre}` : '' %>
+							</a>
+						</h4>
 
                   <% if (data.citation) { %>
-                        <blockquote class="text-justify">
-                              <em>
-                                    <%= data.citation %>
-                              </em>
+								<blockquote class="text-justify">
+                              <em><%= data.citation %></em>
                         </blockquote>
                   <% } %>
 
                   <% if (data.thumb && data.thumb.src) { %>
                   <div class="media-object-section">
-                         <div class="float-left">
+                         <div class="float-<%= data.thumb.float %>">
                                 <img
                                         title="<%- data.thumb.tip %>"
                                         src="<%- data.thumb.src %>"
-                                        width="200" height="300">
+                                        class="mmthumbSmaller">
                          </div>
                   </div>
                   <% } %>
@@ -25,4 +28,5 @@
                   <div class="media-object-section">
                         <%= data.contenu %>
                   </div>
+
                 </div>
