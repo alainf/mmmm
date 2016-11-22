@@ -39,6 +39,13 @@ img.mmthumbWithBorder
 img.mmthumbSmaller
 {
 	display: inline-block;
+   width: 150px;
+   height: 110px;
+}
+
+img.mmthumbSmallest
+{
+	display: inline-block;
    width: 100px;
    height: 80px;
 }
