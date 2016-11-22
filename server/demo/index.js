@@ -47,7 +47,24 @@ exports.register = (server, options, next) => {
     } else if (payload.rows) {
       // tpl = 'docs'
       tpl = 'accueilDemo'
-      obj = { lesSections: sections.items, lesSujets: sujets.items, docs: payload.rows.map((d) => d.doc) }
+
+      // console.log('payload keys:', Object.keys(payload))
+      obj = {
+        lesSections: sections.items,
+        lesSujets: sujets.items,
+        docs: payload.rows.map((d) => {
+          // console.log('d.doc.path:', d.doc.path)
+          if (d.doc.path) {
+            const parts = d.doc.path.split('/')
+            const newpath = parts.slice(2)
+            newpath.unshift('demo')
+            d.doc.demopath = newpath.join('/')
+            // console.log('parts:', parts)
+          }
+          // console.log('doc:', d.doc)
+          return d.doc
+        })
+      }
     } else {
       tpl = 'woot'
       obj = { doc: payload }
