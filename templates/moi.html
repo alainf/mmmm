@@ -204,11 +204,11 @@
 			<br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .
 			<br>Voir aussi la page <a href="/fr/favoris">Favoris</a> pour les consulter par onglet.</p>
 			<h5>Affichage</h5>
-			<select id="trier">
+			<select id="trier-favoris">
 				<option value="trier-favoris-par-nom" selected>Tableau trié par Nom</option>
 				<option value="trier-favoris-par-type">Tableau trié par Type</option>
 			</select>
-			<select id="filtrer">
+			<select id="filtrer-favoris">
 				<option value="filtrer-favoris-par-aucun">Aucun filtrage</option>
 				<option value="filtrer-favoris-par-autocomplete" selected>Afficher que les favoris qui contiennent le(s) terme(s) ci-dessous</option>
 				<option value="filtrer-favoris-par-articles">Afficher que les Articles</option>
@@ -263,17 +263,23 @@
 				<option value="par-mois">Recevoir notifications 1 fois par mois</option>
 				<option value="jamais">Ne jamais recevoir de notifications</option>
 			</select>
-			<select id="filtrer">
-				<option value="aucun" selected>Aucun filtrage</option>
-				<option value="filtrer-par-sujet">Notifications filtrées par sujet</option>
-				<option value="filtrer-par-personne">Notifications filtrées par personne</option>
-				<option value="filtrer-par-ressource">Notifications filtrées par ressource</option>
-				<option value="filtrer-par-typen">Notifications filtrées par ... n</option>
-			</select>
-			<select id="trier">
+			<select id="trier-notifications">
 				<option value="trier-par-nom" selected>Tableau trié par Nom</option>
 				<option value="trier-par-type">Tableau trié par Type</option>
 			</select>
+			<select id="filtrer-notifications">
+				<option value="filtrer-avis-par-aucun">Aucun filtrage</option>
+				<option value="filtrer-avis-par-autocomplete" selected>Afficher que les notifications qui contiennent le(s) terme(s) ci-dessous</option>
+				<option value="filtrer-avis-par-sujet">Afficher que les sujets</option>
+				<option value="filtrer-avis-par-personne">Afficher que les personnes</option>
+				<option value="filtrer-avis-par-ressource">Afficher que les ressources</option>
+			</select>
+			<div class="row">
+				<div class="input-group">
+					<span class="input-group-label">Filtrer :</span>
+					<input class="input-group-field" type="text" name="filtrerMesNotifications" placeholder="Autocomplete">
+				</div>
+			</div>
 			<div class="content">
 				<h5>Ressources et termes concernés par les notifications</h5>
 				<%= partials.tableNotifications() %>
@@ -357,12 +363,12 @@
 			<h4>Historique</h4>
 			<p>Historique de ma participation, de toutes mes interactions.</p>
 			<h5>Affichage</h5>
-			<select id="trier">
+			<select id="trier-historique">
 				<option value="trier-historique-par-moment" selected>Tableau trié par Moment effectué</option>
 				<option value="trier-historique-par-type">Tableau trié par Type d'interaction</option>
 				<option value="trier-historique-par-nom">Tableau trié par Interaction</option>
 			</select>
-			<select id="filtrer">
+			<select id="filtrer-historique">
 				<option value="filtrer-historique-par-aucun">Aucun filtrage</option>
 				<option value="filtrer-historique-interaction" selected>Afficher que les interactions qui contiennent le(s) terme(s) ci-dessous</option>
 				<option value="filtrer-historique-commentaires">Afficher que les Commentaires</option>
@@ -410,13 +416,13 @@
 				</div>
 			</div>
 			<h5>Affichage</h5>
-			<select id="trier">
+			<select id="trier-taches">
 				<option value="trier-taches-par-nom" selected>Tableau trié par Moment</option>
 				<option value="trier-taches-par-type">Tableau trié par Type</option>
 				<option value="trier-taches-par-type">Tableau trié par Nom</option>
 				<option value="trier-taches-par-accomplie">Tableau trié par Accomplie</option>
 			</select>
-			<select id="filtrer">
+			<select id="filtrer-taches">
 				<option value="filtrer-taches-par-aucun">Aucun filtrage</option>
 				<option value="filtrer-taches-par-autocomplete" selected>Afficher que les tâches qui contiennent le(s) terme(s) ci-dessous</option>
 				<option value="filtrer-taches-de-type-U">Afficher que les tâches ajoutées par l'utilisateur</option>
