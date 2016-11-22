@@ -11,7 +11,7 @@ const manifest = {
       siteTitle: Config.get('/app/siteTitle'),
       languages: Config.get('/i18n/locales')
     },
-    debug: { request: ['error'] },
+    debug: { log: ['error'] },
     connections: { routes: { security: true } }
   },
   connections: [{
@@ -30,6 +30,12 @@ const manifest = {
           indent: '  ',
           directory: 'locales'
         }
+      }
+    },
+    {
+      plugin: {
+        register: 'hapi-favicon',
+        options: { path: 'assets/img/favicon.ico' }
       }
     },
     {
