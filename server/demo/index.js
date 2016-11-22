@@ -96,8 +96,6 @@ exports.register = (server, options, next) => {
     }
   })
 
-
-  console.log(`CouchDB: ${dbUrl}`)
   next()
 }
 
