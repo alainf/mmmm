@@ -15,3 +15,30 @@ body
 
 .larger-text
 { font-size: 1.2em; }
+
+.smaller-text
+{ font-size: 0.8em; }
+
+img.mmthumb
+{
+	display: inline-block;
+   width: 200px;
+   height: 150px;
+}
+
+img.mmthumbWithBorder
+{
+	display: inline-block;
+	border: 1px solid #ddd;
+   border-radius: 4px;
+   padding: 5px;
+   width: 200px;
+   height: 150px;
+}
+
+img.mmthumbSmaller
+{
+	display: inline-block;
+   width: 100px;
+   height: 80px;
+}
