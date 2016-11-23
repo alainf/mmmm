@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="fr" dir="ltr">
 
-<%= partials.mmhead({ title: 'Accueil du site PhdAdmin' }) %>
+<%= partials.mmhead({ title: 'PhdAdmin - Accueil du site' }) %>
 
 <body>
 
@@ -9,38 +9,35 @@
 
 <%= partials.logoChercherFiltrer() %>
 
-<!-- breadcrumb -->
 <div class="row">
-        <div class="large-12 medium-12 small-12 columns">
-                <nav>
-                        <ul class="breadcrumbs">
-                        <li><%- data.__('Accueil') %></li>
-                        <li>
-                                <a class="prev-page" href="#"><strong>&lt;</strong></a>
-                                <span> <%- data.__('Page') %> 1 </span>
-                                <a class="next-page" href="#"><strong>&gt;</strong></a>
-                        </li>
-                        </ul>
-                </nav>
-        </div>
+  <div class="small-12 columns">
+    <nav>
+      <ul class="breadcrumbs">
+      <li><%- data.__('Accueil') %></li>
+      <li>
+        <a class="prev-page strong" href="#">&lt;</a>
+        <span> <%- data.__('Page') %> 1 </span>
+        <a class="next-page strong" href="#">&gt;</a>
+      </li>
+      </ul>
+    </nav>
+  </div>
 </div>
 
 <%= partials.mmPageHeader({ title: 'Accueil de PhdAdmin', usertype: 'membre' }) %>
 
-<!-- INTERFACE -->
+<div class="row">
 
-<div class="row" id="grid">
-
-        <!-- Left -->
-        <div class="large-3 medium-3 small-3 columns" id="grid-left">
-                <h5 class="text-center"><strong><%- data.__('Sections') %></strong></h5>
-                <%= partials.getSections(data) %>
-                <h5 class="text-center"><strong><%- data.__('Sujets') %></strong></h5>
-                <%= partials.getSujets(data) %>
-        </div>
+  <!-- Left -->
+  <div class="small-3 columns">
+    <h5 class="strong text-center"><%- data.__('Sections') %></h5>
+    <%= partials.getSections(data) %>
+    <h5 class="strong text-center"><%- data.__('Sujets') %></h5>
+    <%= partials.getSujets(data) %>
+  </div>
 
   <!-- Center -->
-  <div class="large-6 medium-6 small-6 columns" id="grid-center">
+  <div class="small-6 columns">
     <div>
     <% data.docs.forEach((doc) => { %>
       <%= partials.articleDemo(_.assign({ doc: doc }, data)) %>
@@ -49,9 +46,9 @@
   </div>
 
   <!-- Right -->
-  <div class="large-3 medium-3 small-3 columns" id="grid-right">
+  <div class="small-3 columns">
     <div class="">
-      <h5 class="text-center"><strong><%- data.__('En bref') %></strong></h5>
+      <h5 class="strong text-center"><%- data.__('En bref') %></h5>
       <%= partials.breve1() %>
       <%= partials.breve2() %>
       <%= partials.breve3() %>
@@ -60,10 +57,8 @@
   </div>
 </div>
 
-<!-- FOOTER -->
 <%= partials.footer({ pagination: true, lastPage: '2 000 000', updated: '2016-11-13 à 12:44' }) %>
 
-<!-- SCRIPTS -->
 <%= partials.scripts() %>
 
 </body>

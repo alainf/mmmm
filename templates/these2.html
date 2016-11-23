@@ -9,69 +9,64 @@
 
 <%= partials.logoChercherFiltrer() %>
 
-<!-- breadcrumb -->
 <div class="row">
-	<div class="large-12 medium-12 small-12 columns">
-	<nav>
-		<ul class="breadcrumbs">
-		<li><%- data.__('Groupe') %></li>
-		<li>
-			<a class="prev-page" href="#"><strong>&lt;</strong></a>
-			<span> <%- data.__('Page') %> 1 </span>
-			<a class="next-page" href="#"><strong>&gt;</strong></a>
-		</li>
-		</ul>
-	</nav>
-	</div>
+  <div class="small-12 columns">
+  <nav>
+    <ul class="breadcrumbs">
+    <li><%- data.__('Groupe') %></li>
+    <li>
+      <a class="prev-page strong" href="#">&lt;</a>
+      <span> <%- data.__('Page') %> 1 </span>
+      <a class="next-page strong" href="#">&gt;</a>
+    </li>
+    </ul>
+  </nav>
+  </div>
 </div>
 
 <%= partials.mmPageHeader({ title: 'Thèse de Claude Berthiaume', usertype: 'membre' }) %>
 
-<!-- INTERFACE -->
+<div class="row">
 
-<div class="row" id="grid">
-
-	<!-- Left -->
-	<div class="large-3 medium-3 small-3 columns" id="grid-left">
-		<h5 class="text-center"><strong><%- data.__('Sections') %></strong></h5>
-		<%= partials.getSections(data) %>
-		<h5 class="text-center"><strong><%- data.__('Sujets') %></strong></h5>
-		<%= partials.getSujets(data) %>
-	</div>
+  <!-- Left -->
+  <div class="small-3 columns">
+    <h5 class="strong text-center"><%- data.__('Sections') %></h5>
+    <%= partials.getSections(data) %>
+    <h5 class="strong text-center"><%- data.__('Sujets') %></h5>
+    <%= partials.getSujets(data) %>
+  </div>
 
   <!-- Center -->
-  <div class="large-6 medium-6 small-6 columns" id="grid-center">
+  <div class="small-6 columns">
     <div>
-		<br>
-		<%= partials.article1() %>
-		<hr>
-		<%= partials.article2() %>
-		<hr>
-		<%= partials.article3() %>
-		<hr>
-		<%= partials.article4() %>
-		<hr>
-		<%= partials.article5() %>
-		<hr>
+    <br>
+    <%= partials.article1() %>
+    <hr>
+    <%= partials.article2() %>
+    <hr>
+    <%= partials.article3() %>
+    <hr>
+    <%= partials.article4() %>
+    <hr>
+    <%= partials.article5() %>
+    <hr>
     </div>
   </div>
 
   <!-- Right -->
-  <div class="large-3 medium-3 small-3 columns" id="grid-right">
+  <div class="small-3 columns">
     <div class="">
-      <h5 class="text-center"><strong><%- data.__('En bref') %></strong></h5>
+      <h5 class="strong text-center"><%- data.__('En bref') %></h5>
       <%= partials.breve1() %>
-		<%= partials.breve2() %>
-		<%= partials.breve3() %>
-		<%= partials.breve4() %>
+      <%= partials.breve2() %>
+      <%= partials.breve3() %>
+      <%= partials.breve4() %>
     </div>
   </div>
 </div>
 
-<!-- FOOTER -->
 <%= partials.footer({ pagination: true, lastPage: '2 000 000', updated: '2016-11-21 à 18:33' }) %>
 
-<!-- SCRIPTS -->
 <%= partials.scripts() %>
 
 </body>
