@@ -1,32 +1,32 @@
-                <br>
+<br>
 
-                <div class="media-object">
+<div class="media-object">
 
-                  <h4 class="headline">
-							<a target="_blank" href="<%= data.path %>" title="<%= data.tip %>">
-								<%= data.titre %><%= data.soustitre ? `${data.soustitre}` : '' %>
-							</a>
-						</h4>
+  <h4 class="headline">
+    <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>">
+     <%= data.titre %><%= data.soustitre ? `${data.soustitre}` : '' %>
+    </a>
+  </h4>
 
-                  <% if (data.citation) { %>
-								<blockquote class="text-justify">
-                              <em><%= data.citation %></em>
-                        </blockquote>
-                  <% } %>
+  <% if (data.citation) { %>
+  <blockquote class="text-justify">
+    <span class="em"><%= data.citation %></span>
+  </blockquote>
+  <% } %>
 
-                  <% if (data.thumb && data.thumb.src) { %>
-                  <div class="media-object-section">
-                         <div class="float-<%= data.thumb.float %>">
-                                <img
-                                        title="<%- data.thumb.tip %>"
-                                        src="<%- data.thumb.src %>"
-                                        class="mmthumbSmaller">
-                         </div>
-                  </div>
-                  <% } %>
+  <% if (data.thumb && data.thumb.src) { %>
+  <div class="media-object-section">
+    <div class="float-<%= data.thumb.float %>">
+     <img
+      title="<%- data.thumb.tip %>"
+      src="<%- data.thumb.src %>"
+      class="mmthumbSmaller">
+    </div>
+  </div>
+  <% } %>
 
-                  <div class="media-object-section">
-                        <%= data.contenu %>
-                  </div>
+  <div class="media-object-section">
+    <%= data.contenu %>
+  </div>
 
-                </div>
+</div>

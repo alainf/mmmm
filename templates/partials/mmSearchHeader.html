@@ -1,29 +1,27 @@
 <!-- SEARCH HEADER -->
-<div class="row" id="title-line">
-	<!-- Left -->
-  <div class="large-3 medium-3 small-3 columns" id="title-left">
+<div class="row">
+  <!-- Left -->
+  <div class="small-3 columns">
       <%= partials.blocLangues({ langue: 'Fr' }) %>
   </div>
   <!-- Center -->
-  <div class="large-6 medium-6 small-6 columns" id="title-center">
-		<h3 id="page-main-title" class="text-center"><%- data.title %></h3>
+  <div class="small-6 columns">
+    <h3 id="page-main-title" class="text-center"><%- data.title %></h3>
   </div>
   <!-- Right -->
-  <div class="large-3 medium-3 small-3 columns" id="title-right">
-	
+  <div class="small-3 columns">
     <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
-		 <div class="" id="bloc-fonctions">
-		 <ul class="menu align-right">
-			<li class="icon"><a title="Aidez-moi" href="/fr/aider"><i class="fi-info"></i></a></li>
-			<li class="icon"><a title="Enregistrer résultats" href="#"><i class="fi-page-export-pdf"></i></a></li>
-			<li class="icon"><a title="Historique de mes recherches" href="#"><i class="fi-clock"></i></a></li>
-      	<li class="icon"><a title="S'abonner aux notifications" href="#"><i class="fi-rss"></i></a></li>
-      	<li class="icon"><a title="Ajouter à mes favoris" href="#"><i class="fi-star"></i></a></li>
-		</ul>
+     <div class="">
+      <ul class="menu align-right">
+      <li class="icon"><a title="Aidez-moi" href="/fr/aider"><i class="fi-info"></i></a></li>
+      <li class="icon"><a title="Enregistrer résultats" href="#"><i class="fi-page-export-pdf"></i></a></li>
+      <li class="icon"><a title="Historique de mes recherches" href="#"><i class="fi-clock"></i></a></li>
+      <li class="icon"><a title="S'abonner aux notifications" href="#"><i class="fi-rss"></i></a></li>
+      <li class="icon"><a title="Ajouter à mes favoris" href="#"><i class="fi-star"></i></a></li>
+      </ul>
     </div>
     <% } else { %>
-	 <p>&nbsp;</p>
-	 <% } %>
-
+    <p>&nbsp;</p>
+    <% } %>
   </div>
 </div>

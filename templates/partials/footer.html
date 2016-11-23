@@ -1,18 +1,18 @@
-<div class="row small-collapse medium-collapse large-collapse" id="footer">
-	<!-- collapses whitespace between cols of grid -->
-  <div class="large-4 medium-4 small-4 columns">
+<div class="row small-collapse" id="footer">
+  <!-- collapses whitespace between cols of grid -->
+  <div class="small-4 columns">
     <div class="" id="copyright">
-      <p class="text-left"><em>© 2016 - Machina Mundi Multi Média Inc.</em></p>
+      <p class="em text-left">© 2016 - Machina Mundi Multi Média Inc.</p>
     </div>
   </div>
-  <div class="large-4 medium-4 small-4 columns">
-		<% if (data.pagination) { %>
-		<%= partials.pagination({ lastPage: data.lastPage }) %>
-		<% } %>
+  <div class="small-4 columns">
+    <% if (data.pagination) { %>
+    <%= partials.pagination({ lastPage: data.lastPage }) %>
+    <% } %>
   </div>
-  <div class="large-4 medium-4 small-4 columns">
+  <div class="small-4 columns">
     <div class="" id="mise-a-jour">
-      <p class="text-right"><em>Dernière mise à jour: <%- data.updated %>.</em></p>
+      <p class="em text-right">Dernière mise à jour: <%- data.updated %>.</p>
     </div>
   </div>
 </div>
