@@ -1,0 +1,264 @@
+## Logique pour choisir template approprié pour les leads du journal. ##
+
+if data.thumb is not null then
+
+  if data.citation is not null then
+
+    if (data.thumb.beside = "headline") and (data.thumb.float = "left")  then partial = "article2a"
+    if (data.thumb.beside = "headline") and (data.thumb.float = "right") then partial = "article2b"
+
+  else
+
+    if (data.thumb.beside = "content")  and (data.thumb.float = "left")  then partial = "article1a"
+    if (data.thumb.beside = "content")  and (data.thumb.float = "right") then partial = "article1b"
+    if (data.thumb.beside = "headline") and (data.thumb.float = "left")  then partial = "article3a"
+    if (data.thumb.beside = "headline") and (data.thumb.float = "right") then partial = "article3b"
+
+  end if
+
+else
+
+  if (data.direction is null) then partial = "article4" else partial = "article5"
+  if (citation is not null) then include data.citation after headline, before content
+
+end if
+
+----
+
+## PARTIALS ##
+
+== data ==
+
+<%= data.title %>
+<%= data.path %>
+<%= data.thumb.beside %>
+<%= data.thumb.float %>
+<%= data.thumb.tip %>
+<%= data.thumb.src %>
+<%= data.pertinence %>
+<%= data.ressource %>
+<%= data.provenance %>
+<%= data.tip %>
+<%= data.titre %>
+<%= data.soustitre %>
+<%= data.citation %>
+<%= data.direction %>
+<%= data.contenu %>
+
+== article1a ==
+
+<div class="journal">
+  <div class="row">
+    <div class="small-12 columns">
+       <p class="headline">
+         <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+       </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-4 columns">
+     <div class="">
+       <img title="<%= data.thumb.tip %>" src="<%= data.thumb.src %>" class="mmthumb">
+     </div>
+    </div>
+    <div class="small-8 columns">
+     <div class="content">
+       <%= data.contenu %>
+     </div>
+    </div>
+  </div>
+</div>
+
+== article1b ==
+
+<div class="journal">
+  <div class="row">
+    <div class="small-12 columns">
+       <p class="headline">
+         <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+       </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-8 columns">
+     <div class="content">
+       <%= data.contenu %>
+     </div>
+    </div>
+    <div class="small-4 columns">
+     <div class="">
+       <img title="<%= data.thumb.tip %>" src="<%= data.thumb.src %>" class="mmthumb">
+     </div>
+    </div>
+  </div>
+</div>
+
+== article2a ==
+
+<div class="journal">
+  <div class="row">
+    <div class="small-8 columns">
+      <div class="">
+        <p class="headline">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+        </p>
+        <blockquote class="small-text em"><%= data.citation %></blockquote>
+      </div>
+    </div>
+    <div class="small-4 columns">
+      <div class="">
+        <img src="<%= data.thumb.src %>" title="<%= data.thumb.tip %>" class="mmthumb">
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="content">
+        <%= data.contenu %>
+      </div>
+    </div>
+  </div>
+</div>
+
+== article2b ==
+
+<div class="journal">
+  <div class="row">
+    <div class="small-4 columns">
+      <div class="">
+        <img src="<%= data.thumb.src %>" title="<%= data.thumb.tip %>" class="mmthumb">
+      </div>
+    </div>
+    <div class="small-8 columns">
+      <div class="">
+        <p class="headline">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+        </p>
+        <blockquote class="small-text em"><%= data.citation %></blockquote>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="content">
+        <%= data.contenu %>
+      </div>
+    </div>
+  </div>
+</div>
+
+== article3a ==
+
+<div class="journal">
+  <div class="row">
+    <div class="small-4 columns">
+      <div class="">
+        <img src="<%= data.thumb.src %>" class="mmthumbSmaller" title="<%= data.thumb.tip %>">
+      </div>
+    </div>
+    <div class="small-8 columns">
+      <div class="">
+        <p class="headline">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %></a>
+        </p>
+        <!-- if data.soustitre is not null then -->
+        <p class="headline">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><span class="em"><%= data.soustitre %></span></a>
+        </p>
+        <!-- endif -->
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="content">
+        <%= data.contenu %>
+      </div>
+    </div>
+  </div>
+</div>
+
+== article3b ==
+
+<div class="journal">
+  <div class="row">
+    <div class="small-8 columns">
+      <div class="">
+        <p class="headline">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %></a>
+        </p>
+        <!-- if data.soustitre is not null then -->
+        <p class="headline">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><span class="em"><%= data.soustitre %></span></a>
+        </p>
+        <!-- endif -->
+      </div>
+    </div>
+    <div class="small-4 columns">
+      <div class="">
+        <img src="<%= data.thumb.src %>" class="mmthumbSmaller" title="<%= data.thumb.tip %>">
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="content">
+        <%= data.contenu %>
+      </div>
+    </div>
+  </div>
+</div>
+
+== article4 ==
+
+<div class="journal">
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="">
+        <p class="headline">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %></a>
+        </p>
+        <!-- if data.soustitre is not null then -->
+        <p class="headline">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><span class="em"><%= data.soustitre %></span></a>
+        </p>
+        <!-- endif -->
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="content">
+        <%= data.contenu %>
+      </div>
+    </div>
+  </div>
+</div>
+
+== article5 ==
+
+<div class="journal">
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="">
+        <p class="headline text-right">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %></a>
+        </p>
+        <!-- if data.soustitre is not null then -->
+        <p class="headline text-right">
+          <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><span class="em"><%= data.soustitre %></span></a>
+        </p>
+        <!-- endif -->
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="content text-right">
+        <%= data.contenu %>
+      </div>
+    </div>
+  </div>
+</div>

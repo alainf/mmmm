@@ -2,31 +2,29 @@
 
 <div class="media-object">
 
-                  <h4 class="headline">
-                                                        <a target="_blank" href="/<%= `${data.pathparts[0]}/${data.doc.demopath}` %>" title="<%= data.doc.tip %>">
-                                                                <%= data.doc.titre %><%= data.doc.soustitre ? `${data.doc.soustitre}` : '' %>
-                                                        </a>
-                                                </h4>
+  <h4 class="headline">
+    <a target="_blank" href="/<%= `${data.pathparts[0]}/${data.doc.demopath}` %>" title="<%= data.doc.tip %>">
+    <%= data.doc.titre %><%= data.doc.soustitre ? `${data.doc.soustitre}` : '' %>
+    </a>
+  </h4>
 
-                  <% if (data.doc.citation) { %>
-                                                                <blockquote class="text-justify">
-                              <em><%= data.doc.citation %></em>
-                        </blockquote>
-                  <% } %>
+  <% if (data.doc.citation) { %>
+    <blockquote class="text-justify"><em><%= data.doc.citation %></em></blockquote>
+  <% } %>
 
-                  <% if (data.doc.thumb && data.doc.thumb.src) { %>
-                  <div class="media-object-section">
-                         <div class="float-<%= data.doc.thumb.float %>">
-                                <img
-                                        title="<%- data.doc.thumb.tip %>"
-                                        src="<%- data.doc.thumb.src %>"
-                                        class="mmthumbSmaller">
-                         </div>
-                  </div>
-                  <% } %>
+  <% if (data.doc.thumb && data.doc.thumb.src) { %>
+  <div class="media-object-section">
+    <div class="float-<%= data.doc.thumb.float %>">
+      <img
+        title="<%- data.doc.thumb.tip %>"
+        src="<%- data.doc.thumb.src %>"
+        class="mmthumbSmaller">
+    </div>
+  </div>
+  <% } %>
 
-                  <div class="media-object-section">
-                        <%= data.doc.contenu %>
-                  </div>
+  <div class="media-object-section">
+    <%= data.doc.contenu %>
+  </div>
 
 </div>

@@ -1,0 +1,36 @@
+{
+   "_id": 			= "nom-machine" du lead
+   "title": 		= titre de la fenêtre
+   "path": 			= URL relatif de machina
+   "thumb": {
+       "beside": 	= "content" ou "headline"
+       "float": 	= "left" ou "right"
+       "tip": 		= attribut "title" de la balise "<img"
+       "src":		= attribut "src" de la balise "<img"
+   },
+   "pertinence": 	= "importance" de la ressource
+   "ressource": 	= "nom-machine" de la ressource
+   "provenance": 	= "source-URL" de la ressource
+   "tip": 			= "apercu" de la ressource
+   "titre": 		= "nom" de la ressource
+   "soustitre"		= null
+   "citation"		= null
+   "direction" 	= "ltr" ou "rtl"
+   "contenu"		= quotesEscaped("description" de la ressource)
+}
+
+<%= data.title %>
+<%= data.path %>
+<%= data.thumb.beside %>
+<%= data.thumb.float %>
+<%= data.thumb.tip %>
+<%= data.thumb.src %>
+<%= data.pertinence %>
+<%= data.ressource %>
+<%= data.provenance %>
+<%= data.tip %>
+<%= data.titre %>
+<%= data.soustitre %>
+<%= data.citation %>
+<%= data.direction %>
+<%= data.contenu %>

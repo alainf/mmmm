@@ -17,27 +17,3 @@
    "citation": null,
    "contenu": "<p class=\"text-justify\">Le Marion Dufresne vient de rejoindre les îles Kerguelen. Suite de l'expédition <span data-tooltip aria-haspopup=\"true\" class=\"has-tip\" data-disable-hover=\"false\" tabindex=\"1\" title=\"SOUTHERN OCEAN AND CLIMATE FIELD STUDIES WITH INNOVATIVE TOOLS\">SOCLIM</span> dans l'océan Austral. Nous avons atteint depuis peu la région de Kerguelen, dans les Cinquantièmes hurlants...</p>"
 }
-
-if thumb is not null then
-
-	when ("beside" = "content")  and ("float" = "left")  then template = "article1a"
-
-	when ("beside" = "content")  and ("float" = "right") then template = "article1b"
-
-	when ("beside" = "headline") and ("float" = "left")  and ("citation" is not null)  then template = "article2a"
-
-	when ("beside" = "headline") and ("float" = "right") and ("citation" is not null)  then template = "article2b"
-
-	when ("beside" = "headline") and ("float" = "left")  and ("citation" is null)  then template = "article3a"
-
-	when ("beside" = "headline") and ("float" = "right") and ("citation" is null)  then template = "article3b"
-
-else
-
-	if ("direction" is null) then template = "article4" else template = "article5"
-
-	in both of these case: if ("citation" is not null) then include it after headline, before content
-
-end if
-
-

@@ -83,5 +83,18 @@ img.mmthumbSmallest
 	margin-left: 15px;
 }
 
+.journal
+{
+   width: auto;
+   height: auto;
+}
+
+p.headline
+{
+	font-size: 1.4em;
+	margin-bottom: 4px;
+}
+
+
 
 
