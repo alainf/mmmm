@@ -2,47 +2,37 @@
 <html>
 <%= partials.head(data) %>
 <body>
-<div class="row column">
+<br>
 
-<h1><%- data.__('Bienvenue à la démonstration hapi/lodash') %></h1>
+<div class="row">
+  <div class="small-4 columns">
+    <div class="">
+      <img src="/img/MM.jpeg" alt="Machina Mundi Multi Média Inc.">
+    </div>
+  </div>
+  <div class="small-8 columns">
+    <div class="">
+      <h1 class="text-left">PhD Administration</h1>
+      <h3 class="text-left"><em>Machina Mundi Multi Média Inc.</em></h3>
+    </div>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<div class="row">
+  <div class="small-12 columns">
+    <div class="callout">
+      <h1 class="text-center"><a href="/fr/accueil">ACCUEIL</a></h1>
+      <p class="text-center"><em>Éventuellement 6 liens, exprimés dans la langue de l'interlocuteur.</em></p>
+    </div>
+  </div>
+</div>
 
-<p>Démonstration de <a href="http://hapijs.com/api">hapi</a> et <a href="https://lodash.com/docs">lodash</a> (pour ses <i>templates</i>).</p>
+<script src="/js/vendor/jquery.js"></script>
+<script src="/js/vendor/what-input.js"></script>
+<script src="/js/vendor/foundation.min.js"></script>
+<script src="/js/app.js"></script>
 
-<p>
-Les données sont toutes accessibles dans l'object <code>data</code>.
-On utilise ensuite le langage JavaScript pour faire des boucles. Par exemple:
-</p>
-
-<h2><%- data.__('Liste %s', '#1') %> - Sections</h2>
-<pre><code>&lt;ol&gt;
-  &lt;% <strong>data.items.forEach((item) =&gt; {</strong> %&gt;
-  &lt;li&gt;&lt;%- item %&gt;&lt;/li&gt;
-  &lt;% }) %&gt;
-&lt;/ol&gt;</code></pre>
-
-<h3>Résultat</h3>
-<ol>
-  <% data.items.forEach((item) => { %>
-  <li><%- item %></li>
-  <% }) %>
-</ol>
-
-<h2><%- data.__('Liste %s', '#2') %> - Sujets</h2>
-<p>On peut aussi utiliser les fonctions lodash directement:</p>
-<pre><code>&lt;ol&gt;
-  &lt;% <strong>_(data.items2).each((item) =&gt; {</strong> %&gt;
-  &lt;li&gt;&lt;%- item %&gt;&lt;/li&gt;
-  &lt;% }) %&gt;
-&lt;/ol&gt;</code></pre>
-
-<h3>Résultat</h3>
-<ol>
-  <% _(data.items2).each((item) => { %>
-  <li><%- item %></li>
-  <% }) %>
-</ol>
-
-<h2>Suite</h2>
-<p>La suite, à propos des <a href="partials">bouts de <i>templates</i> (<i>partials</i>)</a>.</p>
-
-<%= partials.foot(data) %>
+</body>
+</html>

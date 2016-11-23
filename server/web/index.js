@@ -43,7 +43,7 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/',
+    path: '/',
     handler: {
       view: {
         template: 'index',
@@ -149,12 +149,6 @@ exports.register = function (server, options, next) {
         context: { lesSections: sections2.items, lesSujets: sujets.items }
       }
     }
-  })
-
-  server.route({
-    method: 'GET',
-    path: '/',
-    handler: { view: 'pick-language' }
   })
 
   server.route({

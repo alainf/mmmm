@@ -19,11 +19,27 @@ body
 .smaller-text
 { font-size: 0.8em; }
 
+.very-small-text
+{ font-size: 0.6em; }
+
+.em
+{ font-style: italic; }
+
+.strong
+{ font-weight: bold; }
+
 img.mmthumb
 {
 	display: inline-block;
-   width: 200px;
+   width: auto;
    height: 150px;
+}
+
+img.mmthumbSameWidth
+{
+	display: inline-block;
+   width: 200px;
+   height: auto;
 }
 
 img.mmthumbWithBorder
@@ -50,12 +66,22 @@ img.mmthumbSmallest
    height: 80px;
 }
 
-.input-group
+.forIdentity
+{
+	width: 480px;
+}
+
+.forFilter
 {
 	width: 836px;
 	margin-left: 15px;
 }
- 
+
+.forQuestion
+{
+	width: 836px;
+	margin-left: 15px;
+}
 
 
 

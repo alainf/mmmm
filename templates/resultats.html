@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" dir="ltr">
 
-<%= partials.mmhead({ title: 'PhD Résultats' }) %>
+<%= partials.mmhead({ title: 'PhdAdmin Résultats' }) %>
 
 <body>
 
@@ -9,94 +9,89 @@
 
 <%= partials.logoChercherFiltrer() %>
 
-<!-- breadcrumb -->
 <div class="row">
-	<div class="large-12 medium-12 small-12 columns">
-	<nav>
-		<ul class="breadcrumbs">
-		<li><a href="/fr/accueil">Accueil</a></li>
-		<li>Résultats</li>
-		<li>
-			<a class="prev-page" href="#"><strong>&lt;</strong></a>
-			<span> Page 1 </span>
-			<a class="next-page" href="#"><strong>&gt;</strong></a>
-		</li>
-		</ul>
-	</nav>
-	</div>
+  <div class="small-12 columns">
+  <nav>
+    <ul class="breadcrumbs">
+    <li><a href="/fr/accueil">Accueil</a></li>
+    <li>Résultats</li>
+    <li>
+      <a class="prev-page strong" href="#">&lt;</a>
+      <span> Page 1 </span>
+      <a class="next-page strong" href="#">&gt;</a>
+    </li>
+    </ul>
+  </nav>
+  </div>
 </div>
 
 <%= partials.mmSearchHeader({ title: 'Résultats de recherche', usertype: 'membre' }) %>
 
-<!-- INTERFACE -->
-
 <br>
 <div class="row" id="search-area">
 
-  <div class="large-7 medium-7 small-7 columns">
+  <div class="small-7 columns">
     <div class="">
-		<p><img src="/img/placeholders/search-left.png" alt="Résultats de recherche"></p>
+    <p><img src="/img/placeholders/search-left.png" alt="Résultats de recherche"></p>
     </div>
   </div>
   
-  <div class="large-5 medium-5 small-5 columns">
-	 
-		<!-- capsule -->
-		<div class="">
-			<p><a target="_blank" href="https://en.wikipedia.org/wiki/Albert_Einstein">
-				<img src="/img/placeholders/search-right.png" alt="Information supplémentaire"></a>
-			</p>
-		</div>
+  <div class="small-5 columns">
+   
+    <!-- capsule -->
+    <div class="">
+      <p><a target="_blank" href="https://en.wikipedia.org/wiki/Albert_Einstein">
+        <img src="/img/placeholders/search-right.png" alt="Information supplémentaire"></a>
+      </p>
+    </div>
 
-      <!-- recherche -->
+      <!-- recherche actuelle -->
       <br>
-      <div class="" id="recherche-actuelle">
+      <div class="">
       <h5 class="text-left">Recherche en cours</h5>
-			<dl>
-			<dt>Données</dt>
-			<dd>
-				<select>
-				<option value="trier-par-pertinence" selected>Données triées par pertinence</option>
-				<option value="trier-par-titre">Données triées par titre</option>
-				<option value="trier-par-date">Données triées par date</option>
-				</select>
-				<select>
-				<option value="ascendant" selected>Données en ordre ascendant</option>
-				<option value="descendant">Données en ordre descendant</option>
-				</select>
-			</dd>
-			<dt>Termes <%= partials.ajouterTerme() %></a>
-			</dt>
-			<dd>
-				<ul>
-					<li><span>Physicien</span></li>
-					<li><span>Einstein</span></li>
-				</ul>
-			</dd>
-			<dt>Filtres&nbsp;
-				<a class="icon" data-toggle="filtrer-dropdown" title="Modifier filtres actuels"><i class="fi-pencil"></i></a>
-			</dt>
-			<dd>
-				<ul>
-				<li><span><em>Langue</em> = Français, Anglais</span></li>
-				<li><span><em>Date d'édition</em> &gt; 2014-01-01</span></li>
-				<li><span><em>Date d'édition</em> &lt; 2016-01-31</span></li>
-				<li><span><em>Format</em> = HTML</span></li>
-				</ul>
-			</dd>
-			</dl>
-		<br>
-		</div>
-      <!-- fin recherche -->
+      <dl>
+      <dt>Données</dt>
+      <dd>
+        <select>
+        <option value="trier-par-pertinence" selected>Données triées par pertinence</option>
+        <option value="trier-par-titre">Données triées par titre</option>
+        <option value="trier-par-date">Données triées par date</option>
+        </select>
+        <select>
+        <option value="ascendant" selected>Données en ordre ascendant</option>
+        <option value="descendant">Données en ordre descendant</option>
+        </select>
+      </dd>
+      <dt>Termes <%= partials.ajouterTerme() %></a>
+      </dt>
+      <dd>
+        <ul>
+          <li><span>Physicien</span></li>
+          <li><span>Einstein</span></li>
+        </ul>
+      </dd>
+      <dt>Filtres&nbsp;
+        <a class="icon" data-toggle="filtrer-dropdown" title="Modifier filtres actuels"><i class="fi-pencil"></i></a>
+      </dt>
+      <dd>
+        <ul>
+        <li><span><span class="em">Langue</span> = Français, Anglais</span></li>
+        <li><span><span class="em">Date d'édition</span> &gt; 2014-01-01</span></li>
+        <li><span><span class="em">Date d'édition</span> &lt; 2016-01-31</span></li>
+        <li><span><span class="em">Format</span> = HTML</span></li>
+        </ul>
+      </dd>
+      </dl>
+    <br>
+    </div>
+    <!-- fin recherche actuelle -->
 
  </div>
 </div>
 <br>
 
-<!-- FOOTER -->
 <%= partials.footer({ pagination: true, lastPage: '500', updated: '2016-11-18 à 18:53' }) %>
 
-<!-- SCRIPTS -->
 <%= partials.scripts() %>
 
 </body>

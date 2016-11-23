@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" dir="ltr">
 
-<%= partials.mmhead({ title: 'PhD FAQ' }) %>
+<%= partials.mmhead({ title: 'PhdAdmin FAQ' }) %>
 
 <body>
 
@@ -11,150 +11,159 @@
 
 <%= partials.titreSeulement({ title: "Foire Aux Questions (FAQ)" }) %>
 
-<!-- INTERFACE -->
+<div class="row">
 
-<div class="row" id="grid">
+  <!-- LEFT -->
 
-	<!-- LEFT -->
-
-  <div class="large-3 medium-3 small-3 columns" id="grid-left">
-
-	<!-- Categories -->
+  <div class="small-3 columns">
     <div class="callout" id="compte">
-		<h5 class="text-center"><strong>Catégories de questions</strong></h5>
-		<div class="">
-      <ul class="menu vertical">
-		<li><a href="#categorie-1"><span class="larger-text">Catégorie 1</span></a></li>
-		<li><a href="#categorie-2"><span class="larger-text">Catégorie 2</span></a></li>
-		<li><a href="#categorie-3"><span class="larger-text">Catégorie 3</span></a></li>
-		<li><a href="#categorie-4"><span class="larger-text">Catégorie 4</span></a></li>
-		<li><a href="#categorie-5"><span class="larger-text">Catégorie 5</span></a></li>
-		<li><a href="#categorie-6"><span class="larger-text">Catégorie 6</span></a></li>
-		<li><a href="#categorie-7"><span class="larger-text">Catégorie 7</span></a></li>
-		<li><a href="#categorie-8"><span class="larger-text">Catégorie 8</span></a></li>
-		</ul>
-		</div>
+    <h5 class="strong text-center">Catégories de questions</h5>
+    <div class="">
+    <ul class="menu vertical">
+      <li><a href="#categorie-1"><span class="larger-text">Catégorie 1</span></a></li>
+      <li><a href="#categorie-2"><span class="larger-text">Catégorie 2</span></a></li>
+      <li><a href="#categorie-3"><span class="larger-text">Catégorie 3</span></a></li>
+      <li><a href="#categorie-4"><span class="larger-text">Catégorie 4</span></a></li>
+      <li><a href="#categorie-5"><span class="larger-text">Catégorie 5</span></a></li>
+      <li><a href="#categorie-6"><span class="larger-text">Catégorie 6</span></a></li>
+      <li><a href="#categorie-7"><span class="larger-text">Catégorie 7</span></a></li>
+      <li><a href="#categorie-8"><span class="larger-text">Catégorie 8</span></a></li>
+    </ul>
     </div>
-
+    </div>
   </div>
 
-  <!-- CENTER -->
+  <!-- RIGHT -->
   
-  <div class="large-9 medium-9 small-9 columns" id="grid-center">
+  <div class="small-9 columns">
     <div>
 
-		<div class="callout" id="categorie-1">
-			<h4>Catégorie 1</h4>
-			<div class="content callout" id="question-1.1">
-				<p><strong>Question 1.1</strong></p>
-				<p>Réponse 1.1</p>
-			</div>
-			<table><tr>
-			<td width="20%"><a href="#" class="hollow button">Poser question</a></td>
-			<td width="80%"><textarea class="question" name="Question-1" placeholder="Est-ce que ..."></textarea></td>
-			</tr></table>
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-		</div>
+    <div class="callout" id="categorie-1">
+      <h4>Catégorie 1</h4>
+      <div class="content callout" id="question-1.1">
+        <p class="strong">Question 1.1</p>
+        <p>Réponse 1.1</p>
+      </div>
+      <div class="row">
+        <div class="input-group forQuestion">
+          <span class="input-group-label">Poser question :</span>
+          <textarea class="input-group-field" type="text" name="poserQuestion" placeholder="Est-ce que ..."></textarea>
+        </div>
+      </div>
+      <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+    </div>
 
-		<div class="callout" id="categorie-2">
-			<h4>Catégorie 2</h4>
-			<div class="content callout" id="question-2.1">
-				<p><strong>Question 2.1</strong></p>
-				<p>Réponse 2.1</p>
-			</div>
-			<table><tr>
-			<td width="20%"><a href="#" class="hollow button">Poser question</a></td>
-			<td width="80%"><textarea name="Question-2" placeholder="Est-ce que ..."></textarea></td>
-			</tr></table>
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-		</div>
+    <div class="callout" id="categorie-2">
+      <h4>Catégorie 2</h4>
+      <div class="content callout" id="question-2.1">
+        <p class="strong">Question 2.1</p>
+        <p>Réponse 2.1</p>
+      </div>
+      <div class="row">
+        <div class="input-group forQuestion">
+          <span class="input-group-label">Poser question :</span>
+          <textarea class="input-group-field" type="text" name="poserQuestion" placeholder="Est-ce que ..."></textarea>
+        </div>
+      </div>
+      <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+    </div>
 
-		<div class="callout" id="categorie-3">
-			<h4>Catégorie 3</h4>
-			<div class="content callout" id="question-3.1">
-				<p><strong>Question 3.1</strong></p>
-				<p>Réponse 3.1</p>
-			</div>
-			<table><tr>
-			<td width="20%"><a href="#" class="hollow button">Poser question</a></td>
-			<td width="80%"><textarea name="Question-3" placeholder="Est-ce que ..."></textarea></td>
-			</tr></table>
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-		</div>
+    <div class="callout" id="categorie-3">
+      <h4>Catégorie 3</h4>
+      <div class="content callout" id="question-3.1">
+        <p class="strong">Question 3.1</p>
+        <p>Réponse 3.1</p>
+      </div>
+      <div class="row">
+        <div class="input-group forQuestion">
+          <span class="input-group-label">Poser question :</span>
+          <textarea class="input-group-field" type="text" name="poserQuestion" placeholder="Est-ce que ..."></textarea>
+        </div>
+      </div>
+      <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+    </div>
 
-		<div class="callout" id="categorie-4">
-			<h4>Catégorie 4</h4>
-			<div class="content callout" id="question-4.1">
-				<p><strong>Question 4.1</strong></p>
-				<p>Réponse 4.1</p>
-			</div>
-			<table><tr>
-			<td width="20%"><a href="#" class="hollow button">Poser question</a></td>
-			<td width="80%"><textarea name="Question-4" placeholder="Est-ce que ..."></textarea></td>
-			</tr></table>
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-		</div>
+    <div class="callout" id="categorie-4">
+      <h4>Catégorie 4</h4>
+      <div class="content callout" id="question-4.1">
+        <p class="strong">Question 4.1</p>
+        <p>Réponse 4.1</p>
+      </div>
+      <div class="row">
+        <div class="input-group forQuestion">
+          <span class="input-group-label">Poser question :</span>
+          <textarea class="input-group-field" type="text" name="poserQuestion" placeholder="Est-ce que ..."></textarea>
+        </div>
+      </div>
+      <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+    </div>
 
-		<div class="callout" id="categorie-5">
-			<h4>Catégorie 5</h4>
-			<div class="content callout" id="question-5.1">
-				<p><strong>Question 5.1</strong></p>
-				<p>Réponse 5.1</p>
-			</div>
-			<table><tr>
-			<td width="20%"><a href="#" class="hollow button">Poser question</a></td>
-			<td width="80%"><textarea name="Question-5" placeholder="Est-ce que ..."></textarea></td>
-			</tr></table>
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-		</div>
+    <div class="callout" id="categorie-5">
+      <h4>Catégorie 5</h4>
+      <div class="content callout" id="question-5.1">
+        <p class="strong">Question 5.1</p>
+        <p>Réponse 5.1</p>
+      </div>
+      <div class="row">
+        <div class="input-group forQuestion">
+          <span class="input-group-label">Poser question :</span>
+          <textarea class="input-group-field" type="text" name="poserQuestion" placeholder="Est-ce que ..."></textarea>
+        </div>
+      </div>
+      <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+    </div>
 
-		<div class="callout" id="categorie-6">
-			<h4>Catégorie 6</h4>
-			<div class="content callout" id="question-6.1">
-				<p><strong>Question 6.1</strong></p>
-				<p>Réponse 6.1</p>
-			</div>
-			<table><tr>
-			<td width="20%"><a href="#" class="hollow button">Poser question</a></td>
-			<td width="80%"><textarea name="Question-6" placeholder="Est-ce que ..."></textarea></td>
-			</tr></table>
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-		</div>
+    <div class="callout" id="categorie-6">
+      <h4>Catégorie 6</h4>
+      <div class="content callout" id="question-6.1">
+        <p class="strong">Question 6.1</p>
+        <p>Réponse 6.1</p>
+      </div>
+      <div class="row">
+        <div class="input-group forQuestion">
+          <span class="input-group-label">Poser question :</span>
+          <textarea class="input-group-field" type="text" name="poserQuestion" placeholder="Est-ce que ..."></textarea>
+        </div>
+      </div>
+      <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+    </div>
 
-		<div class="callout" id="categorie-7">
-			<h4>Catégorie 7</h4>
-			<div class="content callout" id="question-7.1">
-				<p><strong>Question 7.1</strong></p>
-				<p>Réponse 7.1</p>
-			</div>
-			<table><tr>
-			<td width="20%"><a href="#" class="hollow button">Poser question</a></td>
-			<td width="80%"><textarea name="Question-7" placeholder="Est-ce que ..."></textarea></td>
-			</tr></table>
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-		</div>
+    <div class="callout" id="categorie-7">
+      <h4>Catégorie 7</h4>
+      <div class="content callout" id="question-7.1">
+        <p class="strong">Question 7.1</p>
+        <p>Réponse 7.1</p>
+      </div>
+      <div class="row">
+        <div class="input-group forQuestion">
+          <span class="input-group-label">Poser question :</span>
+          <textarea class="input-group-field" type="text" name="poserQuestion" placeholder="Est-ce que ..."></textarea>
+        </div>
+      </div>
+      <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+    </div>
 
-		<div class="callout" id="categorie-8">
-			<h4>Catégorie 8</h4>
-			<div class="content callout" id="question-8.1">
-				<p><strong>Question 8.1</strong></p>
-				<p>Réponse 8.1</p>
-			</div>
-			<table><tr>
-			<td width="20%"><a href="#" class="hollow button">Poser question</a></td>
-			<td width="80%"><textarea name="Question-8" placeholder="Est-ce que ..."></textarea></td>
-			</tr></table>
-			<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-		</div>
+    <div class="callout" id="categorie-8">
+      <h4>Catégorie 8</h4>
+      <div class="content callout" id="question-8.1">
+        <p class="strong">Question 8.1</p>
+        <p>Réponse 8.1</p>
+      </div>
+     <div class="row">
+        <div class="input-group forQuestion">
+          <span class="input-group-label">Poser question :</span>
+          <textarea class="input-group-field" type="text" name="poserQuestion" placeholder="Est-ce que ..."></textarea>
+        </div>
+      </div>
+      <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+    </div>
 
     </div>
   </div>
 </div>
 
-<!-- FOOTER -->
 <%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-03 à 07:15' }) %>
 
-<!-- SCRIPTS -->
 <%= partials.scripts() %>
 
 </body>

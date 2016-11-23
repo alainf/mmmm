@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" dir="ltr">
 
-<%= partials.mmhead({ title: 'PhD Favoris' }) %>
+<%= partials.mmhead({ title: 'PhdAdmin Favoris' }) %>
 
 <body>
 
@@ -11,194 +11,189 @@
 
 <%= partials.titreSeulement({ title: "Favoris" }) %>
 
-<!-- INTERFACE -->
+<div class="row">
 
-<div class="row" id="grid">
-
-	<!-- LEFT -->
-  <div class="large-3 medium-3 small-3 columns" id="grid-left">
-	<!-- 	tabulations -->
-	<ul class="tabs vertical" data-tabs id="compte">
-		<li class="tabs-title"><a href="#activites"><span class="larger-text">Activités</span></a></li>
-		<li class="tabs-title"><a href="#appels"><span class="larger-text">Appels à comm.</span></a></li>
-		<li class="tabs-title"><a href="#articles"><span class="larger-text">Articles</span></a></li>
-		<li class="tabs-title"><a href="#avis"><span class="larger-text">Avis</span></a></li>
-		<li class="tabs-title"><a href="#bourses"><span class="larger-text">Bourses</span></a></li>
-		<li class="tabs-title"><a href="#conferences"><span class="larger-text">Conférences</span></a></li>
-		<li class="tabs-title"><a href="#congres"><span class="larger-text">Congrès</span></a></li>
-		<li class="tabs-title"><a href="#emplois"><span class="larger-text">Emplois</span></a></li>
-		<li class="tabs-title"><a href="#lancements"><span class="larger-text">Lancements</span></a></li>
-		<li class="tabs-title"><a href="#personnes"><span class="larger-text">Personnes</span></a></li>
-		<li class="tabs-title"><a href="#recherches"><span class="larger-text">Recherches</span></a></li>
-		<li class="tabs-title"><a href="#rendezVous"><span class="larger-text">Rendez-vous</span></a></li>
-		<li class="tabs-title"><a href="#sections"><span class="larger-text">Sections</span></a></li>
-		<li class="tabs-title is-active"><a href="#mes-sujets" aria-selected="true"><span class="larger-text">Sujets</span></a></li>
-	</ul>
+  <!-- LEFT -->
+  <div class="small-3 columns">
+  <ul class="tabs vertical" data-tabs id="compte">
+    <li class="tabs-title"><a href="#activites"><span class="larger-text">Activités</span></a></li>
+    <li class="tabs-title"><a href="#appels"><span class="larger-text">Appels à comm.</span></a></li>
+    <li class="tabs-title"><a href="#articles"><span class="larger-text">Articles</span></a></li>
+    <li class="tabs-title"><a href="#avis"><span class="larger-text">Avis</span></a></li>
+    <li class="tabs-title"><a href="#bourses"><span class="larger-text">Bourses</span></a></li>
+    <li class="tabs-title"><a href="#conferences"><span class="larger-text">Conférences</span></a></li>
+    <li class="tabs-title"><a href="#congres"><span class="larger-text">Congrès</span></a></li>
+    <li class="tabs-title"><a href="#emplois"><span class="larger-text">Emplois</span></a></li>
+    <li class="tabs-title"><a href="#lancements"><span class="larger-text">Lancements</span></a></li>
+    <li class="tabs-title"><a href="#personnes"><span class="larger-text">Personnes</span></a></li>
+    <li class="tabs-title"><a href="#recherches"><span class="larger-text">Recherches</span></a></li>
+    <li class="tabs-title"><a href="#rendezVous"><span class="larger-text">Rendez-vous</span></a></li>
+    <li class="tabs-title"><a href="#sections"><span class="larger-text">Sections</span></a></li>
+    <li class="tabs-title is-active"><a href="#mes-sujets" aria-selected="true"><span class="larger-text">Sujets</span></a></li>
+  </ul>
   </div>
 
   <!-- RIGHT -->
   
-  <div class="large-9 medium-9 small-9 columns" id="grid-right">
+  <div class="small-9 columns">
   <div>
   <div class="tabs-content" data-tabs-content="compte">
 
-	<div class="tabs-panel" id="activites">
-		<div class="">
-			<h4>Activités qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesActivites() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="activites">
+    <div class="">
+      <h4>Activités qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesActivites() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="appels">
-		<div class="">
-			<h4>Appels à communication qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesAppels() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="appels">
+    <div class="">
+      <h4>Appels à communication qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesAppels() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="articles">
-		<div class="">
-			<h4>Articles qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesArticles() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="articles">
+    <div class="">
+      <h4>Articles qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesArticles() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="avis">
-		<div class="">
-			<h4>Avis qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesAvis() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="avis">
+    <div class="">
+      <h4>Avis qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesAvis() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="bourses">
-		<div class="">
-			<h4>Bourses qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesBourses() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="bourses">
+    <div class="">
+      <h4>Bourses qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesBourses() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="conferences">
-		<div class="">
-			<h4>Conférences qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesConferences() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="conferences">
+    <div class="">
+      <h4>Conférences qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesConferences() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="congres">
-		<div class="">
-			<h4>Congrès qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesCongres() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="congres">
+    <div class="">
+      <h4>Congrès qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesCongres() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="emplois">
-		<div class="">
-			<h4>Emplois qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesEmplois() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="emplois">
+    <div class="">
+      <h4>Emplois qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesEmplois() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="lancements">
-		<div class="">
-			<h4>Lancements qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesLancements() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="lancements">
+    <div class="">
+      <h4>Lancements qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesLancements() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="personnes">
-		<div class="">
-			<h4>Personnes qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesPersonnes() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="personnes">
+    <div class="">
+      <h4>Personnes qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesPersonnes() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="recherches">
-		<div class="">
-			<h4>Recherches effectuées</h4>
-			<div class="content">
-				<%= partials.tableMesRecherches() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="recherches">
+    <div class="">
+      <h4>Recherches effectuées</h4>
+      <div class="content">
+        <%= partials.tableMesRecherches() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="rendezVous">
-		<div class="">
-			<h4>Mes rendez-vous</h4>
-			<div class="content">
-				<%= partials.tableMesRendezVous() %>
-			</div>
-			<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="rendezVous">
+    <div class="">
+      <h4>Mes rendez-vous</h4>
+      <div class="content">
+        <%= partials.tableMesRendezVous() %>
+      </div>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+  </div>
 
-	<div class="tabs-panel" id="sections">
-		<div class="">
-			<h4>Sections qui m'intéressent</h4>
-			<div class="content">
-				<%= partials.tableMesSections() %>
-			</div>
-			<p>
-				<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-				<%= partials.modalChoisirSection() %>
-			</p>
-		</div>
-	</div>
+  <div class="tabs-panel" id="sections">
+    <div class="">
+      <h4>Sections qui m'intéressent</h4>
+      <div class="content">
+        <%= partials.tableMesSections() %>
+      </div>
+      <p>
+        <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+        <%= partials.modalChoisirSection() %>
+      </p>
+    </div>
+  </div>
 
-	  <div class="tabs-panel is-active" id="mes-sujets">
-		<div class="">
-			<h4>Sujets qui m'intéressent</h4>
-			<p>Autrement-dit <em>mes <u>sujets de recherche</u></em></p>
-			<div class="content">
-				<%= partials.tableMesSujets() %>
-			</div>
-			<p>
-				<a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
-				<%= partials.modalChoisirSujet() %>
-			</p>
-		</div>
-	  </div>
+    <div class="tabs-panel is-active" id="mes-sujets">
+    <div class="">
+      <h4>Sujets qui m'intéressent</h4>
+      <p>Autrement-dit <span class="em">mes <u>sujets de recherche</u></span></p>
+      <div class="content">
+        <%= partials.tableMesSujets() %>
+      </div>
+      <p>
+        <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+        <%= partials.modalChoisirSujet() %>
+      </p>
+    </div>
+    </div>
 
-	  </div>
+    </div>
     </div>
   </div>
  
 </div>
 
-<!-- FOOTER -->
 <%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-18 à 20:23' }) %>
 
-<!-- SCRIPTS -->
 <%= partials.scripts() %>
 
 </body>

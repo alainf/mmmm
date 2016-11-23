@@ -1,178 +1,175 @@
 <!doctype html>
 <html lang="fr" dir="ltr">
 
-<%= partials.mmhead({ title: 'PhD Article-ext' }) %>
+<%= partials.mmhead({ title: 'PhdAdmin Article-ext' }) %>
 
 <body>
-
-<!-- INTERFACE -->
 
 <%= partials.detailedTopRow() %>
 
 <!-- logo + liens -->
 <div class="row">
-	<div class="large-6 medium-6 small-6 columns">
-		<div class="text-left" id="logo">
-			<p class=""><img src="/img/phdadmin_logo.png" alt="PhD Administration"></p>
-		</div>
-	</div>
-	<div class="large-6 medium-6 small-6 columns">
-		<br>
-		<ul class="menu">
-		<li><a href="#information">Information</a></li>
-		<li><a href="#attributs">Attributs</a></li>
-		<li><a href="#consultation">Consulter</a></li>
-		<li><a href="#evaluation">Évaluer</a></li>
-		<li><a href="#commentaires">Commenter</a></li>
-		</ul>
-	</div>
+  <div class="small-6 columns">
+    <div class="text-left" id="logo">
+      <p class=""><img src="/img/phdadmin_logo.png" alt="PhD Administration"></p>
+    </div>
+  </div>
+  <div class="small-6 columns">
+    <br>
+    <ul class="menu">
+    <li><a href="#information">Information</a></li>
+    <li><a href="#attributs">Attributs</a></li>
+    <li><a href="#consultation">Consulter</a></li>
+    <li><a href="#evaluation">Évaluer</a></li>
+    <li><a href="#commentaires">Commenter</a></li>
+    </ul>
+  </div>
 </div>
-
-<!-- 	INTERFACE -->
 
 <div class="row" id="content-pane">
-  <div class="large-6 medium-6 small-6 columns">
+  <div class="small-6 columns">
     <div class="callout" id="article">
 
-		<!-- début -->
-		<div class="" id="article">
-			<div>
-				 <table><tr>
-				 <td><h4>Determinants of Local<br>Governments' Transparency</a></h4>
-					<blockquote class="text-justify"><em>The crisis has impact on Local Government<br>forcing it to be more transparent<br>in management of public resources.</em></blockquote>
-				</td>
-				<td><img src="/img/dans-articles/Philippe_Couillard.jpg" class="mmthumb"></td>
-				</tr></table>
-			</div>
-			<div class="content"><p class="text-justify">This article examines theoretically and empirically the determinants of the levels of transparency in Local Governments based on the agency and legitimacy theories. For the purpose of this study, the analysis is based on the Spanish municipalities over a period of 4 years....</p></div>
-		</div>
-		<!-- fin -->
+    <div class="" id="article">
+      <div class="row">
+        <div class="small-8 columns">
+          <div class="">
+            <h4>Determinants of Local<br>Governments' Transparency</a>
+            <blockquote class="very-small-text em">The crisis has impact on Local Government<br>forcing it to be more transparent<br>in management of public resources.</blockquote>
+          </div>
+        </div>
+        <div class="small-4 columns">
+          <div class="">
+            <img src="/img/dans-articles/Philippe_Couillard.jpg" class="mmthumb">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="small-12 columns">
+          <div class="">
+            <p class="text-justify">This article examines theoretically and empirically the determinants of the levels of transparency in Local Governments based on the agency and legitimacy theories. For the purpose of this study, the analysis is based on the Spanish municipalities over a period of 4 years....</p>
+          </div>
+        </div>
+      </div>
+    </div>
 
-      <!-- début -->
-      <div class="callout" id="consultation">
-      <h4 class="text-left"><strong>Consulter</strong></h4>
-      <dl>
-			<dt>Liens</dt>
-			<dd><p><a title="http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1" href="http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1">RSS dans sagepub.com</a></p></dd>
-			<dt>Licence</dt>
-			<dd><p>copyright</p></dd>
-			<dt>Conditions</dt>
-			<dd><p>Tous droits réservés.</p></dd>
-			<dt>Coût</dt>
-			<dd><p>Aucun</p></dd>
-		</dl>
-		<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-      <!-- fin -->
+    <div class="callout" id="consultation">
+    <h4 class="strong text-left">Consulter</h4>
+    <dl>
+      <dt>Liens</dt>
+      <dd><p><a title="http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1" href="http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1">RSS dans sagepub.com</a></p></dd>
+      <dt>Licence</dt>
+      <dd><p>copyright</p></dd>
+      <dt>Conditions</dt>
+      <dd><p>Tous droits réservés.</p></dd>
+      <dt>Coût</dt>
+      <dd><p>Aucun</p></dd>
+    </dl>
+    <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
 
-		<%= partials.detailedEvaluation() %>
+    <%= partials.detailedEvaluation() %>
 
-		<%= partials.detailedCommenter() %>
+    <%= partials.detailedCommenter() %>
 
     </div>
   </div>
-  <div class="large-6 medium-6 small-6 columns">
+  <div class="small-6 columns">
     <div class="" id="metadata">
 
-      <!-- début -->
-      <div class="callout" id="information">
-      <h4 class="text-left"><strong>Information</strong></h4>
-		<dl>
-			<dt>Aperçu</dt>
-			<dd><p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p></dd>
-			<dt>Description</dt>
-			<dd><p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p></dd>
-			<dt>Mots-clefs <%= partials.ajouterMotclef() %></dt>
-			<dd><p>study, analysis, theoretically, empirically, determinants, levels of transparency, local governments, Spanish municipalities, agency, legitimacy, theories.</p></dd>
-			<dt>Lieux concernées</dt>
-			<dd><p>Espagne</p></dd>
-			<dt>Organisations concernées</dt>
-			<dd><p>Municipalités espagnoles</p></dd>
-			<dt>Personnes concernées</dt>
-			<dd><p>Philippe Couillard</p></dd>
-			<dt>Sections du site</dt>
-			<dd><p>
-				<a href="/fr/section">Entreprise</a><br>
-				<a href="/fr/section">Acteurs de l'entreprise</a><br>
-				<a href="/fr/section">Actionnaires</a>
-			</p></dd>
-			<dt>Sujets <%= partials.ajouterSujet() %></dt>
-			<dd><p>
-				<span>Sujet suggéré par un utilisateur</span><br>
-				<a href="#">Sujet 1</a><br>
-				<a href="#">Sujet 2</a>
-			</p></dd>
-			<dt>Disponible dans un autre format</dt>
-			<dd><p>
-				<a href="#">Hyperlien vers la même ressource, en PDF.</a><br>
-				<a href="#">Hyperlien vers la même ressource, en Word.</a>
-			</p></dd>
-			<dt>Disponible dans une autre langue</dt>
-			<dd><p>
-				<a href="#">Hyperlien vers la même ressource, en anglais.</a><br>
-				<a href="#">Hyperlien vers la même ressource, en espagnol.</a>
-			</p></dd>
-			<dt>Voir-aussi <%= partials.ajouterLien() %></dt>
-			<dd><p>
-				<a href="#">Hyperlien vers une ressource semblable.</a><br>
-				<a href="#">Hyperlien vers une <strong>autre</strong> ressource semblable.</a>
-			</p></dd>
-		</dl>
-		<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-      <!-- fin -->
+    <div class="callout" id="information">
+    <h4 class="strong text-left">Information</h4>
+    <dl>
+      <dt>Aperçu</dt>
+      <dd><p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p></dd>
+      <dt>Description</dt>
+      <dd><p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p></dd>
+      <dt>Mots-clefs <%= partials.ajouterMotclef() %></dt>
+      <dd><p>study, analysis, theoretically, empirically, determinants, levels of transparency, local governments, Spanish municipalities, agency, legitimacy, theories.</p></dd>
+      <dt>Lieux concernées</dt>
+      <dd><p>Espagne</p></dd>
+      <dt>Organisations concernées</dt>
+      <dd><p>Municipalités espagnoles</p></dd>
+      <dt>Personnes concernées</dt>
+      <dd><p>Philippe Couillard</p></dd>
+      <dt>Sections du site</dt>
+      <dd><p>
+        <a href="/fr/section">Entreprise</a><br>
+        <a href="/fr/section">Acteurs de l'entreprise</a><br>
+        <a href="/fr/section">Actionnaires</a>
+      </p></dd>
+      <dt>Sujets <%= partials.ajouterSujet() %></dt>
+      <dd><p>
+        <span>Sujet suggéré par un utilisateur</span><br>
+        <a href="#">Sujet 1</a><br>
+        <a href="#">Sujet 2</a>
+      </p></dd>
+      <dt>Disponible dans un autre format</dt>
+      <dd><p>
+        <a href="#">Hyperlien vers la même ressource, en PDF.</a><br>
+        <a href="#">Hyperlien vers la même ressource, en Word.</a>
+      </p></dd>
+      <dt>Disponible dans une autre langue</dt>
+      <dd><p>
+        <a href="#">Hyperlien vers la même ressource, en anglais.</a><br>
+        <a href="#">Hyperlien vers la même ressource, en espagnol.</a>
+      </p></dd>
+      <dt>Voir-aussi <%= partials.ajouterLien() %></dt>
+      <dd><p>
+        <a href="#">Hyperlien vers une ressource semblable.</a><br>
+        <a href="#">Hyperlien vers une <span class="strong">autre</span> ressource semblable.</a>
+      </p></dd>
+    </dl>
+    <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
 
-      <!-- début -->
-      <div class="callout" id="attributs">
-      <h4 class="text-left"><strong>Attributs</strong></h4>
-		<dl>
-			<dt>Titre</dt>
-			<dd><p>Determinants of Local Governments' Transparency</p></dd>
-			<dt>Auteurs</dt>
-			<dd><p>John SMITH</p></dd>
-			<dt>Contributeurs</dt>
-			<dd><p>Jane DOE</p></dd>
-			<dt>Provenance</dt>
-			<dd><p>Sage Publications Feeds</p></dd>
-			<dt>Éditeur</dt>
-			<dd><p>Sage Publications Inc.</p></dd>
-			<dt>Date d'édition</dt>
-			<dd><p>2016-10-23</p></dd>
-			<dt>Langue d'édition</dt>
-			<dd><p>Anglais</p></dd>
-			<dt>Lieux d'édition</dt>
-			<dd><p>Barcelone (Espagne)</p></dd>
-			<dt>Encodage</dt>
-			<dd><p>ISO-8859-1</p></dd>
-			<dt>Format</dt>
-			<dd><p>HTML</p></dd>
-			<dt>Identifiants</dt>
-			<dd><p>ISBN / ISSN / DOI / autres</p></dd>
-			<dt>Nom-machine</dt>
-			<dd><p>page-2015-01-25-02-39-29-85330294164</p></dd>
-			<dt>IsCopyright</dt>
-			<dd><p>Oui</p></dd>
-			<dt>Mise à jour</dt>
-			<dd><p>2016-10-23 à 22h30</p></dd>
-			<dt>Types de ressource</dt>
-			<dd><p>Flux RSS</p></dd>
-			<dt>Types de contenu</dt>
-			<dd><p>data</p></dd>
-			<dt>URL</dt>
-			<dd><p><a href="http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1">http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1</a></p></dd>
-		</dl>
-		<p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-		</div>
-      <!-- fin -->
+    <div class="callout" id="attributs">
+    <h4 class="strong text-left">Attributs</h4>
+    <dl>
+      <dt>Titre</dt>
+      <dd><p>Determinants of Local Governments' Transparency</p></dd>
+      <dt>Auteurs</dt>
+      <dd><p>John SMITH</p></dd>
+      <dt>Contributeurs</dt>
+      <dd><p>Jane DOE</p></dd>
+      <dt>Provenance</dt>
+      <dd><p>Sage Publications Feeds</p></dd>
+      <dt>Éditeur</dt>
+      <dd><p>Sage Publications Inc.</p></dd>
+      <dt>Date d'édition</dt>
+      <dd><p>2016-10-23</p></dd>
+      <dt>Langue d'édition</dt>
+      <dd><p>Anglais</p></dd>
+      <dt>Lieux d'édition</dt>
+      <dd><p>Barcelone (Espagne)</p></dd>
+      <dt>Encodage</dt>
+      <dd><p>ISO-8859-1</p></dd>
+      <dt>Format</dt>
+      <dd><p>HTML</p></dd>
+      <dt>Identifiants</dt>
+      <dd><p>ISBN / ISSN / DOI / autres</p></dd>
+      <dt>Nom-machine</dt>
+      <dd><p>page-2015-01-25-02-39-29-85330294164</p></dd>
+      <dt>IsCopyright</dt>
+      <dd><p>Oui</p></dd>
+      <dt>Mise à jour</dt>
+      <dd><p>2016-10-23 à 22h30</p></dd>
+      <dt>Types de ressource</dt>
+      <dd><p>Flux RSS</p></dd>
+      <dt>Types de contenu</dt>
+      <dd><p>data</p></dd>
+      <dt>URL</dt>
+      <dd><p><a href="http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1">http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1</a></p></dd>
+    </dl>
+    <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
 
     </div>
   </div>
 </div>
 
-<!-- FOOTER -->
 <%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-03 à 07:15' }) %>
 
-<!-- SCRIPTS -->
 <%= partials.scripts() %>
 
 </body>
