@@ -1,32 +1,32 @@
 <!-- liens-publics -->
 <div class="row" id="liens-publics">
-	<div class="large-12 medium-12 small-12 columns">
-		<ul class="menu align-right">
-		<!-- -->
-		<% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
-		<li><a href="/fr/meDeconnecter">Me déconnecter</a></li>
-		<% } else { %>
-		<li><a href="/fr/meConnecter">Me connecter</a></li>
-		<% } %>
-		<!-- -->
-		<% if (data.usertype === 'anonyme') { %>
-			<li><a href="/fr/abonnezVous">M'abonner</a></li>
-		<% } %>
-		<!-- -->
-		<% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
-		<li><a href="/fr/moi">Moi</a></li>
-		<% } %>
-		<!-- -->
-		<% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
-		<li><a href="/fr/favoris">Favoris</a></li>
-		<% } %>
-		<!-- -->
-		<li><a href="/fr/bottin" title="Membres et groupes de phdAdmin">Bottin</a></li>
-		<li><a href="/fr/agenda" title="Agenda de phdAdmin">Agenda</a></li>
-		<li><a href="/fr/faq" title="Foire aux questions">FAQ</a></li>
-		<li><a href="/fr/apropos">À propos</a></li>
-		<li><a href="/fr/accueil">Accueil</a></li>
-		<!-- -->
-		</ul>
-	</div>
+  <div class="small-12 columns">
+    <ul class="menu align-right">
+    <!-- -->
+    <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
+    <li><a href="/fr/meDeconnecter">Me déconnecter</a></li>
+    <% } else { %>
+    <li><a href="/fr/meConnecter">Me connecter</a></li>
+    <% } %>
+    <!-- -->
+    <% if (data.usertype === 'anonyme') { %>
+      <li><a href="/fr/abonnezVous">M'abonner</a></li>
+    <% } %>
+    <!-- -->
+    <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
+    <li><a href="/fr/moi">Moi</a></li>
+    <% } %>
+    <!-- -->
+    <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
+    <li><a href="/fr/favoris">Favoris</a></li>
+    <% } %>
+    <!-- -->
+    <li><a href="/fr/bottin" title="Membres et groupes de phdAdmin">Bottin</a></li>
+    <li><a href="/fr/agenda" title="Agenda de phdAdmin">Agenda</a></li>
+    <li><a href="/fr/faq" title="Foire aux questions">FAQ</a></li>
+    <li><a href="/fr/apropos">À propos</a></li>
+    <li><a href="/fr/accueil">Accueil</a></li>
+    <!-- -->
+    </ul>
+  </div>
 </div>
