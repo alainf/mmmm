@@ -44,6 +44,7 @@ end if
 <%= data.citation %>
 <%= data.direction %>
 <%= data.contenu %>
+<%= data.apercu %>
 
 == article1a ==
 
@@ -62,9 +63,12 @@ end if
      </div>
     </div>
     <div class="small-8 columns">
-     <div class="content">
-       <%= data.contenu %>
-     </div>
+      <!-- if data.apercu is not null then -->
+      <span class="apercu"><%= data.apercu %></span>
+      <!-- endif -->
+      <div class="content">
+        <%= data.contenu %>
+      </div>
     </div>
   </div>
 </div>
@@ -81,9 +85,12 @@ end if
   </div>
   <div class="row">
     <div class="small-8 columns">
-     <div class="content">
-       <%= data.contenu %>
-     </div>
+      <!-- if data.apercu is not null then -->
+      <span class="apercu"><%= data.apercu %></span>
+      <!-- endif -->
+      <div class="content">
+        <%= data.contenu %>
+      </div>
     </div>
     <div class="small-4 columns">
      <div class="">
@@ -166,6 +173,9 @@ end if
           <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><span class="em"><%= data.soustitre %></span></a>
         </p>
         <!-- endif -->
+        <!-- if data.apercu is not null then -->
+        <p class="apercu"><%= data.apercu %></p>
+        <!-- endif -->
       </div>
     </div>
   </div>
@@ -192,6 +202,9 @@ end if
         <p class="headline">
           <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><span class="em"><%= data.soustitre %></span></a>
         </p>
+        <!-- endif -->
+        <!-- if data.apercu is not null then -->
+        <p class="apercu"><%= data.apercu %></p>
         <!-- endif -->
       </div>
     </div>
@@ -225,6 +238,9 @@ end if
           <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><span class="em"><%= data.soustitre %></span></a>
         </p>
         <!-- endif -->
+        <!-- if data.apercu is not null then -->
+        <p class="apercu"><%= data.apercu %></p>
+        <!-- endif -->
       </div>
     </div>
   </div>
@@ -250,6 +266,9 @@ end if
         <p class="headline text-right">
           <a target="_blank" href="<%= data.path %>" title="<%= data.tip %>"><span class="em"><%= data.soustitre %></span></a>
         </p>
+        <!-- endif -->
+        <!-- if data.apercu is not null then -->
+        <p class="apercu"><%= data.apercu %></p>
         <!-- endif -->
       </div>
     </div>
