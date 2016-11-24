@@ -51,7 +51,7 @@
     "eslint-plugin-json": "^1.2.0",
     "lab": "11.x.x",
     "nodemon": "1.x.x",
-    "standard": "^8.5.0"
+    "standard": "^8.6.0"
   },
   "eslintConfig": {
     "plugins": [
