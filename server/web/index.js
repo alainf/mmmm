@@ -11,7 +11,6 @@ const pages = [
   'agenda',
   'aider',
   'apropos',
-  'articles',
   'bottin',
   'enConstruction',
   'faq',

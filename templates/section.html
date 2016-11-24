@@ -17,9 +17,9 @@
     <li><a href="/fr/accueil">Accueil</a></li>
     <li>Entreprise</li>
     <li>
-      <a class="prev-page strong" href="#">&lt;</a>
+      <a class="prev-page" href="#">&lt;</a>
       <span> Page 1 </span>
-      <a class="next-page strong" href="#">&gt;</a>
+      <a class="next-page" href="#">&gt;</a>
     </li>
     </ul>
   </nav>
@@ -32,9 +32,9 @@
 
   <!-- Left -->
   <div class="small-3 columns">
-    <h5 class="strong text-center"><%- data.__('Sections') %></h5>
+    <h5 class="bloc-title"><%- data.__('Sections') %></h5>
     <%= partials.getSections(data) %>
-    <h5 class="strong text-center"><%- data.__('Sujets') %></h5>
+    <h5 class="bloc-title"><%- data.__('Sujets') %></h5>
     <%= partials.getSujets(data) %>
   </div>
 
@@ -58,7 +58,7 @@
   <!-- Right -->
   <div class="small-3 columns">
     <div class="">
-      <h5 class="strong text-center"><%- data.__('En bref') %></h5>
+      <h5 class="bloc-title"><%- data.__('En bref') %></h5>
       <%= partials.breve1() %>
     <%= partials.breve2() %>
     <%= partials.breve3() %>
@@ -67,7 +67,7 @@
   </div>
 </div>
 
-<%= partials.footer({ pagination: true, lastPage: '2 000', updated: '2016-11-02 à 21:23' }) %>
+<%= partials.footer({ pagination: true, lastPage: '2 000', updated: '2016-11-23 à 21:29' }) %>
 
 <%= partials.scripts() %>
 

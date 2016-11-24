@@ -16,16 +16,16 @@
   <!-- LEFT -->
   <div class="small-3 columns">
   <ul class="tabs vertical" data-tabs id="tabsMoi">
-    <li class="tabs-title is-active"><a href="#compte" aria-selected="true"><span class="larger-text">Compte</span></a></li>
-    <li class="tabs-title"><a href="#mon-identite"><span class="larger-text">Identité</span></a></li>
-    <li class="tabs-title"><a href="#mes-preferences"><span class="larger-text">Préférences</span></a></li>
-    <li class="tabs-title"><a href="#mes-favoris"><span class="larger-text">Favoris</span></a></li>
-    <li class="tabs-title"><a href="#mes-notifications"><span class="larger-text">M'aviser</span></a></li>
-    <li class="tabs-title"><a href="#ma-participation"><span class="larger-text">Participer</span></a></li>
-    <li class="tabs-title"><a href="#mon-historique"><span class="larger-text">Historique</span></a></li>
-    <li class="tabs-title"><a href="#mon-agenda"><span class="larger-text">Agenda</span></a></li>
-    <li class="tabs-title"><a href="#mon-calendrier"><span class="larger-text">Calendrier</span></a></li>
-    <li class="tabs-title"><a href="#mes-meteos"><span class="larger-text">Météos</span></a></li>
+    <li class="tabs-title is-active"><a href="#compte" aria-selected="true"><span class="tabs-size">Compte</span></a></li>
+    <li class="tabs-title"><a href="#mon-identite"><span class="tabs-size">Identité</span></a></li>
+    <li class="tabs-title"><a href="#mes-preferences"><span class="tabs-size">Préférences</span></a></li>
+    <li class="tabs-title"><a href="#mes-favoris"><span class="tabs-size">Favoris</span></a></li>
+    <li class="tabs-title"><a href="#mes-notifications"><span class="tabs-size">M'aviser</span></a></li>
+    <li class="tabs-title"><a href="#ma-participation"><span class="tabs-size">Participer</span></a></li>
+    <li class="tabs-title"><a href="#mon-historique"><span class="tabs-size">Historique</span></a></li>
+    <li class="tabs-title"><a href="#mon-agenda"><span class="tabs-size">Agenda</span></a></li>
+    <li class="tabs-title"><a href="#mon-calendrier"><span class="tabs-size">Calendrier</span></a></li>
+    <li class="tabs-title"><a href="#mes-meteos"><span class="tabs-size">Météos</span></a></li>
   </ul>
   </div>
 
@@ -52,7 +52,7 @@
         <dt>Paiement</dt>
         <dd>
           <div class="row">
-          <fieldset class="large-12 columns">
+          <fieldset class="small-12 columns">
             <input type="radio" name="paiement" value="carte de crédit" id="carte"><label for="carte">Carte de crédit</label>
             <input type="radio" name="paiement" value="paypal" id="paypal"><label for="paypal">Paypal</label>
             <input type="radio" name="paiement" value="bitcoin" id="bitcoin"><label for="bitcoin">Bitcoin</label>
@@ -63,7 +63,7 @@
         <dt></dt>
         <dd>
           <div class="row">
-          <fieldset class="large-12 columns">
+          <fieldset class="small-12 columns">
             <p>
             <input class="button" name="payer" value="Payer dès maintenant ...">
             <span>&nbsp;</span>
@@ -108,7 +108,7 @@
             <div class="input-group forIdentity">
               <input class="input-group-field" type="text" name="courriel" value="alain_farmer@yahoo.com">
               <a title="Partager cette information ?" class="input-group-button success button">
-                <span class="larger-text"><i class="fi-check"></i></span>
+                <span class="tabs-size"><i class="fi-check"></i></span>
               </a>
             </div>
           </dd>
@@ -117,7 +117,7 @@
             <div class="input-group forIdentity">
               <input class="input-group-field" type="url" name="facebook" value="https://www.facebook.com/alain.farmer">
               <a title="Partager cette information ?" class="input-group-button success button">
-                <span class="larger-text"><i class="fi-check"></i></span>
+                <span class="tabs-size"><i class="fi-check"></i></span>
               </a>
             </div>
           </dd>
@@ -126,7 +126,7 @@
             <div class="input-group forIdentity">
               <input class="input-group-field" type="text" name="geolocalisation" value="H4G 1H7">
               <a title="Partager cette information ?" class="input-group-button success button">
-                <span class="larger-text"><i class="fi-check"></i></span>
+                <span class="tabs-size"><i class="fi-check"></i></span>
               </a>
             </div>
           </dd>
@@ -135,7 +135,7 @@
             <div class="input-group forIdentity">
               <input class="input-group-field" type="text" name="telephone" value="514-710-1752">
               <a title="Partager cette information ?" class="input-group-button alert button">
-                <span class="larger-text"><i class="fi-lock"></i></span>
+                <span class="tabs-size"><i class="fi-lock"></i></span>
               </a>
             </div>
           </dd>
@@ -160,7 +160,7 @@
               <label for="fileUpload" class="button">Téléverser image ...</label>
               <input type="file" id="fileUpload" class="show-for-sr">
             </form>
-            <p class="text-center"><span class="em">Veuillez téléverser une image d'une taille d'environ 200 pixels par 200 pixels.</span></p>
+            <p class="em text-center">Veuillez téléverser une image d'une taille d'environ 200 pixels par 200 pixels.</p>
           </div>
         </div>
         <div class="small-6 columns">
@@ -458,7 +458,7 @@
     <div class="tabs-panel" id="mes-meteos">
     <div class="">
       <h4>Météos</h4>
-      <div><p>Météo des lieux que vous avez choisis dans <a href="#mes-preferences"><span class="larger-text">Préférences</span></a>.</p></div>
+      <div><p>Météo des lieux que vous avez choisis dans <a href="#mes-preferences"><span class="tabs-size">Préférences</span></a>.</p></div>
       <div class="row">
         <form>
         <div class="small-4 columns">
@@ -493,7 +493,7 @@
  
 </div>
 
-<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-19 à 15:46' }) %>
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-23 à 21:20' }) %>
 
 <%= partials.scripts() %>
 
