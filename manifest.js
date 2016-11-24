@@ -54,8 +54,14 @@ const manifest = {
       },
       options: { routes: { prefix: '/user' } }
     },
-    { plugin: 'hapijs-status-monitor' },
-    { plugin: 'lout' },
+    {
+      plugin: 'hapijs-status-monitor',
+      options: { routes: { prefix: '/system' } }
+    },
+    {
+      plugin: 'lout',
+      options: { routes: { prefix: '/system' } }
+    },
     { plugin: 'hapi-context-app' },
     { plugin: 'hapi-context-credentials' },
     { plugin: 'h2o2' },
