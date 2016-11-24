@@ -54,6 +54,7 @@ const manifest = {
       },
       options: { routes: { prefix: '/user' } }
     },
+    { plugin: 'lout' },
     { plugin: 'hapi-context-app' },
     { plugin: 'hapi-context-credentials' },
     { plugin: 'h2o2' },
