@@ -32,6 +32,9 @@ body
 .em
 { font-style: italic; }
 
+th
+{ font-style: italic; }
+
 .strong
 { font-weight: bold; }
 
