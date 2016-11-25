@@ -24,6 +24,8 @@
     <li class="tabs-title"><a href="#mesOrganisations"><span class="tabs-size">&nbsp;&nbsp; Mes organisations</span></a></li>
     <li class="tabs-title"><a href="#personnes"><span class="tabs-size">Personnes</span></a></li>
     <li class="tabs-title"><a href="#mesPersonnes"><span class="tabs-size">&nbsp;&nbsp; Mes personnes</span></a></li>
+    <li class="tabs-title"><a href="#lieux"><span class="tabs-size">Lieux</span></a></li>
+    <li class="tabs-title"><a href="#mesLieux"><span class="tabs-size">&nbsp;&nbsp; Mes lieux</span></a></li>
   </ul>
   </div>
 
@@ -381,6 +383,54 @@
     </div>
     </div>
 
+    <div class="tabs-panel" id="lieux">
+    <div class="">
+      <h4>Lieux</h4>
+      <p>Consulter un lieu ou <span class="strong">proposer un lieu</span> <%= partials.ajouterLieu() %></p>
+      <h5>Affichage</h5>
+    <select id="trier-lieux">
+      <option value="trier-lieux-par-nom" selected>Tableau trié par Nom</option>
+      <option value="trier-lieux-par-apercu">Tableau trié par Aperçu</option>
+    </select>
+    <select id="filtrer-lieux">
+      <option value="filtrer-lieux-par-aucun">Aucun filtrage</option>
+      <option value="filtrer-lieux-autocomplete" selected>Afficher que les lieux qui contiennent le(s) terme(s) ci-dessous</option>
+    </select>
+      <div class="row">
+      <div class="input-group forFilter">
+        <span class="input-group-label">Filtrer :</span>
+        <input class="input-group-field" type="text" name="filtrerLieux" placeholder="Autocomplete">
+      </div>
+    </div>
+      <%= partials.tableLesLieux() %>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+    </div>
+
+    <div class="tabs-panel" id="mesLieux">
+    <div class="">
+      <h4>Mes lieux</h4>
+      <p>Voici l'interface pour suivre les lieux qui m'intéressent.</p>
+      <h5>Affichage</h5>
+    <select id="trier-mes-lieux">
+      <option value="trier-mes-lieux-par-nom" selected>Tableau trié par Nom</option>
+      <option value="trier-mes-lieux-par-apercu">Tableau trié par Aperçu</option>
+    </select>
+    <select id="filtrer-mes-lieux">
+      <option value="filtrer-mes-lieux-par-aucun">Aucun filtrage</option>
+      <option value="filtrer-mes-lieux-autocomplete" selected>Afficher que mes lieux qui contiennent le(s) terme(s) ci-dessous</option>
+    </select>
+      <div class="row">
+      <div class="input-group forFilter">
+        <span class="input-group-label">Filtrer :</span>
+        <input class="input-group-field" type="text" name="filtrerMesLieux" placeholder="Autocomplete">
+      </div>
+    </div>
+      <%= partials.tableMesLieux() %>
+      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+    </div>
+    </div>
+
     </div>
     </div>
   </div>
@@ -388,7 +438,7 @@
 </div>
 <br>
 
-<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-25 à 02:30' }) %>
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-25 à 05:53' }) %>
 
 <%= partials.scripts() %>
 
