@@ -1,42 +1,104 @@
 # Roadmap
 
-Les grandes lignes
+## NOTE
+* Le but est d'avoir un unique roadmap commun. 
+* On peut l'unifier ici, mais faudra en faire des issues dans github et utiliser les champs milestone.
+* SVP Respecter la syntaxe Markdown https://daringfireball.net/projects/markdown/syntax SANS HTML ce qui permet de réutiliser dans github, framateam, etc.
 
-1. Framework hapi pour templates lodash
+
+Les grandes lignes -- > toutes intégrées ci-bas.
+
+# FAIT
+
+## Étapes préliminaires de Alain
+
+1. Design
+1. Markup HTML
+1. Markup CSS
+1.Contenu du site, en JSON ; produit par Livecode.
+
+## Étapes préliminaires de Robin
+
+1. Framework hapi pour templates lodash  <-- ordre (en cours)
    * hapi
    * lodash-vision
 1. Framework hapi + CouchDB
    * update automatique du design doc
+
+# À FAIRE
+
+## Accueil
+
 1. Page d'accueil et articles (CouchDB)
    * view CouchDB des articles en ordre
    * pagination
-1. Pages génériques (quasi-statiques)
-   * À propos
-   * Sous-pages d'À propos
+1. Blocs «En bref»
+
+## Views semblables superficiellement à Accueil
+
+NB: Non, pas superficiellement; ils sont quasi-identiques.
+
 1. Sections
 1. Sujets
-1. Gestionnaire de FAQ
-1. Agenda
-1. Bottin
-1. Favoris
-1. Utilisateurs
-   * Enregistrement, login, logout
-   * Rôles: anonyme, connecté, admin
-1. Page utilisateur
-1. Paiement
-1. Calendrier utilisateur
-1. Identité utilisateur
-1. Préférences utilisateur
-1. Favoris utilisateur
-1. Notifications utilisateur (m'aviser)
-1. Participer (utilisateur)
-1. Historique utilisateur
-1. Agenda utilisateur
-1. Météo utilisateur
-1. Aide en ligne (aidez-moi)
+1, Groupes
+
+##  View resultats-de-recherche, vu que ceci est paginé aussi
+
 1. Engin de recherche
    * Chercher
    * Trier
    * Filter
    * Pagination
-1. Blocs «En bref»
+1. drilldown faceted search (Lucene)
+1. enregistrer et re-effectuer des recherches
+1. requêtes/views, pour peupler notamment les nombreux tableaux, exemple leurs favoris.
+
+Lorsque ci-dessus seront complétés, nous aurons le journal que TOUS les users utiliseront, abonné ou pas
+
+1. Pages génériques (quasi-statiques) qui sont partagées par tous les users
+   * À propos
+   * Sous-pages d'À propos ??
+1. Gestionnaire de FAQ
+1. Agenda
+1. Bottin
+1. Aide en ligne (aidez-moi)
+
+1. Utilisateurs
+   * Enregistrement, login, logout
+   * Rôles: anonyme, connecté, admin
+1. Page utilisateur
+1. Identité utilisateur
+1. Préférences utilisateur
+1. Participer (utilisateur)
+
+On distingue abonnés des anonymes (abonnezVous, meConnecter, meDeconnecter, Favoris, Moi, etc)
+
+Nous offrirons aux abonnés un layer de features supplémentaires 
+
+1. Calendrier utilisateur
+1. Favoris utilisateur
+1. Notifications utilisateur (m'aviser)
+1. Historique utilisateur
+1. Agenda utilisateur
+1. Météo utilisateur
+1. ajouts et annotations in-situo
+1. personalisation en fonction de leur profile et préférences (explicites et tacites).
+
+## Personalisation
+
+Stockage et affichage de leurs données, trace(s) de leurs interactions, etc.
+
+1. Javascript-client
+   * features programmés qui ne sont pas faisables qu'avec HTML et CSS.
+   * AJAX
+   * enregistrer automatiquement, sans obliger user d'enregistrer.
+
+## Dimension transactionnelle
+
+1. Paiement
+1. dons
+1. déduction en fonction de leur participation: logs, calculs
+
+## Étapes post-dev
+1. Hébergement du Couch
+1. Hébergement du site
