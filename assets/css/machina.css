@@ -124,3 +124,15 @@ p.headline
 .apercu
 { font-weight: bold; }
 
+.button:hover {
+    background-color: green;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.member-button
+{
+	padding: 20px;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+

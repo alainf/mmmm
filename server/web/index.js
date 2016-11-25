@@ -18,6 +18,7 @@ const pages = [
   'index',
   'me-connecter',
   'me-deconnecter',
+  'membre',
   'moi',
   'page-ext',
   'page-int',

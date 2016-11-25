@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<%= partials.mmhead({ title: 'PhdAdmin - Membre - Alain Farmer' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercher() %>
+
+<%= partials.titreSeulement({ title: "Profil de ce membre" }) %>
+
+<div class="row">
+  <div class="small-6 columns">
+    <div class="">
+
+      <div class="row">
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Utilisateur</dt>
+            <dd><p>alainf</p></dd>
+            <dt>Réputation</dt>
+            <dd><p>Fiable</p></dd>
+            <dt>Langues</dt>
+            <dd><p>Français, Anglais</p></dd>
+            </dl>
+          </div>
+        </div>
+        <div class="small-6 columns">
+          <div class="">
+            <img src="/img/membres/me.jpg" class="mmthumb" alt="Alain">
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Nom de famille</dt>
+            <dd><p>Farmer</p></dd>
+            </dl>
+          </div>
+        </div>
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Prénom</dt>
+            <dd><p>Alain</p></dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Code postal</dt>
+            <dd><p>H4G 1H7</p></dd>
+            </dl>
+          </div>
+        </div>
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Téléphone</dt>
+            <dd><p>confidentiel</p></dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+
+      <dl>
+      <dt>Lieux</dt>
+      <dd><p>Montréal (Québec), Québec (Québec), Paris (France)</p></dd>
+      <dt>Facebook</dt>
+      <dd><p>https://www.facebook.com/alain.farmer</p></dd>
+      <dt>Courriel</dt>
+      <dd><p>alain_farmer@yahoo.com</p></dd>
+      </dl>
+
+    </div>
+  </div>
+  <div class="small-6 columns">
+    <div class="secondary callout">
+      <p class="text-center larger-text strong">Sujets de recherche</p>
+      <div class="callout">
+        <ul class="menu vertical">
+        <li><a href="/fr/sujet">Art</a></li>
+        <li><a href="/fr/sujet">Droit</a></li>
+        <li><a href="/fr/sujet">Informatique</a></li>
+        <li><a href="/fr/sujet">Langage et linguistique</a></li>
+        <li><a href="/fr/sujet">Politique</a></li>
+        <li><a href="/fr/sujet">Sciences de la gestion</a></li>
+        <li><a href="/fr/sujet">Sciences de l&#39;éducation</a></li>
+        <li><a href="/fr/sujet">Sc. de l&#39;information et de la communication</a></li>
+        <li><a href="/fr/sujet">Sciences économiques</a></li>
+        <li><a href="/fr/sujet">Sciences exactes</a></li>
+        <li><a href="/fr/sujet">Sciences humaines</a></li>
+        <li><a href="/fr/sujet">Sciences sociales</a></li>  
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <div class="">
+      <div class="expanded button-group">
+        <a class="hollow button member-button" href="#">Devenir pairs</a>
+        <a class="hollow button member-button" href="#">Contacter</a>
+        <a class="hollow button member-button" href="/fr/journal1">Son journal</a>
+        <a class="hollow button member-button" href="/fr/these1">Sa thèse</a>
+        <a class="hollow button member-button" href="#">Ses favoris</a>
+        <a class="hollow button member-button" href="#">Son agenda</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<%= partials.scripts() %>
+
+</body>
+</html>
