@@ -23,14 +23,20 @@
 
 1. Page d'accueil et articles (CouchDB)
    * view CouchDB des articles en ordre
-   * pagination
+   * pagination (en bas de page)
+   * pagination dans le breadcrumb (précédente et suivante)
    * breadcrumb
    * switcher de langue
+   * remplir sections et sujets (termes du niveau en question).
 1. Blocs «En bref»
+   * sont comme les articles, mais plus simples: juste titre, soustitre (facultatif) et contenu.
+   * breves sont les articles où data.contenu.length < que le seuil minimale pour les articles.
 
 ## Views semblables superficiellement à Accueil
 
 NB: Non, pas superficiellement; ils sont quasi-identiques.
+NB: Ces pages ont tous les éléments de l'Accueil.
+NB: Différence c'est les données-de-départ dans les blocs Sections et Sujets. IOW, un sous-ensemble.
 
 1. Sections
 1. Sujets
