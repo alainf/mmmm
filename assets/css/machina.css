@@ -18,7 +18,10 @@ body
 }
 
 .tabs-size
-{ font-size: 1.2em; }
+{ font-size: 1.2em; font-weight: bold; }
+
+.save-icon
+{ font-size: 2.4em; }
 
 .larger-text
 { font-size: 1.2em; }
