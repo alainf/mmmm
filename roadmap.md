@@ -24,6 +24,8 @@
 1. Page d'accueil et articles (CouchDB)
    * view CouchDB des articles en ordre
    * pagination
+   * breadcrumb
+   * switcher de langue
 1. Blocs «En bref»
 
 ## Views semblables superficiellement à Accueil
