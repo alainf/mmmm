@@ -1,7 +1,5 @@
 # Roadmap
 
-Les grandes lignes -- > toutes intégrées ci-bas.
-
 # FAIT
 
 ## Étapes préliminaires de Alain
