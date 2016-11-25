@@ -7,17 +7,17 @@ const sections2 = require('../../data/sections-Entreprise.json')
 const sectionsGr1 = require('../../data/sectionsGr1.json')
 const sujetsGr1 = require('../../data/sujetsGr1.json')
 const pages = [
-  'abonnezVous',
+  'abonnez-vous',
   'agenda',
   'aider',
   'apropos',
   'bottin',
-  'enConstruction',
+  'en-construction',
   'faq',
   'favoris',
   'index',
-  'meConnecter',
-  'meDeconnecter',
+  'me-connecter',
+  'me-deconnecter',
   'moi',
   'page-ext',
   'page-int',
