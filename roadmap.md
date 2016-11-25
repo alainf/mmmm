@@ -32,7 +32,7 @@ NB: Non, pas superficiellement; ils sont quasi-identiques.
 
 1. Sections
 1. Sujets
-1, Groupes
+1. Groupes
 
 ##  View resultats-de-recherche, vu que ceci est paginé aussi
 
