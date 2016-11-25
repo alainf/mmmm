@@ -1,11 +1,5 @@
 # Roadmap
 
-## NOTE
-* Le but est d'avoir un unique roadmap commun. 
-* On peut l'unifier ici, mais faudra en faire des issues dans github et utiliser les champs milestone.
-* SVP Respecter la syntaxe Markdown https://daringfireball.net/projects/markdown/syntax SANS HTML ce qui permet de réutiliser dans github, framateam, etc.
-
-
 Les grandes lignes -- > toutes intégrées ci-bas.
 
 # FAIT
