@@ -35,11 +35,14 @@ body
 .em
 { font-style: italic; }
 
-th
-{ font-style: italic; }
-
 .strong
 { font-weight: bold; }
+
+.underlined
+{ text-decoration: underline; }
+
+th
+{ font-style: italic; }
 
 .bloc-title
 {
@@ -135,7 +138,10 @@ p.headline
 .member-button
 {
 	padding: 20px;
-	font-size: 1.2em;
+	font-size: 1.0em;
 	font-weight: bold;
 }
+
+.alert-text
+{ font-weight: bold; color: red; }
 

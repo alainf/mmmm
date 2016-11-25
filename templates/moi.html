@@ -9,7 +9,7 @@
 
 <%= partials.logoChercher() %>
 
-<%= partials.titreSeulement({ title: "Moi" }) %>
+<%= partials.titreSeulement({ title: "Moi", soustitre: "Informations qui me concernent" }) %>
 
 <div class="row">
 
@@ -85,7 +85,7 @@
         <div class="small-5 columns">
          <div class="">
           <br>
-          <p class="text-center"><u>Remplir obligatoirement</u></p>
+          <p class="text-center underlined">Remplir obligatoirement</p>
           <dl>
           <dt>Nom de famille</dt>
           <dd><p><input type="text" name="nomFamille" value="Farmer"></p></dd>
@@ -101,7 +101,7 @@
         <div class="small-7 columns">
          <div class="">
           <br>
-          <p class="text-center"><u>Remplir facultativement</u></p>
+          <p class="text-center underlined">Remplir facultativement</p>
           <dl>
           <dt>Courriel</dt>
           <dd>
@@ -289,15 +289,15 @@
       <div class="row">
          <div class="small-7 columns">
           <div class="">
-            <span>Révéler mon <span class="em">nom</span> aux membres ?</span>
+            <span>Afficher mon <span class="em">nom</span> dans le site ?</span>
             <div class="switch">
-              <input class="switch-input" type="checkbox" id="revelerMonNom" name="revelerMonNom">
-              <label class="switch-paddle" for="revelerMonNom">
+              <input class="switch-input" type="checkbox" id="afficherMonNom" name="afficherMonNom">
+              <label class="switch-paddle" for="afficherMonNom">
                 <span class="switch-active" aria-hidden="true">&nbsp;&nbsp;<i class="fi-lock"></i></span>
                 <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
               </label>
             </div>
-            <span>Afficher ma <span class="em">photo</span> partout dans le site ?</span>
+            <span>Afficher ma <span class="em">photo</span> dans le site ?</span>
             <div class="switch">
               <input class="switch-input" type="checkbox" id="afficherMaPhoto" name="afficherMaPhoto">
               <label class="switch-paddle" for="afficherMaPhoto">
@@ -313,7 +313,7 @@
                 <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
               </label>
             </div>
-            <span>Partager mes <span class="em">favoris</span> avec mes pairs ?</span>
+            <span>Partager mes <span class="em">favoris</span> avec mes <span class="underlined">pairs</span> ?</span>
             <div class="switch">
               <input class="switch-input" type="checkbox" id="partagerFavorisAvecPairs" name="partagerFavorisAvecPairs">
               <label class="switch-paddle" for="partagerFavorisAvecPairs">
@@ -321,7 +321,7 @@
                 <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
               </label>
             </div>
-            <span>Partager mon <span class="em">agenda</span> avec mes pairs ?</span>
+            <span>Partager mon <span class="em">agenda</span> avec mes <span class="underlined">pairs</span> ?</span>
             <div class="switch">
               <input class="switch-input" type="checkbox" id="partagerMoiAvecPairs" name="partagerMoiAvecPairs">
               <label class="switch-paddle" for="partagerMoiAvecPairs">

@@ -9,18 +9,7 @@
 
 <%= partials.logoChercher() %>
 
-<!-- title -->
-<div class="row">
-  <div class="small-12 columns">
-    <div class="callout">
-      <h3 class="page-main-title">Agenda</h3>
-      <p class="em text-center">Activités de phdAdmin</p>
-      <blockquote class="text-center">
-      Un agenda est un outil permettant d'associer des actions à des moments, et d'organiser ainsi son temps.
-    </blockquote>
-    </div>
-  </div>
-</div>
+<%= partials.titreSeulement({ title: "Agenda", soustitre: "Activités de phdAdmin" }) %>
 
 <div class="row">
   <div class="small-12 columns">
@@ -35,8 +24,8 @@
       <li class="tabs-title"><a href="#etudes"><span class="tabs-size">Études</span></a></li>
       <li class="tabs-title"><a href="#financement"><span class="tabs-size">Financement</span></a></li>
       <li class="tabs-title"><a href="#lancements"><span class="tabs-size">Lancements</span></a></li>
+      <li class="tabs-title"><a href="#publications"><span class="tabs-size">Publications</span></a></li>
       <li class="tabs-title"><a href="#quoi-faire"><span class="tabs-size">Quoi faire</span></a></li>
-      <li class="tabs-title"><a href="#rendez-vous"><span class="tabs-size">Rendez-vous</span></a></li>
     </ul>
 
     <div class="tabs-content" data-tabs-content="page-tabs">
@@ -353,6 +342,45 @@
         </div>
       </div>
 
+      <div class="tabs-panel" id="publications">
+        <div class="row">
+          <div class="small-6 columns">
+            <div class="">
+              <h4>Publications</h4>
+              <div class="content">
+              <p>Les publications de phdAdmin.<br><%= partials.modalProposerRendezVous() %></p>
+              <dl>
+              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Publication #2</dt>
+              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Publication #4</dt>
+              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Publication #n</dt>
+              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+              </dl>
+              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              </div>
+            </div>
+          </div>
+          <div class="small-6 columns">
+            <div class="">
+              <h4>Mes publications</h4>
+              <div class="content">
+              <p>Publications que j'ai publiées et/ou qui m'intéressent.<br><%= partials.modalProposerRendezVous() %></p>
+              <dl>
+              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Publication #1</dt>
+              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Publication #3</dt>
+              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Publication #n</dt>
+              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
+              </dl>
+              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div class="tabs-panel" id="quoi-faire">
         <div class="row">
           <div class="small-6 columns">
@@ -392,50 +420,11 @@
         </div>
       </div>
 
-      <div class="tabs-panel" id="rendez-vous">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
-              <h4>Rendez-vous</h4>
-              <div class="content">
-              <p>Les rendez-vous de phdAdmin.<br><%= partials.modalProposerRendezVous() %></p>
-              <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Rendez-vous #2</dt>
-              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Rendez-vous #4</dt>
-              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Rendez-vous #n</dt>
-              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-              </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-              </div>
-            </div>
-          </div>
-          <div class="small-6 columns">
-            <div class="">
-              <h4>Mes rendez-vous</h4>
-              <div class="content">
-              <p>Rendez-vous qui m'intéressent.<br><%= partials.modalProposerRendezVous() %></p>
-              <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Rendez-vous #1</dt>
-              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Rendez-vous #3</dt>
-              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Rendez-vous #n</dt>
-              <dd><p>data = <span>lieu</span> + <span>début</span> + <span>fin</span> + <span>description</span> + <span>URL</span></p></dd>
-              </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
     </div>
   </div>
 </div>
 
-<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-23 à 20:58' }) %>
+<%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-25 à 17:27' }) %>
 
 <%= partials.scripts() %>
 
