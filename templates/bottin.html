@@ -173,10 +173,12 @@
     </div>
     </div>
 
+	<%= partials.ajouterGroupe() %>
+
     <div class="tabs-panel" id="groupes">
     <div class="">
       <h4>Groupes</h4>
-      <p>Choisir parmi les groupes de phdAdmin ou <span class="strong">proposer un groupe</span> <%= partials.ajouterGroupe() %></p>
+      <p>Choisir parmi les groupes de phdAdmin ou <span class="strong">proposer un groupe</span> <a class="icon" data-toggle="ajouter-groupe-dropdown" title="Ajouter un groupe"><i class="fi-plus"></i></a></p>
       <hr>
       <!-- row-1 -->
       <div class="row">
@@ -383,10 +385,12 @@
     </div>
     </div>
 
+    <%= partials.ajouterLieu() %>
+
     <div class="tabs-panel" id="lieux">
     <div class="">
       <h4>Lieux</h4>
-      <p>Consulter un lieu ou <span class="strong">proposer un lieu</span> <%= partials.ajouterLieu() %></p>
+      <p>Consulter un lieu ou <span class="strong">proposer un lieu</span> <a class="icon" data-toggle="ajouter-lieu-dropdown" title="Ajouter un lieu"><i class="fi-plus"></i></a></p>
       <h5>Affichage</h5>
     <select id="trier-lieux">
       <option value="trier-lieux-par-nom" selected>Tableau trié par Nom</option>

@@ -72,6 +72,8 @@
 
     <%= partials.detailedCommenter() %>
 
+    <%= partials.ajouterMotclef() %>
+
     </div>
   </div>
   <div class="small-6 columns">
@@ -84,7 +86,7 @@
       <dd><p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p></dd>
       <dt>Description</dt>
       <dd><p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p></dd>
-      <dt>Mots-clefs <%= partials.ajouterMotclef() %></dt>
+      <dt>Mots-clefs <a class="icon" data-toggle="add-keyword-dropdown" title="Ajouter un mot-clef"><i class="fi-plus"></i></a></dt>
       <dd><p>study, analysis, theoretically, empirically, determinants, levels of transparency, local governments, Spanish municipalities, agency, legitimacy, theories.</p></dd>
       <dt>Lieux concernées</dt>
       <dd><p>Espagne</p></dd>
@@ -114,7 +116,7 @@
         <a href="#">Hyperlien vers la même ressource, en anglais.</a><br>
         <a href="#">Hyperlien vers la même ressource, en espagnol.</a>
       </p></dd>
-      <dt>Voir-aussi <%= partials.ajouterLien() %></dt>
+      <dt>Voir-aussi <a class="icon" data-toggle="ajouter-lien-dropdown" title="Ajouter un lien"><i class="fi-plus"></i></a></dt>
       <dd><p>
         <a href="#">Hyperlien vers une ressource semblable.</a><br>
         <a href="#">Hyperlien vers une <span class="strong">autre</span> ressource semblable.</a>
@@ -122,6 +124,8 @@
     </dl>
     <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
     </div>
+
+    <%= partials.ajouterLien() %>
 
     <div class="callout" id="attributs">
     <h4 class="strong">Attributs</h4>

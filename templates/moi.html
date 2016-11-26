@@ -173,9 +173,9 @@
       <!-- informations -->
       <div class="content">
         <dl>
-        <dt>Lieux <%= partials.ajouterLieu() %></dt>
+        <dt>Lieux <a class="icon" data-toggle="ajouter-lieu-dropdown" title="Ajouter un lieu"><i class="fi-plus"></i></a></dt>
         <dd><p>Montréal (Québec), Québec (Québec), Paris (France)</p></dd>
-        <dt>Langues <%= partials.ajouterLangue() %></dt>
+        <dt>Langues <a class="icon" data-toggle="ajouter-langue-dropdown" title="Ajouter une langue"><i class="fi-plus"></i></a></dt>
         <dd><p>Français, Anglais</p></dd>
         <dt>Traduire avec Google Translate</dt>
         <dd>
@@ -190,6 +190,9 @@
       <!-- fin -->
     </div>
     </div>
+
+    <%= partials.ajouterLieu() %>
+    <%= partials.ajouterLangue() %>
 
     <div class="tabs-panel" id="mes-favoris">
     <div class="">

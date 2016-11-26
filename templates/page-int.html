@@ -91,7 +91,7 @@
       <dd><p>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p></dd>
       <dt><p>Description</dt>
       <dd>bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p></dd>
-      <dt>Mots-clefs <%= partials.ajouterMotclef() %></dt>
+      <dt>Mots-clefs <a class="icon" data-toggle="add-keyword-dropdown" title="Ajouter un mot-clef"><i class="fi-plus"></i></a></dt>
       <dd><p>Marion Dufresne, îles Kerguelen, expédition SOCLIM, océan Austral, Antarctique, Cinquantièmes hurlants, grésil, blooms, floraisons, mouillages, collecteurs, sédiments, biomasse, laboratoire, océanographie microbienne, cycle biogéochimique, efflorescences, dioxyde de carbone atmosphérique, grues, bateau.</p></dd>
       <dt>Lieux concernées</dt>
       <dd><p>îles Kerguelen, Océan Austral, Antarctique, glacier de Cook, falaises de Kerguelen, baie du Morbihan</p></dd>
@@ -122,7 +122,7 @@
         <a href="#">Hyperlien vers la même ressource, en anglais.</a><br>
         <a href="#">Hyperlien vers la même ressource, en espagnol.</a>
       </p></dd>
-      <dt>Voir-aussi <%= partials.ajouterLien() %></dt>
+      <dt>Voir-aussi <a class="icon" data-toggle="ajouter-lien-dropdown" title="Ajouter un lien"><i class="fi-plus"></i></a></dt>
       <dd><p>
         <a href="#">Hyperlien vers une ressource semblable.</a><br>
         <a href="#">Hyperlien vers une <span class="strong">autre</span> ressource semblable.</a>
@@ -131,6 +131,10 @@
     <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
     </div>
     <!-- fin -->
+
+    <%= partials.ajouterLien() %>
+    
+    <%= partials.ajouterMotclef() %>
 
     <!-- début -->
     <div class="callout" id="attributs">

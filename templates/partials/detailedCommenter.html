@@ -1,4 +1,3 @@
-<!-- début -->
 <div class="callout" id="commentaires">
   <h4 class="strong">Commenter</h4>
   <dl>
@@ -7,7 +6,8 @@
     <dt><span>2.</span> Claude Berthiaume, 2016-10-23, 17h50</dt>
     <dd><p>Commentaire de Claude Berthiaume ...</p></dd>
   </dl>
-  <p><span class="strong">Ajouter un commentaire</span> <%= partials.ajouterCommentaire() %></p>
+  <p><span class="strong">Ajouter un commentaire</span> <a class="icon" data-toggle="ajouter-commentaire-dropdown" title="Ajouter un commentaire"><i class="fi-plus"></i></a></p>
   <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
 </div>
 <!-- fin -->
+<%= partials.ajouterCommentaire() %>
