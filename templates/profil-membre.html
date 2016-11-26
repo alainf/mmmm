@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<%= partials.mmhead({ title: 'PhdAdmin - Membre - Alain Farmer' }) %>
+
+<body>
+
+<%= partials.liensPublics({ usertype: 'membre' }) %>
+
+<%= partials.logoChercher() %>
+
+<%= partials.titreSeulement({ title: "Membre", soustitre: "Profil public de Alain Farmer" }) %>
+
+<div class="row">
+<div class="small-12 columns">
+  <ul class="tabs">
+    <li class="tabs-title"><a title="Inviter ce membre" data-open="modalContacterMembre"><span class="tabs-size">Inviter</span></a></li>
+    <li class="tabs-title"><a title="Contacter ce membre" data-open="modalContacterMembre"><span class="tabs-size">Contacter</span></a></li>
+    <li class="tabs-title"><a href="/fr/journal1"><span class="tabs-size">Journal</span></a></li>
+    <li class="tabs-title"><a href="/fr/these1"><span class="tabs-size">Thèse</span></a></li>
+    <li class="tabs-title"><a data-toggle="publications"><span class="tabs-size">Pubs</span></a>
+    <li class="tabs-title"><a data-toggle="sujets"><span class="tabs-size">Sujets</span></a>
+    <li class="tabs-title"><a data-toggle="groupes"><span class="tabs-size">Groupes</span></a>
+    <li class="tabs-title"><a data-toggle="pairs"><span class="tabs-size">Pairs</span></a>
+    <li class="tabs-title"><a href="/fr/favoris"><span class="tabs-size">Favoris</span></a></li>
+    <li class="tabs-title"><a href="/fr/moi#mon-agenda"><span class="tabs-size">Agenda</span></a></li>
+    <li class="tabs-title"><a href="/fr/moi#mon-calendrier"><span class="tabs-size">Calendrier</span></a></li>
+  </ul>
+</div>
+</div>
+<br>
+
+<%= partials.modalContacterMembre({ moi: 'John Smith', nom: 'Alain Farmer' }) %>
+
+<div class="row">
+  <div class="small-5 columns">
+    <div class="">
+
+      <div class="row">
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Utilisateur</dt>
+            <dd><p>alainf</p></dd>
+            <dt>Réputation</dt>
+            <dd><p>Fiable</p></dd>
+            <dt>Langues</dt>
+            <dd><p>Français, Anglais</p></dd>
+            </dl>
+          </div>
+        </div>
+        <div class="small-6 columns">
+          <div class="">
+            <br><img src="/img/membres/me.jpg" class="mmthumb" alt="Alain">
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Nom de famille</dt>
+            <dd><p>Farmer</p></dd>
+            </dl>
+          </div>
+        </div>
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Prénom</dt>
+            <dd><p>Alain</p></dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Code postal</dt>
+            <dd><p>H4G 1H7</p></dd>
+            </dl>
+          </div>
+        </div>
+        <div class="small-6 columns">
+          <div class="">
+            <dl>
+		      <dt>Téléphone</dt>
+            <dd><p>confidentiel</p></dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+
+      <dl>
+      <dt>Lieux</dt>
+      <dd><p>Montréal (Québec), Québec (Québec), Paris (France)</p></dd>
+      <dt>Facebook</dt>
+      <dd><p>https://www.facebook.com/alain.farmer</p></dd>
+      <dt>Courriel</dt>
+      <dd><p>alain_farmer@yahoo.com</p></dd>
+      </dl>
+
+    </div>
+  </div>
+  <div class="small-7 columns">
+
+    <div class="secondary callout" id="sujets" data-toggler="hide">
+      <p class="text-center larger-text strong">Sujets de recherche</p>
+      <div class="callout">
+        <ul class="menu vertical">
+        <li><a href="/fr/sujet">Art</a></li>
+        <li><a href="/fr/sujet">Droit</a></li>
+        <li><a href="/fr/sujet">Informatique</a></li>
+        <li><a href="/fr/sujet">Langage et linguistique</a></li>
+        <li><a href="/fr/sujet">Politique</a></li>
+        <li><a href="/fr/sujet">Sciences de la gestion</a></li>
+        <li><a href="/fr/sujet">Sciences de l'éducation</a></li>
+        <li><a href="/fr/sujet">Sc. de l'information et de la communication</a></li>
+        <li><a href="/fr/sujet">Sciences économiques</a></li>
+        <li><a href="/fr/sujet">Sciences exactes</a></li>
+        <li><a href="/fr/sujet">Sciences humaines</a></li>
+        <li><a href="/fr/sujet">Sciences sociales</a></li>  
+        </ul>
+      </div>
+    </div>
+
+    <div class="secondary callout hide" id="publications" data-toggler="hide">
+      <p class="text-center larger-text strong">Publications</p>
+      <div class="callout">
+        <ul class="menu vertical">
+        <li><a href="/fr/publication/id">Publication #1</a></li>
+        <li><a href="/fr/publication/id">Publication #2</a></li>
+        <li><a href="/fr/publication/id">Publication #3</a></li>
+        <li><a href="/fr/publication/id">Publication #4</a></li>
+        <li><a href="/fr/publication/id">Publication #5</a></li>
+        <li><a href="/fr/publication/id">Publication #6</a></li>
+        <li><a href="/fr/publication/id">Publication #7</a></li>
+        <li><a href="/fr/publication/id">Publication #8</a></li>
+        <li><a href="/fr/publication/id">Publication #9</a></li>
+        <li><a href="/fr/publication/id">Publication #10</a></li>
+        <li><a href="/fr/publication/id">Publication #11</a></li>
+        <li><a href="/fr/publication/id">Publication #12</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="secondary callout hide" id="groupes" data-toggler="hide">
+      <p class="text-center larger-text strong">Groupes</p>
+      <div class="callout">
+        <ul class="menu vertical">
+        <li><a href="/fr/publication/id">Groupe #1</a></li>
+        <li><a href="/fr/publication/id">Groupe #2</a></li>
+        <li><a href="/fr/publication/id">Groupe #3</a></li>
+        <li><a href="/fr/publication/id">Groupe #4</a></li>
+        <li><a href="/fr/publication/id">Groupe #5</a></li>
+        <li><a href="/fr/publication/id">Groupe #6</a></li>
+        <li><a href="/fr/publication/id">Groupe #7</a></li>
+        <li><a href="/fr/publication/id">Groupe #8</a></li>
+        <li><a href="/fr/publication/id">Groupe #9</a></li>
+        <li><a href="/fr/publication/id">Groupe #10</a></li>
+        <li><a href="/fr/publication/id">Groupe #11</a></li>
+        <li><a href="/fr/publication/id">Groupe #12</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="secondary callout hide" id="pairs" data-toggler="hide">
+      <p class="text-center larger-text strong">Pairs</p>
+      <div class="callout">
+        <ul class="menu vertical">
+        <li><a href="/fr/publication/id">Pair #1</a></li>
+        <li><a href="/fr/publication/id">Pair #2</a></li>
+        <li><a href="/fr/publication/id">Pair #3</a></li>
+        <li><a href="/fr/publication/id">Pair #4</a></li>
+        <li><a href="/fr/publication/id">Pair #5</a></li>
+        <li><a href="/fr/publication/id">Pair #6</a></li>
+        <li><a href="/fr/publication/id">Pair #7</a></li>
+        <li><a href="/fr/publication/id">Pair #8</a></li>
+        <li><a href="/fr/publication/id">Pair #9</a></li>
+        <li><a href="/fr/publication/id">Pair #10</a></li>
+        <li><a href="/fr/publication/id">Pair #11</a></li>
+        <li><a href="/fr/publication/id">Pair #12</a></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<%= partials.scripts() %>
+
+</body>
+</html>
