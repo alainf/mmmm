@@ -14,7 +14,7 @@
 <div class="row">
 <div class="small-12 columns">
   <ul class="tabs">
-    <li class="tabs-title"><a title="Retirer ce pair" data-open="modalContacterPair"><span class="tabs-size">Retirer</span></a></li>
+    <li class="tabs-title"><a data-toggle="retirer-pair-dropdown" title="Retirer ce pair"><span class="tabs-size">Retirer</span></a></li>
     <li class="tabs-title"><a title="Contacter ce pair" data-open="modalContacterPair"><span class="tabs-size">Contacter</span></a></li>
     <li class="tabs-title"><a href="/fr/journal1"><span class="tabs-size">Journal</span></a></li>
     <li class="tabs-title"><a href="/fr/these1"><span class="tabs-size">Thèse</span></a></li>
@@ -29,6 +29,8 @@
 </div>
 </div>
 <br>
+
+<%= partials.retirerPair() %>
 
 <%= partials.modalContacterPair({ moi: 'John Smith', nom: 'Alain Farmer' }) %>
 
