@@ -19,6 +19,7 @@ const pages = [
   'me-connecter',
   'me-deconnecter',
   'profil-membre',
+  'profil-pair',
   'moi',
   'page-ext',
   'page-int',
