@@ -192,11 +192,11 @@
  
 </div>
 
-<%= partials.modalChoisirSection() %>
-
-<%= partials.modalChoisirSujet() %>
-
 <%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-23 à 21:10' }) %>
+
+<%= partials.displayModal({ modalName: 'modalChoisirSection' }) %>
+
+<%= partials.displayModal({ modalName: 'modalChoisirSujet' }) %>
 
 <%= partials.scripts() %>
 

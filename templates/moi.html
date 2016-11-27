@@ -447,8 +447,6 @@
     </div>
     </div>
 
-    <%= partials.modalAjouterTache() %>
-
     <div class="tabs-panel" id="mon-calendrier">
     <div class="">
       <h4>Calendrier</h4>
@@ -467,8 +465,6 @@
       <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
     </div>
     </div>
-
-    <%= partials.modalAjouterActivite() %>
 
     <div class="tabs-panel" id="mes-meteos">
     <div class="">
@@ -509,6 +505,10 @@
 </div>
 
 <%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-23 à 21:20' }) %>
+
+<%= partials.displayModal({ modalName: 'modalAjouterTache' }) %>
+
+<%= partials.displayModal({ modalName: 'modalAjouterActivite' }) %>
 
 <%= partials.scripts() %>
 

@@ -428,29 +428,21 @@
   </div>
 </div>
 
-<%= partials.modalProposerActivite() %>
-
-<%= partials.modalProposerAppel() %>
-
-<%= partials.modalProposerNouveau() %>
-
-<%= partials.modalProposerBourse() %>
-
-<%= partials.modalProposerSubvention() %>
-
-<%= partials.modalProposerConference() %>
-
-<%= partials.modalProposerCongres() %>
-
-<%= partials.modalProposerEmploi() %>
-
-<%= partials.modalProposerLancement() %>
-
-<%= partials.modalProposerPublication() %>
-
-<%= partials.modalProposerTache() %>
-
 <%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-25 à 22:29' }) %>
+
+<%= partials.displayModal({ modalName: 'modalProposerActivite' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerAppel' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerNouveau' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerBourse' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerSubvention' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerConference' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerCongres' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerEmploi' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerLancement' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerPublication' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerTache' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerAppel' }) %>
+<%= partials.displayModal({ modalName: 'modalProposerAppel' }) %>
 
 <%= partials.scripts() %>
 

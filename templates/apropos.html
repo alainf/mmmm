@@ -308,7 +308,7 @@
           <dt>Évaluation</dt>
           <dd><p>Critères d'évaluation ...</p></dd>
           <dt>Pour plus d'information</dt>
-          <dd><p class="text-justify">Pour plus d'information au sujet de comment publier avec nous,<br>veuillez <%= partials.modalContacterNous() %></p></dd>
+          <dd><p class="text-justify">Pour plus d'information au sujet de comment publier avec nous,<br>veuillez <a title="Contactez-nous" data-open="modalContacterNous">nous contacter</a></p></dd>
         </dl>
         </div>
         <p><a title="Haut de page" href="/fr/apropos#"><i class="fi-arrow-up"></i></a></p>
@@ -339,11 +339,11 @@
 </div>
 <br>
 
-<%= partials.modalContacterNous() %>
-
-<%= partials.modalProposerArticle() %>
-
 <%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-23 à 20:38' }) %>
+
+<%= partials.displayModal({ modalName: 'modalContacterNous' }) %>
+
+<%= partials.displayModal({ modalName: 'modalProposerArticle' }) %>
 
 <!-- SCRIPTS -->
 <%= partials.scripts() %>

@@ -81,10 +81,6 @@
 </div>
 <br>
 
-<div class="small-4 columns">
-  <%= partials.modalContacterPair({ moi: 'Alain Farmer', nom: 'Karl Marx', nombre: '5' }) %>
-</div>
-
 <div style="clear:left">
   <p><a onclick="open_tab('apropos','a-propos-du-site')">À propos du site</a>
   <p><a onclick="open_tab('apropos','plan-du-site')">Plan du site</a>
@@ -168,7 +164,7 @@ function open_tab(tab_id,panel) {
 <p class="larger-text"><a href="#"><i class="fi-minus"></i></a></p>
 
 <a data-open="modalChoisirSujet">Choisir un sujet ...</a>
-<%= partials.modalChoisirSujet() %>
+<%= partials.displayModal({ modalName: 'modalChoisirSujet' }) %>
 
 <div class="input-group">
   <span class="input-group-label">Trier:</span>
@@ -212,9 +208,6 @@ function open_tab(tab_id,panel) {
     
   </div>
 </div>
-
-<a data-open="modalChoisirSujet">Choisir un sujet ...</a>
-<%= partials.modalChoisirSujet() %>
 
 <div class="switch">
   <input class="switch-input" id="yes-no" type="checkbox" name="exampleSwitch">
@@ -475,19 +468,6 @@ The <span data-tooltip aria-haspopup="true" class="has-tip right" data-disable-h
 <p>
 The <span data-tooltip aria-haspopup="true" class="has-tip left" data-disable-hover="false" tabindex="1" title="Fancy word for a beetle.">scarabaeus</span> hung quite clear of any branches, and, if allowed to fall, would have fallen at our feet. Legrand immediately took the scythe, and cleared with it a circular space, three or four yards in diameter, just beneath the insect, and, having accomplished this, ordered Jupiter to let go the string and come down from the tree.
 </p>
-
-<!-- MODAL -->
-
-<div class="reveal" id="exampleModal1" data-reveal>
-  <h1>Awesome. I Have It.</h1>
-  <p class="lead">Your couch. It is mine.</p>
-  <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
-  <button class="close-button" data-close aria-label="Close modal" type="button">
-    <span aria-hidden="true">&times;</span>
-  </button>
-</div>
-
-<p><a data-open="exampleModal1">Click me for a modal</a></p>
 
 <!-- A full-screen modal is 100% of the width and height of the window. Add the .full class to make it go. -->
 
