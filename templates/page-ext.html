@@ -11,7 +11,7 @@
 <div class="row">
   <div class="small-6 columns">
     <div class="text-left" id="logo">
-      <p class=""><img src="/img/phdadmin_logo.png" alt="PhD Administration"></p>
+      <p class=""><a href="/fr/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a></p>
     </div>
   </div>
   <div class="small-6 columns">
@@ -100,7 +100,7 @@
         <a href="/fr/section">Acteurs de l'entreprise</a><br>
         <a href="/fr/section">Actionnaires</a>
       </p></dd>
-      <dt>Sujets <%= partials.ajouterSujet() %></dt>
+      <dt>Sujets <a class="icon" data-toggle="ajouter-sujet-dropdown" title="Ajouter un sujet"><i class="fi-plus"></i></a></dt>
       <dd><p>
         <span>Sujet suggéré par un utilisateur</span><br>
         <a href="#">Sujet 1</a><br>
@@ -126,6 +126,8 @@
     </div>
 
     <%= partials.ajouterLien() %>
+    
+    <%= partials.ajouterSujet() %>
 
     <div class="callout" id="attributs">
     <h4 class="strong">Attributs</h4>

@@ -292,7 +292,7 @@
     <div class="tabs-panel" id="organisations">
     <div class="">
       <h4>Organisations</h4>
-      <p>Consulter une organisation ou <span class="strong">proposer une organisation</span> <%= partials.ajouterOrganisation() %></p>
+      <p>Consulter une organisation ou <span class="strong">proposer une organisation</span> <a class="icon" data-toggle="ajouter-organisation-dropdown" title="Ajouter une organisation"><i class="fi-plus"></i></a></p>
       <h5>Affichage</h5>
     <select id="trier-organisations">
       <option value="trier-organisations-par-nom" selected>Tableau trié par Nom</option>
@@ -312,6 +312,8 @@
       <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
     </div>
     </div>
+
+    <%= partials.ajouterOrganisation() %>
 
     <div class="tabs-panel" id="mesOrganisations">
     <div class="">
@@ -340,7 +342,7 @@
     <div class="tabs-panel" id="personnes">
     <div class="">
       <h4>Personnes</h4>
-      <p>Consulter une personne ou <span class="strong">proposer une personne</span> <%= partials.ajouterPersonne() %></p>
+      <p>Consulter une personne ou <span class="strong">proposer une personne</span> <a class="icon" data-toggle="ajouter-personne-dropdown" title="Ajouter une personne"><i class="fi-plus"></i></a></p>
       <h5>Affichage</h5>
     <select id="trier-personnes">
       <option value="trier-personnes-par-nom" selected>Tableau trié par Nom</option>
@@ -360,6 +362,8 @@
       <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
     </div>
     </div>
+
+    <%= partials.ajouterPersonne() %>
 
     <div class="tabs-panel" id="mesPersonnes">
     <div class="">

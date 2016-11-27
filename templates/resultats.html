@@ -62,7 +62,7 @@
         <option value="descendant">Données en ordre descendant</option>
         </select>
       </dd>
-      <dt>Termes <%= partials.ajouterTerme() %></a>
+      <dt>Termes <a class="icon" data-toggle="ajouter-terme-dropdown" title="Ajouter un terme"><i class="fi-plus"></i></a></a>
       </dt>
       <dd>
         <ul>
@@ -89,6 +89,8 @@
  </div>
 </div>
 <br>
+
+<%= partials.ajouterTerme() %>
 
 <%= partials.footer({ pagination: true, lastPage: '500', updated: '2016-11-23 à 21:28' }) %>
 
