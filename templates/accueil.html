@@ -40,15 +40,15 @@
   <div class="small-6 columns">
     <div>
     <br>
-    <%= partials.article1() %>
+    <%= partials.displayLead({ leadTemplate: 'article1' }) %>
     <hr>
-    <%= partials.article2() %>
+    <%= partials.displayLead({ leadTemplate: 'article2' }) %>
     <hr>
-    <%= partials.article3() %>
+    <%= partials.displayLead({ leadTemplate: 'article3' }) %>
     <hr>
-    <%= partials.article4() %>
+    <%= partials.displayLead({ leadTemplate: 'article4' }) %>
     <hr>
-    <%= partials.article5() %>
+    <%= partials.displayLead({ leadTemplate: 'article5' }) %>
     <hr>
     </div>
   </div>
@@ -57,15 +57,15 @@
   <div class="small-3 columns">
     <div class="">
       <h5 class="bloc-title"><%- data.__('En bref') %></h5>
-      <%= partials.breve1() %>
-      <%= partials.breve2() %>
-      <%= partials.breve3() %>
-      <%= partials.breve4() %>
+      <%= partials.displayLead({ leadTemplate: 'breve1' }) %>
+      <%= partials.displayLead({ leadTemplate: 'breve2' }) %>
+      <%= partials.displayLead({ leadTemplate: 'breve3' }) %>
+      <%= partials.displayLead({ leadTemplate: 'breve4' }) %>
     </div>
   </div>
 </div>
 
-<%= partials.footer({ pagination: true, lastPage: '2 000 000', updated: '2016-11-23 à 20:44' }) %>
+<%= partials.footer({ pagination: true, lastPage: '2 000 000', updated: '2016-11-27 à 02:03' }) %>
 
 <%= partials.scripts() %>
 
