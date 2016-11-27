@@ -191,9 +191,6 @@
     </div>
     </div>
 
-    <%= partials.ajouterLieu() %>
-    <%= partials.ajouterLangue() %>
-
     <div class="tabs-panel" id="mes-favoris">
     <div class="">
       <h4>Favoris</h4>
@@ -509,6 +506,10 @@
 <%= partials.displayModal({ modalName: 'modalAjouterTache' }) %>
 
 <%= partials.displayModal({ modalName: 'modalAjouterActivite' }) %>
+
+<%= partials.displayDropdown({ dropName: 'ajouter-lieu-dropdown' }) %>
+
+<%= partials.displayDropdown({ dropName: 'ajouter-langue-dropdown' }) %>
 
 <%= partials.scripts() %>
 

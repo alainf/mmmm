@@ -492,7 +492,7 @@ NB: <h2><%- data.property %></h2>
 <!-- <a data-open="modalChoisirSection">Choisir une section ...</a> -->
 <div class="large reveal" id="modalChoisirSection" data-reveal>
   <h4>Choisir parmi toutes les sections de PhdAdmin</h4>
-  <%= partials.tableLesSections() %>
+  <%= partials.displayTable({ tableName: 'tableLesSections' }) %>
   <form>
   <div class="input-group">
     <span class="input-group-label">Proposer une section :</span>
@@ -511,7 +511,7 @@ NB: <h2><%- data.property %></h2>
 <!-- <a data-open="modalChoisirSujet">Choisir un sujet ...</a> -->
 <div class="large reveal" id="modalChoisirSujet" data-reveal>
   <h4>Choisir parmi les sujets de recherche de phdAdmin</h4>
-  <%= partials.tableTousSujets() %>
+  <%= partials.displayTable({ tableName: 'tableTousSujets' }) %>
   <form>
   <div class="input-group">
     <span class="input-group-label">Proposer un sujet :</span>

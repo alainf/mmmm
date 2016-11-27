@@ -72,7 +72,7 @@
 
     <%= partials.detailedCommenter() %>
 
-    <%= partials.ajouterMotclef() %>
+    <%= partials.displayDropdown({ dropName: 'add-keyword-dropdown' }) %>
 
     </div>
   </div>
@@ -125,9 +125,9 @@
     <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
     </div>
 
-    <%= partials.ajouterLien() %>
+    <%= partials.displayDropdown({ dropName: 'ajouter-lien-dropdown' }) %>
     
-    <%= partials.ajouterSujet() %>
+    <%= partials.displayDropdown({ dropName: 'ajouter-sujet-dropdown' }) %>
 
     <div class="callout" id="attributs">
     <h4 class="strong">Attributs</h4>

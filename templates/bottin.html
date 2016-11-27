@@ -173,8 +173,6 @@
     </div>
     </div>
 
-	<%= partials.ajouterGroupe() %>
-
     <div class="tabs-panel" id="groupes">
     <div class="">
       <h4>Groupes</h4>
@@ -313,8 +311,6 @@
     </div>
     </div>
 
-    <%= partials.ajouterOrganisation() %>
-
     <div class="tabs-panel" id="mesOrganisations">
     <div class="">
       <h4>Mes organisations</h4>
@@ -363,8 +359,6 @@
     </div>
     </div>
 
-    <%= partials.ajouterPersonne() %>
-
     <div class="tabs-panel" id="mesPersonnes">
     <div class="">
       <h4>Mes personnes</h4>
@@ -388,8 +382,6 @@
       <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
     </div>
     </div>
-
-    <%= partials.ajouterLieu() %>
 
     <div class="tabs-panel" id="lieux">
     <div class="">
@@ -447,6 +439,14 @@
 <br>
 
 <%= partials.footer({ pagination: false, lastPage: '0', updated: '2016-11-25 à 05:53' }) %>
+
+<%= partials.displayDropdown({ dropName: 'ajouter-groupe-dropdown' }) %>
+
+<%= partials.displayDropdown({ dropName: 'ajouter-lieu-dropdown' }) %>
+
+<%= partials.displayDropdown({ dropName: 'ajouter-organisation-dropdown' }) %>
+
+<%= partials.displayDropdown({ dropName: 'ajouter-personne-dropdown' }) %>
 
 <%= partials.scripts() %>
 

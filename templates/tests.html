@@ -5,6 +5,9 @@
 
 <body><br>
 
+<a class="icon" data-toggle="ajouter-terme-dropdown" title="Ajouter un terme"><i class="fi-plus"></i> Ajouter un terme</a>
+<%= partials.displayDropdown({ dropName: 'ajouter-terme-dropdown' }) %>
+
 <%= partials.displayTable({ tableName: 'tableFavoris' }) %>
 
 <h2><a data-open="modalProposerAppel">Proposer un appel à communication</a></h2>
