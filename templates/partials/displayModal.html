@@ -1,0 +1,702 @@
+<!-- #########################################################
+
+* modalProposerAppel
+* modalProposerBourse
+* modalProposerNouveau
+* modalProposerActivite
+* modalAjouterActivite
+* modalProposerArticle
+* modalProposerConference
+* modalProposerCongres
+* modalProposerEmploi
+* modalProposerLancement
+* modalProposerPublication
+* modalProposerSubvention
+* modalProposerTache
+* modalAjouterTache
+* modalChoisirSection
+* modalChoisirSujet
+* modalContacterGroupe
+* modalContacterMembre
+* modalContacterNous
+* modalContacterPair
+* modalJoindreGroupe
+
+FIND: modalProposerNAME
+
+NB: <h2><%- data.modalName %></h2>
+
+############################################################### -->
+
+<% if (data.modalName === 'modalProposerAppel') { %>
+<!-- <a data-open="modalProposerAppel">Proposer un appel à communication</a> -->
+<div class="large reveal" id="modalProposerAppel" data-reveal>
+  <h4>Proposer un appel à communication</h4>
+  <p>Proposez un appel à communication qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="appel-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="appel-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="appel-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="appel-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="appel-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="appel-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+    <a href="#" class="button" title="Ajoutez un appel à communication">Ajouter</a>
+    <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerBourse') { %>
+<!-- <a data-open="modalProposerBourse">Proposer une bourse</a> -->
+<div class="large reveal" id="modalProposerBourse" data-reveal>
+  <h4>Proposer une bourse</h4>
+  <p>Proposez une bourse qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="bourse-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="bourse-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="bourse-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="bourse-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="bourse-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="bourse-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+    <a href="#" class="button" title="Ajoutez une bourse">Ajouter</a>
+    <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+		 <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerNouveau') { %>
+<!-- <a data-open="modalProposerNouveau">Proposer du nouveau</a> -->
+<div class="large reveal" id="modalProposerNouveau" data-reveal>
+  <h4>Proposer du nouveau</h4>
+  <p>Proposez du nouveau aux membres de phdAdmin.</p>
+  <form>
+  <dl>
+    <dt>Titre</dt>
+    <dd><input type="text" name="nouveau-titre"></dd>
+    <dt>URL</dt>
+    <dd><input type="text" name="nouveau-url"></dd>
+    <dt>Lieu</dt>
+    <dd><input type="text" name="nouveau-lieu"></dd>
+    <dt>Début</dt>
+    <dd><input type="text" name="nouveau-debut" placeholder="2016-11-11-13h"></dd>
+    <dt>Fin</dt>
+    <dd><input type="text" name="nouveau-fin" placeholder="2016-11-13-17h"></dd>
+    <dt>Description</dt>
+    <dd><textarea name="nouveau-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+    <a href="#" class="button" title="Ajoutez une nouveauté">Ajouter</a>
+    <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+		 <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerActivite') { %>
+<!-- <a data-open="modalProposerActivite">Proposer une activité</a> -->
+<div class="large reveal" id="modalProposerActivite" data-reveal>
+  <h4>Proposer une activité</h4>
+  <p>Proposez une activité qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="activite-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="activite-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="activite-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="activite-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="activite-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="activite-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+    <a href="#" class="button" title="Ajoutez une activité">Ajouter</a>
+    <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalAjouterActivite') { %>
+<!-- <a data-open="modalProposerActivite">Proposer une activité</a> -->
+<div class="large reveal" id="modalProposerActivite" data-reveal>
+  <h4>Proposer une activité</h4>
+  <p>Proposez une activité qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="activite-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="activite-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="activite-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="activite-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="activite-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="activite-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez une activité">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerArticle') { %>
+<!-- <a data-open="modalProposerArticle">Proposer un article</a> -->
+<div class="large reveal" id="modalProposerArticle" data-reveal>
+  <h4>Proposer un article</h4>
+  <p>Proposez un article qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="article-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="article-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="article-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="article-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="article-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="article-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez un article">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerConference') { %>
+<!-- <a data-open="modalProposerConference">Proposer une conférence</a> -->
+<div class="large reveal" id="modalProposerConference" data-reveal>
+  <h4>Proposer une conférence</h4>
+  <p>Proposez une conférence qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="conference-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="conference-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="conference-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="conference-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="conference-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="conference-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez une conférence">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerCongres') { %>
+<!-- <a data-open="modalProposerCongres">Proposer un congrès</a> -->
+<div class="large reveal" id="modalProposerCongres" data-reveal>
+  <h4>Proposer un congrès</h4>
+  <p>Proposez un congrès qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="congres-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="congres-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="congres-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="congres-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="congres-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="congres-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez un congrès">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerEmploi') { %>
+<!-- <a data-open="modalProposerEmploi">Proposer un emploi</a> -->
+<div class="large reveal" id="modalProposerEmploi" data-reveal>
+  <h4>Proposer un emploi</h4>
+  <p>Proposez un emploi qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="emploi-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="emploi-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="emploi-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="emploi-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="emploi-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="emploi-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez un emploi">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerLancement') { %>
+<!-- <a data-open="modalProposerLancement">Proposer un lancement</a> -->
+<div class="large reveal" id="modalProposerLancement" data-reveal>
+  <h4>Proposer un lancement</h4>
+  <p>Proposez un lancement qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="lancement-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="lancement-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="lancement-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="lancement-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="lancement-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="lancement-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez un lancement">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerPublication') { %>
+<!-- <a data-open="modalProposerPublication">Proposez un publication</a> -->
+<div class="large reveal" id="modalProposerPublication" data-reveal>
+  <h4>Proposer un publication</h4>
+  <p>Proposez un publication qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="publication-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="publication-url"></dd>
+  <dt>Auteur(s)</dt>
+  <dd><input type="text" name="publication-auteurs"></dd>
+  <dt>Date de publication</dt>
+  <dd><input type="text" name="publication-date" placeholder="2016-11-15"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="publication-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez un publication">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerSubvention') { %>
+<!-- <a data-open="modalProposerSubvention">Proposer une subvention</a> -->
+<div class="large reveal" id="modalProposerSubvention" data-reveal>
+  <h4>Proposer une subvention</h4>
+  <p>Proposez une subvention qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="subvention-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="subvention-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="subvention-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="subvention-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="subvention-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="subvention-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez une subvention">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalProposerTache') { %>
+<!-- <a data-open="modalProposerTache">Proposer une tâche</a> -->
+<div class="large reveal" id="modalProposerTache" data-reveal>
+  <h4>Proposer une tâche</h4>
+  <p>Proposez une tâche qui intéressera phdAdmin.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="tache-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="tache-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="tache-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="tache-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="tache-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="tache-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez une tâche">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalAjouterTache') { %>
+<!-- <a data-open="modalAjouterTache">Ajouter une tâche</a> -->
+<div class="large reveal" id="modalAjouterTache" data-reveal>
+  <h4>Ajouter une tâche</h4>
+  <p>Ajoutez une tâche dans votre agenda.</p>
+  <form>
+  <dl>
+  <dt>Titre</dt>
+  <dd><input type="text" name="tache-titre"></dd>
+  <dt>URL</dt>
+  <dd><input type="text" name="tache-url"></dd>
+  <dt>Lieu</dt>
+  <dd><input type="text" name="tache-lieu"></dd>
+  <dt>Début</dt>
+  <dd><input type="text" name="tache-debut" placeholder="2016-11-11-13h"></dd>
+  <dt>Fin</dt>
+  <dd><input type="text" name="tache-fin" placeholder="2016-11-13-17h"></dd>
+  <dt>Description</dt>
+  <dd><textarea name="tache-contenu" placeholder="Exemple"></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Ajoutez une tâche">Ajouter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalChoisirSection') { %>
+<!-- <a data-open="modalChoisirSection">Choisir une section ...</a> -->
+<div class="large reveal" id="modalChoisirSection" data-reveal>
+  <h4>Choisir parmi toutes les sections de PhdAdmin</h4>
+  <%= partials.tableLesSections() %>
+  <form>
+  <div class="input-group">
+    <span class="input-group-label">Proposer une section :</span>
+    <input class="input-group-field" type="text" name="suggestion-section" value="">
+  </div>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalChoisirSujet') { %>
+<a data-open="modalChoisirSujet">Choisir un sujet ...</a> <!-- this should not be here. -->
+<div class="large reveal" id="modalChoisirSujet" data-reveal>
+  <h4>Choisir parmi les sujets de recherche de phdAdmin</h4>
+  <%= partials.tableTousSujets() %>
+  <form>
+  <div class="input-group">
+    <span class="input-group-label">Proposer un sujet :</span>
+    <input class="input-group-field" type="text" name="suggestion-sujet" value="">
+  </div>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalContacterGroupe') { %>
+<!-- <a title="Contacter ce groupe" data-open="modalContacterGroupe"><i class="larger-text fi-at-sign"></i></a> -->
+<div class="reveal" id="modalContacterGroupe" data-reveal>
+  <h4>Communiquer avec <%- data.nom %></h4>
+  <p>Veuillez spécifier votre nom et la raison de ce contact:</p>
+  <form>
+  <dl>
+  <dt>Votre nom</dt>
+  <dd><input type="text" name="contact-parQui" value="<%- data.moi %>"></dd>
+  <dt>Raison de ce contact</dt>
+  <dd>
+    <select>
+      <option value="Joindre" selected>Me joindre à ce groupe</option>
+      <option value="Information">Information</option>
+      <option value="Question">Question</option>
+      <option value="Support technique">Support technique</option>
+    </select>
+  </dd>
+  <dt>Détails</dt>
+  <dd><textarea name="contact-raison" placeholder="Je vous écris car ..."></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Contacter ce groupe">Contacter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalContacterMembre') { %>
+<!-- <a title="Contacter ce membre" data-open="modalContacterMembre"><i class="larger-text fi-at-sign"></i></a> -->
+<div class="reveal" id="modalContacterMembre" data-reveal>
+  <h4>Communiquer avec <%- data.nom %></h4>
+  <p>Veuillez spécifier votre nom et la raison de ce contact:</p>
+  <form>
+  <dl>
+  <dt>Votre nom</dt>
+  <dd><input type="text" name="contact-parQui" value="<%- data.moi %>"></dd>
+  <dt>Raison de ce contact</dt>
+  <dd>
+    <select>
+      <option value="Information" selected>Information</option>
+      <option value="Question">Question</option>
+      <option value="Support technique">Support technique</option>
+      <option value="Inviter">M'inviter à être son ami</option>
+    </select>
+  </dd>
+  <dt>Détails</dt>
+  <dd><textarea name="contact-raison" placeholder="Je vous écris car ..."></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Contacter ce membre">Contacter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalContacterNous') { %>
+<!-- <a title="Contactez-nous" data-open="modalContacterNous">communiquer avec nous</a> -->
+<div class="reveal" id="modalContacterNous" data-reveal>
+  <h4>Communiquer avec nous</h4>
+  <p>Veuillez spécifier votre nom et la raison de ce contact:</p>
+  <form>
+  <dl>
+  <dt>Votre nom</dt>
+  <dd><input type="text" name="contact-parQui"></dd>
+  <dt>Service</dt>
+  <dd>
+    <select>
+      <option value="Information" selected>Information</option>
+      <option value="Support technique">Support technique</option>
+      <option value="Administrateur">Administrateur</option>
+    </select>
+  </dd>
+  <dt>Raison de ce contact</dt>
+  <dd><textarea name="contact-raison" placeholder="Je vous écris car ..."></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Nous contacter">Nous contacter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalContacterPair') { %>
+<!-- <a title="Contacter ce pair" data-open="modalContacterPair"><i class="larger-text fi-at-sign"></i></a> -->
+<div class="reveal" id="modalContacterPair" data-reveal>
+  <h4>Communiquer avec <%- data.nom %></h4>
+  <p>Veuillez spécifier votre nom et la raison de ce contact:</p>
+  <form>
+  <dl>
+  <dt>Votre nom</dt>
+  <dd><input type="text" name="contact-parQui" value="<%- data.moi %>"></dd>
+  <dt>Raison de ce contact</dt>
+  <dd>
+    <select>
+      <option value="Information" selected>Information</option>
+      <option value="Question">Question</option>
+      <option value="Support technique">Support technique</option>
+      <option value="Retirer">Cesser d'être son ami</option>
+    </select>
+  </dd>
+  <dt>Détails</dt>
+  <dd><textarea name="contact-raison" placeholder="Je vous écris car ..."></textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Contacter ce pair">Contacter</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalJoindreGroupe') { %>
+<!-- <a title="Joindre ce groupe" data-open="modalJoindreGroupe"><i class="larger-text fi-link"></i></a> -->
+<div class="reveal" id="modalJoindreGroupe" data-reveal>
+  <h4>Joindre groupe <%- data.nom %></h4>
+  <p>Veuillez spécifier votre nom et la raison de ce contact:</p>
+  <form>
+  <dl>
+  <dt>Votre nom</dt>
+  <dd><input type="text" name="contact-parQui" value="<%- data.moi %>"></dd>
+  <dt>Raison de ce contact</dt>
+  <dd>
+    <select>
+      <option value="Inviter" selected>Me joindre à ce groupe</option>
+      <option value="Information">Information</option>
+    </select>
+  </dd>
+  <dt>Détails</dt>
+  <dd><textarea name="joindre-raison">Je souhaite me joindre à votre groupe car ...</textarea></dd>
+  </dl>
+  <p>
+  <a href="#" class="button" title="Joindre ce groupe">Joindre</a>
+  <a href="#" class="hollow button" title="Annulez cette opération">Annuler</a>
+  </p>
+  </form>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<% } %>
+
+<!-- ############################################################### -->
+
+<% if (data.modalName === 'modalDisponible') { %>
+<!-- <a data-open="modalDisponible">AFFICHER UN MODAL</a> -->
+<p>DISPONIBLE pour AFFICHER un MODAL. Remplacer ceci par le markup du modal.</p>
+<% } %>
+
+<!-- ############################################################### -->
+
