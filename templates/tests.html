@@ -5,6 +5,8 @@
 
 <body><br>
 
+<%= partials.displayTable({ tableName: 'tableFavoris' }) %>
+
 <h2><a data-open="modalProposerAppel">Proposer un appel à communication</a></h2>
 <%= partials.displayModal({ modalName: 'modalProposerAppel' }) %>
 
@@ -16,6 +18,11 @@
 
 <h2><a data-open="modalProposerNouveau">Afficher un modal quelconque</a></h2>
 <%= partials.displayModal({ modalName: 'modalDisponible' }) %>
+
+<h2><a data-open="modalContacterNous">Contactez-nous</a></h2>
+<%= partials.displayModal({ modalName: 'modalContacterNous' }) %>
+
+<%= partials.displayTable({ tableName: 'tableMesPersonnes' }) %>
 
 <hr>
 
