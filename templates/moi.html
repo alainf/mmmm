@@ -232,11 +232,11 @@
       </div>
       <h4>Mes favoris</h4>
       <div class="content">
-        <p><%= partials.tableFavoris() %></p>
+        <p><%= partials.displayTable({ tableName: 'tableFavoris' }) %></p>
         <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
       </div>
     </div>
-    </div>
+  </div>
 
   <div class="tabs-panel" id="mes-notifications">
     <div class="">
@@ -279,7 +279,7 @@
       </div>
       <div class="content">
         <h5>Ressources et termes concernés par les notifications</h5>
-        <%= partials.tableNotifications() %>
+        <%= partials.displayTable({ tableName: 'tableNotifications' }) %>
         <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
       </div>
     </div>
@@ -388,7 +388,7 @@
       </div>
       <h4>Mes interactions</h4>
       <div class="content">
-        <p><%= partials.tableMesInteractions() %></p>
+        <p><%= partials.displayTable({ tableName: 'tableMesInteractions' }) %></p>
         <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
       </div>
     </div>
@@ -441,7 +441,7 @@
       </div>
       <h4>Mes tâches</h4>
       <div class="content">
-        <%= partials.tableTaches() %>
+        <%= partials.displayTable({ tableName: 'tableTaches' }) %>
         <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
       </div>
     </div>
