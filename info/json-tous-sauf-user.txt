@@ -2,7 +2,7 @@
 
 == LEADS ==
 
-* 3 types de blocs: affichage = "article" ou "breve" ou "resultat"
+* 3 types de blocs: afficher = "article" ou "breve" ou "resultat"
 * dans chaque ressource, il y aura un attribut "lead" = référence vers le lead de la ressource.
 
 === Articles ===

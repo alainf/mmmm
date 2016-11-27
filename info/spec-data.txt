@@ -1,0 +1,93 @@
+== Analyse et structuration des données ==
+
+data
+data.param-1
+data.param-2
+data.param-n
+
+site
+site.logo					{OBJ}
+site.logo.src				"URL"
+site.logo.href				"URL"
+site.logo.alt				"string"
+site.logo.tip				"string"
+site.membres				[ITEMS]
+site.groupes				[ITEMS]
+site.langues				["fr", "en", "es", "it", "ru", "ar"]
+site.langue					"fr"
+
+groupe
+groupe.nom					"string"
+groupe.href					"URL"
+groupe.logo					{OBJ}
+groupe.logo.src			"URL"
+groupe.logo.href			"URL"
+groupe.logo.alt			"string"
+groupe.logo.tip			"string"
+groupe.membres				[ITEMS]
+groupe.groupes				[ITEMS] ## iow des sous-groupes
+
+membre
+membre.username			"alainf"
+membre.nom					"Farmer"
+membre.prenom				"Alain"
+membre.usertype			"admin"
+membre.permissions		[ITEMS] ou un TOKEN (ex: "toutes")
+membre.groupes				[ITEMS]
+membre.pairs				[ITEMS]
+membre.participation		{OBJ}
+membre.langues				["fr", "en"]
+membre.image				{OBJ}
+membre.image.src			"URL"
+membre.image.alt			"string"
+membre.image.tip			"string"
+membre.image.partager	true/false
+
+page
+page.id						"web-timestamp-random"
+page.lastPage				2000
+page.thisPage				1
+page.signet					"title de la fenêtre"
+page.titre					"titre de la page"
+page.soustitre				"soustitre de la page"
+page.updated				"2016-11-27 à 02:03"
+page.section				{OBJ}
+page.section.terme		"Entreprise"
+page.section.id			"terme-timestamp-random"
+page.sujet					{OBJ}
+page.sujet.terme			"Agriculture"
+page.sujet.id				"terme-timestamp-random"
+page.breadcrumb			[ITEMS]
+page.sections				[ITEMS]
+page.sujets					[ITEMS]
+page.articles				[ITEMS]
+page.breves					[ITEMS]
+
+page.etc						VALEURS
+page.etc						VALEURS
+page.etc						VALEURS
+page.etc						VALEURS
+page.etc						VALEURS
+page.etc						VALEURS
+page.etc						VALEURS
+page.etc						VALEURS
+page.etc						VALEURS
+
+lead
+lead._id						"lead-timestamp-random"
+lead.title					"string"
+lead.path					"/languageCode/en-detail/ID"
+lead.thumb					{OBJ}
+lead.thumb.beside			one of ["headline", "content"]
+lead.thumb.float			one of ["left", "right"]
+lead.thumb.tip				"string"
+lead.thumb.src				"URL"
+lead.afficher 				one of ["article", "breve", "resultat"]
+lead.pertinence			nombre float entre 1 et 10
+lead.ressource				"ress-timestamp-random"
+lead.provenance			"URL"
+lead.tip						"string"
+lead.titre					"string"
+lead.soustitre				"string"
+lead.citation				"string"
+lead.contenu				"string"
