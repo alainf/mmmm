@@ -7,9 +7,9 @@
 
 <%= partials.liensPublics({ usertype: 'membre' }) %>
 
-<%= partials.logoChercher() %>
+<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
-<%= partials.titreSeulement({ title: "Moi", soustitre: "Informations qui me concernent" }) %>
+<%= partials.displayHeader({ headerName: 'titreSeulement', title: 'Moi', soustitre: 'Informations qui me concernent' }) %>
 
 <div class="row">
 

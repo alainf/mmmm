@@ -7,7 +7,7 @@
 
 <%= partials.liensPublics({ usertype: 'membre' }) %>
 
-<%= partials.logoChercherFiltrer() %>
+<%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
 
 <div class="row">
   <div class="small-12 columns">
@@ -25,7 +25,7 @@
   </div>
 </div>
 
-<%= partials.mmSearchHeader({ title: 'Résultats de recherche', usertype: 'membre' }) %>
+<%= partials.displayHeader({ headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: 'membre' }) %>
 
 <br>
 <div class="row" id="search-area">
@@ -88,11 +88,10 @@
 
  </div>
 </div>
-<br>
-
-<%= partials.displayDropdown({ dropName: 'ajouter-terme-dropdown' }) %>
 
 <%= partials.footer({ pagination: true, lastPage: '500', updated: '2016-11-23 à 21:28' }) %>
+
+<%= partials.displayDropdown({ dropName: 'ajouter-terme-dropdown' }) %>
 
 <%= partials.scripts() %>
 

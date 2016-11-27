@@ -7,7 +7,7 @@
 
 <%= partials.liensPublics({ usertype: 'membre' }) %>
 
-<%= partials.logoChercherFiltrer() %>
+<%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
 
 <div class="row">
   <div class="small-12 columns">
@@ -24,7 +24,7 @@
   </div>
 </div>
 
-<%= partials.mmPageHeader({ title: 'Accueil de PhdAdmin', usertype: 'membre' }) %>
+<%= partials.displayHeader({ headerName: 'mmPageHeader', title: "Accueil de PhdAdmin", usertype: 'membre' }) %>
 
 <div class="row">
 

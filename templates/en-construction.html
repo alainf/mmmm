@@ -7,15 +7,14 @@
 
 <%= partials.liensPublics({ usertype: 'membre' }) %>
 
-<%= partials.logoChercher() %>
+<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
-<%= partials.titreSeulement({ title: "En construction", soustitre: "Désolé cette page, ou cette fonction, n'est pas présentement disponible." }) %>
+<%= partials.displayHeader({ headerName: 'titreSeulement', title: "En construction", soustitre: "Désolé cette page, ou cette fonction, n'est pas présentement disponible." }) %>
 
 <div class="row">
   <div class="small-12 columns">
     <div class="">
-      <h5 class="warning callout text-center">Cette page, ou cette fonction, est en <span class="strong">construction</span>. À la prochaine.</h5>
-      <h4 class="text-center"><a href="/fr/accueil">Accueil</a></h4>
+      <h3 class="text-center"><a href="/fr/accueil">Accueil</a></h3>
     </div>
   </div>
 </div>

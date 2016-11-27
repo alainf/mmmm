@@ -7,9 +7,9 @@
 
 <%= partials.liensPublics({ usertype: 'membre' }) %>
 
-<%= partials.logoChercher() %>
+<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
-<%= partials.titreSeulement({ title: "Me connecter", soustitre: "Compléter le formulaire ci-dessous" }) %>
+<%= partials.displayHeader({ headerName: 'titreSeulement', title: "Me connecter", soustitre: "Compléter le formulaire ci-dessous" }) %>
 
 <div class="row" id="form">
   <div class="small-6 columns">

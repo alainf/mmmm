@@ -5,6 +5,17 @@
 
 <body><br>
 
+<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
+
+<%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
+
+<%= partials.displayHeader({ headerName: 'mmPageHeader', title: 'Page quelconque', usertype: 'membre' }) %>
+
+<%= partials.displayHeader({ headerName: 'mmSearchHeader', title: 'Résultats de recherche', usertype: 'membre' }) %>
+
+<%= partials.displayHeader({ headerName: 'titreSeulement', title: 'Page quelconque', soustitre: 'Sous-titre quelconque' }) %>
+
+
 <a class="icon" data-toggle="ajouter-terme-dropdown" title="Ajouter un terme"><i class="fi-plus"></i> Ajouter un terme</a>
 <%= partials.displayDropdown({ dropName: 'ajouter-terme-dropdown' }) %>
 
