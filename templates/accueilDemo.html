@@ -49,15 +49,15 @@
   <div class="small-3 columns">
     <div class="">
       <h5 class="bloc-title"><%- data.__('En bref') %></h5>
-      <%= partials.breve1() %>
-      <%= partials.breve2() %>
-      <%= partials.breve3() %>
-      <%= partials.breve4() %>
+      <%= partials.displayLead({ leadTemplate: 'breve1' }) %>
+      <%= partials.displayLead({ leadTemplate: 'breve2' }) %>
+      <%= partials.displayLead({ leadTemplate: 'breve3' }) %>
+      <%= partials.displayLead({ leadTemplate: 'breve4' }) %>
     </div>
   </div>
 </div>
 
-<%= partials.footer({ pagination: true, lastPage: '2 000 000', updated: '2016-11-23 à 20:52' }) %>
+<%= partials.footer({ pagination: true, lastPage: '2 000 000', updated: '2016-11-27 à 06:14' }) %>
 
 <%= partials.scripts() %>
 
