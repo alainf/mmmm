@@ -9,21 +9,7 @@
 
 <%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
 
-<div class="row">
-  <div class="small-12 columns">
-  <nav>
-    <ul class="breadcrumbs">
-    <li><a href="/fr/accueil">Accueil</a></li>
-    <li>Résultats</li>
-    <li>
-      <a class="prev-page" href="#">&lt;</a>
-      <span> Page 1 </span>
-      <a class="next-page" href="#">&gt;</a>
-    </li>
-    </ul>
-  </nav>
-  </div>
-</div>
+<%= partials.displayBreadcrumb({ pageID: 'breadcrumbResultats' }) %>
 
 <%= partials.displayHeader({ headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: 'membre' }) %>
 
