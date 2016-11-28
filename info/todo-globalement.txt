@@ -4,8 +4,6 @@
 
 * Enlever hapi-demo.
 
-* Page "accueil" devient page "index".
-
 * Migrer démo de s'inscrire et de se connecter:
 - vers page "abonnezVous" (s'inscrire)
 - vers page "meConnecter" (se connecter)
@@ -19,6 +17,7 @@
 
 * Liens avec dièse: comment ouvrir l'onglet approprié ?
 - ex: /fr/apropos#plan-du-site
+- aka deep-linking
 
 * Couch-DB:
 - peupler bd
@@ -39,8 +38,6 @@
 - brève
 - commentaire
 - resultatDeRecherche
-
-* Éliminer page "articles" (car c'est juste une démo)
 
 * JSON à développer:
 
@@ -83,6 +80,7 @@
 - appréciation
 - pertinence
 - qualité
+- afficher
 
 
 == Claude ==

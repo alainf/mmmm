@@ -1,4 +1,4 @@
-== Analyse et structuration des données ==
+=Analyse et structuration des données ==
 
 issue
 issue.path					"/fr/issue/id"
@@ -29,6 +29,8 @@ site.langue					"fr"
 groupe
 groupe.nom					"string"
 groupe.href					"URL"
+groupe.apercu				"string"
+groupe.description		"string"
 groupe.logo					{OBJ}
 groupe.logo.src			"URL"
 groupe.logo.href			"URL"
@@ -72,7 +74,6 @@ page.sections				[ITEMS]
 page.sujets					[ITEMS]
 page.articles				[ITEMS]
 page.breves					[ITEMS]
-
 page.etc						VALEURS
 page.etc						VALEURS
 page.etc						VALEURS
@@ -101,3 +102,169 @@ lead.titre					"string"
 lead.soustitre				"string"
 lead.citation				"string"
 lead.contenu				"string"
+
+detail
+detail.appreciation		une valeur par user "Aucune", "Favorable", "Défavorable", "Spam", "Abus"
+detail.pertinence			une valeur par user "Sans opinion", "Indispensable", "Important", "Intéressant", "Sans intérêt"
+detail.qualite				une valeur par user "Sans opinion", "Excellente", "Bonne", "Criticable", "À éliminer"
+
+resultat
+resultat.ressource		référence vers l'objet de ce LEAD.
+resultat.pertinence		nombre float entre 1 et 10.
+resultat.href				"URL"
+resultat.titre				"string"
+resultat.soustitre		"string"
+resultat.contenu			"string"
+
+recherche					objet pour l'Historique de recherches.
+recherche.nom				"string"
+recherche.trierPar		choix
+recherche.enOrdre			choix
+recherche.termes			items
+recherche.filtres			objet
+recherche.effectuer		quand recherche effectuée
+recherche.repeter			quand doit-elle être répétée ?
+
+faq
+faq.catégorie
+faq.question.titre
+faq.question.contenu
+faq.question.numero
+faq.reponse
+faq.reponse.titre
+faq.reponse.contenu
+
+commentaire
+commentaire.titre
+commentaire.contenu
+commentaire.versQui
+commentaire.parQui
+commentaire.quand
+
+contacter
+contacter.qui
+contacter.parQui
+contacter.raison
+contacter.message
+
+----
+
+organisation
+organisation.nom
+organisation.apercu
+organisation.description
+organisation.url
+organisation.naissance
+organisation.deces
+
+personne
+personne.nom
+personne.nomDeFamille
+personne.prenom
+personne.apercu
+personne.description
+personne.url
+personne.image
+personne.naissance
+personne.deces
+
+----
+
+rendezVous
+rendezVous.titre
+rendezVous.url
+rendezVous.lieu
+rendezVous.debut
+rendezVous.fin
+rendezVous.description
+rendezVous.apercu
+
+avis
+avis.nom
+avis.url
+avis.lieu
+avis.debut
+avis.fin
+avis.apercu
+avis.description
+
+appel
+appel.nom
+appel.url
+appel.lieu
+appel.debut
+appel.fin
+appel.apercu
+appel.description
+
+bourse
+bourse.nom
+bourse.url
+bourse.lieu
+bourse.debut
+bourse.fin
+bourse.description
+bourse.apercu
+
+subvention
+subvention.nom
+subvention.url
+subvention.lieu
+subvention.debut
+subvention.fin
+subvention.apercu
+subvention.description
+
+conference
+conference.nom
+conference.url
+conference.lieu
+conference.debut
+conference.fin
+conference.apercu
+conference.description
+
+congres
+congres.nom
+congres.url
+congres.lieu
+congres.debut
+congres.fin
+congres.apercu
+congres.description
+
+emploi
+emploi.nom
+emploi.url
+emploi.lieu
+emploi.debut
+emploi.fin
+emploi.apercu
+emploi.description
+
+tache
+tache.nom
+tache.url
+tache.lieu
+tache.debut
+tache.fin
+tache.apercu
+tache.description
+
+activite
+activite.nom
+activite.url
+activite.lieu
+activite.debut
+activite.fin
+activite.apercu
+activite.description
+
+lancement
+lancement.nom
+lancement.url
+lancement.lieu
+lancement.debut
+lancement.fin
+lancement.apercu
+lancement.description

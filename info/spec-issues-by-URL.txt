@@ -16,6 +16,8 @@
 * Templates vers instances: /id
 * id = nomMachine OR nomFolder OR breadcrumb OR autreChose
 * Pages accueil et section et sujet et groupe mergeront en UN template commun
+* Quelques onglets deviendront des pages à-part-entière, car trop pesants en contenu.
+- notamment les pages Bottin et Agenda.
 
 == SYSTEM ==
 
