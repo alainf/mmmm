@@ -14,7 +14,7 @@
 <%= partials.displayHeader({ headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: 'membre' }) %>
 
 <br>
-<div class="row" id="search-area">
+<div class="row" id="afficher-resultats">
 
   <div class="small-7 columns">
     <div class="">
@@ -25,7 +25,7 @@
   <div class="small-5 columns">
    
     <!-- capsule -->
-    <div class="">
+    <div class="" id="afficher-capsule">
       <p><a target="_blank" href="https://en.wikipedia.org/wiki/Albert_Einstein">
         <img src="/img/placeholders/search-right.png" alt="Information supplémentaire"></a>
       </p>
@@ -33,7 +33,7 @@
 
       <!-- recherche actuelle -->
       <br>
-      <div class="">
+      <div class="" id="recherche-actuelle">
       <h5 class="text-left">Recherche en cours</h5>
       <dl>
       <dt>Données</dt>

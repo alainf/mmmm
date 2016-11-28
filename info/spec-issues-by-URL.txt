@@ -1,0 +1,174 @@
+= URLs for Issues =
+
+* System
+* User
+* Demo
+* Pages
+* Onglets
+* Icons
+* Autres
+
+== SYSTEM ==
+
+/
+/css/{param*}
+/favicon.ico
+/img/{param*}
+/js/{param*}
+/system/status
+
+== USER ==
+
+/user/delete
+/user/edit
+/user/login
+/user/logout
+/user/register
+
+== DEMO ==
+
+/{languageCode}/demo/accueil
+/{languageCode}/partials
+/{languageCode}/pro/d/{pathy*}
+/{languageCode}/pro/{pathy*}
+/{languageCode}/multilingual
+/{languageCode}/profil-membre
+/{languageCode}/profil-moi
+/{languageCode}/profil-pair
+/{languageCode}/section1		"Entreprise"
+/{languageCode}/sujet1			"Agriculture"
+/{languageCode}/tests
+
+/{languageCode}/groupe1			groupe "Management des TIC"
+/{languageCode}/journal1		groupe "Journal de Alain"
+/{languageCode}/journal2		groupe "Thèse de Claude"
+/{languageCode}/these1			groupe "Thèse de Alain"
+/{languageCode}/these2			groupe "Thèse de Claude"
+
+== PAGES ==
+
+=== pages statiques ===
+
+/{languageCode}/index
+/{languageCode}/abonnez-vous
+/{languageCode}/me-connecter
+/{languageCode}/me-deconnecter
+/{languageCode}/en-construction
+
+=== pages avec pagination ===
+
+/{languageCode}/accueil/id/n
+/{languageCode}/resultats/n
+/{languageCode}/section/n
+/{languageCode}/sujet/n
+
+=== pages paticulières ===
+
+/{languageCode}/accueil/id/n
+/{languageCode}/agenda/id
+/{languageCode}/aider/id
+/{languageCode}/apropos/id
+/{languageCode}/bottin/id
+/{languageCode}/faq/id
+/{languageCode}/favoris/id
+/{languageCode}/groupe/id
+/{languageCode}/moi/id
+/{languageCode}/page-ext/id
+/{languageCode}/page-int/id
+/{languageCode}/profil/id
+
+NB: Lorsque "/id" et "/n" n'y sont pas
+	 alors il s'agit de page#1 du template choisi dans le groupe "site".
+	 autrement dit les URLs ci-dessous:
+
+/{languageCode}/accueil
+/{languageCode}/agenda
+/{languageCode}/aider
+/{languageCode}/apropos
+/{languageCode}/bottin
+/{languageCode}/faq
+/{languageCode}/favoris
+/{languageCode}/groupe
+/{languageCode}/moi
+/{languageCode}/profil
+
+== ONGLETS ==
+
+/fr/apropos#plan-du-site
+/fr/apropos#indexe-du-site
+/fr/apropos#a-propos-de-nous
+/fr/apropos#notre-politique
+/fr/apropos#charte-editoriale
+/fr/apropos#votre-participation
+/fr/apropos#comment-publier-avec-nous
+/fr/apropos#contactez-nous
+/fr/faq#categorie-1
+/fr/faq#categorie-2
+/fr/faq#categorie-3
+/fr/faq#categorie-4
+/fr/faq#categorie-5
+/fr/faq#categorie-6
+/fr/faq#categorie-7
+/fr/faq#categorie-8
+/fr/agenda#appels-a-communication
+/fr/agenda#avis
+/fr/agenda#conferences
+/fr/agenda#congres
+/fr/agenda#emplois
+/fr/agenda#etudes
+/fr/agenda#financement
+/fr/agenda#lancements
+/fr/agenda#quoi-faire
+/fr/agenda#rendez-vous
+/fr/bottin#membres
+/fr/bottin#pairs
+/fr/bottin#groupes
+/fr/bottin#mesGroupes
+/fr/bottin#organisations
+/fr/bottin#mesOrganisations
+/fr/bottin#personnes
+/fr/bottin#mesPersonnes
+/fr/favoris#activites
+/fr/favoris#appels
+/fr/favoris#articles
+/fr/favoris#avis
+/fr/favoris#bourses
+/fr/favoris#conferences
+/fr/favoris#congres
+/fr/favoris#emplois
+/fr/favoris#lancements
+/fr/favoris#personnes
+/fr/favoris#recherches
+/fr/favoris#publications
+/fr/favoris#sections
+/fr/favoris#mes-sujets
+/fr/moi#compte
+/fr/moi#mon-identite
+/fr/moi#mes-preferences
+/fr/moi#mes-favoris
+/fr/moi#mes-notifications
+/fr/moi#ma-participation
+/fr/moi#mon-historique
+/fr/moi#mon-agenda
+/fr/moi#mon-calendrier
+/fr/moi#mes-meteos
+/fr/page-ext#article
+/fr/page-ext#information
+/fr/page-ext#attributs
+/fr/page-ext#evaluation
+/fr/page-ext#commentaires
+/fr/page-int#article
+/fr/page-int#information
+/fr/page-int#attributs
+/fr/page-int#evaluation
+/fr/page-int#commentaires
+/fr/resultats#afficher-resultats
+/fr/resultats#afficher-capsule
+/fr/resultats#recherche-actuelle
+
+== ICONS ==
+
+
+
+
+== AUTRES ==

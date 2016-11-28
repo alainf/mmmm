@@ -1,5 +1,15 @@
 == Analyse et structuration des données ==
 
+issue
+issue.path					"/fr/issue/id"
+issue.name					"Deep linking"
+issue.tags					[ITEMS]
+issue.audience				[ITEMS]
+issue.description			"string"
+issue.started				datetime
+issue.lastUpdated			datetime
+issue.completed			datetime
+
 data
 data.param-1
 data.param-2

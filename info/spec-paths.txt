@@ -3,6 +3,8 @@
 * Templates avec pagination: /n
 * Templates vers instances: /id
 
+id = nomMachine OR nomFolder OR breadcrumb OR autreChose
+
 == Templates ==
 
 /fr/index
