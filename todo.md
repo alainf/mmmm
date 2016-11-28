@@ -1,8 +1,70 @@
 # TODO
 
+## Robin
+
+### Enlever hapi-demo.
+
+### Migrer démo de s'inscrire et de se connecter:
+* vers page "abonnezVous" (s'inscrire)
+* vers page "meConnecter" (se connecter)
+
+### Migrer switcher la langue
+* vers les 6 badges qui sont dans toutes les pages.
+
+### Lorsqu'on change de langue:
+* aller à la page courante
+* au lieu d'aller à la page d'accueil
+
+### Liens avec dièse: comment ouvrir l'onglet approprié ?
+* ex: /fr/apropos#plan-du-site
+* aka deep-linking
+
+### Couch-DB:
+* peupler bd
+* requête pour, et affichage de, la page d'accueil: articles et brèves
+* breadcrumb et pagination (x2), en fonction des données et du contexte
+* moteur de recherche basic
+* filtrage supplémentaire des résultats (drilldown)
+
+### Dans les forms:
+* rétablir les valeurs du user actuel lorsqu'il consulte.
+
+## Alain
+
+### Ajouter templates aux partials:
+* partial/commentaire
+* partial/resultatDeRecherche
+
+### JSON à développer:
+* pour articles
+* pour brèves
+* pour commentaires
+* pour évaluations par users: pertinence, qualité, appréciation, etc.
+* pour chaque page de notre site
+* pour personnes
+* pour membres
+* pour organisations
+* pour groupes
+* pour tâches
+* pour activités
+
+### Supprimer le projet "alaintest".
+
+## Robert (FYI)
+
+### Programmer autrement la production du JSON (très petit changement):
+* enlever dernière virgule dans tous les JSON.
+* remplacer quote par ("\" & quote)
+
+### Cerner la portion du contenu d'une ressource
+* qui sera affiché dans les pages du journal.
+* balise pourrait être "contenu".
+* à distinguer de la balise actuelle "description".
+
+----
+
 ## Next
 * Translations interface
-
 
 ## Details
 ### JSON content
