@@ -1,0 +1,30 @@
+# INVENTORY
+
+## Partials
+### Modals
+### Dropdowns
+### Leads
+
+## Icons
+
+## Pages
+### pages statiques
+### pages avec pagination
+### pages vers ressource précise
+
+## Tabs
+-- aka Onglets
+
+## Paths
+-- aka Routes, aka URLs
+
+## Issues
+### Features
+### Milestones
+### Todo
+### Bugs
+### Requests
+
+## Specs
+### Variables (data)
+### JSONs (structuration et conservation du data)

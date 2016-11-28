@@ -19,15 +19,34 @@
 * ex: /fr/apropos#plan-du-site
 * aka deep-linking
 
-### Couch-DB:
+### 1 fichier json par page du site, autoLoad dans var "data".
+* dans HTML je pourrai remplacer hardcoded par des includes, ex: <%- data.title %>
+- fichier json de la page Accueil te fournira les données nécessaire de cette page.
+
+### Enlever templates et partials qui ne servent plus
+* login+inscription
+* accueilDemo
+* doc
+* docs
+* multilingual
+* partials
+* pick-language
+* woot
+
+### Couch-DB
 * peupler bd
 * requête pour, et affichage de, la page d'accueil: articles et brèves
 * breadcrumb et pagination (x2), en fonction des données et du contexte
-* moteur de recherche basic
-* filtrage supplémentaire des résultats (drilldown)
+* moteur de recherche basic (Lucene?)
+
+## Feature Requests (pas du tout urgent)
+
+### Filtrage supplémentaire des résultats de recherche
+--- aka drilldown
 
 ### Dans les forms:
 * rétablir les valeurs du user actuel lorsqu'il consulte.
+* Ne pas obliger user de faire SUBMIT ; que ça se fasse automatiquement.
 
 ## Alain
 
