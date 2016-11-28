@@ -1,6 +1,7 @@
-= URLs for Issues =
+= Issues par URL =
 
-* Remarques
+== Catégories ==
+
 * System
 * User
 * Demo
@@ -9,7 +10,7 @@
 * Icons
 * Autres
 
-== REMARQUES ==
+== Remarques ==
 
 * Templates avec pagination: /n
 * Templates vers instances: /id
@@ -87,8 +88,8 @@
 /{languageCode}/favoris/id
 /{languageCode}/groupe/id
 /{languageCode}/moi/id
-/{languageCode}/page-ext/id
-/{languageCode}/page-int/id
+/{languageCode}/detail-ext/id
+/{languageCode}/detail-int/id
 /{languageCode}/profil/id
 
 NB: Lorsque "/id" et "/n" n'y sont pas
@@ -166,16 +167,16 @@ NB: Lorsque "/id" et "/n" n'y sont pas
 /fr/moi#mon-agenda
 /fr/moi#mon-calendrier
 /fr/moi#mes-meteos
-/fr/page-ext#article
-/fr/page-ext#information
-/fr/page-ext#attributs
-/fr/page-ext#evaluation
-/fr/page-ext#commentaires
-/fr/page-int#article
-/fr/page-int#information
-/fr/page-int#attributs
-/fr/page-int#evaluation
-/fr/page-int#commentaires
+/fr/detail-ext#article
+/fr/detail-ext#information
+/fr/detail-ext#attributs
+/fr/detail-ext#evaluation
+/fr/detail-ext#commentaires
+/fr/detail-int#article
+/fr/detail-int#information
+/fr/detail-int#attributs
+/fr/detail-int#evaluation
+/fr/detail-int#commentaires
 /fr/resultats#afficher-resultats
 /fr/resultats#afficher-capsule
 /fr/resultats#recherche-actuelle

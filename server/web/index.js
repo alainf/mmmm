@@ -22,8 +22,8 @@ const pages = [
   'profil-pair',
   'profil-moi',
   'moi',
-  'page-ext',
-  'page-int',
+  'detail-ext',
+  'detail-int',
   'resultats'
 ]
 
