@@ -33,14 +33,10 @@
 == Alain ==
 
 * Ajouter templates aux partials:
-
-- article
-- brève
 - commentaire
 - resultatDeRecherche
 
 * JSON à développer:
-
 - pour articles
 - pour brèves
 - pour commentaires
@@ -53,56 +49,16 @@
 - pour tâches
 - pour activités
 
-* Repeat, dans un partial :
-
-- a) pour construire bloc "Sections" d'une page = DONE
-- b) pour construire bloc "Sujets" d'une page.
-
-* Forms contextuels (toggle visibility) pour les ajouts et annotations des users.
-- dans une grande variété d'endroits, partout dans le site.
-
 * Supprimer le projet "alaintest".
 
 
-== Robert ==
+== Robert (FYI) ==
 
-* Enlever dernière virgule dans tous les JSON:
-- programmer autrement la production du JSON (très petit changement).
+* Programmer autrement la production du JSON (très petit changement):
+- enlever dernière virgule dans tous les JSON.
+- remplacer quote par ("\" & quote)
 
 * Cerner la portion du contenu d'une ressource
 - qui sera affiché dans les pages du journal.
 - balise pourrait être "contenu".
 - à distinguer de la balise actuelle "description".
-
-* Nouvelles balises dans json des ressources :
-- contenu
-- affichage: article ou breve ou resultatDeRecherche
-- appréciation
-- pertinence
-- qualité
-- afficher
-
-
-== Claude ==
-
-* Rédiger le contenu des pages autres-que le journal:
-- d'abord en français, puis traduire lorsque version Fr sera terminée.
-
-* Traduire :
-- l'interface
-- les sections et sujets
-- les pages secondaires (point précédent).
-
-
-== Graphiste ==
-
-* Logo
-* Bannière graphique
-* Choix des icônes
-* Couleurs
-* Texture/couleur de fond
-* Contraste entre contenu et fond
-* Polices (fonts)
-* Font-sizes
-* Espacement: padding, spacing, gutters, etc.
-* Borders and [horizontal] lines

@@ -74,6 +74,7 @@ page.sections				[ITEMS]
 page.sujets					[ITEMS]
 page.articles				[ITEMS]
 page.breves					[ITEMS]
+
 page.etc						VALEURS
 page.etc						VALEURS
 page.etc						VALEURS
