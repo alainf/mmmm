@@ -45,6 +45,12 @@
 /{languageCode}/these1			groupe "Thèse de Alain"
 /{languageCode}/these2			groupe "Thèse de Claude"
 
+/accueilDemo
+/doc
+/docs
+/pick-language
+/woot
+
 == PAGES ==
 
 === pages statiques ===
@@ -168,7 +174,34 @@ NB: Lorsque "/id" et "/n" n'y sont pas
 
 == ICONS ==
 
+=== Icons dans l'entête ===
 
+/fr/accueil			dans partial "displayHeader#mmPageHeader"
+/fr/resultats		dans partial "displayHeader#mmSearchHeader"
+/fr/detail-ext		dans partial "detailedTopRow"
+/fr/detail-int		dans partial "detailedTopRow"
 
+=== Icons en contexte ===
+
+* Ajouter
+* Modifier
+* Filtrer
+* Contacter
+* Conserver
+* Rejeter
+
+Voir partials suivants:
+
+* displayDropdown
+* displayModal
+* displayTable
 
 == AUTRES ==
+
+* Pagination
+* Breadcrumb avec pagination
+* Language-switcher: toggle callout of badges, switch language, localize strings.
+* Forms: method="POST"
+* Clef public/privé pour accéder au site
+* Lorsqu'un user oublie son mot-de-passe
+* Etc
