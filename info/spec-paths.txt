@@ -1,0 +1,107 @@
+= PATHS =
+
+* Templates avec pagination: /n
+* Templates vers instances: /id
+
+id = nomMachine OR nomFolder OR breadcrumb OR autreChose
+
+== Templates ==
+
+/fr/index
+/fr/accueil/n
+/fr/accueilDemo/n
+/fr/abonnezVous
+/fr/agenda
+/fr/aider
+/fr/apropos
+/fr/bottin
+/fr/enConstruction
+/fr/faq
+/fr/favoris
+/fr/groupe/id
+/fr/me-connecter
+/fr/me-deconnecter
+/fr/membre/id
+/fr/moi
+/fr/organisation/id
+/fr/page-ext/id
+/fr/page-int/id
+/fr/personne/id
+/fr/resultats/n
+/fr/section/id
+/fr/sujet/id
+
+== Templates quasi-identiques ==
+
+/fr/accueil
+/fr/section
+/fr/sujet
+/fr/groupe
+
+== Templates pour démos ==
+
+/fr/demo/nom  = /templates/demo/nom.html
+
+/fr/demo/articles
+/fr/demo/doc
+/fr/demo/docs
+/fr/demo/groupe1
+/fr/demo/groupe2
+/fr/demo/journal1
+/fr/demo/journal2
+/fr/demo/these1
+/fr/demo/these2
+/fr/demo/multilingual
+/fr/demo/pick-language
+/fr/demo/partials
+/fr/demo/tests
+/fr/demo/woot
+
+-----------------------------------------------------------------------
+
+/fr/membre
+/fr/membre/id
+
+4 possibilités pour id :
+- a) moi
+- b) un de mes pairs
+- c) un membre quelconque
+- d) un groupe quelconque
+
+pages temporaires :
+/fr/profil-moi
+/fr/profil-pair
+/fr/profil-membre
+/fr/profil-groupe
+
+----
+
+## Programmation du template "profil" :
+
+if (id in data.path) is data.me.id then
+	data.relation = "moi"
+else
+	if id is in data.me.pairs then data.relation = "pair"
+	if id is in data.me.groupes then data.relation = "groupe"
+	else data.relation = "membre"
+end if
+
+----
+
+data.me.id
+data.me.pairs
+data.me.groupes
+
+if data.me.shareMail is true then include mailMarkup
+if data.me.shareFB is true then include fbMarkup
+if data.me.sharePostal is true then include postalMarkup
+if data.me.shareTel is true then include telMarkup
+if data.me.shareName is true then include nameMarkup
+if data.me.sharePhoto is true then include photoMarkup
+if data.me.shareContact is true then include contactMarkup
+if data.me.shareFavorites is true then include favoritesMarkup
+if data.me.shareAgenda is true then include agendaMarkup
+if data.me.shareCalendar is true then include calendarMarkup
+
+-----------------------------------------------------------------------
+

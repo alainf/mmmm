@@ -48,6 +48,9 @@
 * rétablir les valeurs du user actuel lorsqu'il consulte.
 * Ne pas obliger user de faire SUBMIT ; que ça se fasse automatiquement.
 
+### Dans le template profil
+* afficher qu'un bloc à la fois, cacher les autres; vs toggle actuel.
+
 ## Alain
 
 ### Ajouter templates aux partials:
@@ -122,3 +125,28 @@
 * Varnish
 * Minify/Aggregate CSS
 * Minify/Aggregate JS
+
+----
+
+## Commentaires en vrac sur le serveur web
+
+### Plus de data dans la DB, plus représentatif
+### Plus grand usage des données dans les templates et dans le code
+### Se donner un roadmap; bien séparer les étapes pour connaitre le progrès et le chemin à faire
+### Hébergement dev et prod: est-ce qu'il y a déjà un serveur (machine) dans le portrait?
+* now.sh (node/docker)
+* digital ocean (générique)
+* cloudant (couchdb)
+* ngrok (partage local en dev)
+
+## Commentaires en vrac sur la gestion du projet
+
+### Utiliser le issue tracker de github (public) pour la gestion du projet; avantage d'être lié aux commits
+### Les grandes lignes peuvent se faire sur Framateam
+### Tagguer les issues: feature, bug, etc.
+### Classer les issues selon un roadmap, par version (0.1.0, 0.2.0, etc.)
+### Grosso-modo, créer un issue pour chaque URL disponible sur le site en dev actuellement
+### Établir les différents modèles (schémas) avec Joi
+### Test unitaires (avec Lab, de hapijs) et tests d'acceptations
+
+----

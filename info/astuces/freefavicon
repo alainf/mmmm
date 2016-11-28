@@ -1,0 +1,6 @@
+http://www.freefavicon.com/index.php
+
+    Click "Download Favicon", download package, unzip it and then open it. Your favicon.ico is located in it.
+    Upload the favicon.ico file to your web site root folder (make sure it goes into your root directory where your index page is located).
+    Between your <head> and </head> tags enter the follow code: <link rel="shortcut icon" href="favicon.ico">
+    Just read the text file that comes in the .zip and you can begin using your new favicon asap!

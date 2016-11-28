@@ -1,0 +1,8 @@
+CTRL-C le server web, et du répertoire principal:
+
+git checkout master # switcher à la branche master
+git pull # ramasser ce qu'il y a sur github dans master
+git checkout dev-alain # switcher à ta branche
+git merge master # l'éditeur veut que tu confirmes (si c'est nano, CTRL-X)
+git push # push ton dev-alain sur github, une fois mergé avec master
+yarn

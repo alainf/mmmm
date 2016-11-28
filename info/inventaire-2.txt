@@ -1,9 +1,10 @@
 # INVENTORY
 
 ## Partials
-### Modals
 ### Dropdowns
 ### Leads
+### Modals
+### Tables
 
 ## Icons
 

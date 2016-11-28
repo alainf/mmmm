@@ -1,0 +1,27 @@
+Si tu veux explorer une fonctionnalité, tu peux toujours faire ceci
+pour avoir une branche (temporaire):
+
+# le code est tout dans git (git commit -a -m"....")
+git checkout -b BRANCHETEMPORAIRE
+EDIT fichier-1
+EDIT fichier-2
+# pendant ce temps, master ne bouge pas
+git commit -a -m"Les 2 fichiers bla bla"
+EDIT fichier-1
+EDIT fichier-3
+git commit -a -m"Les 2 fichiers bla bla"
+# Repeat...
+# ok, c'est parfait, on merge nos 5-6 commits (whatever)
+# Sinon, on peut oublier ces commits, voir plus bas
+# MERGE
+git checkout master
+git merge BRANCHETEMPORAIRE
+# On efface notre branche temporaire
+git branch -d BRANCHETEMPORAIRE
+# OUBLIER, au lieu de merge
+git checkout master
+# et on se fou de ce qu'il y a dans BRANCHETEMPORAIRE
+# ou on peut faire un force-delete de cette branche
+
+Je fais ça quand je suis pas 100% où je m'en vais, pour ne pas
+"maganer" ma branche master et quand même pouvoir expérimenter.
