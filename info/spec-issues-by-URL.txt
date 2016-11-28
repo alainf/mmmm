@@ -1,5 +1,6 @@
 = URLs for Issues =
 
+* Remarques
 * System
 * User
 * Demo
@@ -7,6 +8,13 @@
 * Onglets
 * Icons
 * Autres
+
+== REMARQUES ==
+
+* Templates avec pagination: /n
+* Templates vers instances: /id
+* id = nomMachine OR nomFolder OR breadcrumb OR autreChose
+* Pages accueil et section et sujet et groupe mergeront en UN template commun
 
 == SYSTEM ==
 
@@ -171,37 +179,3 @@ NB: Lorsque "/id" et "/n" n'y sont pas
 /fr/resultats#afficher-resultats
 /fr/resultats#afficher-capsule
 /fr/resultats#recherche-actuelle
-
-== ICONS ==
-
-=== Icons dans l'entête ===
-
-/fr/accueil			dans partial "displayHeader#mmPageHeader"
-/fr/resultats		dans partial "displayHeader#mmSearchHeader"
-/fr/detail-ext		dans partial "detailedTopRow"
-/fr/detail-int		dans partial "detailedTopRow"
-
-=== Icons en contexte ===
-
-* Ajouter
-* Modifier
-* Filtrer
-* Contacter
-* Conserver
-* Rejeter
-
-Voir partials suivants:
-
-* displayDropdown
-* displayModal
-* displayTable
-
-== AUTRES ==
-
-* Pagination
-* Breadcrumb avec pagination
-* Language-switcher: toggle callout of badges, switch language, localize strings.
-* Forms: method="POST"
-* Clef public/privé pour accéder au site
-* Lorsqu'un user oublie son mot-de-passe
-* Etc

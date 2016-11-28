@@ -1,0 +1,88 @@
+== ICONS ==
+
+=== Icons dans l'entête ===
+
+/fr/accueil						icons dans partial "displayHeader#mmPageHeader"
+/fr/resultats					icons dans partial "displayHeader#mmSearchHeader"
+/fr/detail-ext					icons dans partial "detailedTopRow"
+/fr/detail-int					icons dans partial "detailedTopRow"
+/{languageCode}/accueil		un badge par langue
+
+NB: voir prochaine page de ce document.
+
+=== Icons en contexte ===
+
+* Ajouter
+* Modifier
+* Filtrer
+* Contacter
+* Conserver
+* Rejeter
+
+Voir partials suivants:
+
+* displayDropdown
+* displayModal
+* displayTable
+
+== AUTRES ==
+
+* Routes
+* Pagination
+* Breadcrumb avec pagination
+* Language-switcher: toggle callout of badges, switch language, localize strings.
+* Forms: method="POST"
+* Clef public/privé pour accéder au site
+* Lorsqu'un user oublie son mot-de-passe
+* Etc
+
+----
+
+=== Icons dans l'entête ===
+
+(a)	/fr/accueil						icons dans partial "displayHeader#mmPageHeader"
+(b)	/fr/resultats					icons dans partial "displayHeader#mmSearchHeader"
+(c)	/fr/detail-ext					icons dans partial "detailedTopRow"
+(c)	/fr/detail-int					icons dans partial "detailedTopRow"
+(d)	/{languageCode}/accueil		un badge par langue
+
+==== (a) ====
+
+<li class="icon"><a title="Aidez-moi" href="/fr/aider"><i class="fi-info"></i></a></li>
+<li class="icon"><a title="Imprimer la page" href="#"><i class="fi-print"></i></a></li>
+<li class="icon"><a title="Enregistrer" href="#"><i class="fi-save"></i></a></li>
+<li class="icon"><a title="S'abonner aux notifications" href="#"><i class="fi-rss"></i></a></li>
+<li class="icon"><a title="Ajouter à mes favoris" href="#"><i class="fi-star"></i></a></li>
+
+==== (b) ====
+
+<li class="icon"><a title="Aidez-moi" href="/fr/aider"><i class="fi-info"></i></a></li>
+<li class="icon"><a title="Enregistrer résultats" href="#"><i class="fi-page-export-pdf"></i></a></li>
+<li class="icon"><a title="Historique de mes recherches" href="#"><i class="fi-clock"></i></a></li>
+<li class="icon"><a title="S'abonner aux notifications" href="#"><i class="fi-rss"></i></a></li>
+<li class="icon"><a title="Ajouter à mes favoris" href="#"><i class="fi-star"></i></a></li>
+
+==== (c) ====
+
+<li class="icon"><a title="Aidez-moi" href="/fr/aider"><i class="fi-info"></i></a></li>
+<li class="icon"><a title="Mon historique" href="#"><i class="fi-clock"></i></a></li>
+<li class="icon"><a title="Mon agenda" href="/fr/moi#mon-agenda"><i class="fi-calendar"></i></a></li>
+<li class="icon"><a title="Mes groupes" href="#"><i class="fi-torsos-all"></i></a></li>
+<li class="icon"><a title="Mes pairs" href="#"><i class="fi-address-book"></i></a></li>
+<li class="icon"><a title="Imprimer la page" href="#"><i class="fi-print"></i></a></li>
+<li class="icon"><a title="Exporter page vers PDF" href="#"><i class="fi-page-export-pdf"></i></a></li>
+<li class="icon"><a title="Ce contenu est abusif" href="#"><i class="fi-prohibited"></i></a></li>
+<li class="icon"><a title="Ce contenu est publicitaire" href="#"><i class="fi-dollar"></i></a></li>
+<li class="icon"><a title="S'abonner aux notifications" href="#"><i class="fi-rss"></i></a></li>
+<li class="icon"><a title="Ajouter à mes favoris" href="#"><i class="fi-star"></i></a></li>
+
+==== (d) ====
+
+<li><a href="/fr/accueil"><span title="Français" class="alert badge">Fr</span></a></li>
+<li><a href="/en/accueil"><span title="English" class="badge">En</span></a></li>
+<li><a href="/es/accueil"><span title="Español" class="badge">Es</span></a></li>
+<li><a href="/it/accueil"><span title="Italiano" class="badge">It</span></a></li>
+<li><a href="/ru/accueil"><span title="Русский" class="badge">Ru</span></a></li>
+<li><a href="/ar/accueil"><span title="العربية" class="badge">Ar</span></a></li>
+
+----
