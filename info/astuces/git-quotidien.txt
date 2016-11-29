@@ -1,0 +1,13 @@
+git status # quels sont les fichiers qui ont été modifiés ?
+
+git add space/ separated/ paths
+
+git commit -m "Message d'explication. Pas de diacritiques."
+
+git push
+
+taper username et ENTER
+
+taper password et ENTER
+
+git status # vérifier que tout s'est bien passé.

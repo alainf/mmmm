@@ -1,21 +1,20 @@
 =Analyse et structuration des données ==
 
-issue
+issue							{OBJ}
 issue.path					"/fr/issue/id"
 issue.name					"Deep linking"
 issue.tags					[ITEMS]
 issue.audience				[ITEMS]
 issue.description			"string"
+issue.apercu				"string"
 issue.started				datetime
 issue.lastUpdated			datetime
 issue.completed			datetime
 
-data
-data.param-1
-data.param-2
-data.param-n
+data							{OBJ}
+data.param-n				paramName and paramValue
 
-site
+site							{OBJ}
 site.logo					{OBJ}
 site.logo.src				"URL"
 site.logo.href				"URL"
@@ -25,8 +24,20 @@ site.membres				[ITEMS]
 site.groupes				[ITEMS]
 site.langues				["fr", "en", "es", "it", "ru", "ar"]
 site.langue					"fr"
+site.favicon				"/favicon.ico"
+site.robotstxt				"/robots.txt"
+site.description			"string"
+site.keywords				"string"
+site.title					"string"
 
-groupe
+<link rel=”canonical” href=”http://example.com/” />
+<meta name=”robots” content=”noindex”>
+<meta name=”robots” content=”noarchive” />
+<meta name=”robots” content=”notranslate” />
+<meta http-equiv="cookie" content="userid=xyz; expires=Wednesday, 08-Aug-15 23:59:59 GMT;" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+groupe						{OBJ}
 groupe.nom					"string"
 groupe.href					"URL"
 groupe.apercu				"string"
@@ -39,7 +50,7 @@ groupe.logo.tip			"string"
 groupe.membres				[ITEMS]
 groupe.groupes				[ITEMS] ## iow des sous-groupes
 
-membre
+membre						{OBJ}
 membre.username			"alainf"
 membre.nom					"Farmer"
 membre.prenom				"Alain"
@@ -54,8 +65,10 @@ membre.image.src			"URL"
 membre.image.alt			"string"
 membre.image.tip			"string"
 membre.image.partager	true/false
+membre.description		"string"
+membre.apercu				"string"
 
-page
+page							{OBJ}
 page.id						"web-timestamp-random"
 page.lastPage				2000
 page.thisPage				1
@@ -74,26 +87,17 @@ page.sections				[ITEMS]
 page.sujets					[ITEMS]
 page.articles				[ITEMS]
 page.breves					[ITEMS]
-
-page.etc						VALEURS
-page.etc						VALEURS
-page.etc						VALEURS
-page.etc						VALEURS
-page.etc						VALEURS
-page.etc						VALEURS
-page.etc						VALEURS
-page.etc						VALEURS
 page.etc						VALEURS
 
-lead
+lead							{OBJ}
 lead._id						"lead-timestamp-random"
 lead.title					"string"
-lead.path					"/languageCode/en-detail/ID"
+lead.path					"/languageCode/detail/ID"
 lead.thumb					{OBJ}
 lead.thumb.beside			one of ["headline", "content"]
 lead.thumb.float			one of ["left", "right"]
-lead.thumb.tip				"string"
 lead.thumb.src				"URL"
+lead.thumb.tip				"string"
 lead.afficher 				one of ["article", "breve", "resultat"]
 lead.pertinence			nombre float entre 1 et 10
 lead.ressource				"ress-timestamp-random"
@@ -103,13 +107,14 @@ lead.titre					"string"
 lead.soustitre				"string"
 lead.citation				"string"
 lead.contenu				"string"
+lead.apercu					"string"
 
-detail
+detail						{OBJ}
 detail.appreciation		une valeur par user "Aucune", "Favorable", "Défavorable", "Spam", "Abus"
 detail.pertinence			une valeur par user "Sans opinion", "Indispensable", "Important", "Intéressant", "Sans intérêt"
 detail.qualite				une valeur par user "Sans opinion", "Excellente", "Bonne", "Criticable", "À éliminer"
 
-resultat
+resultat						{OBJ}
 resultat.ressource		référence vers l'objet de ce LEAD.
 resultat.pertinence		nombre float entre 1 et 10.
 resultat.href				"URL"
@@ -117,7 +122,7 @@ resultat.titre				"string"
 resultat.soustitre		"string"
 resultat.contenu			"string"
 
-recherche					objet pour l'Historique de recherches.
+recherche					{OBJ} pour l'Historique de recherches
 recherche.nom				"string"
 recherche.trierPar		choix
 recherche.enOrdre			choix
@@ -126,7 +131,7 @@ recherche.filtres			objet
 recherche.effectuer		quand recherche effectuée
 recherche.repeter			quand doit-elle être répétée ?
 
-faq
+faq							{OBJ}
 faq.catégorie
 faq.question.titre
 faq.question.contenu
@@ -135,14 +140,14 @@ faq.reponse
 faq.reponse.titre
 faq.reponse.contenu
 
-commentaire
+commentaire					{OBJ}
 commentaire.titre
 commentaire.contenu
 commentaire.versQui
 commentaire.parQui
 commentaire.quand
 
-contacter
+contacter					{OBJ}
 contacter.qui
 contacter.parQui
 contacter.raison
@@ -150,7 +155,7 @@ contacter.message
 
 ----
 
-organisation
+organisation					{OBJ}
 organisation.nom
 organisation.apercu
 organisation.description
@@ -158,9 +163,9 @@ organisation.url
 organisation.naissance
 organisation.deces
 
-personne
+personne							{OBJ}
 personne.nom
-personne.nomDeFamille
+personne.nomFamille
 personne.prenom
 personne.apercu
 personne.description
@@ -171,7 +176,7 @@ personne.deces
 
 ----
 
-rendezVous
+rendezVous						{OBJ}
 rendezVous.titre
 rendezVous.url
 rendezVous.lieu
@@ -180,8 +185,8 @@ rendezVous.fin
 rendezVous.description
 rendezVous.apercu
 
-avis
-avis.nom
+avis								{OBJ}
+avis.titre
 avis.url
 avis.lieu
 avis.debut
@@ -189,8 +194,8 @@ avis.fin
 avis.apercu
 avis.description
 
-appel
-appel.nom
+appel								{OBJ}
+appel.titre
 appel.url
 appel.lieu
 appel.debut
@@ -198,8 +203,8 @@ appel.fin
 appel.apercu
 appel.description
 
-bourse
-bourse.nom
+bourse							{OBJ}
+bourse.titre
 bourse.url
 bourse.lieu
 bourse.debut
@@ -207,8 +212,8 @@ bourse.fin
 bourse.description
 bourse.apercu
 
-subvention
-subvention.nom
+subvention						{OBJ}
+subvention.titre
 subvention.url
 subvention.lieu
 subvention.debut
@@ -216,8 +221,8 @@ subvention.fin
 subvention.apercu
 subvention.description
 
-conference
-conference.nom
+conference						{OBJ}
+conference.titre
 conference.url
 conference.lieu
 conference.debut
@@ -225,8 +230,8 @@ conference.fin
 conference.apercu
 conference.description
 
-congres
-congres.nom
+congres							{OBJ}
+congres.titre
 congres.url
 congres.lieu
 congres.debut
@@ -234,8 +239,8 @@ congres.fin
 congres.apercu
 congres.description
 
-emploi
-emploi.nom
+emploi							{OBJ}
+emploi.titre
 emploi.url
 emploi.lieu
 emploi.debut
@@ -243,8 +248,8 @@ emploi.fin
 emploi.apercu
 emploi.description
 
-tache
-tache.nom
+tache								{OBJ}
+tache.titre
 tache.url
 tache.lieu
 tache.debut
@@ -252,8 +257,8 @@ tache.fin
 tache.apercu
 tache.description
 
-activite
-activite.nom
+activite							{OBJ}
+activite.titre
 activite.url
 activite.lieu
 activite.debut
@@ -261,8 +266,8 @@ activite.fin
 activite.apercu
 activite.description
 
-lancement
-lancement.nom
+lancement						{OBJ}
+lancement.titre
 lancement.url
 lancement.lieu
 lancement.debut

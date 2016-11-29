@@ -53,6 +53,15 @@
 
 ## Alain
 
+### Réunir tous les todos
+* dans les fichiers sur mon poste
+* dans les courriels
+* en examinant le site
+
+### Avoir tous le JSON nécessaire
+--- dans data/ ou dans CouchDB)
+--- pour l'affichage complet de la page d'accueil (articles, layout, brèves, etc.)
+
 ### Ajouter templates aux partials:
 * partial/commentaire
 * partial/resultatDeRecherche
@@ -150,3 +159,42 @@
 ### Test unitaires (avec Lab, de hapijs) et tests d'acceptations
 
 ----
+
+Remplir sujets et sections contextuellement
+De: Alain Farmer <alain_farmer@yahoo.com>
+Date: Nov 17 at 10:33 PM
+To: Robin Millette 
+
+Ce folder "taxonomies", au premier niveau,
+qui contient un fichier json pour chaque terme,
+plus spécifiquement juste un alias vers le json correspondant dans Collections.
+
+C'est avec ce folder "taxonomies"
+que mon livecode [re]génére "breadcrumb" dans les jsons de nos Collections.
+
+Je t'en ai parlé ce soir,
+et j'en reparle dans ce courriel,
+car il me vient à l'esprit que
+tu pourrais exploiter ce folder "taxonomies"
+pour générer un GRAPHE (arborescence) des termes qui qualifient nos ressources.
+Plus spécifiquement, tu pourrais avoir les SECTIONS et les SUJETS sous forme de graphe.
+
+L'utilité c'est qu'on doit remplir les blocs SECTIONS et SUJETS
+de la page Accueil, de toutes les pages SECTIONS, et de toutes les pages SUJETS.
+
+Chaque page est un endroit précis dans ces deux graphes,
+et les enfants de ce node (endroit) sont les termes qui vont dans ces blocs.
+
+J'espère que ceci s'est avéré clair; on s'en reparlera.
+
+----
+
+## Logistique de collaboration
+
+### FramaTeam
+### Git
+#### Git issues
+#### Git labels
+#### Git milestones
+#### Git projects
+
