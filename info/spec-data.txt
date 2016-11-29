@@ -29,6 +29,14 @@ site.robotstxt				"/robots.txt"
 site.description			"string"
 site.keywords				"string"
 site.title					"string"
+site.copyright				"© 2016 - Machina Mundi Multi Média Inc"
+site.moi						"Label:" + username ## footer, right-hand side.
+
+### choix pour site.moi
+1:	"Moi:" + username
+2:	"Membre actuel:" + username
+3: "Administrateur:" + username
+4: "Utilisateur actuel: Pas inscrit" avec un lien vers page "abonnez-vous".
 
 groupe						{OBJ}
 groupe.nom					"string"

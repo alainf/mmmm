@@ -198,3 +198,12 @@ J'espère que ceci s'est avéré clair; on s'en reparlera.
 #### Git milestones
 #### Git projects
 
+----
+
+dans partials/footer :
+if username is "anonyme"
+then <p class="em text-right">Utilisateur:&nbsp;&nbsp;<a href="/fr/abonnez-vous">Abonnez-vous s.v.p.</a>&nbsp;&nbsp;&nbsp;</p>
+else <p class="em text-right">Utilisateur:&nbsp;&nbsp;<a href="/fr/profil-moi"><%- data.username %></a>&nbsp;&nbsp;&nbsp;</p>
+
+----
+
