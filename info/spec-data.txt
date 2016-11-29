@@ -30,13 +30,6 @@ site.description			"string"
 site.keywords				"string"
 site.title					"string"
 
-<link rel=”canonical” href=”http://example.com/” />
-<meta name=”robots” content=”noindex”>
-<meta name=”robots” content=”noarchive” />
-<meta name=”robots” content=”notranslate” />
-<meta http-equiv="cookie" content="userid=xyz; expires=Wednesday, 08-Aug-15 23:59:59 GMT;" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
 groupe						{OBJ}
 groupe.nom					"string"
 groupe.href					"URL"

@@ -1,0 +1,48 @@
+dcterms.accessRights			Information about who can access the resource or an indication of its security status.
+dcterms.accrualPolicy		The policy governing the addition of items to a collection.
+dcterms.alternative			An alternative name for the resource.
+dcterms.audience				Entity for whom the resource is intended or useful.
+dcterms.available				Date (often a range) that the resource became or will become available.
+dcterms.conformsTo			An established standard to which the described resource conforms.
+dcterms.contributor			Entity responsible for making contributions to the resource.
+dcterms.coverage				Spatial or temporal topic of the resource, its spatial applicability, or jurisdiction.
+dcterms.created				Date of creation of the resource.
+dcterms.creator				Entity primarily responsible for making the resource.
+dcterms.date					A point or period of time associated with an event in the lifecycle of the resource.
+dcterms.dateAccepted			Date of acceptance of the resource. Ex: thesis accepted by a university or an article accepted by a journal
+dcterms.dateCopyrighted		Date of copyright.
+dcterms.dateSubmitted		Date of submission of the resource. Ex: thesis submitted to a university, or article submitted to a journal.
+dcterms.description			Description may include: abstract, TOC, graphical representation, or  free-text account of the resource.
+dcterms.educationLevel		Class of entity defined in terms of progression in an educational context for which the resource is intended.
+dcterms.extent					The size or duration of the resource.
+dcterms.format					The file format, physical medium, or dimensions of the resource.
+dcterms.hasFormat				A related resource substantially the same as the pre-existing described resource, but in another format.
+dcterms.hasPart				A related resource that is included either physically or logically in the described resource.
+dcterms.hasVersion			A related resource that is a version, edition, or adaptation of the described resource.
+dcterms.identifier			An unambiguous reference to the resource within a given context.
+dcterms.instructionalMethod	A process, used to engender knowledge, attitudes and skills, that the described resource is designed to support.
+dcterms.isFormatOf			A related resource that is substantially the same as the described resource, but in another format.
+dcterms.isPartOf				A related resource in which the described resource is physically or logically included.
+dcterms.isReferencedBy		A related resource that references, cites, or otherwise points to the described resource.
+dcterms.isReplacedBy			A related resource that supplants, displaces, or supersedes the described resource.
+dcterms.isRequiredBy			A related resource that requires the described resource to support its function, delivery, or coherence.
+dcterms.issued					Date of formal issuance (e.g., publication) of the resource. Autrement-dit : lancement
+dcterms.isVersionOf			A related resource of which the described resource is a version, edition, or adaptation.
+dcterms.language				Language of the resource.
+dcterms.license				Legal document giving official permission to do something with the resource.
+dcterms.mediator				An entity that mediates access to the resource and for whom the resource is intended or useful.
+dcterms.modified				Date on which the resource was changed.
+dcterms.provenance			A statement of any changes in ownership/custody of the resource since its creation.
+dcterms.publisher				Entity responsible for making the resource available.
+dcterms.references			A related resource that is referenced, cited, or otherwise pointed to by the described resource.
+dcterms.relation				A related resource.
+dcterms.replaces				A related resource that is supplanted, displaced, or superseded by the described resource.
+dcterms.requires				A related resource that is required by the described resource to support its function, delivery, or coherence.
+dcterms.rights					Rights include statement about various property rights associated with the resource, including intellectual property rights.
+dcterms.rightsHolder			Person or organization owning or managing rights over the resource.
+dcterms.source					A related resource from which the described resource is derived.
+dcterms.spatial				Spatial characteristics of the resource.
+dcterms.subject				Subject is represented using keywords, key phrases, or classification codes. Controlled vocabulary recommended.
+dcterms.temporal				Temporal characteristics of the resource.
+dcterms.title					Name given to the resource.
+dcterms.type					Nature or genre of the resource.

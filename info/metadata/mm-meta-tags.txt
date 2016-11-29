@@ -1,0 +1,88 @@
+# Include these META tags in mm <head> ?
+
+<link rel=”canonical” href=”http://example.com/” />
+<meta name=”robots” content=”noindex”>
+<meta name=”robots” content=”noarchive” />
+<meta name=”robots” content=”notranslate” />
+<meta http-equiv="cookie" content="userid=xyz; expires=Wednesday, 08-Aug-15 23:59:59 GMT;" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="NOM" 						content="VALEUR">
+<meta name="shortcut icon" 		content="/favicon.ico" >
+<meta name="icon sizes=16x16" 	content="/preview_16x16.png" >
+<meta name="icon sizes=32x32" 	content="/preview_32x32.png" >
+<meta name="news_keywords" 		content="VALEUR ## google" >
+<meta name="original-source" 		content="VALEUR ## google" >
+<meta name="rating" 					content="afe for kids" >
+<meta name="robots" 					content="/robots.txt" >
+
+<meta name="canonical URL" 				content="VALEUR" >
+<meta name="content-language" 			content="VALEUR" >
+<meta name="copyright" 						content="VALEUR" >
+<meta name="description" 					content="VALEUR" >
+<meta name="generator" 						content="VALEUR" >
+<meta name="hreflang_[langcode]" 		content="VALEUR" >
+<meta name="icon sizes=96x96" 			content="VALEUR" >
+<meta name="icon sizes=192x192" 			content="VALEUR" >
+<meta name="keywords" 						content="VALEUR" >
+<meta name="mask-icon" 						content="VALEUR" >
+<meta name="product:availability" 		content="VALEUR" >
+<meta name="product:category" 			content="VALEUR" >
+<meta name="product:condition" 			content="VALEUR" >
+<meta name="product:expiration_time" 	content="VALEUR" >
+<meta name="product:price:amount" 		content="VALEUR" >
+<meta name="product:price:currency" 	content="VALEUR" >
+<meta name="product:retailer" 			content="VALEUR" >
+<meta name="publisher" 						content="VALEUR" >
+<meta name="rel=author" 					content="VALEUR" >
+<meta name="rights" 							content="VALEUR" >
+<meta name="title" 							content="VALEUR" >
+
+dcterms.accessRights				Information about who can access the resource or indication of its security status.
+dcterms.accrualPolicy			Policy governing the addition of items to a collection.
+dcterms.alternative				Alternative name for the resource.
+dcterms.audience					Entity for whom the resource is intended or useful.
+dcterms.available					Date (often a range) that the resource became or will become available.
+dcterms.conformsTo				An established standard to which the resource conforms.
+dcterms.contributor				Entity responsible for making contributions to the resource.
+dcterms.coverage					Spatial or temporal topic of resource, its spatial applicability, or jurisdiction.
+dcterms.created					Date of creation of the resource.
+dcterms.creator					Entity primarily responsible for making the resource.
+dcterms.date						Point or period of time associated with an event in the lifecycle of the resource.
+dcterms.dateAccepted				Date of acceptance of the resource. Ex: thesis, or article accepted by a journal
+dcterms.dateCopyrighted			Date of copyright.
+dcterms.dateSubmitted			Date of submission of resource. Ex: thesis or article submitted to a journal.
+dcterms.description				Description may include: abstract, TOC, graphical, or free-text account of the resource.
+dcterms.educationLevel			Entity for which resource is intended, in terms of progression in an educational context.
+dcterms.extent						Size or duration of the resource.
+dcterms.format						File format, physical medium, or dimensions of the resource.
+dcterms.hasFormat					Related resource substantially the same as the pre-existing resource, but in another format.
+dcterms.hasPart					Related resource that is included either physically or logically in the resource.
+dcterms.hasVersion				Related resource that is a version, edition, or adaptation of the resource.
+dcterms.identifier				An unambiguous reference to the resource within a given context.
+dcterms.instructionalMethod	Process, used to engender knowledge, attitudes and skills, that the resource aims to support.
+dcterms.isFormatOf				Related resource that is substantially the same as the resource, but in another format.
+dcterms.isPartOf					Related resource in which the resource is physically or logically included.
+dcterms.isReferencedBy			Related resource that references, cites, or otherwise points to the resource.
+dcterms.isReplacedBy				Related resource that supplants, displaces, or supersedes the resource.
+dcterms.isRequiredBy				Related resource that requires the resource to support its function, delivery, or coherence.
+dcterms.issued						Date of formal issuance (e.g., publication) of the resource. Autrement-dit : lancement
+dcterms.isVersionOf				Related resource of which the resource is a version, edition, or adaptation.
+dcterms.language					Language of the resource.
+dcterms.license					Legal document giving official permission to do something with the resource.
+dcterms.mediator					Entity that mediates access to the resource and for whom the resource is intended or useful.
+dcterms.modified					Date on which the resource was changed.
+dcterms.provenance				Statement of any changes in ownership/custody of the resource since its creation.
+dcterms.publisher					Entity responsible for making the resource available.
+dcterms.references				Related resource that is referenced, cited, or otherwise pointed to by the resource.
+dcterms.relation					Related resource.
+dcterms.replaces					Related resource that is supplanted, displaced, or superseded by the resource.
+dcterms.requires					Related resource that is required by the resource to support its function, delivery, or coherence.
+dcterms.rights						Statement about property rights associated with the resource, incl. intellectual property rights.
+dcterms.rightsHolder				Person or organization owning or managing rights over the resource.
+dcterms.source						Related resource from which the resource is derived.
+dcterms.spatial					Spatial characteristics of the resource.
+dcterms.subject					Represented using keywords, key phrases, classification codes; controlled vocabulary recommended.
+dcterms.temporal					Temporal characteristics of the resource.
+dcterms.title						Name given to the resource.
+dcterms.type						Nature or genre of the resource.
