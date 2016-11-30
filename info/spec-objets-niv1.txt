@@ -1,0 +1,32 @@
+# Analyse et structuration des données
+
+## Objets de premier niveau (2 exceptions)
+
+issue					{OBJ}
+data					{OBJ}
+groupe				{OBJ}
+membre				{OBJ}
+page					{OBJ}
+lead					{OBJ}
+detail				{OBJ}
+resultat				{OBJ}
+recherche			{OBJ} ### pour l'Historique de recherches
+faq					{OBJ}
+commentaire			{OBJ}
+contacter			{OBJ}
+organisation		{OBJ}
+personne				{OBJ}
+rendezVous			{OBJ}
+avis					{OBJ}
+appel					{OBJ}
+bourse				{OBJ}
+subvention			{OBJ}
+conference			{OBJ}
+congres				{OBJ}
+emploi				{OBJ}
+tache					{OBJ}
+activite				{OBJ}
+lancement			{OBJ}
+site					{OBJ}
+site.meta			{OBJ}
+site.meta.dc		{OBJ}

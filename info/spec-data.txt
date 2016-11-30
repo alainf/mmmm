@@ -3,6 +3,37 @@
 ## sauf membre 			dans /info/spec-user.txt
 ## sauf contribution 	dans /info/spec-contribs.txt
 
+## Objets de premier niveau (2 exceptions)
+
+activite
+appel
+avis
+bourse
+commentaire
+conference
+congres
+contacter
+data
+emploi
+faq
+groupe
+issue
+lancement
+lead
+membre
+organisation
+page
+personne
+rendezVous
+resultat
+site
+site.meta
+site.meta.dc
+subvention
+tache
+
+----
+
 issue							{OBJ}
 issue.path					"/fr/issue/id"
 issue.name					"Deep linking"
@@ -114,11 +145,6 @@ lead.citation				"string"
 lead.contenu				"string"
 lead.apercu					"string"
 
-detail						{OBJ}
-detail.appreciation		une valeur par user "Aucune", "Favorable", "Défavorable", "Spam", "Abus"
-detail.pertinence			une valeur par user "Sans opinion", "Indispensable", "Important", "Intéressant", "Sans intérêt"
-detail.qualite				une valeur par user "Sans opinion", "Excellente", "Bonne", "Criticable", "À éliminer"
-
 resultat						{OBJ}
 resultat.ressource		"référence" vers l'objet de ce LEAD.
 resultat.pertinence		nombre float entre 1 et 10.
@@ -126,15 +152,6 @@ resultat.href				"URL"
 resultat.titre				"string"
 resultat.soustitre		"string"
 resultat.contenu			"string"
-
-recherche					{OBJ} pour l'Historique de recherches
-recherche.nom				"string"
-recherche.trierPar		choix
-recherche.enOrdre			choix
-recherche.termes			items
-recherche.filtres			objet
-recherche.effectuer		quand recherche effectuée
-recherche.repeter			quand doit-elle être répétée ?
 
 faq							{OBJ}
 faq.catégorie				choisir parmi les 8 catégories actuelles

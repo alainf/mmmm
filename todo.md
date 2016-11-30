@@ -1,5 +1,7 @@
 # TODO
 
+Remarque: je mettrai ceci en fin-de-ligne pour les ajouts que je ferai: **NEW**
+
 ## Robin
 
 ### Enlever hapi-demo.
@@ -34,6 +36,7 @@
 * woot
 
 ### Couch-DB
+* renommer collection "ya" --> "machina" ; s'il y a lieu changement(s) en conséquence. **NEW**
 * peupler bd
 * requête pour, et affichage de, la page d'accueil: articles et brèves
 * breadcrumb et pagination (x2), en fonction des données et du contexte
@@ -60,7 +63,13 @@
 * dans les courriels
 * en examinant le site
 
-### JSON à développer:
+### Traduire les tâches ci-dessus. **NEW**
+* en faire des issues dans notre git
+* tagguer ces issues
+* placer ces issues dans le tableau de notre git
+* mettre-à-jour notre Roadmap
+
+### SPEC en développement:
 * pour articles
 * pour brèves
 * pour commentaires

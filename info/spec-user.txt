@@ -1,48 +1,172 @@
 # USER aka MEMBRE
 
-membre.id										= "user-2015-11-30-03-36-33-86932355591"
-membre.nom-famille							= "Farmer"
-membre.prenom									= "Alain"
-membre.username								= "Alain Farmer"
-membre.password								= "**********"
-membre.courriel								= "alain_farmer@yahoo.com"
-membre.photo									= "/img/membres/me.jpg"
+## TOC
 
-membre.type-de-compte						= "platine"
-membre.cout-mensuel							= 100
-membre.déduction 								= 80
-membre.payer.combien							= 20
-membre.payer.quand							= "2016-12-01"
-membre.payer.comment							= choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
-membre.donner.combien						= 20
-membre.donner.quand							= "2016-12-01"
-membre.donner.comment						= choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
-membre.participant-depuis					= "2008-01-01"
-membre.derniere-participation				= "2016-10-28 à 18h10"
-membre.points									= 12 345
+detail.appreciation
+detail.pertinence
+detail.qualite
+membre.activites
+membre.agenda-filtrage
+membre.agenda-tri
+membre.courriel
+membre.cout-mensuel
+membre.deduction 
+membre.derniere-participation
+membre.donner.combien
+membre.donner.comment
+membre.donner.quand
+membre.favoris
+membre.favoris-filtrage
+membre.favoris-tri
+membre.groupes
+membre.groupes-filtrage
+membre.historique-filtrage
+membre.historique-tri
+membre.id
+membre.langues
+membre.lieux-filtrage
+membre.lieux-tri
+membre.membres-filtrage
+membre.membres-filtrage
+membre.mes-lieux-filtrage
+membre.mes-lieux-tri
+membre.mes-organisations-filtrage
+membre.mes-organisations-tri
+membre.mes-personnes-filtrage
+membre.mes-personnes-tri
+membre.nom-famille
+membre.notifications
+membre.notifications
+membre.notifications.comment
+membre.notifications.filtrage
+membre.notifications.frequence
+membre.notifications.on
+membre.notifications.tri
+membre.organisations
+membre.organisations-filtrage
+membre.organisations-tri
+membre.pairs
+membre.pairs-filtrage
+membre.participant-depuis
+membre.password
+membre.payer.combien
+membre.payer.comment
+membre.payer.quand
+membre.personnes
+membre.personnes-filtrage
+membre.personnes-tri
+membre.photo
+membre.points
+membre.prenom
+membre.reputation
+membre.sections
+membre.sujets
+membre.taches
+membre.taches-filtrage
+membre.taches-tri
+membre.traduction.aviser
+membre.traduction.on
+membre.type-de-compte
+membre.username
+recherche.effectuer
+recherche.enOrdre
+recherche.filtres
+recherche.nom
+recherche.repeter
+recherche.termes
+recherche.trierPar
 
-membre.reputation								= choisir parmi ["normal","fiable"]
-membre.traduction.on							= choisir parmi [true,false]
-membre.traduction.aviser					= choisir parmi [true,false]
-membre.favoris-filtrage						= choisir parmi ["Aucun filtrage","Articles","Personnes","Ressources","Sections","Sujets"]
-membre.favoris-tri							= choisir parmi ["nom","type"]
-membre.notifications.on						= choisir parmi [true,false]
-membre.notifications.comment				= choisir parmi ["par courriel","par messagerie","en consultant site web"]
-membre.notifications.frequence			= choisir parmi ["Immédiatement","1 fois par heure","1 fois par jour","1 fois par semaine","Jamais"]
-membre.notifications.filtrage				= choisir parmi ["Aucun filtrage","Sujet","Personne","Ressource"]
-membre.notifications.tri					= choisir parmi ["nom","type"]
-membre.tâches-filtrage						= choisir parmi ["Aucun filtrage","Sujet","Personne","Ressource"]
-membre.tâches-tri								= choisir parmi ["nom","type"]
+## En détail
 
-membre.langues									= {n * ["id du terme"] } 	--> string = "Français, Anglais"
-membre.sections								= {n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
-membre.sujets									= {n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
-membre.favoris									= {n * ["id du terme"] } 	--> tableau: Nom, Type
-membre.notifications							= {n * ["id du terme"] } 	--> tableau: Nom, Type
-membre.pairs									= {n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
-membre.groupes									= {n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
-membre.tâches									= {n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
-membre.activités								= {n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
-membre.organisations							= {n * ["id du terme"] } 	--> tableau: Nom, Type, URL
-membre.notifications							= {n * ["id du terme"] } 	--> tableau: Nom, Type
-membre.personnes								= {n * ["id du terme"] } 	--> tableau: Nom, Type, URL
+membre.id										"user-2015-11-30-03-36-33-86932355591"
+membre.nom-famille							"Farmer"
+membre.prenom									"Alain"
+membre.username								"Alain Farmer"
+membre.password								"**********"
+membre.courriel								"alain_farmer@yahoo.com"
+membre.photo									"/img/membres/me.jpg"
+
+membre.type-de-compte						"platine"
+membre.cout-mensuel							100
+membre.deduction 								80
+membre.payer.combien							20
+membre.payer.quand							"2016-12-01"
+membre.payer.comment							choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
+membre.donner.combien						20
+membre.donner.quand							"2016-12-01"
+membre.donner.comment						choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
+membre.participant-depuis					"2008-01-01"
+membre.derniere-participation				"2016-10-28 à 18h10"
+membre.points									12 345
+membre.reputation								choisir parmi ["normal","fiable"]
+
+membre.langues									{n * ["id du terme"] } 	--> string "Français, Anglais"
+membre.sections								{n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
+membre.sujets									{n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
+membre.favoris									{n * ["id du terme"] } 	--> tableau: Nom, Type
+membre.notifications							{n * ["id du terme"] } 	--> tableau: Nom, Type
+membre.pairs									{n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
+membre.groupes									{n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
+membre.taches									{n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
+membre.activites								{n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
+membre.organisations							{n * ["id du terme"] } 	--> tableau: Nom, Type, URL
+membre.notifications							{n * ["id du terme"] } 	--> tableau: Nom, Type
+membre.personnes								{n * ["id du terme"] } 	--> tableau: Nom, Type, URL
+
+### Preferences
+
+membre.traduction.on							choisir parmi [true,false]
+membre.traduction.aviser					choisir parmi [true,false]
+
+membre.favoris-filtrage						choisir parmi ["Aucun filtrage","etc"]
+membre.favoris-tri							choisir parmi ["nom","type"]
+
+membre.notifications.on						choisir parmi [true,false]
+membre.notifications.comment				choisir parmi ["par courriel","par messagerie","en consultant site web"]
+membre.notifications.frequence			choisir parmi ["Immédiatement","1 fois par heure","1 fois par jour","1 fois par semaine","Jamais"]
+membre.notifications.filtrage				choisir parmi ["Aucun filtrage","etc"]
+membre.notifications.tri					choisir parmi ["nom","type"]
+
+membre.taches-filtrage						choisir parmi ["Aucun filtrage","Sujet","Personne","Ressource"]
+membre.taches-tri								choisir parmi ["nom","type"]
+
+membre.historique-filtrage					choisir parmi ["Aucun filtrage","etc"]
+membre.historique-tri						choisir parmi ["moment","type","now"]
+
+membre.agenda-filtrage						choisir parmi ["Aucun filtrage","etc"]
+membre.agenda-tri								choisir parmi ["moment","type","now","accomplie"]
+
+membre.membres-filtrage						choisir parmi ["Aucun filtrage","etc"]
+membre.pairs-filtrage						choisir parmi ["Aucun filtrage","etc"]
+membre.groupes-filtrage						choisir parmi ["Aucun filtrage","etc"]  ### NB: ajouter
+membre.membres-filtrage						choisir parmi ["Aucun filtrage","etc"]
+
+membre.organisations-filtrage				choisir parmi ["Aucun filtrage","etc"]
+membre.organisations-tri					choisir parmi ["moment","type","now"]
+
+membre.mes-organisations-filtrage		choisir parmi ["Aucun filtrage","etc"]
+membre.mes-organisations-tri				choisir parmi ["moment","type","now"]
+
+membre.personnes-filtrage					choisir parmi ["Aucun filtrage","etc"]
+membre.personnes-tri							choisir parmi ["moment","type","now"]
+
+membre.mes-personnes-filtrage				choisir parmi ["Aucun filtrage","etc"]
+membre.mes-personnes-tri					choisir parmi ["moment","type","now"]
+
+membre.lieux-filtrage						choisir parmi ["Aucun filtrage","etc"]
+membre.lieux-tri								choisir parmi ["moment","type","now"]
+
+membre.mes-lieux-filtrage					choisir parmi ["Aucun filtrage","etc"]
+membre.mes-lieux-tri							choisir parmi ["moment","type","now"]
+
+detail.appreciation							une valeur par user "Aucune", "Favorable", "Défavorable", "Spam", "Abus"
+detail.pertinence								une valeur par user "Sans opinion", "Indispensable", "Important", "Intéressant", "Sans intérêt"
+detail.qualite									une valeur par user "Sans opinion", "Excellente", "Bonne", "Criticable", "À éliminer"
+
+recherche.nom									"string"
+recherche.trierPar							choix
+recherche.enOrdre								choix
+recherche.termes								items
+recherche.filtres								objet
+recherche.effectuer							quand recherche effectuée
+recherche.repeter								quand doit-elle être répétée ?
