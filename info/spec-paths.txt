@@ -74,34 +74,4 @@ pages temporaires :
 /fr/profil-membre
 /fr/profil-groupe
 
-----
-
-## Programmation du template "profil" :
-
-if (id in data.path) is data.me.id then
-	data.relation = "moi"
-else
-	if id is in data.me.pairs then data.relation = "pair"
-	if id is in data.me.groupes then data.relation = "groupe"
-	else data.relation = "membre"
-end if
-
-----
-
-data.me.id
-data.me.pairs
-data.me.groupes
-
-if data.me.shareMail is true then include mailMarkup
-if data.me.shareFB is true then include fbMarkup
-if data.me.sharePostal is true then include postalMarkup
-if data.me.shareTel is true then include telMarkup
-if data.me.shareName is true then include nameMarkup
-if data.me.sharePhoto is true then include photoMarkup
-if data.me.shareContact is true then include contactMarkup
-if data.me.shareFavorites is true then include favoritesMarkup
-if data.me.shareAgenda is true then include agendaMarkup
-if data.me.shareCalendar is true then include calendarMarkup
-
 -----------------------------------------------------------------------
-

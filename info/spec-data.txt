@@ -51,7 +51,10 @@ groupe.logo.tip			"string"
 groupe.membres				[ITEMS]
 groupe.groupes				[ITEMS] ## iow des sous-groupes
 
+----
+
 membre						{OBJ}
+membre.id					"user-timestamp-random"
 membre.username			"alainf"
 membre.nom					"Farmer"
 membre.prenom				"Alain"
@@ -68,6 +71,28 @@ membre.image.tip			"string"
 membre.image.partager	true/false
 membre.description		"string"
 membre.apercu				"string"
+
+if membre.shareMail is true then include mailMarkup
+if membre.shareFB is true then include fbMarkup
+if membre.sharePostal is true then include postalMarkup
+if membre.shareTel is true then include telMarkup
+if membre.shareName is true then include nameMarkup
+if membre.sharePhoto is true then include photoMarkup
+if membre.shareContact is true then include contactMarkup
+if membre.shareFavorites is true then include favoritesMarkup
+if membre.shareAgenda is true then include agendaMarkup
+if membre.shareCalendar is true then include calendarMarkup
+
+## Programmation du template "profil"
+if (id in data.path) is membre.id then
+	data.relation = "moi"
+else
+	if id is in membre.pairs then data.relation = "pair"
+	if id is in membre.groupes then data.relation = "groupe"
+	else data.relation = "membre"
+end if
+
+----
 
 page							{OBJ}
 page.id						"web-timestamp-random"

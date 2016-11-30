@@ -39,6 +39,7 @@
 * breadcrumb et pagination (x2), en fonction des données et du contexte
 * moteur de recherche basic (Lucene?)
 
+
 ## Feature Requests (pas du tout urgent)
 
 ### Filtrage supplémentaire des résultats de recherche
@@ -51,20 +52,13 @@
 ### Dans le template profil
 * afficher qu'un bloc à la fois, cacher les autres; vs toggle actuel.
 
+
 ## Alain
 
-### Réunir tous les todos
+### Réunir tous les todos = DONE
 * dans les fichiers sur mon poste
 * dans les courriels
 * en examinant le site
-
-### Avoir tous le JSON nécessaire
---- dans data/ ou dans CouchDB)
---- pour l'affichage complet de la page d'accueil (articles, layout, brèves, etc.)
-
-### Ajouter templates aux partials:
-* partial/commentaire
-* partial/resultatDeRecherche
 
 ### JSON à développer:
 * pour articles
@@ -79,7 +73,16 @@
 * pour tâches
 * pour activités
 
+### Avoir tout le JSON nécessaire
+--- dans data/ ou dans CouchDB
+--- pour l'affichage complet de la page d'accueil (articles, layout, brèves, etc.)
+
+### Ajouter templates aux partials:
+* partial/commentaire
+* partial/resultatDeRecherche
+
 ### Supprimer le projet "alaintest".
+
 
 ## Robert (FYI)
 
@@ -135,14 +138,13 @@
 * Minify/Aggregate CSS
 * Minify/Aggregate JS
 
-----
-
 ## Commentaires en vrac sur le serveur web
 
 ### Plus de data dans la DB, plus représentatif
 ### Plus grand usage des données dans les templates et dans le code
 ### Se donner un roadmap; bien séparer les étapes pour connaitre le progrès et le chemin à faire
 ### Hébergement dev et prod: est-ce qu'il y a déjà un serveur (machine) dans le portrait?
+--- Je crois que oui, qu'il ya un serveur. Je m'informerai.
 * now.sh (node/docker)
 * digital ocean (générique)
 * cloudant (couchdb)
@@ -199,11 +201,3 @@ J'espère que ceci s'est avéré clair; on s'en reparlera.
 #### Git projects
 
 ----
-
-dans partials/footer :
-if username is "anonyme"
-then <p class="em text-right">Utilisateur:&nbsp;&nbsp;<a href="/fr/abonnez-vous">Abonnez-vous s.v.p.</a>&nbsp;&nbsp;&nbsp;</p>
-else <p class="em text-right">Utilisateur:&nbsp;&nbsp;<a href="/fr/profil-moi"><%- data.username %></a>&nbsp;&nbsp;&nbsp;</p>
-
-----
-
