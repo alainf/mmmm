@@ -1,49 +1,48 @@
-== USER et ses PROPRIÉTÉS ==
+# USER
+
+membre.id										= "user-2015-11-30-03-36-33-86932355591"
+membre.nom-famille							= "Farmer"
+membre.prenom									= "Alain"
+membre.username								= "Alain Farmer"
+membre.password								= "**********"
+membre.courriel								= "alain_farmer@yahoo.com"
+membre.photo									= "/img/membres/me.jpg"
 
 membre.type-de-compte						= "platine"
 membre.cout-mensuel							= 100
 membre.déduction 								= 80
 membre.payer.combien							= 20
 membre.payer.quand							= "2016-12-01"
-membre.payer.comment							= "bitcoin"
+membre.payer.comment							= choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
 membre.donner.combien						= 20
 membre.donner.quand							= "2016-12-01"
-membre.donner.comment						= "paypal"
+membre.donner.comment						= choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
+membre.participant-depuis					= "2008-01-01"
+membre.derniere-participation				= "2016-10-28 à 18h10"
+membre.points									= 12 345
 
-membre.id										= "user-2015-11-30-03-36-33-86932355591"
-membre.nom-de-famille						= Farmer
-membre.prenom									= Alain
-membre.utilisateur							= alainf
-membre.password								= **********
-membre.courriel								= alain_farmer@yahoo.com
+membre.reputation								= choisir parmi ["normal","fiable"]
+membre.traduction.on							= choisir parmi [true,false]
+membre.traduction.aviser					= choisir parmi [true,false]
+membre.favoris-filtrage						= choisir parmi ["Aucun filtrage","Articles","Personnes","Ressources","Sections","Sujets"]
+membre.favoris-tri							= choisir parmi ["nom","type"]
+membre.notifications.on						= choisir parmi [true,false]
+membre.notifications.comment				= choisir parmi ["par courriel","par messagerie","en consultant site web"]
+membre.notifications.frequence			= choisir parmi ["Immédiatement","1 fois par heure","1 fois par jour","1 fois par semaine","Jamais"]
+membre.notifications.filtrage				= choisir parmi ["Aucun filtrage","Sujet","Personne","Ressource"]
+membre.notifications.tri					= choisir parmi ["nom","type"]
+membre.tâches-filtrage						= choisir parmi ["Aucun filtrage","Sujet","Personne","Ressource"]
+membre.tâches-tri								= choisir parmi ["nom","type"]
 
-membre.photo									= url
-membre.langues									= liste de langues
-membre.traduction.on							= Oui, Non
-membre.traduction.aviser					= Oui, Non
-
-membre.sujets									= tableau: sujet, breadcrumb
-membre.favoris									= tableau: Nom, Type
-membre.favoris-filtrage						= Aucun filtrage, Articles, Personnes, Ressources, Sections, Sujets, Type n
-membre.favoris-tri							= Nom, Type
-
-membre.notifications							= tableau: Nom, Type
-membre.notifications.on						= Oui, Non
-membre.notifications.comment				= par courriel, par messagerie, en consultant site web
-membre.notifications.frequence			= Immédiatement, 1 fois par heure, 1 fois par jour,  1 fois par semaine,  Jamais
-membre.notifications.filtrage				= Aucun filtrage, Sujet, Personne, Ressource, Type n
-membre.notifications.tri					= Nom, Type
-
-membre.participant-depuis					= 2008-01-01
-membre.derniere-participation				= 2016-10-28 à 18h10.
-membre.points									= 12 345 points
-membre.Réputation								= très fiable, etc
-
-membre.pairs									= liste de thumbnails avec nom, image, 3 liens
-membre.groupes									= liste de thumbnails avec nom, image, 3 liens
-membre.tâches									= { type, nom, url, lieu, debut, fin, description }
-membre.tâches-filtrage						= Aucun filtrage, Sujet, Personne, Ressource, Type n
-membre.tâches-tri								= Nom, Type
-membre.activités								= { type, nom, url, lieu, debut, fin, description }
-membre.organisations							= type, nom, url, etc
-membre.personnes								= type, nom, url, etc
+membre.langues									= {n * ["id du terme"] } 	--> string = "Français, Anglais"
+membre.sections								= {n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
+membre.sujets									= {n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
+membre.favoris									= {n * ["id du terme"] } 	--> tableau: Nom, Type
+membre.notifications							= {n * ["id du terme"] } 	--> tableau: Nom, Type
+membre.pairs									= {n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
+membre.groupes									= {n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
+membre.tâches									= {n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
+membre.activités								= {n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
+membre.organisations							= {n * ["id du terme"] } 	--> tableau: Nom, Type, URL
+membre.notifications							= {n * ["id du terme"] } 	--> tableau: Nom, Type
+membre.personnes								= {n * ["id du terme"] } 	--> tableau: Nom, Type, URL
