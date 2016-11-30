@@ -1,4 +1,4 @@
-# USER
+# USER aka MEMBRE
 
 membre.id										= "user-2015-11-30-03-36-33-86932355591"
 membre.nom-famille							= "Farmer"

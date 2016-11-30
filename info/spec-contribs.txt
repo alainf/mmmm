@@ -1,0 +1,61 @@
+# Variables de l'objet CONTRIBUTION
+
+contribution.publisher							"string"
+contribution.author 								"string" ou "référence vers la Personne"
+contribution.rights								"string"
+contribution.title 								"string"
+contribution.description 						"string"
+contribution.content-type						"text/html"
+contribution.charset								"UTF-8"
+contribution.news-keywords 					"items  ## for google"
+contribution.keywords							"items"
+contribution.rating 								"Safe for kids"
+contribution.content-language 				"Fr" (langcode)
+contribution.canonical							"http://example.com/"
+
+contribution.dcterms.accrualPolicy			"string"		Policy governing the addition of items to a collection.
+contribution.dcterms.accessRights			"string"		Information about who can access the resource or indication of its security status.
+contribution.dcterms.alternative				"string"		Alternative name for the resource.
+contribution.dcterms.audience					"string"		Entity for whom the resource is intended or useful.
+contribution.dcterms.available				"string"		Date (often a range) that the resource became or will become available.
+contribution.dcterms.conformsTo				"string"		An established standard to which the resource conforms.
+contribution.dcterms.contributor				"string"		Entity responsible for making contributions to the resource.
+contribution.dcterms.coverage					"string"		Spatial or temporal topic of resource, its spatial applicability, or jurisdiction.
+contribution.dcterms.created					"string"		Date of creation of the resource.
+contribution.dcterms.creator					"string"		Entity primarily responsible for making the resource.
+contribution.dcterms.dateAccepted			"string"		Date of acceptance of the resource. Ex: thesis, or article accepted by a journal
+contribution.dcterms.dateCopyrighted		"string"		Date of copyright.
+contribution.dcterms.dateSubmitted			"string"		Date of submission of resource. Ex: thesis or article submitted to a journal.
+contribution.dcterms.description				"string"		Description may include: abstract, TOC, graphical, or free-text account of the resource.
+contribution.dcterms.educationLevel			"string"		Entity for which resource is intended, in terms of progression in an educational context.
+contribution.dcterms.extent					"string"		Size or duration of the resource.
+contribution.dcterms.format					"string"		File format, physical medium, or dimensions of the resource.
+contribution.dcterms.hasFormat				"string"		Related resource substantially same as pre-existing resource, in another format.
+contribution.dcterms.hasPart					"string"		Related resource that is included either physically or logically in the resource.
+contribution.dcterms.hasVersion				"string"		Related resource that is a version, edition, or adaptation of the resource.
+contribution.dcterms.identifier				"string"		Unambiguous reference to the resource within a given context.
+contribution.dcterms.instructionalMethod	"string"		Process, used to engender knowledge, attitudes and skills, that the resource aims to support.
+contribution.dcterms.isFormatOf				"string"		Related resource that is substantially the same as the resource, but in another format.
+contribution.dcterms.isPartOf					"string"		Related resource in which the resource is physically or logically included.
+contribution.dcterms.isReferencedBy			"string"		Related resource that references, cites, or otherwise points to the resource.
+contribution.dcterms.isReplacedBy			"string"		Related resource that supplants, displaces, or supersedes the resource.
+contribution.dcterms.isRequiredBy			"string"		Related resource that requires the resource to support its function, delivery, or coherence.
+contribution.dcterms.issued					"string"		Date of formal issuance (e.g., publication) of the resource. Autrement-dit : lancement
+contribution.dcterms.isVersionOf				"string"		Related resource of which the resource is a version, edition, or adaptation.
+contribution.dcterms.language					"string"		Language of the resource.
+contribution.dcterms.license					"string"		Legal document giving official permission to do something with the resource.
+contribution.dcterms.modified					"string"		Date on which the resource was changed.
+contribution.dcterms.provenance				"string"		Statement of any changes in ownership/custody of the resource since its creation.
+contribution.dcterms.publisher				"string"		Entity responsible for making the resource available.
+contribution.dcterms.references				"string"		Related resource that is referenced, cited, or otherwise pointed to by the resource.
+contribution.dcterms.relation					"string"		Related resource.
+contribution.dcterms.replaces					"string"		Related resource that is supplanted, displaced, or superseded by the resource.
+contribution.dcterms.requires					"string"		Related resource that is required to support its function, delivery, or coherence.
+contribution.dcterms.rights					"string"		Statement of property rights associated with this, incl. intellectual property rights.
+contribution.dcterms.rightsHolder			"string"		Person or organization owning or managing rights over the resource.
+contribution.dcterms.source					"string"		Related resource from which the resource is derived.
+contribution.dcterms.spatial					"string"		Spatial characteristics of the resource.
+contribution.dcterms.subject					"string"		Keywords, key phrases, classification codes; controlled vocabulary recommended.
+contribution.dcterms.temporal					"string"		Temporal characteristics of the resource.
+contribution.dcterms.title						"string"		Name given to the resource.
+contribution.dcterms.type						"string"		Nature or genre of the resource.

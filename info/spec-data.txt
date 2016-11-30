@@ -1,4 +1,7 @@
-=Analyse et structuration des données ==
+# Analyse et structuration des données
+
+## sauf membre 			dans /info/spec-user.txt
+## sauf contribution 	dans /info/spec-contribs.txt
 
 issue							{OBJ}
 issue.path					"/fr/issue/id"
@@ -7,36 +10,12 @@ issue.tags					[ITEMS]
 issue.audience				[ITEMS]
 issue.description			"string"
 issue.apercu				"string"
-issue.started				datetime
-issue.lastUpdated			datetime
-issue.completed			datetime
+issue.started				"datetime"
+issue.lastUpdated			"datetime"
+issue.completed			"datetime"
 
 data							{OBJ}
 data.param-n				paramName and paramValue
-
-site							{OBJ}
-site.logo					{OBJ}
-site.logo.src				"URL"
-site.logo.href				"URL"
-site.logo.alt				"string"
-site.logo.tip				"string"
-site.membres				[ITEMS]
-site.groupes				[ITEMS]
-site.langues				["fr", "en", "es", "it", "ru", "ar"]
-site.langue					"fr"
-site.favicon				"/favicon.ico"
-site.robotstxt				"/robots.txt"
-site.description			"string"
-site.keywords				"string"
-site.title					"string"
-site.copyright				"© 2016 - Machina Mundi Multi Média Inc"
-site.moi						"Label:" + username ## footer, right-hand side.
-
-### choix pour site.moi
-1:	"Moi:" + username
-2:	"Membre actuel:" + username
-3: "Administrateur:" + username
-4: "Utilisateur actuel: Pas inscrit" avec un lien vers page "abonnez-vous".
 
 groupe						{OBJ}
 groupe.nom					"string"
@@ -141,7 +120,7 @@ detail.pertinence			une valeur par user "Sans opinion", "Indispensable", "Import
 detail.qualite				une valeur par user "Sans opinion", "Excellente", "Bonne", "Criticable", "À éliminer"
 
 resultat						{OBJ}
-resultat.ressource		référence vers l'objet de ce LEAD.
+resultat.ressource		"référence" vers l'objet de ce LEAD.
 resultat.pertinence		nombre float entre 1 et 10.
 resultat.href				"URL"
 resultat.titre				"string"
@@ -158,145 +137,258 @@ recherche.effectuer		quand recherche effectuée
 recherche.repeter			quand doit-elle être répétée ?
 
 faq							{OBJ}
-faq.catégorie
-faq.question.titre
-faq.question.contenu
-faq.question.numero
-faq.reponse
-faq.reponse.titre
-faq.reponse.contenu
+faq.catégorie				choisir parmi les 8 catégories actuelles
+faq.question				{OBJ}
+faq.question.titre		"string"
+faq.question.contenu		"string"
+faq.question.numero		float
+faq.reponse					"string"
+faq.reponse.titre			"string"
+faq.reponse.contenu		"string"
 
 commentaire					{OBJ}
-commentaire.titre
-commentaire.contenu
-commentaire.versQui
-commentaire.parQui
-commentaire.quand
+commentaire.id				"référence"
+commentaire.titre			"string"
+commentaire.contenu		"string"
+commentaire.versQui		"référence"
+commentaire.parQui		"référence"
+commentaire.quand			"datetime"
 
 contacter					{OBJ}
-contacter.qui
-contacter.parQui
-contacter.raison
-contacter.message
-
-----
+contacter.qui				"référence"
+contacter.parQui			"référence"
+contacter.raison			"choix"
+contacter.message			"string"
 
 organisation					{OBJ}
-organisation.nom
-organisation.apercu
-organisation.description
-organisation.url
-organisation.naissance
-organisation.deces
+organisation.id				"référence"
+organisation.nom				"string"
+organisation.apercu			"string"
+organisation.description	"string"
+organisation.url				"URL"
+organisation.naissance		"yyyy-mm-dd"
+organisation.deces			"yyyy-mm-dd"
 
 personne							{OBJ}
-personne.nom
-personne.nomFamille
-personne.prenom
-personne.apercu
-personne.description
-personne.url
-personne.image
-personne.naissance
-personne.deces
-
-----
+personne.id						"référence"
+personne.nom					"string"
+personne.nomFamille			"string"
+personne.prenom				"string"
+personne.apercu				"string"
+personne.description			"string"
+personne.url					"URL"
+personne.image					"URL"
+personne.naissance			"yyyy-mm-dd"
+personne.deces					"yyyy-mm-dd"
 
 rendezVous						{OBJ}
-rendezVous.titre
-rendezVous.url
-rendezVous.lieu
-rendezVous.debut
-rendezVous.fin
-rendezVous.description
-rendezVous.apercu
+rendezVous.id					"référence"
+rendezVous.titre				"string"
+rendezVous.url					"URL"
+rendezVous.lieu				"référence"
+rendezVous.debut				"datetime"
+rendezVous.fin					"datetime"
+rendezVous.description		"string"
+rendezVous.apercu				"string"
 
 avis								{OBJ}
-avis.titre
-avis.url
-avis.lieu
-avis.debut
-avis.fin
-avis.apercu
-avis.description
+avis.id							"référence"
+avis.titre						"string"
+avis.url							"URL"
+avis.lieu						"référence"
+avis.debut						"datetime"
+avis.fin							"datetime"
+avis.apercu						"string"
+avis.description				"string"
 
 appel								{OBJ}
-appel.titre
-appel.url
-appel.lieu
-appel.debut
-appel.fin
-appel.apercu
-appel.description
+appel.id							"référence"
+appel.titre						"string"
+appel.url						"URL"
+appel.lieu						"référence"
+appel.debut						"datetime"
+appel.fin						"datetime"
+appel.apercu					"string"
+appel.description				"string"
 
 bourse							{OBJ}
-bourse.titre
-bourse.url
-bourse.lieu
-bourse.debut
-bourse.fin
-bourse.description
-bourse.apercu
+bourse.id						"référence"
+bourse.titre					"string"
+bourse.url						"URL"
+bourse.lieu						"référence"
+bourse.debut					"datetime"
+bourse.fin						"datetime"
+bourse.description			"string"
+bourse.apercu					"string"
 
 subvention						{OBJ}
-subvention.titre
-subvention.url
-subvention.lieu
-subvention.debut
-subvention.fin
-subvention.apercu
-subvention.description
+subvention.id					"référence"
+subvention.titre				"string"
+subvention.url					"URL"
+subvention.lieu				"référence"
+subvention.debut				"datetime"
+subvention.fin					"datetime"
+subvention.apercu				"string"
+subvention.description		"string"
 
 conference						{OBJ}
-conference.titre
-conference.url
-conference.lieu
-conference.debut
-conference.fin
-conference.apercu
-conference.description
+conference.id					"référence"
+conference.titre				"string"
+conference.url					"URL"
+conference.lieu				"référence"
+conference.debut				"datetime"
+conference.fin					"datetime"
+conference.apercu				"string"
+conference.description		"string"
 
 congres							{OBJ}
-congres.titre
-congres.url
-congres.lieu
-congres.debut
-congres.fin
-congres.apercu
-congres.description
+congres.id						"référence"
+congres.titre					"string"
+congres.url						"URL"
+congres.lieu					"référence"
+congres.debut					"datetime"
+congres.fin						"datetime"
+congres.apercu					"string"
+congres.description			"string"
 
 emploi							{OBJ}
-emploi.titre
-emploi.url
-emploi.lieu
-emploi.debut
-emploi.fin
-emploi.apercu
-emploi.description
+emploi.id						"référence"
+emploi.titre					"string"
+emploi.url						"URL"
+emploi.lieu						"référence"
+emploi.debut					"datetime"
+emploi.fin						"datetime"
+emploi.apercu					"string"
+emploi.description			"string"
 
 tache								{OBJ}
-tache.titre
-tache.url
-tache.lieu
-tache.debut
-tache.fin
-tache.apercu
-tache.description
+tache.id							"référence"
+tache.titre						"string"
+tache.url						"URL"
+tache.lieu						"référence"
+tache.debut						"datetime"
+tache.fin						"datetime"
+tache.apercu					"string"
+tache.description				"string"
 
 activite							{OBJ}
-activite.titre
-activite.url
-activite.lieu
-activite.debut
-activite.fin
-activite.apercu
-activite.description
+activite.id						"référence"
+activite.titre					"string"
+activite.url					"URL"
+activite.lieu					"référence"
+activite.debut					"datetime"
+activite.fin					"datetime"
+activite.apercu				"string"
+activite.description			"string"
 
 lancement						{OBJ}
-lancement.titre
-lancement.url
-lancement.lieu
-lancement.debut
-lancement.fin
-lancement.apercu
-lancement.description
+lancement.id					"référence"
+lancement.titre				"string"
+lancement.url					"URL"
+lancement.lieu					"référence"
+lancement.debut				"datetime"
+lancement.fin					"datetime"
+lancement.apercu				"string"
+lancement.description		"string"
+
+site								{OBJ}
+site.id							"référence"
+site.logo						{OBJ}
+site.logo.src					"URL"
+site.logo.href					"URL"
+site.logo.alt					"string"
+site.logo.tip					"string"
+site.membres					[items]
+site.groupes					[items]
+site.langues					["fr", "en", "es", "it", "ru", "ar"]
+site.langue						"fr"
+site.favicon					"/favicon.ico"
+site.robotstxt					"/robots.txt"
+site.description				"string"
+site.keywords					"string"
+site.title						"string"
+site.copyright					"© 2016 - Machina Mundi Multi Média Inc"
+
+site.meta.canonical							"http://example.com/"
+site.meta.canonical-URL 					"URL"
+site.meta.robots 								"/robots.txt"
+site.meta.robots.noindex					true
+site.meta.robots.noarchive					true
+site.meta.robots.notranslate				false
+site.meta.cookie								"userid=xyz; expires=Wednesday, 08-Aug-15 23:59:59 GMT;"
+site.meta.content-type						"text/html"
+site.meta.charset								"UTF-8"
+site.meta.shortcut-icon 					"/favicon.ico"
+site.meta.icon-16x16 						"/preview_16x16.png"
+site.meta.icon-32x32 						"/preview_32x32.png"
+site.meta.icon-96x96 						null
+site.meta.icon-192x192 						null
+site.meta.mask-icon 							null
+site.meta.news-keywords 					"items  ## for google"
+site.meta.original-source 					"valeur ## for google"
+site.meta.rating 								"Safe for kids"
+site.meta.content-language 				"Fr" (langcode)
+site.meta.hreflang							"Fr" (langcode)
+site.meta.copyright 							"© 2016 - Machina Mundi Multi Média Inc."
+site.meta.description 						"string"
+site.meta.generator 							"string"
+site.meta.keywords							"items"
+site.meta.product-availability 			"string"
+site.meta.product-category					"items"
+site.meta.product-condition 				"string"
+site.meta.product-expiration-time 		"datetime"
+site.meta.product-price-amount 			float
+site.meta.product-price-currency 		"string"
+site.meta.product-retailer 				"string"
+site.meta.publisher							"Machina Mundi Multi Média Inc."
+site.meta.author 								"string" ou "référence"
+site.meta.rights								"string"
+site.meta.title 								"string"
+
+site.meta.dc.accessRights					"string"		Information about who can access the resource or indication of its security status.
+site.meta.dc.alternative					"string"		Alternative name for the resource.
+site.meta.dc.audience						"string"		Entity for whom the resource is intended or useful.
+site.meta.dc.available						"string"		Date (often a range) that the resource became or will become available.
+site.meta.dc.conformsTo						"string"		An established standard to which the resource conforms.
+site.meta.dc.contributor					"string"		Entity responsible for making contributions to the resource.
+site.meta.dc.coverage						"string"		Spatial or temporal topic of resource, its spatial applicability, or jurisdiction.
+site.meta.dc.created							"string"		Date of creation of the resource.
+site.meta.dc.creator							"string"		Entity primarily responsible for making the resource.
+site.meta.dc.date								"string"		Point or period of time associated with an event in the lifecycle of the resource.
+site.meta.dc.dateAccepted					"string"		Date of acceptance of the resource. Ex: thesis, or article accepted by a journal
+site.meta.dc.dateCopyrighted				"string"		Date of copyright.
+site.meta.dc.dateSubmitted					"string"		Date of submission of resource. Ex: thesis or article submitted to a journal.
+site.meta.dc.description					"string"		Description may include: abstract, TOC, graphical, or free-text account of the resource.
+site.meta.dc.educationLevel				"string"		Entity for which resource is intended, in terms of progression in an educational context.
+site.meta.dc.extent							"string"		Size or duration of the resource.
+site.meta.dc.format							"string"		File format, physical medium, or dimensions of the resource.
+site.meta.dc.hasFormat						"string"		Related resource substantially same as pre-existing resource, in another format.
+site.meta.dc.hasPart							"string"		Related resource that is included either physically or logically in the resource.
+site.meta.dc.hasVersion						"string"		Related resource that is a version, edition, or adaptation of the resource.
+site.meta.dc.identifier						"string"		Unambiguous reference to the resource within a given context.
+site.meta.dc.instructionalMethod			"string"		Process, used to engender knowledge, attitudes and skills, that the resource aims to support.
+site.meta.dc.isFormatOf						"string"		Related resource that is substantially the same as the resource, but in another format.
+site.meta.dc.isPartOf						"string"		Related resource in which the resource is physically or logically included.
+site.meta.dc.isReferencedBy				"string"		Related resource that references, cites, or otherwise points to the resource.
+site.meta.dc.isReplacedBy					"string"		Related resource that supplants, displaces, or supersedes the resource.
+site.meta.dc.isRequiredBy					"string"		Related resource that requires the resource to support its function, delivery, or coherence.
+site.meta.dc.issued							"string"		Date of formal issuance (e.g., publication) of the resource. Autrement-dit : lancement
+site.meta.dc.isVersionOf					"string"		Related resource of which the resource is a version, edition, or adaptation.
+site.meta.dc.language						"string"		Language of the resource.
+site.meta.dc.license							"string"		Legal document giving official permission to do something with the resource.
+site.meta.dc.mediator						"string"		Entity that mediates access to this, and for whom it is intended or useful.
+site.meta.dc.modified						"string"		Date on which the resource was changed.
+site.meta.dc.provenance						"string"		Statement of any changes in ownership/custody of the resource since its creation.
+site.meta.dc.publisher						"string"		Entity responsible for making the resource available.
+site.meta.dc.references						"string"		Related resource referenced, cited, or otherwise pointed to by this resource.
+site.meta.dc.relation						"string"		Related resource.
+site.meta.dc.replaces						"string"		Related resource supplanted, displaced, or superseded by this resource.
+site.meta.dc.requires						"string"		Related resource required to support its function, delivery, or coherence.
+site.meta.dc.rights							"string"		Statement of property rights of the resource, incl. intellectual property rights.
+site.meta.dc.rightsHolder					"string"		Person or organization owning or managing rights over the resource.
+site.meta.dc.source							"string"		Related resource from which the resource is derived.
+site.meta.dc.spatial							"string"		Spatial characteristics of the resource.
+site.meta.dc.subject							"string"		Keywords, key phrases, classification codes; controlled vocabulary recommended.
+site.meta.dc.temporal						"string"		Temporal characteristics of the resource.
+site.meta.dc.title							"string"		Name given to the resource.
+site.meta.dc.type								"string"		Nature or genre of the resource.
