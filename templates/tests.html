@@ -21,19 +21,19 @@
 
 <%= partials.displayTable({ tableName: 'tableFavoris' }) %>
 
-<h2><a data-open="modalProposerAppel">Proposer un appel à communication</a></h2>
+<h2><a data-open='modalProposerAppel'>Proposer un appel à communication</a></h2>
 <%= partials.displayModal({ modalName: 'modalProposerAppel' }) %>
 
-<h2><a data-open="modalProposerBourse">Proposer une bourse</a></h2>
+<h2><a data-open='modalProposerBourse'>Proposer une bourse</a></h2>
 <%= partials.displayModal({ modalName: 'modalProposerBourse' }) %>
 
-<h2><a data-open="modalProposerNouveau">Proposer du nouveau</a></h2>
+<h2><a data-open='modalProposerNouveau'>Proposer du nouveau</a></h2>
 <%= partials.displayModal({ modalName: 'modalProposerNouveau' }) %>
 
-<h2><a data-open="modalProposerNouveau">Afficher un modal quelconque</a></h2>
+<h2><a data-open='modalProposerNouveau'>Afficher un modal quelconque</a></h2>
 <%= partials.displayModal({ modalName: 'modalDisponible' }) %>
 
-<h2><a data-open="modalContacterNous">Contactez-nous</a></h2>
+<h2><a data-open='modalContacterNous'>Contactez-nous</a></h2>
 <%= partials.displayModal({ modalName: 'modalContacterNous' }) %>
 
 <%= partials.displayTable({ tableName: 'tableMesPersonnes' }) %>
@@ -208,7 +208,7 @@ function open_tab(tab_id,panel) {
 <div class='row'>
   <div class='small-12 columns'>
     <!-- Horizontal TABS -->
-    <ul class='tabs' data-tabs id="page-tabs">
+    <ul class='tabs' data-tabs id='page-tabs'>
     <li class='tabs-title is-active'><a href="#compte" aria-selected='true'><span class='larger-text'>Compte</span></a></li>
     <li class='tabs-title'><a href="#mon-identite"><span class='larger-text'>Identité</span></a></li>
     <li class='tabs-title'><a href="#mes-preferences"><span class='larger-text'>Préférences</span></a></li>

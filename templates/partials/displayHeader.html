@@ -12,14 +12,14 @@ syntax: displayHeader headerName, otherParams
 
 partials.displayHeader({ headerName: 'logoChercher' })
 partials.displayHeader({ headerName: 'logoChercherFiltrer' })
-partials.displayHeader({ headerName: 'mmPageHeader', title: 'TITRE', usertype: 'membre' })
-partials.displayHeader({ headerName: 'mmSearchHeader', title: 'TITRE', usertype: 'membre' })
-partials.displayHeader({ headerName: 'titreSeulement', title: 'TITRE', soustitre: 'SOUSTITRE' })
+partials.displayHeader({ headerName: 'mmPageHeader', usertype: "membre", title: "TITRE" })
+partials.displayHeader({ headerName: 'mmSearchHeader', usertype: "membre", title: "TITRE" })
+partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre: "SOUSTITRE" })
 
 ############################################################### -->
 
-<% if (data.headerName === 'logoChercher') { %>
 <!-- Logo + Chercher + Enregistrer -->
+<% if (data.headerName === 'logoChercher') { %>
 <div class='row align-middle'>
   <div class='small-6 columns'>
     <a href="/fr/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a>
@@ -40,8 +40,8 @@ partials.displayHeader({ headerName: 'titreSeulement', title: 'TITRE', soustitre
 </div>
 <% } %>
 
-<% if (data.headerName === 'logoChercherFiltrer') { %>
 <!-- Logo + Chercher + Filtrer -->
+<% if (data.headerName === 'logoChercherFiltrer') { %>
 <div class='row align-middle'>
   <div class='small-6 columns'>
     <a href="/fr/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a>
@@ -96,9 +96,9 @@ partials.displayHeader({ headerName: 'titreSeulement', title: 'TITRE', soustitre
 </div>
 <% } %>
 
+<!-- PAGE HEADER -->
 <% if (data.headerName === 'mmPageHeader') { %>
 <!-- NB: contains vars: data.title and data.usertype -->
-<!-- PAGE HEADER -->
 <div class='row'>
   <!-- Left -->
   <div class='small-3 columns'>
@@ -127,9 +127,9 @@ partials.displayHeader({ headerName: 'titreSeulement', title: 'TITRE', soustitre
 </div>
 <% } %>
 
+<!-- SEARCH HEADER -->
 <% if (data.headerName === 'mmSearchHeader') { %>
 <!-- NB: contains vars: data.title and data.usertype -->
-<!-- SEARCH HEADER -->
 <div class='row'>
   <!-- Left -->
   <div class='small-3 columns'>
@@ -158,12 +158,13 @@ partials.displayHeader({ headerName: 'titreSeulement', title: 'TITRE', soustitre
 </div>
 <% } %>
 
+<!-- TITRE SEULEMENT -->
 <% if (data.headerName === 'titreSeulement') { %>
 <!-- NB: contains vars: data.title and data.soustitre -->
 <div class='row'>
   <div class='small-12 columns'>
     <div class='callout'>
-      <h3 class="page-main-title"><%- data.title %></h3>
+      <h3 class='page-main-title'><%- data.title %></h3>
       <p class='em text-center'><%- data.soustitre %></p>
     </div>
   </div>
