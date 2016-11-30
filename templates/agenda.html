@@ -1,423 +1,423 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang='en' dir='ltr'>
 
-<%= partials.mmhead({ title: 'PhdAdmin Agenda' }) %>
+<%= partials.mmhead({ title: "PhdAdmin Agenda" }) %>
 
 <body>
 
-<%= partials.liensPublics({ usertype: 'membre' }) %>
+<%= partials.liensPublics({ usertype: "membre" }) %>
 
 <%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
 <%= partials.displayHeader({ headerName: 'titreSeulement', title: "Agenda", soustitre: "Activités de phdAdmin" }) %>
 
-<div class="row">
-  <div class="small-12 columns">
+<div class='row'>
+  <div class='small-12 columns'>
 
     <!-- Horizontal TABS -->
-    <ul class="tabs" data-tabs id="page-tabs">
-      <li class="tabs-title"><a href="#appels-a-communication"><span class="tabs-size">Appels</span></a></li>
-      <li class="tabs-title is-active"><a href="#avis" aria-selected="true"><span class="tabs-size">Avis</span></a></li>
-      <li class="tabs-title"><a href="#conferences"><span class="tabs-size">Conf.</span></a></li>
-      <li class="tabs-title"><a href="#congres"><span class="tabs-size">Congrès</span></a></li>
-      <li class="tabs-title"><a href="#emplois"><span class="tabs-size">Emplois</span></a></li>
-      <li class="tabs-title"><a href="#etudes"><span class="tabs-size">Études</span></a></li>
-      <li class="tabs-title"><a href="#financement"><span class="tabs-size">Financement</span></a></li>
-      <li class="tabs-title"><a href="#lancements"><span class="tabs-size">Lancements</span></a></li>
-      <li class="tabs-title"><a href="#publications"><span class="tabs-size">Publications</span></a></li>
-      <li class="tabs-title"><a href="#quoi-faire"><span class="tabs-size">Quoi faire</span></a></li>
+    <ul class='tabs' data-tabs id="page-tabs">
+      <li class='tabs-title'><a href="#appels-a-communication"><span class='tabs-size'>Appels</span></a></li>
+      <li class='tabs-title is-active'><a href="#avis" aria-selected='true'><span class='tabs-size'>Avis</span></a></li>
+      <li class='tabs-title'><a href="#conferences"><span class='tabs-size'>Conf.</span></a></li>
+      <li class='tabs-title'><a href="#congres"><span class='tabs-size'>Congrès</span></a></li>
+      <li class='tabs-title'><a href="#emplois"><span class='tabs-size'>Emplois</span></a></li>
+      <li class='tabs-title'><a href="#etudes"><span class='tabs-size'>Études</span></a></li>
+      <li class='tabs-title'><a href="#financement"><span class='tabs-size'>Financement</span></a></li>
+      <li class='tabs-title'><a href="#lancements"><span class='tabs-size'>Lancements</span></a></li>
+      <li class='tabs-title'><a href="#publications"><span class='tabs-size'>Publications</span></a></li>
+      <li class='tabs-title'><a href="#quoi-faire"><span class='tabs-size'>Quoi faire</span></a></li>
     </ul>
 
-    <div class="tabs-content" data-tabs-content="page-tabs">
+    <div class='tabs-content' data-tabs-content="page-tabs">
 
-      <div class="tabs-panel is-active" id="avis">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel is-active' id="avis">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Avis</h4>
-              <div class="content">
+              <div class='content'>
               <p>Avis concernant ce qu'il y a de nouveau.<br><a data-open="modalProposerNouveau">Proposer du nouveau</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Avis #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Avis #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Avis #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Avis #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Avis #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Avis #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mes avis</h4>
-              <div class="content">
+              <div class='content'>
               <p>Avis qui m'intéressent.<br><a data-open="modalProposerNouveau">Proposer du nouveau</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Avis #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Avis #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Avis #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Avis #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><i class="fi-minus"></i></a> Avis #n</dt>
+              <dt><a href="#"><i class='fi-minus'></i></a> Avis #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="tabs-panel" id="appels-a-communication">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel' id="appels-a-communication">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
             <h4>Appels à communication</h4>
-              <div class="content">
+              <div class='content'>
               <p>Appels qui intéresseront phdAdmin.<br><a data-open="modalProposerAppel">Proposer un appel à communication</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Appel #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Appel #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Appel #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Appel #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Appel #n<n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Appel #n<n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
             <h4>Mes appels à communication</h4>
-              <div class="content">
+              <div class='content'>
               <p>Appels qui m'intéressent.<br><a data-open="modalProposerAppel">Proposer un appel à communication</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Appel #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Appel #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Appel #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Appel #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Appel #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Appel #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="tabs-panel" id="conferences">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel' id="conferences">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Conférences</h4>
-              <div class="content">
+              <div class='content'>
               <p>Conférences qui intéresseront phdAdmin.<br><a data-open="modalProposerConference">Proposer une conférence</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Conférence #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Conférence #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Conférence #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Conférence #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Conférence #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Conférence #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mes conférences</h4>
-              <div class="content">
+              <div class='content'>
               <p>Conférences qui m'intéressent.<br><a data-open="modalProposerConference">Proposer une conférence</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Conférence #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Conférence #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Conférence #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Conférence #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Conférence #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Conférence #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="tabs-panel" id="congres">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel' id="congres">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Congrès</h4>
-              <div class="content">
+              <div class='content'>
               <p>Congrès qui intéresseront phdAdmin.<br><a data-open="modalProposerCongres">Proposer un congrès</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Congrès #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Congrès #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Congrès #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Congrès #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Congrès #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Congrès #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mes congrès</h4>
-              <div class="content">
+              <div class='content'>
               <p>Congrès qui m'intéressent.<br><a data-open="modalProposerCongres">Proposer un congrès</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Congrès #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Congrès #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Congrès #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Congrès #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Congrès #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Congrès #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="tabs-panel" id="emplois">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel' id="emplois">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Emplois</h4>
-              <div class="content">
+              <div class='content'>
               <p>Emplois qui intéresseront phdAdmin.<br><a data-open="modalProposerEmploi">Proposer un emploi</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Emploi #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Emploi #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Emploi #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Emploi #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Emploi #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Emploi #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mes emplois</h4>
-              <div class="content">
+              <div class='content'>
               <p>Emplois qui m'intéressent.<br><a data-open="modalProposerEmploi">Proposer un emploi</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Emploi #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Emploi #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Emploi #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Emploi #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Emploi #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Emploi #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="tabs-panel" id="etudes">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel' id="etudes">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Études</h4>
-              <div class="content">
+              <div class='content'>
               <p>Tâches en rapport aux études.<br><a data-open="modalProposerTache">Proposer une tâche</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Tâche #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Tâche #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Tâche #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Tâche #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Tâche #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Tâche #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mes études</h4>
-              <div class="content">
+              <div class='content'>
               <p>Tâches qui m'intéressent.<br><a data-open="modalProposerTache">Proposer une tâche</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Tâche #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Tâche #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Tâche #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Tâche #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Tâche #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Tâche #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-    <div class="tabs-panel" id="financement">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+    <div class='tabs-panel' id="financement">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Financement</h4>
-              <div class="content">
+              <div class='content'>
               <p>Bourses/subventions qui intéresseront phdAdmin.
                 <br>Proposer une <a data-open="modalProposerBourse">bourse</a> ou une <a data-open="modalProposerSubvention">subvention</a>
               </p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Bourse #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Bourse #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Bourse #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Bourse #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Bourse #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Bourse #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mon financement</h4>
-              <div class="content">
+              <div class='content'>
               <p>Bourses/subventions qui m'intéressent.
                 <br>Proposer une <a data-open="modalProposerBourse">bourse</a> ou une <a data-open="modalProposerSubvention">subvention</a>
               </p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Bourse #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Bourse #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Bourse #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Bourse #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Bourse #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Bourse #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="tabs-panel" id="lancements">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel' id="lancements">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Lancements</h4>
-              <div class="content">
+              <div class='content'>
               <p>Lancements [de livres] qui intéresseront phdAdmin.<br><a data-open="modalProposerLancement">Proposer un lancement</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Lancement #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Lancement #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Lancement #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Lancement #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Lancement #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Lancement #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mes lancements</h4>
-              <div class="content">
+              <div class='content'>
               <p>Lancements [de livres] qui m'intéressent.<br><a data-open="modalProposerLancement">Proposer un lancement</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Lancement #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Lancement #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Lancement #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Lancement #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Lancement #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Lancement #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="tabs-panel" id="publications">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel' id="publications">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Publications</h4>
-              <div class="content">
+              <div class='content'>
               <p>Les publications de phdAdmin.<br><a data-open="modalProposerPublication">Proposez un publication</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Publication #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Publication #2</dt>
               <dd><p>data = titre + URL + auteur(s) + auteur(s) + description</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Publication #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Publication #4</dt>
               <dd><p>data = titre + URL + auteur(s) + auteur(s) + description</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Publication #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Publication #n</dt>
               <dd><p>data = titre + URL + auteur(s) + auteur(s) + description</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mes publications</h4>
-              <div class="content">
+              <div class='content'>
               <p>Publications que j'ai publiées et/ou qui m'intéressent.<br><a data-open="modalProposerPublication">Proposez un publication</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Publication #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Publication #1</dt>
               <dd><p>data = titre + URL + auteur(s) + auteur(s) + description</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Publication #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Publication #3</dt>
               <dd><p>data = titre + URL + auteur(s) + auteur(s) + description</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Publication #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Publication #n</dt>
               <dd><p>data = titre + URL + auteur(s) + auteur(s) + description</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="tabs-panel" id="quoi-faire">
-        <div class="row">
-          <div class="small-6 columns">
-            <div class="">
+      <div class='tabs-panel' id="quoi-faire">
+        <div class='row'>
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Quoi faire</h4>
-              <div class="content">
+              <div class='content'>
               <p>Activités qui intéresseront phdAdmin.<br><a data-open="modalProposerActivite">Proposer une activité</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Activité #1</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Activité #1</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Activité #3</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Activité #3</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-plus"></i></a></span> Activité #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-plus'></i></a></span> Activité #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
-          <div class="small-6 columns">
-            <div class="">
+          <div class='small-6 columns'>
+            <div class=''>
               <h4>Mes activités</h4>
-              <div class="content">
+              <div class='content'>
               <p>Activités qui m'intéressent.<br><a data-open="modalProposerActivite">Proposer une activité</a></p>
               <dl>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Activité #2</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Activité #2</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Activité #4</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Activité #4</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
-              <dt><a href="#"><span class="tabs-size"><i class="fi-minus"></i></a></span> Activité #n</dt>
+              <dt><a href="#"><span class='tabs-size'><i class='fi-minus'></i></a></span> Activité #n</dt>
               <dd><p>data = lieu + début + fin + description + URL</p></dd>
               </dl>
-              <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+              <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
               </div>
             </div>
           </div>
@@ -428,7 +428,7 @@
   </div>
 </div>
 
-<%= partials.footer({ pagination: false, lastPage: '0', username: 'Alain Farmer' }) %>
+<%= partials.footer({ pagination: false, lastPage: "0", username: "Alain Farmer" }) %>
 
 <%= partials.displayModal({ modalName: 'modalProposerActivite' }) %>
 <%= partials.displayModal({ modalName: 'modalProposerAppel' }) %>

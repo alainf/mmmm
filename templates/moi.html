@@ -1,43 +1,41 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang='en' dir='ltr'>
 
-<%= partials.mmhead({ title: 'PhdAdmin Moi' }) %>
+<%= partials.mmhead({ title: "PhdAdmin Moi" }) %>
 
 <body>
 
-<%= partials.liensPublics({ usertype: 'membre' }) %>
+<%= partials.liensPublics({ usertype: "membre" }) %>
 
 <%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
-<%= partials.displayHeader({ headerName: 'titreSeulement', title: 'Moi', soustitre: 'Informations qui me concernent' }) %>
+<%= partials.displayHeader({ headerName: 'titreSeulement', title: "Moi", soustitre: "Informations qui me concernent" }) %>
 
-<div class="row">
+<div class='row'>
 
-  <!-- LEFT -->
-  <div class="small-3 columns">
-  <ul class="tabs vertical" data-tabs id="tabsMoi">
-    <li class="tabs-title is-active"><a href="#compte" aria-selected="true"><span class="tabs-size">Compte</span></a></li>
-    <li class="tabs-title"><a href="#mon-identite"><span class="tabs-size">Identité</span></a></li>
-    <li class="tabs-title"><a href="#mes-preferences"><span class="tabs-size">Préférences</span></a></li>
-    <li class="tabs-title"><a href="#mes-favoris"><span class="tabs-size">Favoris</span></a></li>
-    <li class="tabs-title"><a href="#mes-notifications"><span class="tabs-size">M'aviser</span></a></li>
-    <li class="tabs-title"><a href="#ma-participation"><span class="tabs-size">Participer</span></a></li>
-    <li class="tabs-title"><a href="#mon-historique"><span class="tabs-size">Historique</span></a></li>
-    <li class="tabs-title"><a href="#mon-agenda"><span class="tabs-size">Agenda</span></a></li>
-    <li class="tabs-title"><a href="#mon-calendrier"><span class="tabs-size">Calendrier</span></a></li>
-    <li class="tabs-title"><a href="#mes-meteos"><span class="tabs-size">Météos</span></a></li>
+  <div class='small-3 columns'>
+  <ul class='tabs vertical' data-tabs id="tabsMoi">
+    <li class='tabs-title is-active'><a href="#compte" aria-selected='true'><span class='tabs-size'>Compte</span></a></li>
+    <li class='tabs-title'><a href="#mon-identite"><span class='tabs-size'>Identité</span></a></li>
+    <li class='tabs-title'><a href="#mes-preferences"><span class='tabs-size'>Préférences</span></a></li>
+    <li class='tabs-title'><a href="#mes-favoris"><span class='tabs-size'>Favoris</span></a></li>
+    <li class='tabs-title'><a href="#mes-notifications"><span class='tabs-size'>M'aviser</span></a></li>
+    <li class='tabs-title'><a href="#ma-participation"><span class='tabs-size'>Participer</span></a></li>
+    <li class='tabs-title'><a href="#mon-historique"><span class='tabs-size'>Historique</span></a></li>
+    <li class='tabs-title'><a href="#mon-agenda"><span class='tabs-size'>Agenda</span></a></li>
+    <li class='tabs-title'><a href="#mon-calendrier"><span class='tabs-size'>Calendrier</span></a></li>
+    <li class='tabs-title'><a href="#mes-meteos"><span class='tabs-size'>Météos</span></a></li>
   </ul>
   </div>
 
-  <!-- RIGHT -->
-  <div class="small-9 columns">
+  <div class='small-9 columns'>
   <div>
 
-  <div class="tabs-content" data-tabs-content="tabsMoi">
-    <div class="tabs-panel is-active" id="compte">
-      <div class="">
+  <div class='tabs-content' data-tabs-content="tabsMoi">
+    <div class='tabs-panel is-active' id="compte">
+      <div class=''>
       <h4>Compte</h4>
-      <div class="content">
+      <div class='content'>
         <dl>
         <dt>Type de compte</dt>
         <dd><p>Platine</p></dd>
@@ -51,23 +49,23 @@
         <dd><p>2016-12-01</p></dd>
         <dt>Paiement</dt>
         <dd>
-          <div class="row">
-          <fieldset class="small-12 columns">
-            <input type="radio" name="paiement" value="carte de crédit" id="carte"><label for="carte">Carte de crédit</label>
-            <input type="radio" name="paiement" value="paypal" id="paypal"><label for="paypal">Paypal</label>
-            <input type="radio" name="paiement" value="bitcoin" id="bitcoin"><label for="bitcoin">Bitcoin</label>
-            <input type="radio" name="paiement" value="autre" id="autre"><label for="autre">Autre ...</label>
+          <div class='row'>
+          <fieldset class='small-12 columns'>
+            <input type='radio' name='paiement' value="carte de crédit" id="carte"><label for="carte">Carte de crédit</label>
+            <input type='radio' name='paiement' value="paypal" id="paypal"><label for="paypal">Paypal</label>
+            <input type='radio' name='paiement' value="bitcoin" id="bitcoin"><label for="bitcoin">Bitcoin</label>
+            <input type='radio' name='paiement' value="autre" id="autre"><label for="autre">Autre ...</label>
           </fieldset>
           </div>
         </dd>
         <dt></dt>
         <dd>
-          <div class="row">
-          <fieldset class="small-12 columns">
+          <div class='row'>
+          <fieldset class='small-12 columns'>
             <p>
-            <input class="button" name="payer" value="Payer dès maintenant ...">
+            <input class='button' name='payer' value="Payer dès maintenant ...">
             <span>&nbsp;</span>
-            <input class="button" type="submit" name="donate" value="&nbsp;&nbsp;Faire un don ...&nbsp;&nbsp;">
+            <input class='button' type='submit' name='donate' value="&nbsp;&nbsp;Faire un don ...&nbsp;&nbsp;">
             </p>
           </fieldset>
           </div>
@@ -77,65 +75,65 @@
     </div>
     </div>
 
-    <div class="tabs-panel" id="mon-identite">
-    <div class="">
+    <div class='tabs-panel' id="mon-identite">
+    <div class=''>
       <h4>Identité</h4>
       <form>
-      <div class="row">
-        <div class="small-5 columns">
-         <div class="">
+      <div class='row'>
+        <div class='small-5 columns'>
+         <div class=''>
           <br>
-          <p class="text-center underlined">Remplir obligatoirement</p>
+          <p class='text-center underlined'>Remplir obligatoirement</p>
           <dl>
           <dt>Nom de famille</dt>
-          <dd><p><input type="text" name="nomFamille" value="Farmer"></p></dd>
+          <dd><p><input type='text' name="nomFamille" value="Farmer"></p></dd>
           <dt>Prénom</dt>
-          <dd><p><input type="text" name="prenom" value="Alain"></p></dd>
+          <dd><p><input type='text' name="prenom" value="Alain"></p></dd>
           <dt>Utilisateur</dt>
-          <dd><p><input type="text" name="username" value="alainf"></p></dd>
+          <dd><p><input type='text' name="username" value="alainf"></p></dd>
           <dt>Mot de passe</dt>
-          <dd><p><input type="password" name="password" value="************"></p></dd>
+          <dd><p><input type='password' name="password" value="************"></p></dd>
           </dl>
          </div>
         </div>
-        <div class="small-7 columns">
-         <div class="">
+        <div class='small-7 columns'>
+         <div class=''>
           <br>
-          <p class="text-center underlined">Remplir facultativement</p>
+          <p class='text-center underlined'>Remplir facultativement</p>
           <dl>
           <dt>Courriel</dt>
           <dd>
-            <div class="input-group forIdentity">
-              <input class="input-group-field" type="text" name="courriel" value="alain_farmer@yahoo.com">
-              <a title="Partager cette information ?" class="input-group-button success button">
-                <span class="tabs-size"><i class="fi-check"></i></span>
+            <div class='input-group forIdentity'>
+              <input class='input-group-field' type='text' name="courriel" value="alain_farmer@yahoo.com">
+              <a title="Partager cette information ?" class='input-group-button success button'>
+                <span class='tabs-size'><i class='fi-check'></i></span>
               </a>
             </div>
           </dd>
           <dt>Facebook</dt>
           <dd>
-            <div class="input-group forIdentity">
-              <input class="input-group-field" type="url" name="facebook" value="https://www.facebook.com/alain.farmer">
-              <a title="Partager cette information ?" class="input-group-button success button">
-                <span class="tabs-size"><i class="fi-check"></i></span>
+            <div class='input-group forIdentity'>
+              <input class='input-group-field' type='url' name="facebook" value="https://www.facebook.com/alain.farmer">
+              <a title="Partager cette information ?" class='input-group-button success button'>
+                <span class='tabs-size'><i class='fi-check'></i></span>
               </a>
             </div>
           </dd>
           <dt>Code postal</dt>
           <dd>
-            <div class="input-group forIdentity">
-              <input class="input-group-field" type="text" name="geolocalisation" value="H4G 1H7">
-              <a title="Partager cette information ?" class="input-group-button success button">
-                <span class="tabs-size"><i class="fi-check"></i></span>
+            <div class='input-group forIdentity'>
+              <input class='input-group-field' type='text' name="geolocalisation" value="H4G 1H7">
+              <a title="Partager cette information ?" class='input-group-button success button'>
+                <span class='tabs-size'><i class='fi-check'></i></span>
               </a>
             </div>
           </dd>
           <dt>Téléphone</dt>
           <dd>
-            <div class="input-group forIdentity">
-              <input class="input-group-field" type="text" name="telephone" value="514-710-1752">
-              <a title="Partager cette information ?" class="input-group-button alert button">
-                <span class="tabs-size"><i class="fi-lock"></i></span>
+            <div class='input-group forIdentity'>
+              <input class='input-group-field' type='text' name="telephone" value="514-710-1752">
+              <a title="Partager cette information ?" class='input-group-button alert button'>
+                <span class='tabs-size'><i class='fi-lock'></i></span>
               </a>
             </div>
           </dd>
@@ -144,45 +142,45 @@
       </div>
       </div>
       </form>
-      <p class="strong larger-text text-left">&nbsp;<a href="/fr/profil-moi">Consulter mon profil public</a></p>
+      <p class='strong larger-text text-left'>&nbsp;<a href="/fr/profil-moi">Consulter mon profil public</a></p>
     </div>
     </div>
 
-    <div class="tabs-panel" id="mes-preferences">
-    <div class="">
+    <div class='tabs-panel' id="mes-preferences">
+    <div class=''>
       <h4>Préférences</h4>
       <!-- photo -->
-      <div class="row" id="form-photo">
-        <div class="small-6 columns">
-          <div class="">
-            <p class="strong">Ma photo</p>
+      <div class='row' id="form-photo">
+        <div class='small-6 columns'>
+          <div class=''>
+            <p class='strong'>Ma photo</p>
             <p>Photo qui accompagne mes contributions.</p>
             <form>
-              <label for="fileUpload" class="button">Téléverser image ...</label>
-              <input type="file" id="fileUpload" class="show-for-sr">
+              <label for='fileUpload' class='button'>Téléverser image ...</label>
+              <input type='file' id='fileUpload' class='show-for-sr'>
             </form>
-            <p class="em text-center">Veuillez téléverser une image d'une taille d'environ 200 pixels par 200 pixels.</p>
+            <p class='em text-center'>Veuillez téléverser une image d'une taille d'environ 200 pixels par 200 pixels.</p>
           </div>
         </div>
-        <div class="small-6 columns">
-          <div class="">
-            <p class="text-center"><img src="/img/membres/me.jpg" class="mmthumb" alt="Alain"></p>
+        <div class='small-6 columns'>
+          <div class=''>
+            <p class='text-center'><img src="/img/membres/me.jpg" class='mmthumb' alt="Alain"></p>
           </div>
         </div>
       </div>
       <!-- informations -->
-      <div class="content">
+      <div class='content'>
         <dl>
-        <dt>Lieux <a class="icon" data-toggle="ajouter-lieu-dropdown" title="Ajouter un lieu"><i class="fi-plus"></i></a></dt>
+        <dt>Lieux <a class='icon' data-toggle="ajouter-lieu-dropdown" title="Ajouter un lieu"><i class='fi-plus'></i></a></dt>
         <dd><p>Montréal (Québec), Québec (Québec), Paris (France)</p></dd>
-        <dt>Langues <a class="icon" data-toggle="ajouter-langue-dropdown" title="Ajouter une langue"><i class="fi-plus"></i></a></dt>
+        <dt>Langues <a class='icon' data-toggle="ajouter-langue-dropdown" title="Ajouter une langue"><i class='fi-plus'></i></a></dt>
         <dd><p>Français, Anglais</p></dd>
         <dt>Traduire avec Google Translate</dt>
         <dd>
           <form>
-            <input type="radio" name="traduire" value="Non" id="Non"><label for="Non">Non</label>
-            <input type="radio" name="traduire" value="Oui" id="Oui" checked><label for="Oui">Oui</label>
-            <input type="checkbox" id="aviser" checked><label for="aviser">M'aviser lorsqu'il s'agit d'une traduction</label>
+            <input type='radio' name="traduire" value="Non" id="Non"><label for="Non">Non</label>
+            <input type='radio' name="traduire" value="Oui" id="Oui" checked><label for="Oui">Oui</label>
+            <input type='checkbox' id="aviser" checked><label for="aviser">M'aviser lorsqu'il s'agit d'une traduction</label>
           </form>
         </dd>
         </dl>
@@ -191,11 +189,11 @@
     </div>
     </div>
 
-    <div class="tabs-panel" id="mes-favoris">
-    <div class="">
+    <div class='tabs-panel' id="mes-favoris">
+    <div class=''>
       <h4>Favoris</h4>
       <p>Favoris seront privilégiés lors de l'affichage des informations.
-      <br>Ils sont spécifiés en contexte, en cliquant sur <i class="fi-star"></i> .
+      <br>Ils sont spécifiés en contexte, en cliquant sur <i class='fi-star'></i> .
       <br>Voir aussi la page <a href="/fr/favoris">Favoris</a> pour les consulter par onglet.</p>
       <h5>Affichage</h5>
       <select id="trier-favoris">
@@ -221,24 +219,24 @@
         <option value="filtrer-favoris-par-activités">Afficher que les Activités</option>
         <option value="filtrer-favoris-par-rendez-vous">Afficher que les Rendez-vous</option>
       </select>
-      <div class="row">
-        <div class="input-group forFilter">
-          <span class="input-group-label">Filtrer :</span>
-          <input class="input-group-field" type="text" name="filtrerMesFavoris" placeholder="Autocomplete">
+      <div class='row'>
+        <div class='input-group forFilter'>
+          <span class='input-group-label'>Filtrer :</span>
+          <input class='input-group-field' type='text' name="filtrerMesFavoris" placeholder="Autocomplete">
         </div>
       </div>
       <h4>Mes favoris</h4>
-      <div class="content">
+      <div class='content'>
         <p><%= partials.displayTable({ tableName: 'tableFavoris' }) %></p>
-        <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+        <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
       </div>
     </div>
   </div>
 
-  <div class="tabs-panel" id="mes-notifications">
-    <div class="">
+  <div class='tabs-panel' id="mes-notifications">
+    <div class=''>
       <h4>M'aviser</h4>
-      <p>Notifications sont spécifiées en contexte, en cliquant sur <i class="fi-rss"></i> .<br></p>
+      <p>Notifications sont spécifiées en contexte, en cliquant sur <i class='fi-rss'></i> .<br></p>
       <h5>Préférences</h5>
       <select id="notifications">
         <option value="notifications-oui" selected>Notifications sont souhaitées</option>
@@ -268,79 +266,79 @@
         <option value="filtrer-avis-par-personne">Afficher que les personnes</option>
         <option value="filtrer-avis-par-ressource">Afficher que les ressources</option>
       </select>
-      <div class="row">
-        <div class="input-group forFilter">
-          <span class="input-group-label">Filtrer :</span>
-          <input class="input-group-field" type="text" name="filtrerMesNotifications" placeholder="Autocomplete">
+      <div class='row'>
+        <div class='input-group forFilter'>
+          <span class='input-group-label'>Filtrer :</span>
+          <input class='input-group-field' type='text' name="filtrerMesNotifications" placeholder="Autocomplete">
         </div>
       </div>
-      <div class="content">
+      <div class='content'>
         <h5>Ressources et termes concernés par les notifications</h5>
         <%= partials.displayTable({ tableName: 'tableNotifications' }) %>
-        <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+        <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
       </div>
     </div>
   </div>
 
-    <div class="tabs-panel" id="ma-participation">
-    <div class="">
+    <div class='tabs-panel' id="ma-participation">
+    <div class=''>
       <h4>Participer</h4>
       <br>
-      <div class="row">
-         <div class="small-7 columns">
-          <div class="">
-            <span>Afficher mon <span class="em">nom</span> dans le site ?</span>
-            <div class="switch">
-              <input class="switch-input" type="checkbox" id="afficherMonNom" name="afficherMonNom">
-              <label class="switch-paddle" for="afficherMonNom">
-                <span class="switch-active" aria-hidden="true">&nbsp;&nbsp;<i class="fi-lock"></i></span>
-                <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
+      <div class='row'>
+         <div class='small-7 columns'>
+          <div class=''>
+            <span>Afficher mon <span class='em'>nom</span> dans le site ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="afficherMonNom" name="afficherMonNom">
+              <label class='switch-paddle' for="afficherMonNom">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
               </label>
             </div>
-            <span>Afficher ma <span class="em">photo</span> dans le site ?</span>
-            <div class="switch">
-              <input class="switch-input" type="checkbox" id="afficherMaPhoto" name="afficherMaPhoto">
-              <label class="switch-paddle" for="afficherMaPhoto">
-                <span class="switch-active" aria-hidden="true">&nbsp;&nbsp;<i class="fi-lock"></i></span>
-                <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
+            <span>Afficher ma <span class='em'>photo</span> dans le site ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="afficherMaPhoto" name="afficherMaPhoto">
+              <label class='switch-paddle' for="afficherMaPhoto">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
               </label>
             </div>
-            <span>Membres me contacter <span class="em">directement</span> ?</span>
-            <div class="switch">
-              <input class="switch-input" type="checkbox" id="meContacterDirectement" name="meContacterDirectement">
-              <label class="switch-paddle" for="meContacterDirectement">
-                <span class="switch-active" aria-hidden="true">&nbsp;&nbsp;<i class="fi-lock"></i></span>
-                <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
+            <span>Membres me contacter <span class='em'>directement</span> ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="meContacterDirectement" name="meContacterDirectement">
+              <label class='switch-paddle' for="meContacterDirectement">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
               </label>
             </div>
-            <span>Partager mes <span class="em">favoris</span> avec mes <span class="underlined">pairs</span> ?</span>
-            <div class="switch">
-              <input class="switch-input" type="checkbox" id="partagerFavorisAvecPairs" name="partagerFavorisAvecPairs">
-              <label class="switch-paddle" for="partagerFavorisAvecPairs">
-                <span class="switch-active" aria-hidden="true">&nbsp;&nbsp;<i class="fi-lock"></i></span>
-                <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
+            <span>Partager mes <span class='em'>favoris</span> avec mes <span class="underlined">pairs</span> ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="partagerFavorisAvecPairs" name="partagerFavorisAvecPairs">
+              <label class='switch-paddle' for="partagerFavorisAvecPairs">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
               </label>
             </div>
-            <span>Partager mon <span class="em">agenda</span> avec mes <span class="underlined">pairs</span> ?</span>
-            <div class="switch">
-              <input class="switch-input" type="checkbox" id="partagerMoiAvecPairs" name="partagerMoiAvecPairs">
-              <label class="switch-paddle" for="partagerMoiAvecPairs">
-                <span class="switch-active" aria-hidden="true">&nbsp;&nbsp;<i class="fi-lock"></i></span>
-                <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
+            <span>Partager mon <span class='em'>agenda</span> avec mes <span class="underlined">pairs</span> ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="partagerMoiAvecPairs" name="partagerMoiAvecPairs">
+              <label class='switch-paddle' for="partagerMoiAvecPairs">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
               </label>
             </div>
-            <span>Partager mon <span class="em">calendrier</span> avec mes <span class="underlined">pairs</span> ?</span>
-            <div class="switch">
-              <input class="switch-input" type="checkbox" id="partagerCalendrierAvecPairs" name="partagerCalendrierAvecPairs">
-              <label class="switch-paddle" for="partagerCalendrierAvecPairs">
-                <span class="switch-active" aria-hidden="true">&nbsp;&nbsp;<i class="fi-lock"></i></span>
-                <span class="switch-inactive" aria-hidden="true"><i class="fi-check"></i></span>
+            <span>Partager mon <span class='em'>calendrier</span> avec mes <span class="underlined">pairs</span> ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="partagerCalendrierAvecPairs" name="partagerCalendrierAvecPairs">
+              <label class='switch-paddle' for="partagerCalendrierAvecPairs">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
               </label>
             </div>
           </div>
          </div>
-        <div class="small-5 columns">
-          <div class="">
+        <div class='small-5 columns'>
+          <div class=''>
             <dl>
             <dt>Participant depuis:</dt>
             <dd>2008-01-01<br><br></dd>
@@ -359,8 +357,8 @@
     </div>
     </div>
 
-    <div class="tabs-panel" id="mon-historique">
-    <div class="">
+    <div class='tabs-panel' id="mon-historique">
+    <div class=''>
       <h4>Historique</h4>
       <p>Historique de ma participation, de toutes mes interactions.</p>
       <h5>Affichage</h5>
@@ -377,41 +375,41 @@
         <option value="filtrer-historique-recherches">Afficher que les Recherches</option>
         <option value="filtrer-historique-suggestions">Afficher que les Suggestions</option>
       </select>
-      <div class="row">
-        <div class="input-group forFilter">
-          <span class="input-group-label">Filtrer :</span>
-          <input class="input-group-field" type="text" name="filtrerMesInteractions" placeholder="Autocomplete">
+      <div class='row'>
+        <div class='input-group forFilter'>
+          <span class='input-group-label'>Filtrer :</span>
+          <input class='input-group-field' type='text' name="filtrerMesInteractions" placeholder="Autocomplete">
         </div>
       </div>
       <h4>Mes interactions</h4>
-      <div class="content">
+      <div class='content'>
         <p><%= partials.displayTable({ tableName: 'tableMesInteractions' }) %></p>
-        <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+        <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
       </div>
     </div>
     </div>
 
-    <div class="tabs-panel" id="mon-agenda">
-    <div class="">
+    <div class='tabs-panel' id="mon-agenda">
+    <div class=''>
       <h4>Agenda</h4>
-      <div class="row">
-        <div class="small-6 columns">
-          <div class="">
+      <div class='row'>
+        <div class='small-6 columns'>
+          <div class=''>
             <h5>Légende</h5>
             <p>
-            <span title="U" class="success badge">U</span> Tâches ajoutées par l'<span class="strong">utilisateur</span><br>
-            <span title="G" class="warning badge">G</span> Tâches héritées de ses <span class="strong">groupes</span><br>
-            <span title="S" class="alert badge">S</span> Tâches ajoutées par le <span class="strong">système</span><br>
+            <span title="U" class='success badge'>U</span> Tâches ajoutées par l'<span class='strong'>utilisateur</span><br>
+            <span title="G" class='warning badge'>G</span> Tâches héritées de ses <span class='strong'>groupes</span><br>
+            <span title="S" class='alert badge'>S</span> Tâches ajoutées par le <span class='strong'>système</span><br>
             </p>
           </div>
         </div>
-        <div class="small-6 columns">
+        <div class='small-6 columns'>
           <h5>Fonctions</h5>
-          <div class="content">
+          <div class='content'>
             <ul>
-              <li><span class="strong"><a data-open="modalAjouterTache">Ajouter une tâche</a></span><br></li>
-              <li><span class="strong">Modifier</span> une tâche<br></li>
-              <li><span class="strong">Retirer</span> une tâche<br></li>
+              <li><span class='strong'><a data-open="modalAjouterTache">Ajouter une tâche</a></span><br></li>
+              <li><span class='strong'>Modifier</span> une tâche<br></li>
+              <li><span class='strong'>Retirer</span> une tâche<br></li>
             </ul>
           </div>
         </div>
@@ -430,66 +428,66 @@
         <option value="filtrer-taches-de-type-G">Afficher que les tâches héritées de ses groupes</option>
         <option value="filtrer-taches-de-type-S">Afficher que les tâches ajoutées par le système</option>
       </select>
-      <div class="row">
-        <div class="input-group forFilter">
-          <span class="input-group-label">Filtrer :</span>
-          <input class="input-group-field" type="text" name="filtrerMesTaches" placeholder="Autocomplete">
+      <div class='row'>
+        <div class='input-group forFilter'>
+          <span class='input-group-label'>Filtrer :</span>
+          <input class='input-group-field' type='text' name="filtrerMesTaches" placeholder="Autocomplete">
         </div>
       </div>
       <h4>Mes tâches</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableTaches' }) %>
-        <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+        <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
       </div>
     </div>
     </div>
 
-    <div class="tabs-panel" id="mon-calendrier">
-    <div class="">
+    <div class='tabs-panel' id="mon-calendrier">
+    <div class=''>
       <h4>Calendrier</h4>
-      <div class="content">
+      <div class='content'>
         <p>
-        <span title="A" class="success badge">A</span> Activités choisies parmi <span class="strong">Agenda public</span><br>
-        <span title="T" class="secondary badge">T</span> Tâches de l'agenda de l'<span class="strong">utilisateur</span><br>
-        <span title="U" class="badge">U</span> Activités ajoutées par l'<span class="strong">utilisateur</span><br>
-        <span title="G" class="warning badge">G</span> Activités héritées de ses <span class="strong">groupes</span><br>
-        <span title="S" class="alert badge">S</span> Activités ajoutées par le <span class="strong">système</span><br>
+        <span title="A" class='success badge'>A</span> Activités choisies parmi <span class='strong'>Agenda public</span><br>
+        <span title="T" class='secondary badge'>T</span> Tâches de l'agenda de l'<span class='strong'>utilisateur</span><br>
+        <span title="U" class='badge'>U</span> Activités ajoutées par l'<span class='strong'>utilisateur</span><br>
+        <span title="G" class='warning badge'>G</span> Activités héritées de ses <span class='strong'>groupes</span><br>
+        <span title="S" class='alert badge'>S</span> Activités ajoutées par le <span class='strong'>système</span><br>
         </p>
-        <p class="strong"><a data-open="modalAjouterActivite">Ajouter une activité</a></p>
+        <p class='strong'><a data-open="modalAjouterActivite">Ajouter une activité</a></p>
         <!-- <img src="/img/placeholders/calendrier.png" alt="Agenda" style="height: 80%;"> -->
         <%= partials.calendrier2016() %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
     </div>
 
-    <div class="tabs-panel" id="mes-meteos">
-    <div class="">
+    <div class='tabs-panel' id="mes-meteos">
+    <div class=''>
       <h4>Météos</h4>
-      <div><p>Météo des lieux que vous avez choisis dans <a href="#mes-preferences"><span class="tabs-size">Préférences</span></a>.</p></div>
-      <div class="row">
+      <div><p>Météo des lieux que vous avez choisis dans <a href="#mes-preferences"><span class='tabs-size'>Préférences</span></a>.</p></div>
+      <div class='row'>
         <form>
-        <div class="small-4 columns">
-          <div class="text-center">
+        <div class='small-4 columns'>
+          <div class='text-center'>
             <h5>Montréal (Québec)</h5>
             <a href="#meteo-1"><img src="/img/placeholders/meteo.png" alt="Météo du lieu #1"></a>
           </div>
         </div>
-        <div class="small-4 columns">
-          <div class="text-center">
+        <div class='small-4 columns'>
+          <div class='text-center'>
             <h5>Québec (Québec)</h5>
             <a href="#meteo-2"><img src="/img/placeholders/meteo.png" alt="Météo du lieu #2"></a>
           </div>
         </div>
-        <div class="small-4 columns">
-          <div class="text-center">
+        <div class='small-4 columns'>
+          <div class='text-center'>
             <h5>Paris (France)</h5>
             <a href="#meteo-3"><img src="/img/placeholders/meteo.png" alt="Météo du lieu #3"></a>
           </div>
         </div>
         </form>
       </div>
-      <div class="content">
+      <div class='content'>
         <br><p>&nbsp;</p>
       </div>
     </div>
@@ -501,7 +499,7 @@
  
 </div>
 
-<%= partials.footer({ pagination: false, lastPage: '0', username: 'Alain Farmer' }) %>
+<%= partials.footer({ pagination: false, lastPage: "0", username: "Alain Farmer" }) %>
 
 <%= partials.displayModal({ modalName: 'modalAjouterTache' }) %>
 

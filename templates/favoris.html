@@ -1,186 +1,183 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang='en' dir='ltr'>
 
-<%= partials.mmhead({ title: 'PhdAdmin Favoris' }) %>
+<%= partials.mmhead({ title: "PhdAdmin Favoris" }) %>
 
 <body>
 
-<%= partials.liensPublics({ usertype: 'membre' }) %>
+<%= partials.liensPublics({ usertype: "membre" }) %>
 
 <%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
 <%= partials.displayHeader({ headerName: 'titreSeulement', title: "Favoris", soustitre: "Répertoire des favoris que j'ai ajoutés contextuellement" }) %>
 
-<div class="row">
+<div class='row'>
 
-  <!-- LEFT -->
-  <div class="small-3 columns">
-  <ul class="tabs vertical" data-tabs id="compte">
-    <li class="tabs-title"><a href="#activites"><span class="tabs-size">Activités</span></a></li>
-    <li class="tabs-title"><a href="#appels"><span class="tabs-size">Appels à comm.</span></a></li>
-    <li class="tabs-title"><a href="#articles"><span class="tabs-size">Articles</span></a></li>
-    <li class="tabs-title"><a href="#avis"><span class="tabs-size">Avis</span></a></li>
-    <li class="tabs-title"><a href="#bourses"><span class="tabs-size">Bourses</span></a></li>
-    <li class="tabs-title"><a href="#conferences"><span class="tabs-size">Conférences</span></a></li>
-    <li class="tabs-title"><a href="#congres"><span class="tabs-size">Congrès</span></a></li>
-    <li class="tabs-title"><a href="#emplois"><span class="tabs-size">Emplois</span></a></li>
-    <li class="tabs-title"><a href="#lancements"><span class="tabs-size">Lancements</span></a></li>
-    <li class="tabs-title"><a href="#personnes"><span class="tabs-size">Personnes</span></a></li>
-    <li class="tabs-title"><a href="#recherches"><span class="tabs-size">Recherches</span></a></li>
-    <li class="tabs-title"><a href="#rendezVous"><span class="tabs-size">Rendez-vous</span></a></li>
-    <li class="tabs-title"><a href="#sections"><span class="tabs-size">Sections</span></a></li>
-    <li class="tabs-title is-active"><a href="#mes-sujets" aria-selected="true"><span class="tabs-size">Sujets</span></a></li>
+  <div class='small-3 columns'>
+  <ul class='tabs vertical' data-tabs id="compte">
+    <li class='tabs-title'><a href="#activites"><span class='tabs-size'>Activités</span></a></li>
+    <li class='tabs-title'><a href="#appels"><span class='tabs-size'>Appels à comm.</span></a></li>
+    <li class='tabs-title'><a href="#articles"><span class='tabs-size'>Articles</span></a></li>
+    <li class='tabs-title'><a href="#avis"><span class='tabs-size'>Avis</span></a></li>
+    <li class='tabs-title'><a href="#bourses"><span class='tabs-size'>Bourses</span></a></li>
+    <li class='tabs-title'><a href="#conferences"><span class='tabs-size'>Conférences</span></a></li>
+    <li class='tabs-title'><a href="#congres"><span class='tabs-size'>Congrès</span></a></li>
+    <li class='tabs-title'><a href="#emplois"><span class='tabs-size'>Emplois</span></a></li>
+    <li class='tabs-title'><a href="#lancements"><span class='tabs-size'>Lancements</span></a></li>
+    <li class='tabs-title'><a href="#personnes"><span class='tabs-size'>Personnes</span></a></li>
+    <li class='tabs-title'><a href="#recherches"><span class='tabs-size'>Recherches</span></a></li>
+    <li class='tabs-title'><a href="#rendezVous"><span class='tabs-size'>Rendez-vous</span></a></li>
+    <li class='tabs-title'><a href="#sections"><span class='tabs-size'>Sections</span></a></li>
+    <li class='tabs-title is-active'><a href="#mes-sujets" aria-selected='true'><span class='tabs-size'>Sujets</span></a></li>
   </ul>
   </div>
-
-  <!-- RIGHT -->
   
-  <div class="small-9 columns">
+  <div class='small-9 columns'>
   <div>
-  <div class="tabs-content" data-tabs-content="compte">
+  <div class='tabs-content' data-tabs-content="compte">
 
-  <div class="tabs-panel" id="activites">
-    <div class="">
+  <div class='tabs-panel' id="activites">
+    <div class=''>
       <h4>Activités qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesActivites' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="appels">
-    <div class="">
+  <div class='tabs-panel' id="appels">
+    <div class=''>
       <h4>Appels à communication qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesAppels' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="articles">
-    <div class="">
+  <div class='tabs-panel' id="articles">
+    <div class=''>
       <h4>Articles qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
        <%= partials.displayTable({ tableName: 'tableMesArticles' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="avis">
-    <div class="">
+  <div class='tabs-panel' id="avis">
+    <div class=''>
       <h4>Avis qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesAvis' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="bourses">
-    <div class="">
+  <div class='tabs-panel' id="bourses">
+    <div class=''>
       <h4>Bourses qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesBourses' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="conferences">
-    <div class="">
+  <div class='tabs-panel' id="conferences">
+    <div class=''>
       <h4>Conférences qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesConferences' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="congres">
-    <div class="">
+  <div class='tabs-panel' id="congres">
+    <div class=''>
       <h4>Congrès qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesCongres' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="emplois">
-    <div class="">
+  <div class='tabs-panel' id="emplois">
+    <div class=''>
       <h4>Emplois qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesEmplois' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="lancements">
-    <div class="">
+  <div class='tabs-panel' id="lancements">
+    <div class=''>
       <h4>Lancements qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesLancements' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="personnes">
-    <div class="">
+  <div class='tabs-panel' id="personnes">
+    <div class=''>
       <h4>Personnes qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesPersonnes' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="recherches">
-    <div class="">
+  <div class='tabs-panel' id="recherches">
+    <div class=''>
       <h4>Recherches effectuées</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesRecherches' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="rendezVous">
-    <div class="">
+  <div class='tabs-panel' id="rendezVous">
+    <div class=''>
       <h4>Mes rendez-vous</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesRendezVous' }) %>
       </div>
-      <p><a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a></p>
+      <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
     </div>
   </div>
 
-  <div class="tabs-panel" id="sections">
-    <div class="">
+  <div class='tabs-panel' id="sections">
+    <div class=''>
       <h4>Sections qui m'intéressent</h4>
-      <div class="content">
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesSections' }) %>
       </div>
       <p>
-        <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+        <a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a>
         <a data-open="modalChoisirSection">Choisir une section ...</a>
       </p>
     </div>
   </div>
 
-  <div class="tabs-panel is-active" id="mes-sujets">
-    <div class="">
+  <div class='tabs-panel is-active' id="mes-sujets">
+    <div class=''>
       <h4>Sujets qui m'intéressent</h4>
-      <p>Autrement-dit <span class="em">mes <u>sujets de recherche</u></span></p>
-      <div class="content">
+      <p>Autrement-dit <span class='em'>mes <u>sujets de recherche</u></span></p>
+      <div class='content'>
         <%= partials.displayTable({ tableName: 'tableMesSujets' }) %>
       </div>
       <p>
-        <a title="Haut de page" href="#"><i class="fi-arrow-up"></i></a>
+        <a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a>
         <a data-open="modalChoisirSujet">Choisir un sujet ...</a>
       </p>
     </div>
@@ -192,7 +189,7 @@
  
 </div>
 
-<%= partials.footer({ pagination: false, lastPage: '0', username: 'Alain Farmer' }) %>
+<%= partials.footer({ pagination: false, lastPage: "0", username: "Alain Farmer" }) %>
 
 <%= partials.displayModal({ modalName: 'modalChoisirSection' }) %>
 

@@ -1,58 +1,55 @@
 <!doctype html>
-<html lang="fr" dir="ltr">
+<html lang='fr' dir='ltr'>
 
-<%= partials.mmhead({ title: 'Journal de Claude Berthiaume' }) %>
+<%= partials.mmhead({ title: "Journal de Claude Berthiaume" }) %>
 
 <body>
 
-<%= partials.liensPublics({ usertype: 'membre' }) %>
+<%= partials.liensPublics({ usertype: "membre" }) %>
 
 <%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
 
 <%= partials.displayBreadcrumb({ pageID: 'breadcrumbJournal2' }) %>
 
-<%= partials.displayHeader({ headerName: 'mmPageHeader', title: "Journal de Claude Berthiaume", usertype: 'membre' }) %>
+<%= partials.displayHeader({ headerName: 'mmPageHeader', usertype: "membre", title: "Journal de Claude Berthiaume" }) %>
 
-<div class="row">
+<div class='row'>
 
-  <!-- Left -->
-  <div class="small-3 columns">
-    <h5 class="bloc-title"><%- data.__('Sections') %></h5>
+  <div class='small-3 columns'>
+    <h5 class='bloc-title'><%- data.__("Sections") %></h5>
     <%= partials.getSections(data) %>
-    <h5 class="bloc-title"><%- data.__('Sujets') %></h5>
+    <h5 class='bloc-title'><%- data.__("Sujets") %></h5>
     <%= partials.getSujets(data) %>
   </div>
 
-  <!-- Center -->
-  <div class="small-6 columns">
+  <div class='small-6 columns'>
     <div>
     <br>
-    <%= partials.displayLead({ leadTemplate: 'article1' }) %>
+    <%= partials.displayLead({ thisLead: "article1" }) %>
     <hr>
-    <%= partials.displayLead({ leadTemplate: 'article2' }) %>
+    <%= partials.displayLead({ thisLead: "article2" }) %>
     <hr>
-    <%= partials.displayLead({ leadTemplate: 'article3' }) %>
+    <%= partials.displayLead({ thisLead: "article3" }) %>
     <hr>
-    <%= partials.displayLead({ leadTemplate: 'article4' }) %>
+    <%= partials.displayLead({ thisLead: "article4" }) %>
     <hr>
-    <%= partials.displayLead({ leadTemplate: 'article5' }) %>
+    <%= partials.displayLead({ thisLead: "article5" }) %>
     <hr>
     </div>
   </div>
 
-  <!-- Right -->
-  <div class="small-3 columns">
-    <div class="">
-      <h5 class="bloc-title"><%- data.__('En bref') %></h5>
-      <%= partials.displayLead({ leadTemplate: 'breve1' }) %>
-      <%= partials.displayLead({ leadTemplate: 'breve2' }) %>
-      <%= partials.displayLead({ leadTemplate: 'breve3' }) %>
-      <%= partials.displayLead({ leadTemplate: 'breve4' }) %>
+  <div class='small-3 columns'>
+    <div class=''>
+      <h5 class='bloc-title'><%- data.__("En bref") %></h5>
+      <%= partials.displayLead({ thisLead: "breve1" }) %>
+      <%= partials.displayLead({ thisLead: "breve2" }) %>
+      <%= partials.displayLead({ thisLead: "breve3" }) %>
+      <%= partials.displayLead({ thisLead: "breve4" }) %>
     </div>
   </div>
 </div>
 
-<%= partials.footer({ pagination: true, lastPage: '2 000 000', username: 'Alain Farmer' }) %>
+<%= partials.footer({ pagination: true, lastPage: "2 000 000", username: "Alain Farmer" }) %>
 
 <%= partials.scripts() %>
 

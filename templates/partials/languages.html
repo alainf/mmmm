@@ -1,10 +1,10 @@
 <p><%- data.__('Choisir la langue') %></p>
-<ul class="menu">
+<ul class='menu'>
 <% _(data.app.languages).each((l) => {
   data.pathparts[0] = l
 %>
 <% if (l === data.languageCode) { %>
-  <li class="active">
+  <li class='active'>
 <% } else { %>
   <li>
 <% } %>

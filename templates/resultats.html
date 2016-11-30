@@ -1,40 +1,40 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang='en' dir='ltr'>
 
-<%= partials.mmhead({ title: 'PhdAdmin Résultats' }) %>
+<%= partials.mmhead({ title: "PhdAdmin Résultats" }) %>
 
 <body>
 
-<%= partials.liensPublics({ usertype: 'membre' }) %>
+<%= partials.liensPublics({ usertype: "membre" }) %>
 
 <%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
 
 <%= partials.displayBreadcrumb({ pageID: 'breadcrumbResultats' }) %>
 
-<%= partials.displayHeader({ headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: 'membre' }) %>
+<%= partials.displayHeader({ headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: "membre" }) %>
 
 <br>
-<div class="row" id="afficher-resultats">
+<div class='row' id="afficher-resultats">
 
-  <div class="small-7 columns">
-    <div class="">
+  <div class='small-7 columns'>
+    <div class=''>
     <p><img src="/img/placeholders/search-left.png" alt="Résultats de recherche"></p>
     </div>
   </div>
   
-  <div class="small-5 columns">
+  <div class='small-5 columns'>
    
     <!-- capsule -->
-    <div class="" id="afficher-capsule">
-      <p><a target="_blank" href="https://en.wikipedia.org/wiki/Albert_Einstein">
+    <div class='' id="afficher-capsule">
+      <p><a target='_blank' href="https://en.wikipedia.org/wiki/Albert_Einstein">
         <img src="/img/placeholders/search-right.png" alt="Information supplémentaire"></a>
       </p>
     </div>
 
       <!-- recherche actuelle -->
       <br>
-      <div class="" id="recherche-actuelle">
-      <h5 class="text-left">Recherche en cours</h5>
+      <div class='' id="recherche-actuelle">
+      <h5 class='text-left'>Recherche en cours</h5>
       <dl>
       <dt>Données</dt>
       <dd>
@@ -48,7 +48,7 @@
         <option value="descendant">Données en ordre descendant</option>
         </select>
       </dd>
-      <dt>Termes <a class="icon" data-toggle="ajouter-terme-dropdown" title="Ajouter un terme"><i class="fi-plus"></i></a></a>
+      <dt>Termes <a class='icon' data-toggle="ajouter-terme-dropdown" title="Ajouter un terme"><i class='fi-plus'></i></a></a>
       </dt>
       <dd>
         <ul>
@@ -57,14 +57,14 @@
         </ul>
       </dd>
       <dt>Filtres&nbsp;
-        <a class="icon" data-toggle="filtrer-dropdown" title="Modifier filtres actuels"><i class="fi-pencil"></i></a>
+        <a class='icon' data-toggle="filtrer-dropdown" title="Modifier filtres actuels"><i class="fi-pencil"></i></a>
       </dt>
       <dd>
         <ul>
-        <li><span><span class="em">Langue</span> = Français, Anglais</span></li>
-        <li><span><span class="em">Date d'édition</span> &gt; 2014-01-01</span></li>
-        <li><span><span class="em">Date d'édition</span> &lt; 2016-01-31</span></li>
-        <li><span><span class="em">Format</span> = HTML</span></li>
+        <li><span><span class='em'>Langue</span> = Français, Anglais</span></li>
+        <li><span><span class='em'>Date d'édition</span> &gt; 2014-01-01</span></li>
+        <li><span><span class='em'>Date d'édition</span> &lt; 2016-01-31</span></li>
+        <li><span><span class='em'>Format</span> = HTML</span></li>
         </ul>
       </dd>
       </dl>
@@ -75,7 +75,7 @@
  </div>
 </div>
 
-<%= partials.footer({ pagination: true, lastPage: '500', username: 'Alain Farmer' }) %>
+<%= partials.footer({ pagination: true, lastPage: "500", username: "Alain Farmer" }) %>
 
 <%= partials.displayDropdown({ dropName: 'ajouter-terme-dropdown' }) %>
 

@@ -1,41 +1,41 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang='en' dir='ltr'>
 
 <%= partials.mmhead({ title: "PhD M'abonner" }) %>
 
 <body>
 
-<%= partials.liensPublics({ usertype: 'membre' }) %>
+<%= partials.liensPublics({ usertype: "membre" }) %>
 
 <%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
 <%= partials.displayHeader({ headerName: 'titreSeulement', title: "M'abonner", soustitre: "Compléter le formulaire ci-dessous" }) %>
 
-<div class="row">
+<div class='row'>
 
-  <div class="small-6 columns">
-    <div class="callout">
+  <div class='small-6 columns'>
+    <div class='callout'>
     <form>
-      <label><span class="strong">Nom de famille</span> <input type="text" name="nomFamille"></label>
-      <label><span class="strong">Prénom</span> <input type="text" name="prenom"></label>
-      <label><span class="strong">Courriel</span> <input type="text" name="courriel"></label>
-      <label><span class="strong">Utilisateur</span> <input type="text" name="username"></label>
-      <label><span class="strong">Mot-de-passe</span> <input type="text" name="password"></label>
-      <input class="button" type="submit" name="meAbonner" value="M'abonner">
+      <label><span class='strong'>Nom de famille</span> <input type='text' name="nomFamille"></label>
+      <label><span class='strong'>Prénom</span> <input type='text' name="prenom"></label>
+      <label><span class='strong'>Courriel</span> <input type='text' name="courriel"></label>
+      <label><span class='strong'>Utilisateur</span> <input type='text' name="username"></label>
+      <label><span class='strong'>Mot-de-passe</span> <input type='text' name="password"></label>
+      <input class='button' type='submit' name="meAbonner" value="M'abonner">
     </form>
     </div>
   </div>
 
-  <div class="small-6 columns">
-    <div class="callout">
+  <div class='small-6 columns'>
+    <div class='callout'>
     <br>
-      <p><span class="em">Nom de famille</span> et <span class="em">Prénom</span> sont facultatifs.</p>
+      <p><span class='em'>Nom de famille</span> et <span class='em'>Prénom</span> sont facultatifs.</p>
       <br>
-      <p><span class="em">Courriel</span> est obligatoire, mais ne sera pas diffusé.<br>C'est <span class="em">Utilisateur</span> qui sera employé dans le site.</p>
+      <p><span class='em'>Courriel</span> est obligatoire, mais ne sera pas diffusé.<br>C'est <span class='em'>Utilisateur</span> qui sera employé dans le site.</p>
       <br>
-      <p><span class="em">Mot-de-passe</span> est obligatoire.</p>
+      <p><span class='em'>Mot-de-passe</span> est obligatoire.</p>
       <br>
-      <p>Obtenir certificat (c'est-à-dire une clef public-privée) pour ne pas remplir <span class="em">Utilisateur</span> et <span class="em">Mot-de-passe</span> lorsqu'on se connecte.</p>
+      <p>Obtenir certificat (c'est-à-dire une clef public-privée) pour ne pas remplir <span class='em'>Utilisateur</span> et <span class='em'>Mot-de-passe</span> lorsqu'on se connecte.</p>
       <br>
       <p>Premier mois est gratuit.</p>
       <br>

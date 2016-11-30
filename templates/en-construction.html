@@ -1,25 +1,25 @@
 <!doctype html>
-<html lang="en" dir="ltr">
+<html lang='en' dir='ltr'>
 
-<%= partials.mmhead({ title: 'PhdAdmin En-construction' }) %>
+<%= partials.mmhead({ title: "PhdAdmin En-construction" }) %>
 
 <body>
 
-<%= partials.liensPublics({ usertype: 'membre' }) %>
+<%= partials.liensPublics({ usertype: "membre" }) %>
 
 <%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
 <%= partials.displayHeader({ headerName: 'titreSeulement', title: "En construction", soustitre: "Désolé cette page, ou cette fonction, n'est pas présentement disponible." }) %>
 
-<div class="row">
-  <div class="small-12 columns">
-    <div class="">
-      <h3 class="text-center"><a href="/fr/accueil">Accueil</a></h3>
+<div class='row'>
+  <div class='small-12 columns'>
+    <div class=''>
+      <h3 class='text-center'><a href="/fr/accueil">Accueil</a></h3>
     </div>
   </div>
 </div>
 
-<%= partials.footer({ pagination: false, lastPage: '0', username: 'Alain Farmer' }) %>
+<%= partials.footer({ pagination: false, lastPage: "0", username: "Alain Farmer" }) %>
 
 <%= partials.scripts() %>
 
