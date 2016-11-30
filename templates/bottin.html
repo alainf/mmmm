@@ -14,7 +14,7 @@
 <div class='row'>
 
   <div class='small-3 columns'>
-  <ul class='tabs vertical' data-tabs id="toc">
+  <ul class='tabs vertical' data-tabs id='toc'>
     <li class='tabs-title is-active'><a href="#membres" aria-selected='true'><span class='tabs-size'>Membres</span></a></li>
     <li class='tabs-title'><a href="#pairs"><span class='tabs-size'>&nbsp;&nbsp; Mes pairs</span></a></li>
     <li class='tabs-title'><a href="#groupes"><span class='tabs-size'>Groupes</span></a></li>
@@ -33,7 +33,7 @@
   <div class='small-9 columns'>
   <div>
 
-  <div class='tabs-content' data-tabs-content="toc">
+  <div class='tabs-content' data-tabs-content='toc'>
 
     <div class='tabs-panel is-active' id="membres">
     <div class=''>
@@ -175,7 +175,7 @@
     <div class='tabs-panel' id="groupes">
     <div class=''>
       <h4>Groupes</h4>
-      <p>Choisir parmi les groupes de phdAdmin ou <span class='strong'>proposer un groupe</span> <a class='icon' data-toggle="ajouter-groupe-dropdown" title="Ajouter un groupe"><i class='fi-plus'></i></a></p>
+      <p>Choisir parmi les groupes de phdAdmin ou <span class='strong'>proposer un groupe</span> <a class='icon' data-toggle='ajouter-groupe-dropdown' title="Ajouter un groupe"><i class='fi-plus'></i></a></p>
       <hr>
       <!-- row-1 -->
       <div class='row'>
@@ -194,7 +194,7 @@
         </div>
         <div class='small-4 columns'>
           <div class='text-center'>
-            <a href="/fr/groupe1"><img src="/img/groupes/groupe-3.jpeg" class='mmthumb' alt="Groupe #3"></a>
+            <a href="/fr/groupe1"><img src="/img/groupes/groupe-3.jpeg" alt="Groupe #3" class='mmthumb'></a>
             <h5><a href="/fr/groupe1">Groupe #3</a></h5>
           </div>
         </div>
@@ -218,7 +218,7 @@
         </div>
         <div class='small-4 columns'>
           <div class='text-center'>
-            <a href="/fr/groupe1"><img src="/img/groupes/groupe-1.jpeg" class='mmthumb' alt="Groupe #6"></a>
+            <a href="/fr/groupe1"><img src="/img/groupes/groupe-1.jpeg" alt="Groupe #6" class='mmthumb'></a>
             <h5><a href="/fr/groupe1">Groupe #6</a></h5>
           </div>
         </div>
@@ -275,7 +275,7 @@
         </div>
         <div class='small-4 columns'>
           <div class='text-center'>
-            <a href="/fr/groupe1"><img src="/img/groupes/groupe-1.jpeg" class='mmthumb' alt="Groupe #6"></a>
+            <a href="/fr/groupe1"><img src="/img/groupes/groupe-1.jpeg" alt="Groupe #6" class='mmthumb'></a>
             <h5><a href="/fr/groupe1">Groupe #6</a></h5>
           </div>
         </div>
@@ -289,7 +289,7 @@
     <div class='tabs-panel' id="organisations">
     <div class=''>
       <h4>Organisations</h4>
-      <p>Consulter une organisation ou <span class='strong'>proposer une organisation</span> <a class='icon' data-toggle="ajouter-organisation-dropdown" title="Ajouter une organisation"><i class='fi-plus'></i></a></p>
+      <p>Consulter une organisation ou <span class='strong'>proposer une organisation</span> <a class='icon' data-toggle='ajouter-organisation-dropdown' title="Ajouter une organisation"><i class='fi-plus'></i></a></p>
       <h5>Affichage</h5>
     <select id="trier-organisations">
       <option value="trier-organisations-par-nom" selected>Tableau trié par Nom</option>
@@ -302,7 +302,7 @@
       <div class='row'>
       <div class='input-group forFilter'>
         <span class='input-group-label'>Filtrer :</span>
-        <input class='input-group-field' type='text' name="filtrerOrganisations" placeholder="Autocomplete">
+        <input class='input-group-field' type='text' name='filtrerOrganisations' placeholder="Autocomplete">
       </div>
     </div>
       <%= partials.displayTable({ tableName: 'tableLesOrganisations' }) %>
@@ -337,7 +337,7 @@
     <div class='tabs-panel' id="personnes">
     <div class=''>
       <h4>Personnes</h4>
-      <p>Consulter une personne ou <span class='strong'>proposer une personne</span> <a class='icon' data-toggle="ajouter-personne-dropdown" title="Ajouter une personne"><i class='fi-plus'></i></a></p>
+      <p>Consulter une personne ou <span class='strong'>proposer une personne</span> <a class='icon' data-toggle="ajouter-personne-dropdown" title='Ajouter une personne'><i class='fi-plus'></i></a></p>
       <h5>Affichage</h5>
     <select id="trier-personnes">
       <option value="trier-personnes-par-nom" selected>Tableau trié par Nom</option>
@@ -350,7 +350,7 @@
       <div class='row'>
       <div class='input-group forFilter'>
         <span class='input-group-label'>Filtrer :</span>
-        <input class='input-group-field' type='text' name="filtrerPersonnes" placeholder="Autocomplete">
+        <input class='input-group-field' type='text' name='filtrerPersonnes' placeholder="Autocomplete">
       </div>
     </div>
       <%= partials.displayTable({ tableName: 'tableLesPersonnes' }) %>
@@ -385,7 +385,7 @@
     <div class='tabs-panel' id="lieux">
     <div class=''>
       <h4>Lieux</h4>
-      <p>Consulter un lieu ou <span class='strong'>proposer un lieu</span> <a class='icon' data-toggle="ajouter-lieu-dropdown" title="Ajouter un lieu"><i class='fi-plus'></i></a></p>
+      <p>Consulter un lieu ou <span class='strong'>proposer un lieu</span> <a class='icon' data-toggle='ajouter-lieu-dropdown' title="Ajouter un lieu"><i class='fi-plus'></i></a></p>
       <h5>Affichage</h5>
     <select id="trier-lieux">
       <option value="trier-lieux-par-nom" selected>Tableau trié par Nom</option>
@@ -398,7 +398,7 @@
       <div class='row'>
       <div class='input-group forFilter'>
         <span class='input-group-label'>Filtrer :</span>
-        <input class='input-group-field' type='text' name="filtrerLieux" placeholder="Autocomplete">
+        <input class='input-group-field' type='text' name='filtrerLieux' placeholder="Autocomplete">
       </div>
     </div>
       <%= partials.displayTable({ tableName: 'tableLesLieux' }) %>
@@ -422,7 +422,7 @@
       <div class='row'>
       <div class='input-group forFilter'>
         <span class='input-group-label'>Filtrer :</span>
-        <input class='input-group-field' type='text' name="filtrerMesLieux" placeholder="Autocomplete">
+        <input class='input-group-field' type='text' name='filtrerMesLieux' placeholder="Autocomplete">
       </div>
     </div>
       <%= partials.displayTable({ tableName: 'tableMesLieux' }) %>

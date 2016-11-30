@@ -14,7 +14,7 @@
 <div class='row'>
 
   <div class='small-3 columns'>
-  <ul class='tabs vertical' data-tabs id="tabsMoi">
+  <ul class='tabs vertical' data-tabs id='tabsMoi'>
     <li class='tabs-title is-active'><a href="#compte" aria-selected='true'><span class='tabs-size'>Compte</span></a></li>
     <li class='tabs-title'><a href="#mon-identite"><span class='tabs-size'>Identité</span></a></li>
     <li class='tabs-title'><a href="#mes-preferences"><span class='tabs-size'>Préférences</span></a></li>
@@ -31,7 +31,7 @@
   <div class='small-9 columns'>
   <div>
 
-  <div class='tabs-content' data-tabs-content="tabsMoi">
+  <div class='tabs-content' data-tabs-content='tabsMoi'>
     <div class='tabs-panel is-active' id="compte">
       <div class=''>
       <h4>Compte</h4>
@@ -171,9 +171,9 @@
       <!-- informations -->
       <div class='content'>
         <dl>
-        <dt>Lieux <a class='icon' data-toggle="ajouter-lieu-dropdown" title="Ajouter un lieu"><i class='fi-plus'></i></a></dt>
+        <dt>Lieux <a class='icon' data-toggle='ajouter-lieu-dropdown' title="Ajouter un lieu"><i class='fi-plus'></i></a></dt>
         <dd><p>Montréal (Québec), Québec (Québec), Paris (France)</p></dd>
-        <dt>Langues <a class='icon' data-toggle="ajouter-langue-dropdown" title="Ajouter une langue"><i class='fi-plus'></i></a></dt>
+        <dt>Langues <a class='icon' data-toggle='ajouter-langue-dropdown' title="Ajouter une langue"><i class='fi-plus'></i></a></dt>
         <dd><p>Français, Anglais</p></dd>
         <dt>Traduire avec Google Translate</dt>
         <dd>
@@ -238,16 +238,16 @@
       <h4>M'aviser</h4>
       <p>Notifications sont spécifiées en contexte, en cliquant sur <i class='fi-rss'></i> .<br></p>
       <h5>Préférences</h5>
-      <select id="notifications">
+      <select id='notifications'>
         <option value="notifications-oui" selected>Notifications sont souhaitées</option>
         <option value="notifications-non">Notifications ne sont pas souhaitées</option>
       </select>
-      <select id="recevoir-notifications">
+      <select id='recevoir-notifications'>
         <option value="par-courriel">Recevoir notifications par courriel</option>
         <option value="par-messagerie">Recevoir notifications par messagerie</option>
         <option value="par-site" selected>Recevoir notifications en consultant ce site</option>
       </select>
-      <select id="frequence-notifications">
+      <select id='frequence-notifications'>
         <option value="immediatement">Recevoir notifications immédiatement</option>
         <option value="par-heure">Recevoir notifications 1 fois par heure</option>
         <option value="par-jour" selected>Recevoir notifications 1 fois par jour</option>
@@ -255,11 +255,11 @@
         <option value="par-mois">Recevoir notifications 1 fois par mois</option>
         <option value="jamais">Ne jamais recevoir de notifications</option>
       </select>
-      <select id="trier-notifications">
+      <select id='trier-notifications'>
         <option value="trier-par-nom" selected>Tableau trié par Nom</option>
         <option value="trier-par-type">Tableau trié par Type</option>
       </select>
-      <select id="filtrer-notifications">
+      <select id='filtrer-notifications'>
         <option value="filtrer-avis-par-aucun">Aucun filtrage</option>
         <option value="filtrer-avis-par-autocomplete" selected>Afficher que les notifications qui contiennent le(s) terme(s) ci-dessous</option>
         <option value="filtrer-avis-par-sujet">Afficher que les sujets</option>
@@ -362,12 +362,12 @@
       <h4>Historique</h4>
       <p>Historique de ma participation, de toutes mes interactions.</p>
       <h5>Affichage</h5>
-      <select id="trier-historique">
+      <select id='trier-historique'>
         <option value="trier-historique-par-moment" selected>Tableau trié par Moment effectué</option>
         <option value="trier-historique-par-type">Tableau trié par Type d'interaction</option>
         <option value="trier-historique-par-nom">Tableau trié par Interaction</option>
       </select>
-      <select id="filtrer-historique">
+      <select id='filtrer-historique'>
         <option value="filtrer-historique-par-aucun">Aucun filtrage</option>
         <option value="filtrer-historique-interaction" selected>Afficher que les interactions qui contiennent le(s) terme(s) ci-dessous</option>
         <option value="filtrer-historique-commentaires">Afficher que les Commentaires</option>
@@ -415,13 +415,13 @@
         </div>
       </div>
       <h5>Affichage</h5>
-      <select id="trier-taches">
+      <select id='trier-taches'>
         <option value="trier-taches-par-nom" selected>Tableau trié par Moment</option>
         <option value="trier-taches-par-type">Tableau trié par Type</option>
         <option value="trier-taches-par-type">Tableau trié par Nom</option>
         <option value="trier-taches-par-accomplie">Tableau trié par Accomplie</option>
       </select>
-      <select id="filtrer-taches">
+      <select id='filtrer-taches'>
         <option value="filtrer-taches-par-aucun">Aucun filtrage</option>
         <option value="filtrer-taches-par-autocomplete" selected>Afficher que les tâches qui contiennent le(s) terme(s) ci-dessous</option>
         <option value="filtrer-taches-de-type-U">Afficher que les tâches ajoutées par l'utilisateur</option>

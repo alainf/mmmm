@@ -16,7 +16,7 @@
 <%= partials.displayHeader({ headerName: 'titreSeulement', title: "Page quelconque", soustitre: "Sous-titre quelconque" }) %>
 
 
-<a class='icon' data-toggle="ajouter-terme-dropdown" title="Ajouter un terme"><i class='fi-plus'></i> Ajouter un terme</a>
+<a class='icon' data-toggle='ajouter-terme-dropdown' title="Ajouter un terme"><i class='fi-plus'></i> Ajouter un terme</a>
 <%= partials.displayDropdown({ dropName: 'ajouter-terme-dropdown' }) %>
 
 <%= partials.displayTable({ tableName: 'tableFavoris' }) %>
@@ -40,8 +40,8 @@
 
 <hr>
 
-<p><a data-toggle="myTarget">Show/Hide!</a></p>
-<ul class='menu hide' id="myTarget" data-toggler='hide'>
+<p><a data-toggle='myTarget'>Show/Hide!</a></p>
+<ul class='menu hide' id='myTarget' data-toggler='hide'>
   <li><a href="#0">One</a></li>
   <li><a href="#0">Two</a></li>
   <li><a href="#0">Three</a></li>
@@ -260,8 +260,8 @@ function open_tab(tab_id,panel) {
 </ul>
 
 <!-- debut toggle-dropdown -->
-<a class='button' data-toggle="question-1-dropdown" title="Poser une question">Poser une question</a>
-<div class='dropdown-pane' id="question-1-dropdown" data-dropdown data-auto-focus='true'>
+<a class='button' data-toggle='question-1-dropdown' title="Poser une question">Poser une question</a>
+<div class='dropdown-pane' id='question-1-dropdown' data-dropdown data-auto-focus='true'>
   <p><span class='strong'>Poser une question</span></p>
   <div class='row'>
     <div class='small-12 columns'>
@@ -458,7 +458,7 @@ The <span data-tooltip aria-haspopup='true' class='has-tip left' data-disable-ho
 
 <!-- A full-screen modal is 100% of the width and height of the window. Add the .full class to make it go. -->
 
-<p><a data-toggle="exampleModal8">Click me for a full-screen modal</a></p>
+<p><a data-toggle='exampleModal8'>Click me for a full-screen modal</a></p>
 
 <div class='full reveal' id="exampleModal8" data-reveal>
   <p>OH I'M SO FUUUUL</p>
@@ -469,8 +469,8 @@ The <span data-tooltip aria-haspopup='true' class='has-tip left' data-disable-ho
 </div>
 
 <!-- toggle dropdown pane -->
-<button class='button' type='button' data-toggle="example-dropdown">Toggle Dropdown</button>
-<div class='dropdown-pane' id="example-dropdown" data-dropdown data-auto-focus='true'>
+<button class='button' type='button' data-toggle='example-dropdown'>Toggle Dropdown</button>
+<div class='dropdown-pane' id='example-dropdown' data-dropdown data-auto-focus='true'>
   Example form in a dropdown.
   <form>
     <div class='row'>
@@ -489,8 +489,8 @@ The <span data-tooltip aria-haspopup='true' class='has-tip left' data-disable-ho
 </div>
 
 <!-- dropdown pane on hover -->
-<button class='button' type='button' data-toggle="example-dropdown-1">Hoverable Dropdown</button>
-<div class='dropdown-pane' id="example-dropdown-1" data-dropdown data-hover='true' data-hover-pane='true'>
+<button class='button' type='button' data-toggle='example-dropdown-1'>Hoverable Dropdown</button>
+<div class='dropdown-pane' id='example-dropdown-1' data-dropdown data-hover='true' data-hover-pane='true'>
   Just some junk that needs to be said. Or not. Your choice.
 </div>
 

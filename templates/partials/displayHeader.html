@@ -19,6 +19,7 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
 ############################################################### -->
 
 <!-- Logo + Chercher + Enregistrer -->
+
 <% if (data.headerName === 'logoChercher') { %>
 <div class='row align-middle'>
   <div class='small-6 columns'>
@@ -41,6 +42,7 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
 <% } %>
 
 <!-- Logo + Chercher + Filtrer -->
+
 <% if (data.headerName === 'logoChercherFiltrer') { %>
 <div class='row align-middle'>
   <div class='small-6 columns'>
@@ -97,8 +99,9 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
 <% } %>
 
 <!-- PAGE HEADER -->
-<% if (data.headerName === 'mmPageHeader') { %>
 <!-- NB: contains vars: data.title and data.usertype -->
+
+<% if (data.headerName === 'mmPageHeader') { %>
 <div class='row'>
   <!-- Left -->
   <div class='small-3 columns'>
@@ -106,7 +109,7 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
   </div>
   <!-- Center -->
   <div class='small-6 columns'>
-    <h3 id="page-main-title" class='text-center'><%- data.title %></h3>
+    <h3 id='page-main-title' class='text-center'><%- data.title %></h3>
   </div>
   <!-- Right -->
   <div class='small-3 columns'>
@@ -128,8 +131,9 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
 <% } %>
 
 <!-- SEARCH HEADER -->
-<% if (data.headerName === 'mmSearchHeader') { %>
 <!-- NB: contains vars: data.title and data.usertype -->
+
+<% if (data.headerName === 'mmSearchHeader') { %>
 <div class='row'>
   <!-- Left -->
   <div class='small-3 columns'>
@@ -137,7 +141,7 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
   </div>
   <!-- Center -->
   <div class='small-6 columns'>
-    <h3 id="page-main-title" class='text-center'><%- data.title %></h3>
+    <h3 id='page-main-title' class='text-center'><%- data.title %></h3>
   </div>
   <!-- Right -->
   <div class='small-3 columns'>
@@ -159,8 +163,9 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
 <% } %>
 
 <!-- TITRE SEULEMENT -->
-<% if (data.headerName === 'titreSeulement') { %>
 <!-- NB: contains vars: data.title and data.soustitre -->
+
+<% if (data.headerName === 'titreSeulement') { %>
 <div class='row'>
   <div class='small-12 columns'>
     <div class='callout'>
