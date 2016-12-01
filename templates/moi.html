@@ -20,6 +20,7 @@
     <li class='tabs-title'><a href="#mes-preferences"><span class='tabs-size'>Préférences</span></a></li>
     <li class='tabs-title'><a href="#mes-favoris"><span class='tabs-size'>Favoris</span></a></li>
     <li class='tabs-title'><a href="#mes-notifications"><span class='tabs-size'>M'aviser</span></a></li>
+    <li class='tabs-title'><a href="#ma-synchronisation"><span class='tabs-size'>Synchroniser</span></a></li>
     <li class='tabs-title'><a href="#ma-participation"><span class='tabs-size'>Participer</span></a></li>
     <li class='tabs-title'><a href="#mon-historique"><span class='tabs-size'>Historique</span></a></li>
     <li class='tabs-title'><a href="#mon-agenda"><span class='tabs-size'>Agenda</span></a></li>
@@ -94,6 +95,7 @@
           <dt>Mot de passe</dt>
           <dd><p><input type='password' name="password" value="************"></p></dd>
           </dl>
+          <p class='strong larger-text text-left'><br>&nbsp;<a href="/fr/profil-moi">Consulter mon profil public</a></p>
          </div>
         </div>
         <div class='small-7 columns'>
@@ -114,6 +116,15 @@
           <dd>
             <div class='input-group forIdentity'>
               <input class='input-group-field' type='url' name="facebook" value="https://www.facebook.com/alain.farmer">
+              <a title="Partager cette information ?" class='input-group-button success button'>
+                <span class='tabs-size'><i class='fi-check'></i></span>
+              </a>
+            </div>
+          </dd>
+          <dt>Site web</dt>
+          <dd>
+            <div class='input-group forIdentity'>
+              <input class='input-group-field' type='url' name="siteweb" value="https://www.alainfarmer.com/">
               <a title="Partager cette information ?" class='input-group-button success button'>
                 <span class='tabs-size'><i class='fi-check'></i></span>
               </a>
@@ -142,7 +153,6 @@
       </div>
       </div>
       </form>
-      <p class='strong larger-text text-left'>&nbsp;<a href="/fr/profil-moi">Consulter mon profil public</a></p>
     </div>
     </div>
 
@@ -353,6 +363,43 @@
             </dl>
            </div>
         </div>
+      </div>
+    </div>
+    </div>
+
+    <div class='tabs-panel' id="ma-synchronisation">
+    <div class=''>
+      <h4>Synchroniser</h4>
+      <br>
+      <div class='row'>
+         <div class='small-12 columns'>
+          <div class=''>
+            <span>Utiliser mes <span class='em'>favoris</span> lorsque je créerai un <span class='em'>groupe</span> ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="afficherMonNom" name="afficherMonNom">
+              <label class='switch-paddle' for="afficherMonNom">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
+              </label>
+            </div>
+            <span>Mes <span class='em'>ajouts</span> dans <span class='em'>Moi</span> continueront de s'ajouter à mes <span class='em'>groupes</span> ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="afficherMaPhoto" name="afficherMaPhoto">
+              <label class='switch-paddle' for="afficherMaPhoto">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
+              </label>
+            </div>
+            <span>Mes <span class='em'>ajouts</span> dans mes <span class='em'>groupes</span> iront aussi dans <span class='em'>Moi</span> ?</span>
+            <div class='switch'>
+              <input class='switch-input' type='checkbox' id="meContacterDirectement" name="meContacterDirectement">
+              <label class='switch-paddle' for="meContacterDirectement">
+                <span class='switch-active' aria-hidden='true'>&nbsp;&nbsp;<i class='fi-lock'></i></span>
+                <span class='switch-inactive' aria-hidden='true'><i class='fi-check'></i></span>
+              </label>
+            </div>
+          </div>
+         </div>
       </div>
     </div>
     </div>
