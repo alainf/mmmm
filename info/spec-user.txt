@@ -2,178 +2,180 @@
 
 ## TOC
 
-membre.ajouterFavorisEnContinu
-detail.appreciation
-detail.pertinence
-detail.qualite
-membre.activites
-membre.agenda-filtrage
-membre.agenda-tri
-membre.ccToutVersMoi
-membre.courriel
-membre.cout-mensuel
-membre.deduction 
-membre.derniere-participation
-membre.donner.combien
-membre.donner.comment
-membre.donner.quand
-membre.favoris
-membre.favoris-filtrage
-membre.favoris-tri
-membre.groupes
-membre.groupes-filtrage
-membre.historique-filtrage
-membre.historique-tri
-membre.id
-membre.langues
-membre.lieux-filtrage
-membre.lieux-tri
-membre.membres-filtrage
-membre.membres-filtrage
-membre.mes-lieux-filtrage
-membre.mes-lieux-tri
-membre.mes-organisations-filtrage
-membre.mes-organisations-tri
-membre.mes-personnes-filtrage
-membre.mes-personnes-tri
-membre.nom-famille
-membre.notifications
-membre.notifications
-membre.notifications.comment
-membre.notifications.filtrage
-membre.notifications.frequence
-membre.notifications.on
-membre.notifications.tri
-membre.organisations
-membre.organisations-filtrage
-membre.organisations-tri
-membre.pairs
-membre.pairs-filtrage
-membre.participant-depuis
-membre.password
-membre.payer.combien
-membre.payer.comment
-membre.payer.quand
-membre.personnes
-membre.personnes-filtrage
-membre.personnes-tri
-membre.photo
-membre.points
-membre.prenom
-membre.reputation
-membre.sections
-membre.sujets
-membre.taches
-membre.taches-filtrage
-membre.taches-tri
-membre.traduction.aviser
-membre.traduction.on
-membre.type-de-compte
-membre.username
-membre.utiliserMesFavoris
-recherche.effectuer
-recherche.enOrdre
-recherche.filtres
-recherche.nom
-recherche.repeter
-recherche.termes
-recherche.trierPar
+moi.detail.appreciation
+moi.detail.pertinence
+moi.detail.qualite
+
+moi.activites
+moi.agenda-filtrage
+moi.agenda-tri
+moi.ajouterFavorisEnContinu
+moi.ccToutVersMoi
+moi.courriel
+moi.cout-mensuel
+moi.deduction 
+moi.derniere-participation
+moi.donner.combien
+moi.donner.comment
+moi.donner.quand
+moi.favoris
+moi.favoris-filtrage
+moi.favoris-tri
+moi.groupes
+moi.groupes-filtrage
+moi.historique-filtrage
+moi.historique-tri
+moi.id
+moi.langues
+moi.lieux-filtrage
+moi.lieux-tri
+moi.membres-filtrage
+moi.membres-filtrage
+moi.mes-lieux-filtrage
+moi.mes-lieux-tri
+moi.mes-organisations-filtrage
+moi.mes-organisations-tri
+moi.mes-personnes-filtrage
+moi.mes-personnes-tri
+moi.nom-famille
+moi.notifications
+moi.notifications
+moi.notifications.comment
+moi.notifications.filtrage
+moi.notifications.frequence
+moi.notifications.on
+moi.notifications.tri
+moi.organisations
+moi.organisations-filtrage
+moi.organisations-tri
+moi.pairs
+moi.pairs-filtrage
+moi.participant-depuis
+moi.password
+moi.payer.combien
+moi.payer.comment
+moi.payer.quand
+moi.personnes
+moi.personnes-filtrage
+moi.personnes-tri
+moi.photo
+moi.points
+moi.prenom
+moi.reputation
+moi.sections
+moi.sujets
+moi.taches
+moi.taches-filtrage
+moi.taches-tri
+moi.traduction.aviser
+moi.traduction.on
+moi.type-de-compte
+moi.username
+moi.utiliserMesFavoris
+
+moi.recherche.effectuer
+moi.recherche.enOrdre
+moi.recherche.filtres
+moi.recherche.nom
+moi.recherche.repeter
+moi.recherche.termes
+moi.recherche.trierPar
 
 ## En détail
 
-membre.id										"user-2015-11-30-03-36-33-86932355591"
-membre.nom-famille							"Farmer"
-membre.prenom									"Alain"
-membre.username								"Alain Farmer"
-membre.password								"**********"
-membre.courriel								"alain_farmer@yahoo.com"
-membre.photo									"/img/membres/me.jpg"
+moi.id										"user-2015-11-30-03-36-33-86932355591"
+moi.nom-famille							"Farmer"
+moi.prenom									"Alain"
+moi.username								"Alain Farmer"
+moi.password								"**********"
+moi.courriel								"alain_farmer@yahoo.com"
+moi.photo									"/img/membres/me.jpg"
 
-membre.type-de-compte						"platine"
-membre.cout-mensuel							100
-membre.deduction 								80
-membre.payer.combien							20
-membre.payer.quand							"2016-12-01"
-membre.payer.comment							choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
-membre.donner.combien						20
-membre.donner.quand							"2016-12-01"
-membre.donner.comment						choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
-membre.participant-depuis					"2008-01-01"
-membre.derniere-participation				"2016-10-28 à 18h10"
-membre.points									12 345
-membre.reputation								choisir parmi ["normal","fiable"]
+moi.type-de-compte						"platine"
+moi.cout-mensuel							100
+moi.deduction 								80
+moi.payer.combien							20
+moi.payer.quand							"2016-12-01"
+moi.payer.comment							choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
+moi.donner.combien						20
+moi.donner.quand							"2016-12-01"
+moi.donner.comment						choisir parmi ["Carte de crédit","Paypal","Bitcoin","Autre..."]
+moi.participant-depuis					"2008-01-01"
+moi.derniere-participation				"2016-10-28 à 18h10"
+moi.points									12 345
+moi.reputation								choisir parmi ["normal","fiable"]
 
-membre.langues									{n * ["id du terme"] } 	--> string "Français, Anglais"
-membre.sections								{n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
-membre.sujets									{n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
-membre.favoris									{n * ["id du terme"] } 	--> tableau: Nom, Type
-membre.notifications							{n * ["id du terme"] } 	--> tableau: Nom, Type
-membre.pairs									{n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
-membre.groupes									{n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
-membre.taches									{n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
-membre.activites								{n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
-membre.organisations							{n * ["id du terme"] } 	--> tableau: Nom, Type, URL
-membre.notifications							{n * ["id du terme"] } 	--> tableau: Nom, Type
-membre.personnes								{n * ["id du terme"] } 	--> tableau: Nom, Type, URL
+moi.langues									{n * ["id du terme"] } 	--> string "Français, Anglais"
+moi.sections								{n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
+moi.sujets									{n * ["id du terme"] } 	--> tableau: Terme, Breadcrumb
+moi.favoris									{n * ["id du terme"] } 	--> tableau: Nom, Type
+moi.notifications							{n * ["id du terme"] } 	--> tableau: Nom, Type
+moi.pairs									{n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
+moi.groupes									{n * ["id du terme"] } 	--> liste de thumbnails avec nom, image
+moi.taches									{n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
+moi.activites								{n * ["id du terme"] } 	--> tableau: type, nom, url, lieu, debut, fin, description
+moi.organisations							{n * ["id du terme"] } 	--> tableau: Nom, Type, URL
+moi.notifications							{n * ["id du terme"] } 	--> tableau: Nom, Type
+moi.personnes								{n * ["id du terme"] } 	--> tableau: Nom, Type, URL
 
 ### Preferences
 
-membre.traduction.on							choisir parmi [true,false]
-membre.traduction.aviser					choisir parmi [true,false]
+moi.traduction.on							choisir parmi [true,false]
+moi.traduction.aviser					choisir parmi [true,false]
 
-membre.favoris-filtrage						choisir parmi ["Aucun filtrage","etc"]
-membre.favoris-tri							choisir parmi ["nom","type"]
+moi.favoris-filtrage						choisir parmi ["Aucun filtrage","etc"]
+moi.favoris-tri							choisir parmi ["nom","type"]
 
-membre.notifications.on						choisir parmi [true,false]
-membre.notifications.comment				choisir parmi ["par courriel","par messagerie","en consultant site web"]
-membre.notifications.frequence			choisir parmi ["Immédiatement","1 fois par heure","1 fois par jour","1 fois par semaine","Jamais"]
-membre.notifications.filtrage				choisir parmi ["Aucun filtrage","etc"]
-membre.notifications.tri					choisir parmi ["nom","type"]
+moi.notifications.on						choisir parmi [true,false]
+moi.notifications.comment				choisir parmi ["par courriel","par messagerie","en consultant site web"]
+moi.notifications.frequence			choisir parmi ["Immédiatement","1 fois par heure","1 fois par jour","1 fois par semaine","Jamais"]
+moi.notifications.filtrage				choisir parmi ["Aucun filtrage","etc"]
+moi.notifications.tri					choisir parmi ["nom","type"]
 
-membre.utiliserMesFavoris					choisir parmi [true,false]
-membre.ajouterFavorisEnContinu			choisir parmi [true,false]
-membre.ccToutVersMoi							choisir parmi [true,false]
+moi.utiliserMesFavoris					choisir parmi [true,false]
+moi.ajouterFavorisEnContinu			choisir parmi [true,false]
+moi.ccToutVersMoi							choisir parmi [true,false]
 
-membre.taches-filtrage						choisir parmi ["Aucun filtrage","Sujet","Personne","Ressource"]
-membre.taches-tri								choisir parmi ["nom","type"]
+moi.taches-filtrage						choisir parmi ["Aucun filtrage","Sujet","Personne","Ressource"]
+moi.taches-tri								choisir parmi ["nom","type"]
 
-membre.historique-filtrage					choisir parmi ["Aucun filtrage","etc"]
-membre.historique-tri						choisir parmi ["moment","type","now"]
+moi.historique-filtrage					choisir parmi ["Aucun filtrage","etc"]
+moi.historique-tri						choisir parmi ["moment","type","now"]
 
-membre.agenda-filtrage						choisir parmi ["Aucun filtrage","etc"]
-membre.agenda-tri								choisir parmi ["moment","type","now","accomplie"]
+moi.agenda-filtrage						choisir parmi ["Aucun filtrage","etc"]
+moi.agenda-tri								choisir parmi ["moment","type","now","accomplie"]
 
-membre.membres-filtrage						choisir parmi ["Aucun filtrage","etc"]
-membre.pairs-filtrage						choisir parmi ["Aucun filtrage","etc"]
-membre.groupes-filtrage						choisir parmi ["Aucun filtrage","etc"]  ### NB: ajouter
-membre.membres-filtrage						choisir parmi ["Aucun filtrage","etc"]
+moi.membres-filtrage						choisir parmi ["Aucun filtrage","etc"]
+moi.pairs-filtrage						choisir parmi ["Aucun filtrage","etc"]
+moi.groupes-filtrage						choisir parmi ["Aucun filtrage","etc"]  ### NB: ajouter
+moi.membres-filtrage						choisir parmi ["Aucun filtrage","etc"]
 
-membre.organisations-filtrage				choisir parmi ["Aucun filtrage","etc"]
-membre.organisations-tri					choisir parmi ["moment","type","now"]
+moi.organisations-filtrage				choisir parmi ["Aucun filtrage","etc"]
+moi.organisations-tri					choisir parmi ["moment","type","now"]
 
-membre.mes-organisations-filtrage		choisir parmi ["Aucun filtrage","etc"]
-membre.mes-organisations-tri				choisir parmi ["moment","type","now"]
+moi.mes-organisations-filtrage		choisir parmi ["Aucun filtrage","etc"]
+moi.mes-organisations-tri				choisir parmi ["moment","type","now"]
 
-membre.personnes-filtrage					choisir parmi ["Aucun filtrage","etc"]
-membre.personnes-tri							choisir parmi ["moment","type","now"]
+moi.personnes-filtrage					choisir parmi ["Aucun filtrage","etc"]
+moi.personnes-tri							choisir parmi ["moment","type","now"]
 
-membre.mes-personnes-filtrage				choisir parmi ["Aucun filtrage","etc"]
-membre.mes-personnes-tri					choisir parmi ["moment","type","now"]
+moi.mes-personnes-filtrage				choisir parmi ["Aucun filtrage","etc"]
+moi.mes-personnes-tri					choisir parmi ["moment","type","now"]
 
-membre.lieux-filtrage						choisir parmi ["Aucun filtrage","etc"]
-membre.lieux-tri								choisir parmi ["moment","type","now"]
+moi.lieux-filtrage						choisir parmi ["Aucun filtrage","etc"]
+moi.lieux-tri								choisir parmi ["moment","type","now"]
 
-membre.mes-lieux-filtrage					choisir parmi ["Aucun filtrage","etc"]
-membre.mes-lieux-tri							choisir parmi ["moment","type","now"]
+moi.mes-lieux-filtrage					choisir parmi ["Aucun filtrage","etc"]
+moi.mes-lieux-tri							choisir parmi ["moment","type","now"]
 
-detail.appreciation							une valeur par user "Aucune", "Favorable", "Défavorable", "Spam", "Abus"
-detail.pertinence								une valeur par user "Sans opinion", "Indispensable", "Important", "Intéressant", "Sans intérêt"
-detail.qualite									une valeur par user "Sans opinion", "Excellente", "Bonne", "Criticable", "À éliminer"
+moi.detail.appreciation					une valeur par user "Aucune", "Favorable", "Défavorable", "Spam", "Abus"
+moi.detail.pertinence					une valeur par user "Sans opinion", "Indispensable", "Important", "Intéressant", "Sans intérêt"
+moi.detail.qualite						une valeur par user "Sans opinion", "Excellente", "Bonne", "Criticable", "À éliminer"
 
-recherche.nom									"string"
-recherche.trierPar							choix
-recherche.enOrdre								choix
-recherche.termes								items
-recherche.filtres								objet
-recherche.effectuer							quand recherche effectuée
-recherche.repeter								quand doit-elle être répétée ?
+moi.recherche.nom							"string"
+moi.recherche.trierPar					choix
+moi.recherche.enOrdre					choix
+moi.recherche.termes						items
+moi.recherche.filtres					objet
+moi.recherche.effectuer					quand recherche effectuée
+moi.recherche.repeter					quand doit-elle être répétée ?

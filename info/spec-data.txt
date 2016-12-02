@@ -113,7 +113,6 @@ page.thisPage				1
 page.signet					"title de la fenêtre"
 page.titre					"titre de la page"
 page.soustitre				"soustitre de la page"
-page.updated				"2016-11-27 à 02:03"
 page.section				{OBJ}
 page.section.terme		"Entreprise"
 page.section.id			"terme-timestamp-random"
@@ -125,7 +124,6 @@ page.sections				[ITEMS]
 page.sujets					[ITEMS]
 page.articles				[ITEMS]
 page.breves					[ITEMS]
-page.etc						VALEURS
 
 lead							{OBJ}
 lead.id						"lead-timestamp-random"
