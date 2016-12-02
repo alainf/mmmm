@@ -4,28 +4,32 @@ Remarque: je mettrai ceci en fin-de-ligne pour les ajouts que je ferai: **NEW**
 
 ## Robin
 
-### Enlever hapi-demo.
-
 ### Migrer démo de s'inscrire et de se connecter:
+* voir: issue #6
 * vers page "abonnezVous" (s'inscrire)
 * vers page "meConnecter" (se connecter)
 
-### Migrer switcher la langue
-* vers les 6 badges qui sont dans toutes les pages.
-
-### Lorsqu'on change de langue:
-* aller à la page courante
-* au lieu d'aller à la page d'accueil
-
 ### Liens avec dièse: comment ouvrir l'onglet approprié ?
+* voir: issue #2
 * ex: /fr/apropos#plan-du-site
 * aka deep-linking
 
 ### 1 fichier json par page du site, autoLoad dans var "data".
+* voir: issue #3 and issue #4
 * dans HTML je pourrai remplacer hardcoded par des includes, ex: <%- data.title %>
 - fichier json de la page Accueil te fournira les données nécessaire de cette page.
 
+### Migrer switcher la langue
+* voir: issue #8
+* vers les 6 badges qui sont dans toutes les pages.
+
+### Lorsqu'on change de langue:
+* voir: issue #8
+* aller à la page courante
+* au lieu d'aller à la page d'accueil
+
 ### Enlever templates et partials qui ne servent plus
+* voir: issue #7
 * login+inscription
 * accueilDemo
 * doc
@@ -34,6 +38,7 @@ Remarque: je mettrai ceci en fin-de-ligne pour les ajouts que je ferai: **NEW**
 * partials
 * pick-language
 * woot
+* hapi-demo
 
 ### Couch-DB
 * renommer collection "ya" --> "machina" ; s'il y a lieu changement(s) en conséquence. **NEW**
@@ -41,7 +46,7 @@ Remarque: je mettrai ceci en fin-de-ligne pour les ajouts que je ferai: **NEW**
 * requête pour, et affichage de, la page d'accueil: articles et brèves
 * breadcrumb et pagination (x2), en fonction des données et du contexte
 * moteur de recherche basic (Lucene?)
-
+* voirAussi: issue #7
 
 ## Feature Requests (pas du tout urgent)
 
@@ -69,7 +74,7 @@ Remarque: je mettrai ceci en fin-de-ligne pour les ajouts que je ferai: **NEW**
 * placer ces issues dans le tableau de notre git
 * mettre-à-jour notre Roadmap
 
-### SPEC en développement:
+### SPEC en développement: = DONE
 * pour articles
 * pour brèves
 * pour commentaires
@@ -82,7 +87,7 @@ Remarque: je mettrai ceci en fin-de-ligne pour les ajouts que je ferai: **NEW**
 * pour tâches
 * pour activités
 
-### Avoir tout le JSON nécessaire
+### Avoir tout le JSON nécessaire = DONE
 --- dans data/ ou dans CouchDB
 --- pour l'affichage complet de la page d'accueil (articles, layout, brèves, etc.)
 
