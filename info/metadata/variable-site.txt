@@ -1,0 +1,45 @@
+Variable "site" disponible globalement, ou uniquement pour le partial "mmhead".
+
+Pour que nous pouissions inclure jusqu'à 85 balises <meta>/<link> dans le <head> de nos pages.
+
+Voici un échantillon du Partial "mmhead" qu'il y aura.
+
+En ce moment je ne remplace PAS le partial "mmhead" actuel, car je n'ai pas la variab;le "site":
+
+<head>
+
+<title><%- site.title %></title>
+
+<link rel="stylesheet" href="/css/foundation.css">
+<link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/foundation-icons.css" />
+<link rel="stylesheet" href="/css/machina.css">
+
+<% if (site.meta.robots-txt) { %>
+<meta name="robots" content="<%- site.meta.robots-txt %>">
+<% } %>
+
+<% if (site.meta.shortcut-icon) { %>
+<link rel="shortcut icon" href="<%- site.meta.shortcut-icon %>">
+<% } %>
+
+<% if (site.meta.canonical) { %>
+<link rel="canonical" href="<%- site.meta.canonical %>" />
+<meta name="canonical URL" content="<%- site.meta.canonical %>" >
+<% } %>
+
+<% if (site.meta.charset) { %>
+<meta charset="<%- site.meta.charset %>">
+<% } %>
+
+<% if (site.meta.news-keywords) { %>
+<!-- Google -->
+<meta name="news_keywords" content="<%- site.meta.news-keywords %>">
+<% } %>
+
+<% if (site.meta.original-source) { %>
+<!-- Google -->
+<meta name="original-source" content="<%- site.meta.original-source %>">
+<% } %>
+
+</head>
