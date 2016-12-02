@@ -34,6 +34,14 @@ tache
 
 ----
 
+signet.title				"Customize Firefox",
+signet.id 					16,
+signet.parent 				14,
+signet.dateAdded 			1298540561821865,
+signet.lastModified 		1298540561823507,
+signet.type 				"text/x-moz-place",
+signet.uri 					"http://www.mozilla.com/en-US/firefox/customize/"
+
 issue							{OBJ}
 issue.id						"référence"
 issue.path					"/fr/issue/id"
@@ -338,8 +346,8 @@ site.meta.cookie								"userid=xyz; expires=Wednesday, 08-Aug-15 23:59:59 GMT;"
 site.meta.content-type						"text/html"
 site.meta.charset								"UTF-8"
 site.meta.shortcut-icon 					"/favicon.ico"
-site.meta.icon-16x16 						"/preview_16x16.png"
-site.meta.icon-32x32 						"/preview_32x32.png"
+site.meta.icon-16 							"/preview_16x16.png"
+site.meta.icon-32 							"/preview_32x32.png"
 site.meta.icon-96x96 						null
 site.meta.icon-192x192 						null
 site.meta.mask-icon 							null

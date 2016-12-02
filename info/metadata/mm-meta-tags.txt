@@ -1,20 +1,20 @@
 # Include these META tags in mm <head> ?
 
-<link rel=”canonical” href=”http://example.com/” />
-<meta name=”robots” content=”noindex”>
-<meta name=”robots” content=”noarchive” />
-<meta name=”robots” content=”notranslate” />
+<link rel="canonical" href="http://example.com/" />
+<meta name="robots" content="noindex">
+<meta name="robots" content="noarchive" />
+<meta name="robots" content="notranslate" />
 <meta http-equiv="cookie" content="userid=xyz; expires=Wednesday, 08-Aug-15 23:59:59 GMT;" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<meta name="NOM" 						content="VALEUR">
-<meta name="shortcut icon" 		content="/favicon.ico" >
-<meta name="icon sizes=16x16" 	content="/preview_16x16.png" >
-<meta name="icon sizes=32x32" 	content="/preview_32x32.png" >
-<meta name="news_keywords" 		content="VALEUR ## google" >
-<meta name="original-source" 		content="VALEUR ## google" >
-<meta name="rating" 					content="afe for kids" >
-<meta name="robots" 					content="/robots.txt" >
+<meta name="NOM" 								content="VALEUR">
+<meta name="shortcut icon" 				content="/favicon.ico" >
+<meta name="icon sizes=16x16" 			content="/preview_16x16.png" >
+<meta name="icon sizes=32x32" 			content="/preview_32x32.png" >
+<meta name="news_keywords" 				content="VALEUR ## google" >
+<meta name="original-source" 				content="VALEUR ## google" >
+<meta name="rating" 							content="afe for kids" >
+<meta name="robots" 							content="/robots.txt" >
 
 <meta name="canonical URL" 				content="VALEUR" >
 <meta name="content-language" 			content="VALEUR" >

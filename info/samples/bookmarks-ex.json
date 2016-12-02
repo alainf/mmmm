@@ -1,0 +1,20 @@
+{
+"index":4,
+"title":"",
+"id":13,
+"parent":2,
+"dateAdded":1298540561819161,
+"lastModified":1298540561819161,
+"type":"text/x-moz-place-separator"
+}
+
+{
+"index":1,
+"title":"Customize Firefox",
+"id":16,
+"parent":14,
+"dateAdded":1298540561821865,
+"lastModified":1298540561823507,
+"type":"text/x-moz-place",
+"uri":"http://www.mozilla.com/en-US/firefox/customize/"
+}

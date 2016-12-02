@@ -1,0 +1,348 @@
+<!-- #########################################################
+
+* xxxxxxxxxxxxxx
+* xxxxxxxxxxxxxx
+* xxxxxxxxxxxxxx
+* xxxxxxxxxxxxxx
+* xxxxxxxxxxxxxx
+* xxxxxxxxxxxxxx
+
+############################################################### -->
+
+<head>
+
+<title><%- site.title %></title>
+
+<link rel="stylesheet" href="/css/foundation.css">
+<link rel="stylesheet" href="/css/app.css">
+<link rel="stylesheet" href="/css/foundation-icons.css" />
+<link rel="stylesheet" href="/css/machina.css">
+
+<% if (site.meta.robots-txt) { %>
+<meta name="robots" content="<%- site.meta.robots-txt %>">
+<% } %>
+
+<% if (site.meta.robots-noindex) { %>
+<meta name="robots" content="noindex">
+<% } %>
+
+<% if (site.meta.robots-noarchive) { %>
+<meta name="robots" content="noarchive">
+<% } %>
+
+<% if (site.meta.robots-notranslate) { %>
+<meta name="robots" content="notranslate">
+<% } %>
+
+<% if (site.meta.shortcut-icon) { %>
+<link rel="shortcut icon" href="<%- site.meta.shortcut-icon %>">
+<% } %>
+
+<% if (site.meta.canonical) { %>
+<link rel="canonical" href="<%- site.meta.canonical %>" />
+<meta name="canonical URL" content="<%- site.meta.canonical %>" >
+<% } %>
+
+<% if (site.meta.viewport) { %>
+<meta name="viewport" content="<%- site.meta.viewport %>">
+<% } %>
+
+<% if (site.meta.compatible) { %>
+<meta http-equiv="x-ua-compatible" content="<%- site.meta.compatible %>">
+<% } %>
+
+<% if (site.meta.cookie) { %>
+<meta http-equiv="cookie" content="<%- site.meta.cookie %>">
+<% } %>
+
+<% if (site.meta.content-type) { %>
+<meta http-equiv="content-type" content="<%- site.meta.content-type %>">
+<% } %>
+
+<% if (site.meta.charset) { %>
+<meta charset="<%- site.meta.charset %>">
+<% } %>
+
+<% if site.meta.icon-16) { %>
+<meta name="icon sizes=16x16" content="<%- site.meta.icon-16 %>">
+<% } %>
+
+<% if (site.meta.icon-32) { %>
+<meta name="icon sizes=32x32" content="<%- site.meta.icon-32 %>">
+<% } %>
+
+<% if site.meta.icon-96) { %>
+<meta name="icon sizes=96x96" content="<%- site.meta.icon-96 %>">
+<% } %>
+
+<% if (site.meta.icon-192) { %>
+<meta name="icon sizes=192x192" content="<%- site.meta.icon-192 %>">
+<% } %>
+
+<% if (site.meta.mask-icon) { %>
+<meta name="mask-icon" content="<%- site.meta.mask-icon %>">
+<% } %>
+
+<% if (site.meta.news-keywords) { %>
+<!-- Google -->
+<meta name="news_keywords" content="<%- site.meta.news-keywords %>">
+<% } %>
+
+<% if (site.meta.original-source) { %>
+<!-- Google -->
+<meta name="original-source" content="<%- site.meta.original-source %>">
+<% } %>
+
+<% if (site.meta.rating) { %>
+<meta name="rating" content="<%- site.meta.rating %>">
+<% } %>
+
+<% if (site.meta.content-language) { %>
+<meta name="content-language" content="<%- site.meta.content-language %>">
+<meta name="hreflang_[langcode]" content="<%- site.meta.content-language %>" >
+<% } %>
+
+<% if (site.meta.copyright) { %>
+<meta name="copyright" content="<%- site.meta.copyright %>">
+<% } %>
+
+<% if (site.meta.description) { %>
+<meta name="description" content="<%- site.meta.description %>">
+<% } %>
+
+<% if (site.meta.generator) { %>
+<meta name="generator" content="<%- site.meta.generator %>">
+<% } %>
+
+<% if (site.meta.keywords) { %>
+<meta name="keywords" content="<%- site.meta.keywords %>">
+<% } %>
+
+<% if (site.meta.product-availability) { %>
+<meta name="product:availability" content="<%- site.meta.product-availability %>">
+<% } %>
+
+<% if (site.meta.product-category) { %>
+<meta name="product:category" content="<%- site.meta.product-category %>">
+<% } %>
+
+<% if (site.meta.product-condition) { %>
+<meta name="product:condition" content="<%- site.meta.product-condition %>">
+<% } %>
+
+<% if (site.meta.product-expiration-time) { %>
+<meta name="product:expiration_time" content="<%- site.meta.product-expiration-time %>">
+<% } %>
+
+<% if (site.meta.product-price-amount) { %>
+<meta name="product:price:amount" content="<%- site.meta.product-price-amount %>">
+<% } %>
+
+<% if (site.meta.product-price-currency) { %>
+<meta name="product:price:currency" content="<%- site.meta.product-price-currency %>">
+<% } %>
+
+<% if (site.meta.product-retailer) { %>
+<meta name="product:retailer" content="<%- site.meta.product-retailer %>">
+<% } %>
+
+<% if (site.meta.publisher) { %>
+<meta name="publisher" content="<%- site.meta.publisher %>">
+<meta name="dcterms.publisher" content="<%- site.meta.publisher %>">
+<% } %>
+
+<% if (site.meta.author) { %>
+<meta name="rel=author" content="<%- site.meta.author %>">
+<meta name="dcterms.creator" content="<%- site.meta.author %>">
+<% } %>
+
+<% if (site.meta.rights) { %>
+<meta name="rights" content="<%- site.meta.rights %>">
+<% } %>
+
+<% if (site.meta.dc.accessRights) { %>
+<meta name="dcterms.accessRights" content="<%- site.meta.dc.accessRights %>">
+<% } %>
+
+<% if (site.meta.title) { %>
+<meta name="title" content="<%- site.meta.title %>">
+<meta name="dcterms.title" content="<%- site.meta.title %>">
+<% } %>
+
+<% if (site.meta.dc.accrualPolicy) { %>
+<meta name="dcterms.accrualPolicy" content="<%- site.meta.dc.accrualPolicy %>">
+<% } %>
+
+<% if (site.meta.dc.alternative) { %>
+<meta name="dcterms.alternative" content="<%- site.meta.dc.alternative %>">
+<% } %>
+
+<% if (site.meta.dc.audience) { %>
+<meta name="dcterms.audience" content="<%- site.meta.dc.audience %>">
+<% } %>
+
+<% if (site.meta.dc.available) { %>
+<meta name="dcterms.available" content="<%- site.meta.dc.available %>">
+<% } %>
+
+<% if (site.meta.dc.conformsTo) { %>
+<meta name="dcterms.conformsTo" content="<%- site.meta.dc.conformsTo %>">
+<% } %>
+
+<% if (site.meta.dc.contributor) { %>
+<meta name="dcterms.contributor" content="<%- site.meta.dc.contributor %>">
+<% } %>
+
+<% if (site.meta.dc.coverage) { %>
+<meta name="dcterms.coverage" content="<%- site.meta.dc.coverage %>">
+<% } %>
+
+<% if (site.meta.dc.created) { %>
+<meta name="dcterms.created" content="<%- site.meta.dc.created %>">
+<% } %>
+
+<% if (site.meta.dc.date) { %>
+<meta name="dcterms.date" content="<%- site.meta.dc.date %>">
+<% } %>
+
+<% if (site.meta.dc.dateAccepted) { %>
+<meta name="dcterms.dateAccepted" content="<%- site.meta.dc.dateAccepted %>">
+<% } %>
+
+<% if (site.meta.dc.dateCopyrighted) { %>
+<meta name="dcterms.dateCopyrighted" content="<%- site.meta.dc.dateCopyrighted %>">
+<% } %>
+
+<% if (site.meta.dc.dateSubmitted) { %>
+<meta name="dcterms.dateSubmitted" content="<%- site.meta.dc.dateSubmitted %>">
+<% } %>
+
+<% if (site.meta.dc.description) { %>
+<meta name="dcterms.description" content="<%- site.meta.dc.description %>">
+<% } %>
+
+<% if (site.meta.dc.education-level) { %>
+<meta name="dcterms.educationLevel" content="<%- site.meta.dc.education-level %>">
+<% } %>
+
+<% if (site.meta.dc.instructional) { %>
+<meta name="dcterms.instructionalMethod" content="<%- site.meta.dc.instructional %>">
+<% } %>
+
+<% if (site.meta.dc.extent) { %>
+<meta name="dcterms.extent" content="<%- site.meta.dc.extent %>">
+<% } %>
+
+<% if (site.meta.dc.format) { %>
+<meta name="dcterms.format" content="<%- site.meta.dc.format %>">
+<% } %>
+
+<% if (site.meta.dc.hasFormat) { %>
+<meta name="dcterms.hasFormat" content="<%- site.meta.dc.hasFormat %>">
+<% } %>
+
+<% if (site.meta.dc.hasPart) { %>
+<meta name="dcterms.hasPart" content="<%- site.meta.dc.hasPart %>">
+<% } %>
+
+<% if (site.meta.dc.hasVersion) { %>
+<meta name="dcterms.hasVersion" content="<%- site.meta.dc.hasVersion %>">
+<% } %>
+
+<% if (site.meta.dc.identifier) { %>
+<meta name="dcterms.identifier" content="<%- site.meta.dc.identifier %>">
+<% } %>
+
+<% if (site.meta.dc.isFormatOf) { %>
+<meta name="dcterms.isFormatOf" content="<%- site.meta.dc.isFormatOf %>">
+<% } %>
+
+<% if (site.meta.dc.isPartOf) { %>
+<meta name="dcterms.isPartOf" content="<%- site.meta.dc.isPartOf %>">
+<% } %>
+
+<% if (site.meta.dc.isReferencedBy) { %>
+<meta name="dcterms.isReferencedBy" content="<%- site.meta.dc.isReferencedBy %>">
+<% } %>
+
+<% if (site.meta.dc.isReplacedBy) { %>
+<meta name="dcterms.isReplacedBy" content="<%- site.meta.dc.isReplacedBy %>">
+<% } %>
+
+<% if (site.meta.dc.isRequiredBy) { %>
+<meta name="dcterms.isRequiredBy" content="<%- site.meta.dc.isRequiredBy %>">
+<% } %>
+
+<% if (site.meta.dc.issued) { %>
+<meta name="dcterms.issued" content="<%- site.meta.dc.issued %>">
+<% } %>
+
+<% if (site.meta.dc.isVersionOf) { %>
+<meta name="dcterms.isVersionOf" content="<%- site.meta.dc.isVersionOf %>">
+<% } %>
+
+<% if (site.meta.dc.language) { %>
+<meta name="dcterms.language" content="<%- site.meta.dc.language %>">
+<% } %>
+
+<% if (site.meta.dc.license) { %>
+<meta name="dcterms.license" content="<%- site.meta.dc.license %>">
+<% } %>
+
+<% if (site.meta.dc.mediator) { %>
+<meta name="dcterms.mediator" content="<%- site.meta.dc.mediator %>">
+<% } %>
+
+<% if (site.meta.dc.modified) { %>
+<meta name="dcterms.modified" content="<%- site.meta.dc.modified %>">
+<% } %>
+
+<% if (site.meta.dc.provenance) { %>
+<meta name="dcterms.provenance" content="<%- site.meta.dc.provenance %>">
+<% } %>
+
+<% if (site.meta.dc.references) { %>
+<meta name="dcterms.references" content="<%- site.meta.dc.references %>">
+<% } %>
+
+<% if (site.meta.dc.relation) { %>
+<meta name="dcterms.relation" content="<%- site.meta.dc.relation %>">
+<% } %>
+
+<% if (site.meta.dc.replaces) { %>
+<meta name="dcterms.replaces" content="<%- site.meta.dc.replaces %>">
+<% } %>
+
+<% if (site.meta.dc.requires) { %>
+<meta name="dcterms.requires" content="<%- site.meta.dc.requires %>">
+<% } %>
+
+<% if (site.meta.dc.rights) { %>
+<meta name="dcterms.rights" content="<%- site.meta.dc.rights %>">
+<% } %>
+
+<% if (site.meta.dc.rightsHolder) { %>
+<meta name="dcterms.rightsHolder" content="<%- site.meta.dc.rightsHolder %>">
+<% } %>
+
+<% if (site.meta.dc.source) { %>
+<meta name="dcterms.source" content="<%- site.meta.dc.source %>">
+<% } %>
+
+<% if (site.meta.dc.spatial) { %>
+<meta name="dcterms.spatial" content="<%- site.meta.dc.spatial %>">
+<% } %>
+
+<% if (site.meta.dc.subject) { %>
+<meta name="dcterms.subject" content="<%- site.meta.dc.subject %>">
+<% } %>
+
+<% if (site.meta.dc.temporal) { %>
+<meta name="dcterms.temporal" content="<%- site.meta.dc.temporal %>">
+<% } %>
+
+<% if (site.meta.dc.type) { %>
+<meta name="dcterms.type" content="<%- site.meta.dc.type %>">
+<% } %>
+
+</head>
