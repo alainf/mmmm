@@ -35,6 +35,7 @@ tache
 ----
 
 issue							{OBJ}
+issue.id						"référence"
 issue.path					"/fr/issue/id"
 issue.name					"Deep linking"
 issue.tags					[ITEMS]
@@ -49,6 +50,7 @@ data							{OBJ}
 data.param-n				paramName and paramValue
 
 groupe						{OBJ}
+groupe.id					"référence"
 groupe.nom					"string"
 groupe.href					"URL"
 groupe.apercu				"string"
@@ -126,7 +128,7 @@ page.breves					[ITEMS]
 page.etc						VALEURS
 
 lead							{OBJ}
-lead._id						"lead-timestamp-random"
+lead.id						"lead-timestamp-random"
 lead.title					"string"
 lead.path					"/languageCode/detail/ID"
 lead.thumb					{OBJ}
@@ -146,6 +148,7 @@ lead.contenu				"string"
 lead.apercu					"string"
 
 resultat						{OBJ}
+resultat.id					"référence"
 resultat.ressource		"référence" vers l'objet de ce LEAD.
 resultat.pertinence		nombre float entre 1 et 10.
 resultat.href				"URL"
@@ -156,6 +159,7 @@ resultat.contenu			"string"
 faq							{OBJ}
 faq.catégorie				choisir parmi les 8 catégories actuelles
 faq.question				{OBJ}
+faq.question.id			"référence"
 faq.question.titre		"string"
 faq.question.contenu		"string"
 faq.question.numero		float

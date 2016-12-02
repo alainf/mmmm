@@ -2,12 +2,14 @@
 
 ## TOC
 
+membre.ajouterFavorisEnContinu
 detail.appreciation
 detail.pertinence
 detail.qualite
 membre.activites
 membre.agenda-filtrage
 membre.agenda-tri
+membre.ccToutVersMoi
 membre.courriel
 membre.cout-mensuel
 membre.deduction 
@@ -68,6 +70,7 @@ membre.traduction.aviser
 membre.traduction.on
 membre.type-de-compte
 membre.username
+membre.utiliserMesFavoris
 recherche.effectuer
 recherche.enOrdre
 recherche.filtres
@@ -126,6 +129,10 @@ membre.notifications.comment				choisir parmi ["par courriel","par messagerie","
 membre.notifications.frequence			choisir parmi ["Immédiatement","1 fois par heure","1 fois par jour","1 fois par semaine","Jamais"]
 membre.notifications.filtrage				choisir parmi ["Aucun filtrage","etc"]
 membre.notifications.tri					choisir parmi ["nom","type"]
+
+membre.utiliserMesFavoris					choisir parmi [true,false]
+membre.ajouterFavorisEnContinu			choisir parmi [true,false]
+membre.ccToutVersMoi							choisir parmi [true,false]
 
 membre.taches-filtrage						choisir parmi ["Aucun filtrage","Sujet","Personne","Ressource"]
 membre.taches-tri								choisir parmi ["nom","type"]
