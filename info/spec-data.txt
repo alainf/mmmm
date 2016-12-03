@@ -43,11 +43,11 @@ signet.type 				"text/x-moz-place",
 signet.uri 					"http://www.mozilla.com/en-US/firefox/customize/"
 
 issue							{OBJ}
-issue.id						"référence"
+issue.id						"issue-aaaa-mm-jj-hh-mm-ss-random"
 issue.path					"/fr/issue/id"
 issue.name					"Deep linking"
-issue.tags					[ITEMS]
-issue.audience				[ITEMS]
+issue.tags					["string"]
+issue.audience				["string"]
 issue.description			"string"
 issue.apercu				"string"
 issue.started				"aaaa-mm-jj-hh-mm-ss"
@@ -58,7 +58,7 @@ data							{OBJ}
 data.param-n				paramName and paramValue
 
 groupe						{OBJ}
-groupe.id					"référence"
+groupe.id					"gr-aaaa-mm-jj-hh-mm-ss-random"
 groupe.nom					"string"
 groupe.href					"url"
 groupe.apercu				"string"
@@ -68,8 +68,8 @@ groupe.logo.src			"url"
 groupe.logo.href			"url"
 groupe.logo.alt			"string"
 groupe.logo.tip			"string"
-groupe.membres				[ITEMS]
-groupe.groupes				[ITEMS] ## iow des sous-groupes
+groupe.membres				["membre-aaaa-mm-jj-hh-mm-ss-random"]
+groupe.groupes				["gr-aaaa-mm-jj-hh-mm-ss-random"] ## iow des sous-groupes
 
 ----
 
@@ -79,9 +79,9 @@ membre.username			"alainf"
 membre.nom					"Farmer"
 membre.prenom				"Alain"
 membre.usertype			"admin"
-membre.permissions		[ITEMS] ou un TOKEN (ex: "toutes")
-membre.groupes				[ITEMS]
-membre.pairs				[ITEMS]
+membre.permissions		["string"] ou un TOKEN (ex: "toutes")
+membre.groupes				["gr-aaaa-mm-jj-hh-mm-ss-random"]
+membre.pairs				["membre-aaaa-mm-jj-hh-mm-ss-random"]
 membre.participation		{OBJ}
 membre.langues				["fr", "en"]
 membre.image				{OBJ}
@@ -127,11 +127,11 @@ page.section.id			"terme-timestamp-random"
 page.sujet					{OBJ}
 page.sujet.terme			"Agriculture"
 page.sujet.id				"terme-timestamp-random"
-page.breadcrumb			[ITEMS]
-page.sections				[ITEMS]
-page.sujets					[ITEMS]
-page.articles				[ITEMS]
-page.breves					[ITEMS]
+page.breadcrumb			[hyperliens]
+page.sections				["référence"]
+page.sujets					["référence"]
+page.articles				["référence"]
+page.breves					["référence"]
 
 lead							{OBJ}
 lead.id						"lead-timestamp-random"
@@ -154,8 +154,8 @@ lead.contenu				"string"
 lead.apercu					"string"
 
 resultat						{OBJ}
-resultat.id					"référence"
-resultat.ressource		"référence" vers l'objet de ce LEAD.
+resultat.id					"resultat-aaaa-mm-jj-hh-mm-ss-random"
+resultat.ressource		"objet-aaaa-mm-jj-hh-mm-ss-random" ## vers l'objet de ce LEAD.
 resultat.pertinence		nombre float entre 1 et 10.
 resultat.href				"url"
 resultat.titre				"string"
@@ -165,7 +165,7 @@ resultat.contenu			"string"
 faq							{OBJ}
 faq.catégorie				choisir parmi les 8 catégories actuelles
 faq.question				{OBJ}
-faq.question.id			"référence"
+faq.question.id			"quest-aaaa-mm-jj-hh-mm-ss-random"
 faq.question.titre		"string"
 faq.question.contenu		"string"
 faq.question.numero		float
@@ -174,21 +174,21 @@ faq.reponse.titre			"string"
 faq.reponse.contenu		"string"
 
 commentaire					{OBJ}
-commentaire.id				"référence"
+commentaire.id				"comment-aaaa-mm-jj-hh-mm-ss-random"
 commentaire.titre			"string"
 commentaire.contenu		"string"
-commentaire.versQui		"référence"
-commentaire.parQui		"référence"
+commentaire.versQui		"pers-aaaa-mm-jj-hh-mm-ss-random"
+commentaire.parQui		"pers-aaaa-mm-jj-hh-mm-ss-random"
 commentaire.quand			"aaaa-mm-jj-hh-mm-ss"
 
 contacter					{OBJ}
-contacter.qui				"référence"
-contacter.parQui			"référence"
+contacter.qui				"pers-aaaa-mm-jj-hh-mm-ss-random"
+contacter.parQui			"pers-aaaa-mm-jj-hh-mm-ss-random"
 contacter.raison			"choix"
 contacter.message			"string"
 
 organisation					{OBJ}
-organisation.id				"référence"
+organisation.id				"org-aaaa-mm-jj-hh-mm-ss-random"
 organisation.nom				"string"
 organisation.apercu			"string"
 organisation.description	"string"
@@ -197,7 +197,7 @@ organisation.naissance		"yyyy-mm-dd"
 organisation.deces			"yyyy-mm-dd"
 
 personne							{OBJ}
-personne.id						"référence"
+personne.id						"pers-aaaa-mm-jj-hh-mm-ss-random"
 personne.nom					"string"
 personne.nomFamille			"string"
 personne.prenom				"string"
@@ -209,124 +209,124 @@ personne.naissance			"yyyy-mm-dd"
 personne.deces					"yyyy-mm-dd"
 
 rendezVous						{OBJ}
-rendezVous.id					"référence"
+rendezVous.id					"rv-aaaa-mm-jj-hh-mm-ss-random"
 rendezVous.titre				"string"
 rendezVous.url					"url"
-rendezVous.lieu				"référence"
+rendezVous.lieu				"lieu-aaaa-mm-jj-hh-mm-ss-random"
 rendezVous.debut				"aaaa-mm-jj-hh-mm-ss"
 rendezVous.fin					"aaaa-mm-jj-hh-mm-ss"
 rendezVous.description		"string"
 rendezVous.apercu				"string"
 
 avis								{OBJ}
-avis.id							"référence"
+avis.id							"avis-aaaa-mm-jj-hh-mm-ss-random"
 avis.titre						"string"
 avis.url							"url"
-avis.lieu						"référence"
+avis.lieu						"lieu-aaaa-mm-jj-hh-mm-ss-random"
 avis.debut						"aaaa-mm-jj-hh-mm-ss"
 avis.fin							"aaaa-mm-jj-hh-mm-ss"
 avis.apercu						"string"
 avis.description				"string"
 
 appel								{OBJ}
-appel.id							"référence"
+appel.id							"appel-aaaa-mm-jj-hh-mm-ss-random"
 appel.titre						"string"
 appel.url						"url"
-appel.lieu						"référence"
+appel.lieu						"lieu-aaaa-mm-jj-hh-mm-ss-random"
 appel.debut						"aaaa-mm-jj-hh-mm-ss"
 appel.fin						"aaaa-mm-jj-hh-mm-ss"
 appel.apercu					"string"
 appel.description				"string"
 
 bourse							{OBJ}
-bourse.id						"référence"
+bourse.id						"bourse-aaaa-mm-jj-hh-mm-ss-random"
 bourse.titre					"string"
 bourse.url						"url"
-bourse.lieu						"référence"
+bourse.lieu						"lieu-aaaa-mm-jj-hh-mm-ss-random"
 bourse.debut					"aaaa-mm-jj-hh-mm-ss"
 bourse.fin						"aaaa-mm-jj-hh-mm-ss"
 bourse.description			"string"
 bourse.apercu					"string"
 
 subvention						{OBJ}
-subvention.id					"référence"
+subvention.id					"subv-aaaa-mm-jj-hh-mm-ss-random"
 subvention.titre				"string"
 subvention.url					"url"
-subvention.lieu				"référence"
+subvention.lieu				"lieu-aaaa-mm-jj-hh-mm-ss-random"
 subvention.debut				"aaaa-mm-jj-hh-mm-ss"
 subvention.fin					"aaaa-mm-jj-hh-mm-ss"
 subvention.apercu				"string"
 subvention.description		"string"
 
 conference						{OBJ}
-conference.id					"référence"
+conference.id					"conf-aaaa-mm-jj-hh-mm-ss-random"
 conference.titre				"string"
 conference.url					"url"
-conference.lieu				"référence"
+conference.lieu				"lieu-aaaa-mm-jj-hh-mm-ss-random"
 conference.debut				"aaaa-mm-jj-hh-mm-ss"
 conference.fin					"aaaa-mm-jj-hh-mm-ss"
 conference.apercu				"string"
 conference.description		"string"
 
 congres							{OBJ}
-congres.id						"référence"
+congres.id						"congres-aaaa-mm-jj-hh-mm-ss-random"
 congres.titre					"string"
 congres.url						"url"
-congres.lieu					"référence"
+congres.lieu					"lieu-aaaa-mm-jj-hh-mm-ss-random"
 congres.debut					"aaaa-mm-jj-hh-mm-ss"
 congres.fin						"aaaa-mm-jj-hh-mm-ss"
 congres.apercu					"string"
 congres.description			"string"
 
 emploi							{OBJ}
-emploi.id						"référence"
+emploi.id						"emploi-aaaa-mm-jj-hh-mm-ss-random"
 emploi.titre					"string"
 emploi.url						"url"
-emploi.lieu						"référence"
+emploi.lieu						"lieu-aaaa-mm-jj-hh-mm-ss-random"
 emploi.debut					"aaaa-mm-jj-hh-mm-ss"
 emploi.fin						"aaaa-mm-jj-hh-mm-ss"
 emploi.apercu					"string"
 emploi.description			"string"
 
 tache								{OBJ}
-tache.id							"référence"
+tache.id							"tache-aaaa-mm-jj-hh-mm-ss-random"
 tache.titre						"string"
 tache.url						"url"
-tache.lieu						"référence"
+tache.lieu						"lieu-aaaa-mm-jj-hh-mm-ss-random"
 tache.debut						"aaaa-mm-jj-hh-mm-ss"
 tache.fin						"aaaa-mm-jj-hh-mm-ss"
 tache.apercu					"string"
 tache.description				"string"
 
 activite							{OBJ}
-activite.id						"référence"
+activite.id						"activite-aaaa-mm-jj-hh-mm-ss-random"
 activite.titre					"string"
 activite.url					"url"
-activite.lieu					"référence"
+activite.lieu					"lieu-aaaa-mm-jj-hh-mm-ss-random"
 activite.debut					"aaaa-mm-jj-hh-mm-ss"
 activite.fin					"aaaa-mm-jj-hh-mm-ss"
 activite.apercu				"string"
 activite.description			"string"
 
 lancement						{OBJ}
-lancement.id					"référence"
+lancement.id					"lancement-aaaa-mm-jj-hh-mm-ss-random"
 lancement.titre				"string"
 lancement.url					"url"
-lancement.lieu					"référence"
+lancement.lieu					"lieu-aaaa-mm-jj-hh-mm-ss-random"
 lancement.debut				"aaaa-mm-jj-hh-mm-ss"
 lancement.fin					"aaaa-mm-jj-hh-mm-ss"
 lancement.apercu				"string"
 lancement.description		"string"
 
 site										{OBJ}
-site.id									"référence"
+site.id									"site-aaaa-mm-jj-hh-mm-ss-random"
 site.logo								{OBJ}
 site.logo.src							"url"
 site.logo.href							"url"
 site.logo.alt							"string"
 site.logo.tip							"string"
-site.membres							[références]
-site.groupes							[références]
+site.membres							["pers-aaaa-mm-jj-hh-mm-ss-random"]
+site.groupes							["gr-aaaa-mm-jj-hh-mm-ss-random"]
 site.langues							["fr", "en", "es", "it", "ru", "ar"]
 
 site.biblio-author					"string"
