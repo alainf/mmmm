@@ -1,70 +1,139 @@
 <!-- #########################################################
 
-==== TABLE DES MATIERES ====
-* xxxxxxxxxxxxxx
-* xxxxxxxxxxxxxx
-* xxxxxxxxxxxxxx
-* xxxxxxxxxxxxxx
-* xxxxxxxxxxxxxx
-* xxxxxxxxxxxxxx
+site.meta.biblio-author
+site.meta.biblio-contributor
+site.meta.biblio-description
+site.meta.biblio-format
+site.meta.biblio-keywords
+site.meta.biblio-keywords-google
+site.meta.biblio-identifier
+site.meta.biblio-language
+site.meta.biblio-provenance
+site.meta.biblio-publisher
+site.meta.biblio-subject
+site.meta.biblio-title
+site.meta.biblio-type
+site.meta.date-accepted
+site.meta.date-available
+site.meta.date-copyrighted
+site.meta.date-created
+site.meta.date-issued
+site.meta.date-modified
+site.meta.date-submitted
+site.meta.icon-16
+site.meta.icon-192
+site.meta.icon-32
+site.meta.icon-96
+site.meta.icon-mask
+site.meta.icon-shortcut
+site.meta.link-alternative
+site.meta.link-canonical
+site.meta.link-conforms-to
+site.meta.link-generator
+site.meta.link-has-format
+site.meta.link-has-part
+site.meta.link-has-version
+site.meta.link-is-format-of
+site.meta.link-is-part-of
+site.meta.link-is-referenced-by
+site.meta.link-is-replaced-by
+site.meta.link-is-required-by
+site.meta.link-is-version-of
+site.meta.link-references
+site.meta.link-relation
+site.meta.link-replaces
+site.meta.link-requires
+site.meta.link-robots-txt
+site.meta.link-source
+site.meta.link-source-google
+site.meta.policy-access
+site.meta.policy-add
+site.meta.policy-copyright
+site.meta.policy-license
+site.meta.policy-mediator
+site.meta.policy-rights
+site.meta.policy-rights-holder
+site.meta.product-availability
+site.meta.product-category
+site.meta.product-condition
+site.meta.product-expiration
+site.meta.product-price-amount
+site.meta.product-price-currency
+site.meta.product-retailer
+site.meta.scope-audience
+site.meta.scope-coverage
+site.meta.scope-educ-level
+site.meta.scope-educ-method
+site.meta.scope-extent
+site.meta.scope-rating
+site.meta.scope-spatial
+site.meta.scope-temporal
+site.meta.web-charset
+site.meta.web-compatible
+site.meta.web-content-type
+site.meta.web-cookie
+site.meta.web-no-archive
+site.meta.web-no-index
+site.meta.web-no-translate
+site.meta.web-viewport
 
 ############################################################### -->
 
 <head>
 
-<title><%- site.title %></title>
+<title><%- data.title %></title>
 
 <link rel="stylesheet" href="/css/foundation.css">
 <link rel="stylesheet" href="/css/app.css">
 <link rel="stylesheet" href="/css/foundation-icons.css" />
 <link rel="stylesheet" href="/css/machina.css">
 
-<% if (site.meta.robots-txt) { %>
-<meta name="robots" content="<%- site.meta.robots-txt %>">
+<% if (site.meta.link-robots-txt) { %>
+<meta name="robots" content="<%- site.meta.link-robots-txt %>">
 <% } %>
 
-<% if (site.meta.robots-noindex) { %>
+<% if (site.meta.web-no-index) { %>
 <meta name="robots" content="noindex">
 <% } %>
 
-<% if (site.meta.robots-noarchive) { %>
+<% if (site.meta.web-no-archive) { %>
 <meta name="robots" content="noarchive">
 <% } %>
 
-<% if (site.meta.robots-notranslate) { %>
+<% if (site.meta.web-no-translate) { %>
 <meta name="robots" content="notranslate">
 <% } %>
 
-<% if (site.meta.shortcut-icon) { %>
-<link rel="shortcut icon" href="<%- site.meta.shortcut-icon %>">
+<% if (site.meta.icon-shortcut) { %>
+<link rel="shortcut icon" href="<%- site.meta.icon-shortcut %>">
 <% } %>
 
-<% if (site.meta.canonical) { %>
-<link rel="canonical" href="<%- site.meta.canonical %>" />
-<meta name="canonical URL" content="<%- site.meta.canonical %>" >
+<% if (site.meta.link-canonical) { %>
+<link rel="canonical" href="<%- site.meta.link-canonical %>" />
+<meta name="canonical URL" content="<%- site.meta.link-canonical %>" >
 <% } %>
 
-<% if (site.meta.viewport) { %>
-<meta name="viewport" content="<%- site.meta.viewport %>">
+<% if (site.meta.web-viewport) { %>
+<meta name="viewport" content="<%- site.meta.web-viewport %>">
 <% } %>
 
-<% if (site.meta.compatible) { %>
-<meta http-equiv="x-ua-compatible" content="<%- site.meta.compatible %>">
+<% if (site.meta.web-compatible) { %>
+<meta http-equiv="x-ua-compatible" content="<%- site.meta.web-compatible %>">
 <% } %>
 
-<% if (site.meta.cookie) { %>
-<meta http-equiv="cookie" content="<%- site.meta.cookie %>">
+<% if (site.meta.web-cookie) { %>
+<meta http-equiv="cookie" content="<%- site.meta.web-cookie %>">
 <% } %>
 
-<% if (site.meta.content-type) { %>
-<meta http-equiv="content-type" content="<%- site.meta.content-type %>">
+<% if (site.meta.web-content-type) { %>
+<meta http-equiv="content-type" content="<%- site.meta.web-content-type %>">
 <% } %>
 
-<% if (site.meta.charset) { %>
-<meta charset="<%- site.meta.charset %>">
+<% if (site.meta.web-charset) { %>
+<meta charset="<%- site.meta.web-charset %>">
 <% } %>
 
-<% if site.meta.icon-16) { %>
+<% if (site.meta.icon-16) { %>
 <meta name="icon sizes=16x16" content="<%- site.meta.icon-16 %>">
 <% } %>
 
@@ -72,7 +141,7 @@
 <meta name="icon sizes=32x32" content="<%- site.meta.icon-32 %>">
 <% } %>
 
-<% if site.meta.icon-96) { %>
+<% if (site.meta.icon-96) { %>
 <meta name="icon sizes=96x96" content="<%- site.meta.icon-96 %>">
 <% } %>
 
@@ -80,43 +149,46 @@
 <meta name="icon sizes=192x192" content="<%- site.meta.icon-192 %>">
 <% } %>
 
-<% if (site.meta.mask-icon) { %>
-<meta name="mask-icon" content="<%- site.meta.mask-icon %>">
+<% if (site.meta.icon-mask) { %>
+<meta name="mask-icon" content="<%- site.meta.icon-mask %>">
 <% } %>
 
-<% if (site.meta.news-keywords) { %>
+<% if (site.meta.biblio-keywords-google) { %>
 <!-- Google -->
-<meta name="news_keywords" content="<%- site.meta.news-keywords %>">
+<meta name="news_keywords" content="<%- site.meta.biblio-keywords-google %>">
 <% } %>
 
-<% if (site.meta.original-source) { %>
+<% if (site.meta.link-source-google) { %>
 <!-- Google -->
-<meta name="original-source" content="<%- site.meta.original-source %>">
+<meta name="original-source" content="<%- site.meta.link-source-google %>">
 <% } %>
 
-<% if (site.meta.rating) { %>
-<meta name="rating" content="<%- site.meta.rating %>">
+<% if (site.meta.link-source) { %>
+<!-- Same as above ? -->
+<meta name="dcterms.source" content="<%- site.meta.link-source %>">
 <% } %>
 
-<% if (site.meta.content-language) { %>
-<meta name="content-language" content="<%- site.meta.content-language %>">
-<meta name="hreflang_[langcode]" content="<%- site.meta.content-language %>" >
+<% if (site.meta.biblio-language) { %>
+<meta name="content-language" content="<%- site.meta.biblio-language %>">
+<meta name="hreflang_[langcode]" content="<%- site.meta.biblio-language %>" >
+<meta name="dcterms.language" content="<%- site.meta.biblio-language %>">
 <% } %>
 
-<% if (site.meta.copyright) { %>
-<meta name="copyright" content="<%- site.meta.copyright %>">
+<% if (site.meta.policy-copyright) { %>
+<meta name="copyright" content="<%- site.meta.policy-copyright %>">
 <% } %>
 
-<% if (site.meta.description) { %>
-<meta name="description" content="<%- site.meta.description %>">
+<% if (site.meta.biblio-description) { %>
+<meta name="description" content="<%- site.meta.biblio-description %>">
+<meta name="dcterms.description" content="<%- site.meta.biblio-description %>">
 <% } %>
 
-<% if (site.meta.generator) { %>
-<meta name="generator" content="<%- site.meta.generator %>">
+<% if (site.meta.link-generator) { %>
+<meta name="generator" content="<%- site.meta.link-generator %>">
 <% } %>
 
-<% if (site.meta.keywords) { %>
-<meta name="keywords" content="<%- site.meta.keywords %>">
+<% if (site.meta.biblio-keywords) { %>
+<meta name="keywords" content="<%- site.meta.biblio-keywords %>">
 <% } %>
 
 <% if (site.meta.product-availability) { %>
@@ -131,8 +203,8 @@
 <meta name="product:condition" content="<%- site.meta.product-condition %>">
 <% } %>
 
-<% if (site.meta.product-expiration-time) { %>
-<meta name="product:expiration_time" content="<%- site.meta.product-expiration-time %>">
+<% if (site.meta.product-expiration) { %>
+<meta name="product:expiration_time" content="<%- site.meta.product-expiration %>">
 <% } %>
 
 <% if (site.meta.product-price-amount) { %>
@@ -147,203 +219,188 @@
 <meta name="product:retailer" content="<%- site.meta.product-retailer %>">
 <% } %>
 
-<% if (site.meta.publisher) { %>
-<meta name="publisher" content="<%- site.meta.publisher %>">
-<meta name="dcterms.publisher" content="<%- site.meta.publisher %>">
+<% if (site.meta.biblio-publisher) { %>
+<meta name="publisher" content="<%- site.meta.biblio-publisher %>">
+<meta name="dcterms.publisher" content="<%- site.meta.biblio-publisher %>">
 <% } %>
 
-<% if (site.meta.author) { %>
-<meta name="rel=author" content="<%- site.meta.author %>">
-<meta name="dcterms.creator" content="<%- site.meta.author %>">
+<% if (site.meta.biblio-author) { %>
+<meta name="rel=author" content="<%- site.meta.biblio-author %>">
+<meta name="dcterms.creator" content="<%- site.meta.biblio-author %>">
 <% } %>
 
-<% if (site.meta.rights) { %>
+<% if (site.meta.policy-rights) { %>
 <meta name="rights" content="<%- site.meta.rights %>">
+<meta name="dcterms.rights" content="<%- site.meta.policy-rights %>">
 <% } %>
 
-<% if (site.meta.dc.accessRights) { %>
-<meta name="dcterms.accessRights" content="<%- site.meta.dc.accessRights %>">
+<% if (site.meta.policy-access) { %>
+<meta name="dcterms.accessRights" content="<%- site.meta.policy-access %>">
 <% } %>
 
-<% if (site.meta.title) { %>
-<meta name="title" content="<%- site.meta.title %>">
-<meta name="dcterms.title" content="<%- site.meta.title %>">
+<% if (site.meta.biblio-title) { %>
+<meta name="title" content="<%- site.meta.biblio-title %>">
+<meta name="dcterms.title" content="<%- site.meta.biblio-title %>">
 <% } %>
 
-<% if (site.meta.dc.accrualPolicy) { %>
-<meta name="dcterms.accrualPolicy" content="<%- site.meta.dc.accrualPolicy %>">
+<% if (site.meta.policy-add) { %>
+<meta name="dcterms.accrualPolicy" content="<%- site.meta.policy-add %>">
 <% } %>
 
-<% if (site.meta.dc.alternative) { %>
-<meta name="dcterms.alternative" content="<%- site.meta.dc.alternative %>">
+<% if (site.meta.link-alternative) { %>
+<meta name="dcterms.alternative" content="<%- site.meta.link-alternative %>">
 <% } %>
 
-<% if (site.meta.dc.audience) { %>
-<meta name="dcterms.audience" content="<%- site.meta.dc.audience %>">
+<% if (site.meta.link-conforms-to) { %>
+<meta name="dcterms.conformsTo" content="<%- site.meta.link-conforms-to %>">
 <% } %>
 
-<% if (site.meta.dc.available) { %>
-<meta name="dcterms.available" content="<%- site.meta.dc.available %>">
+<% if (site.meta.biblio-contributor) { %>
+<meta name="dcterms.contributor" content="<%- site.meta.biblio-contributor %>">
 <% } %>
 
-<% if (site.meta.dc.conformsTo) { %>
-<meta name="dcterms.conformsTo" content="<%- site.meta.dc.conformsTo %>">
+<% if (site.meta.date-accepted) { %>
+<meta name="dcterms.dateAccepted" content="<%- site.meta.date-accepted %>">
 <% } %>
 
-<% if (site.meta.dc.contributor) { %>
-<meta name="dcterms.contributor" content="<%- site.meta.dc.contributor %>">
+<% if (site.meta.date-available) { %>
+<meta name="dcterms.available" content="<%- site.meta.date-available %>">
 <% } %>
 
-<% if (site.meta.dc.coverage) { %>
-<meta name="dcterms.coverage" content="<%- site.meta.dc.coverage %>">
+<% if (site.meta.date-copyrighted) { %>
+<meta name="dcterms.dateCopyrighted" content="<%- site.meta.date-copyrighted %>">
 <% } %>
 
-<% if (site.meta.dc.created) { %>
-<meta name="dcterms.created" content="<%- site.meta.dc.created %>">
+<% if (site.meta.date-created) { %>
+<meta name="dcterms.created" content="<%- site.meta.date-created %>">
 <% } %>
 
-<% if (site.meta.dc.date) { %>
-<meta name="dcterms.date" content="<%- site.meta.dc.date %>">
+<% if (site.meta.date-issued) { %>
+<meta name="dcterms.issued" content="<%- site.meta.date-issued %>">
 <% } %>
 
-<% if (site.meta.dc.dateAccepted) { %>
-<meta name="dcterms.dateAccepted" content="<%- site.meta.dc.dateAccepted %>">
+<% if (site.meta.date-modified) { %>
+<meta name="dcterms.modified" content="<%- site.meta.date-modified %>">
 <% } %>
 
-<% if (site.meta.dc.dateCopyrighted) { %>
-<meta name="dcterms.dateCopyrighted" content="<%- site.meta.dc.dateCopyrighted %>">
+<% if (site.meta.date-submitted) { %>
+<meta name="dcterms.dateSubmitted" content="<%- site.meta.date-submitted %>">
 <% } %>
 
-<% if (site.meta.dc.dateSubmitted) { %>
-<meta name="dcterms.dateSubmitted" content="<%- site.meta.dc.dateSubmitted %>">
+<% if (site.meta.biblio-format) { %>
+<meta name="dcterms.format" content="<%- site.meta.biblio-format %>">
 <% } %>
 
-<% if (site.meta.dc.description) { %>
-<meta name="dcterms.description" content="<%- site.meta.dc.description %>">
+<% if (site.meta.link-has-format) { %>
+<meta name="dcterms.hasFormat" content="<%- site.meta.link-has-format %>">
 <% } %>
 
-<% if (site.meta.dc.education-level) { %>
-<meta name="dcterms.educationLevel" content="<%- site.meta.dc.education-level %>">
+<% if (site.meta.link-is-format-of) { %>
+<meta name="dcterms.isFormatOf" content="<%- site.meta.link-is-format-of %>">
 <% } %>
 
-<% if (site.meta.dc.instructional) { %>
-<meta name="dcterms.instructionalMethod" content="<%- site.meta.dc.instructional %>">
+<% if (site.meta.link-has-part) { %>
+<meta name="dcterms.hasPart" content="<%- site.meta.link-has-part %>">
 <% } %>
 
-<% if (site.meta.dc.extent) { %>
-<meta name="dcterms.extent" content="<%- site.meta.dc.extent %>">
+<% if (site.meta.link-has-version) { %>
+<meta name="dcterms.hasVersion" content="<%- site.meta.link-has-version %>">
 <% } %>
 
-<% if (site.meta.dc.format) { %>
-<meta name="dcterms.format" content="<%- site.meta.dc.format %>">
+<% if (site.meta.biblio-identifier) { %>
+<meta name="dcterms.identifier" content="<%- site.meta.biblio-identifier %>">
 <% } %>
 
-<% if (site.meta.dc.hasFormat) { %>
-<meta name="dcterms.hasFormat" content="<%- site.meta.dc.hasFormat %>">
+<% if (site.meta.link-is-part-of) { %>
+<meta name="dcterms.isPartOf" content="<%- site.meta.link-is-part-of %>">
 <% } %>
 
-<% if (site.meta.dc.hasPart) { %>
-<meta name="dcterms.hasPart" content="<%- site.meta.dc.hasPart %>">
+<% if (site.meta.link-is-referenced-by) { %>
+<meta name="dcterms.isReferencedBy" content="<%- site.meta.link-is-referenced-by %>">
 <% } %>
 
-<% if (site.meta.dc.hasVersion) { %>
-<meta name="dcterms.hasVersion" content="<%- site.meta.dc.hasVersion %>">
+<% if (site.meta.link-is-replaced-by) { %>
+<meta name="dcterms.isReplacedBy" content="<%- site.meta.link-is-replaced-by %>">
 <% } %>
 
-<% if (site.meta.dc.identifier) { %>
-<meta name="dcterms.identifier" content="<%- site.meta.dc.identifier %>">
+<% if (site.meta.link-is-required-by) { %>
+<meta name="dcterms.isRequiredBy" content="<%- site.meta.link-is-required-by %>">
 <% } %>
 
-<% if (site.meta.dc.isFormatOf) { %>
-<meta name="dcterms.isFormatOf" content="<%- site.meta.dc.isFormatOf %>">
+<% if (site.meta.link-is-version-of) { %>
+<meta name="dcterms.isVersionOf" content="<%- site.meta.link-is-version-of %>">
 <% } %>
 
-<% if (site.meta.dc.isPartOf) { %>
-<meta name="dcterms.isPartOf" content="<%- site.meta.dc.isPartOf %>">
+<% if (site.meta.policy-license) { %>
+<meta name="dcterms.license" content="<%- site.meta.policy-license %>">
 <% } %>
 
-<% if (site.meta.dc.isReferencedBy) { %>
-<meta name="dcterms.isReferencedBy" content="<%- site.meta.dc.isReferencedBy %>">
+<% if (site.meta.policy-mediator) { %>
+<meta name="dcterms.mediator" content="<%- site.meta.policy-mediator %>">
 <% } %>
 
-<% if (site.meta.dc.isReplacedBy) { %>
-<meta name="dcterms.isReplacedBy" content="<%- site.meta.dc.isReplacedBy %>">
+<% if (site.meta.biblio-provenance) { %>
+<meta name="dcterms.provenance" content="<%- site.meta.biblio-provenance %>">
 <% } %>
 
-<% if (site.meta.dc.isRequiredBy) { %>
-<meta name="dcterms.isRequiredBy" content="<%- site.meta.dc.isRequiredBy %>">
+<% if (site.meta.link-references) { %>
+<meta name="dcterms.references" content="<%- site.meta.link-references %>">
 <% } %>
 
-<% if (site.meta.dc.issued) { %>
-<meta name="dcterms.issued" content="<%- site.meta.dc.issued %>">
+<% if (site.meta.link-relation) { %>
+<meta name="dcterms.relation" content="<%- site.meta.link-relation %>">
 <% } %>
 
-<% if (site.meta.dc.isVersionOf) { %>
-<meta name="dcterms.isVersionOf" content="<%- site.meta.dc.isVersionOf %>">
+<% if (site.meta.link-replaces) { %>
+<meta name="dcterms.replaces" content="<%- site.meta.link-replaces %>">
 <% } %>
 
-<% if (site.meta.dc.language) { %>
-<meta name="dcterms.language" content="<%- site.meta.dc.language %>">
+<% if (site.meta.link-requires) { %>
+<meta name="dcterms.requires" content="<%- site.meta.link-requires %>">
 <% } %>
 
-<% if (site.meta.dc.license) { %>
-<meta name="dcterms.license" content="<%- site.meta.dc.license %>">
+<% if (site.meta.policy-rights-holder) { %>
+<meta name="dcterms.rightsHolder" content="<%- site.meta.policy-rights-holder %>">
 <% } %>
 
-<% if (site.meta.dc.mediator) { %>
-<meta name="dcterms.mediator" content="<%- site.meta.dc.mediator %>">
+<% if (site.meta.scope-audience) { %>
+<meta name="dcterms.audience" content="<%- site.meta.scope-audience %>">
 <% } %>
 
-<% if (site.meta.dc.modified) { %>
-<meta name="dcterms.modified" content="<%- site.meta.dc.modified %>">
+<% if (site.meta.scope-coverage) { %>
+<meta name="dcterms.scope-coverage" content="<%- site.meta.scope-coverage %>">
 <% } %>
 
-<% if (site.meta.dc.provenance) { %>
-<meta name="dcterms.provenance" content="<%- site.meta.dc.provenance %>">
+<% if (site.meta.scope-educ-level) { %>
+<meta name="dcterms.educationLevel" content="<%- site.meta.scope-educ-level %>">
 <% } %>
 
-<% if (site.meta.dc.references) { %>
-<meta name="dcterms.references" content="<%- site.meta.dc.references %>">
+<% if (site.meta.scope-educ-method) { %>
+<meta name="dcterms.instructionalMethod" content="<%- site.meta.scope-educ-method %>">
 <% } %>
 
-<% if (site.meta.dc.relation) { %>
-<meta name="dcterms.relation" content="<%- site.meta.dc.relation %>">
+<% if (site.meta.scope-extent) { %>
+<meta name="dcterms.extent" content="<%- site.meta.scope-extent %>">
 <% } %>
 
-<% if (site.meta.dc.replaces) { %>
-<meta name="dcterms.replaces" content="<%- site.meta.dc.replaces %>">
+<% if (site.meta.scope-rating) { %>
+<meta name="rating" content="<%- site.meta.scope-rating %>">
 <% } %>
 
-<% if (site.meta.dc.requires) { %>
-<meta name="dcterms.requires" content="<%- site.meta.dc.requires %>">
+<% if (site.meta.scope-spatial) { %>
+<meta name="dcterms.spatial" content="<%- site.meta.scope-spatial %>">
 <% } %>
 
-<% if (site.meta.dc.rights) { %>
-<meta name="dcterms.rights" content="<%- site.meta.dc.rights %>">
+<% if (site.meta.biblio-subject) { %>
+<meta name="dcterms.subject" content="<%- site.meta.biblio-subject %>">
 <% } %>
 
-<% if (site.meta.dc.rightsHolder) { %>
-<meta name="dcterms.rightsHolder" content="<%- site.meta.dc.rightsHolder %>">
+<% if (site.meta.scope-temporal) { %>
+<meta name="dcterms.temporal" content="<%- site.meta.scope-temporal %>">
 <% } %>
 
-<% if (site.meta.dc.source) { %>
-<meta name="dcterms.source" content="<%- site.meta.dc.source %>">
-<% } %>
-
-<% if (site.meta.dc.spatial) { %>
-<meta name="dcterms.spatial" content="<%- site.meta.dc.spatial %>">
-<% } %>
-
-<% if (site.meta.dc.subject) { %>
-<meta name="dcterms.subject" content="<%- site.meta.dc.subject %>">
-<% } %>
-
-<% if (site.meta.dc.temporal) { %>
-<meta name="dcterms.temporal" content="<%- site.meta.dc.temporal %>">
-<% } %>
-
-<% if (site.meta.dc.type) { %>
-<meta name="dcterms.type" content="<%- site.meta.dc.type %>">
+<% if (site.meta.biblio-type) { %>
+<meta name="dcterms.type" content="<%- site.meta.biblio-type %>">
 <% } %>
 
 </head>
