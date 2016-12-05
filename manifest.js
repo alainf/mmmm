@@ -11,6 +11,7 @@ const manifest = {
       siteTitle: Config.get('/app/siteTitle'),
       languages: Config.get('/i18n/locales')
     },
+    cache: 'catbox-redis',
     debug: { log: ['error'] },
     connections: { routes: { security: true } }
   },
@@ -50,7 +51,8 @@ const manifest = {
             secure: Config.get('/cookie/secure')
           }
         },
-        register: './plugins/login/index'
+        register: 'hapi-couchdb-login'
+        // register: './plugins/login/index'
       },
       options: { routes: { prefix: '/user' } }
     },
