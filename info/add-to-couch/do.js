@@ -12,13 +12,10 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
       .filter((line) => line.length)
       .map((line) => {
         const lc = line.slice(-1)[0]
-        if (lc === ',' || lc === '{' || lc === '}') {
-          return line
-        }
+        if (lc === ',' || lc === '{' || lc === '}') { return line }
         return line + ','
       })
       .join('\n')
-
 
     let zz
     try {
@@ -34,14 +31,11 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
 fs.readdir('.', (err, a) => {
   Promise.all(
     a
-      .filter((fn) => {
-        return fn.slice(-5) === '.json'
-      })
+      .filter((fn) => fn.slice(-5) === '.json')
       .map((fn) => fixJson(fn))
   )
     .then((jsons) => {
       console.log('JSON:', JSON.stringify(jsons, null, '  '))
-      // console.log('JSONOK')
     })
     .catch((err) => {
       console.error('ERR:', err)
