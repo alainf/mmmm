@@ -1,3 +1,4 @@
+[
 {
 "index":4,
 "title":"",
@@ -6,8 +7,7 @@
 "dateAdded":1298540561819161,
 "lastModified":1298540561819161,
 "type":"text/x-moz-place-separator"
-}
-
+},
 {
 "index":1,
 "title":"Customize Firefox",
@@ -18,3 +18,4 @@
 "type":"text/x-moz-place",
 "uri":"http://www.mozilla.com/en-US/firefox/customize/"
 }
+]
