@@ -21,7 +21,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
     try {
       eval(`zz = ${a}`)
     } catch (e) {
-      e.filenane = filename
+      e.filename = filename
       return reject(e)
     }
     let r
@@ -53,7 +53,7 @@ fs.readdir('.', (err, a) => {
   Promise.all(
     a
       .filter((fn) => fn.slice(-5) === '.json')
-      .map((fn) => fixJson(fn))
+      .map(fixJson)
   )
     .then((jsons) => { jsons.forEach((j) => fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')) })
     .catch((err) => { console.error('ERR:', err) })
