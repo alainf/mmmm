@@ -11,6 +11,7 @@ const manifest = {
       siteTitle: Config.get('/app/siteTitle'),
       languages: Config.get('/i18n/locales')
     },
+    cache: 'catbox-redis',
     debug: { log: ['error'] },
     connections: { routes: { security: true } }
   },
