@@ -1,0 +1,92 @@
+# Travail des robots
+
+## Chrono remplira les queues-de-tâches des robots
+-- randomize liste de tâches, pour éviter de mitrailler
+-- remplir queues-de-tâches des robots
+-- déléguer contrôle aux robots
+
+## Assumer une tâche
+-- obtenir et retirer prochaine tâche de la queue-de-tâches du robot.
+-- remplir l'interface du robot avec les données de la tâche.
+
+## Fetch
+-- obtenir ressource si on ne l'a pas dans notre cache.
+-- Chrono videra cache pour obliger robots de renouveler la ressource.
+-- remplir la cache
+
+## Extraire metadonnées
+-- dans <head>
+-- dans la ressource mais ailleurs que <head>
+-- à partir du contexte
+-- etc (voir "Qualifier les données" ci-bas)
+
+## Filtrer
+-- junk
+-- balises
+-- attributs de balise
+
+## Analyse générale
+-- classer les URLs: pages, liens, docs, flux, etc.
+-- effectuer au-besoin l'analyse custom ci-dessous.
+
+## Analyse custom
+-- analyser en fonction des spécificités de chaque ressource (par URL).
+-- ajoute résultats de l'analyse aux mêmes fields que l'analyse générale.
+
+## Cerner le contenu
+-- contenu dans son intégralité, pour page détail de la ressource.
+-- sous-ensemble du contenu qui figurera dans le lead qui mène à cette page-détail.
+-- s'assurer que "lead" et "contenu" sont conformes aux exigences.
+
+## Analyse de Calais
+-- extraire personnes, remplacer par une référence.
+-- extraire organisations, remplacer par une référence.
+-- extraire lieux, remplacer par une référence.
+-- extraire etc, remplacer par une référence.
+
+## Analyse corrélative de Robert
+-- en fonction des entités repérées par Calais
+-- en fonction de l'analyse du contenu qui reste (avec les références).
+-- se limiter aux 5 sujets les plus pertinents (suggestion de Robert)
+
+## Interpréter, produire ou reproduire le JSON
+-- conserver et reproduire toutes les balises, y compris celles du lead.
+-- le output json doit se conformer aux exigences du livecode ET du web.
+-- coordination quant au partage des jsons avec Claude.
+
+## Remplir les queues que consommera Chrono
+-- queues des modifications
+-- queues des ajouts
+
+## VBOs
+-- pour corriger les erreurs [des robots].
+-- pour diffuser et hériter balises et/ou valeurs dans celles-ci.
+-- pour aider Claude à qualifier en-masse ses ressources.
+-- pour adapter le json aux nouvelles exigences.
+-- toujours faire un backup (et noter) avant d'effectuer un vbo.
+
+-----------------------------------------------------------------------
+
+# Qualifier les données
+## metadonnées fournises
+### dans la zone <head>
+### ailleurs dans la ressource
+## metadonnées extraite par Calais
+### personnes, organisations, lieux, etc
+### d'autres services semblables à Calais?
+## corrélations avec nos taxonomies
+### autrement-dit l'analyse "sémantique" de Robert.
+## contextuellement
+## relationnellement
+### hériter des valeurs
+### diffuser des valeurs (càd hériter en sens inverse)
+## inférences
+## historiques/traces
+## statistiques
+## sondages (appréciation des users)
+## VBOs
+## manuellement!
+## NLP et IA
+### [phonèmes] --> syntaxe --> grammaire --> sémantique --> pragmatique --> actuellement?
+
+-----------------------------------------------------------------------
