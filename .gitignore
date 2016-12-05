@@ -2,5 +2,4 @@ node_modules
 test/artifacts
 npm-debug.log
 .env
-plugins/login/index-orig.js
-
+info/add-to-couch/new

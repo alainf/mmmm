@@ -24,7 +24,29 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
       e.filenane = filename
       return reject(e)
     }
-    resolve(zz)
+    let r
+
+    for (r in zz) {
+      if (zz[r] === 'true') {
+        zz[r] = true
+      } else if (zz[r] === 'false') {
+        zz[r] = false
+      } else {
+        if (r === 'identifiant-drupal') {
+          if (typeof zz[r] === 'object') {
+            zz[r] = zz[r][0]
+          }
+          zz[r] = parseInt(zz[r], 10)
+        } else if (r === 'niveau' || r === 'importance') {
+          zz[r] = parseInt(zz[r], 10)
+        }
+      }
+    }
+    // resolve(zz)
+    resolve({
+      fn: filename,
+      json: JSON.stringify(zz, null, '  ')
+    })
   })
 })
 
@@ -35,7 +57,17 @@ fs.readdir('.', (err, a) => {
       .map((fn) => fixJson(fn))
   )
     .then((jsons) => {
-      console.log('JSON:', JSON.stringify(jsons, null, '  '))
+      jsons.forEach((j) => {
+        // console.log('JSON:', j.fn, j.json)
+        fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')
+      })
+      // console.log('JSONS:', jsons)
+      // console.log('JSONS:', jsons.join('\n'))
+      /*
+      jsons.forEach((j) => {
+        console.log('JSON:', JSON.stringify(j, null, '  '))
+      })
+      */
     })
     .catch((err) => {
       console.error('ERR:', err)
