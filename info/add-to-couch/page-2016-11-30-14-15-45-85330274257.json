@@ -1,0 +1,39 @@
+{
+"description": "Article temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "true",
+"lieu-concerne": ["lieu-2015-12-06-16-10-48-86966174926","lieu-2015-12-06-16-12-48-86966182107"],
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "Article06",
+"nom-machine": "page-2016-11-30-14-15-45-85330274257",
+"personne-concernee": ["pers-2016-03-25-06-59-43-87534214988","pers-2016-04-04-18-45-44-87588596696"],
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "http://www.egaliteetreconciliation.fr/La-liberation-des-esclaves-42742.html",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-24-54-86966225669"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-11-30-14-15-45-85330274257",
+"path": "/fr/detail/page-2016-11-30-14-15-45-85330274257",
+"tip": "Tooltip du hyperlien dont le href est dans path",
+"title": "PhD Admin - La libération des esclaves",
+"titre": "La libération des esclaves",
+"thumb-beside": "content",
+"thumb-float": "right",
+"thumb-tip": "provenance: www.egaliteetreconciliation.fr",
+"thumb-src": "http://www.egaliteetreconciliation.fr/local/cache-vignettes/L250xH162/arton42742-280c9.jpg",
+"ressource": "page-2016-11-30-14-15-45-85330274257",
+"provenance": "http://www.egaliteetreconciliation.fr/La-liberation-des-esclaves-42742.html",
+"pertinence": 3,
+
+"apercu": "La victoire électorale de Trump a mis en branle des énergies et des bouleversements à une échelle sans précédent. Le monde en a été changé, au-delà de tout ce qu'on pouvait attendre de l'élection d'un président américain. C'est tout récent, mais le Nouvel Ordre mondial a reçu une claque de première grandeur. On respire un air de liberté, comme si le vote avait brisé les chaînes de toute une génération, et que nous nous retrouvions tous libres, soudainement.",
+
+"contenu": "La victoire électorale de Trump a mis en branle des énergies et des bouleversements à une échelle sans précédent. Le monde en a été changé, au-delà de tout ce qu'on pouvait attendre de l'élection d'un président américain. C'est tout récent, mais le Nouvel Ordre mondial a reçu une claque de première grandeur. On respire un air de liberté, comme si le vote avait brisé les chaînes de toute une génération, et que nous nous retrouvions tous libres, soudainement."
+
+}

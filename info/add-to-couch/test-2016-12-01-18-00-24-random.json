@@ -1,0 +1,36 @@
+{
+"description": "Article temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "false",
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "exemple-1",
+"nom-machine": "test-2016-12-01-18-00-24-random",
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-27-06-86966233620"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-12-01-18-00-24-random",
+"path": "/fr/detail-int/test-2016-12-01-18-00-24-random",
+"tip": "Exemple d'un article arabe sans image dans le lead",
+"title": "PhdAdmin - Exemple d'un article arabe",
+"titre": "<span>رفضت المعارضة الفنزويلية</span>",
+"direction": "rtl",
+"ressource": "test-2016-12-01-18-00-24-random",
+"provenance": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
+"pertinence": 4,
+
+"apercu": "<p class='text-right'>س، 31 أكتوبر/تشرين الأول (راديو هافانا كوبا) : رفضت المعارضة الفنزويلية العرض الذي تقدم به الرئيس نيكولاس مادورو بالمشاركة في حوار وطني بعد الانتخابات التشريعية التي ستجري في السادس من ديسمبر/كانون الأول. 
+</p>",
+
+"contenu": "<p class='text-right'>س، 31 أكتوبر/تشرين الأول (راديو هافانا كوبا) : رفضت المعارضة الفنزويلية العرض الذي تقدم به الرئيس نيكولاس مادورو بالمشاركة في حوار وطني بعد الانتخابات التشريعية التي ستجري في السادس من ديسمبر/كانون الأول. 
+</p>"
+
+}

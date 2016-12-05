@@ -1,0 +1,39 @@
+{
+"description": "Article temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "false",
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "article-a",
+"nom-machine": "test-2016-12-01-18-00-10-random",
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "http://ici.radio-canada.ca/nouvelle/1000445/grizzlis-mauvais-comportement-mere-etude",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-24-54-86966225669"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-12-01-18-00-10-random",
+"path": "/fr/detail-int/test-2016-12-01-18-00-10-random",
+"tip": "Publié le mercredi 16 novembre 2016 à 22 h 20",
+"title": "PhD Admin - Les grizzlis à mauvais comportement l'apprennent de leur mère",
+"titre": "Les grizzlis à mauvais comportement",
+"soustitre": "&nbsp;l'apprennent de leur mère",
+"citation": "Selon une étude",
+"thumb-beside": "content",
+"thumb-float": "right",
+"thumb-tip": "Un grizzly dans la forêt pluviale du Grand Ours en Colombie-Britannique.<br>Photo: Conservation de la nature Canada",
+"thumb-src": "http://images.radio-canada.ca/w_635,h_357/v1/ici-info/16x9/foret-grand-ours-grizzly.jpg",
+"ressource": "test-2016-12-01-18-00-10-random",
+"provenance": "http://ici.radio-canada.ca/nouvelle/1000445/grizzlis-mauvais-comportement-mere-etude",
+"pertinence": 4,
+
+"apercu": "<p>L'écologiste de la faune et chercheuse, Andrea Morehouse, dit qu'il s'agit d'une preuve d'apprentissage social chez les grizzlis.</p><p>«&nbsp;Si nous pouvons empêcher les grizzlis femelles de devenir des ours à problème en premier lieu, nous pouvons empêcher l'apprentissage social des comportements à problèmes chez les petits et aider à arrêter le cycle à sa source&nbsp;», estime-t-elle.</p><p>Les résultats sont basés sur une étude portant sur 2043 grizzlis de l'Alberta, de la Colombie-Britannique et du Montana aux États-Unis.</p>",
+
+"contenu": "<p>L'écologiste de la faune et chercheuse, Andrea Morehouse, dit qu'il s'agit d'une preuve d'apprentissage social chez les grizzlis.</p><p>«&nbsp;Si nous pouvons empêcher les grizzlis femelles de devenir des ours à problème en premier lieu, nous pouvons empêcher l'apprentissage social des comportements à problèmes chez les petits et aider à arrêter le cycle à sa source&nbsp;», estime-t-elle.</p><p>Les résultats sont basés sur une étude portant sur 2043 grizzlis de l'Alberta, de la Colombie-Britannique et du Montana aux États-Unis.</p>"
+
+}

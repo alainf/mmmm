@@ -1,0 +1,30 @@
+{
+"description": "Brève temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "false",
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "breve-1",
+"nom-machine": "test-2016-12-01-18-00-25-random",
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-24-54-86966225669"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-12-01-18-00-25-random",
+"path": "/fr/detail-int/test-2016-12-01-18-00-25-random",
+"tip": "Article Reuters",
+"titre": "Funeste rivalité",
+"ressource": "test-2016-12-01-18-00-25-random",
+"provenance": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
+"pertinence": 4,
+
+"apercu": "<p>Qui oserait douter un instant que pluralisme, liberté d'expression et l'emploi des journalistes soient l'unique objectif.</p>",
+"contenu": "<p>Qui oserait douter un instant que pluralisme, liberté d'expression et l'emploi des journalistes soient l'unique objectif.</p>"
+}

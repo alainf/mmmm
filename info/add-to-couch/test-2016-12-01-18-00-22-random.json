@@ -1,0 +1,39 @@
+{
+"description": "Article temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "false",
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "exemple-1",
+"nom-machine": "test-2016-12-01-18-00-22-random",
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "http://aas.sagepub.com/cgi/content/abstract/0095399715607287v1?rss=1",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-25-04-86966226256","terme-2015-12-06-16-25-04-86966226264"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-12-01-18-00-22-random",
+"path": "/fr/detail-int/test-2016-12-01-18-00-22-random",
+"tip": "Exemple d'un article avec lettrine dans le lead",
+"title": "PhdAdmin - Exemple d'un article avec lettrine dans le lead",
+"titre": "The Corrupted Industry",
+"soustitre": "Wagon-Wheel Effect",
+"citation": "An explanatory framework",
+"thumb-beside": "headline",
+"thumb-float": "right",
+"thumb-tip": "image de Google Images",
+"thumb-src": "/img/dans-articles/wagonwheel.jpg",
+"ressource": "test-2016-12-01-18-00-22-random",
+"provenance": "http://aas.sagepub.com/cgi/content/abstract/0095399715607287v1?rss=1",
+"pertinence": 4,
+
+"apercu": "<p class='text-justify'><img src='/img/dans-articles/lettrine.gif' width=30 height=30 alt='N' title='lettrine'>ote that the present study addresses a topic neglected by the public administration literature: government corruption and its effects on public service systems. Specifically, the study focuses on the institutionalized form of government corruption and offers a framework to explain... </p>",
+
+"contenu": "<p class='text-justify'><img src='/img/dans-articles/lettrine.gif' width=30 height=30 alt='N' title='lettrine'>ote that the present study addresses a topic neglected by the public administration literature: government corruption and its effects on public service systems. Specifically, the study focuses on the institutionalized form of government corruption and offers a framework to explain... </p>"
+
+}

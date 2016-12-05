@@ -1,0 +1,32 @@
+{
+"description": "Brève temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "false",
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "breve-3",
+"nom-machine": "test-2016-12-01-18-00-27-random",
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "https://en.wikipedia.org/wiki/Republican_Front_%28France%29",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-24-54-86966225669"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-12-01-18-00-27-random",
+"path": "/fr/detail-int/test-2016-12-01-18-00-27-random",
+"tip": "Page wikipedia",
+"titre": "Front républicain",
+"ressource": "test-2016-12-01-18-00-27-random",
+"provenance": "https://en.wikipedia.org/wiki/Republican_Front_%28France%29",
+"pertinence": 4,
+
+"apercu": "<p>On ne peut donc parler d'une tradition historique de front républicain.</p><p>Il existe dans l'histoire politique française une coutume établie, bien qu'elle n'ait pas toujours été respectée et que les modalités de sa mise en œuvre aient varié en fonction des modes de scrutin.</p>",
+
+"contenu": "<p>On ne peut donc parler d'une tradition historique de front républicain.</p><p>Il existe dans l'histoire politique française une coutume établie, bien qu'elle n'ait pas toujours été respectée et que les modalités de sa mise en œuvre aient varié en fonction des modes de scrutin.</p>"
+
+}

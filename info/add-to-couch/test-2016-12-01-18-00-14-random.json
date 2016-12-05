@@ -1,0 +1,37 @@
+{
+"description": "Article temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "false",
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "article-a",
+"nom-machine": "test-2016-12-01-18-00-14-random",
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "http://ici.radio-canada.ca/emissions/le_cafe_show/2015-2016/chronique.asp?idChronique=417092",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-24-54-86966225669"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-12-01-18-00-14-random",
+"path": "/fr/detail-int/test-2016-12-01-18-00-14-random",
+"tip": "Le mercredi 21 septembre 2016",
+"title": "PhD Admin - L'interaction entre véhicules intelligents et infrastructures",
+"titre": "L'interaction entre véhicules intelligents et infrastructures",
+"thumb-beside": "content",
+"thumb-float": "left",
+"thumb-tip": "Centre-ville d'Edmonton. Photo: Rébecca Salomon/Radio-Canada",
+"thumb-src": "http://img.src.ca/2012/08/09/635x357/120809_2w5e1_voitures-circulation-edmonton_sn635.jpg",
+"ressource": "test-2016-12-01-18-00-14-random",
+"provenance": "http://ici.radio-canada.ca/emissions/le_cafe_show/2015-2016/chronique.asp?idChronique=417092",
+"pertinence": 4,
+
+"apercu": "<p>Des chercheurs de l'Université de l'Alberta et de l'Université de la Colombie-Britannique vont tester les communications entre les véhicules intelligents et les infrastructures routières d'Edmonton et de Vancouver, une première pour des villes canadiennes. Jason Carey, professeur titulaire du département de génie mécanique et doyen associé de la Faculté de la faculté de génie de l'Université de l'Alberta nous donne les détails de cette recherche.</p>",
+
+"contenu": "<p>Des chercheurs de l'Université de l'Alberta et de l'Université de la Colombie-Britannique vont tester les communications entre les véhicules intelligents et les infrastructures routières d'Edmonton et de Vancouver, une première pour des villes canadiennes. Jason Carey, professeur titulaire du département de génie mécanique et doyen associé de la Faculté de la faculté de génie de l'Université de l'Alberta nous donne les détails de cette recherche.</p>"
+
+}

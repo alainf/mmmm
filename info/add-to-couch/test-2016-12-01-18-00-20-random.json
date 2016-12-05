@@ -1,0 +1,37 @@
+{
+"description": "Article temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "false",
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "exemple-1",
+"nom-machine": "test-2016-12-01-18-00-20-random",
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "http://glowbi.net/mission-soclim-carnet-de-bord-2/",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-26-09-86966230155"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-12-01-18-00-20-random",
+"path": "/fr/detail-int",
+"tip": "PhdAdmin - Exemple d'un article interne",
+"title": "PhdAdmin - Exemple d'un article interne",
+"titre": "Mission SOCLIM - Carnet de bord #2",
+"thumb-beside": "content",
+"thumb-float": "left",
+"thumb-tip": "© Julien Boulanger",
+"thumb-src": "http://www.cite-sciences.fr/fileadmin/_processed_/csm_KERGUELEN-tempete-2_24df1f8d69.jpg",
+"ressource": "test-2016-12-01-18-00-20-random",
+"provenance": "http://glowbi.net/mission-soclim-carnet-de-bord-2/",
+"pertinence": 1,
+
+"apercu": "<span class='apercu'>Une expédition palpitante ...</span><p class='text-justify'>Le Marion Dufresne vient de rejoindre les îles Kerguelen. La suite de l'expédition <span data-tooltip aria-haspopup='true' class='has-tip' data-disable-hover='false' tabindex='1' title='SOUTHERN OCEAN AND CLIMATE FIELD STUDIES WITH INNOVATIVE TOOLS'>SOCLIM</span> dans l'océan Austral. Nous avons atteint depuis peu la région de Kerguelen, dans les Cinquantièmes hurlants...</p>",
+
+"contenu": "<span class='apercu'>Une expédition palpitante ...</span><p class='text-justify'>Le Marion Dufresne vient de rejoindre les îles Kerguelen. La suite de l'expédition <span data-tooltip aria-haspopup='true' class='has-tip' data-disable-hover='false' tabindex='1' title='SOUTHERN OCEAN AND CLIMATE FIELD STUDIES WITH INNOVATIVE TOOLS'>SOCLIM</span> dans l'océan Austral. Nous avons atteint depuis peu la région de Kerguelen, dans les Cinquantièmes hurlants...</p>"
+
+}

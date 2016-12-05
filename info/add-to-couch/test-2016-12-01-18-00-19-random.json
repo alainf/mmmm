@@ -1,0 +1,37 @@
+{
+"description": "Article temporaire pour tester la base-de-données.",
+"encodage": "utf-8",
+"fiche-publiee": "true",
+"format": "HTML",
+"importance": 1,
+"isCopyright": "false",
+"mise-a-jour": "2016-05-09-16-43-47",
+"moment-de-creation": "2015-01-25-02-34-25",
+"moment-de-modification": "2016-02-18-14-31-41",
+"nom": "article-a",
+"nom-machine": "test-2016-12-01-18-00-19-random",
+"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
+"source-defectueuse": "false",
+"source-URL": "http://www.challenges.fr/election-presidentielle-2017/takieddine-sarkozy-et-les-valises-d-argent-libyen-revelations-explosives-de-mediapart_438452?utm_source=outbrain&utm_medium=widget&utm_campaign=obclick&obref=obnetwork",
+"sous-type": "test",
+"sujet": ["terme-2015-12-06-16-24-54-86966225669"]
+"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
+
+"_id": "lead-2016-12-01-18-00-19-random",
+"path": "/fr/detail-int/test-2016-12-01-18-00-19-random",
+"tip": "Le 15.11.2016 à 10h54 | Mis à jour le 15.11.2016 à 16h53",
+"title": "PhD Admin - Takieddine, Sarkozy et les valises d'argent libyen: Révélations explosives de Mediapart",
+"titre": "Takieddine, Sarkozy et les valises d'argent libyen",
+"soustitre": ": Révélations explosives de Mediapart",
+"thumb-beside": "content",
+"thumb-float": "left",
+"thumb-tip": "Nicolas Sarkozy et Mouammar Kadhafi sur le perron de l'Elysée en 2007.STEPHANE DE SAKUTIN / AFP",
+"thumb-src": "http://www.challenges.fr/assets/img/2016/11/15/cover-r4x3w1000-582adb3fd3b58-000_Par1666850.jpg",
+"ressource": "test-2016-12-01-18-00-19-random",
+"provenance": "http://www.challenges.fr/election-presidentielle-2017/takieddine-sarkozy-et-les-valises-d-argent-libyen-revelations-explosives-de-mediapart_438452?utm_source=outbrain&utm_medium=widget&utm_campaign=obclick&obref=obnetwork",
+"pertinence": 4,
+
+"apercu": "<p>A moins d'une semaine du premier tour de la primaire de la droite, ces révélations vont sûrement embarrasser Nicolas Sarkozy. Dans un entretien filmé par Mediapart, Ziad Takieddine, l'homme d'affaire sulfureux, qui a présenté l'ancien Président français à Mouammar Kadhafi, révèle avoir apporté au ministère de l'intérieur, fin 2006 et début 2007, \"plusieurs valises d'argent liquide préparées par le régime libyen, pour un montant total de 5 millions d'euros\".</p><p>L'homme d'affaires franco-libanais mis en examen dans d'autres dossiers s'en prend violemment à l'ancien chef de l'Etat. \"Pourquoi et comment se fait-il qu'un type comme celui-là puisse prétendre encore une fois à la présidence de la République ? Le peuple français doit réagir, ça va exploser\", dit-il dans cet entretien réalisé le 12 novembre. \"Je veux dénoncer l'État mafieux dans lequel on est en train de vivre. Je n'en peux plus\", déclare-t-il, pour expliquer aujourd'hui son passage aux aveux.</p>",
+
+"contenu": "<p>A moins d'une semaine du premier tour de la primaire de la droite, ces révélations vont sûrement embarrasser Nicolas Sarkozy. Dans un entretien filmé par Mediapart, Ziad Takieddine, l'homme d'affaire sulfureux, qui a présenté l'ancien Président français à Mouammar Kadhafi, révèle avoir apporté au ministère de l'intérieur, fin 2006 et début 2007, \"plusieurs valises d'argent liquide préparées par le régime libyen, pour un montant total de 5 millions d'euros\".</p><p>L'homme d'affaires franco-libanais mis en examen dans d'autres dossiers s'en prend violemment à l'ancien chef de l'Etat. \"Pourquoi et comment se fait-il qu'un type comme celui-là puisse prétendre encore une fois à la présidence de la République ? Le peuple français doit réagir, ça va exploser\", dit-il dans cet entretien réalisé le 12 novembre. \"Je veux dénoncer l'État mafieux dans lequel on est en train de vivre. Je n'en peux plus\", déclare-t-il, pour expliquer aujourd'hui son passage aux aveux.</p>"
+}
