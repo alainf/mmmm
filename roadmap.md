@@ -7,7 +7,7 @@
 1. Design
 1. Markup HTML
 1. Markup CSS
-1.Contenu du site, en JSON ; produit par Livecode.
+1. Contenu du site, en JSON ; produit par Livecode.
 
 ## Étapes préliminaires de Robin
 
