@@ -42,7 +42,6 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         }
       }
     }
-    // resolve(zz)
     resolve({
       fn: filename,
       json: JSON.stringify(zz, null, '  ')
@@ -56,20 +55,6 @@ fs.readdir('.', (err, a) => {
       .filter((fn) => fn.slice(-5) === '.json')
       .map((fn) => fixJson(fn))
   )
-    .then((jsons) => {
-      jsons.forEach((j) => {
-        // console.log('JSON:', j.fn, j.json)
-        fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')
-      })
-      // console.log('JSONS:', jsons)
-      // console.log('JSONS:', jsons.join('\n'))
-      /*
-      jsons.forEach((j) => {
-        console.log('JSON:', JSON.stringify(j, null, '  '))
-      })
-      */
-    })
-    .catch((err) => {
-      console.error('ERR:', err)
-    })
+    .then((jsons) => { jsons.forEach((j) => fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')) })
+    .catch((err) => { console.error('ERR:', err) })
 })
