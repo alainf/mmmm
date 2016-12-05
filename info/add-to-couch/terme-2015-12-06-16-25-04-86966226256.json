@@ -1,27 +1,41 @@
 {
-"ajouter-aux-favoris": "false",
-"breadcrumb": "taxonomies/sujets/Politique/",
-"custom-about": "terme-2015-12-06-16-25-04-86966226256",
-"description": "Politique",
-"fiche-a-completer": "true",
-"fiche-publiee": "false",
-"identifiant-drupal": ["1258",],
-"identifiant-drupal-parent": ["1193",],
-"isCopyright": "false",
-"mise-a-jour": "2016-05-09-16-46-13",
-"moment-de-creation": "2015-12-06-16-25-04",
-"moment-de-modification": "2015-12-21-11-54-56",
-"niveau": "1",
-"nom": "Politique",
-"nom-anglais": ["Politics",],
-"nom-arabe": ["&#1587;&#1610;&#1575;&#1587;&#1577;",],
-"nom-espagnol": ["Pol&#237;tica",],
-"nom-folder": "Politique",
-"nom-francais": ["Politique",],
-"nom-italien": ["politica",],
-"nom-machine": ["terme-2015-12-06-16-25-04-86966226256",],
-"parent": "Aucun",
-"sous-type": "sujets",
-"synonyme": "Politics<br>Politique<br>poltica",
-"type": "taxonomies",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Politique/",
+  "custom-about": "terme-2015-12-06-16-25-04-86966226256",
+  "description": "Politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": false,
+  "identifiant-drupal": 1258,
+  "identifiant-drupal-parent": [
+    "1193"
+  ],
+  "isCopyright": false,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-12-21-11-54-56",
+  "niveau": 1,
+  "nom": "Politique",
+  "nom-anglais": [
+    "Politics"
+  ],
+  "nom-arabe": [
+    "&#1587;&#1610;&#1575;&#1587;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Pol&#237;tica"
+  ],
+  "nom-folder": "Politique",
+  "nom-francais": [
+    "Politique"
+  ],
+  "nom-italien": [
+    "politica"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226256"
+  ],
+  "parent": "Aucun",
+  "sous-type": "sujets",
+  "synonyme": "Politics<br>Politique<br>poltica",
+  "type": "taxonomies"
 }

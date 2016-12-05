@@ -1,38 +1,40 @@
 {
-"description": "Article temporaire pour tester la base-de-données.",
-"encodage": "utf-8",
-"fiche-publiee": "true",
-"format": "HTML",
-"importance": 1,
-"isCopyright": "false",
-"mise-a-jour": "2016-05-09-16-43-47",
-"moment-de-creation": "2015-01-25-02-34-25",
-"moment-de-modification": "2016-02-18-14-31-41",
-"nom": "exemple-1",
-"nom-machine": "test-2016-12-01-18-00-21-random",
-"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
-"source-defectueuse": "false",
-"source-URL": "http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1",
-"sous-type": "test",
-"sujet": ["terme-2015-12-06-16-25-04-86966226264"]
-"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
-
-"_id": "lead-2016-12-01-18-00-21-random",
-"path": "/fr/detail-ext",
-"tip": "Exemple d'un article externe",
-"title": "PhdAdmin - Exemple d'un article externe",
-"titre": "Determinants of Local<br>Governments' Transparency",
-"citation": "The crisis has impact on Government forcing it to be more transparent in management of public resources.",
-"thumb-beside": "headline",
-"thumb-float": "right",
-"thumb-tip": "Philippe Couillard",
-"thumb-src": "/img/dans-articles/Philippe_Couillard.jpg",
-"ressource": "test-2016-12-01-18-00-21-random",
-"provenance": "http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1",
-"pertinence": 4,
-
-"apercu": "<p class='text-justify'>Article theoretically and empirically examines determinants of the levels of transparency in Local Governments based on the agency and legitimacy theories. For the purpose of this study, the analysis is based on the Spanish municipalities over a period of 4 years....</p>",
-
-"contenu": "<p class='text-justify'>Article theoretically and empirically examines determinants of the levels of transparency in Local Governments based on the agency and legitimacy theories. For the purpose of this study, the analysis is based on the Spanish municipalities over a period of 4 years....</p>"
-
+  "description": "Article temporaire pour tester la base-de-données.",
+  "encodage": "utf-8",
+  "fiche-publiee": true,
+  "format": "HTML",
+  "importance": 1,
+  "isCopyright": false,
+  "mise-a-jour": "2016-05-09-16-43-47",
+  "moment-de-creation": "2015-01-25-02-34-25",
+  "moment-de-modification": "2016-02-18-14-31-41",
+  "nom": "exemple-1",
+  "nom-machine": "test-2016-12-01-18-00-21-random",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-URL": "http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1",
+  "sous-type": "test",
+  "sujet": [
+    "terme-2015-12-06-16-25-04-86966226264"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "_id": "lead-2016-12-01-18-00-21-random",
+  "path": "/fr/detail-ext",
+  "tip": "Exemple d'un article externe",
+  "title": "PhdAdmin - Exemple d'un article externe",
+  "titre": "Determinants of Local<br>Governments' Transparency",
+  "citation": "The crisis has impact on Government forcing it to be more transparent in management of public resources.",
+  "thumb-beside": "headline",
+  "thumb-float": "right",
+  "thumb-tip": "Philippe Couillard",
+  "thumb-src": "/img/dans-articles/Philippe_Couillard.jpg",
+  "ressource": "test-2016-12-01-18-00-21-random",
+  "provenance": "http://aas.sagepub.com/cgi/content/abstract/0095399715607288v1?rss=1",
+  "pertinence": 4,
+  "apercu": "<p class='text-justify'>Article theoretically and empirically examines determinants of the levels of transparency in Local Governments based on the agency and legitimacy theories. For the purpose of this study, the analysis is based on the Spanish municipalities over a period of 4 years....</p>",
+  "contenu": "<p class='text-justify'>Article theoretically and empirically examines determinants of the levels of transparency in Local Governments based on the agency and legitimacy theories. For the purpose of this study, the analysis is based on the Spanish municipalities over a period of 4 years....</p>"
 }

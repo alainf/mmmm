@@ -1,40 +1,48 @@
 {
-"description": "Article temporaire pour tester la base-de-données.",
-"encodage": "utf-8",
-"fiche-publiee": "true",
-"format": "HTML",
-"importance": 1,
-"isCopyright": "false",
-"lieu-concerne": ["lieu-2015-12-06-16-10-48-86966174926","lieu-2015-12-06-16-12-48-86966182107"],
-"mise-a-jour": "2016-05-09-16-43-47",
-"moment-de-creation": "2015-01-25-02-34-25",
-"moment-de-modification": "2016-02-18-14-31-41",
-"nom": "Article02",
-"nom-machine": "test-2016-12-01-18-00-02-random",
-"personne-concernee": ["pers-2016-03-25-06-59-43-87534214988","pers-2016-04-04-18-45-44-87588596696"],
-"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
-"source-defectueuse": "false",
-"source-URL": "http://www.zero-deforestation.org/p_la_culture_du_soja.htm",
-"sous-type": "test",
-"sujet": ["terme-2015-12-06-16-24-22-86966223762"]
-"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
-
-"_id": "lead-2016-12-01-18-00-02-random",
-"path": "/fr/detail-int/test-2016-12-01-18-00-02-random",
-"tip": "Tooltip du hyperlien dont le href est dans path",
-"title": "PhD Admin - Article interne - Soja : de l’Amazonie à l’entrecôte.",
-"titre": "Soja : de l’Amazonie à l’entrecôte.",
-"soustitre": "Le soja aussi a sa part d'ombre",
-"thumb-beside": "content",
-"thumb-float": "left",
-"thumb-tip": "Image de culture de soja",
-"thumb-src": "http://www.zero-deforestation.org/dynimg_pages/la_culture_du_soja/image2.jpg",
-"ressource": "test-2016-12-01-18-00-02-random",
-"provenance": "http://www.zero-deforestation.org/p_la_culture_du_soja.htm",
-"pertinence": 3,
-
-"apercu": "<p>Le doux nom de soja évoque la nourriture végétarienne, et donc une quête de santé équilibrée, de respect de la nature... Mais le soja aussi a sa part d'ombre. Itinéraire d'un tendre légumineux devenu la cause de destruction de remarquables forêts.</p><p>Le soja est une plante d'origine asiatique où il occupe une place convoitée dans les tofus et autres rouleaux de printemps.<br><br>Grâce à ses diverses qualités, depuis quelques années, cette remarquable plante a envahi l'industrie agroalimentaire mondiale où elle donne par exemple de la cohésion à la plupart des mixtures alimentaires industrielles : la fameuse <em>lécithine de soja</em> ! Et surtout, elle nourrit à satiété les volailles, les bovins et les porcins du monde, en particulier ceux d'Europe, les plus gourmands dans ce domaine car ils n'ont plus grand-chose d'autre à manger!</p><p>La course a donc été lancée entre les pays producteurs pour envahir l'immense marché que représente cette manne de bouches en tout genre à nourrir. Mais qui dit production de soja dit terres cultivées. Et dans les proportions dont il est question, il ne s'agit pas de quelques centaines d'hectares mais de millions d'hectares qu'il faut trouver. Seuls les grands pays emplis de terres non urbanisées peuvent répondre à une telle demande. Le choix n'est pas grand : Chine, Etats-Unis, Brésil. Les deux premiers sont déjà surexploités. Reste le Brésil, encore pourvu de grandes zones non cultivées, non habitées. Ou si peu. Mais oui ! Ces immenses terres recouvertes de forêts primaires, il suffit de les déboiser ! Le Brésil connaît bien son affaire. L'Etat du Mato Grosso plus particulièrement, qui la pratique déjà depuis quelques années. Au cours des 60 dernières années, la culture du soja est passée au Brésil de zéro à plus de 60 millions d'hectares. Et l'accélération est fulgurante, la surface consacrée à cette production a augmenté d'environ 50 % dans les quatre dernières années. Pas étonnant qu'elle déborde à présent sur la forêt.",
-
-"contenu": "<h2>Soja : de l'Amazonie à l'entrecôte.</h2><br><em><strong>Le doux nom de soja évoque la nourriture végétarienne, et donc une quête de santé équilibrée, de respect de la nature... Mais le soja aussi a sa part d'ombre&#8230;<br><br>Itinéraire d'un tendre légumineux devenu la cause de destruction de remarquables forêts.</strong></em><br><br>Le soja est une plante d'origine asiatique où il occupe une place convoitée dans les tofus et autres rouleaux de printemps.<br><br>Grâce à ses diverses qualités, depuis quelques années, cette remarquable plante a envahi l'industrie agroalimentaire mondiale où elle donne par exemple de la cohésion à la plupart des mixtures alimentaires industrielles : la fameuse &#171; lécithine de soja &#187; ! Et surtout, elle nourrit à satiété les volailles, les bovins et les porcins du monde, en particulier ceux d'Europe, les plus gourmands dans ce domaine car ils n'ont plus grand-chose d'autre à manger!<br><br>La course a donc été lancée entre les pays producteurs pour envahir l'immense marché que représente cette manne de bouches en tout genre à nourrir.<br>Mais qui dit production de soja dit terres cultivées. Et dans les proportions dont il est question, il ne s'agit pas de quelques centaines d'hectares mais de millions d'hectares qu'il faut trouver. Seuls les grands pays emplis de terres non urbanisées peuvent répondre à une telle demande. Le choix n'est pas grand : Chine, Etats-Unis, Brésil,&#8230;<br><br>Les deux premiers sont déjà surexploités. Reste le Brésil, encore pourvu de grandes zones non cultivées, non habitées&#8230;Ou si peu. Mais oui ! Ces immenses terres recouvertes de forêts primaires, il suffit de les déboiser !<br>Le Brésil connaît bien son affaire. L'Etat du Mato Grosso plus particulièrement, qui la pratique déjà depuis quelques années. Au cours des 60 dernières années, la culture du soja est passée au Brésil de zéro à plus de 60 millions d'hectares. Et l'accélération est fulgurante, la surface consacrée à cette production a augmenté d'environ 50 % dans les quatre dernières années. Pas étonnant qu'elle déborde à présent sur la forêt.<br><br>Les multinationales de l'agroalimentaire et les gros propriétaires terriens ne lésinent pas sur les moyens (qui ne sont pas que financiers) pour acheter des millions d'hectares (pour d'ailleurs une bouchée de pain) en forêt amazonienne. Mais à qui appartenaient ces terres ? Et les a-t-on acheté en bon droit ?<br><br>Ce n'est pas le gouvernement Brésilien qui en douterait, lui qui est prêt à fournir toutes les infrastructures nécessaires pour développer la culture du soja à gigantesque échelle...<br><br>Les plus beaux textes de loi sensés protéger la forêt Amazonienne font pale figure à côté de l'appât du &#171; grain &#187; de soja.<br><br>Désormais à côté du bois tropical d'exportation et de l'expansion de l'élevage, au sein de la lutte des écologistes et des défenseurs des peuples indigènes, la culture intensive de soja devient l'ennemi n&#176;1 de la forêt amazonienne, cet ultime refuge de l'équilibre terrestre et humain. A ce jour plus de 80 millions d'hectares de terres au Brésil ont été défrichés pour ces raisons, soit environ un dixième de la superficie du pays.<br><br><br>Non contente d'en rester là, la culture du soja favorise la construction d'autoroutes et autres infrastructures dévoreuses de respect. Pour faire de la place, sous la menace, les peuples autochtones quittent leurs terres ancestrales, et les paysans sans terre se concentrent sur des espaces plus étroits encore, s'appauvrissant davantage.<br><br><br><table cellpadding=0 border=0 align=right cellspacing=0><tbody><tr align=center><td><img src=\"dynimg_pages/la_culture_du_soja/image2.jpg\"></td></tr></tbody></table>Que dire enfin de la forêt ? Faut-il faire remarquer en plus que la culture du soja perturbe les systèmes hydrologique et climatique&#8230;?<br><br><br>Pour conclure, n'oublions pas que ce n'est pas le soja qui est en cause, mais notre consommation démesurée de viande. Si nous mangions moins de viande, nos élevages européens pourraient redevenir extensifs et le bétail pourrait se délecter d'herbes de pâturage de nos prairies au lieu d'un soja cultivé sur un sol malmené, à l'autre bout de la planète. Baissons la tête, car attention au retour de boomerang.<br><br><a href=\"http://www.zero-deforestation.org/p_sabine_rabourdin.htm\">Sabine Rabourdin</a>"
-
+  "description": "Article temporaire pour tester la base-de-données.",
+  "encodage": "utf-8",
+  "fiche-publiee": true,
+  "format": "HTML",
+  "importance": 1,
+  "isCopyright": false,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-48-86966174926",
+    "lieu-2015-12-06-16-12-48-86966182107"
+  ],
+  "mise-a-jour": "2016-05-09-16-43-47",
+  "moment-de-creation": "2015-01-25-02-34-25",
+  "moment-de-modification": "2016-02-18-14-31-41",
+  "nom": "Article02",
+  "nom-machine": "test-2016-12-01-18-00-02-random",
+  "personne-concernee": [
+    "pers-2016-03-25-06-59-43-87534214988",
+    "pers-2016-04-04-18-45-44-87588596696"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-URL": "http://www.zero-deforestation.org/p_la_culture_du_soja.htm",
+  "sous-type": "test",
+  "sujet": [
+    "terme-2015-12-06-16-24-22-86966223762"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "_id": "lead-2016-12-01-18-00-02-random",
+  "path": "/fr/detail-int/test-2016-12-01-18-00-02-random",
+  "tip": "Tooltip du hyperlien dont le href est dans path",
+  "title": "PhD Admin - Article interne - Soja : de l’Amazonie à l’entrecôte.",
+  "titre": "Soja : de l’Amazonie à l’entrecôte.",
+  "soustitre": "Le soja aussi a sa part d'ombre",
+  "thumb-beside": "content",
+  "thumb-float": "left",
+  "thumb-tip": "Image de culture de soja",
+  "thumb-src": "http://www.zero-deforestation.org/dynimg_pages/la_culture_du_soja/image2.jpg",
+  "ressource": "test-2016-12-01-18-00-02-random",
+  "provenance": "http://www.zero-deforestation.org/p_la_culture_du_soja.htm",
+  "pertinence": 3,
+  "apercu": "<p>Le doux nom de soja évoque la nourriture végétarienne, et donc une quête de santé équilibrée, de respect de la nature... Mais le soja aussi a sa part d'ombre. Itinéraire d'un tendre légumineux devenu la cause de destruction de remarquables forêts.</p><p>Le soja est une plante d'origine asiatique où il occupe une place convoitée dans les tofus et autres rouleaux de printemps.<br><br>Grâce à ses diverses qualités, depuis quelques années, cette remarquable plante a envahi l'industrie agroalimentaire mondiale où elle donne par exemple de la cohésion à la plupart des mixtures alimentaires industrielles : la fameuse <em>lécithine de soja</em> ! Et surtout, elle nourrit à satiété les volailles, les bovins et les porcins du monde, en particulier ceux d'Europe, les plus gourmands dans ce domaine car ils n'ont plus grand-chose d'autre à manger!</p><p>La course a donc été lancée entre les pays producteurs pour envahir l'immense marché que représente cette manne de bouches en tout genre à nourrir. Mais qui dit production de soja dit terres cultivées. Et dans les proportions dont il est question, il ne s'agit pas de quelques centaines d'hectares mais de millions d'hectares qu'il faut trouver. Seuls les grands pays emplis de terres non urbanisées peuvent répondre à une telle demande. Le choix n'est pas grand : Chine, Etats-Unis, Brésil. Les deux premiers sont déjà surexploités. Reste le Brésil, encore pourvu de grandes zones non cultivées, non habitées. Ou si peu. Mais oui ! Ces immenses terres recouvertes de forêts primaires, il suffit de les déboiser ! Le Brésil connaît bien son affaire. L'Etat du Mato Grosso plus particulièrement, qui la pratique déjà depuis quelques années. Au cours des 60 dernières années, la culture du soja est passée au Brésil de zéro à plus de 60 millions d'hectares. Et l'accélération est fulgurante, la surface consacrée à cette production a augmenté d'environ 50 % dans les quatre dernières années. Pas étonnant qu'elle déborde à présent sur la forêt.",
+  "contenu": "<h2>Soja : de l'Amazonie à l'entrecôte.</h2><br><em><strong>Le doux nom de soja évoque la nourriture végétarienne, et donc une quête de santé équilibrée, de respect de la nature... Mais le soja aussi a sa part d'ombre&#8230;<br><br>Itinéraire d'un tendre légumineux devenu la cause de destruction de remarquables forêts.</strong></em><br><br>Le soja est une plante d'origine asiatique où il occupe une place convoitée dans les tofus et autres rouleaux de printemps.<br><br>Grâce à ses diverses qualités, depuis quelques années, cette remarquable plante a envahi l'industrie agroalimentaire mondiale où elle donne par exemple de la cohésion à la plupart des mixtures alimentaires industrielles : la fameuse &#171; lécithine de soja &#187; ! Et surtout, elle nourrit à satiété les volailles, les bovins et les porcins du monde, en particulier ceux d'Europe, les plus gourmands dans ce domaine car ils n'ont plus grand-chose d'autre à manger!<br><br>La course a donc été lancée entre les pays producteurs pour envahir l'immense marché que représente cette manne de bouches en tout genre à nourrir.<br>Mais qui dit production de soja dit terres cultivées. Et dans les proportions dont il est question, il ne s'agit pas de quelques centaines d'hectares mais de millions d'hectares qu'il faut trouver. Seuls les grands pays emplis de terres non urbanisées peuvent répondre à une telle demande. Le choix n'est pas grand : Chine, Etats-Unis, Brésil,&#8230;<br><br>Les deux premiers sont déjà surexploités. Reste le Brésil, encore pourvu de grandes zones non cultivées, non habitées&#8230;Ou si peu. Mais oui ! Ces immenses terres recouvertes de forêts primaires, il suffit de les déboiser !<br>Le Brésil connaît bien son affaire. L'Etat du Mato Grosso plus particulièrement, qui la pratique déjà depuis quelques années. Au cours des 60 dernières années, la culture du soja est passée au Brésil de zéro à plus de 60 millions d'hectares. Et l'accélération est fulgurante, la surface consacrée à cette production a augmenté d'environ 50 % dans les quatre dernières années. Pas étonnant qu'elle déborde à présent sur la forêt.<br><br>Les multinationales de l'agroalimentaire et les gros propriétaires terriens ne lésinent pas sur les moyens (qui ne sont pas que financiers) pour acheter des millions d'hectares (pour d'ailleurs une bouchée de pain) en forêt amazonienne. Mais à qui appartenaient ces terres ? Et les a-t-on acheté en bon droit ?<br><br>Ce n'est pas le gouvernement Brésilien qui en douterait, lui qui est prêt à fournir toutes les infrastructures nécessaires pour développer la culture du soja à gigantesque échelle...<br><br>Les plus beaux textes de loi sensés protéger la forêt Amazonienne font pale figure à côté de l'appât du &#171; grain &#187; de soja.<br><br>Désormais à côté du bois tropical d'exportation et de l'expansion de l'élevage, au sein de la lutte des écologistes et des défenseurs des peuples indigènes, la culture intensive de soja devient l'ennemi n&#176;1 de la forêt amazonienne, cet ultime refuge de l'équilibre terrestre et humain. A ce jour plus de 80 millions d'hectares de terres au Brésil ont été défrichés pour ces raisons, soit environ un dixième de la superficie du pays.<br><br><br>Non contente d'en rester là, la culture du soja favorise la construction d'autoroutes et autres infrastructures dévoreuses de respect. Pour faire de la place, sous la menace, les peuples autochtones quittent leurs terres ancestrales, et les paysans sans terre se concentrent sur des espaces plus étroits encore, s'appauvrissant davantage.<br><br><br><table cellpadding=0 border=0 align=right cellspacing=0><tbody><tr align=center><td><img src=\"dynimg_pages/la_culture_du_soja/image2.jpg\"></td></tr></tbody></table>Que dire enfin de la forêt ? Faut-il faire remarquer en plus que la culture du soja perturbe les systèmes hydrologique et climatique&#8230;?<br><br><br>Pour conclure, n'oublions pas que ce n'est pas le soja qui est en cause, mais notre consommation démesurée de viande. Si nous mangions moins de viande, nos élevages européens pourraient redevenir extensifs et le bétail pourrait se délecter d'herbes de pâturage de nos prairies au lieu d'un soja cultivé sur un sol malmené, à l'autre bout de la planète. Baissons la tête, car attention au retour de boomerang.<br><br><a href=\"http://www.zero-deforestation.org/p_sabine_rabourdin.htm\">Sabine Rabourdin</a>"
 }

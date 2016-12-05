@@ -1,32 +1,34 @@
 {
-"description": "Brève temporaire pour tester la base-de-données.",
-"encodage": "utf-8",
-"fiche-publiee": "true",
-"format": "HTML",
-"importance": 1,
-"isCopyright": "false",
-"mise-a-jour": "2016-05-09-16-43-47",
-"moment-de-creation": "2015-01-25-02-34-25",
-"moment-de-modification": "2016-02-18-14-31-41",
-"nom": "breve-4",
-"nom-machine": "test-2016-12-01-18-00-28-random",
-"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
-"source-defectueuse": "false",
-"source-URL": "http://aas.sagepub.com/cgi/content/abstract/0095399715602733v1?rss=1",
-"sous-type": "test",
-"sujet": ["terme-2015-12-06-16-24-54-86966225669"]
-"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
-
-"_id": "lead-2016-12-01-18-00-28-random",
-"path": "/fr/detail-int/test-2016-12-01-18-00-28-random",
-"tip": "Fil RSS",
-"titre": "Risks and Benefits...",
-"ressource": "test-2016-12-01-18-00-28-random",
-"provenance": "http://aas.sagepub.com/cgi/content/abstract/0095399715602733v1?rss=1",
-"pertinence": 4,
-
-"apercu": "<p>Although some studies highlight the risks to fiscal discipline, others regard legislative scrutiny as essential for fiscal transparency...</p>",
-
-"contenu": "<p>Although some studies highlight the risks to fiscal discipline, others regard legislative scrutiny as essential for fiscal transparency...</p>"
-
+  "description": "Brève temporaire pour tester la base-de-données.",
+  "encodage": "utf-8",
+  "fiche-publiee": true,
+  "format": "HTML",
+  "importance": 1,
+  "isCopyright": false,
+  "mise-a-jour": "2016-05-09-16-43-47",
+  "moment-de-creation": "2015-01-25-02-34-25",
+  "moment-de-modification": "2016-02-18-14-31-41",
+  "nom": "breve-4",
+  "nom-machine": "test-2016-12-01-18-00-28-random",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-URL": "http://aas.sagepub.com/cgi/content/abstract/0095399715602733v1?rss=1",
+  "sous-type": "test",
+  "sujet": [
+    "terme-2015-12-06-16-24-54-86966225669"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "_id": "lead-2016-12-01-18-00-28-random",
+  "path": "/fr/detail-int/test-2016-12-01-18-00-28-random",
+  "tip": "Fil RSS",
+  "titre": "Risks and Benefits...",
+  "ressource": "test-2016-12-01-18-00-28-random",
+  "provenance": "http://aas.sagepub.com/cgi/content/abstract/0095399715602733v1?rss=1",
+  "pertinence": 4,
+  "apercu": "<p>Although some studies highlight the risks to fiscal discipline, others regard legislative scrutiny as essential for fiscal transparency...</p>",
+  "contenu": "<p>Although some studies highlight the risks to fiscal discipline, others regard legislative scrutiny as essential for fiscal transparency...</p>"
 }
