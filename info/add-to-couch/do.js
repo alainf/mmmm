@@ -19,9 +19,9 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
 
     let zz
     try {
-      eval(`zz = ${a}`)
+      eval(`zz = ${a}`) // eslint-disable-line no-eval
     } catch (e) {
-      e.filenane = filename
+      e.filename = filename
       return reject(e)
     }
     let r
@@ -42,7 +42,6 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         }
       }
     }
-    // resolve(zz)
     resolve({
       fn: filename,
       json: JSON.stringify(zz, null, '  ')
@@ -51,25 +50,15 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
 })
 
 fs.readdir('.', (err, a) => {
+  if (err) {
+    console.error(err)
+    return
+  }
   Promise.all(
     a
       .filter((fn) => fn.slice(-5) === '.json')
-      .map((fn) => fixJson(fn))
+      .map(fixJson)
   )
-    .then((jsons) => {
-      jsons.forEach((j) => {
-        // console.log('JSON:', j.fn, j.json)
-        fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')
-      })
-      // console.log('JSONS:', jsons)
-      // console.log('JSONS:', jsons.join('\n'))
-      /*
-      jsons.forEach((j) => {
-        console.log('JSON:', JSON.stringify(j, null, '  '))
-      })
-      */
-    })
-    .catch((err) => {
-      console.error('ERR:', err)
-    })
+    .then((jsons) => { jsons.forEach((j) => fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')) })
+    .catch((err) => { console.error('ERR:', err) })
 })

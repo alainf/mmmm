@@ -1,26 +1,40 @@
 {
-"ajouter-aux-favoris": "false",
-"breadcrumb": "taxonomies/sujets/Agriculture/",
-"description": "Agriculture",
-"fiche-a-completer": "true",
-"fiche-defectueuse": "false",
-"fiche-publiee": "false",
-"identifiant-drupal": ["348",],
-"identifiant-drupal-parent": ["350",],
-"mise-a-jour": "2016-05-12-01-36-44",
-"moment-de-creation": "2016-05-12-01-36-44",
-"moment-de-modification": "2016-05-12-02-16-36",
-"niveau": "1",
-"nom": "Agriculture",
-"nom-anglais": ["Agriculture",],
-"nom-arabe": ["&#1586;&#1585;&#1575;&#1593;&#1577;",],
-"nom-espagnol": ["Agricultura",],
-"nom-folder": "Agriculture",
-"nom-francais": ["Agriculture",],
-"nom-italien": ["agricoltura",],
-"nom-machine": ["terme-2015-12-06-16-24-22-86966223762",],
-"parent": "Aucun",
-"sous-type": "sujets",
-"synonyme": "Agricultura<br>Agriculture",
-"type": "taxonomies",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/",
+  "description": "Agriculture",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": false,
+  "identifiant-drupal": 348,
+  "identifiant-drupal-parent": [
+    "350"
+  ],
+  "mise-a-jour": "2016-05-12-01-36-44",
+  "moment-de-creation": "2016-05-12-01-36-44",
+  "moment-de-modification": "2016-05-12-02-16-36",
+  "niveau": 1,
+  "nom": "Agriculture",
+  "nom-anglais": [
+    "Agriculture"
+  ],
+  "nom-arabe": [
+    "&#1586;&#1585;&#1575;&#1593;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Agricultura"
+  ],
+  "nom-folder": "Agriculture",
+  "nom-francais": [
+    "Agriculture"
+  ],
+  "nom-italien": [
+    "agricoltura"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-24-22-86966223762"
+  ],
+  "parent": "Aucun",
+  "sous-type": "sujets",
+  "synonyme": "Agricultura<br>Agriculture",
+  "type": "taxonomies"
 }

@@ -1,39 +1,41 @@
 {
-"description": "Article temporaire pour tester la base-de-données.",
-"encodage": "utf-8",
-"fiche-publiee": "true",
-"format": "HTML",
-"importance": 1,
-"isCopyright": "false",
-"mise-a-jour": "2016-05-09-16-43-47",
-"moment-de-creation": "2015-01-25-02-34-25",
-"moment-de-modification": "2016-02-18-14-31-41",
-"nom": "article-a",
-"nom-machine": "test-2016-12-01-18-00-12-random",
-"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
-"source-defectueuse": "false",
-"source-URL": "http://ici.radio-canada.ca/nouvelle/1000472/boeuf-alberta-economie-exportation-etats-unis-donald-trump",
-"sous-type": "test",
-"sujet": ["terme-2015-12-06-16-24-54-86966225669"]
-"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
-
-"_id": "lead-2016-12-01-18-00-12-random",
-"path": "/fr/detail-int/test-2016-12-01-18-00-12-random",
-"tip": "Publié le jeudi 17 novembre 2016 à 08 h 44",
-"title": "PhD Admin - Les producteurs de boeuf albertains s'inquiètent de la possible renégociation de l'ALENA",
-"titre": "Les producteurs de boeuf albertains s'inquiètent",
-"soustitre": "&nbsp;de la possible renégociation de l'ALENA",
-"citation": "L'étiquetage du pays d'origine coûtait 600 millions de dollars par année à notre industrie.",
-"thumb-beside": "content",
-"thumb-float": "left",
-"thumb-tip": "Les producteurs de boeuf albertains s'inquiètent de la possible renégociation de l'ALENA.   Photo : Radio-Canada/Émilie Tremblay",
-"thumb-src": "http://images.radio-canada.ca/w_635,h_357/v1/ici-info/16x9/boeuf-canada.jpg",
-"ressource": "test-2016-12-01-18-00-12-random",
-"provenance": "http://ici.radio-canada.ca/nouvelle/1000472/boeuf-alberta-economie-exportation-etats-unis-donald-trump",
-"pertinence": 5,
-
-"apercu": "<p>Les producteurs canadiens de boeuf sont préoccupés par les possibles répercussions financières sur leur industrie si les États-Unis envisageaient de rouvrir l'Accord de libre-échange nord-américain (ALENA) et de rétablir un régime d'étiquetage coûteux. L'équipe de transition du président élu des États-Unis, Donald Trump, lui conseille d'obtenir des conditions plus favorables aux États-Unis en vertu d'un accord négocié, selon une note de service qui a fait l'objet d'une fuite.</p><p>Rich Smith, le directeur général des producteurs albertains de boeuf explique que cette possible réouverture des négociations rend particulièrement nerveux les producteurs de bœuf albertains. Il s'inquiète aussi tout particulièrement de l'une des mesures souhaitées par le nouveau président des États-Unis concernant l'étiquetage du pays d'origine du boeuf.</p>",
-
-"contenu": "<p>Les producteurs canadiens de boeuf sont préoccupés par les possibles répercussions financières sur leur industrie si les États-Unis envisageaient de rouvrir l'Accord de libre-échange nord-américain (ALENA) et de rétablir un régime d'étiquetage coûteux. L'équipe de transition du président élu des États-Unis, Donald Trump, lui conseille d'obtenir des conditions plus favorables aux États-Unis en vertu d'un accord négocié, selon une note de service qui a fait l'objet d'une fuite.</p><p>Rich Smith, le directeur général des producteurs albertains de boeuf explique que cette possible réouverture des négociations rend particulièrement nerveux les producteurs de bœuf albertains. Il s'inquiète aussi tout particulièrement de l'une des mesures souhaitées par le nouveau président des États-Unis concernant l'étiquetage du pays d'origine du boeuf.</p>"
-
+  "description": "Article temporaire pour tester la base-de-données.",
+  "encodage": "utf-8",
+  "fiche-publiee": true,
+  "format": "HTML",
+  "importance": 1,
+  "isCopyright": false,
+  "mise-a-jour": "2016-05-09-16-43-47",
+  "moment-de-creation": "2015-01-25-02-34-25",
+  "moment-de-modification": "2016-02-18-14-31-41",
+  "nom": "article-a",
+  "nom-machine": "test-2016-12-01-18-00-12-random",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-URL": "http://ici.radio-canada.ca/nouvelle/1000472/boeuf-alberta-economie-exportation-etats-unis-donald-trump",
+  "sous-type": "test",
+  "sujet": [
+    "terme-2015-12-06-16-24-54-86966225669"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "_id": "lead-2016-12-01-18-00-12-random",
+  "path": "/fr/detail-int/test-2016-12-01-18-00-12-random",
+  "tip": "Publié le jeudi 17 novembre 2016 à 08 h 44",
+  "title": "PhD Admin - Les producteurs de boeuf albertains s'inquiètent de la possible renégociation de l'ALENA",
+  "titre": "Les producteurs de boeuf albertains s'inquiètent",
+  "soustitre": "&nbsp;de la possible renégociation de l'ALENA",
+  "citation": "L'étiquetage du pays d'origine coûtait 600 millions de dollars par année à notre industrie.",
+  "thumb-beside": "content",
+  "thumb-float": "left",
+  "thumb-tip": "Les producteurs de boeuf albertains s'inquiètent de la possible renégociation de l'ALENA.   Photo : Radio-Canada/Émilie Tremblay",
+  "thumb-src": "http://images.radio-canada.ca/w_635,h_357/v1/ici-info/16x9/boeuf-canada.jpg",
+  "ressource": "test-2016-12-01-18-00-12-random",
+  "provenance": "http://ici.radio-canada.ca/nouvelle/1000472/boeuf-alberta-economie-exportation-etats-unis-donald-trump",
+  "pertinence": 5,
+  "apercu": "<p>Les producteurs canadiens de boeuf sont préoccupés par les possibles répercussions financières sur leur industrie si les États-Unis envisageaient de rouvrir l'Accord de libre-échange nord-américain (ALENA) et de rétablir un régime d'étiquetage coûteux. L'équipe de transition du président élu des États-Unis, Donald Trump, lui conseille d'obtenir des conditions plus favorables aux États-Unis en vertu d'un accord négocié, selon une note de service qui a fait l'objet d'une fuite.</p><p>Rich Smith, le directeur général des producteurs albertains de boeuf explique que cette possible réouverture des négociations rend particulièrement nerveux les producteurs de bœuf albertains. Il s'inquiète aussi tout particulièrement de l'une des mesures souhaitées par le nouveau président des États-Unis concernant l'étiquetage du pays d'origine du boeuf.</p>",
+  "contenu": "<p>Les producteurs canadiens de boeuf sont préoccupés par les possibles répercussions financières sur leur industrie si les États-Unis envisageaient de rouvrir l'Accord de libre-échange nord-américain (ALENA) et de rétablir un régime d'étiquetage coûteux. L'équipe de transition du président élu des États-Unis, Donald Trump, lui conseille d'obtenir des conditions plus favorables aux États-Unis en vertu d'un accord négocié, selon une note de service qui a fait l'objet d'une fuite.</p><p>Rich Smith, le directeur général des producteurs albertains de boeuf explique que cette possible réouverture des négociations rend particulièrement nerveux les producteurs de bœuf albertains. Il s'inquiète aussi tout particulièrement de l'une des mesures souhaitées par le nouveau président des États-Unis concernant l'étiquetage du pays d'origine du boeuf.</p>"
 }

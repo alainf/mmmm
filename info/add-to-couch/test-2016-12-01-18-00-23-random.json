@@ -1,34 +1,36 @@
 {
-"description": "Article temporaire pour tester la base-de-données.",
-"encodage": "utf-8",
-"fiche-publiee": "true",
-"format": "HTML",
-"importance": 1,
-"isCopyright": "false",
-"mise-a-jour": "2016-05-09-16-43-47",
-"moment-de-creation": "2015-01-25-02-34-25",
-"moment-de-modification": "2016-02-18-14-31-41",
-"nom": "exemple-1",
-"nom-machine": "test-2016-12-01-18-00-23-random",
-"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
-"source-defectueuse": "false",
-"source-URL": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
-"sous-type": "test",
-"sujet": ["terme-2015-12-06-16-27-06-86966233620"]
-"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
-
-"_id": "lead-2016-12-01-18-00-23-random",
-"path": "/fr/detail-int/test-2016-12-01-18-00-23-random",
-"tip": "Exemple d'un article sans image dans le lead",
-"title": "PhdAdmin - Exemple d'un article sans image dans le lead",
-"titre": "L'Argentine et le Brésil se neutralisent",
-"soustitre": "Coupe du Monde 2018 en Russie",
-"ressource": "test-2016-12-01-18-00-23-random",
-"provenance": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
-"pertinence": 4,
-
-"apercu": "<p class='text-justify'>Les deux géants du continent sud-américain se sont neutralisés à Buenos Aires lors de la troisième journée des qualifications pour la Coupe du Monde 2018 en Russie. C'est le Parisien Ezequiel Lavezzi qui ouvrait le score pour l'Argentine, idéalement servi par Gonzalo Higuain (1-0, 33e).</p>",
-
-"contenu": "<p class='text-justify'>Les deux géants du continent sud-américain se sont neutralisés à Buenos Aires lors de la troisième journée des qualifications pour la Coupe du Monde 2018 en Russie. C'est le Parisien Ezequiel Lavezzi qui ouvrait le score pour l'Argentine, idéalement servi par Gonzalo Higuain (1-0, 33e).</p>"
-
+  "description": "Article temporaire pour tester la base-de-données.",
+  "encodage": "utf-8",
+  "fiche-publiee": true,
+  "format": "HTML",
+  "importance": 1,
+  "isCopyright": false,
+  "mise-a-jour": "2016-05-09-16-43-47",
+  "moment-de-creation": "2015-01-25-02-34-25",
+  "moment-de-modification": "2016-02-18-14-31-41",
+  "nom": "exemple-1",
+  "nom-machine": "test-2016-12-01-18-00-23-random",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-URL": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
+  "sous-type": "test",
+  "sujet": [
+    "terme-2015-12-06-16-27-06-86966233620"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "_id": "lead-2016-12-01-18-00-23-random",
+  "path": "/fr/detail-int/test-2016-12-01-18-00-23-random",
+  "tip": "Exemple d'un article sans image dans le lead",
+  "title": "PhdAdmin - Exemple d'un article sans image dans le lead",
+  "titre": "L'Argentine et le Brésil se neutralisent",
+  "soustitre": "Coupe du Monde 2018 en Russie",
+  "ressource": "test-2016-12-01-18-00-23-random",
+  "provenance": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
+  "pertinence": 4,
+  "apercu": "<p class='text-justify'>Les deux géants du continent sud-américain se sont neutralisés à Buenos Aires lors de la troisième journée des qualifications pour la Coupe du Monde 2018 en Russie. C'est le Parisien Ezequiel Lavezzi qui ouvrait le score pour l'Argentine, idéalement servi par Gonzalo Higuain (1-0, 33e).</p>",
+  "contenu": "<p class='text-justify'>Les deux géants du continent sud-américain se sont neutralisés à Buenos Aires lors de la troisième journée des qualifications pour la Coupe du Monde 2018 en Russie. C'est le Parisien Ezequiel Lavezzi qui ouvrait le score pour l'Argentine, idéalement servi par Gonzalo Higuain (1-0, 33e).</p>"
 }

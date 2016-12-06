@@ -1,26 +1,40 @@
 {
-"ajouter-aux-favoris": "false",
-"breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Oceanographie-(terre)/",
-"description": "Oc&#233;anographie (terre)",
-"fiche-a-completer": "true",
-"fiche-publiee": "false",
-"identifiant-drupal": ["270827",],
-"identifiant-drupal-parent": ["886",],
-"isCopyright": "false",
-"mise-a-jour": "2016-05-09-16-46-27",
-"moment-de-creation": "2015-12-06-16-26-09",
-"moment-de-modification": "2015-01-04-02-27-37",
-"niveau": "2",
-"nom": "Oc&#233;anographie (terre)",
-"nom-anglais": ["Oceanography (earth)",],
-"nom-arabe": ["&#1593;&#1604;&#1605; &#1575;&#1604;&#1605;&#1581;&#1610;&#1591;&#1575;&#1578; (&#1575;&#1604;&#1571;&#1585;&#1590;)",],
-"nom-espagnol": ["Oceanograf&#237;a (Tierra)",],
-"nom-folder": "Oceanographie-(terre)",
-"nom-francais": ["Oc&#233;anographie (terre)",],
-"nom-italien": ["Oceanografia (Terra)",],
-"nom-machine": ["terme-2015-12-06-16-26-09-86966230155",],
-"parent": "terme-2015-12-06-16-26-06-86966230007",
-"sous-type": "sujets",
-"synonyme": "Oc&#233;anographie (terre)<br>Oceanografa (Tierra)<br>Oceanographie-(terre)<br>Oceanography (earth)<br>Océanographie (terre)",
-"type": "taxonomies",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Oceanographie-(terre)/",
+  "description": "Oc&#233;anographie (terre)",
+  "fiche-a-completer": true,
+  "fiche-publiee": false,
+  "identifiant-drupal": 270827,
+  "identifiant-drupal-parent": [
+    "886"
+  ],
+  "isCopyright": false,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "niveau": 2,
+  "nom": "Oc&#233;anographie (terre)",
+  "nom-anglais": [
+    "Oceanography (earth)"
+  ],
+  "nom-arabe": [
+    "&#1593;&#1604;&#1605; &#1575;&#1604;&#1605;&#1581;&#1610;&#1591;&#1575;&#1578; (&#1575;&#1604;&#1571;&#1585;&#1590;)"
+  ],
+  "nom-espagnol": [
+    "Oceanograf&#237;a (Tierra)"
+  ],
+  "nom-folder": "Oceanographie-(terre)",
+  "nom-francais": [
+    "Oc&#233;anographie (terre)"
+  ],
+  "nom-italien": [
+    "Oceanografia (Terra)"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230155"
+  ],
+  "parent": "terme-2015-12-06-16-26-06-86966230007",
+  "sous-type": "sujets",
+  "synonyme": "Oc&#233;anographie (terre)<br>Oceanografa (Tierra)<br>Oceanographie-(terre)<br>Oceanography (earth)<br>Ocï¿½anographie (terre)",
+  "type": "taxonomies"
 }
