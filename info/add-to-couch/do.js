@@ -19,7 +19,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
 
     let zz
     try {
-      eval(`zz = ${a}`)
+      eval(`zz = ${a}`) // eslint-disable-line no-eval
     } catch (e) {
       e.filename = filename
       return reject(e)
@@ -50,6 +50,10 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
 })
 
 fs.readdir('.', (err, a) => {
+  if (err) {
+    console.error(err)
+    return
+  }
   Promise.all(
     a
       .filter((fn) => fn.slice(-5) === '.json')
