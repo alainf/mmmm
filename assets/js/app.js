@@ -4,8 +4,11 @@
 $(function () {
   $(document).foundation()
 
-  $('a').on('click', function (ev) {
-    console.log('this', this)
-    console.log('ev', ev)
-  })
+  // deep links
+  if (window.location.hash) {
+    var $tabs = $('[data-tabs]')
+    if ($tabs) {
+      $tabs.foundation('selectTab', window.location.hash)
+    }
+  }
 })
