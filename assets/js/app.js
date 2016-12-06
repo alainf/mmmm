@@ -6,9 +6,10 @@ $(function () {
 
   // deep links
   if (window.location.hash) {
+    var $dest = $(window.location.hash)
     var $tabs = $('[data-tabs]')
-    if ($tabs) {
-      $tabs.foundation('selectTab', window.location.hash)
+    if ($dest && $tabs) {
+      $tabs.foundation('selectTab', $dest)
     }
   }
 })
