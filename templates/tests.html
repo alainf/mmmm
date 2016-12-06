@@ -3,34 +3,21 @@
 
 <%= partials.mmhead({ title: "Test Zurb" }) %>
 
-<body onLoad="window.alert('Document loaded.');">
+<body>
 
-<div id="panel">
-<script type="test/javascript">
-	document.write("Hello World");
-</script>
+<div>
+  <a title="Partager cette information ?" onclick="toggleState('share-favs-1')">
+    <span class='larger-text' id="share-favs-1"><i class='fi-check'></i></span>
+  </a>
+  <span>Utiliser mes <span class='em'>favoris</span> lorsque je créerai un <span class='em'>groupe</span> ?</span>
 </div>
 
-<dl>
-<dt>Code postal</dt>
-<dd>
-<div class='input-group forIdentity'>
-<input class='input-group-field' type='text' name="geolocalisation" value="H4G 1H7">
-<a title="Partager cette information ?" class='input-group-button success button'>
-  <span class='tabs-size'><i class='fi-check'></i></span>
-</a>
+<div>
+  <span>Utiliser mes <span class='em'>favoris</span> lorsque je créerai un <span class='em'>groupe</span> ?</span>
+  <a title="Partager cette information ?" onclick="toggleState('share-favs-2')">
+    <span class='larger-text' id="share-favs-2"><i class='fi-check'></i></span>
+  </a>
 </div>
-</dd>
-<dt>Téléphone</dt>
-<dd>
-<div class='input-group forIdentity'>
-<input class='input-group-field' type='text' name="telephone" value="514-710-1752">
-<a title="Partager cette information ?" class='input-group-button alert button'>
-  <span class='tabs-size'><i class='fi-lock'></i></span>
-</a>
-</div>
-</dd>
-</dl>
 
 <%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
@@ -726,9 +713,20 @@ The <span data-tooltip aria-haspopup='true' class='has-tip left' data-disable-ho
 <script>
   $(document).foundation();
 </script>
+
 <script>
 function open_tab(tab_id,panel) {
   $("#"+tab_id).foundation("selectTab",$("#"+panel));
+}
+</script>
+
+<script type='text/javascript'>
+function toggleState(toggleName)
+{
+var myFlag = document.getElementById(toggleName).innerHTML;
+myFlag === "<i class=\"fi-check\"></i>" ? markup = "<i class='fi-lock'></i>" : markup = "<i class='fi-check'></i>"
+document.getElementById(toggleName).innerHTML = markup;
+//window.alert(myFlag + " " + markup);
 }
 </script>
 
