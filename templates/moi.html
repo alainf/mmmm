@@ -107,8 +107,8 @@
           <dd>
             <div class='input-group forIdentity'>
               <input class='input-group-field' type='text' name="courriel" value="alain_farmer@yahoo.com">
-              <a title="Partager cette information ?" class='input-group-button success button'>
-                <span class='tabs-size'><i class='fi-check'></i></span>
+              <a title="Partager cette information ?" class='input-group-button button' onclick="toggleState('share-mail')">
+                <span class='tabs-size' id="share-mail"><i class='fi-check'></i></span>
               </a>
             </div>
           </dd>
@@ -116,8 +116,8 @@
           <dd>
             <div class='input-group forIdentity'>
               <input class='input-group-field' type='url' name="facebook" value="https://www.facebook.com/alain.farmer">
-              <a title="Partager cette information ?" class='input-group-button success button'>
-                <span class='tabs-size'><i class='fi-check'></i></span>
+              <a title="Partager cette information ?" class='input-group-button button' onclick="toggleState('share-fb')">
+                <span class='tabs-size' id="share-fb"><i class='fi-check'></i></span>
               </a>
             </div>
           </dd>
@@ -125,8 +125,8 @@
           <dd>
             <div class='input-group forIdentity'>
               <input class='input-group-field' type='url' name="siteweb" value="https://www.alainfarmer.com/">
-              <a title="Partager cette information ?" class='input-group-button success button'>
-                <span class='tabs-size'><i class='fi-check'></i></span>
+              <a title="Partager cette information ?" class='input-group-button button' onclick="toggleState('share-site')">
+                <span class='tabs-size' id="share-site"><i class='fi-check'></i></span>
               </a>
             </div>
           </dd>
@@ -134,8 +134,8 @@
           <dd>
             <div class='input-group forIdentity'>
               <input class='input-group-field' type='text' name="geolocalisation" value="H4G 1H7">
-              <a title="Partager cette information ?" class='input-group-button success button'>
-                <span class='tabs-size'><i class='fi-check'></i></span>
+              <a title="Partager cette information ?" class='input-group-button button' onclick="toggleState('share-geo')">
+                <span class='tabs-size' id="share-geo"><i class='fi-check'></i></span>
               </a>
             </div>
           </dd>
@@ -143,8 +143,8 @@
           <dd>
             <div class='input-group forIdentity'>
               <input class='input-group-field' type='text' name="telephone" value="514-710-1752">
-              <a title="Partager cette information ?" class='input-group-button alert button'>
-                <span class='tabs-size'><i class='fi-lock'></i></span>
+              <a title="Partager cette information ?" class='input-group-button button' onclick="toggleState('share-tel')">
+                <span class='tabs-size' id="share-tel"><i class='fi-lock'></i></span>
               </a>
             </div>
           </dd>
@@ -555,6 +555,15 @@
 <%= partials.displayDropdown({ dropName: 'ajouter-lieu-dropdown' }) %>
 
 <%= partials.displayDropdown({ dropName: 'ajouter-langue-dropdown' }) %>
+
+<script type='text/javascript'>
+function toggleState(toggleName)
+{
+var myFlag = document.getElementById(toggleName).innerHTML;
+myFlag === "<i class=\"fi-check\"></i>" ? markup = "<i class='fi-lock'></i>" : markup = "<i class='fi-check'></i>"
+document.getElementById(toggleName).innerHTML = markup;
+}
+</script>
 
 <%= partials.scripts() %>
 

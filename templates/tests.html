@@ -3,7 +3,34 @@
 
 <%= partials.mmhead({ title: "Test Zurb" }) %>
 
-<body><br>
+<body onLoad="window.alert('Document loaded.');">
+
+<div id="panel">
+<script type="test/javascript">
+	document.write("Hello World");
+</script>
+</div>
+
+<dl>
+<dt>Code postal</dt>
+<dd>
+<div class='input-group forIdentity'>
+<input class='input-group-field' type='text' name="geolocalisation" value="H4G 1H7">
+<a title="Partager cette information ?" class='input-group-button success button'>
+  <span class='tabs-size'><i class='fi-check'></i></span>
+</a>
+</div>
+</dd>
+<dt>Téléphone</dt>
+<dd>
+<div class='input-group forIdentity'>
+<input class='input-group-field' type='text' name="telephone" value="514-710-1752">
+<a title="Partager cette information ?" class='input-group-button alert button'>
+  <span class='tabs-size'><i class='fi-lock'></i></span>
+</a>
+</div>
+</dd>
+</dl>
 
 <%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
