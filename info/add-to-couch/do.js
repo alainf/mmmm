@@ -51,10 +51,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         return reject(new Error(`Required: either _id or nom-machine in ${filename}`))
       }
     }
-    resolve({
-      fn: filename,
-      json: JSON.stringify(zz, null, '  ')
-    })
+    resolve({ fn: filename, json: zz})
   })
 })
 
@@ -72,6 +69,10 @@ fs.readdir('.', (err, a) => {
       console.log('jsons.length:', jsons.length)
       return jsons
     })
-    .then((jsons) => { jsons.forEach((j) => fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')) })
+    .then((jsons) => {
+      jsons.forEach((j) => {
+        fs.writeFile(`new/${j.fn}`, JSON.stringify(j.json, null, '  '), 'utf-8')
+      })
+    })
     .catch((err) => { console.error('ERR:', err) })
 })
