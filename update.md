@@ -17,3 +17,12 @@ Changer DBNAME:
 ```
 DBNAME=machina
 ```
+
+### Créer la DB
+```
+yarn run dev
+```
+
+* créer la db
+* mettre à jour le ddoc
+* démarrer le serveur node
