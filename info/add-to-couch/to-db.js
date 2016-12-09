@@ -51,7 +51,7 @@ fs.readdir('.', (err, a) => {
       // console.log(jsons)
 
       const db = nano(url.resolve(process.env.DBURL, process.env.DBNAME))
-      db.bulk({docs: jsons }, (e, b) => {
+      db.bulk({ docs: jsons }, (e, b) => {
         console.log('e:', e)
         console.log('b:', b)
       })
