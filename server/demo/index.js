@@ -4,8 +4,8 @@
 const url = require('url')
 const Wreck = require('wreck')
 
-const sections = require('../../data/list1.json')
-const sujets = require('../../data/list2.json')
+// const sections = require('../../data/list1.json')
+// const sujets = require('../../data/list2.json')
 
 exports.register = (server, options, next) => {
   const dbUrl = url.resolve(options.db.url, options.db.name)
@@ -17,98 +17,95 @@ exports.register = (server, options, next) => {
     isCached: options.templateCached
   })
 
-  const mapperAccueil = (request, callback) => {
-    const it = [dbUrl, '_design/app/_view/front']
-    callback(null, it.join('/') + '?include_docs=true&reduce=false', { accept: 'application/json' })
+  const mapperBy = (request, callback) => {
+    callback(null, dbUrl + '/_design/app/_view/stuff?group_level=1', { accept: 'application/json' })
   }
 
-/*
-  const mapper = (request, callback) => {
-    const it = [dbUrl]
-    if (request.params.pathy) { it.push(request.params.pathy) }
-    callback(null, it.join('/') + '?include_docs=true&reduce=false', { accept: 'application/json' })
-  }
-*/
-
-  const responder = (go, err, res, request, reply, settings, ttl) => {
+  const responderBy = (err, res, request, reply, settings, ttl) => {
     if (err) { return reply(err) } // FIXME: how to test?
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
-    Wreck.read(res, { json: true }, go.bind(null, res, request, reply))
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      reply(payload.rows.map((row) => `<li><a href="by/${row.key[0]}">${row.key[0]}</a> (${row.value})</li>`).join('\n'))
+    })
   }
 
-  // const go = (res, request, reply, err, payload) => { reply(payload).headers = res.headers }
-
-  const go2 = (res, request, reply, err, payload) => {
-    let tpl
-    let obj
-    if (payload._id) {
-      tpl = 'doc'
-      obj = { doc: payload }
-    } else if (payload.rows) {
-      // tpl = 'docs'
-      tpl = 'accueilDemo'
-
-      // console.log('payload keys:', Object.keys(payload))
-      obj = {
-        lesSections: sections.items,
-        lesSujets: sujets.items,
-        docs: payload.rows.map((d) => {
-          // console.log('d.doc.path:', d.doc.path)
-          if (d.doc.path) {
-            const parts = d.doc.path.split('/')
-            const newpath = parts.slice(2)
-            newpath.unshift('demo')
-            d.doc.demopath = newpath.join('/')
-            // console.log('parts:', parts)
-          }
-          // console.log('doc:', d.doc)
-          return d.doc
-        })
-      }
-    } else {
-      tpl = 'woot'
-      obj = { doc: payload }
-    }
-    reply.view(tpl, obj).etag(res.headers.etag)
+  const mapperByType = (request, callback) => {
+    const ek = encodeURIComponent('["' + request.params.type + '", []]')
+    const u = dbUrl +
+      '/_design/app/_view/stuff?group_level=2&startkey=["' +
+      request.params.type +
+      '"]&endkey=' + ek
+    callback(null, u, { accept: 'application/json' })
   }
 
-/*
+  const responderByType = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      reply(`<h1><a href="../by">By...</a></h1><h2>${payload.rows[0].key[0]}</h2>` + payload.rows.map((r) => {
+        return `<li><a href="${r.key[0]}/${r.key[1]}">${r.key[1]}</a> (${r.value})</li>`
+      }).join('\n'))
+    })
+  }
+
+  const mapperByTypeKey = (request, callback) => {
+    // const ek = encodeURIComponent('["' + request.params.type + '", []]')
+    const ek = JSON.stringify([request.params.type, request.params.key, false])
+    console.log('ek:', ek)
+    const u = dbUrl +
+      '/_design/app/_view/stuff?reduce=false&startkey=["' +
+      request.params.type + '","' + request.params.key +
+      '"]&endkey=' + ek
+    console.log('U:', u)
+    callback(null, u, { accept: 'application/json' })
+  }
+
+  const responderByTypeKey = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      reply(`<h1><a href="../../by">By...</a></h1><h2><a href="../../by/${payload.rows[0].key[0]}">${payload.rows[0].key[0]}</a></h2><h3>${payload.rows[0].key[1]}</h3>` + payload.rows.map((r) => {
+        return `<li><a href="../../doc/${r.id}">${r.id}</a></li>`
+      }).join('\n'))
+      // reply(payload)
+    })
+  }
+
   server.route({
     method: 'GET',
-    path: '/{pathy*}',
+    path: '/by',
     handler: {
       proxy: {
         passThrough: true,
-        mapUri: mapper,
-        onResponse: responder.bind(null, go)
+        mapUri: mapperBy,
+        onResponse: responderBy
       }
     }
   })
-*/
 
-/*
   server.route({
     method: 'GET',
-    path: '/{pathy*}',
+    path: '/by/{type}',
     handler: {
       proxy: {
         passThrough: true,
-        mapUri: mapper,
-        onResponse: responder.bind(null, go2)
+        mapUri: mapperByType,
+        onResponse: responderByType
       }
     }
   })
-*/
 
   server.route({
     method: 'GET',
-    path: '/accueil',
+    path: '/by/{type}/{key}',
     handler: {
       proxy: {
         passThrough: true,
-        // mapUri: mapper,
-        mapUri: mapperAccueil,
-        onResponse: responder.bind(null, go2)
+        mapUri: mapperByTypeKey,
+        onResponse: responderByTypeKey
       }
     }
   })
