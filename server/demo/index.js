@@ -51,14 +51,11 @@ exports.register = (server, options, next) => {
   }
 
   const mapperByTypeKey = (request, callback) => {
-    // const ek = encodeURIComponent('["' + request.params.type + '", []]')
     const ek = JSON.stringify([request.params.type, request.params.key, false])
-    console.log('ek:', ek)
     const u = dbUrl +
       '/_design/app/_view/stuff?reduce=false&startkey=["' +
       request.params.type + '","' + request.params.key +
       '"]&endkey=' + ek
-    console.log('U:', u)
     callback(null, u, { accept: 'application/json' })
   }
 
