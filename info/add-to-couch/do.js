@@ -42,6 +42,15 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         }
       }
     }
+    if (!zz._id) {
+      if (typeof zz['nom-machine'] === 'string') {
+        zz._id = zz['nom-machine']
+      } else if (typeof zz['nom-machine'] === 'object' && zz['nom-machine'][0]) {
+        zz._id = zz['nom-machine'][0]
+      } else {
+        return reject(new Error(`Required: either _id or nom-machine in ${filename}`))
+      }
+    }
     resolve({
       fn: filename,
       json: JSON.stringify(zz, null, '  ')
@@ -59,6 +68,10 @@ fs.readdir('.', (err, a) => {
       .filter((fn) => fn.slice(-5) === '.json')
       .map(fixJson)
   )
+    .then((jsons) => {
+      console.log('jsons.length:', jsons.length)
+      return jsons
+    })
     .then((jsons) => { jsons.forEach((j) => fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')) })
     .catch((err) => { console.error('ERR:', err) })
 })
