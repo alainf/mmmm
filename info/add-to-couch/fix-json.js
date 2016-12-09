@@ -37,7 +37,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
             zz[r] = zz[r][0]
           }
           zz[r] = parseInt(zz[r], 10)
-        } else if (r === 'niveau' || r === 'importance') {
+        } else if (r === 'niveau' || r === 'importance' || r === 'pertinence') {
           zz[r] = parseInt(zz[r], 10)
         }
       }
@@ -51,7 +51,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         return reject(new Error(`Required: either _id or nom-machine in ${filename}`))
       }
     }
-    resolve({ fn: filename, json: zz})
+    resolve({ fn: filename, json: zz })
   })
 })
 
