@@ -4,9 +4,6 @@
 const url = require('url')
 const Wreck = require('wreck')
 
-// const sections = require('../../data/list1.json')
-// const sujets = require('../../data/list2.json')
-
 exports.register = (server, options, next) => {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
@@ -51,11 +48,21 @@ exports.register = (server, options, next) => {
   }
 
   const mapperByTypeKey = (request, callback) => {
-    const ek = JSON.stringify([request.params.type, request.params.key, false])
+    let end
+    let end2
+    if (request.params.key == parseFloat(request.params.key)) {
+      end = parseFloat(request.params.key)
+      end2 = end
+    } else {
+      end = request.params.key
+      end2 = '"' + end + '"'
+    }
+
+    const ek = JSON.stringify([request.params.type, end, false])
     const u = dbUrl +
       '/_design/app/_view/stuff?reduce=false&startkey=["' +
-      request.params.type + '","' + request.params.key +
-      '"]&endkey=' + ek
+      request.params.type + '",' + end2 +
+      ']&endkey=' + ek
     callback(null, u, { accept: 'application/json' })
   }
 
@@ -67,7 +74,6 @@ exports.register = (server, options, next) => {
       reply(`<h1><a href="../../by">By...</a></h1><h2><a href="../../by/${payload.rows[0].key[0]}">${payload.rows[0].key[0]}</a></h2><h3>${payload.rows[0].key[1]}</h3>` + payload.rows.map((r) => {
         return `<li><a href="../../doc/${r.id}">${r.id}</a></li>`
       }).join('\n'))
-      // reply(payload)
     })
   }
 
