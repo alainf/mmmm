@@ -37,8 +37,10 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
             zz[r] = zz[r][0]
           }
           zz[r] = parseInt(zz[r], 10)
-        } else if (r === 'niveau' || r === 'importance' || r === 'pertinence') {
+        } else if (r === 'niveau') {
           zz[r] = parseInt(zz[r], 10)
+        } else if (r === 'importance' || r === 'pertinence') {
+          zz[r] = parseFloat(zz[r])
         }
       }
     }
