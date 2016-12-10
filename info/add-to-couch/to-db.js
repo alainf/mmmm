@@ -8,23 +8,8 @@ const url = require('url')
 
 // npm
 const nano = require('cloudant-nano')
-// const db = nano(url.resolve(process.env.DBURL, process.env.DBNAME))
-/*
-      console.log('DBURL:', process.env.DBURL)
-      console.log('DBNAME:', process.env.DBNAME)
-      console.log('DBADMIN:', process.env.DBADMIN)
-      console.log('DBPASSWORD:', process.env.DBPASSWORD)
-*/
-
-/*
-db.info((e, a) => {
-  console.log('e:', e)
-  console.log('a:', a)
-})
-*/
 
 const readJson = (filename) => new Promise((resolve, reject) => {
-  // console.log('fn:', filename)
   try {
     resolve(require(`./${filename}`))
   } catch (e) {
@@ -48,8 +33,6 @@ fs.readdir('.', (err, a) => {
       return jsons
     })
     .then((jsons) => {
-      // console.log(jsons)
-
       const db = nano(url.resolve(process.env.DBURL, process.env.DBNAME))
       db.bulk({ docs: jsons }, (e, b) => {
         console.log('e:', e)
