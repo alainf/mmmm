@@ -41,6 +41,8 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
           zz[r] = parseInt(zz[r], 10)
         } else if (r === 'importance' || r === 'pertinence') {
           zz[r] = parseFloat(zz[r])
+        } else if (r === 'mots-clefs' && typeof zz[r] === 'object' && zz[r].length) {
+          zz[r] = zz[r].map((x) => x.trim())
         }
       }
     }
