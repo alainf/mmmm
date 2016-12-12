@@ -33,9 +33,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         zz[r] = false
       } else {
         if (r === 'identifiant-drupal') {
-          if (typeof zz[r] === 'object') {
-            zz[r] = zz[r][0]
-          }
+          if (typeof zz[r] === 'object') { zz[r] = zz[r][0] }
           zz[r] = parseInt(zz[r], 10)
         } else if (r === 'niveau') {
           zz[r] = parseInt(zz[r], 10)
