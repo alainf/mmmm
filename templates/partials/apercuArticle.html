@@ -1,0 +1,29 @@
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+       <p class='headline'>
+         <a target='_blank' href="/fr/detail-int" title="Exemple d'un article interne">
+           <%- data.row.titre %>
+          </a>
+       </p>
+    </div>
+  </div>
+  <!--
+    <%- JSON.stringify(data.row, null, ' ') %>
+  -->
+  <div class='row'>
+    <div class='small-4 columns'>
+     <div class=''>
+       <img
+         title="<%- data.row['thumb-tip'] %>"
+         src="<%= data.row['thumb-src'] %>"
+         class='mmthumb'>
+     </div>
+    </div>
+    <div class='small-8 columns'>
+      <div class='content'>
+        <span class='apercu'><%= data.row['apercu'] %></span>
+      </div>
+    </div>
+  </div>
+</div>
