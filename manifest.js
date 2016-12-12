@@ -99,7 +99,13 @@ const manifest = {
     {
       plugin: {
         register: './server/web/index',
-        options: { templateCached: Config.get('/cache/web') }
+        options: {
+          templateCached: Config.get('/cache/web'),
+          db: {
+            url: Config.get('/db/url'),
+            name: Config.get('/db/name')
+          }
+        }
       }
     }
   ]

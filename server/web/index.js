@@ -1,5 +1,10 @@
 'use strict'
 
+// npm
+const url = require('url')
+const Wreck = require('wreck')
+const _ = require('lodash')
+
 const sections = require('../../data/list1.json')
 const sujets = require('../../data/list2.json')
 const sujets2 = require('../../data/sujets-Agriculture.json')
@@ -28,6 +33,40 @@ const pages = [
 ]
 
 exports.register = function (server, options, next) {
+  const dbUrl = url.resolve(options.db.url, options.db.name)
+
+  const mapperAccueil = (request, callback) => {
+    callback(null, dbUrl + '/_design/app/_view/pertinence?startkey=0&limit=5&include_docs=true', { accept: 'application/json' })
+  }
+
+  const responderAccueil = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+
+      // context: { lesSections: sections.items, lesSujets: sujets.items }
+
+      reply.view('accueil', {
+        rows: payload.rows.slice(0, 4),
+        lesSections: sections.items,
+        lesSujets: sujets.items
+      })
+/*
+      reply(
+        payload.rows
+          .slice(0, 4)
+          .map((row) => '<pre>' +
+            JSON.stringify(_.pick(row.doc, ['_id', 'title', 'titre']), null, '  ') +
+            '</pre>' +
+            row.doc.apercu
+          )
+          .join('')
+      )
+*/
+    })
+  }
+
   server.views({
     engines: { html: require('lodash-vision') },
     path: 'templates',
@@ -67,11 +106,23 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/accueil',
+    path: '/{languageCode}/accueilOrig',
     handler: {
       view: {
-        template: 'accueil',
+        template: 'accueilOrig',
         context: { lesSections: sections.items, lesSujets: sujets.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/accueil',
+    handler: {
+      proxy: {
+        passThrough: true,
+        mapUri: mapperAccueil,
+        onResponse: responderAccueil
       }
     }
   })
@@ -188,5 +239,5 @@ exports.register = function (server, options, next) {
 
 exports.register.attributes = {
   name: 'web',
-  dependencies: ['hapi-i18n', 'hapi-context-app', 'vision', 'inert']
+  dependencies: ['hapi-i18n', 'hapi-context-app', 'vision', 'inert', 'h2o2']
 }
