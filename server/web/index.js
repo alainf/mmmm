@@ -36,7 +36,8 @@ exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
   const mapperAccueil = (request, callback) => {
-    callback(null, dbUrl + '/_design/app/_view/pertinence?startkey=0&limit=5&include_docs=true', { accept: 'application/json' })
+    // descending|reverse?
+    callback(null, dbUrl + '/_design/app/_view/pertinence?startkey=0&limit=4&include_docs=true', { accept: 'application/json' })
   }
 
   const responderAccueil = (err, res, request, reply, settings, ttl) => {
@@ -45,25 +46,57 @@ exports.register = function (server, options, next) {
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
 
-      // context: { lesSections: sections.items, lesSujets: sujets.items }
+      const rows = payload.rows
+        .map((row) => row.doc)
+        .map((doc) => {
+          let tpl
+          if (doc['thumb-beside']) {
+            if (doc.citation) {
+              if (doc['thumb-beside'] === 'headline') {
+                if (doc['thumb-float'] === 'left') {
+                  tpl = 'article2a'
+                } else if (doc['thumb-float'] === 'right') {
+                  tpl = 'article2b'
+                }
+              }
+              if (!tpl) { console.error('NO-TPL#1', doc['thumb-beside'], doc['thumb-float']) }
+            } else {
+              if (doc['thumb-beside'] === 'content') {
+                if (doc['thumb-float'] === 'left') {
+                  tpl = 'article1a'
+                } else if (doc['thumb-float'] === 'right') {
+                  tpl = 'article1b'
+                }
+                if (!tpl) { console.error('NO-TPL#2') }
+              } else if (doc['thumb-beside'] === 'headline') {
+                if (doc['thumb-float'] === 'left') {
+                  tpl = 'article3a'
+                } else if (doc['thumb-float'] === 'right') {
+                  tpl = 'article3b'
+                }
+              }
+              if (!tpl) { console.error('NO-TPL#3') }
+            }
+          } else {
+            if (doc.direction) {
+              tpl = 'article5'
+            } else {
+              tpl = 'article4'
+            }
+          }
+          doc.tpl = tpl
+          if (!tpl) {
+            console.error('NO-TPL')
+            // console.error('NO-TPL', JSON.stringify(doc, null, ' '))
+          }
+          return doc
+        })
 
       reply.view('accueil', {
-        rows: payload.rows.slice(0, 4),
+        rows: rows,
         lesSections: sections.items,
         lesSujets: sujets.items
       })
-/*
-      reply(
-        payload.rows
-          .slice(0, 4)
-          .map((row) => '<pre>' +
-            JSON.stringify(_.pick(row.doc, ['_id', 'title', 'titre']), null, '  ') +
-            '</pre>' +
-            row.doc.apercu
-          )
-          .join('')
-      )
-*/
     })
   }
 
