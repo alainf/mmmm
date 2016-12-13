@@ -1,25 +1,29 @@
 ## Logique pour choisir template approprié pour les leads du journal. ##
 
-if data.thumb is not null then
+if data.thumb-src is not null then
 
   if data.citation is not null then
 
-    if (data.thumb.beside = "headline") and (data.thumb.float = "left")  then partial = "article2a"
-    if (data.thumb.beside = "headline") and (data.thumb.float = "right") then partial = "article2b"
+    if (data.thumb-beside = "content")  and (data.thumb-float = "left")  then partial = "article7"
+    if (data.thumb-beside = "content")  and (data.thumb-float = "right") then partial = "article7b"
+
+    if (data.thumb-beside = "headline") and (data.thumb-float = "left")  then partial = "article2"
+    if (data.thumb-beside = "headline") and (data.thumb-float = "right") then partial = "article2b"
 
   else
 
-    if (data.thumb.beside = "content")  and (data.thumb.float = "left")  then partial = "article1a"
-    if (data.thumb.beside = "content")  and (data.thumb.float = "right") then partial = "article1b"
-    if (data.thumb.beside = "headline") and (data.thumb.float = "left")  then partial = "article3a"
-    if (data.thumb.beside = "headline") and (data.thumb.float = "right") then partial = "article3b"
+    if (data.thumb-beside = "content")  and (data.thumb-float = "left")  then partial = "article1"
+    if (data.thumb-beside = "content")  and (data.thumb-float = "right") then partial = "article1b"
+    
+    if (data.thumb-beside = "headline") and (data.thumb-float = "left")  then partial = "article3"
+    if (data.thumb-beside = "headline") and (data.thumb-float = "right") then partial = "article3b"
 
   end if
 
 else
 
   if (data.direction is null) then partial = "article4" else partial = "article5"
-  if (citation is not null) then include data.citation after headline, before content
+  if (data.citation is not null) then include data.citation after headline, before content
 
 end if
 
@@ -31,8 +35,8 @@ end if
 
 <%= data.title %>
 <%= data.path %>
-<%= data.thumb.beside %>
-<%= data.thumb.float %>
+<%= data.thumb-beside %>
+<%= data.thumb-float %>
 <%= data.thumb.tip %>
 <%= data.thumb.src %>
 <%= data.pertinence %>

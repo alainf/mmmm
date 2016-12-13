@@ -1,0 +1,313 @@
+<!-- #########################################################
+
+## LEADS
+
+* article1
+* article1b
+* article2
+* article2b
+* article3
+* article4
+* article5
+* article6
+* article6b
+* breve
+* breve1
+* breve2
+* breve3
+* breve4
+
+## Logique pour choisir template approprié pour les leads du journal. ##
+
+if data.thumb-src !== null then
+
+  if data.citation !== null then
+
+    if (data.thumb-beside === "content")  and (data.thumb-float === "left")  then data.thisLead = "article6"
+    if (data.thumb-beside === "content")  and (data.thumb-float === "right") then data.thisLead = "article6b"
+
+    if (data.thumb-beside === "headline") and (data.thumb-float === "left")  then data.thisLead = "article2"
+    if (data.thumb-beside === "headline") and (data.thumb-float === "right") then data.thisLead = "article2b"
+
+  else
+
+    if (data.thumb-beside === "content")  and (data.thumb-float === "left")  then data.thisLead = "article1"
+    if (data.thumb-beside === "content")  and (data.thumb-float === "right") then data.thisLead = "article1b"
+    
+    if (data.thumb-beside === "headline") and (data.thumb-float === "left")  then data.thisLead = "article3"
+    if (data.thumb-beside === "headline") and (data.thumb-float === "right") then data.thisLead = "article3b"
+
+  end if
+
+else
+
+  if (data.direction === null) then data.thisLead = "article4" else data.thisLead = "article5"
+  if (data.citation !== null) then include data.citation after headline, before content
+
+end if
+
+----
+
+## variables
+
+### data.title
+### data.path
+### data.thumb-beside
+### data.thumb-float
+### data.thumb-tip
+### data.thumb-src
+### data.pertinence
+### data.ressource
+### data.provenance
+### data.tip
+### data.titre
+### data.soustitre
+### data.citation
+### data.direction
+### data.contenu
+### data.apercu
+
+############################################################### -->
+
+<% if (data.thisLead === 'article1') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+       <p class='headline'>
+         <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+       </p>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-4 columns'>
+     <div class=''>
+       <img
+         title="<%= data.thumb-tip %>"
+         src="<%= data.thumb-src %>"
+         class='mmthumb'>
+     </div>
+    </div>
+    <div class='small-8 columns'>
+      <div class='content'>
+        <p class='text-justify'><%= data.apercu %></p>
+      </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'article1b') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+       <h5 class='headline'>
+         <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+       </h5>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-8 columns'>
+     <div class='content'>
+       <p class='text-justify'><%= data.apercu %></p>
+     </div>
+    </div>
+    <div class='small-4 columns'>
+     <div class=''>
+       <img
+         title="<%= data.thumb-tip %>"
+         src="<%= data.thumb-src %>"
+         class='mmthumb'>
+     </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'article2') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-8 columns'>
+      <div class=''>
+        <p class='headline'>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+        </p>
+        <blockquote class="small-text em"><%= data.citation %></blockquote>
+      </div>
+    </div><div class='small-4 columns'>
+      <div class=''>
+        <img src="<%= data.thumb-src %>" class='mmthumb'>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class='content'>
+        <p class='text-justify'><%= data.apercu %></p>
+      </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'article2b') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-4 columns'>
+      <div class=''>
+        <img src="<%= data.thumb-src %>" class='mmthumb'>
+      </div>
+    </div>
+    <div class='small-8 columns'>
+      <div class=''>
+        <p class='headline'>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+        </p>
+        <blockquote class="small-text em"><%= data.citation %></blockquote>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class='content'>
+        <p class='text-justify'><%= data.apercu %></p>
+      </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'article3') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-8 columns'>
+      <div class=''>
+        <p class='headline'>
+          <a target='_blank' href="<%= data.path %>"><%= data.titre %></a>
+        </p>
+        <p>
+          <a target='_blank' href="<%= data.path %>"><span class='em'><%= data.soustitre %></span></a>
+        </p>
+        <p class='apercu'><%= data.citation %></p>
+      </div>
+    </div><div class='small-4 columns'>
+      <div class=''>
+        <img src="<%= data.thumb-src %>" class="mmthumbSmaller" title="<%= data.thumb-tip %>">
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class='content'>
+        <p class='text-justify'><%= data.apercu %></p>
+      </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'article4') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class=''>
+        <p class='headline'>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %></a>
+        </p>
+       <p>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.soustitre %></a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class='content'>
+        <p class='text-justify'><%= data.apercu %></p>
+      </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'article5') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class=''>
+        <p class='headline text-right'>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><span><%= data.titre %><%= data.soustitre %></span></a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class='content text-right'>
+        <p class='text-right'><%= data.apercu %></p>
+      </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'article6') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class=''>
+        <p class='headline'>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+        </p>
+        <blockquote class="small-text em"><%= data.citation %></blockquote>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-4 columns'>
+      <div class='text-center'>
+        <img src="<%= data.thumb-src %>" class='mmthumb'>
+      </div>
+    </div>
+    <div class='small-8 columns'>
+      <div class='content'>
+        <p class='text-justify'><%= data.apercu %></p>
+      </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'article6b') { %>
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class=''>
+        <p class='headline'>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+        </p>
+        <blockquote class="small-text em"><%= data.citation %></blockquote>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-8 columns'>
+      <div class='content'>
+        <p class='text-justify'><%= data.apercu %></p>
+      </div>
+    </div>
+    <div class='small-4 columns'>
+      <div class='text-center'>
+        <img src="<%= data.thumb-src %>" class='mmthumb'>
+      </div>
+    </div>
+  </div>
+</div>
+<% } %>
+
+<% if (data.thisLead === 'breve') { %>
+<div class='secondary callout'>
+  <div class='breve-titre'><p class='strong'><a target='_blank' href="<%= data.provenance %>"><%= data.titre %></a></p></div>
+  <div class='breve-contenu'><p><%= data.apercu %></p></div>
+</div>
+<% } %>
