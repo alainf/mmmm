@@ -33,19 +33,27 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         zz[r] = false
       } else {
         if (r === 'identifiant-drupal') {
-          if (typeof zz[r] === 'object') {
-            zz[r] = zz[r][0]
-          }
+          if (typeof zz[r] === 'object') { zz[r] = zz[r][0] }
           zz[r] = parseInt(zz[r], 10)
-        } else if (r === 'niveau' || r === 'importance') {
+        } else if (r === 'niveau') {
           zz[r] = parseInt(zz[r], 10)
+        } else if (r === 'importance' || r === 'pertinence') {
+          zz[r] = parseFloat(zz[r])
+        } else if (r === 'mots-clefs' && typeof zz[r] === 'object' && zz[r].length) {
+          zz[r] = zz[r].map((x) => x.trim())
         }
       }
     }
-    resolve({
-      fn: filename,
-      json: JSON.stringify(zz, null, '  ')
-    })
+    if (!zz._id) {
+      if (typeof zz['nom-machine'] === 'string') {
+        zz._id = zz['nom-machine']
+      } else if (typeof zz['nom-machine'] === 'object' && zz['nom-machine'][0]) {
+        zz._id = zz['nom-machine'][0]
+      } else {
+        return reject(new Error(`Required: either _id or nom-machine in ${filename}`))
+      }
+    }
+    resolve({ fn: filename, json: zz })
   })
 })
 
@@ -59,6 +67,14 @@ fs.readdir('.', (err, a) => {
       .filter((fn) => fn.slice(-5) === '.json')
       .map(fixJson)
   )
-    .then((jsons) => { jsons.forEach((j) => fs.writeFile(`new/${j.fn}`, j.json, 'utf-8')) })
+    .then((jsons) => {
+      console.log('jsons.length:', jsons.length)
+      return jsons
+    })
+    .then((jsons) => {
+      jsons.forEach((j) => {
+        fs.writeFile(`new/${j.fn}`, JSON.stringify(j.json, null, '  '), 'utf-8')
+      })
+    })
     .catch((err) => { console.error('ERR:', err) })
 })

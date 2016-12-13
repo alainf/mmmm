@@ -25,11 +25,16 @@
   <div class='small-6 columns'>
     <div>
     <br>
-    <% data.rows.forEach((row) => { %>
-      <!-- <%= JSON.stringify(row, null, ' ') %> -->
-      <%= partials[row.tpl](row) %>
-      <hr>
-    <% }) %>
+    <%= partials.displayLead({ thisLead: "article1" }) %>
+    <hr>
+    <%= partials.displayLead({ thisLead: "article2" }) %>
+    <hr>
+    <%= partials.displayLead({ thisLead: "article3" }) %>
+    <hr>
+    <%= partials.displayLead({ thisLead: "article4" }) %>
+    <hr>
+    <%= partials.displayLead({ thisLead: "article5" }) %>
+    <hr>
     </div>
   </div>
 

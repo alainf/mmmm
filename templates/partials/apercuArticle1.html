@@ -1,0 +1,45 @@
+<!-- #########################################################
+
+====== LEADS ======
+
+* article1
+* article1b
+* article2
+* article2b
+* article3
+* article4
+* article5
+* breve
+* breve1
+* breve2
+* breve3
+* breve4
+
+displayLead thisLead
+
+############################################################### -->
+
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+       <p class='headline'>
+         <a target='_blank' href="/fr/detail-int" title="Exemple d'un article interne"><%- data.titre %></a>
+       </p>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-4 columns'>
+     <div class=''>
+       <img
+         title="<%- data['thumb-tip'] %>"
+         src="<%- data['thumb-src'] %>"
+         class='mmthumb'>
+     </div>
+    </div>
+    <div class='small-8 columns'>
+      <div class='content'>
+        <%= data.apercu %>
+      </div>
+    </div>
+  </div>
+</div>

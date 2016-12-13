@@ -1,5 +1,10 @@
 'use strict'
 
+// npm
+const url = require('url')
+const Wreck = require('wreck')
+const _ = require('lodash')
+
 const sections = require('../../data/list1.json')
 const sujets = require('../../data/list2.json')
 const sujets2 = require('../../data/sujets-Agriculture.json')
@@ -28,6 +33,90 @@ const pages = [
 ]
 
 exports.register = function (server, options, next) {
+  const dbUrl = url.resolve(options.db.url, options.db.name)
+
+  const mapperAccueilPaged = (request, callback) => {
+    callback(
+      null,
+      dbUrl + `/_design/app/_view/pertinence?skip=${request.params.n * 4}&startkey=0&limit=4&include_docs=true`,
+      { accept: 'application/json' }
+    )
+  }
+
+  const mapperAccueil = (request, callback) => {
+    callback(null, dbUrl + '/_design/app/_view/pertinence?startkey=0&limit=4&include_docs=true', { accept: 'application/json' })
+  }
+
+  const responderAccueil = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+
+      const rows = payload.rows
+        .map((row) => row.doc)
+        .map((doc) => {
+          let tpl
+          if (doc['thumb-src']) {
+            if (doc.citation) {
+              if (doc['thumb-beside'] === 'headline') {
+                if (doc['thumb-float'] === 'left') {
+                  tpl = 'Article2'
+                } else if (doc['thumb-float'] === 'right') {
+                  tpl = 'Article2b'
+                }
+              } else if (doc['thumb-beside'] === 'content') {
+                if (doc['thumb-float'] === 'left') {
+                  tpl = 'Article6'
+                } else if (doc['thumb-float'] === 'right') {
+                  tpl = 'Article6b'
+                }
+              }
+              if (!tpl) { console.error('NO-TPL#1', doc['thumb-beside'], doc['thumb-float']) }
+            } else {
+              if (doc['thumb-beside'] === 'content') {
+                if (doc['thumb-float'] === 'left') {
+                  tpl = 'Article1'
+                } else if (doc['thumb-float'] === 'right') {
+                  tpl = 'Article1b'
+                }
+                if (!tpl) { console.error('NO-TPL#2') }
+              } else if (doc['thumb-beside'] === 'headline') {
+                if (doc['thumb-float'] === 'left') {
+                  tpl = 'Article3'
+                } else if (doc['thumb-float'] === 'right') {
+                  tpl = 'Article3b'
+                }
+              }
+              if (!tpl) { console.error('NO-TPL#3') }
+            }
+          } else {
+            if (doc.direction) {
+              tpl = 'Article5'
+            } else {
+              tpl = 'Article4'
+            }
+          }
+          if (tpl) {
+            tpl = 'apercu' + tpl
+          } else {
+            console.error('NO-TPL')
+            // tpl = 'apercuArticle'
+            tpl = 'noTpl'
+            // console.error('NO-TPL', JSON.stringify(doc, null, ' '))
+          }
+          doc.tpl = tpl
+          return doc
+        })
+
+      reply.view('accueil', {
+        rows: rows,
+        lesSections: sections.items,
+        lesSujets: sujets.items
+      })
+    })
+  }
+
   server.views({
     engines: { html: require('lodash-vision') },
     path: 'templates',
@@ -67,11 +156,35 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/accueil',
+    path: '/{languageCode}/accueilOrig',
     handler: {
       view: {
-        template: 'accueil',
+        template: 'accueilOrig',
         context: { lesSections: sections.items, lesSujets: sujets.items }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/accueil',
+    handler: {
+      proxy: {
+        passThrough: true,
+        mapUri: mapperAccueil,
+        onResponse: responderAccueil
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/accueil/{n}',
+    handler: {
+      proxy: {
+        passThrough: true,
+        mapUri: mapperAccueilPaged,
+        onResponse: responderAccueil
       }
     }
   })
@@ -188,5 +301,5 @@ exports.register = function (server, options, next) {
 
 exports.register.attributes = {
   name: 'web',
-  dependencies: ['hapi-i18n', 'hapi-context-app', 'vision', 'inert']
+  dependencies: ['hapi-i18n', 'hapi-context-app', 'vision', 'inert', 'h2o2']
 }

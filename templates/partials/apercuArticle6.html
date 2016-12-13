@@ -1,0 +1,24 @@
+<div class='journal'>
+  <div class='row'>
+    <div class='small-12 columns'>
+      <div class=''>
+        <p class='headline'>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+        </p>
+        <blockquote class="small-text em"><%= data.citation %></blockquote>
+      </div>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='small-4 columns'>
+      <div class='text-center'>
+        <img src="<%= data['thumb-src'] %>" class='mmthumb'>
+      </div>
+    </div>
+    <div class='small-8 columns'>
+      <div class='content'>
+        <p class='text-justify'><%= data.apercu %></p>
+      </div>
+    </div>
+  </div>
+</div>
