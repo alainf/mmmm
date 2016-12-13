@@ -35,8 +35,15 @@ const pages = [
 exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
+  const mapperAccueilPaged = (request, callback) => {
+    callback(
+      null,
+      dbUrl + `/_design/app/_view/pertinence?skip=${request.params.n * 4}&startkey=0&limit=4&include_docs=true`,
+      { accept: 'application/json' }
+    )
+  }
+
   const mapperAccueil = (request, callback) => {
-    // descending|reverse?
     callback(null, dbUrl + '/_design/app/_view/pertinence?startkey=0&limit=4&include_docs=true', { accept: 'application/json' })
   }
 
@@ -159,6 +166,18 @@ exports.register = function (server, options, next) {
       proxy: {
         passThrough: true,
         mapUri: mapperAccueil,
+        onResponse: responderAccueil
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/accueil/{n}',
+    handler: {
+      proxy: {
+        passThrough: true,
+        mapUri: mapperAccueilPaged,
         onResponse: responderAccueil
       }
     }
