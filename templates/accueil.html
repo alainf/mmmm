@@ -27,7 +27,7 @@
     <br>
     <% data.rows.forEach((row) => { %>
       <!-- <%= JSON.stringify(row, null, ' ') %> -->
-      <%= partials[row.tpl]({ row: row }) %>
+      <%= partials[row.tpl](row) %>
       <hr>
     <% }) %>
     </div>
