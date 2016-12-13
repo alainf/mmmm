@@ -57,13 +57,19 @@ exports.register = function (server, options, next) {
         .map((row) => row.doc)
         .map((doc) => {
           let tpl
-          if (doc['thumb-beside']) {
+          if (doc['thumb-src']) {
             if (doc.citation) {
               if (doc['thumb-beside'] === 'headline') {
                 if (doc['thumb-float'] === 'left') {
                   tpl = 'Article2'
                 } else if (doc['thumb-float'] === 'right') {
                   tpl = 'Article2b'
+                }
+              } else if (doc['thumb-beside'] === 'content') {
+                if (doc['thumb-float'] === 'left') {
+                  tpl = 'Article6'
+                } else if (doc['thumb-float'] === 'right') {
+                  tpl = 'Article6b'
                 }
               }
               if (!tpl) { console.error('NO-TPL#1', doc['thumb-beside'], doc['thumb-float']) }
