@@ -26,9 +26,9 @@
     <div>
     <br>
     <% data.rows.forEach((row) => { %>
-      <%= partials.apercuArticle({ row: row }) %>
+      <!-- <%= JSON.stringify(row, null, ' ') %> -->
+      <%= partials[row.tpl]({ row: row }) %>
       <hr>
-
     <% }) %>
     </div>
   </div>

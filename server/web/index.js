@@ -54,41 +54,45 @@ exports.register = function (server, options, next) {
             if (doc.citation) {
               if (doc['thumb-beside'] === 'headline') {
                 if (doc['thumb-float'] === 'left') {
-                  tpl = 'article2a'
+                  tpl = 'Article2'
                 } else if (doc['thumb-float'] === 'right') {
-                  tpl = 'article2b'
+                  tpl = 'Article2b'
                 }
               }
               if (!tpl) { console.error('NO-TPL#1', doc['thumb-beside'], doc['thumb-float']) }
             } else {
               if (doc['thumb-beside'] === 'content') {
                 if (doc['thumb-float'] === 'left') {
-                  tpl = 'article1a'
+                  tpl = 'Article1'
                 } else if (doc['thumb-float'] === 'right') {
-                  tpl = 'article1b'
+                  tpl = 'Article1b'
                 }
                 if (!tpl) { console.error('NO-TPL#2') }
               } else if (doc['thumb-beside'] === 'headline') {
                 if (doc['thumb-float'] === 'left') {
-                  tpl = 'article3a'
+                  tpl = 'Article3'
                 } else if (doc['thumb-float'] === 'right') {
-                  tpl = 'article3b'
+                  tpl = 'Article3b'
                 }
               }
               if (!tpl) { console.error('NO-TPL#3') }
             }
           } else {
             if (doc.direction) {
-              tpl = 'article5'
+              tpl = 'Article5'
             } else {
-              tpl = 'article4'
+              tpl = 'Article4'
             }
           }
-          doc.tpl = tpl
-          if (!tpl) {
+          if (tpl) {
+            tpl = 'apercu' + tpl
+          } else {
             console.error('NO-TPL')
+            // tpl = 'apercuArticle'
+            tpl = 'noTpl'
             // console.error('NO-TPL', JSON.stringify(doc, null, ' '))
           }
+          doc.tpl = tpl
           return doc
         })
 
