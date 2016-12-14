@@ -93,6 +93,7 @@
     "site-2016-03-25-06-58-37-87534211027.json"
   ],
   "_id": "lead-2016-12-01-09-27-14-87534243584",
+  "affichage": "breve",
   "path": "/fr/detail/page-2016-12-01-09-27-14-87534243584",
   "tip": "Tooltip du hyperlien dont le href est dans path",
   "title": "PhD Admin - La régulation des goûts",
