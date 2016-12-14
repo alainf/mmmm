@@ -37,7 +37,7 @@ exports.register = function (server, options, next) {
   const mapperAccueilPaged = (request, callback) => {
     callback(
       null,
-      dbUrl + `/_design/app/_view/pertinence?skip=${request.params.n * 4}&startkey=0&limit=4&include_docs=true`,
+      dbUrl + `/_design/app/_view/pertinence?skip=${request.params.n * 4 - 4}&startkey=0&limit=4&include_docs=true`,
       { accept: 'application/json' }
     )
   }
