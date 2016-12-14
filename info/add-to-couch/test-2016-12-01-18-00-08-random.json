@@ -31,6 +31,7 @@
     "terme-2015-12-06-16-27-21-86966234485"
   ],
   "_id": "lead-2016-12-01-18-00-08-random",
+  "affichage": "article",
   "path": "/fr/detail-ext/test-2016-12-01-18-00-08-random",
   "tip": "Tooltip du hyperlien dont le href est dans path",
   "title": "PhD Admin - Article externe - Production agricole accrue",

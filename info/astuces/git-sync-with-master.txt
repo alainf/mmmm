@@ -6,3 +6,14 @@ git checkout dev-alain # switcher à ta branche
 git merge master # l'éditeur veut que tu confirmes (si c'est nano, CTRL-X)
 git push # push ton dev-alain sur github, une fois mergé avec master
 yarn
+
+----
+
+Le plus simple c'est de
+
+* éditer les fichiers de add-to-couch
+* deleter ta db machina dans futon
+* recréer avec yarn run dev
+* rouler node to-db du répertoire add-to-couch
+
+
