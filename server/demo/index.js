@@ -50,7 +50,7 @@ exports.register = (server, options, next) => {
   const mapperByTypeKey = (request, callback) => {
     let end
     let end2
-    if (request.params.key == parseFloat(request.params.key)) {
+    if (request.params.key == parseFloat(request.params.key)) { // eslint-disable-line eqeqeq
       end = parseFloat(request.params.key)
       end2 = end
     } else {

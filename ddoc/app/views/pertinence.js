@@ -2,7 +2,7 @@
 'use strict'
 
 module.exports = {
-  map: function(doc) {
+  map: function (doc) {
     if (doc.pertinence) { emit(doc.pertinence) }
   }
 }

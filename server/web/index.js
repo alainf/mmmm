@@ -3,7 +3,6 @@
 // npm
 const url = require('url')
 const Wreck = require('wreck')
-const _ = require('lodash')
 
 const sections = require('../../data/list1.json')
 const sujets = require('../../data/list2.json')
