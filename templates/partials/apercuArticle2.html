@@ -3,21 +3,21 @@
     <div class='small-8 columns'>
       <div class=''>
         <p class='headline'>
-          TODO #2
-          <a target='_blank' href="/fr/detail-ext" title="<%- data.tip %>">Determinants of Local<br>Governments' Transparency</a>
+          <!-- was TODO #2 -->
+          <a target='_blank' href="<%= data.path %>" title="<%- data.tip %>"><%= data.titre %><%= data.soustitre %></a>
         </p>
-        <blockquote class="small-text em">The crisis has impact on Government forcing it to be more transparent in management of public resources.</blockquote>
+        <blockquote class='small-text em'><%= data.citation %></blockquote>
       </div>
     </div><div class='small-4 columns'>
       <div class=''>
-        <img src="/img/dans-articles/Philippe_Couillard.jpg" class='mmthumb'>
+        <img src="<%= data['thumb-src'] %>" class='mmthumb' title="<%= data['thumb-tip'] %>">
       </div>
     </div>
   </div>
   <div class='row'>
     <div class='small-12 columns'>
       <div class='content'>
-        <p class='text-justify'>Article theoretically and empirically examines determinants of the levels of transparency in Local Governments based on the agency and legitimacy theories. For the purpose of this study, the analysis is based on the Spanish municipalities over a period of 4 years....</p>
+        <p class='apercu'><%= data.apercu %></p>
       </div>
     </div>
   </div>

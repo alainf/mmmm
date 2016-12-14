@@ -3,10 +3,10 @@
     <div class='small-12 columns'>
       <div class=''>
         <p class='headline'>
-          <a target='_blank' href="<%- data.provenance %>" title="<%- data.tip %>"><%- data.titre %></a>
+          <a target='_blank' href="<%- data.path %>" title="<%- data.tip %>"><%- data.titre %></a>
         </p>
-       <p>
-          <a target='_blank' href="<%- data.provenance %>" title="<%- data.tip %>"><%- data.soustitre %></a>
+        <p>
+          <a target='_blank' href="<%- data.path %>" title="<%- data.tip %>"><%- data.soustitre %></a>
         </p>
       </div>
     </div>
@@ -14,7 +14,7 @@
   <div class='row'>
     <div class='small-12 columns'>
       <div class='content'>
-        <%= data.apercu %>
+        <p class='apercu'><%= data.apercu %></p>
       </div>
     </div>
   </div>

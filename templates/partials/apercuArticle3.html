@@ -3,17 +3,18 @@
     <div class='small-8 columns'>
       <div class=''>
         <p class='headline'>
-          TODO #3
-          <a target='_blank' href="http://aas.sagepub.com/cgi/content/abstract/0095399715607287v1?rss=1">The Corrupted Industry</a>
+          <!-- was TODO #3 -->
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><%= data.titre %></a>
         </p>
         <p>
-          <a target='_blank' href="http://aas.sagepub.com/cgi/content/abstract/0095399715607287v1?rss=1"><span class='em'>Wagon-Wheel Effect</span></a>
+          <a target='_blank' href="<%= data.path %>" title="<%= data.tip %>"><span class='em'><%= data.soustitre %></span></a>
         </p>
-        <p class='apercu'>An explanatory framework</p>
+        <p class='small-text em'><%= data.citation %></p>
       </div>
-    </div><div class='small-4 columns'>
+    </div>
+    <div class='small-4 columns'>
       <div class=''>
-        <img src="/img/dans-articles/wagonwheel.jpg" class="mmthumbSmaller" title="image de Google Images">
+        <img src="<%= data['thumb-src'] %>" class='mmthumbSmaller' title="<%= data['thumb-tip'] %>">
       </div>
     </div>
   </div>
@@ -21,7 +22,7 @@
   <div class='row'>
     <div class='small-12 columns'>
       <div class='content'>
-        <p class='text-justify'><img src="/img/dans-articles/lettrine.gif" width="30" height="30" alt="N" title="lettrine">ote that the present study addresses a topic neglected by the public administration literature: government corruption and its effects on public service systems. Specifically, the study focuses on the institutionalized form of government corruption and offers a framework to explain... </p>
+        <p class='apercu'><%= data.apercu %></p>
       </div>
     </div>
   </div>
