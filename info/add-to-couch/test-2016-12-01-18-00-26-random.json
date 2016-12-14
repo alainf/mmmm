@@ -29,6 +29,6 @@
   "ressource": "test-2016-12-01-18-00-26-random",
   "provenance": "http://fr.reuters.com/article/sportsNews/idFRMT1IDAT00004SU20151114",
   "pertinence": 4,
-  "apercu": "<p>Duel entre les candidats socialiste et frontiste lors du deuxième tour de la législative partielle du Doubs, le 8 fév. dernier, s'est conclu par l'échec du Front national?</p>",
+  "apercu": "<p class='text-justify'>Duel entre les candidats socialiste et frontiste lors du deuxième tour de la législative partielle du Doubs, le 8 fév. dernier, s'est conclu par l'échec du Front national?</p>",
   "contenu": "<p>Duel entre les candidats socialiste et frontiste lors du deuxième tour de la législative partielle du Doubs, le 8 fév. dernier, s'est conclu par l'échec du Front national?</p>"
 }
