@@ -3,6 +3,6 @@
 
 module.exports = {
   map: function (doc) {
-    if (doc.pertinence) { emit(doc.pertinence) }
+    if (doc.affichage === 'article') { emit(doc.pertinence) }
   }
 }
