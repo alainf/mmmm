@@ -218,11 +218,19 @@ exports.register = function (server, options, next) {
   server.route({
     method: 'GET',
     path: '/{languageCode}/accueil/{n}',
-    handler: {
-      proxy: {
-        passThrough: true,
-        mapUri: mapperAccueilPaged,
-        onResponse: responderAccueil
+    config: {
+      pre: [
+        {
+          method: bla,
+          assign: 'bla'
+        }
+      ],
+      handler: {
+        proxy: {
+          passThrough: true,
+          mapUri: mapperAccueilPaged,
+          onResponse: responderAccueil
+        }
       }
     }
   })
