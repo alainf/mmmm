@@ -43,8 +43,7 @@
     </div>
   </div>
 </div>
-
-<%= partials.footer({ pagination: true, lastPage: "2 000 000", username: "Alain Farmer" }) %>
+<%= partials.footer({ pagination: true, currentPage: data.page, lastPage: data.lastPage, username: "Alain Farmer" }) %>
 
 <%= partials.scripts() %>
 
