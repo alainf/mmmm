@@ -42,6 +42,32 @@ exports.register = function (server, options, next) {
     )
   }
 
+  const responderBla = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      // console.log('rows:', payload)
+      reply(payload.rows.map((row) => row.doc))
+    })
+  }
+
+  const mapperBla = (request, callback) => {
+    callback(
+      null,
+      dbUrl + '/_design/app/_view/breves?include_docs=true&limit=4',
+      { accept: 'application/json' }
+    )
+  }
+
+  const bla = function (request, reply) {
+    // reply('oh la la'.split(' '))
+    reply.proxy({
+      mapUri: mapperBla,
+      onResponse: responderBla
+    })
+  }
+
   const mapperAccueil = (request, callback) => {
     callback(null, dbUrl + '/_design/app/_view/pertinence?startkey=0&limit=4&include_docs=true', { accept: 'application/json' })
   }
@@ -49,6 +75,8 @@ exports.register = function (server, options, next) {
   const responderAccueil = (err, res, request, reply, settings, ttl) => {
     if (err) { return reply(err) } // FIXME: how to test?
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+
+    // console.log('BLA:', request.pre.bla)
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
 
@@ -109,6 +137,7 @@ exports.register = function (server, options, next) {
         })
 
       reply.view('accueil', {
+        breves: request.pre.bla,
         rows: rows,
         lastPage: Math.ceil(payload.total_rows / 4),
         page: request.params.n ? parseInt(request.params.n, 10) : 1,
@@ -169,11 +198,19 @@ exports.register = function (server, options, next) {
   server.route({
     method: 'GET',
     path: '/{languageCode}/accueil',
-    handler: {
-      proxy: {
-        passThrough: true,
-        mapUri: mapperAccueil,
-        onResponse: responderAccueil
+    config: {
+      pre: [
+        {
+          method: bla,
+          assign: 'bla'
+        }
+      ],
+      handler: {
+        proxy: {
+          passThrough: true,
+          mapUri: mapperAccueil,
+          onResponse: responderAccueil
+        }
       }
     }
   })
