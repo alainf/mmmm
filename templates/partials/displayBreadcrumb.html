@@ -24,9 +24,9 @@ syntax: displayBreadcrumb pageID
     <ul class='breadcrumbs'>
     <li>Accueil</li>
     <li>
-      <a class='prev-page' href="#">&lt;</a>
-      <span> Page 1 </span>
-      <a class='next-page' href="#">&gt;</a>
+      <a class="prev-page<%- data.currentPage === 1 ? ' disabled' : '' %>" href="/fr/accueil/<%- Math.max(data.currentPage - 1, 1) %>">&lt;</a>
+      <span> Page <%- data.currentPage %> </span>
+      <a class="next-page<%- data.currentPage === data.lastPage ? ' disabled' : '' %>" href="/fr/accueil/<%- Math.min(data.currentPage + 1, data.lastPage) %>">&gt;</a>
     </li>
     </ul>
   </nav>

@@ -9,7 +9,7 @@
 
 <%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
 
-<%= partials.displayBreadcrumb({ pageID: 'breadcrumbAccueil' }) %>
+<%= partials.displayBreadcrumb({ currentPage: data.page, lastPage: data.lastPage, pageID: 'breadcrumbAccueil' }) %>
 
 <%= partials.displayHeader({ headerName: 'mmPageHeader', usertype: "membre", title: "Accueil de PhdAdmin" }) %>
 
