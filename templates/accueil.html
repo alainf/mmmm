@@ -36,10 +36,9 @@
   <div class='small-3 columns'>
     <div class=''>
       <h5 class='bloc-title'><%- data.__("En bref") %></h5>
-      <%= partials.displayLead({ thisLead: "breve1" }) %>
-      <%= partials.displayLead({ thisLead: "breve2" }) %>
-      <%= partials.displayLead({ thisLead: "breve3" }) %>
-      <%= partials.displayLead({ thisLead: "breve4" }) %>
+      <% data.breves.forEach((breve) => { %>
+        <%= partials.displayLeadDB(breve) %>
+      <% }) %>
     </div>
   </div>
 </div>
