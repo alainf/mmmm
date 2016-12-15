@@ -1,18 +1,25 @@
 <%
 // seulement implémenter pour l'accueil en français
 if (data.currentPage) {
+  var nItems = 5 // impair
+  var r
+  var firstItem
+  var lastItem
+
+  if (data.currentPage < nItems / 2) {
+    firstItem = 1
+  } else {
+    firstItem = data.currentPage - Math.floor(nItems / 2)
+  }
+  lastItem = Math.min(firstItem + nItems, data.lastPage + 1)
 %>
 <div class='' id='pagination'>
   <ul class='pagination text-center' role='navigation' aria-label='Pagination'>
-  <li class='pagination-previous'><span class='strong'><a href="#" aria-label='Previous page'></a></span></li>
-  <li<%= data.currentPage === 1 ? ' class="current"' : '' %>><a href="/fr/accueil/1" aria-label='Page 1'>1</a></li>
-  <li<%= data.currentPage === 2 ? ' class="current"' : '' %>><a href="/fr/accueil/2" aria-label='Page 2'>2</a></li>
-  <li<%= data.currentPage === 3 ? ' class="current"' : '' %>><a href="/fr/accueil/3" aria-label='Page 3'>3</a></li>
-  <li<%= data.currentPage === 4 ? ' class="current"' : '' %>><a href="/fr/accueil/4" aria-label='Page 4'>4</a></li>
-  <li<%= data.currentPage === 5 ? ' class="current"' : '' %>><a href="/fr/accueil/5" aria-label='Page 5'>5</a></li>
+  <% for (r = firstItem; r < lastItem; ++r) { %>
+  <%= partials.pagerItem({ lastPage: data.lastPage, currentPage: data.currentPage, item: r }) %>
+  <% } %>
   <li class='ellipsis'></li>
-  <li><a href="#" aria-label='Last page'><%- data.lastPage %></a></li>
-  <li class='pagination-next'><span class='strong'><a href="#" aria-label='Next page'></a></span></li>
+  <li><a href="/fr/accueil/<%- data.lastPage %>" aria-label='Last page'><%- data.lastPage %></a></li>
   </ul>
 </div>
 <% } else { %>

@@ -110,6 +110,7 @@ exports.register = function (server, options, next) {
 
       reply.view('accueil', {
         rows: rows,
+        lastPage: Math.ceil(payload.total_rows / 4),
         page: request.params.n ? parseInt(request.params.n, 10) : 1,
         lesSections: sections.items,
         lesSujets: sujets.items
