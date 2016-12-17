@@ -37,11 +37,21 @@ mmmm
 ```
 
 ## Configuration
-L'ensemble de la configuration est géré par trois fichiers:
+L'ensemble de la configuration est géré par quatre fichiers:
 
+* package.json
 * .env
 * config.js
 * manifest.js
+
+### Fichier package.json
+Configure un module NodeJS (via npm/yarn) et énumère tous les
+modules dont on dépend pour le développement et la production.
+C'est aussi là qu'on trouvera les scripts (run dev, run start, etc.)
+
+Tous les (386739) modules publiques se trouvent sur [npm][].
+On peut [chercher les (1473) modules hapi][npm-hapi], mais franchement,
+avec près de 400,000 modules, ce n'est pas si simple de s'y retrouver.
 
 ### Fichier .env
 On doit configurer ces valeurs selon notre environnement:
@@ -125,12 +135,77 @@ yarn run start  # mode production
 Voir le champ scripts de package.json pour plus de détails.
 
 ## Plugins
-Tout le reste de l'application est composé de plugins de trois types:
+Un plugin est un module npm, mais tous les modules ne sont pas des plugins.
+Ici, les plugins sont spécifiques à hapi tandis que les modules adressent
+tous les besoins JavaScript.
+
+L'application est composé de plugins de trois types:
 
 * Core (plugins officiels de HapiJS)
 * Third party (incluant nos propres plugins réutilisables)
 * Custom (code sur mesure pour notre application: routes, etc.)
 
+### Core
+On peut compter sur 75 modules [hapi-core][], pour l'authentification,
+les templates, la validation et bien plus.
+
+### Third party
+On trouvera sur npm [1473 modules hapi][npm-hapi] en vrac.
+
+Nous maintenons certains de ces modules:
+
+* [hapi-context-app][] ([sur GitHub][hapi-context-app github])
+* [hapi-couchdb-login][] ([sur GitHub][hapi-couchdb-login github])
+
+Un plugin n'a pas besoin d'être gros, voici un exemple, hapi-context-app:
+```
+exports.register = function (server, options, next) {
+  server.ext('onPreResponse', function (request, reply) {
+    if (request.response.variety && request.response.variety === 'view' && request.server.settings && request.server.settings.app) {
+      request.response.source.context = request.response.source.context || {}
+      request.response.source.context.app = request.server.settings.app
+    }
+    return reply.continue()
+  })
+
+  next()
+}
+```
+
+En gros, ce plugin insère les champs de configuration de l'application
+```server.settings.app``` dans le contexte de tous les templates via
+l'extension ```onPreResponse```.
+
+Un autre plugin important est [h2o2][] dont nous utilisont présentement
+le fork [AVVS/h2o2][]. C'est un plugin pour faire un proxy http générique.
+On l'utilise comme interface à CouchDB puisque ce dernier parle aussi
+http.
+
+### Custom
+Il s'agit ici de tout le code particulier à notre application, séparé
+en plugins. À date, le principal c'est server/web/index.js qui énumère
+les routes et la majorité du code.
+
+## CouchDB
+Serveur de documents JSON écrit en erlang. Nous utilisons
+la version 1.6.1, sachant que la version subséquente, 2.0, est sorti
+il y a quelques mois seulement. La version 2 pourra être évaluée
+ultérieurement et permettrait un meilleur *scaling* tout en demeurant
+*backward compatible* à 99%.
+
+Contrairement à la plupart des autres serveurs de bases de données,
+CouchDB n'a pas de client particulier pour y accéder (ex.: mysql).
+
+[h2o2][]
 
 [Confidence]: <https://github.com/hapijs/confidence>
 [Glue]: <https://github.com/hapijs/glue/blob/master/API.md>
+[npm]: <https://www.npmjs.com/>
+[npm-hapi]: <https://www.npmjs.com/search?q=hapi>
+[hapi-core]: <https://github.com/hapijs?utf8=%E2%9C%93&q=&type=source>
+[hapi-context-app]: <https://www.npmjs.com/package/hapi-context-app>
+[hapi-couchdb-login]: <https://www.npmjs.com/package/hapi-couchdb-login>
+[hapi-context-app github]: <https://github.com/millette/hapi-context-app>
+[hapi-couchdb-login github]: <https://github.com/millette/hapi-couchdb-login>
+[h2o2]: <https://github.com/hapijs/h2o2>
+[AVVS/h2o2]: <https://github.com/AVVS/h2o2/tree/feat/upgrade-to-hapi-15>
