@@ -30,7 +30,7 @@ const config = {
   i18n: {
     autoReload: defTrue,
     updateFiles: defTrue,
-    locales: ['fr', 'en']
+    locales: ['fr', 'en', 'es', 'it', 'ru', 'ar']
   },
   cookie: {
     password: 'password-should-be-32-characters',
