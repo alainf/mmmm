@@ -101,11 +101,40 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
 <!-- PAGE HEADER -->
 <!-- NB: contains vars: data.title and data.usertype -->
 
-<% if (data.headerName === 'mmPageHeader') { %>
+<% if (data.headerName === 'mmPageHeaderRYM') { %>
 <div class='row'>
   <!-- Left -->
   <div class='small-3 columns'>
       <%= partials.blocLangues({ page: data.page, langue: data.langue }) %>
+  </div>
+  <!-- Center -->
+  <div class='small-6 columns'>
+    <h3 id='page-main-title' class='text-center'><%- data.title %></h3>
+  </div>
+  <!-- Right -->
+  <div class='small-3 columns'>
+    <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
+     <div class='' id="bloc-fonctions">
+     <ul class='menu align-right'>
+      <li class='icon'><a title="Aidez-moi" href="/fr/aider"><i class='fi-info'></i></a></li>
+      <li class='icon'><a title="Imprimer la page" href="#"><i class='fi-print'></i></a></li>
+      <li class='icon'><a title="Enregistrer" href="#"><i class='fi-save'></i></a></li>
+      <li class='icon'><a title="S'abonner aux notifications" href="#"><i class='fi-rss'></i></a></li>
+      <li class='icon'><a title="Ajouter à mes favoris" href="#"><i class='fi-star'></i></a></li>
+    </ul>
+    </div>
+    <% } else { %>
+    <p>&nbsp;</p>
+    <% } %>
+  </div>
+</div>
+<% } %>
+
+<% if (data.headerName === 'mmPageHeader') { %>
+<div class='row'>
+  <!-- Left -->
+  <div class='small-3 columns'>
+      <%= partials.blocLangues({ page: data.page, langue: 'Fr' }) %>
   </div>
   <!-- Center -->
   <div class='small-6 columns'>

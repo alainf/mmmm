@@ -1,4 +1,4 @@
-<% if (data.langue === data.langue.toLowerCase()) { %>
+<% if (data.langue && data.langue === data.langue.toLowerCase()) { %>
 
 <div class='text-center' id='bloc-langues'>
 <a href="/fr/accueil<%- data.page > 1 ? `/${data.page}` : '' %>"><span title="Français" class="badge<%- data.langue === 'fr' ? ' alert' : '' %>">Fr</span>&nbsp;</a>
@@ -10,7 +10,6 @@
 </div>
 
 <% } else { %>
-
 <% if (data.langue === 'Fr') { %>
 <div class='text-center' id='bloc-langues'>
 <a href="/fr/accueil"><span title="Français" class='alert badge'>Fr</span>&nbsp;</a>

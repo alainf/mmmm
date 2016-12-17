@@ -1,13 +1,9 @@
 <!doctype html>
-<html lang='fr' dir='ltr'>
+<html lang="<%- data.languageCode %>">
 
 <%= partials.mmhead({ title: "Accueil du site PhdAdmin" }) %>
 
 <body>
-
-<!--
-<%= JSON.stringify(data, null, '  ') %>
--->
 
 <%= partials.liensPublics({ usertype: "membre" }) %>
 
@@ -15,10 +11,9 @@
 
 <%= partials.displayBreadcrumb({ langue: data.languageCode, currentPage: data.page, lastPage: data.lastPage, pageID: 'breadcrumbAccueil' }) %>
 
-<%= partials.displayHeader({ page: data.page, langue: data.languageCode, headerName: 'mmPageHeader', usertype: "membre", title: "Accueil de PhdAdmin" }) %>
+<%= partials.displayHeader({ page: data.page, langue: data.languageCode, headerName: 'mmPageHeaderRYM', usertype: "membre", title: "Accueil de PhdAdmin" }) %>
 
 <div class='row'>
-
 
   <div class='small-3 columns'>
     <h5 class='bloc-title'><%- data.__("Sections") %></h5>
