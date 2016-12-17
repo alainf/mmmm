@@ -5,11 +5,7 @@ const Config = require('./config')
 const Composer = require('./index')
 const ddocManager = require('./ddoc/index')
 
-ddocManager(Config, function (err, resp) {
-  if (err) { console.log('Push error:', err) }
-  console.log('Pushing:', resp)
-})
-
+// Assemble the application and start the server
 Composer((err, server) => {
   if (err) { throw err }
   server.start((err) => {
@@ -17,4 +13,10 @@ Composer((err, server) => {
     console.log(new Date())
     console.log('\nStarted the web server on port ' + server.info.port)
   })
+})
+
+// Update the CouchDB design document when it changes
+ddocManager(Config, function (err, resp) {
+  if (err) { console.log('Push error:', err) }
+  console.log('Pushing:', resp)
 })
