@@ -93,22 +93,9 @@ Le fichier index.js n'est utilisé que par server.js.
 ### server.js
 Ce fichier est responsable d'assembler les plugins selon le manifeste
 et de mettre à jour le Design document CouchDB quand il change. C'est
-le point d'entrée de l'application. On peut le lancer manuellement
-avec
-```
-node server # ou node server.js
-```
+le point d'entrée de l'application.
 
-Ou encore via un script npm/yarn:
-```
-yarn run dev    # mode développement
-yarn run start  # mode production
-```
-
-Voir le champ scripts de package.json pour plus de détails.
-
-Le fichier server.js fait environ 20 lignes dont plus de la moitié
-est boilerplate:
+Il fait environ 20 lignes dont plus de la moitié est boilerplate:
 ```
 'use strict'
 const Composer = require('./index')
@@ -124,7 +111,25 @@ Composer((err, server) => {
 })
 ```
 
+On peut le lancer manuellement avec
+```
+node server # ou node server.js
+```
+
+Ou encore via un script npm/yarn:
+```
+yarn run dev    # mode développement
+yarn run start  # mode production
+```
+
+Voir le champ scripts de package.json pour plus de détails.
+
 ## Plugins
+Tout le reste de l'application est composé de plugins de trois types:
+
+* Core (plugins officiels de HapiJS)
+* Third party (incluant nos propres plugins réutilisables)
+* Custom (code sur mesure pour notre application: routes, etc.)
 
 
 [Confidence]: <https://github.com/hapijs/confidence>
