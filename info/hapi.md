@@ -199,6 +199,23 @@ car tout client http (avec les méthodes GET, POST, PUT, DELETE, etc.)
 peut interfacer avec CouchDB (comme curl). Pour cette raison,
 le plugin [h2o2][] fait bien le travail.
 
+### Interface d'administration
+Notons aussi que CouchDB vient avec une interface web d'administration,
+un peu comme phpMyAdmin pour MySQL à la différence que pour rouler
+phpMyAdmin, on a besoin d'un serveur web (apache httpd, nginx, etc.),
+de l'interpréteur PHP ainsi que d'un serveur MySQL tandis qu'avec CouchDB,
+tout est fournis. L'interface d'administration se nomme futon et se trouve
+en général à <http://localhost:5984/_utils> et une nouvelle interface est
+aussi disponible, fauxton.
+
+Futon et fauxton permettent de créer des bases de données,
+des utilisateurs et d'éditer des documents dont les *design documents*.
+On peut y tester nos views, par exemple.
+
+**Note importante**: sachez cependant que notre application hapi
+va écraser les changements aux *design documents* à partir
+des fichiers dans ```ddoc/```.
+
 ### Design doc
 Un *design document* contient le code source nécessaire côté CouchDB,
 encodé dans un document JSON. Son _id doit commencer par ```_design/```,
