@@ -1,3 +1,16 @@
+<% if (data.langue === data.langue.toLowerCase()) { %>
+
+<div class='text-center' id='bloc-langues'>
+<a href="/fr/accueil<%- data.page > 1 ? `/${data.page}` : '' %>"><span title="Français" class="badge<%- data.langue === 'fr' ? ' alert' : '' %>">Fr</span>&nbsp;</a>
+<a href="/en/accueil<%- data.page > 1 ? `/${data.page}` : '' %>"><span title="English" class="badge<%- data.langue === 'en' ? ' alert' : '' %>">En</span>&nbsp;</a>
+<a href="/es/accueil<%- data.page > 1 ? `/${data.page}` : '' %>"><span title="Español" class="badge<%- data.langue === 'es' ? ' alert' : '' %>">Es</span>&nbsp;</a>
+<a href="/it/accueil<%- data.page > 1 ? `/${data.page}` : '' %>"><span title="Italiano" class="badge<%- data.langue === 'it' ? ' alert' : '' %>">It</span>&nbsp;</a>
+<a href="/ru/accueil<%- data.page > 1 ? `/${data.page}` : '' %>"><span title="Русский" class="badge<%- data.langue === 'ru' ? ' alert' : '' %>">Ru</span>&nbsp;</a>
+<a href="/ar/accueil<%- data.page > 1 ? `/${data.page}` : '' %>"><span title="العربية" class="badge<%- data.langue === 'ar' ? ' alert' : '' %>">Ar</span>&nbsp;</a>
+</div>
+
+<% } else { %>
+
 <% if (data.langue === 'Fr') { %>
 <div class='text-center' id='bloc-langues'>
 <a href="/fr/accueil"><span title="Français" class='alert badge'>Fr</span>&nbsp;</a>
@@ -62,4 +75,6 @@
 <a href="/ru/accueil"><span title="Русский" class='badge'>Ru</span>&nbsp;</a>
 <a href="/ar/accueil"><span title="العربية" class='alert badge'>Ar</span>&nbsp;</a>
 </div>
+<% } %>
+
 <% } %>

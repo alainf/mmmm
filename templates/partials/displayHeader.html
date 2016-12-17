@@ -105,7 +105,7 @@ partials.displayHeader({ headerName: 'titreSeulement', title: "TITRE", soustitre
 <div class='row'>
   <!-- Left -->
   <div class='small-3 columns'>
-      <%= partials.blocLangues({ langue: 'Fr' }) %>
+      <%= partials.blocLangues({ page: data.page, langue: data.langue }) %>
   </div>
   <!-- Center -->
   <div class='small-6 columns'>
