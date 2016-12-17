@@ -1,135 +1,130 @@
 {
-
-"sections":
- [
-	{
+  "sections": [
+    {
       "terme": "Académique",
       "id": "terme-2015-12-06-16-23-42-86966221325"
-	},
-   {
+    },
+    {
       "terme": "Entreprise",
       "id": "terme-2015-12-06-16-23-30-86966220631"
-	},
-	{
+    },
+    {
       "terme": "Quoi faire en ville",
       "id": "terme-2015-12-06-16-23-38-86966221081"
-	},
-	{
+    },
+    {
       "terme": "Revue de presse",
       "id": "terme-2015-12-06-16-23-38-86966221107"
-	},
-	{
+    },
+    {
       "terme": "Société",
       "id": "terme-2015-12-06-16-23-35-86966220949"
-	},
-	{
+    },
+    {
       "terme": "Vie culturelle",
       "id": "terme-2015-12-06-16-23-44-86966221481"
-	}
- ],
-
-"sujets":
- [
-	{
+    }
+  ],
+  "sujets": [
+    {
       "terme": "Agriculture",
       "id": "terme-2015-12-06-16-24-22-86966223762"
-	},
-   {
+    },
+    {
       "terme": "Architecture",
       "id": "terme-2015-12-06-16-24-32-86966224362"
-	},
-	{
+    },
+    {
       "terme": "Art",
       "id": "terme-2015-12-06-16-24-33-86966224408"
-	},
-	{
+    },
+    {
       "terme": "Culture",
       "id": "terme-2015-12-06-16-24-46-86966225201"
-	},
-	{
+    },
+    {
       "terme": "Droit",
       "id": "terme-2015-12-06-16-24-49-86966225379"
-	},
-	{
+    },
+    {
       "terme": "Économie",
       "id": "terme-2015-12-06-16-24-54-86966225669"
-	},
-	{
+    },
+    {
       "terme": "Finance",
       "id": "terme-2015-12-06-16-24-56-86966225788"
-	},
-	{
+    },
+    {
       "terme": "Généralités",
       "id": "terme-2015-12-06-16-24-59-86966225978"
-	},
-	{
+    },
+    {
       "terme": "Informatique",
       "id": "terme-2015-12-06-16-24-59-86966225980"
-	},
-	{
+    },
+    {
       "terme": "Langage et linguistique",
       "id": "terme-2015-12-06-16-25-02-86966226150"
-	},
-	{
+    },
+    {
       "terme": "Politique",
       "id": "terme-2015-12-06-16-25-04-86966226256"
-	},
-   {
+    },
+    {
       "terme": "Sciences de la gestion",
       "id": "terme-2015-12-06-16-25-17-86966227055"
-	},
-	{
+    },
+    {
       "terme": "Sciences de la santé",
       "id": "terme-2015-12-06-16-26-06-86966229990"
-	},
-	{
+    },
+    {
       "terme": "Sciences de la terre",
       "id": "terme-2015-12-06-16-26-06-86966230007"
-	},
-	{
+    },
+    {
       "terme": "Sciences de l'éducation",
       "id": "terme-2015-12-06-16-25-04-86966226295"
-	},
-	{
+    },
+    {
       "terme": "Sc. de l'environnement",
       "id": "terme-2015-12-06-16-25-07-86966226454"
-	},
-	{
+    },
+    {
       "terme": "Sc. de l'information et de la communication",
       "id": "terme-2015-12-06-16-25-10-86966226635"
-	},
-	{
+    },
+    {
       "terme": "Sciences des matériaux",
       "id": "terme-2015-12-06-16-26-09-86966230187"
-	},
-	{
+    },
+    {
       "terme": "Sciences économiques",
       "id": "terme-2015-12-06-16-26-10-86966230248"
-	},
-	{
+    },
+    {
       "terme": "Sciences exactes",
       "id": "terme-2015-12-06-16-26-17-86966230658"
-	},
-	{
+    },
+    {
       "terme": "Sciences humaines",
       "id": "terme-2015-12-06-16-26-22-86966230961"
-	},
-	{
+    },
+    {
       "terme": "Sciences sociales",
       "id": "terme-2015-12-06-16-26-39-86966231993"
-	},
-	{
+    },
+    {
       "terme": "Sport",
       "id": "terme-2015-12-06-16-27-06-86966233620"
-	},
-	{
+    },
+    {
       "terme": "Urbanisme",
       "id": "terme-2015-12-06-16-27-07-86966233652"
-	},
-	{
+    },
+    {
       "terme": "Zoologie",
       "id": "terme-2015-12-06-16-27-10-86966233810"
-	}
- ]
-
+    }
+  ]
 }
