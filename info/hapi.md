@@ -194,9 +194,58 @@ ultérieurement et permettrait un meilleur *scaling* tout en demeurant
 *backward compatible* à 99%.
 
 Contrairement à la plupart des autres serveurs de bases de données,
-CouchDB n'a pas de client particulier pour y accéder (ex.: mysql).
+CouchDB n'a pas de client particulier pour y accéder (ex.: mysql, mongo)
+car tout client http (avec les méthodes GET, POST, PUT, DELETE, etc.)
+peut interfacer avec CouchDB (comme curl). Pour cette raison,
+le plugin [h2o2][] fait bien le travail.
 
-[h2o2][]
+### Design doc
+Un *design document* contient le code source nécessaire côté CouchDB,
+encodé dans un document JSON. Son _id doit commencer par ```_design/```,
+par exemple:
+
+```
+{
+  "_id": "_design/app",
+  "_rev": "1-abcdefg",
+  "views": {
+    "front": {
+      "map": "function (doc) { if (doc.pertinence && doc.affichage === 'breves') { emit(doc.pertinence) } }",
+      "reduce": "_count"
+    }
+  },
+  "lists": {
+    ...
+  }
+}
+```
+
+C'est la forme du document tel qu'il apparaitra dans CouchDB
+(le champ ```_rev``` pourrait varier) mais heureusement, on n'aura pas
+à le construire à la main. On utilisera des fichiers selon cette structure:
+
+```
+mmmm
+└── ddoc
+    └── app
+        ├── views
+        └── lists
+```
+
+Chaque fichier avec l'extension ```.js```
+du répertoire ```ddoc/app/views```
+est un module avec un champ ```map``` et un champ optionnel ```reduce```.
+
+La valeur de ```reduce``` peut être une fonction ou une chaine parmi:
+
+* _sum
+* _count
+* _stats (à vérifier)
+
+La valeur de ```map``` doit être une fonction.
+
+Le répertoire ddoc contient les *design documents*. Le sous répertoire
+```app``` devient le _id ```_design/app```
 
 [Confidence]: <https://github.com/hapijs/confidence>
 [Glue]: <https://github.com/hapijs/glue/blob/master/API.md>
