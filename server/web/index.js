@@ -4,8 +4,12 @@
 const url = require('url')
 const Wreck = require('wreck')
 
-const sections = require('../../data/list1.json')
-const sujets = require('../../data/list2.json')
+// const sections = require('../../data/list1.json')
+// const sujets = require('../../data/list2.json')
+const dataJson = require('../../info/accueil-sections-et-sujets.json')
+const sections = { items: dataJson.sections.map((x) => x.terme) }
+const sujets = { items: dataJson.sujets.map((x) => x.terme) }
+
 const sujets2 = require('../../data/sujets-Agriculture.json')
 const sections2 = require('../../data/sections-Entreprise.json')
 const sectionsGr1 = require('../../data/sectionsGr1.json')
