@@ -249,6 +249,10 @@ mmmm
         └── lists
 ```
 
+Le répertoire ddoc contient les *design documents*. Le sous répertoire
+```app``` devient le _id ```_design/app```
+
+#### Views
 Chaque fichier avec l'extension ```.js```
 du répertoire ```ddoc/app/views```
 est un module avec un champ ```map``` et un champ optionnel ```reduce```.
@@ -259,10 +263,39 @@ La valeur de ```reduce``` peut être une fonction ou une chaine parmi:
 * _count
 * _stats (à vérifier)
 
-La valeur de ```map``` doit être une fonction.
+La valeur de ```map``` est requise et doit être une fonction
+qui accepte l'argument ```doc```. Si on reprend notre exemple,
+la fonction ```map``` de ```front```:
 
-Le répertoire ddoc contient les *design documents*. Le sous répertoire
-```app``` devient le _id ```_design/app```
+```
+function (doc) {
+  if (doc.pertinence && doc.affichage === 'breves') {
+    emit(doc.pertinence)
+  }
+}
+```
+
+Chaque fois qu'un document est ajouté ou modifié, les fonctions ```map```
+de toutes les *views* sont appelées avec le document comme argument.
+
+Ici, si la valeur du champ ```pertinence``` de doc est vraie
+et que ```affichage``` vaut 'breves', on procède ave le ```emit()```.
+Autrement, il ne se produit rien (pour cette fonction, sur ce doc).
+
+#### Index secondaires
+L'index primaire de toute DB est ```_id```. Il permet d'énumérer
+tous les documents dans l'ordre de ```_id``` (ou reversé), d'en obtenir
+une tranche (de tel à tel ```_id```) et plus.
+
+```emit(key, value)``` prend deux arguments optionnels,
+bien que key y soit généralement.
+
+* key: bool, chaine, nombre ou *array* (de bool, chaine, nombre ou *array*)
+* value: bool, chaine, nombre, *array* ou objet
+
+Les *views* constituent les index secondaires. Ainsi, maintenant qu'on
+```emit(doc.pertinence)```, on peut trier par la valeur du champ
+```doc.pertinence```.
 
 [Confidence]: <https://github.com/hapijs/confidence>
 [Glue]: <https://github.com/hapijs/glue/blob/master/API.md>
