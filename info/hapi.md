@@ -275,8 +275,8 @@ function (doc) {
 }
 ```
 
-Chaque fois qu'un document est ajouté ou modifié, les fonctions ```map```
-de toutes les *views* sont appelées avec le document comme argument.
+Les fonctions ```map``` des *views* sont appelées avec le document
+comme argument quand on *query* le *view*.
 
 Ici, si la valeur du champ ```pertinence``` de doc est vraie
 et que ```affichage``` vaut 'breves', on procède ave le ```emit()```.
