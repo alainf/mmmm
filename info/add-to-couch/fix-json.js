@@ -75,6 +75,9 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
   })
 })
 
+// Écrire les nouveaux .json transoformés dans new/
+const writeFile = (j) => fs.writeFile(`new/${j.fn}`, JSON.stringify(j.json, null, '  '), 'utf-8')
+
 /**
  * Transformer les fichiers json du répertoire courant
  * et sauver ça dans new/
@@ -94,12 +97,7 @@ const processDirectory = () => {
         console.log('jsons.length:', jsons.length)
         return jsons
       })
-      .then((jsons) => {
-        // Écrire les nouveaux .json transoformés dans new/
-        jsons.forEach((j) => {
-          fs.writeFile(`new/${j.fn}`, JSON.stringify(j.json, null, '  '), 'utf-8')
-        })
-      })
+      .then((jsons) => jsons.forEach(writeFile))
       .catch((err) => { console.error('ERR:', err) })
   })
 }
