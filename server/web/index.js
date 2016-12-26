@@ -38,6 +38,20 @@ const pages = [
 exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
+  const mapperDetail = (request, callback) => {
+    callback(null, dbUrl + request.params.pageId, { accept: 'application/json' })
+  }
+
+  const responderDetail = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      console.log('payload:', payload, request.params)
+      reply('hi there')
+    })
+  }
+
   const mapperAccueilPaged = (request, callback) => {
     callback(
       null,
@@ -161,13 +175,27 @@ exports.register = function (server, options, next) {
   server.route({
     method: 'GET',
     path: '/{languageCode}/detail-ext/{pageId}',
-    handler: { view: 'detail-ext-real' }
+    handler: {
+      // view: 'detail-ext-real'
+      proxy: {
+        passThrough: true,
+        mapUri: mapperDetail,
+        onResponse: responderDetail
+      }
+    }
   })
 
   server.route({
     method: 'GET',
     path: '/{languageCode}/detail-int/{pageId}',
-    handler: { view: 'detail-int-real' }
+    handler: {
+      // view: 'detail-int-real'
+      proxy: {
+        passThrough: true,
+        mapUri: mapperDetail,
+        onResponse: responderDetail
+      }
+    }
   })
 
   pages.forEach((page) => {
