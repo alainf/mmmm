@@ -39,7 +39,9 @@ exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
   const mapperDetail = (request, callback) => {
-    callback(null, dbUrl + request.params.pageId, { accept: 'application/json' })
+    const u = dbUrl + request.params.pageId.replace(/^test-/, '/lead-')
+    // console.log('U:', u)
+    callback(null, u, { accept: 'application/json' })
   }
 
   const responderDetail = (err, res, request, reply, settings, ttl) => {
@@ -47,8 +49,12 @@ exports.register = function (server, options, next) {
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
-      console.log('payload:', payload, request.params)
-      reply('hi there')
+      // console.log('request:', Object.keys(request))
+      // console.log('request.url:', request.url)
+      const p = request.url.href.split('/').slice(2)[0] + '-real'
+      // console.log('p:', p)
+      // reply('hi there')
+      reply.view(p, { doc: payload })
     })
   }
 
