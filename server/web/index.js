@@ -158,6 +158,18 @@ exports.register = function (server, options, next) {
     isCached: options.templateCached
   })
 
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/detail-ext/{pageId}',
+    handler: { view: 'detail-ext-real' }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/detail-int/{pageId}',
+    handler: { view: 'detail-int-real' }
+  })
+
   pages.forEach((page) => {
     server.route({
       method: 'GET',
