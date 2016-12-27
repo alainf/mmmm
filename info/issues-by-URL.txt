@@ -1,5 +1,7 @@
 = Issues par URL =
 
+Voir aussi [spec-paths.txt](./spec-paths.txt). Identique??
+
 == Catégories ==
 
 * System
@@ -46,15 +48,15 @@
 /{languageCode}/profil-membre
 /{languageCode}/profil-moi
 /{languageCode}/profil-pair
-/{languageCode}/section1		"Entreprise"
-/{languageCode}/sujet1			"Agriculture"
+/{languageCode}/section1    "Entreprise"
+/{languageCode}/sujet1      "Agriculture"
 /{languageCode}/tests
 
-/{languageCode}/groupe1			groupe "Management des TIC"
-/{languageCode}/journal1		groupe "Journal de Alain"
-/{languageCode}/journal2		groupe "Thèse de Claude"
-/{languageCode}/these1			groupe "Thèse de Alain"
-/{languageCode}/these2			groupe "Thèse de Claude"
+/{languageCode}/groupe1     groupe "Management des TIC"
+/{languageCode}/journal1    groupe "Journal de Alain"
+/{languageCode}/journal2    groupe "Thèse de Claude"
+/{languageCode}/these1      groupe "Thèse de Alain"
+/{languageCode}/these2      groupe "Thèse de Claude"
 
 /accueilDemo
 /doc
@@ -95,8 +97,8 @@
 /{languageCode}/profil/id
 
 NB: Lorsque "/id" et "/n" n'y sont pas
-	 alors il s'agit de page#1 du template choisi dans le groupe "site".
-	 autrement dit les URLs ci-dessous:
+   alors il s'agit de page#1 du template choisi dans le groupe "site".
+   autrement dit les URLs ci-dessous:
 
 /{languageCode}/accueil
 /{languageCode}/agenda
