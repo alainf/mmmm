@@ -1,5 +1,5 @@
 {
-  "ignore": ["locales/*", "templates/*.html"],
+  "ignore": ["nodemon.json", "locales", "templates/*.html", "info", "data", "test", "assets"],
   "ext": "js,json,html",
   "delay": 1500
 }
