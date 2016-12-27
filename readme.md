@@ -22,6 +22,16 @@ Install dependencies:
 yarn
 ```
 
+## UPDATE 2012-12-27
+```
+yarn run diagram
+```
+
+Et pointez votre fureteur sur <http://localhost:1234/diagram.html>
+pour voir le document [/info/diagram.html](./info/diagram.html)
+en action.
+
+
 Start it for development, editing files will reload the server:
 ```
 yarn run dev
