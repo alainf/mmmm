@@ -1,0 +1,118 @@
+<html>
+<head>
+  <title>Here dia go</title>
+<style>
+#ta {
+  float: left;
+  width: 15em;
+}
+
+textarea {
+  width: 100%;
+  height: 35em;
+}
+
+#dia {
+  float: right;
+  width: 45em;
+}
+
+#more {
+  padding-left: 17em;
+}
+
+</style>
+</head>
+<body>
+  <h1>Here dia go</h1>
+<div id="ta">
+<textarea>
+Title: CouchDB Proxy
+
+Note left of User: Some docs are\nalways required\ndepending on context
+
+Note left of User: Single doc
+
+User->HapiJS: docByPath
+HapiJS->CouchDB: pathToDocID
+CouchDB-->HapiJS: doc
+
+Note left of HapiJS: Template name\ndepends on path
+HapiJS-->User: template(doc)
+
+Note left of User: Many docs
+
+User->HapiJS: viewByPath
+Note left of CouchDB: View name\ndepends on path
+HapiJS->CouchDB: pathToViewName
+CouchDB-->HapiJS: docs
+
+HapiJS-->User: template(docs)
+</textarea>
+</div>
+
+  <div id="dia"></div>
+<div id="more">
+<h2>Exemples</h2>
+<p><code>/fr/detail-int/{docID}</code> où <code>docID</code> est soit:</p>
+<ul>
+<li>le champ <code>_id</code> du doc</li>
+<li>une variation sur <code>docID</code> du champ <code>_id</code> du doc (préfixé, suffixé, etc.)</li>
+</ul>
+<h2>Prérequis</h2>
+<p>Pour chaque page demandée on demandera à la DB:</p>
+<ul>
+<li>Le contenu principal (un view ou un doc)</li>
+<li>Les contenus secondaires:<ul>
+  <li>Menu principal</li>
+  <li>Sections selon le contexte</li>
+  <li>Sujets selon le contexte</li>
+  <li>Utilisateur connecté</li>
+  <li>Liens vers les autres langues</li>
+  <li>Etc.</li>
+</ul></li>
+</ul>
+<h2>Choix du template</h2>
+<p>Le template rendu à l'utilisateur via HapiJS dépend du <code>path</code> demandé.</p>
+<h2>Types de demande</h2>
+<p></p>
+<ul>
+<li>Document unique (by <code>_id</code>)</li>
+<li>Ensemble de documents (view)</li>
+</ul>
+<h2>Plus d'info</h2>
+<p>Voir bla bla rebla lavoir le boire! Blaaaa bla rebla lavoir le boire bla bla rebla lavoir.</p>
+</div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="//bramp.github.io/js-sequence-diagrams/js/webfont.js"></script>
+<script src="//bramp.github.io/js-sequence-diagrams/js/snap.svg-min.js"></script>
+<!-- script src="//bramp.github.io/js-sequence-diagrams/js/underscore-min.js"></script -->
+<!-- script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.3/lodash.min.js" integrity="sha256-SOD4peoOs2SWbOGcXS2Vi+atDcIH/ArIcJY5zZqL6PM=" crossorigin="anonymous"></script -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash-compat/3.10.2/lodash.min.js" integrity="sha256-bmW39gLkWbkrOphiZzldhb0wtS+cTfKO+3sL1ZZB5p4=" crossorigin="anonymous"></script>
+<script src="//bramp.github.io/js-sequence-diagrams/js/sequence-diagram-snap-min.js"></script>
+<script>
+$(function () {
+  var $dia = $('#dia')
+  var yo = _.debounce(function (ev) {
+    if (ev && ev.key.length > 1 && ev.keyCode !== 8 && ev.keyCode !== 13) { return }
+    var ta = $('textarea').val().trim()
+    try {
+      var pa = Diagram.parse(ta)
+      $dia.empty()
+      pa.drawSVG($dia[0], { theme: 'simple' })
+      setTimeout(function () {
+        $(document.querySelectorAll('.actor')).click(function (ev) {
+          var bla = $(this).text()
+          var re = new RegExp('\\b' + bla + '\\b', 'g')
+          $('textarea').val(ta.replace(re, window.prompt('New name?', bla)))
+          yo()
+        })
+      }, 500)
+    } catch (e) { return }
+  }, 300)
+  yo()
+  $('textarea').focus().keyup(yo)
+})
+</script>
+</body>
+</html>
