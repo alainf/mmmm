@@ -71,6 +71,7 @@ moi.traduction.aviser
 moi.traduction.on
 moi.type-de-compte
 moi.username
+moi.usertype
 moi.utiliserMesFavoris
 
 moi.recherche.effectuer

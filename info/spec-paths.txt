@@ -24,8 +24,8 @@ id = nomMachine OR nomFolder OR breadcrumb OR autreChose
 /fr/membre/id
 /fr/moi
 /fr/organisation/id
-/fr/page-ext/id
-/fr/page-int/id
+/fr/detail-ext/id
+/fr/detail-int/id
 /fr/personne/id
 /fr/resultats/n
 /fr/section/id
