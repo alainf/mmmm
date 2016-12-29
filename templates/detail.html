@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+
+<head>
+  <title><%- data.app.siteTitle %> - <%- data.__('En détail') %> - <%- data.nom %></title>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/foundation.css">
+  <link rel="stylesheet" href="/css/app.css">
+  <link rel="stylesheet" href="/css/foundation-icons.css" />
+  <link rel="stylesheet" href="/css/machina.css">
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+
+<body>
+
+<!-- TODO -->
+
+<!-- <%= JSON.stringify(data, null, " ") %> -->
+
+<%= partials.detailedTopRow() %>
+
+<%= partials.detailedLogoAndLinks() %>
+
+<% if (data.iscopyright === true) { %> <!-- if EXT -->
+
+<div class="row" id="content-pane">
+  <div class="small-6 columns">
+    <div class="callout" id="article">
+      <%= partials.detailedMemeQueLead() %>
+      <%= partials.detailedConsultation() %>
+      <%= partials.detailedEvaluation() %>
+      <%= partials.detailedCommenter() %>
+      <%= partials.displayDropdown({ dropName: "add-keyword-dropdown" }) %>
+    </div>
+  </div>
+  <div class="small-6 columns">
+    <div id="metadata">
+      <%= partials.detailedInformation() %>
+      <%= partials.displayDropdown({ dropName: "ajouter-lien-dropdown" }) %>
+      <%= partials.displayDropdown({ dropName: "ajouter-sujet-dropdown" }) %>
+      <%= partials.detailedAttributs() %>
+    </div>
+  </div>
+</div>
+
+<% } else { %> <!-- else INT -->
+
+<div class="row" id="content-pane">
+  <div class="small-6 columns">
+    <div class="callout" id="article">
+      <%- data.contenu %>
+    </div>
+  </div>
+  <div class="small-6 columns">
+    <div id="metadata">
+      <%= partials.detailedInformation() %>
+      <%= partials.displayDropdown({ dropName: "ajouter-lien-dropdown" }) %>
+      <%= partials.displayDropdown({ dropName: "add-keyword-dropdown" }) %>
+      <%= partials.displayDropdown({ dropName: "ajouter-sujet-dropdown" }) %>
+      <%= partials.detailedAttributs() %>
+      <%= partials.detailedEvaluation() %>
+      <%= partials.detailedCommenter() %>
+    </div>
+  </div>
+</div>
+
+<% } %> <!-- endif -->
+
+<%= partials.footer({ pagination: false, lastPage: "0", username: data.app.username }) %>
+
+<%= partials.scripts() %>
+
+</body>
+</html>

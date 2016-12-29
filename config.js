@@ -20,7 +20,15 @@ const defFalse = {
 const config = {
   $meta: 'This file configures the plot device.',
   projectName: 'hapi-demo',
-  app: { siteTitle: process.env.SITETITLE },
+  app: {
+    siteTitle: process.env.SITETITLE,
+    logoSrc: '/img/phdadmin_logo.png',
+    logoAlt: 'PhD Administration',
+    logoTip: 'Retour vers Accueil',
+    logoHref: '/fr/accueil',
+    username: 'Alain Farmer',
+    usertype: 'membre'
+  },
   db: {
     url: process.env.DBURL,
     name: process.env.DBNAME,

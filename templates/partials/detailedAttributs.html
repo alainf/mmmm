@@ -1,0 +1,160 @@
+<!-- TODO -->
+<div class="callout" id="attributs">
+
+  <h4 class="strong"><%- data.__('Attributs') %></h4>
+
+  <dl>
+
+      <% if (data.nom) { %>
+		<dt><%- data.__('Titre') %></dt>
+      <dd><p><%- data.nom %></p></dd>
+		<% } %>
+
+      <% if (data.auteur) { %>
+      <dt><%- data.__('Auteurs') %></dt>
+      <dd>
+		  <!-- repeat -->
+		  <p><%- data.auteur[n] %></p>
+		  <!-- end repeat -->
+		</dd>
+		<% } %>
+
+      <% if (data.coauteur) { %>
+      <dt><%- data.__('Contributeurs') %></dt>
+      <dd>
+		  <!-- repeat -->
+		  <p><%- data.coauteur[n] %></p>
+		  <!-- end repeat -->
+		</dd>
+		<% } %>
+
+      <% if (data.provenance) { %>
+      <dt><%- data.__('Provenance') %></dt>
+      <dd><p><%- data.provenance %></p></dd>
+		<% } %>
+
+      <% if (data.editeur) { %>
+      <dt><%- data.__('Éditeur') %></dt>
+      <dd><p><%- data.editeur %></p></dd>
+		<% } %>
+
+      <% if (data.dateEdition) { %>
+      <dt><%- data.__("Date d'édition") %></dt>
+      <dd><p><%- data.dateEdition %></p></dd>
+	   <% } %>
+
+      <% if (data.langueEdition) { %>
+      <dt><%- data.__("Langue d'édition") %></dt>
+      <dd>
+		  <!-- repeat -->
+		  <p><%- data.langueEdition[n] %></p>
+		  <!-- end repeat -->
+		</dd>
+		<% } %>
+
+      <% if (data.lieuEdition) { %>
+      <dt><%- data.__("Lieux d'édition") %></dt>
+      <dd>
+		  <!-- repeat -->
+		  <p><%- data.lieuEdition[n] %></p>
+		  <!-- end repeat -->
+		</dd>
+		<% } %>
+
+      <% if (data.encodage) { %>
+      <dt><%- data.__('Encodage') %></dt>
+      <dd><p><%- data.encodage %></p></dd>
+		<% } %>
+
+      <% if (data.format) { %>
+      <dt><%- data.__('Format') %></dt>
+      <dd><p><%- data.format %></p></dd>
+		<% } %>
+
+      <% if (data.identifiantIsbn) { %>
+      <dt><%- data.__('Identifiant ISBN') %></dt>
+      <dd><p><%- data.identifiantIsbn %></p></dd>
+		<% } %>
+
+      <% if (data.identifiantIssn) { %>
+      <dt><%- data.__('Identifiant ISSN') %></dt>
+      <dd><p><%- data.identifiantIssn %></p></dd>
+      <% } %>
+
+      <% if (data.identifiantEissn) { %>
+      <dt><%- data.__('Identifiant EISSN') %></dt>
+      <dd><p><%- data.identifiantEissn %></p></dd>
+      <% } %>
+
+      <% if (data.identifiantDoi) { %>
+      <dt><%- data.__('Identifiant DOI') %></dt>
+      <dd><p><%- data.identifiantDoi %></p></dd>
+      <% } %>
+
+      <% if (data.identifiantDc) { %>
+      <dt><%- data.__('Identifiant DC') %></dt>
+      <dd><p><%- data.identifiantDc %></p></dd>
+      <% } %>
+
+      <% if (data.identifiantDewey) { %>
+      <dt><%- data.__('Identifiant Dewey') %></dt>
+      <dd><p><%- data.identifiantDewey %></p></dd>
+      <% } %>
+
+      <% if (data.identifiantJournalseek) { %>
+      <dt><%- data.__('Identifiant journalseek') %></dt>
+      <dd><p><%- data.identifiantJournalseek %></p></dd>
+      <% } %>
+
+      <% if (data.identifiantJtoc) { %>
+      <dt><%- data.__('Identifiant JTOC') %></dt>
+      <dd><p><%- data.identifiantJtoc %></p></dd>
+      <% } %>
+
+      <% if (data.nomMachine) { %>
+      <dt><%- data.__('Nom-machine') %></dt>
+      <dd><p><%- data.nomMachine %></p></dd>
+      <% } %>
+
+      <% if (data.iscopyright) { %>
+      <dt><%- data.__('Copyright') %></dt>
+      <dd><p><%- data.iscopyright %></p></dd>
+      <% } %>
+
+      <% if (data.miseAJour) { %>
+      <dt><%- data.__('Mise à jour') %></dt>
+      <dd><p><%- data.miseAJour %></p></dd>
+      <% } %>
+
+      <% if (data.typeDeRessource) { %>
+      <dt><%- data.__('Types de ressource') %></dt>
+      <dd>
+		  <!-- repeat -->
+		  <p><%- data.typeDeRessource[n] %></p>
+		  <!-- end repeat -->
+      </dd>
+      <% } %>
+
+      <% if (data.typeDeContenu) { %>
+      <dt><%- data.__('Types de contenu') %></dt>
+      <dd>
+		  <!-- repeat -->
+		  <p><%- data.typeDeContenu[n] %></p>
+		  <!-- end repeat -->
+      </dd>
+      <% } %>
+
+      <% if (data.sourceUrl) { %>
+      <dt><%- data.__('URL') %></dt>
+      <dd>
+		  <!-- repeat -->
+		  <p><a href="<%- data.sourceUrl[n] %>"><%- data.sourceUrl[n] %></a></p>
+		  <!-- end repeat -->
+      </dd>
+      <% } %>
+
+  </dl>
+
+  <p><a title="<%- data.__('Haut de page') %>" href="#"><i class="fi-arrow-up"></i></a></p>
+
+</div>

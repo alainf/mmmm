@@ -1,0 +1,37 @@
+    <!-- TODO -->
+
+    <div class="callout" id="consultation">
+
+    <h4 class="strong"><%- data.__('Consulter') %></h4>
+
+    <dl>
+
+      <% if (data.sourceUrl) { %>
+		<dt><%- data.__('Liens') %></dt>
+      <dd>
+		  <!-- repeat -->
+		  <p><a href="<%- data.sourceUrl[n] %>"><%- data.sourceUrl[n] %></a></p>
+		  <!-- end repeat -->
+      </dd>
+      <% } %>
+
+      <% if (data.licence) { %>
+		<dt><%- data.__('Licence') %></dt>
+      <dd><p><%- data.licence %></p></dd>
+      <% } %>
+
+      <% if (data.permissions) { %>
+      <dt><%- data.__('Conditions') %></dt>
+      <dd><p><%- data.permissions %></p></dd>
+      <% } %>
+
+      <% if (data.coutAcces) { %>
+      <dt><%- data.__('Coût') %></dt>
+      <dd><p><%- data.coutAcces %></p></dd>
+      <% } %>
+
+    </dl>
+
+    <p><a title="<%- data.__('Haut de page') %>" href="#"><i class="fi-arrow-up"></i></a></p>
+
+    </div>
