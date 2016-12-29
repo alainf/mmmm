@@ -1,23 +1,23 @@
 <!-- TODO -->
 <div class="callout" id="information">
 
-  <h4 class="strong"><%- data.__('Information') %></h4>
+  <h4 class="strong"><%- data.__("Information") %></h4>
     
     <dl>
     
       <% if (data.apercu) { %>
-      <dt><%- data.__('Aperçu') %></dt>
+      <dt><%- data.__("Aperçu") %></dt>
       <dd><p><%- data.apercu %></p></dd>
       <% } %>
 
       <% if (data.description) { %>
-      <dt><%- data.__('Description') %></dt>
+      <dt><%- data.__("Description") %></dt>
       <dd><p><%- data.description %></p></dd>
       <% } %>
 
       <% if (data.motsClefs) { %>
       <dt>
-		  <%- data.__('Mots-clefs') %>&nbsp;
+		  <%- data.__("Mots-clefs") %>&nbsp;
 		  <a class="icon" data-toggle="add-keyword-dropdown" title="<%- data.__('Ajouter un mot-clef') %>"><i class="fi-plus"></i></a>
       </dt>
       <dd>
@@ -28,7 +28,7 @@
       <% } %>
 
       <% if (data.lieuConcerne) { %>
-      <dt><%- data.__('Lieux concernées') %></dt>
+      <dt><%- data.__("Lieux concernées") %></dt>
       <dd>
 		  <!-- repeat -->
 		  <p><%- data.lieuConcerne[n] %></p>
@@ -37,7 +37,7 @@
       <% } %>
 
       <% if (data.organisations) { %>
-      <dt><%- data.__('Organisations concernées') %></dt>
+      <dt><%- data.__("Organisations concernées") %></dt>
       <dd>
 		  <!-- repeat -->
 		  <p><%- data.organisations[n] %></p>
@@ -46,7 +46,7 @@
       <% } %>
 
       <% if (data.personneConcernee) { %>
-      <dt><%- data.__('Personnes concernées') %></dt>
+      <dt><%- data.__("Personnes concernées") %></dt>
       <dd>
 		  <!-- repeat -->
 		  <p><%- data.personneConcernee[n] %></p>
@@ -55,7 +55,7 @@
       <% } %>
 
       <% if (data.section) { %>
-      <dt><%- data.__('Sections du site') %></dt>
+      <dt><%- data.__("Sections du site") %></dt>
       <dd>
 		  <!-- repeat -->
 		  <p><a href="<%- data.section[n].href %>"><%- data.section[n].text %></a></p>
@@ -65,7 +65,7 @@
 
       <% if (data.sujet) { %>
       <dt>
-		  <%- data.__('Sujets') %>&nbsp;
+		  <%- data.__("Sujets") %>&nbsp;
 		  <a class="icon" data-toggle="ajouter-sujet-dropdown" title="<%- data.__('Ajouter un sujet') %>"><i class="fi-plus"></i></a>
       </dt>
       <dd>
@@ -76,7 +76,7 @@
       <% } %>
 
       <% if (data.formatAutres) { %>
-      <dt><%- data.__('Disponible dans un autre format') %></dt>
+      <dt><%- data.__("Disponible dans un autre format") %></dt>
       <dd>
 		  <!-- repeat -->
 		  <p><a href="<%- data.formatAutres[n] %>"><%- data.formatAutres[n] %></a></p>
@@ -85,31 +85,31 @@
       <% } %>
 
       <% if (data.sourceLangueAnglais || data.sourceLangueFrancais || data.sourceLangueEspagnol || data.sourceLangueItalien || data.sourceLangueArabe || data.sourceLangueRusse ) { %>
-      <dt><%- data.__('Disponible dans une autre langue') %></dt>
+      <dt><%- data.__("Disponible dans une autre langue") %></dt>
       <dd>
 
-		  <% if (data.languageCode !== 'en') { %>
-		  <p><a href="<%- data.sourceLangueAnglais %>"><%- data.__('Disponible en anglais') %></a></p>
+		  <% if (data.languageCode !== "en") { %>
+		  <p><a href="<%- data.sourceLangueAnglais %>"><%- data.__("Disponible en anglais") %></a></p>
         <% } %>
 
-		  <% if (data.languageCode !== 'fr') { %>
-		  <p><a href="<%- data.sourceLangueFrancais %>"><%- data.__('Disponible en français') %></a></p>
+		  <% if (data.languageCode !== "fr") { %>
+		  <p><a href="<%- data.sourceLangueFrancais %>"><%- data.__("Disponible en français") %></a></p>
         <% } %>
 
-		  <% if (data.languageCode !== 'es') { %>
-		  <p><a href="<%- data.sourceLangueEspagnol %>"><%- data.__('Disponible en espagnol') %></a></p>
+		  <% if (data.languageCode !== "es") { %>
+		  <p><a href="<%- data.sourceLangueEspagnol %>"><%- data.__("Disponible en espagnol") %></a></p>
         <% } %>
 
-        <% if (data.languageCode !== 'it') { %>
-		  <p><a href="<%- data.sourceLangueItalien %>"><%- data.__('Disponible en italien') %></a></p>
+        <% if (data.languageCode !== "it") { %>
+		  <p><a href="<%- data.sourceLangueItalien %>"><%- data.__("Disponible en italien") %></a></p>
         <% } %>
 
-        <% if (data.languageCode !== 'ar') { %>
-		  <p><a href="<%- data.sourceLangueArabe %>"><%- data.__('Disponible en arabe') %></a></p>
+        <% if (data.languageCode !== "ar") { %>
+		  <p><a href="<%- data.sourceLangueArabe %>"><%- data.__("Disponible en arabe") %></a></p>
         <% } %>
 
-        <% if (data.languageCode !== 'ru') { %>
-		  <p><a href="<%- data.sourceLangueRusse %>"><%- data.__('Disponible en russe') %></a></p>
+        <% if (data.languageCode !== "ru") { %>
+		  <p><a href="<%- data.sourceLangueRusse %>"><%- data.__("Disponible en russe") %></a></p>
         <% } %>
         
       </dd>
@@ -117,7 +117,7 @@
 
       <% if (data.voirAussi) { %>
       <dt>
-		  <%- data.__('Voir-aussi') %>&nbsp;
+		  <%- data.__("Voir-aussi") %>&nbsp;
 		  <a class="icon" data-toggle="ajouter-lien-dropdown" title="<%- data.__('Ajouter un lien') %>"><i class="fi-plus"></i></a>
       </dt>
       <dd>

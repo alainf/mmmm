@@ -2,12 +2,12 @@
 
     <div class="callout" id="consultation">
 
-    <h4 class="strong"><%- data.__('Consulter') %></h4>
+    <h4 class="strong"><%- data.__("Consulter") %></h4>
 
     <dl>
 
       <% if (data.sourceUrl) { %>
-		<dt><%- data.__('Liens') %></dt>
+		<dt><%- data.__("Liens") %></dt>
       <dd>
 		  <!-- repeat -->
 		  <p><a href="<%- data.sourceUrl[n] %>"><%- data.sourceUrl[n] %></a></p>
@@ -16,17 +16,17 @@
       <% } %>
 
       <% if (data.licence) { %>
-		<dt><%- data.__('Licence') %></dt>
+		<dt><%- data.__("Licence") %></dt>
       <dd><p><%- data.licence %></p></dd>
       <% } %>
 
       <% if (data.permissions) { %>
-      <dt><%- data.__('Conditions') %></dt>
+      <dt><%- data.__("Conditions") %></dt>
       <dd><p><%- data.permissions %></p></dd>
       <% } %>
 
       <% if (data.coutAcces) { %>
-      <dt><%- data.__('Coût') %></dt>
+      <dt><%- data.__("Coût") %></dt>
       <dd><p><%- data.coutAcces %></p></dd>
       <% } %>
 

@@ -1,53 +1,53 @@
 <form>
-<div class='callout' id='evaluation'>
-  <h4 class='strong'>Évaluer</h4>
+<div class="callout" id="evaluation">
+  <h4 class="strong"><%- data.__("Évaluer") %></h4>
   <dl>
-  <dt>Appréciation</dt>
+  <dt><%- data.__("Appréciation") %></dt>
   <dd>
-    <input type='radio' name='appreciation' value="Aucune" id="Aucune" checked><label for="Aucune">Aucune</label>
-    <input type='radio' name='appreciation' value="Favorable" id="Favorable"><label for="Favorable">Favorable</label>
-    <input type='radio' name='appreciation' value="Defavorable" id="Defavorable"><label for="Defavorable">Défavorable</label>
-    <input type='radio' name='appreciation' value="Spam" id="Spam"><label for="Spam">Spam</label>
-    <input type='radio' name='appreciation' value="Abusif" id="Abusif"><label for="Abusif">Abus</label>
+    <input type="radio" name="appreciation" value="Aucune" id="Aucune" checked><label for="Aucune"><%- data.__("Aucune") %></label>
+    <input type="radio" name="appreciation" value="Favorable" id="Favorable"><label for="Favorable"><%- data.__("Favorable") %></label>
+    <input type="radio" name="appreciation" value="Defavorable" id="Defavorable"><label for="Defavorable"><%- data.__("Défavorable") %></label>
+    <input type="radio" name="appreciation" value="Spam" id="Spam"><label for="Spam"><%- data.__("Spam") %></label>
+    <input type="radio" name="appreciation" value="Abusif" id="Abusif"><label for="Abusif"><%- data.__("Abus") %></label>
   </dd>
-  <dt>Parmi mes favoris</dt>
+  <dt><%- data.__("Parmi mes favoris") %></dt>
   <dd>
-    <input type='radio' name='parmiFavoris' value="Non" id="Non" checked><label for="Non">Non</label>
-    <input type='radio' name='parmiFavoris' value="Oui" id="Oui"><label for="Oui">Oui</label>
+    <input type="radio" name="parmiFavoris" value="Non" id="Non" checked><label for="Non"><%- data.__("Non") %></label>
+    <input type="radio" name="parmiFavoris" value="Oui" id="Oui"><label for="Oui"><%- data.__("Oui") %></label>
   </dd>
-  <dt>Pertinence</dt>
-  <dd>
-  <select>
-    <option value="sans-opinion">Sans opinion</option>
-    <option value="indispensable">Indispensable</option>
-    <option value="important">Important</option>
-    <option value="interessant">Intéressant</option>
-    <option value="sans-interet">Sans intérêt</option>
-  </select>
-  </dd>
-  <dt>Qualité</dt>
+  <dt><%- data.__("Pertinence") %></dt>
   <dd>
   <select>
-    <option value="sans-opinion">Sans opinion</option>
-    <option value="excellente">Excellente</option>
-    <option value="bonne">Bonne</option>
-    <option value="criticable">Criticable</option>
-    <option value="a-eliminer">À éliminer</option>
+    <option value="sans-opinion"><%- data.__("Sans opinion") %></option>
+    <option value="indispensable"><%- data.__("Indispensable") %></option>
+    <option value="important"><%- data.__("Important") %></option>
+    <option value="interessant"><%- data.__("Intéressant") %></option>
+    <option value="sans-interet"><%- data.__("Sans intérêt") %></option>
   </select>
   </dd>
-  <dt>Ajouter un sujet <a class='icon' data-toggle='ajouter-sujet2-dropdown' title="Ajouter un sujet"><i class='fi-plus'></i></a></dt>
-  <dd><p><input type='text' name='sujet' value=""></p></dd>
-  <dt>Ajouter un mot-clef <a class='icon' data-toggle='add-keyword2-dropdown' title="Ajouter un mot-clef"><i class='fi-plus'></i></a></dt>
-  <dd><p><input type='text' name='motClef' value=""></p></dd>
-  <dt>Ajouter un lien <span class='em'>voir-aussi</span> <a class='icon' data-toggle='ajouter-lien2-dropdown' title="Ajouter un lien"><i class='fi-plus'></i></a></dt>
-  <dd><p><input type='text' name='voirAussi' value=""></p></dd>
+  <dt><%- data.__("Qualité") %></dt>
+  <dd>
+  <select>
+    <option value="sans-opinion"><%- data.__("Sans opinion") %></option>
+    <option value="excellente"><%- data.__("Excellente") %></option>
+    <option value="bonne"><%- data.__("Bonne") %></option>
+    <option value="criticable"><%- data.__("Criticable") %></option>
+    <option value="a-eliminer"><%- data.__("À éliminer") %></option>
+  </select>
+  </dd>
+  <dt><%- data.__("Ajouter un sujet") %> <a class="icon" data-toggle="ajouter-sujet2-dropdown" title="<%- data.__('Ajouter un sujet') %>"><i class="fi-plus"></i></a></dt>
+  <dd><p><input type="text" name="sujet" value=""></p></dd>
+  <dt><%- data.__("Ajouter un mot-clef") %> <a class="icon" data-toggle="add-keyword2-dropdown" title="<%- data.__('Ajouter un mot-clef') %>"><i class="fi-plus"></i></a></dt>
+  <dd><p><input type="text" name="motClef" value=""></p></dd>
+  <dt><%- data.__("Ajouter un lien") %> <span class="em">voir-aussi</span> <a class="icon" data-toggle="ajouter-lien2-dropdown" title="<%- data.__('Ajouter un lien') %>"><i class="fi-plus"></i></a></dt>
+  <dd><p><input type="text" name="voirAussi" value=""></p></dd>
   </dl>
-  <p><a title='Haut de page' href="#"><i class='fi-arrow-up'></i></a></p>
+  <p><a title="<%- data.__('Haut de page') %>" href="#"><i class="fi-arrow-up"></i></a></p>
 </div>
 </form>
 
-<%= partials.displayDropdown({ dropName: 'ajouter-sujet2-dropdown' }) %>
+<%= partials.displayDropdown({ dropName: "ajouter-sujet2-dropdown" }) %>
 
-<%= partials.displayDropdown({ dropName: 'add-keyword2-dropdown' }) %>
+<%= partials.displayDropdown({ dropName: "add-keyword2-dropdown" }) %>
 
-<%= partials.displayDropdown({ dropName: 'ajouter-lien2-dropdown' }) %>
+<%= partials.displayDropdown({ dropName: "ajouter-lien2-dropdown" }) %>
