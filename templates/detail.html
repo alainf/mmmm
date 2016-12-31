@@ -50,7 +50,7 @@
 <div class="row" id="content-pane">
   <div class="small-6 columns">
     <div class="callout" id="article">
-      <%= data.doc.contenu %>
+      <%= data.doc.contenu.replace(/<\/div>/g, '') %>
     </div>
   </div>
   <div class="small-6 columns">
