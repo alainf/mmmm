@@ -51,7 +51,8 @@ exports.register = function (server, options, next) {
       if (err) { return reply(err) } // FIXME: how to test?
       // console.log('request:', Object.keys(request))
       // console.log('request.url:', request.url)
-      const p = request.url.href.split('/').slice(2)[0] + '-real'
+      // const p = request.url.href.split('/').slice(2)[0] + '-real'
+      const p = 'detail'
       // console.log('p:', p)
       // reply('hi there')
       reply.view(p, { doc: payload })

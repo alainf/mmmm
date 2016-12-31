@@ -19,28 +19,28 @@
 
 <!-- <%= JSON.stringify(data, null, " ") %> -->
 
-<%= partials.detailedTopRow() %>
+<%= partials.detailedTopRow(data) %>
 
-<%= partials.detailedLogoAndLinks() %>
+<%= partials.detailedLogoAndLinks(data) %>
 
 <% if (data.iscopyright === true) { %> <!-- if EXT -->
 
 <div class="row" id="content-pane">
   <div class="small-6 columns">
     <div class="callout" id="article">
-      <%= partials.detailedMemeQueLead() %>
-      <%= partials.detailedConsultation() %>
-      <%= partials.detailedEvaluation() %>
-      <%= partials.detailedCommenter() %>
+      <%= partials.detailedMemeQueLead(data) %>
+      <%= partials.detailedConsultation(data) %>
+      <%= partials.detailedEvaluation(data) %>
+      <%= partials.detailedCommenter(data) %>
       <%= partials.displayDropdown({ dropName: "add-keyword-dropdown" }) %>
     </div>
   </div>
   <div class="small-6 columns">
     <div id="metadata">
-      <%= partials.detailedInformation() %>
+      <%= partials.detailedInformation(data) %>
       <%= partials.displayDropdown({ dropName: "ajouter-lien-dropdown" }) %>
       <%= partials.displayDropdown({ dropName: "ajouter-sujet-dropdown" }) %>
-      <%= partials.detailedAttributs() %>
+      <%= partials.detailedAttributs(data) %>
     </div>
   </div>
 </div>
@@ -50,18 +50,18 @@
 <div class="row" id="content-pane">
   <div class="small-6 columns">
     <div class="callout" id="article">
-      <%- data.contenu %>
+      <%= data.doc.contenu %>
     </div>
   </div>
   <div class="small-6 columns">
     <div id="metadata">
-      <%= partials.detailedInformation() %>
+      <%= partials.detailedInformation(data) %>
       <%= partials.displayDropdown({ dropName: "ajouter-lien-dropdown" }) %>
       <%= partials.displayDropdown({ dropName: "add-keyword-dropdown" }) %>
       <%= partials.displayDropdown({ dropName: "ajouter-sujet-dropdown" }) %>
-      <%= partials.detailedAttributs() %>
-      <%= partials.detailedEvaluation() %>
-      <%= partials.detailedCommenter() %>
+      <%= partials.detailedAttributs(data) %>
+      <%= partials.detailedEvaluation(data) %>
+      <%= partials.detailedCommenter(data) %>
     </div>
   </div>
 </div>
