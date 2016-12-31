@@ -1,12 +1,10 @@
-<!-- TODO -->
 <div class="row">
 
   <div class="small-6 columns">
     <div class="text-left" id="logo">
       <p>
-		<a href="<%- data.app.logoHref %>">
-		  <img src="/img/phdadmin_logo.png" alt="<%- data.app.logoAlt %>" title="<%- data.app.logoTip %>">
-		  <!-- <img src="data.app.logoSrc" alt="data.app.logoAlt" title="data.app.logoTip"> -->
+		<a href="/<%- data.languageCode %>/accueil">
+		  <img src="/img/phdadmin_logo.png" alt="<%- data.__('Accueil') %>" title="<%- data.__("Consulter la page d'accueil") %>">
 		</a>
 		</p>
     </div>
@@ -15,11 +13,11 @@
   <div class="small-6 columns">
     <br>
     <ul class="menu">
-    <li><a href="#article"><%- data.__("Article") %></a></li>
-    <li><a href="#information"><%- data.__("Information") %></a></li>
-    <li><a href="#attributs"><%- data.__("Attributs") %></a></li>
-    <li><a href="#evaluation"><%- data.__("Évaluer") %></a></li>
-    <li><a href="#commentaires"><%- data.__("Commenter") %></a></li>
+    <li><a href="#article"><%- data.__('Article') %></a></li>
+    <li><a href="#information"><%- data.__('Information') %></a></li>
+    <li><a href="#attributs"><%- data.__('Attributs') %></a></li>
+    <li><a href="#evaluation"><%- data.__('Évaluer') %></a></li>
+    <li><a href="#commentaires"><%- data.__('Commenter') %></a></li>
     </ul>
   </div>
 

@@ -1,33 +1,27 @@
-    <!-- TODO -->
-
     <div class="callout" id="consultation">
 
     <h4 class="strong"><%- data.__("Consulter") %></h4>
 
     <dl>
 
-      <% if (data.sourceUrl) { %>
-		<dt><%- data.__("Liens") %></dt>
-      <dd>
-		  <!-- repeat -->
-		  <p><a href="<%- data.sourceUrl[n] %>"><%- data.sourceUrl[n] %></a></p>
-		  <!-- end repeat -->
-      </dd>
+      <% if (data.doc.sourceUrl) { %>
+		<dt><%- data.__("URL") %></dt>
+      <dd><p><a href="<%- data.doc.sourceUrl %>"><%- data.doc.sourceUrl %></a></p></dd>
       <% } %>
 
-      <% if (data.licence) { %>
+      <% if (data.doc.licence) { %>
 		<dt><%- data.__("Licence") %></dt>
-      <dd><p><%- data.licence %></p></dd>
+      <dd><p><%- data.doc.licence %></p></dd>
       <% } %>
 
-      <% if (data.permissions) { %>
+      <% if (data.doc.permissions) { %>
       <dt><%- data.__("Conditions") %></dt>
-      <dd><p><%- data.permissions %></p></dd>
+      <dd><p><%- data.doc.permissions %></p></dd>
       <% } %>
 
-      <% if (data.coutAcces) { %>
+      <% if (data.doc.coutAcces) { %>
       <dt><%- data.__("Coût") %></dt>
-      <dd><p><%- data.coutAcces %></p></dd>
+      <dd><p><%- data.doc.coutAcces %></p></dd>
       <% } %>
 
     </dl>
