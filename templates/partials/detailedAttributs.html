@@ -1,156 +1,157 @@
 <!-- TODO -->
 <div class="callout" id="attributs">
 
-  <h4 class="strong"><%- data.__("Attributs") %></h4>
+  <h4 class="strong"><%- data.__('Attributs') %></h4>
 
   <dl>
 
-      <% if (data.nom) { %>
-		<dt><%- data.__("Titre") %></dt>
-      <dd><p><%- data.nom %></p></dd>
+      <% if (data.doc.nom) { %>
+		<dt><%- data.__('Titre') %></dt>
+      <dd><p><%- data.doc.nom %></p></dd>
 		<% } %>
 
-      <% if (data.auteur) { %>
-      <dt><%- data.__("Auteurs") %></dt>
+      <% if (data.doc.auteur) { %>
+      <dt><%- data.__('Auteurs') %></dt>
       <dd>
-		  <!-- repeat -->
-		  <p><%- data.auteur[n] %></p>
-		  <!-- end repeat -->
+		  <% data.doc.auteur.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
 		</dd>
 		<% } %>
 
-      <% if (data.coauteur) { %>
-      <dt><%- data.__("Contributeurs") %></dt>
+      <% if (data.doc.coauteur) { %>
+      <dt><%- data.__('Contributeurs') %></dt>
       <dd>
-		  <!-- repeat -->
-		  <p><%- data.coauteur[n] %></p>
-		  <!-- end repeat -->
+		  <% data.doc.coauteur.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
 		</dd>
 		<% } %>
 
-      <% if (data.provenance) { %>
-      <dt><%- data.__("Provenance") %></dt>
-      <dd><p><%- data.provenance %></p></dd>
+      <% if (data.doc.provenance) { %>
+      <dt><%- data.__('Provenance') %></dt>
+      <dd><p><a href="<%- data.doc.provenance %>"><%- data.doc.provenance %></a></p></dd>
 		<% } %>
 
-      <% if (data.editeur) { %>
-      <dt><%- data.__("Éditeur") %></dt>
-      <dd><p><%- data.editeur %></p></dd>
+      <% if (data.doc.editeur) { %>
+      <dt><%- data.__('Éditeur') %></dt>
+      <dd><p><%- data.doc.editeur %></p></dd>
 		<% } %>
 
-      <% if (data.dateEdition) { %>
+      <% if (data.doc.dateEdition) { %>
       <dt><%- data.__("Date d'édition") %></dt>
-      <dd><p><%- data.dateEdition %></p></dd>
+      <dd><p><%- data.doc.dateEdition %></p></dd>
 	   <% } %>
 
-      <% if (data.langueEdition) { %>
+      <% if (data.doc.langueEdition) { %>
       <dt><%- data.__("Langue d'édition") %></dt>
       <dd>
-		  <!-- repeat -->
-		  <p><%- data.langueEdition[n] %></p>
-		  <!-- end repeat -->
+		  <% data.doc.langueEdition.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
 		</dd>
 		<% } %>
 
-      <% if (data.lieuEdition) { %>
+      <% if (data.doc.lieuEdition) { %>
       <dt><%- data.__("Lieux d'édition") %></dt>
       <dd>
-		  <!-- repeat -->
-		  <p><%- data.lieuEdition[n] %></p>
-		  <!-- end repeat -->
+		  <% data.doc.lieuEdition.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
 		</dd>
 		<% } %>
 
-      <% if (data.encodage) { %>
-      <dt><%- data.__("Encodage") %></dt>
-      <dd><p><%- data.encodage %></p></dd>
+      <% if (data.doc.encodage) { %>
+      <dt><%- data.__('Encodage') %></dt>
+      <dd><p><%- data.doc.encodage %></p></dd>
 		<% } %>
 
-      <% if (data.format) { %>
-      <dt><%- data.__("Format") %></dt>
-      <dd><p><%- data.format %></p></dd>
+      <% if (data.doc.format) { %>
+      <dt><%- data.__('Format') %></dt>
+      <dd><p><%- data.doc.format %></p></dd>
 		<% } %>
 
-      <% if (data.identifiantIsbn) { %>
-      <dt><%- data.__("Identifiant ISBN") %></dt>
-      <dd><p><%- data.identifiantIsbn %></p></dd>
+      <% if (data.doc.identifiantIsbn) { %>
+      <dt><%- data.__('Identifiant ISBN') %></dt>
+      <dd><p><%- data.doc.identifiantIsbn %></p></dd>
 		<% } %>
 
-      <% if (data.identifiantIssn) { %>
-      <dt><%- data.__("Identifiant ISSN") %></dt>
-      <dd><p><%- data.identifiantIssn %></p></dd>
+      <% if (data.doc.identifiantIssn) { %>
+      <dt><%- data.__('Identifiant ISSN') %></dt>
+      <dd><p><%- data.doc.identifiantIssn %></p></dd>
       <% } %>
 
-      <% if (data.identifiantEissn) { %>
-      <dt><%- data.__("Identifiant EISSN") %></dt>
-      <dd><p><%- data.identifiantEissn %></p></dd>
+      <% if (data.doc.identifiantEissn) { %>
+      <dt><%- data.__('Identifiant EISSN') %></dt>
+      <dd><p><%- data.doc.identifiantEissn %></p></dd>
       <% } %>
 
-      <% if (data.identifiantDoi) { %>
-      <dt><%- data.__("Identifiant DOI") %></dt>
-      <dd><p><%- data.identifiantDoi %></p></dd>
+      <% if (data.doc.identifiantDoi) { %>
+      <dt><%- data.__('Identifiant DOI') %></dt>
+      <dd><p><%- data.doc.identifiantDoi %></p></dd>
       <% } %>
 
-      <% if (data.identifiantDc) { %>
-      <dt><%- data.__("Identifiant DC") %></dt>
-      <dd><p><%- data.identifiantDc %></p></dd>
+      <% if (data.doc.identifiantDc) { %>
+      <dt><%- data.__('Identifiant DC') %></dt>
+      <dd><p><%- data.doc.identifiantDc %></p></dd>
       <% } %>
 
-      <% if (data.identifiantDewey) { %>
-      <dt><%- data.__("Identifiant Dewey") %></dt>
-      <dd><p><%- data.identifiantDewey %></p></dd>
+      <% if (data.doc.identifiantDewey) { %>
+      <dt><%- data.__('Identifiant Dewey') %></dt>
+      <dd><p><%- data.doc.identifiantDewey %></p></dd>
       <% } %>
 
-      <% if (data.identifiantJournalseek) { %>
-      <dt><%- data.__("Identifiant journalseek") %></dt>
-      <dd><p><%- data.identifiantJournalseek %></p></dd>
+      <% if (data.doc.identifiantJournalseek) { %>
+      <dt><%- data.__('Identifiant journalseek') %></dt>
+      <dd><p><%- data.doc.identifiantJournalseek %></p></dd>
       <% } %>
 
-      <% if (data.identifiantJtoc) { %>
-      <dt><%- data.__("Identifiant JTOC") %></dt>
-      <dd><p><%- data.identifiantJtoc %></p></dd>
+      <% if (data.doc.identifiantJtoc) { %>
+      <dt><%- data.__('Identifiant JTOC') %></dt>
+      <dd><p><%- data.doc.identifiantJtoc %></p></dd>
       <% } %>
 
-      <% if (data.nomMachine) { %>
-      <dt><%- data.__("Nom-machine") %></dt>
-      <dd><p><%- data.nomMachine %></p></dd>
+      <% if (data.doc._id) { %>
+      <dt>Couch-id</dt>
+      <dd><p><%- data.doc._id %></p></dd>
       <% } %>
 
-      <% if (data.iscopyright) { %>
-      <dt><%- data.__("Copyright") %></dt>
-      <dd><p><%- data.iscopyright %></p></dd>
+      <% if (data.doc.nomMachine) { %>
+      <dt><%- data.__('Nom-machine') %></dt>
+      <dd><p><%- data.doc.nomMachine %></p></dd>
       <% } %>
 
-      <% if (data.miseAJour) { %>
-      <dt><%- data.__("Mise à jour") %></dt>
-      <dd><p><%- data.miseAJour %></p></dd>
+      <% if (data.doc.isCopyright !== null) { %>
+      <dt><%- data.__('Copyright') %></dt>
+      <dd><p><%- data.doc.isCopyright %></p></dd>
       <% } %>
 
-      <% if (data.typeDeRessource) { %>
-      <dt><%- data.__("Types de ressource") %></dt>
+      <% if (data.doc.miseAJour) { %>
+      <dt><%- data.__('Mise à jour') %></dt>
+      <dd><p><%- data.doc.miseAJour %></p></dd>
+      <% } %>
+
+      <% if (data.doc.typeDeRessource) { %>
+      <dt><%- data.__('Types de ressource') %></dt>
       <dd>
-		  <!-- repeat -->
-		  <p><%- data.typeDeRessource[n] %></p>
-		  <!-- end repeat -->
+		  <% data.doc.typeDeRessource.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.typeDeContenu) { %>
-      <dt><%- data.__("Types de contenu") %></dt>
+      <% if (data.doc.typeDeContenu) { %>
+      <dt><%- data.__('Types de contenu') %></dt>
       <dd>
-		  <!-- repeat -->
-		  <p><%- data.typeDeContenu[n] %></p>
-		  <!-- end repeat -->
+		  <% data.doc.typeDeContenu.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.sourceUrl) { %>
-      <dt><%- data.__("URL") %></dt>
-      <dd>
-		  <!-- repeat -->
-		  <p><a href="<%- data.sourceUrl[n] %>"><%- data.sourceUrl[n] %></a></p>
-		  <!-- end repeat -->
-      </dd>
+      <% if (data.doc.sourceUrl) { %>
+      <dt><%- data.__('URL') %></dt>
+      <dd><p><a href="<%- data.doc.sourceUrl %>"><%- data.doc.sourceUrl %></a></p></dd>
       <% } %>
 
   </dl>
