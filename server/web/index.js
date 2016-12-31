@@ -3,6 +3,7 @@
 // npm
 const url = require('url')
 const Wreck = require('wreck')
+const _ = require('lodash')
 
 // const sections = require('../../data/list1.json')
 // const sujets = require('../../data/list2.json')
@@ -49,13 +50,14 @@ exports.register = function (server, options, next) {
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
-      // console.log('request:', Object.keys(request))
-      // console.log('request.url:', request.url)
-      // const p = request.url.href.split('/').slice(2)[0] + '-real'
-      const p = 'detail'
-      // console.log('p:', p)
-      // reply('hi there')
-      reply.view(p, { doc: payload })
+      _.forEach(payload, (v, k, o) => {
+        if (k[0] === '_') { return }
+        const cc = _.camelCase(k)
+        if (cc !== k) { o[cc] = v }
+      })
+
+      // console.log('DOC:', payload)
+      reply.view('detail', { doc: payload })
     })
   }
 

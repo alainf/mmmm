@@ -15,14 +15,14 @@
       <dd><p><%- data.description %></p></dd>
       <% } %>
 
-      <% if (data.motsClefs) { %>
+      <% if (data.doc.motsClefs) { %>
       <dt>
                   <%- data.__("Mots-clefs") %>&nbsp;
                   <a class="icon" data-toggle="add-keyword-dropdown" title="<%- data.__('Ajouter un mot-clef') %>"><i class="fi-plus"></i></a>
       </dt>
       <dd>
                   <!-- repeat -->
-                  <% data.motsClefs.forEach(function (mot) { %>
+                  <% data.doc.motsClefs.forEach(function (mot) { %>
                         <p><%- mot %></p>
                   <% }) %>
                   <!-- end repeat -->
