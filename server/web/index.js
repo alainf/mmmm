@@ -40,6 +40,8 @@ exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
   const mapperDetail = (request, callback) => {
+    console.log('DB:', dbUrl)
+    console.log('ID:', request.params.pageId)
     const u = dbUrl + request.params.pageId.replace(/^test-/, '/lead-')
     // console.log('U:', u)
     callback(null, u, { accept: 'application/json' })
@@ -183,7 +185,8 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/detail-ext/{pageId}',
+    // path: '/{languageCode}/detail-ext/{pageId}',
+    path: '/{languageCode}/detail/{pageId}',
     handler: {
       // view: 'detail-ext-real'
       proxy: {
@@ -194,6 +197,7 @@ exports.register = function (server, options, next) {
     }
   })
 
+/*
   server.route({
     method: 'GET',
     path: '/{languageCode}/detail-int/{pageId}',
@@ -206,6 +210,7 @@ exports.register = function (server, options, next) {
       }
     }
   })
+*/
 
   pages.forEach((page) => {
     server.route({
