@@ -2,7 +2,7 @@
   <div class='row'>
     <div class='small-12 columns'>
        <p class='headline'>
-         <a target='_blank' href="/fr/detail/<%- data._id %>" title="<%- data.tip %>"><%- data.titre %></a>
+         <a target='_blank' href="/<%- data.pathparts && data.pathparts[0] || 'fr' %>/detail/<%- data._id %>" title="<%- data.tip %>"><%- data.titre %></a>
        </p>
     </div>
   </div>

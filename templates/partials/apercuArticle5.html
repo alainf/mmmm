@@ -4,7 +4,7 @@
       <div class=''>
         <p class='headline text-right'>
                           TODO #5
-          <a target='_blank' href="/fr/detail/<%- data._id %>" title="<%= data.tip %>"><span><%= data.titre %><%= data.soustitre %></span></a>
+          <a target='_blank' href="/<%- data.pathparts && data.pathparts[0] || 'fr' %>/detail/<%- data._id %>" title="<%= data.tip %>"><span><%= data.titre %><%= data.soustitre %></span></a>
         </p>
       </div>
     </div>

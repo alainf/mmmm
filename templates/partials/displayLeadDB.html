@@ -1,6 +1,6 @@
 <div class='secondary callout'>
   <div class='breve-titre'>
-    <p class='strong'><a target='_blank' href="/fr/detail/<%- data._id %>"><%- data.titre %></a></p>
+    <p class='strong'><a target='_blank' href="/<%- data.pathparts && data.pathparts[0] || 'fr' %>/detail/<%- data._id %>"><%- data.titre %></a></p>
   </div>
   <div class='breve-contenu'>
     <p><%- data.description %></p>

@@ -1,7 +1,7 @@
 <div class='journal'>
   <div class='row'>
     <div class='small-12 columns'>
-      <h5 class='headline'><a target='_blank' href="/fr/detail/<%- data._id %>" title="<%- data.tip %>"><%- data.titre %></a></h5>
+      <h5 class='headline'><a target='_blank' href="/<%- data.pathparts && data.pathparts[0] || 'fr' %>/detail/<%- data._id %>" title="<%- data.tip %>"><%- data.titre %></a></h5>
     </div>
   </div>
   <div class='row'>

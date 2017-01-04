@@ -4,7 +4,7 @@
       <div class=''>
         <p class='headline'>
           TODO #2
-          <a target='_blank' href="/fr/detail/<%- data._id %>" title="<%- data.tip %>"><%= data.titre %><%= data.soustitre %></a>
+          <a target='_blank' href="/<%- data.pathparts && data.pathparts[0] || 'fr' %>/detail/<%- data._id %>" title="<%- data.tip %>"><%= data.titre %><%= data.soustitre %></a>
         </p>
         <blockquote class='small-text em'><%= data.citation %></blockquote>
       </div>
