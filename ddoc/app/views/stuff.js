@@ -8,12 +8,8 @@ module.exports = {
 
     for (r in doc) {
       if (r !== '_rev' && r !== 'apercu' && r !== 'citation' && r !== 'contenu' && r !== 'description') {
-        if (typeof doc[r] === 'string' || typeof doc[r] === 'number') {
+        if (typeof doc[r] === 'string' || typeof doc[r] === 'number' || typeof doc[r] === 'boolean') {
           emit([r, doc[r]])
-        } else if (typeof doc[r] === 'object' && doc[r].length) {
-          for (g = 0; g < doc[r].length; ++g) {
-            emit([r, doc[r][g]])
-          }
         }
       }
     }
