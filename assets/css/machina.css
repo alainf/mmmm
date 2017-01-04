@@ -151,4 +151,8 @@ p.headline
 .mm-active
 { background-color: #e7e7e7; }
 
-
+.enum
+{
+	padding: 0px;
+	margin-bottom: 0px;
+}

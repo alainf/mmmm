@@ -9,7 +9,7 @@ yarn
 
 ----
 
-Le plus simple c'est de
+Pour synchroniser database:
 
 * éditer les fichiers de add-to-couch
 * deleter ta db machina dans futon

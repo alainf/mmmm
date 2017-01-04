@@ -1,131 +1,132 @@
-<!-- TODO -->
 <div class="callout" id="information">
 
-  <h4 class="strong"><%- data.__("Information") %></h4>
+  <h4 class="strong"><%- data.__('Information') %></h4>
 
     <dl>
 
-      <% if (data.apercu) { %>
-      <dt><%- data.__("Aperçu") %></dt>
-      <dd><p><%- data.apercu %></p></dd>
+      <% if (data.doc.apercu) { %>
+      <dt><%- data.__('Aperçu') %></dt>
+      <dd><p><%- data.doc.apercu %></p></dd>
       <% } %>
 
-      <% if (data.description) { %>
-      <dt><%- data.__("Description") %></dt>
-      <dd><p><%- data.description %></p></dd>
+      <% if (data.doc.description) { %>
+      <dt><%- data.__('Description') %></dt>
+      <dd><p><%- data.doc.description %></p></dd>
       <% } %>
 
       <% if (data.doc.motsClefs) { %>
       <dt>
-                  <%- data.__("Mots-clefs") %>&nbsp;
-                  <a class="icon" data-toggle="add-keyword-dropdown" title="<%- data.__('Ajouter un mot-clef') %>"><i class="fi-plus"></i></a>
+        <%- data.__('Mots-clefs') %>&nbsp;
+        <a class="icon" data-toggle="add-keyword-dropdown" title="<%- data.__('Ajouter un mot-clef') %>"><i class="fi-plus"></i></a>
       </dt>
       <dd>
-                  <!-- repeat -->
-                  <% data.doc.motsClefs.forEach(function (mot) { %>
-                        <p><%- mot %></p>
-                  <% }) %>
-                  <!-- end repeat -->
+        <% data.doc.motsClefs.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.lieuConcerne) { %>
-      <dt><%- data.__("Lieux concernées") %></dt>
+      <% if (data.doc.lieuConcerne) { %>
+      <dt><%- data.__('Lieux concernées') %></dt>
       <dd>
-                  <!-- repeat -->
-                  <p><%- data.lieuConcerne[n] %></p>
-                  <!-- end repeat -->
+        <% data.doc.lieuConcerne.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.calaisOrganisation) { %>
-      <dt><%- data.__("Organisations concernées") %></dt>
+      <% if (data.doc.calaisOrganisation) { %>
+      <dt><%- data.__('Organisations concernées') %></dt>
       <dd>
-                  <!-- repeat -->
-                  <p><%- data.calaisOrganisation[n] %></p>
-                  <!-- end repeat -->
+        <% data.doc.calaisOrganisation.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.personneConcernee) { %>
-      <dt><%- data.__("Personnes concernées") %></dt>
+      <% if (data.doc.personneConcernee) { %>
+      <dt><%- data.__('Personnes concernées') %></dt>
       <dd>
-                  <!-- repeat -->
-                  <p><%- data.personneConcernee[n] %></p>
-                  <!-- end repeat -->
+        <% data.doc.personneConcernee.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.section) { %>
-      <dt><%- data.__("Sections du site") %></dt>
-      <dd>
-                  <!-- repeat -->
-                  <p><a href="<%- data.section[n].href %>"><%- data.section[n].text %></a></p>
-                  <!-- end repeat -->
+      <% if (data.doc.section) { %>
+      <dt><%- data.__('Sections du site') %></dt>
+      <dd>        
+        <% data.doc.section.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+           <!-- TODO: <p class="enum"><a href="data.doc.section.href">data.doc.section.text</a></p> -->
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.sujet) { %>
+      <% if (data.doc.sujet) { %>
       <dt>
-                  <%- data.__("Sujets") %>&nbsp;
-                  <a class="icon" data-toggle="ajouter-sujet-dropdown" title="<%- data.__('Ajouter un sujet') %>"><i class="fi-plus"></i></a>
+        <%- data.__('Sujets') %>&nbsp;
+        <a class="icon" data-toggle="ajouter-sujet-dropdown" title="<%- data.__('Ajouter un sujet') %>"><i class="fi-plus"></i></a>
       </dt>
       <dd>
-                  <!-- repeat -->
-                  <p><a href="<%- data.sujet[n].href %>"><%- data.sujet[n].text %></a></p>
-                  <!-- end repeat -->
+        <% data.doc.sujet.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+           <!-- TODO: <p class="enum"><a href="data.doc.sujet.href">data.doc.sujet.text</a></p> -->
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.formatAutres) { %>
-      <dt><%- data.__("Disponible dans un autre format") %></dt>
+      <% if (data.doc.formatAutres) { %>
+      <dt><%- data.__('Disponible dans un autre format') %></dt>
       <dd>
-                  <!-- repeat -->
-                  <p><a href="<%- data.formatAutres[n] %>"><%- data.formatAutres[n] %></a></p>
-                  <!-- end repeat -->
+        <% data.doc.formatAutres.forEach(function (valeur) { %>
+           <p class="enum"><a href="<%- valeur %>"><%- valeur %></a></p>
+        <% }) %><br>
       </dd>
       <% } %>
 
-      <% if (data.sourceLangueAnglais || data.sourceLangueFrancais || data.sourceLangueEspagnol || data.sourceLangueItalien || data.sourceLangueArabe || data.sourceLangueRusse ) { %>
-      <dt><%- data.__("Disponible dans une autre langue") %></dt>
+      <% if (data.doc.sourceLangueAnglais || data.doc.sourceLangueFrancais || data.doc.sourceLangueEspagnol || data.doc.sourceLangueItalien || data.doc.sourceLangueArabe || data.doc.sourceLangueRusse ) { %>
+      <dt><%- data.__('Disponible dans une autre langue') %></dt>
       <dd>
 
-                  <% if (data.languageCode !== "en") { %>
-                  <p><a href="<%- data.sourceLangueAnglais %>"><%- data.__("Disponible en anglais") %></a></p>
+        <% if (data.languageCode !== 'en' && data.doc.sourceLangueAnglais) { %>
+           <p class="enum"><a href="<%- data.doc.sourceLangueAnglais %>"><%- data.__('Disponible en anglais') %></a></p>
         <% } %>
 
-                  <% if (data.languageCode !== "fr") { %>
-                  <p><a href="<%- data.sourceLangueFrancais %>"><%- data.__("Disponible en français") %></a></p>
+        <% if (data.languageCode !== 'fr' && data.doc.sourceLangueFrancais) { %>
+           <p class="enum"><a href="<%- data.doc.sourceLangueFrancais %>"><%- data.__('Disponible en français') %></a></p>
         <% } %>
 
-                  <% if (data.languageCode !== "es") { %>
-                  <p><a href="<%- data.sourceLangueEspagnol %>"><%- data.__("Disponible en espagnol") %></a></p>
+        <% if (data.languageCode !== 'es' && data.doc.sourceLangueEspagnol) { %>
+           <p class="enum"><a href="<%- data.doc.sourceLangueEspagnol %>"><%- data.__('Disponible en espagnol') %></a></p>
         <% } %>
 
-        <% if (data.languageCode !== "it") { %>
-                  <p><a href="<%- data.sourceLangueItalien %>"><%- data.__("Disponible en italien") %></a></p>
+        <% if (data.languageCode !== 'it' && data.doc.sourceLangueItalien) { %>
+           <p class="enum"><a href="<%- data.doc.sourceLangueItalien %>"><%- data.__('Disponible en italien') %></a></p>
         <% } %>
 
-        <% if (data.languageCode !== "ar") { %>
-                  <p><a href="<%- data.sourceLangueArabe %>"><%- data.__("Disponible en arabe") %></a></p>
+        <% if (data.languageCode !== 'ar' && data.doc.sourceLangueArabe) { %>
+           <p class="enum"><a href="<%- data.doc.sourceLangueArabe %>"><%- data.__('Disponible en arabe') %></a></p>
         <% } %>
 
-        <% if (data.languageCode !== "ru") { %>
-                  <p><a href="<%- data.sourceLangueRusse %>"><%- data.__("Disponible en russe") %></a></p>
+        <% if (data.languageCode !== 'ru' && data.doc.sourceLangueRusse) { %>
+           <p class="enum"><a href="<%- data.doc.sourceLangueRusse %>"><%- data.__('Disponible en russe') %></a></p>
         <% } %>
 
+      <br>
       </dd>
       <% } %>
 
-      <% if (data.voirAussi) { %>
+      <% if (data.doc.voirAussi) { %>
       <dt>
-                  <%- data.__("Voir-aussi") %>&nbsp;
-                  <a class="icon" data-toggle="ajouter-lien-dropdown" title="<%- data.__('Ajouter un lien') %>"><i class="fi-plus"></i></a>
+        <%- data.__('Voir-aussi') %>&nbsp;
+        <a class="icon" data-toggle="ajouter-lien-dropdown" title="<%- data.__('Ajouter un lien') %>"><i class="fi-plus"></i></a>
       </dt>
       <dd>
-                  <!-- repeat -->
-                  <p><a href="<%- data.voirAussi[n] %>"><%- data.voirAussi[n] %></a></p>
-                  <!-- end repeat -->
+        <% data.doc.voirAussi.forEach(function (valeur) { %>
+           <p class="enum"><%- valeur %></p>
+           <!-- TODO: <p class="enum"><a href="data.doc.voirAussi.href">data.doc.voirAussi.text</a></p> -->
+        <% }) %>
       </dd>
       <% } %>
 

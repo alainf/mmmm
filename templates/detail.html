@@ -2,7 +2,7 @@
 <html lang="fr" dir="ltr">
 
 <head>
-  <title><%- data.app.siteTitle %> - <%- data.__("En détail") %> - <%- data.nom %></title>
+  <title><%- data.app.siteTitle %> - <%- data.__('En détail') %> - <%- data.doc.nom %></title>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,9 +15,7 @@
 
 <body>
 
-<!-- TODO -->
-
-<!-- <%= JSON.stringify(data, null, " ") %> -->
+<!-- <%= JSON.stringify(data, null, ' ') %> -->
 
 <%= partials.detailedTopRow(data) %>
 
@@ -30,16 +28,15 @@
     <div class="callout" id="article">
       <%= partials.detailedMemeQueLead(data) %>
       <%= partials.detailedConsultation(data) %>
-      <%= partials.detailedEvaluation(data) %>
-      <%= partials.detailedCommenter(data) %>
-      <%= partials.displayDropdown({ dropName: "add-keyword-dropdown" }) %>
+      <% if (data.app.usertype) { %>
+         <%= partials.detailedEvaluation(data) %>
+         <%= partials.detailedCommenter(data) %>
+      <% } %>
     </div>
   </div>
   <div class="small-6 columns">
     <div id="metadata">
       <%= partials.detailedInformation(data) %>
-      <%= partials.displayDropdown({ dropName: "ajouter-lien-dropdown" }) %>
-      <%= partials.displayDropdown({ dropName: "ajouter-sujet-dropdown" }) %>
       <%= partials.detailedAttributs(data) %>
     </div>
   </div>
@@ -56,19 +53,24 @@
   <div class="small-6 columns">
     <div id="metadata">
       <%= partials.detailedInformation(data) %>
-      <%= partials.displayDropdown({ dropName: "ajouter-lien-dropdown" }) %>
-      <%= partials.displayDropdown({ dropName: "add-keyword-dropdown" }) %>
-      <%= partials.displayDropdown({ dropName: "ajouter-sujet-dropdown" }) %>
       <%= partials.detailedAttributs(data) %>
-      <%= partials.detailedEvaluation(data) %>
-      <%= partials.detailedCommenter(data) %>
+      <% if (data.app.usertype) { %>
+         <%= partials.detailedEvaluation(data) %>
+         <%= partials.detailedCommenter(data) %>
+      <% } %>
     </div>
   </div>
 </div>
 
 <% } %> <!-- endif -->
 
-<%= partials.footer({ pagination: false, lastPage: "0", username: data.app.username }) %>
+<%= partials.displayDropdown({ dropName: "ajouter-lien-dropdown" }) %>
+
+<%= partials.displayDropdown({ dropName: "add-keyword-dropdown" }) %>
+
+<%= partials.displayDropdown({ dropName: "ajouter-sujet-dropdown" }) %>
+
+<%= partials.footer({ pagination: false, lastPage: '0', username: 'Alain Farmer' }) %>
 
 <%= partials.scripts() %>
 
