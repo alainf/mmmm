@@ -26,7 +26,7 @@
     <div>
     <br>
     <% data.rows.forEach((row) => { %>
-      <%= partials[row.tpl](row) %>
+      <%= partials[row.tpl](Object.assign({ pathparts: data.pathparts }, row)) %>
       <hr>
     <% }) %>
     </div>
