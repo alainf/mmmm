@@ -40,23 +40,23 @@ exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
   const mapperDetail = (request, callback) => {
-    console.log('DB:', dbUrl)
-    console.log('ID:', request.params.pageId)
+    // console.log('DB:', dbUrl)
+    // console.log('ID:', request.params.pageId)
     const u = dbUrl + '/' + request.params.pageId // .replace(/^test-/, '/lead-')
-    console.log('U:', u)
+    // console.log('U:', u)
     callback(null, u, { accept: 'application/json' })
   }
 
   const responderDetail = (err, res, request, reply, settings, ttl) => {
-    console.log('ERR-X:', err)
+    // console.log('ERR-X:', err)
     if (err) { return reply(err) } // FIXME: how to test?
-    console.log('RES:', Object.keys(res))
-    console.log('RES.url:', res.url)
-    console.log('RES.statusCode:', res.statusCode)
-    console.log('RES.statusMessage:', res.statusMessage)
+    // console.log('RES:', Object.keys(res))
+    // console.log('RES.url:', res.url)
+    // console.log('RES.statusCode:', res.statusCode)
+    // console.log('RES.statusMessage:', res.statusMessage)
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
     Wreck.read(res, { json: true }, (err, payload) => {
-      console.log('ERR-Y:', err)
+      // console.log('ERR-Y:', err)
       if (err) { return reply(err) } // FIXME: how to test?
       _.forEach(payload, (v, k, o) => {
         if (k[0] === '_') { return }
