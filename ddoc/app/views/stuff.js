@@ -4,7 +4,6 @@
 module.exports = {
   map: function (doc) {
     var r
-    var g
 
     for (r in doc) {
       if (r !== '_rev' && r !== 'apercu' && r !== 'citation' && r !== 'contenu' && r !== 'description') {
