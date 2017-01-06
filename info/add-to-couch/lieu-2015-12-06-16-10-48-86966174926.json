@@ -1,38 +1,23 @@
 {
-  "ajouter-aux-favoris": false,
-  "breadcrumb": "lieux/monde/Europe/",
-  "description": "Europe",
-  "fiche-a-completer": true,
-  "fiche-publiee": false,
-  "identifiant-drupal": 362074,
-  "isCopyright": false,
-  "mise-a-jour": "2015-01-04-02-26-19",
-  "moment-de-creation": "2015-12-06-16-10-48",
-  "moment-de-modification": "2015-01-04-02-26-19",
-  "niveau": 1,
-  "nom": "Europe",
-  "nom-anglais": [
-    "Europe"
-  ],
-  "nom-arabe": [
-    "&#1571;&#1608;&#1585;&#1608;&#1576;&#1575;"
-  ],
-  "nom-espagnol": [
-    "Europa"
-  ],
-  "nom-folder": "Europe",
-  "nom-francais": [
-    "Europe"
-  ],
-  "nom-italien": [
-    "Europa"
-  ],
-  "nom-machine": "lieu-2015-12-06-16-10-48-86966174926",
-  "nom-russe": [
-    "&#1045;&#1074;&#1088;&#1086;&#1087;&#1072;"
-  ],
-  "parent": "lieu-2015-12-06-16-10-48-86966174886",
-  "sous-type": "monde",
-  "type": "lieux",
-  "_id": "lieu-2015-12-06-16-10-48-86966174926"
+"_id": "lieu-2015-12-06-16-10-48-86966174926",
+"ajouter-aux-favoris": false,
+"breadcrumb": "lieux/monde/Europe/",
+"description": "Europe",
+"fiche-a-completer": true,
+"fiche-publiee": true,
+"identifiant-drupal": 362074,
+"mise-a-jour": "2015-01-04-02-26-19",
+"moment-de-creation": "2015-12-06-16-10-48",
+"moment-de-modification": "2015-01-04-02-26-19",
+"nom": "Europe",
+"nom-anglais": ["Europe"],
+"nom-arabe": ["&#1571;&#1608;&#1585;&#1608;&#1576;&#1575;"],
+"nom-espagnol": ["Europa"],
+"nom-folder": "Europe",
+"nom-francais": ["Europe"],
+"nom-italien": ["Europa"],
+"nom-machine": "lieu-2015-12-06-16-10-48-86966174926",
+"nom-russe": ["&#1045;&#1074;&#1088;&#1086;&#1087;&#1072;"],
+"sous-type": "monde",
+"type": "lieux"
 }

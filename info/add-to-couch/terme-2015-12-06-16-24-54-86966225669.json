@@ -1,55 +1,29 @@
 {
-  "ajouter-aux-favoris": false,
-  "breadcrumb": "taxonomies/sujets/Economie/",
-  "description": "&#201;conomie",
-  "fiche-a-completer": true,
-  "fiche-defectueuse": false,
-  "fiche-publiee": false,
-  "identifiant-drupal": 1254,
-  "identifiant-drupal-parent": "350",
-  "mise-a-jour": "2016-07-09-17-40-41",
-  "moment-de-creation": "2016-07-09-17-40-41",
-  "moment-de-modification": "2016-07-09-17-41-21",
-  "niveau": 1,
-  "nom": "&#201;conomie",
-  "nom-anglais": [
-    "Economy"
-  ],
-  "nom-arabe": [
-    "&#1575;&#1604;&#1575;&#1602;&#1578;&#1589;&#1575;&#1583;"
-  ],
-  "nom-espagnol": [
-    "Econom&#237;a"
-  ],
-  "nom-folder": "Economie",
-  "nom-francais": [
-    "&#201;conomie"
-  ],
-  "nom-italien": [
-    "ecomnomia"
-  ],
-  "nom-machine": "terme-2015-12-06-16-24-54-86966225669",
-  "parent": "Aucun",
-  "sous-type": "sujets",
-  "sujets-dialnet": [
-    "terme-2015-12-06-16-23-50-86966221807"
-  ],
-  "sujets-JournalSeek": [
-    "terme-2015-12-06-16-23-58-86966222338"
-  ],
-  "sujets-revuesOrg": [
-    "terme-2016-07-07-14-05-32-88074883941"
-  ],
-  "sujets-sage": [
-    "terme-2015-12-06-16-24-21-86966223682"
-  ],
-  "synonyme": [
-    "&#201;conomie",
-    "&#201;conomie",
-    "Economa",
-    "Economie",
-    "Economy"
-  ],
-  "type": "taxonomies",
-  "_id": "terme-2015-12-06-16-24-54-86966225669"
+"_id": "terme-2015-12-06-16-24-54-86966225669",
+"ajouter-aux-favoris": false,
+"breadcrumb": "taxonomies/sujets/Economie/",
+"description": "Description de &#201;conomie",
+"enfants": ["terme-2015-12-06-16-24-54-86966225673","terme-2015-12-06-16-24-54-86966225675","terme-2015-12-06-16-24-54-86966225678","terme-2015-12-06-16-24-54-86966225681","terme-2015-12-06-16-24-54-86966225684","terme-2015-12-06-16-24-54-86966225687","terme-2015-12-06-16-24-54-86966225690","terme-2015-12-06-16-24-54-86966225692","terme-2015-12-06-16-24-54-86966225695","terme-2015-12-06-16-24-54-86966225698","terme-2015-12-06-16-24-55-86966225701","terme-2015-12-06-16-24-55-86966225703","terme-2015-12-06-16-24-55-86966225706","terme-2015-12-06-16-24-55-86966225709","terme-2015-12-06-16-24-55-86966225712","terme-2015-12-06-16-24-55-86966225715","terme-2015-12-06-16-24-55-86966225718","terme-2015-12-06-16-24-55-86966225720","terme-2015-12-06-16-24-56-86966225777","terme-2015-12-06-16-24-56-86966225779","terme-2015-12-06-16-24-56-86966225782","terme-2015-12-06-16-24-56-86966225785","terme-2016-04-04-05-35-54-87585753251"],
+"fiche-a-completer": true,
+"fiche-defectueuse": false,
+"fiche-publiee": true,
+"identifiant-drupal": 1254,
+"identifiant-drupal-parent": 350,
+"mise-a-jour": "2016-07-09-17-40-41",
+"moment-de-creation": "2016-07-09-17-40-41",
+"moment-de-modification": "2016-07-09-17-41-21",
+"nom": "&#201;conomie",
+"nom-anglais": ["Economy"],
+"nom-arabe": ["&#1575;&#1604;&#1575;&#1602;&#1578;&#1589;&#1575;&#1583;"],
+"nom-espagnol": ["Econom&#237;a"],
+"nom-folder": "Economie",
+"nom-francais": ["&#201;conomie"],
+"nom-italien": ["Economia"],
+"nom-machine": "terme-2015-12-06-16-24-54-86966225669",
+"sous-type": "sujets",
+"sujets-dialnet": ["terme-2015-12-06-16-23-50-86966221807"],
+"sujets-JournalSeek": ["terme-2015-12-06-16-23-58-86966222338"],
+"sujets-revuesOrg": ["terme-2016-07-07-14-05-32-88074883941"],
+"sujets-sage": ["terme-2015-12-06-16-24-21-86966223682"],
+"type": "taxonomies"
 }

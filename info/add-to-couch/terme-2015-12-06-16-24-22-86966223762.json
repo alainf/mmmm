@@ -1,41 +1,25 @@
 {
-  "ajouter-aux-favoris": false,
-  "breadcrumb": "taxonomies/sujets/Agriculture/",
-  "description": "Agriculture",
-  "fiche-a-completer": true,
-  "fiche-defectueuse": false,
-  "fiche-publiee": false,
-  "identifiant-drupal": 348,
-  "identifiant-drupal-parent": [
-    "350"
-  ],
-  "mise-a-jour": "2016-05-12-01-36-44",
-  "moment-de-creation": "2016-05-12-01-36-44",
-  "moment-de-modification": "2016-05-12-02-16-36",
-  "niveau": 1,
-  "nom": "Agriculture",
-  "nom-anglais": [
-    "Agriculture"
-  ],
-  "nom-arabe": [
-    "&#1586;&#1585;&#1575;&#1593;&#1577;"
-  ],
-  "nom-espagnol": [
-    "Agricultura"
-  ],
-  "nom-folder": "Agriculture",
-  "nom-francais": [
-    "Agriculture"
-  ],
-  "nom-italien": [
-    "agricoltura"
-  ],
-  "nom-machine": [
-    "terme-2015-12-06-16-24-22-86966223762"
-  ],
-  "parent": "Aucun",
-  "sous-type": "sujets",
-  "synonyme": "Agricultura<br>Agriculture",
-  "type": "taxonomies",
-  "_id": "terme-2015-12-06-16-24-22-86966223762"
+"_id": "terme-2015-12-06-16-24-22-86966223762",
+"ajouter-aux-favoris": false,
+"breadcrumb": "taxonomies/sujets/Agriculture/",
+"description": "Description de Agriculture",
+"enfants": ["terme-2015-12-06-16-24-22-86966223768","terme-2015-12-06-16-24-22-86966223771","terme-2015-12-06-16-24-24-86966223896","terme-2015-12-06-16-24-24-86966223899","terme-2015-12-06-16-24-26-86966223996","terme-2015-12-06-16-24-28-86966224109","terme-2015-12-06-16-24-28-86966224112","terme-2015-12-06-16-24-28-86966224115","terme-2015-12-06-16-24-29-86966224152","terme-2015-12-06-16-24-29-86966224163","terme-2015-12-06-16-24-30-86966224225","terme-2015-12-06-16-24-30-86966224228","terme-2015-12-06-16-24-30-86966224231"],
+"fiche-a-completer": true,
+"fiche-defectueuse": false,
+"fiche-publiee": true,
+"identifiant-drupal": 348,
+"identifiant-drupal-parent": 350,
+"mise-a-jour": "2016-05-12-01-36-44",
+"moment-de-creation": "2016-05-12-01-36-44",
+"moment-de-modification": "2016-05-12-02-16-36",
+"nom": "Agriculture",
+"nom-anglais": ["Agriculture"],
+"nom-arabe": ["&#1586;&#1585;&#1575;&#1593;&#1577;"],
+"nom-espagnol": ["Agricultura"],
+"nom-folder": "Agriculture",
+"nom-francais": ["Agriculture"],
+"nom-italien": ["agricoltura"],
+"nom-machine": ["terme-2015-12-06-16-24-22-86966223762"],
+"sous-type": "sujets",
+"type": "taxonomies"
 }
