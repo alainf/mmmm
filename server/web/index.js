@@ -40,20 +40,13 @@ exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
   const mapperDetail = (request, callback) => {
-    // console.log('DB:', dbUrl)
-    // console.log('ID:', request.params.pageId)
-    const u = dbUrl + '/' + request.params.pageId // .replace(/^test-/, '/lead-')
-    // console.log('U:', u)
+    const u = dbUrl + '/' + request.params.pageId
     callback(null, u, { accept: 'application/json' })
   }
 
   const responderDetail = (err, res, request, reply, settings, ttl) => {
     // console.log('ERR-X:', err)
     if (err) { return reply(err) } // FIXME: how to test?
-    // console.log('RES:', Object.keys(res))
-    // console.log('RES.url:', res.url)
-    // console.log('RES.statusCode:', res.statusCode)
-    // console.log('RES.statusMessage:', res.statusMessage)
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
     Wreck.read(res, { json: true }, (err, payload) => {
       // console.log('ERR-Y:', err)
@@ -63,8 +56,6 @@ exports.register = function (server, options, next) {
         const cc = _.camelCase(k)
         if (cc !== k) { o[cc] = v }
       })
-
-      // console.log('DOC:', payload)
       reply.view('detail', { doc: payload })
     })
   }
@@ -96,7 +87,6 @@ exports.register = function (server, options, next) {
   }
 
   const bla = function (request, reply) {
-    // reply('oh la la'.split(' '))
     reply.proxy({
       mapUri: mapperBla,
       onResponse: responderBla
@@ -111,7 +101,6 @@ exports.register = function (server, options, next) {
     if (err) { return reply(err) } // FIXME: how to test?
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
 
-    // console.log('BLA:', request.pre.bla)
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
 
@@ -191,10 +180,8 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    // path: '/{languageCode}/detail-ext/{pageId}',
     path: '/{languageCode}/detail/{pageId}',
     handler: {
-      // view: 'detail-ext-real'
       proxy: {
         passThrough: true,
         mapUri: mapperDetail,
@@ -202,21 +189,6 @@ exports.register = function (server, options, next) {
       }
     }
   })
-
-/*
-  server.route({
-    method: 'GET',
-    path: '/{languageCode}/detail-int/{pageId}',
-    handler: {
-      // view: 'detail-int-real'
-      proxy: {
-        passThrough: true,
-        mapUri: mapperDetail,
-        onResponse: responderDetail
-      }
-    }
-  })
-*/
 
   pages.forEach((page) => {
     server.route({
