@@ -30,7 +30,13 @@
       <dt><%- data.__('Lieux concernées') %></dt>
       <dd>
         <% data.doc.lieuConcerne.forEach(function (valeur) { %>
-           <p class="enum"><%- valeur %></p>
+           <p class="enum">
+             <% if (valeur.nom) { %>
+              <%- valeur.nom %>
+             <% } else { %>
+              <%- valeur %>
+             <% } %>
+            </p>
         <% }) %><br>
       </dd>
       <% } %>
@@ -48,14 +54,23 @@
       <dt><%- data.__('Personnes concernées') %></dt>
       <dd>
         <% data.doc.personneConcernee.forEach(function (valeur) { %>
+           <p class="enum">
+             <% if (valeur.nom) { %>
+              <%- valeur.nom %>
+             <% } else { %>
+              <%- valeur %>
+             <% } %>
+            </p>
+<!--
            <p class="enum"><%- valeur %></p>
+-->
         <% }) %><br>
       </dd>
       <% } %>
 
       <% if (data.doc.section) { %>
       <dt><%- data.__('Sections du site') %></dt>
-      <dd>        
+      <dd>
         <% data.doc.section.forEach(function (valeur) { %>
            <p class="enum"><%- valeur %></p>
            <!-- TODO: <p class="enum"><a href="data.doc.section.href">data.doc.section.text</a></p> -->

@@ -39,6 +39,35 @@ const pages = [
 exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
+
+// http://localhost:5990/machina/_all_docs?keys=[%22lieu-2015-12-06-16-10-48-86966174926%22,%22lieu-2015-12-06-16-12-48-86966182107%22]&include_docs=true
+
+  const mapperDetail666 = (request, callback) => {
+    const t1 = request.pre.thing1['lieu-concerne'] || []
+    // console.log('PRES.thing1:', t1)
+    // const u = dbUrl + '/' + request.params.pageId
+    const u = dbUrl + '/' + '_all_docs?keys=' + JSON.stringify(t1) + '&include_docs=true'
+    callback(null, u, { accept: 'application/json' })
+  }
+
+  const responderDetail666 = (err, res, request, reply, settings, ttl) => {
+    // console.log('ERR-X:', err)
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      // console.log('ERR-Y:', err)
+      if (err) { return reply(err) } // FIXME: how to test?
+      _.forEach(payload, (v, k, o) => {
+        if (k[0] === '_') { return }
+        const cc = _.camelCase(k)
+        if (cc !== k) { o[cc] = v }
+      })
+      // reply.view('detail', { doc: payload })
+      reply(payload.rows.map((d) => d.doc))
+      // reply({ doc: payload })
+    })
+  }
+
   const mapperDetail = (request, callback) => {
     const u = dbUrl + '/' + request.params.pageId
     callback(null, u, { accept: 'application/json' })
@@ -56,7 +85,9 @@ exports.register = function (server, options, next) {
         const cc = _.camelCase(k)
         if (cc !== k) { o[cc] = v }
       })
-      reply.view('detail', { doc: payload })
+      // reply.view('detail', { doc: payload })
+      reply(payload)
+      // reply({ doc: payload })
     })
   }
 
@@ -178,15 +209,77 @@ exports.register = function (server, options, next) {
     isCached: options.templateCached
   })
 
+  const thing1 = function (request, reply) {
+    reply.proxy({
+      passThrough: true,
+      mapUri: mapperDetail,
+      onResponse: responderDetail
+    })
+  }
+
+  const thing2 = function (request, reply) {
+    // console.log('PRES:', request.pre.thing1['lieu-concerne'])
+    reply.proxy({
+      passThrough: true,
+      mapUri: mapperDetail666,
+      // onResponse: responderDetail
+      onResponse: responderDetail666
+    })
+  }
+
   server.route({
     method: 'GET',
     path: '/{languageCode}/detail/{pageId}',
-    handler: {
-      proxy: {
-        passThrough: true,
-        mapUri: mapperDetail,
-        onResponse: responderDetail
+    config: {
+      pre: [
+        {
+          method: thing1,
+          assign: 'thing1'
+        },
+        {
+          method: thing2,
+          assign: 'thing2'
+        }
+      ],
+      handler: function (request, reply) {
+        // console.log('THING1:', request.pre.thing1)
+        // console.log('THING2:', JSON.stringify(request.pre.thing2, null, ' '))
+        if (request.pre.thing2 && request.pre.thing2.length) {
+          request.pre.thing1.lieuConcerne = request.pre.thing2
+        }
+
+/*
+        if (request.pre.thing2.lieuConcerne && request.pre.thing2.lieuConcerne.length) {
+          request.pre.thing1.lieuConcerne = request.pre.thing2.lieuConcerne
+        }
+
+        if (request.pre.thing2.personneConcernee && request.pre.thing2.personneConcernee.length) {
+          request.pre.thing1.personneConcernee = request.pre.thing2.personneConcernee
+        }
+*/
+        reply.view('detail', { doc: request.pre.thing1 })
       }
+
+      /*
+      handler: {
+        view: 'detail'
+      }
+      */
+      /*
+      handler: function (request, reply) {
+        console.log('THING1:', request.pre.thing1)
+        reply(request.pre.thing1)
+      }
+      */
+      /*
+      handler: {
+        proxy: {
+          passThrough: true,
+          mapUri: mapperDetail,
+          onResponse: responderDetail
+        }
+      }
+      */
     }
   })
 
