@@ -69,27 +69,11 @@ exports.register = function (server, options, next) {
         const cc = _.camelCase(k)
         if (cc !== k) { o[cc] = v }
       })
-      // reply.view('detail', { doc: payload })
-      // console.log('ROWS:', payload.rows)
-      //RYM
-      const z = _.groupBy(payload.rows, (row) => _.camelCase(row.key[1]))
-      // console.log('ROWS Grouped:', z)
 
-/*
-      const z2 = _.map(z, (v) => {
-        return v.doc
-      })
-*/
-      // const z2 = {}
+      const z = _.groupBy(payload.rows, (row) => _.camelCase(row.key[1]))
       let r
       for (r in z) { z[r] = z[r].map((d) => d.doc) }
-
-      // console.log('ROWS GroupedMapped:', z)
-
       reply(z)
-
-      // reply(payload.rows.map((d) => d.doc))
-      // reply({ doc: payload })
     })
   }
 
@@ -267,46 +251,16 @@ exports.register = function (server, options, next) {
         }
       ],
       handler: function (request, reply) {
-        // console.log('THING1:', request.pre.thing1)
-        // console.log('THING2:', JSON.stringify(request.pre.thing2, null, ' '))
-
-/*
-        if (request.pre.thing2 && request.pre.thing2.length) {
-          request.pre.thing1.lieuConcerne = request.pre.thing2
-        }
-*/
-
-        if (request.pre.thing2.lieuConcerne && request.pre.thing2.lieuConcerne.length) {
-          request.pre.thing1.lieuConcerne = request.pre.thing2.lieuConcerne
-        }
-
-        if (request.pre.thing2.personneConcernee && request.pre.thing2.personneConcernee.length) {
-          request.pre.thing1.personneConcernee = request.pre.thing2.personneConcernee
+        let r
+        for (r in request.pre.thing2) {
+          request.pre.thing2[r] = request.pre.thing2[r].filter((x) => x)
+          if (request.pre.thing2[r].length) {
+            request.pre.thing1[r] = request.pre.thing2[r]
+          }
         }
 
         reply.view('detail', { doc: request.pre.thing1 })
       }
-
-      /*
-      handler: {
-        view: 'detail'
-      }
-      */
-      /*
-      handler: function (request, reply) {
-        console.log('THING1:', request.pre.thing1)
-        reply(request.pre.thing1)
-      }
-      */
-      /*
-      handler: {
-        proxy: {
-          passThrough: true,
-          mapUri: mapperDetail,
-          onResponse: responderDetail
-        }
-      }
-      */
     }
   })
 

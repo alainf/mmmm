@@ -61,9 +61,6 @@
               <%- valeur %>
              <% } %>
             </p>
-<!--
-           <p class="enum"><%- valeur %></p>
--->
         <% }) %><br>
       </dd>
       <% } %>
@@ -72,7 +69,13 @@
       <dt><%- data.__('Sections du site') %></dt>
       <dd>
         <% data.doc.section.forEach(function (valeur) { %>
-           <p class="enum"><%- valeur %></p>
+           <p class="enum">
+             <% if (valeur.nom) { %>
+              <%- valeur.nom %>
+             <% } else { %>
+              <%- valeur %>
+             <% } %>
+            </p>
            <!-- TODO: <p class="enum"><a href="data.doc.section.href">data.doc.section.text</a></p> -->
         <% }) %><br>
       </dd>
@@ -85,7 +88,13 @@
       </dt>
       <dd>
         <% data.doc.sujet.forEach(function (valeur) { %>
-           <p class="enum"><%- valeur %></p>
+           <p class="enum">
+             <% if (valeur.nom) { %>
+              <%- valeur.nom %>
+             <% } else { %>
+              <%- valeur %>
+             <% } %>
+            </p>
            <!-- TODO: <p class="enum"><a href="data.doc.sujet.href">data.doc.sujet.text</a></p> -->
         <% }) %><br>
       </dd>
@@ -139,7 +148,13 @@
       </dt>
       <dd>
         <% data.doc.voirAussi.forEach(function (valeur) { %>
-           <p class="enum"><%- valeur %></p>
+           <p class="enum">
+             <% if (valeur.nom) { %>
+              <%- valeur.nom %>
+             <% } else { %>
+              <%- valeur %>
+             <% } %>
+            </p>
            <!-- TODO: <p class="enum"><a href="data.doc.voirAussi.href">data.doc.voirAussi.text</a></p> -->
         <% }) %>
       </dd>

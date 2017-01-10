@@ -3,16 +3,13 @@
 
 module.exports = {
   map: function (doc) {
-    if (doc['lieu-concerne']) {
-      doc['lieu-concerne'].forEach(function (lieu) {
-        emit([doc._id, 'lieu-concerne'], { _id: lieu })
+    ['lieu-concerne', 'personne-concernee', 'voir-aussi', 'sujet', 'section']
+      .forEach(function (s) {
+        if (doc[s]) {
+          doc[s].forEach(function (docId) {
+            emit([doc._id, s], { _id: docId })
+          })
+        }
       })
-    }
-
-    if (doc['personne-concernee']) {
-      doc['personne-concernee'].forEach(function (lieu) {
-        emit([doc._id, 'personne-concernee'], { _id: lieu })
-      })
-    }
   }
 }
