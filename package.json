@@ -43,6 +43,7 @@
     "hapijs-status-monitor": "^0.5.0",
     "hoek": "^4.1.0",
     "inert": "^4.1.0",
+    "joi": "^10.1.0",
     "lodash": "^4.17.4",
     "lodash-vision": "^0.1.0",
     "lout": "^9.2.0",
