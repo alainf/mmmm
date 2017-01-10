@@ -39,18 +39,7 @@ const pages = [
 exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
-
-// http://localhost:5990/machina/_all_docs?keys=[%22lieu-2015-12-06-16-10-48-86966174926%22,%22lieu-2015-12-06-16-12-48-86966182107%22]&include_docs=true
-
   const mapperDetail666 = (request, callback) => {
-    // const t1 = request.pre.thing1['lieu-concerne'] || []
-    // console.log('PRES.thing1:', t1)
-    // const u = dbUrl + '/' + request.params.pageId
-    // const u = dbUrl + '/' + '_all_docs?keys=' + JSON.stringify(t1) + '&include_docs=true'
-
-// http://localhost:5990/machina/_design/tests/_view/subs?include_docs=true&startkey=%22lead-2016-12-01-18-00-01-random%22&endkey=%22lead-2016-12-01-18-00-01-random\ufff0%22
-// /_design/tests/_view/subs
-
     const sk = [request.params.pageId]
     const ek = [request.params.pageId, {}]
     const u = dbUrl + '/_design/app/_view/subs?startkey=' + JSON.stringify(sk) + '&endkey=' + JSON.stringify(ek) + '&include_docs=true&reduce=false'
