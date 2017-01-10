@@ -53,7 +53,7 @@ exports.register = function (server, options, next) {
 
     const sk = [request.params.pageId]
     const ek = [request.params.pageId, {}]
-    const u = dbUrl + '/_design/app/_view/subs?startkey=' + JSON.stringify(sk) + '&endkey=' + JSON.stringify(ek) + '&include_docs=true'
+    const u = dbUrl + '/_design/app/_view/subs?startkey=' + JSON.stringify(sk) + '&endkey=' + JSON.stringify(ek) + '&include_docs=true&reduce=false'
     callback(null, u, { accept: 'application/json' })
   }
 
