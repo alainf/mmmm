@@ -43,10 +43,17 @@ exports.register = function (server, options, next) {
 // http://localhost:5990/machina/_all_docs?keys=[%22lieu-2015-12-06-16-10-48-86966174926%22,%22lieu-2015-12-06-16-12-48-86966182107%22]&include_docs=true
 
   const mapperDetail666 = (request, callback) => {
-    const t1 = request.pre.thing1['lieu-concerne'] || []
+    // const t1 = request.pre.thing1['lieu-concerne'] || []
     // console.log('PRES.thing1:', t1)
     // const u = dbUrl + '/' + request.params.pageId
-    const u = dbUrl + '/' + '_all_docs?keys=' + JSON.stringify(t1) + '&include_docs=true'
+    // const u = dbUrl + '/' + '_all_docs?keys=' + JSON.stringify(t1) + '&include_docs=true'
+
+// http://localhost:5990/machina/_design/tests/_view/subs?include_docs=true&startkey=%22lead-2016-12-01-18-00-01-random%22&endkey=%22lead-2016-12-01-18-00-01-random\ufff0%22
+// /_design/tests/_view/subs
+
+    const sk = [request.params.pageId]
+    const ek = [request.params.pageId, {}]
+    const u = dbUrl + '/_design/app/_view/subs?startkey=' + JSON.stringify(sk) + '&endkey=' + JSON.stringify(ek) + '&include_docs=true'
     callback(null, u, { accept: 'application/json' })
   }
 
@@ -63,7 +70,25 @@ exports.register = function (server, options, next) {
         if (cc !== k) { o[cc] = v }
       })
       // reply.view('detail', { doc: payload })
-      reply(payload.rows.map((d) => d.doc))
+      // console.log('ROWS:', payload.rows)
+      //RYM
+      const z = _.groupBy(payload.rows, (row) => _.camelCase(row.key[1]))
+      // console.log('ROWS Grouped:', z)
+
+/*
+      const z2 = _.map(z, (v) => {
+        return v.doc
+      })
+*/
+      // const z2 = {}
+      let r
+      for (r in z) { z[r] = z[r].map((d) => d.doc) }
+
+      // console.log('ROWS GroupedMapped:', z)
+
+      reply(z)
+
+      // reply(payload.rows.map((d) => d.doc))
       // reply({ doc: payload })
     })
   }
@@ -244,11 +269,13 @@ exports.register = function (server, options, next) {
       handler: function (request, reply) {
         // console.log('THING1:', request.pre.thing1)
         // console.log('THING2:', JSON.stringify(request.pre.thing2, null, ' '))
+
+/*
         if (request.pre.thing2 && request.pre.thing2.length) {
           request.pre.thing1.lieuConcerne = request.pre.thing2
         }
+*/
 
-/*
         if (request.pre.thing2.lieuConcerne && request.pre.thing2.lieuConcerne.length) {
           request.pre.thing1.lieuConcerne = request.pre.thing2.lieuConcerne
         }
@@ -256,7 +283,7 @@ exports.register = function (server, options, next) {
         if (request.pre.thing2.personneConcernee && request.pre.thing2.personneConcernee.length) {
           request.pre.thing1.personneConcernee = request.pre.thing2.personneConcernee
         }
-*/
+
         reply.view('detail', { doc: request.pre.thing1 })
       }
 
