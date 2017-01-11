@@ -1,0 +1,22 @@
+{
+"_id": "lieu-2015-12-06-16-16-35-86966195724",
+"ajouter-aux-favoris": false,
+"breadcrumb": "lieux/pays/France/",
+"fiche-a-completer": true,
+"fiche-publiee": true,
+"identifiant-drupal": 365361,
+"mise-a-jour": "2016-02-04-16-40-08",
+"moment-de-creation": "2015-12-06-16-16-35",
+"moment-de-modification": "2016-02-04-16-40-08",
+"nom": "France",
+"nom-anglais": ["France"],
+"nom-arabe": ["&#1601;&#1585;&#1606;&#1587;&#1575;"],
+"nom-espagnol": ["Francia"],
+"nom-folder": "France",
+"nom-francais": ["France"],
+"nom-italien": ["Francia"],
+"nom-machine": "lieu-2015-12-06-16-16-35-86966195724",
+"nom-russe": ["&#1060;&#1088;&#1072;&#1085;&#1094;&#1080;&#1103;"],
+"sous-type": "pays",
+"type": "lieux"
+}

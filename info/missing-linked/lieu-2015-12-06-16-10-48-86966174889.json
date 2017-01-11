@@ -1,0 +1,23 @@
+{
+"_id": "lieu-2015-12-06-16-10-48-86966174889",
+"ajouter-aux-favoris": false,
+"breadcrumb": "lieux/monde/Afrique/",
+"description": "Afrique",
+"fiche-a-completer": true,
+"fiche-publiee": true,
+"identifiant-drupal": 362051,
+"mise-a-jour": "2015-01-04-02-26-19",
+"moment-de-creation": "2015-12-06-16-10-48",
+"moment-de-modification": "2015-01-04-02-26-19",
+"nom": "Afrique",
+"nom-anglais": ["Africa"],
+"nom-arabe": ["&#1571;&#1601;&#1585;&#1610;&#1602;&#1610;&#1575;"],
+"nom-espagnol": ["&#193;frica"],
+"nom-folder": "Afrique",
+"nom-francais": ["Afrique"],
+"nom-italien": ["Africa"],
+"nom-machine": "lieu-2015-12-06-16-10-48-86966174889",
+"nom-russe": ["&#1040;&#1092;&#1088;&#1080;&#1082;&#1072;"],
+"sous-type": "monde",
+"type": "lieux"
+}
