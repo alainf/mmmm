@@ -5,75 +5,81 @@
   <dl>
 
       <% if (data.doc.nom) { %>
-		<dt><%- data.__('Titre') %></dt>
+            <dt><%- data.__('Titre') %></dt>
       <dd><p><%- data.doc.nom %></p></dd>
-		<% } %>
+            <% } %>
 
       <% if (data.doc.auteur) { %>
       <dt><%- data.__('Auteurs') %></dt>
       <dd>
-		  <% data.doc.auteur.forEach(function (valeur) { %>
+              <% data.doc.auteur.forEach(function (valeur) { %>
            <p class="enum"><%- valeur %></p>
         <% }) %><br>
-		</dd>
-		<% } %>
+            </dd>
+            <% } %>
 
       <% if (data.doc.coauteur) { %>
       <dt><%- data.__('Contributeurs') %></dt>
       <dd>
-		  <% data.doc.coauteur.forEach(function (valeur) { %>
+              <% data.doc.coauteur.forEach(function (valeur) { %>
            <p class="enum"><%- valeur %></p>
         <% }) %><br>
-		</dd>
-		<% } %>
+            </dd>
+            <% } %>
 
       <% if (data.doc.provenance) { %>
       <dt><%- data.__('Provenance') %></dt>
       <dd><p><a href="<%- data.doc.provenance %>"><%- data.doc.provenance %></a></p></dd>
-		<% } %>
+            <% } %>
 
       <% if (data.doc.editeur) { %>
       <dt><%- data.__('Éditeur') %></dt>
       <dd><p><%- data.doc.editeur %></p></dd>
-		<% } %>
+            <% } %>
 
       <% if (data.doc.dateEdition) { %>
       <dt><%- data.__("Date d'édition") %></dt>
       <dd><p><%- data.doc.dateEdition %></p></dd>
-	   <% } %>
+         <% } %>
 
       <% if (data.doc.langueEdition) { %>
       <dt><%- data.__("Langue d'édition") %></dt>
       <dd>
-		  <% data.doc.langueEdition.forEach(function (valeur) { %>
+              <% data.doc.langueEdition.forEach(function (valeur) { %>
            <p class="enum"><%- valeur %></p>
         <% }) %><br>
-		</dd>
-		<% } %>
+            </dd>
+            <% } %>
 
       <% if (data.doc.lieuEdition) { %>
       <dt><%- data.__("Lieux d'édition") %></dt>
       <dd>
-		  <% data.doc.lieuEdition.forEach(function (valeur) { %>
-           <p class="enum"><%- valeur %></p>
+              <% data.doc.lieuEdition.forEach(function (valeur) { %>
+                 <p class="enum">
+                   <% if (valeur.nom) { %>
+                    <%- valeur.nom %>
+                   <% } else { %>
+                    <%- valeur %>
+                   <% } %>
+                  </p>
         <% }) %><br>
-		</dd>
-		<% } %>
+            </dd>
+            <% } %>
 
       <% if (data.doc.encodage) { %>
       <dt><%- data.__('Encodage') %></dt>
       <dd><p><%- data.doc.encodage %></p></dd>
-		<% } %>
+            <% } %>
 
       <% if (data.doc.format) { %>
       <dt><%- data.__('Format') %></dt>
       <dd><p><%- data.doc.format %></p></dd>
-		<% } %>
+            <% } %>
 
       <% if (data.doc.identifiantIsbn) { %>
       <dt><%- data.__('Identifiant ISBN') %></dt>
       <dd><p><%- data.doc.identifiantIsbn %></p></dd>
-		<% } %>
+            <% } %>
 
       <% if (data.doc.identifiantIssn) { %>
       <dt><%- data.__('Identifiant ISSN') %></dt>
@@ -133,7 +139,7 @@
       <% if (data.doc.typeDeRessource) { %>
       <dt><%- data.__('Types de ressource') %></dt>
       <dd>
-		  <% data.doc.typeDeRessource.forEach(function (valeur) { %>
+              <% data.doc.typeDeRessource.forEach(function (valeur) { %>
            <p class="enum"><%- valeur %></p>
         <% }) %><br>
       </dd>
@@ -142,7 +148,7 @@
       <% if (data.doc.typeDeContenu) { %>
       <dt><%- data.__('Types de contenu') %></dt>
       <dd>
-		  <% data.doc.typeDeContenu.forEach(function (valeur) { %>
+              <% data.doc.typeDeContenu.forEach(function (valeur) { %>
            <p class="enum"><%- valeur %></p>
         <% }) %><br>
       </dd>
