@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233545",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Travail/",
+  "description": "Description de Travail",
+  "enfants": [
+    "terme-2015-12-06-16-27-05-86966233548"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1262,
+  "identifiant-drupal-parent": 1193,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Travail",
+  "nom-anglais": [
+    "Work"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1593;&#1605;&#1604;"
+  ],
+  "nom-espagnol": [
+    "Trabajo"
+  ],
+  "nom-folder": "Travail",
+  "nom-francais": [
+    "Travail"
+  ],
+  "nom-italien": [
+    "lavoro"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-27-05-86966233545"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

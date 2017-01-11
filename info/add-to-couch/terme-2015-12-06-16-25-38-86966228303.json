@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228303",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Choix-d'investissements/",
+  "description": "Description de Choix d'investissements",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2021,
+  "identifiant-drupal-parent": 2017,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Choix d'investissements",
+  "nom-anglais": [
+    "Investment choices"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1582;&#1610;&#1575;&#1585;&#1575;&#1578; &#1575;&#1604;&#1575;&#1587;&#1578;&#1579;&#1605;&#1575;&#1585;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Opciones de inversi&#243;n"
+  ],
+  "nom-folder": "Choix-d'investissements",
+  "nom-francais": [
+    "Choix d'investissements"
+  ],
+  "nom-italien": [
+    "Scelte d&#8217;investimento"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-38-86966228303"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

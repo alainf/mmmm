@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-04-86966229850",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Controle-et-regulation/",
+  "description": "Description de Contr&#244;le et r&#233;gulation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272244,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Contr&#244;le et r&#233;gulation",
+  "nom-anglais": [
+    "Control and regulation"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1585;&#1575;&#1602;&#1576;&#1577; &#1608; &#1578;&#1606;&#1592;&#1610;&#1605;"
+  ],
+  "nom-espagnol": [
+    "Control y regulaci&#243;n"
+  ],
+  "nom-folder": "Controle-et-regulation",
+  "nom-francais": [
+    "Contr&#244;le et r&#233;gulation"
+  ],
+  "nom-italien": [
+    "Controllo e regolazione"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-04-86966229850"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

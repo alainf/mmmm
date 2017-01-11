@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-26-86966227617",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Gestion-de-la-securite-et-de-la-sante-au-travail/",
+  "description": "Description de Gestion de la s&#233;curit&#233; et de la sant&#233; au travail",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1844,
+  "identifiant-drupal-parent": 1837,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-26",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion de la s&#233;curit&#233; et de la sant&#233; au travail",
+  "nom-anglais": [
+    "Occupational safety and health management"
+  ],
+  "nom-arabe": [
+    "&#1573;&#1583;&#1575;&#1585;&#1577; &#1575;&#1604;&#1589;&#1581;&#1577; &#1608; &#1575;&#1604;&#1575;&#1605;&#1606; &#1601;&#1609; &#1575;&#1604;&#1593;&#1605;&#1604;"
+  ],
+  "nom-espagnol": [
+    "Gesti&#243;n de la seguridad y salud en el trabajo"
+  ],
+  "nom-folder": "Gestion-de-la-securite-et-de-la-sante-au-travail",
+  "nom-francais": [
+    "Gestion de la s&#233;curit&#233; et de la sant&#233; au travail"
+  ],
+  "nom-italien": [
+    "Gestione della salute e sicurezza sul lavoro"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-26-86966227617"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

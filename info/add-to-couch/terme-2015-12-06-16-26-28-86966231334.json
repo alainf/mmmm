@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-26-28-86966231334",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Sante-et-bien-etre/",
+  "description": "Description de Sant&#233; et bien-&#234;tre",
+  "enfants": [
+    "terme-2015-12-06-16-26-28-86966231339",
+    "terme-2015-12-06-16-26-29-86966231341",
+    "terme-2015-12-06-16-26-29-86966231344",
+    "terme-2015-12-06-16-26-29-86966231347",
+    "terme-2015-12-06-16-26-29-86966231350",
+    "terme-2015-12-06-16-26-29-86966231354"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471910,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-28",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Sant&#233; et bien-&#234;tre",
+  "nom-anglais": [
+    "Health and welfare"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1589;&#1581;&#1577; &#1608;&#1575;&#1604;&#1593;&#1575;&#1601;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Salud y bienestar"
+  ],
+  "nom-folder": "Sante-et-bien-etre",
+  "nom-francais": [
+    "Sant&#233; et bien-&#234;tre"
+  ],
+  "nom-italien": [
+    "Salute e benessere"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-28-86966231334"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

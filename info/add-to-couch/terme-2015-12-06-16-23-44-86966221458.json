@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221458",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Recherches/Recherche-par-auteur/",
+  "description": "Description de Recherche par auteur",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1767,
+  "identifiant-drupal-parent": 1678,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Recherche par auteur",
+  "nom-anglais": [
+    "Browse by author"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1576;&#1581;&#1579; &#1576;&#1575;&#1604;&#1605;&#1572;&#1604;&#1601;"
+  ],
+  "nom-espagnol": [
+    "B&#250;squeda por autor"
+  ],
+  "nom-folder": "Recherche-par-auteur",
+  "nom-francais": [
+    "Recherche par auteur"
+  ],
+  "nom-italien": [
+    "Ricerca per autore"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221458"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

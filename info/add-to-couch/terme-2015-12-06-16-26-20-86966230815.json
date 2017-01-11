@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230815",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Chimie-physique/",
+  "description": "Description de Chimie physique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270437,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Chimie physique",
+  "nom-anglais": [
+    "Physical chemistry"
+  ],
+  "nom-arabe": [
+    "&#1603;&#1610;&#1605;&#1610;&#1575;&#1569; &#1601;&#1610;&#1586;&#1610;&#1575;&#1574;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Fisicoqu&#237;mica"
+  ],
+  "nom-folder": "Chimie-physique",
+  "nom-francais": [
+    "Chimie physique"
+  ],
+  "nom-italien": [
+    "Chimica fisica"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-20-86966230815"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

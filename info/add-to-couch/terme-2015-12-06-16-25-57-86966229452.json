@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-57-86966229452",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theorie-de-l'agence/",
+  "description": "Description de Th&#233;orie de l'agence",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2278,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-57",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Th&#233;orie de l'agence",
+  "nom-anglais": [
+    "Agency theory"
+  ],
+  "nom-arabe": [
+    "&#1606;&#1592;&#1585;&#1610;&#1577; &#1575;&#1604;&#1608;&#1603;&#1575;&#1604;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Problema del agente-principal"
+  ],
+  "nom-folder": "Theorie-de-l'agence",
+  "nom-francais": [
+    "Th&#233;orie de l'agence"
+  ],
+  "nom-italien": [
+    "Teoria dell'agenzia"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-57-86966229452"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

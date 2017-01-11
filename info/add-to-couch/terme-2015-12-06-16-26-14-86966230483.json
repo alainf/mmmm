@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-14-86966230483",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Croissance-economique/",
+  "description": "Description de Croissance &#233;conomique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 470001,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-14",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Croissance &#233;conomique",
+  "nom-anglais": [
+    "Economic growth"
+  ],
+  "nom-arabe": [
+    "&#1606;&#1605;&#1608; &#1573;&#1602;&#1578;&#1589;&#1575;&#1583;&#1610;"
+  ],
+  "nom-espagnol": [
+    "Crecimiento econ&#243;mico"
+  ],
+  "nom-folder": "Croissance-economique",
+  "nom-francais": [
+    "Croissance &#233;conomique"
+  ],
+  "nom-italien": [
+    "Crescita economica"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-14-86966230483"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

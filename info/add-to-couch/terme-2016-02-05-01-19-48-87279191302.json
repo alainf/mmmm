@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-05-01-19-48-87279191302",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Par-quoi-commencer/",
+  "description": "Description de Par quoi commencer",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-19-48",
+  "moment-de-modification": "2016-02-05-01-21-29",
+  "nom": "Par quoi commencer",
+  "nom-anglais": [
+    "What to start with"
+  ],
+  "nom-espagnol": [
+    "por qu&#233; empezar"
+  ],
+  "nom-folder": "Par-quoi-commencer",
+  "nom-francais": [
+    "Par quoi commencer"
+  ],
+  "nom-italien": [
+    "Da dove cominciare"
+  ],
+  "nom-machine": "terme-2016-02-05-01-19-48-87279191302",
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

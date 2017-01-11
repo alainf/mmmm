@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221148",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Journaux/Nouvelles-nationales/Politique-nationale/",
+  "description": "Description de Politique nationale",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270669,
+  "identifiant-drupal-parent": 1745,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Politique nationale",
+  "nom-anglais": [
+    "National politics"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1587;&#1610;&#1575;&#1587;&#1577; &#1575;&#1604;&#1608;&#1591;&#1606;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Pol&#237;tica nacional"
+  ],
+  "nom-folder": "Politique-nationale",
+  "nom-francais": [
+    "Politique nationale"
+  ],
+  "nom-italien": [
+    "Politica nazionale"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221148"
+  ],
+  "nom-russe": [
+    "&#1053;&#1072;&#1094;&#1080;&#1086;&#1085;&#1072;&#1083;&#1100;&#1085;&#1072;&#1103; &#1087;&#1086;&#1083;&#1080;&#1090;&#1080;&#1082;&#1072;"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230641",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Theories-en-sciences-economiques/Regulation/",
+  "description": "Description de R&#233;gulation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451334,
+  "identifiant-drupal-parent": 1485,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "R&#233;gulation",
+  "nom-anglais": [
+    "Regulation"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1578;&#1606;&#1592;&#1610;&#1605; &#1575;&#1604;&#1575;&#1602;&#1578;&#1589;&#1575;&#1583;&#1610;"
+  ],
+  "nom-espagnol": [
+    "Regulaci&#243;n econ&#243;mica"
+  ],
+  "nom-folder": "Regulation",
+  "nom-francais": [
+    "R&#233;gulation"
+  ],
+  "nom-italien": [
+    "Regolazione"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230641"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

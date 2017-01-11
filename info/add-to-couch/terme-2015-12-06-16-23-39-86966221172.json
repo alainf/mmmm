@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221172",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/La-science/Environnement, ecologie, developpement durable/",
+  "description": "Description de Environnement, &#233;cologie, d&#233;veloppement durable",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270703,
+  "identifiant-drupal-parent": 270702,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Environnement, &#233;cologie, d&#233;veloppement durable",
+  "nom-anglais": [
+    "Environment, ecology, sustainable development"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1576;&#1610;&#1574;&#1577;&#1548; &#1593;&#1604;&#1605; &#1575;&#1604;&#1576;&#1610;&#1574;&#1577;&#1548; &#1575;&#1604;&#1578;&#1606;&#1605;&#1610;&#1577; &#1575;&#1604;&#1605;&#1587;&#1578;&#1583;&#1575;&#1605;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Medio ambiente, ecolog&#237;a, desarrollo sostenible"
+  ],
+  "nom-folder": "Environnement, ecologie, developpement durable",
+  "nom-francais": [
+    "Environnement, &#233;cologie, d&#233;veloppement durable"
+  ],
+  "nom-italien": [
+    "Ambiente, ecologia, sviluppo sostenibile"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221172"
+  ],
+  "nom-russe": [
+    "&#1054;&#1082;&#1088;&#1091;&#1078;&#1072;&#1102;&#1097;&#1077;&#1081; &#1089;&#1088;&#1077;&#1076;&#1099;, &#1101;&#1082;&#1086;&#1083;&#1086;&#1075;&#1080;&#1080;, &#1091;&#1089;&#1090;&#1086;&#1081;&#1095;&#1080;&#1074;&#1086;&#1075;&#1086; &#1088;&#1072;&#1079;&#1074;&#1080;&#1090;&#1080;&#1103;"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

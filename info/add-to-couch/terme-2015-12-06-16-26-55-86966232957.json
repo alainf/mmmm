@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232957",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Economie-politique-(politique-generalites)/",
+  "description": "Description de &#201;conomie politique (politique g&#233;n&#233;ralit&#233;s)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1159,
+  "identifiant-drupal-parent": 1106,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "&#201;conomie politique (politique g&#233;n&#233;ralit&#233;s)",
+  "nom-anglais": [
+    "Political Economy"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1575;&#1602;&#1578;&#1589;&#1575;&#1583; &#1575;&#1604;&#1587;&#1610;&#1575;&#1587;&#1610; (&#1575;&#1604;&#1587;&#1610;&#1575;&#1587;&#1577; &#1575;&#1604;&#1593;&#1575;&#1605;&#1577;)"
+  ],
+  "nom-espagnol": [
+    "Econom&#237;a pol&#237;tica (pol&#237;tica)"
+  ],
+  "nom-folder": "Economie-politique-(politique-generalites)",
+  "nom-francais": [
+    "&#201;conomie politique (politique g&#233;n&#233;ralit&#233;s)"
+  ],
+  "nom-italien": [
+    "Economia politica (politica)"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-55-86966232957"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

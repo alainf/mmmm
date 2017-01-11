@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221492",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-mediatiques/Multimedia/",
+  "description": "Description de Multim&#233;dia",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270621,
+  "identifiant-drupal-parent": 270611,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Multim&#233;dia",
+  "nom-anglais": [
+    "Multimedia"
+  ],
+  "nom-arabe": [
+    "&#1608;&#1587;&#1575;&#1574;&#1591; &#1605;&#1578;&#1593;&#1583;&#1583;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Multimedia"
+  ],
+  "nom-folder": "Multimedia",
+  "nom-francais": [
+    "Multim&#233;dia"
+  ],
+  "nom-italien": [
+    "Multimediale"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221492"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

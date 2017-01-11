@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227713",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Prevision/",
+  "description": "Description de Pr&#233;vision",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472079,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Pr&#233;vision",
+  "nom-anglais": [
+    "Forecasting"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1578;&#1608;&#1602;&#1593; &#1605;&#1587;&#1576;&#1602;&#1575;"
+  ],
+  "nom-espagnol": [
+    "Previsi&#243;n"
+  ],
+  "nom-folder": "Prevision",
+  "nom-francais": [
+    "Pr&#233;vision"
+  ],
+  "nom-italien": [
+    "Previsione"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227713"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-47-86966228879",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-du-changement-(organisations)/Resistance-au-changement/",
+  "description": "Description de R&#233;sistance au changement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2139,
+  "identifiant-drupal-parent": 2128,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-47",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "R&#233;sistance au changement",
+  "nom-anglais": [
+    "Resistance to change"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1602;&#1575;&#1608;&#1605;&#1577; &#1575;&#1604;&#1578;&#1594;&#1610;&#1610;&#1585;"
+  ],
+  "nom-espagnol": [
+    "Resistencia al cambio"
+  ],
+  "nom-folder": "Resistance-au-changement",
+  "nom-francais": [
+    "R&#233;sistance au changement"
+  ],
+  "nom-italien": [
+    "Resistenza al cambiamento"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-47-86966228879"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221340",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Agenda/Agenda-scientifique/Appels-a-communication/",
+  "description": "Description de Appels &#224; communication",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270527,
+  "identifiant-drupal-parent": 1705,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Appels &#224; communication",
+  "nom-anglais": [
+    "Call for papers"
+  ],
+  "nom-arabe": [
+    "&#1583;&#1593;&#1608;&#1577; &#1604;&#1604;&#1605;&#1588;&#1575;&#1585;&#1603;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Call for papers"
+  ],
+  "nom-folder": "Appels-a-communication",
+  "nom-francais": [
+    "Appels &#224; communication"
+  ],
+  "nom-italien": [
+    "Invito di contributi"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221340"
+  ],
+  "nom-russe": [
+    "&#1087;&#1088;&#1080;&#1075;&#1083;&#1072;&#1096;&#1077;&#1085;&#1080;&#1077; &#1087;&#1088;&#1080;&#1089;&#1083;&#1072;&#1090;&#1100; &#1089;&#1090;&#1072;&#1090;&#1100;&#1102;"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

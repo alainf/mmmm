@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230543",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Economie-solidaire/",
+  "description": "Description de &#201;conomie solidaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272179,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "&#201;conomie solidaire",
+  "nom-anglais": [
+    "Social economy"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1602;&#1578;&#1589;&#1575;&#1583; &#1575;&#1604;&#1578;&#1590;&#1575;&#1605;&#1606;"
+  ],
+  "nom-espagnol": [
+    "Econom&#237;a solidaria"
+  ],
+  "nom-folder": "Economie-solidaire",
+  "nom-francais": [
+    "&#201;conomie solidaire"
+  ],
+  "nom-italien": [
+    "Economia solidale"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230543"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

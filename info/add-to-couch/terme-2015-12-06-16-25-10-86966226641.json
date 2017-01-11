@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226641",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Acquisition/",
+  "description": "Description de Acquisition",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1557,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Acquisition",
+  "nom-anglais": [
+    "Acquisition"
+  ],
+  "nom-arabe": [
+    "&#1573;&#1602;&#1618;&#1578;&#1616;&#1606;&#1575;&#1569;"
+  ],
+  "nom-espagnol": [
+    "Adquisici&#243;n"
+  ],
+  "nom-folder": "Acquisition",
+  "nom-francais": [
+    "Acquisition"
+  ],
+  "nom-italien": [
+    "Acquisizione"
+  ],
+  "nom-machine": "terme-2015-12-06-16-25-10-86966226641",
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

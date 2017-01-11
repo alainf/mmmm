@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230621",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Securite-alimentaire/",
+  "description": "Description de S&#233;curit&#233; alimentaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471886,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "S&#233;curit&#233; alimentaire",
+  "nom-anglais": [
+    "Food security"
+  ],
+  "nom-arabe": [
+    "&#1571;&#1605;&#1606; &#1594;&#1584;&#1575;&#1574;&#1610;"
+  ],
+  "nom-espagnol": [
+    "Seguridad alimentaria"
+  ],
+  "nom-folder": "Securite-alimentaire",
+  "nom-francais": [
+    "S&#233;curit&#233; alimentaire"
+  ],
+  "nom-italien": [
+    "Sicurezza alimentare"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230621"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225791",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/",
+  "description": "Description de Branches de la finance",
+  "enfants": [
+    "terme-2015-12-06-16-24-56-86966225794",
+    "terme-2015-12-06-16-24-56-86966225797",
+    "terme-2015-12-06-16-24-56-86966225800",
+    "terme-2015-12-06-16-24-56-86966225803",
+    "terme-2015-12-06-16-24-56-86966225806",
+    "terme-2015-12-06-16-24-56-86966225809",
+    "terme-2015-12-06-16-24-57-86966225831",
+    "terme-2015-12-06-16-24-57-86966225854",
+    "terme-2015-12-06-16-24-58-86966225897",
+    "terme-2015-12-06-16-24-58-86966225900",
+    "terme-2015-12-06-16-24-58-86966225903",
+    "terme-2015-12-06-16-24-58-86966225906"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271320,
+  "identifiant-drupal-parent": 877,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Branches de la finance",
+  "nom-anglais": [
+    "Branches of finance"
+  ],
+  "nom-arabe": [
+    "&#1601;&#1585;&#1608;&#1593; &#1575;&#1604;&#1605;&#1575;&#1604;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Ramas de las finanzas"
+  ],
+  "nom-folder": "Branches-de-la-finance",
+  "nom-francais": [
+    "Branches de la finance"
+  ],
+  "nom-italien": [
+    "rami della finanza"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225791"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

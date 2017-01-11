@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230926",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-vie/Biologie/",
+  "description": "Description de Biologie",
+  "enfants": [
+    "terme-2015-12-06-16-26-22-86966230929",
+    "terme-2015-12-06-16-26-22-86966230931",
+    "terme-2015-12-06-16-26-22-86966230934",
+    "terme-2015-12-06-16-26-22-86966230937"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270762,
+  "identifiant-drupal-parent": 270761,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Biologie",
+  "nom-anglais": [
+    "Biology"
+  ],
+  "nom-arabe": [
+    "&#1593;&#1604;&#1605; &#1575;&#1604;&#1571;&#1581;&#1610;&#1575;&#1569;"
+  ],
+  "nom-espagnol": [
+    "Biolog&#237;a"
+  ],
+  "nom-folder": "Biologie",
+  "nom-francais": [
+    "Biologie"
+  ],
+  "nom-italien": [
+    "biologia"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230926"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

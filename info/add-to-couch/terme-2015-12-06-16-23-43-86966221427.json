@@ -1,0 +1,56 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221427",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Recherches/",
+  "description": "Description de Recherches",
+  "enfants": [
+    "terme-2015-12-06-16-23-43-86966221430",
+    "terme-2015-12-06-16-23-43-86966221433",
+    "terme-2015-12-06-16-23-43-86966221435",
+    "terme-2015-12-06-16-23-43-86966221438",
+    "terme-2015-12-06-16-23-44-86966221441",
+    "terme-2015-12-06-16-23-44-86966221443",
+    "terme-2015-12-06-16-23-44-86966221446",
+    "terme-2015-12-06-16-23-44-86966221449",
+    "terme-2015-12-06-16-23-44-86966221452",
+    "terme-2015-12-06-16-23-44-86966221455",
+    "terme-2015-12-06-16-23-44-86966221458",
+    "terme-2015-12-06-16-23-44-86966221461",
+    "terme-2015-12-06-16-23-44-86966221464",
+    "terme-2015-12-06-16-23-44-86966221470",
+    "terme-2015-12-06-16-23-44-86966221472",
+    "terme-2015-12-06-16-23-44-86966221475"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1678,
+  "identifiant-drupal-parent": 270469,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Recherches",
+  "nom-anglais": [
+    "Research"
+  ],
+  "nom-arabe": [
+    "&#1576;&#1581;&#1579; &#1593;&#1604;&#1605;&#1610;"
+  ],
+  "nom-espagnol": [
+    "Investigaci&#243;n"
+  ],
+  "nom-folder": "Recherches",
+  "nom-francais": [
+    "Recherches"
+  ],
+  "nom-italien": [
+    "Ricerca"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221427"
+  ],
+  "nom-russe": [
+    "&#1048;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103;"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

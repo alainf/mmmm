@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227059",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Actualites-entreprises/",
+  "description": "Description de Actualit&#233;s entreprises",
+  "enfants": [
+    "terme-2015-12-06-16-25-17-86966227062"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1774,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Actualit&#233;s entreprises",
+  "nom-anglais": [
+    "Business news"
+  ],
+  "nom-arabe": [
+    "&#1571;&#1582;&#1576;&#1575;&#1585; &#1575;&#1604;&#1588;&#1617;&#1614;&#1585;&#1616;&#1603;&#1614;&#1575;&#1578; &#1575;&#1604;&#1578;&#1580;&#1575;&#1585;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Actualidad de negocios"
+  ],
+  "nom-folder": "Actualites-entreprises",
+  "nom-francais": [
+    "Actualit&#233;s entreprises"
+  ],
+  "nom-italien": [
+    "Attualit&#224; delle imprese"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227059"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

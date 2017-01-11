@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232494",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Aide/",
+  "description": "Description de Aide",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1065,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Aide",
+  "nom-anglais": [
+    "Help"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1587;&#1575;&#1593;&#1583;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Ayuda"
+  ],
+  "nom-folder": "Aide",
+  "nom-francais": [
+    "Aide"
+  ],
+  "nom-italien": [
+    "aiuto"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-48-86966232494"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

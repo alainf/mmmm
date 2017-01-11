@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-25-20-86966227239",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Audit-et-controle-de-gestion/Limites-du-controle-de-gestion/",
+  "description": "Description de Limites du contr&#244;le de gestion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1783,
+  "identifiant-drupal-parent": 1777,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-20",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Limites du contr&#244;le de gestion",
+  "nom-anglais": [
+    "Limitations of management control"
+  ],
+  "nom-arabe": [
+    "&#1602;&#1610;&#1608;&#1583; &#1575;&#1604;&#1585;&#1602;&#1575;&#1576;&#1577; &#1575;&#1604;&#1573;&#1583;&#1575;&#1585;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Limitaciones del control de gesti&#243;n"
+  ],
+  "nom-folder": "Limites-du-controle-de-gestion",
+  "nom-francais": [
+    "Limites du contr&#244;le de gestion"
+  ],
+  "nom-italien": [
+    "Limitazioni del controllo di gestione"
+  ],
+  "nom-machine": "terme-2015-12-06-16-25-20-86966227239",
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

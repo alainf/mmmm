@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-36-86966228163",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-ressources-humaines/Proactivite/",
+  "description": "Description de Proactivit&#233;",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471360,
+  "identifiant-drupal-parent": 2225,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-36",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Proactivit&#233;",
+  "nom-anglais": [
+    "Proactivity"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1587;&#1578;&#1576;&#1575;&#1602;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Proactividad"
+  ],
+  "nom-folder": "Proactivite",
+  "nom-francais": [
+    "Proactivit&#233;"
+  ],
+  "nom-italien": [
+    "Proattivit&#224;"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-36-86966228163"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

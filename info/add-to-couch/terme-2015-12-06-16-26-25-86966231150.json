@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-26-25-86966231150",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Territoire/",
+  "description": "Description de Territoire",
+  "enfants": [
+    "terme-2015-12-06-16-26-25-86966231154"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272264,
+  "identifiant-drupal-parent": 942,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-25",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Territoire",
+  "nom-anglais": [
+    "Territory"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1608;&#1602;&#1578;&#1610;&#1577; &#1575;&#1604;&#1581;&#1590;&#1585;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Territorio"
+  ],
+  "nom-folder": "Territoire",
+  "nom-francais": [
+    "Territoire"
+  ],
+  "nom-italien": [
+    "territorio"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-25-86966231150"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

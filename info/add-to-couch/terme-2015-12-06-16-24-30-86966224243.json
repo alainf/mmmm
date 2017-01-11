@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-30-86966224243",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/Elevage-et-environnement/",
+  "description": "Description de &#201;levage et environnement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269022,
+  "identifiant-drupal-parent": 269001,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-30",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "&#201;levage et environnement",
+  "nom-anglais": [
+    "Animal husbandry and the Environment"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1579;&#1585;&#1608;&#1577; &#1575;&#1604;&#1581;&#1610;&#1608;&#1575;&#1606;&#1610;&#1577; &#1608;&#1575;&#1604;&#1576;&#1610;&#1574;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Ganader&#237;a y Medio Ambiente"
+  ],
+  "nom-folder": "Elevage-et-environnement",
+  "nom-francais": [
+    "&#201;levage et environnement"
+  ],
+  "nom-italien": [
+    "Allevamento e ambiente"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-24-30-86966224243"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

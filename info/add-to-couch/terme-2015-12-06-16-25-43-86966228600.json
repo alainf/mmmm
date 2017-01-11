@@ -1,0 +1,51 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228600",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/",
+  "description": "Description de Management",
+  "enfants": [
+    "terme-2015-12-06-16-25-43-86966228604",
+    "terme-2015-12-06-16-25-43-86966228607",
+    "terme-2015-12-06-16-25-43-86966228609",
+    "terme-2015-12-06-16-25-43-86966228612",
+    "terme-2015-12-06-16-25-43-86966228618",
+    "terme-2015-12-06-16-25-43-86966228621",
+    "terme-2015-12-06-16-25-43-86966228623",
+    "terme-2015-12-06-16-25-43-86966228627",
+    "terme-2015-12-06-16-25-43-86966228636",
+    "terme-2015-12-06-16-25-43-86966228639",
+    "terme-2015-12-06-16-25-44-86966228643",
+    "terme-2015-12-06-16-25-44-86966228650",
+    "terme-2015-12-06-16-25-44-86966228653",
+    "terme-2015-12-06-16-25-44-86966228658"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2183,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Management",
+  "nom-anglais": [
+    "Management"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1573;&#1583;&#1575;&#1585;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Gesti&#243;n"
+  ],
+  "nom-folder": "Management",
+  "nom-francais": [
+    "Management"
+  ],
+  "nom-italien": [
+    "gestione"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228600"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

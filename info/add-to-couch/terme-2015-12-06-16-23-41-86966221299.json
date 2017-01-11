@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-41-86966221299",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Nouvelles-internationales/",
+  "description": "Description de Nouvelles internationales",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270739,
+  "identifiant-drupal-parent": 270470,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-41",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Nouvelles internationales",
+  "nom-anglais": [
+    "International news"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1606;&#1576;&#1575;&#1569; &#1583;&#1608;&#1604;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Noticias internacionales"
+  ],
+  "nom-folder": "Nouvelles-internationales",
+  "nom-francais": [
+    "Nouvelles internationales"
+  ],
+  "nom-italien": [
+    "Notizie internazionali"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-41-86966221299"
+  ],
+  "nom-russe": [
+    "&#1052;&#1077;&#1078;&#1076;&#1091;&#1085;&#1072;&#1088;&#1086;&#1076;&#1085;&#1099;&#1077; &#1085;&#1086;&#1074;&#1086;&#1089;&#1090;&#1080;"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

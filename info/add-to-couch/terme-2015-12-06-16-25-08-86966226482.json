@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226482",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Changement-climatique/",
+  "description": "Description de Changement climatique",
+  "enfants": [
+    "terme-2015-12-06-16-25-08-86966226485",
+    "terme-2015-12-06-16-25-08-86966226488"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270866,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Changement climatique",
+  "nom-anglais": [
+    "Climate Change"
+  ],
+  "nom-arabe": [
+    "&#1578;&#1594;&#1610;&#1585; &#1575;&#1604;&#1605;&#1606;&#1575;&#1582;"
+  ],
+  "nom-espagnol": [
+    "Cambio clim&#225;tico"
+  ],
+  "nom-folder": "Changement-climatique",
+  "nom-francais": [
+    "Changement climatique"
+  ],
+  "nom-italien": [
+    "cambiamento climatico"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226482"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

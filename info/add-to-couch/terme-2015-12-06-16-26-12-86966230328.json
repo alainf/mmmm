@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230328",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-de-la-reglementation/",
+  "description": "&#201;conomie de la r&#233;glementation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451202,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "&#201;conomie de la r&#233;gulation",
+  "nom-anglais": [
+    "Economics of regulation"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1602;&#1578;&#1589;&#1575;&#1583;&#1610;&#1575;&#1578; &#1575;&#1604;&#1578;&#1606;&#1592;&#1610;&#1605;"
+  ],
+  "nom-espagnol": [
+    "Econom&#237;a de la regulaci&#243;n"
+  ],
+  "nom-folder": "Economie-de-la-reglementation",
+  "nom-francais": [
+    "&#201;conomie de la r&#233;gulation"
+  ],
+  "nom-italien": [
+    "Economia della regolazione"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-12-86966230328"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

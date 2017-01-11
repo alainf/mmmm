@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224091",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Legumes/",
+  "description": "Description de L&#233;gumes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268981,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "L&#233;gumes",
+  "nom-anglais": [
+    "Vegetables"
+  ],
+  "nom-arabe": [
+    "&#1582;&#1590;&#1585;&#1608;&#1575;&#1578;"
+  ],
+  "nom-espagnol": [
+    "Verduras"
+  ],
+  "nom-folder": "Legumes",
+  "nom-francais": [
+    "L&#233;gumes"
+  ],
+  "nom-italien": [
+    "Verdure"
+  ],
+  "nom-machine": "terme-2015-12-06-16-24-28-86966224091",
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

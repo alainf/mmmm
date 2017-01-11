@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-26-13-86966230424",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-politique-(branches-de-l'economie)/",
+  "description": "Description de &#201;conomie politique (branches de l'&#233;conomie)",
+  "enfants": [
+    "terme-2015-12-06-16-26-13-86966230427"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1510,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-13",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "&#201;conomie politique (branches de l'&#233;conomie)",
+  "nom-anglais": [
+    "Political Economy (branches)"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1575;&#1602;&#1578;&#1589;&#1575;&#1583; &#1575;&#1604;&#1587;&#1610;&#1575;&#1587;&#1609; )&#1601;&#1585;&#1608;&#1593; &#1575;&#1604;&#1575;&#1602;&#1578;&#1589;&#1575;&#1583;("
+  ],
+  "nom-espagnol": [
+    "Econom&#237;a Pol&#237;tica (ramas de la econom&#237;a)"
+  ],
+  "nom-folder": "Economie-politique-(branches-de-l'economie)",
+  "nom-francais": [
+    "&#201;conomie politique (branches de l'&#233;conomie)"
+  ],
+  "nom-italien": [
+    "Economia politica (rami dell'economia)"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-13-86966230424"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

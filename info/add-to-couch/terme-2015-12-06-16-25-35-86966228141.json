@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228141",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-organismes-sans-but-lucratif/",
+  "description": "Description de Gestion des organismes sans but lucratif",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451169,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des organismes sans but lucratif",
+  "nom-anglais": [
+    "Management of not-for-profit organizations"
+  ],
+  "nom-arabe": [
+    "&#1573;&#1583;&#1575;&#1585;&#1577; &#1605;&#1572;&#1587;&#1587;&#1575;&#1578; &#1604;&#1575; &#1578;&#1607;&#1583;&#1601; &#1573;&#1604;&#1609; &#1575;&#1604;&#1585;&#1576;&#1581;"
+  ],
+  "nom-espagnol": [
+    "Gesti&#243;n de los organismos sin &#225;nimo de lucro"
+  ],
+  "nom-folder": "Gestion-des-organismes-sans-but-lucratif",
+  "nom-francais": [
+    "Gestion des organismes sans but lucratif"
+  ],
+  "nom-italien": [
+    "Gestione delle organizzazioni non a scopo di lucro"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-35-86966228141"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

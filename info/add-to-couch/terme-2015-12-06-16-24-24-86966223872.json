@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223872",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Metiers-de-l'agriculture/Agronomie/",
+  "description": "Description de Agronomie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469763,
+  "identifiant-drupal-parent": 917,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Agronomie",
+  "nom-anglais": [
+    "Agronomy"
+  ],
+  "nom-arabe": [
+    "&#1593;&#1616;&#1604;&#1618;&#1605; &#1575;&#1604;&#1586;&#1585;&#1575;&#1593;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Agronom&#237;a"
+  ],
+  "nom-folder": "Agronomie",
+  "nom-francais": [
+    "Agronomie"
+  ],
+  "nom-italien": [
+    "agronomia"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223872"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

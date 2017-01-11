@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233469",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Filiation/",
+  "description": "Description de Filiation",
+  "enfants": [
+    "terme-2015-12-06-16-27-04-86966233472",
+    "terme-2015-12-06-16-27-04-86966233476",
+    "terme-2015-12-06-16-27-04-86966233479",
+    "terme-2015-12-06-16-27-04-86966233482",
+    "terme-2015-12-06-16-27-04-86966233484",
+    "terme-2015-12-06-16-27-04-86966233487"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1256,
+  "identifiant-drupal-parent": 1193,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Filiation",
+  "nom-anglais": [
+    "Filiation"
+  ],
+  "nom-arabe": [
+    "&#1576;&#1606;&#1608;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Filiaci&#243;n"
+  ],
+  "nom-folder": "Filiation",
+  "nom-francais": [
+    "Filiation"
+  ],
+  "nom-italien": [
+    "filiazione"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-27-04-86966233469"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

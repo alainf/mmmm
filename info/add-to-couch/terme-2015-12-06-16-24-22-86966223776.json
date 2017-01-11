@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-24-22-86966223776",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Agriculture-et-environnement/Pesticides/",
+  "description": "Description de Pesticides",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268972,
+  "identifiant-drupal-parent": 896,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-22",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Pesticides",
+  "nom-anglais": [
+    "Pesticides"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1576;&#1610;&#1583; &#1570;&#1601;&#1575;&#1578;"
+  ],
+  "nom-espagnol": [
+    "Plaguicidas"
+  ],
+  "nom-folder": "Pesticides",
+  "nom-francais": [
+    "Pesticides"
+  ],
+  "nom-italien": [
+    "Pesticidi"
+  ],
+  "nom-machine": "terme-2015-12-06-16-24-22-86966223776",
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

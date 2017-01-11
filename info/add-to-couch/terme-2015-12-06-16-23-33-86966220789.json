@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220789",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/Environnement-politique/",
+  "description": "Description de Environnement politique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270502,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Environnement politique",
+  "nom-anglais": [
+    "Political environment"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1576;&#1610;&#1574;&#1577; &#1575;&#1604;&#1587;&#1610;&#1575;&#1587;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Entorno pol&#237;tico"
+  ],
+  "nom-folder": "Environnement-politique",
+  "nom-francais": [
+    "Environnement politique"
+  ],
+  "nom-italien": [
+    "Ambiente politico"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-33-86966220789"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

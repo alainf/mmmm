@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226499",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Developpement-durable/",
+  "description": "Description de D&#233;veloppement durable",
+  "enfants": [
+    "terme-2015-12-06-16-25-08-86966226502",
+    "terme-2015-12-06-16-25-08-86966226505"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270876,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "D&#233;veloppement durable",
+  "nom-anglais": [
+    "Sustainable development"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1578;&#1606;&#1605;&#1610;&#1577; &#1575;&#1604;&#1605;&#1587;&#1578;&#1583;&#1575;&#1605;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Desarrollo sostenible"
+  ],
+  "nom-folder": "Developpement-durable",
+  "nom-francais": [
+    "D&#233;veloppement durable"
+  ],
+  "nom-italien": [
+    "Sviluppo sostenibile"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226499"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232506",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Autorite/",
+  "description": "Description de Autorit&#233;",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1068,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Autorit&#233;",
+  "nom-anglais": [
+    "Authority"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1587;&#1604;&#1591;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Autoridad"
+  ],
+  "nom-folder": "Autorite",
+  "nom-francais": [
+    "Autorit&#233;"
+  ],
+  "nom-italien": [
+    "Autorit&#224;"
+  ],
+  "nom-machine": "terme-2015-12-06-16-26-48-86966232506",
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

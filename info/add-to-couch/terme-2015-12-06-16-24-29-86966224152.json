@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224152",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Industrie-alimentaire/",
+  "description": "Description de Industrie alimentaire",
+  "enfants": [
+    "terme-2015-12-06-16-24-29-86966224155",
+    "terme-2015-12-06-16-24-29-86966224158",
+    "terme-2015-12-06-16-24-29-86966224161"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465718,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Industrie alimentaire",
+  "nom-anglais": [
+    "Food industry"
+  ],
+  "nom-arabe": [
+    "&#1589;&#1606;&#1575;&#1593;&#1577; &#1594;&#1584;&#1575;&#1574;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Industria alimentaria"
+  ],
+  "nom-folder": "Industrie-alimentaire",
+  "nom-francais": [
+    "Industrie alimentaire"
+  ],
+  "nom-italien": [
+    "industria alimentare"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-24-29-86966224152"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

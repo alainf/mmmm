@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229344",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Changement-organisationnel/",
+  "description": "Description de Changement organisationnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271343,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Changement organisationnel",
+  "nom-anglais": [
+    "Organizational change"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1578;&#1594;&#1610;&#1610;&#1585; &#1575;&#1604;&#1578;&#1606;&#1592;&#1610;&#1605;&#1610;"
+  ],
+  "nom-espagnol": [
+    "Cambio organizacional"
+  ],
+  "nom-folder": "Changement-organisationnel",
+  "nom-francais": [
+    "Changement organisationnel"
+  ],
+  "nom-italien": [
+    "Cambiamento organizzativo"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-55-86966229344"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

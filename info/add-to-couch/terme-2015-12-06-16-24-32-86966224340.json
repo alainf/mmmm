@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224340",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/Microbiologie/",
+  "description": "Description de Microbiologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269038,
+  "identifiant-drupal-parent": 269028,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Microbiologie",
+  "nom-anglais": [
+    "Microbiology"
+  ],
+  "nom-arabe": [
+    "&#1593;&#1604;&#1605; &#1575;&#1604;&#1571;&#1581;&#1610;&#1575;&#1569; &#1575;&#1604;&#1583;&#1602;&#1610;&#1602;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Microbiolog&#237;a"
+  ],
+  "nom-folder": "Microbiologie",
+  "nom-francais": [
+    "Microbiologie"
+  ],
+  "nom-italien": [
+    "microbiologia"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-24-32-86966224340"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221081",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Quoi-faire-en-ville/",
+  "description": "Description de Quoi faire en ville",
+  "enfants": [
+    "terme-2015-12-06-16-23-38-86966221084",
+    "terme-2015-12-06-16-23-38-86966221088",
+    "terme-2015-12-06-16-23-38-86966221091",
+    "terme-2015-12-06-16-23-38-86966221093",
+    "terme-2015-12-06-16-23-38-86966221096",
+    "terme-2015-12-06-16-23-38-86966221098",
+    "terme-2015-12-06-16-23-38-86966221101",
+    "terme-2015-12-06-16-23-38-86966221105"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1677,
+  "identifiant-drupal-parent": 1664,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Quoi faire en ville",
+  "nom-anglais": [
+    "What to do in town"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1575; &#1610;&#1580;&#1576; &#1575;&#1604;&#1602;&#1610;&#1575;&#1605; &#1576;&#1607; &#1601;&#1610; &#1575;&#1604;&#1605;&#1583;&#1610;&#1606;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Qu&#233; se hace en la ciudad"
+  ],
+  "nom-folder": "Quoi-faire-en-ville",
+  "nom-francais": [
+    "Quoi faire en ville"
+  ],
+  "nom-italien": [
+    "Cosa fare in citt&#224;"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221081"
+  ],
+  "nom-russe": [
+    "&#1063;&#1090;&#1086; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100; &#1074; &#1075;&#1086;&#1088;&#1086;&#1076;&#1077;"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

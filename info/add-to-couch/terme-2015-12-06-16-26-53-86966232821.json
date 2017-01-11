@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232821",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Liberalisme-(ideologie)/Capitalisme/",
+  "description": "Description de Capitalisme",
+  "enfants": [
+    "terme-2015-12-06-16-26-53-86966232824"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1131,
+  "identifiant-drupal-parent": 1115,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Capitalisme",
+  "nom-anglais": [
+    "Capitalism"
+  ],
+  "nom-arabe": [
+    "&#1585;&#1571;&#1587;&#1605;&#1575;&#1604;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Capitalismo"
+  ],
+  "nom-folder": "Capitalisme",
+  "nom-francais": [
+    "Capitalisme"
+  ],
+  "nom-italien": [
+    "Capitalismo"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-53-86966232821"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230761",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Agrochimie/",
+  "description": "Description de Agrochimie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270439,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Agrochimie",
+  "nom-anglais": [
+    "Agro-chemistry"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1586;&#1585;&#1575;&#1593;&#1577; &#1575;&#1604;&#1603;&#1610;&#1605;&#1575;&#1608;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Agroqu&#237;mica"
+  ],
+  "nom-folder": "Agrochimie",
+  "nom-francais": [
+    "Agrochimie"
+  ],
+  "nom-italien": [
+    "Agrochimica"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-19-86966230761"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

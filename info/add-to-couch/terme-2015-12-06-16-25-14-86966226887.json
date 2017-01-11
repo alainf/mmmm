@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-14-86966226887",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Genres-journalistiques/Reportage/",
+  "description": "Description de Reportage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272318,
+  "identifiant-drupal-parent": 272308,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-14",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Reportage",
+  "nom-anglais": [
+    "Reporting"
+  ],
+  "nom-arabe": [
+    "&#1578;&#1602;&#1585;&#1610;&#1585;"
+  ],
+  "nom-espagnol": [
+    "Reportaje"
+  ],
+  "nom-folder": "Reportage",
+  "nom-francais": [
+    "Reportage"
+  ],
+  "nom-italien": [
+    "Reportage"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-14-86966226887"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

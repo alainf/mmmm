@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228072",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Outils-de-gestion-de-projets/Instruments-de-recherche-en-gestion-de-projets/",
+  "description": "Description de Instruments de recherche en gestion de projets",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1979,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Instruments de recherche en gestion de projets",
+  "nom-anglais": [
+    "Project management research instruments"
+  ],
+  "nom-arabe": [
+    "&#1571;&#1583;&#1608;&#1575;&#1578; &#1575;&#1604;&#1576;&#1581;&#1579; &#1601;&#1610; &#1605;&#1580;&#1575;&#1604; &#1573;&#1583;&#1575;&#1585;&#1577; &#1575;&#1604;&#1605;&#1588;&#1575;&#1585;&#1610;&#1593;"
+  ],
+  "nom-espagnol": [
+    "Instrumentos de investigaci&#243;n en gesti&#243;n de proyectos"
+  ],
+  "nom-folder": "Instruments-de-recherche-en-gestion-de-projets",
+  "nom-francais": [
+    "Instruments de recherche en gestion de projets"
+  ],
+  "nom-italien": [
+    "Strumenti di ricerca nella gestione di progetti"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-34-86966228072"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

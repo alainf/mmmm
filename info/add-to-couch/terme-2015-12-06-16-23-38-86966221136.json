@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221136",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Journaux/",
+  "description": "Description de Journaux",
+  "enfants": [
+    "terme-2015-12-06-16-23-38-86966221139",
+    "terme-2015-12-06-16-23-39-86966221142",
+    "terme-2015-12-06-16-23-39-86966221151"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1675,
+  "identifiant-drupal-parent": 270470,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Journaux",
+  "nom-anglais": [
+    "Newspapers"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1589;&#1581;&#1601;"
+  ],
+  "nom-espagnol": [
+    "Peri&#243;dicos"
+  ],
+  "nom-folder": "Journaux",
+  "nom-francais": [
+    "Journaux"
+  ],
+  "nom-italien": [
+    "Giornali"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221136"
+  ],
+  "nom-russe": [
+    "&#1043;&#1072;&#1079;&#1077;&#1090;&#1099;"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

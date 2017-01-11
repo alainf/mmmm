@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228484",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-interculturel/Proximite/",
+  "description": "Description de Proximit&#233;",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472348,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Proximit&#233;",
+  "nom-anglais": [
+    "Proximity"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1587;&#1575;&#1601;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Proximidad"
+  ],
+  "nom-folder": "Proximite",
+  "nom-francais": [
+    "Proximit&#233;"
+  ],
+  "nom-italien": [
+    "Prossimit&#224;"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-41-86966228484"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

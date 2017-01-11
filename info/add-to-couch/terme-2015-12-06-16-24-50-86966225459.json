@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-24-50-86966225459",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-du-travail/Droit-du-travail-dans-l'union-europeenne/",
+  "description": "Description de Droit du travail dans l'union europ&#233;enne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269136,
+  "identifiant-drupal-parent": 269135,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-50",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit du travail dans l'union europ&#233;enne",
+  "nom-anglais": [
+    "Labour Law in the European Union"
+  ],
+  "nom-arabe": [
+    "&#1602;&#1575;&#1606;&#1608;&#1606; &#1575;&#1604;&#1593;&#1605;&#1604; &#1601;&#1610; &#1575;&#1604;&#1575;&#1578;&#1581;&#1575;&#1583; &#1575;&#1604;&#1571;&#1608;&#1585;&#1608;&#1576;&#1610;"
+  ],
+  "nom-espagnol": [
+    "Derecho del Trabajo en la Uni&#243;n Europea"
+  ],
+  "nom-folder": "Droit-du-travail-dans-l'union-europeenne",
+  "nom-francais": [
+    "Droit du travail dans l'union europ&#233;enne"
+  ],
+  "nom-italien": [
+    "Diritto del lavoro nell'Unione Europea"
+  ],
+  "nom-machine": "terme-2015-12-06-16-24-50-86966225459",
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

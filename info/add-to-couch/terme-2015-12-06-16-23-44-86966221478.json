@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221478",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/TelePhD/",
+  "description": "Description de T&#233;l&#233;phd",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4485,
+  "identifiant-drupal-parent": 270469,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "T&#233;l&#233;phd",
+  "nom-anglais": [
+    "Tvphd"
+  ],
+  "nom-arabe": [
+    "&#1578;&#1604;&#1601;&#1575;&#1586; &#1575;&#1604;&#1583;&#1603;&#1578;&#1608;&#1585;"
+  ],
+  "nom-espagnol": [
+    "Telephd"
+  ],
+  "nom-folder": "TelePhD",
+  "nom-francais": [
+    "T&#233;l&#233;phd"
+  ],
+  "nom-italien": [
+    "Tele-Phd"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221478"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

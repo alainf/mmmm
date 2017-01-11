@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221060",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Politique/",
+  "description": "Description de Politique",
+  "enfants": [
+    "terme-2015-12-06-16-23-37-86966221063",
+    "terme-2015-12-06-16-23-37-86966221067",
+    "terme-2015-12-06-16-23-37-86966221069",
+    "terme-2015-12-06-16-23-37-86966221072",
+    "terme-2015-12-06-16-23-37-86966221075",
+    "terme-2015-12-06-16-23-37-86966221079"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1666,
+  "identifiant-drupal-parent": 1718,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Politique",
+  "nom-anglais": [
+    "Politics"
+  ],
+  "nom-arabe": [
+    "&#1587;&#1610;&#1575;&#1587;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Pol&#237;tica"
+  ],
+  "nom-folder": "Politique",
+  "nom-francais": [
+    "Politique"
+  ],
+  "nom-italien": [
+    "Politica"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221060"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies"
+}

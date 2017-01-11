@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233151",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-sociales-critiques/",
+  "description": "Description de Sciences sociales critiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-59-86966233154",
+    "terme-2015-12-06-16-26-59-86966233157",
+    "terme-2015-12-06-16-26-59-86966233162",
+    "terme-2015-12-06-16-26-59-86966233165",
+    "terme-2015-12-06-16-26-59-86966233168",
+    "terme-2015-12-06-16-26-59-86966233171",
+    "terme-2015-12-06-16-26-59-86966233174",
+    "terme-2015-12-06-16-26-59-86966233177",
+    "terme-2015-12-06-16-26-59-86966233180",
+    "terme-2015-12-06-16-26-59-86966233183",
+    "terme-2015-12-06-16-26-59-86966233186",
+    "terme-2015-12-06-16-26-59-86966233189"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272344,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sciences sociales critiques",
+  "nom-anglais": [
+    "Critical social sciences"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1593;&#1604;&#1608;&#1605; &#1575;&#1604;&#1575;&#1580;&#1578;&#1605;&#1575;&#1593;&#1610;&#1577; &#1575;&#1604;&#1581;&#1585;&#1580;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Ciencias sociales cr&#237;ticas"
+  ],
+  "nom-folder": "Sciences-sociales-critiques",
+  "nom-francais": [
+    "Sciences sociales critiques"
+  ],
+  "nom-italien": [
+    "scienze sociali critiche"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233151"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225765",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Regulation-des-marches/",
+  "description": "Description de R&#233;gulation des march&#233;s",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472255,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "R&#233;gulation des march&#233;s",
+  "nom-anglais": [
+    "Market regulation"
+  ],
+  "nom-arabe": [
+    "&#1578;&#1606;&#1592;&#1610;&#1605; &#1575;&#1604;&#1571;&#1587;&#1608;&#1575;&#1602;"
+  ],
+  "nom-espagnol": [
+    "Regulaci&#243;n de mercados"
+  ],
+  "nom-folder": "Regulation-des-marches",
+  "nom-francais": [
+    "R&#233;gulation des march&#233;s"
+  ],
+  "nom-italien": [
+    "Regolazione dei mercati"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225765"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
+}
