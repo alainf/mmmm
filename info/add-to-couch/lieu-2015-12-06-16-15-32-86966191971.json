@@ -1,0 +1,34 @@
+{
+  "_id": "lieu-2015-12-06-16-15-32-86966191971",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Chine/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365318,
+  "mise-a-jour": "2016-02-04-16-24-49",
+  "moment-de-creation": "2015-12-06-16-15-32",
+  "moment-de-modification": "2016-02-04-16-24-49",
+  "nom": "Chine",
+  "nom-anglais": [
+    "China"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1589;&#1610;&#1606;"
+  ],
+  "nom-espagnol": [
+    "China"
+  ],
+  "nom-folder": "Chine",
+  "nom-francais": [
+    "Chine"
+  ],
+  "nom-italien": [
+    "Cina"
+  ],
+  "nom-machine": "lieu-2015-12-06-16-15-32-86966191971",
+  "nom-russe": [
+    "&#1050;&#1080;&#1090;&#1072;&#1081;&#1089;&#1082;&#1072;&#1103; &#1053;&#1072;&#1088;&#1086;&#1076;&#1085;&#1072;&#1103; "
+  ],
+  "sous-type": "pays",
+  "type": "lieux"
+}

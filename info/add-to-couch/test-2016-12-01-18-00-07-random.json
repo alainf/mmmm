@@ -1,41 +1,64 @@
 {
-"_id": "lead-2016-12-03-18-00-07-random",
-"path": "/fr/detail/test-2016-12-01-18-00-07-random",
-"nom-machine": "test-2016-12-01-18-00-07-random",
-"calais-organisation": ["Staples"],
-"section": ["terme-2016-12-31-16-27-00-00000000000"],
-"nom": "Article 07",
-"apercu": "Article temporaire 07 pour tester la base-de-données.",
-"description": "Une entreprise canadienne qui ambitionne de livrer des colis par drone dès l'an prochain a démontré le sérieux de sa démarche en dévoilant mardi une entente de collaboration avec le géant de la vente de produits de bureau Staples.",
-"encodage": "utf-8",
-"fiche-publiee": true,
-"format": "HTML",
-"importance": 1,
-"isCopyright": true,
-"langue-edition": ["terme-2015-12-06-16-10-42-86966174537"],
-"lieu-concerne": ["lieu-2015-12-06-16-10-48-86966174926","lieu-2015-12-06-16-12-48-86966182107"],
-"mise-a-jour": "2016-05-09-16-43-47",
-"moment-de-creation": "2015-01-25-02-34-25",
-"moment-de-modification": "2016-02-18-14-31-41",
-"mots-clefs": ["livrer des colis par drone","entente de collaboration","vente de produits de bureau Staples","démarche"],
-"personne-concernee": ["pers-2016-03-25-06-59-43-87534214988","pers-2016-04-04-18-45-44-87588596696"],
-"site-de-diffusion": ["terme-2015-12-06-16-23-47-86966221646"],
-"source-defectueuse": false,
-"source-URL": "http://www.ledevoir.com/economie/actualites-economiques/485911/un-pionnier-canadien-se-rapproche-de-la-livraison-par-drones",
-"sous-type": "test",
-"sujet": ["terme-2015-12-06-16-24-54-86966225669"],
-"type-de-ressource": ["terme-2015-12-06-16-27-21-86966234485"],
-"affichage": "article",
-"tip": "Tooltip du hyperlien dont le href est dans path",
-"title": "PhD Admin - Article - Un pionnier canadien se rapproche de la livraison par drone",
-"titre": "Un pionnier canadien se rapproche de la livraison par drone",
-"thumb-beside": "content",
-"thumb-float": "right",
-"thumb-tip": "Drone Delivery Canada développe des plateformes pour drones commerciaux",
-"thumb-src": "http://media1.ledevoir.com/images_galerie/de_468424_326666/image.jpg",
-"provenance": "http://www.ledevoir.com/economie/actualites-economiques/485911/un-pionnier-canadien-se-rapproche-de-la-livraison-par-drones",
-"pertinence": 4,
-"permissions": "Tous droits réservés",
-"coutAcces": "Aucun",
-"contenu": "Une entreprise canadienne qui ambitionne de livrer des colis par drone dès l'an prochain a démontré le sérieux de sa démarche en dévoilant mardi une entente de collaboration avec le géant de la vente de produits de bureau Staples."
+  "_id": "lead-2016-12-03-18-00-07-random",
+  "path": "/fr/detail/test-2016-12-01-18-00-07-random",
+  "nom-machine": "test-2016-12-01-18-00-07-random",
+  "calais-organisation": [
+    "Staples"
+  ],
+  "section": [
+    "terme-2016-12-31-16-27-00-00000000000"
+  ],
+  "nom": "Article 07",
+  "apercu": "Article temporaire 07 pour tester la base-de-données.",
+  "description": "Une entreprise canadienne qui ambitionne de livrer des colis par drone dès l'an prochain a démontré le sérieux de sa démarche en dévoilant mardi une entente de collaboration avec le géant de la vente de produits de bureau Staples.",
+  "encodage": "utf-8",
+  "fiche-publiee": true,
+  "format": "HTML",
+  "importance": 1,
+  "isCopyright": true,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-48-86966174926",
+    "lieu-2015-12-06-16-12-48-86966182107"
+  ],
+  "mise-a-jour": "2016-05-09-16-43-47",
+  "moment-de-creation": "2015-01-25-02-34-25",
+  "moment-de-modification": "2016-02-18-14-31-41",
+  "mots-clefs": [
+    "livrer des colis par drone",
+    "entente de collaboration",
+    "vente de produits de bureau Staples",
+    "démarche"
+  ],
+  "personne-concernee": [
+    "pers-2016-03-25-06-59-43-87534214988",
+    "pers-2016-04-04-18-45-44-87588596696"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-URL": "http://www.ledevoir.com/economie/actualites-economiques/485911/un-pionnier-canadien-se-rapproche-de-la-livraison-par-drones",
+  "sous-type": "test",
+  "sujet": [
+    "terme-2015-12-06-16-24-54-86966225669"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "affichage": "article",
+  "tip": "Tooltip du hyperlien dont le href est dans path",
+  "title": "PhD Admin - Article - Un pionnier canadien se rapproche de la livraison par drone",
+  "titre": "Un pionnier canadien se rapproche de la livraison par drone",
+  "thumb-beside": "content",
+  "thumb-float": "right",
+  "thumb-tip": "Drone Delivery Canada développe des plateformes pour drones commerciaux",
+  "thumb-src": "http://media1.ledevoir.com/images_galerie/de_468424_326666/image.jpg",
+  "provenance": "http://www.ledevoir.com/economie/actualites-economiques/485911/un-pionnier-canadien-se-rapproche-de-la-livraison-par-drones",
+  "pertinence": 4,
+  "permissions": "Tous droits réservés",
+  "coutAcces": "Aucun",
+  "contenu": "Une entreprise canadienne qui ambitionne de livrer des colis par drone dès l'an prochain a démontré le sérieux de sa démarche en dévoilant mardi une entente de collaboration avec le géant de la vente de produits de bureau Staples."
 }

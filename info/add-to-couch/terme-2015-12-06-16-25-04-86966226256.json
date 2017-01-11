@@ -1,25 +1,48 @@
 {
-"_id": "terme-2015-12-06-16-25-04-86966226256",
-"ajouter-aux-favoris": false,
-"breadcrumb": "taxonomies/sujets/Politique/",
-"custom-about": "terme-2015-12-06-16-25-04-86966226256",
-"description": "Description de Politique",
-"enfants": ["terme-2015-12-06-16-25-04-86966226258","terme-2015-12-06-16-25-04-86966226261","terme-2015-12-06-16-25-04-86966226264","terme-2015-12-06-16-25-04-86966226266","terme-2015-12-06-16-25-04-86966226270","terme-2015-12-06-16-25-04-86966226272","terme-2015-12-06-16-25-04-86966226275","terme-2015-12-06-16-25-04-86966226278","terme-2015-12-06-16-25-04-86966226281","terme-2015-12-06-16-25-04-86966226286"],
-"fiche-a-completer": true,
-"fiche-publiee": true,
-"identifiant-drupal": 1258,
-"identifiant-drupal-parent": 1193,
-"mise-a-jour": "2016-05-09-16-46-13",
-"moment-de-creation": "2015-12-06-16-25-04",
-"moment-de-modification": "2015-12-21-11-54-56",
-"nom": "Politique",
-"nom-anglais": ["Politics"],
-"nom-arabe": ["&#1587;&#1610;&#1575;&#1587;&#1577;"],
-"nom-espagnol": ["Pol&#237;tica"],
-"nom-folder": "Politique",
-"nom-francais": ["Politique"],
-"nom-italien": ["politica"],
-"nom-machine": ["terme-2015-12-06-16-25-04-86966226256"],
-"sous-type": "sujets",
-"type": "taxonomies"
+  "_id": "terme-2015-12-06-16-25-04-86966226256",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Politique/",
+  "custom-about": "terme-2015-12-06-16-25-04-86966226256",
+  "description": "Description de Politique",
+  "enfants": [
+    "terme-2015-12-06-16-25-04-86966226258",
+    "terme-2015-12-06-16-25-04-86966226261",
+    "terme-2015-12-06-16-25-04-86966226264",
+    "terme-2015-12-06-16-25-04-86966226266",
+    "terme-2015-12-06-16-25-04-86966226270",
+    "terme-2015-12-06-16-25-04-86966226272",
+    "terme-2015-12-06-16-25-04-86966226275",
+    "terme-2015-12-06-16-25-04-86966226278",
+    "terme-2015-12-06-16-25-04-86966226281",
+    "terme-2015-12-06-16-25-04-86966226286"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1258,
+  "identifiant-drupal-parent": 1193,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-12-21-11-54-56",
+  "nom": "Politique",
+  "nom-anglais": [
+    "Politics"
+  ],
+  "nom-arabe": [
+    "&#1587;&#1610;&#1575;&#1587;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Pol&#237;tica"
+  ],
+  "nom-folder": "Politique",
+  "nom-francais": [
+    "Politique"
+  ],
+  "nom-italien": [
+    "politica"
+  ],
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226256"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies"
 }
