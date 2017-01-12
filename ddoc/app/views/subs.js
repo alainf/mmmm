@@ -12,6 +12,7 @@ module.exports = {
       'langue-edition',
       'site-de-diffusion',
       'type-de-ressource',
+      'type-de-contenu',
       'section'
     ]
       .forEach(function (s) {

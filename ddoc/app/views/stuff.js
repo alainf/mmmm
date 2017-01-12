@@ -9,6 +9,10 @@ module.exports = {
       if (r !== '_rev' && r !== 'apercu' && r !== 'citation' && r !== 'contenu' && r !== 'description') {
         if (typeof doc[r] === 'string' || typeof doc[r] === 'number' || typeof doc[r] === 'boolean') {
           emit([r, doc[r]])
+        } else if (typeof doc[r] === 'object' && doc[r].length) {
+          doc[r].forEach(function (x) {
+            emit([r, x])
+          })
         }
       }
     }
