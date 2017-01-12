@@ -1,24 +1,24 @@
 'use strict'
 
-const data = require('./allsubs2.json').rows
+// npm
+const got = require('got')
 
-console.log(data.length)
+got('http://localhost:5990/machina/_design/app/_view/allsubs2?reduce=false&include_docs=true', { json: true })
+  .then((res) => {
+    const data = res.body.rows
+    console.log(data.length)
+    const missing = data.filter((row) => !row.doc)
+    console.log(missing.length)
+    const keys = missing.map((row) => row.key)
 
-const missing = data.filter((row) => !row.doc)
+    const unique = (s) => {
+      const ret = {}
+      s.forEach((r) => { ret[r] = true })
+      return Object.keys(ret)
+    }
 
-console.log(missing.length)
-
-const keys = missing.map((row) => row.key)
-// console.log(keys)
-
-const unique = (s) => {
-  const ret = {}
-  s.forEach((r) => { ret[r] = true })
-  return Object.keys(ret)
-}
-
-
-const uniques = unique(keys)
-
-console.log(uniques.length)
-console.log(uniques)
+    const uniques = unique(keys)
+    console.log(uniques.length)
+    console.log(uniques)
+  })
+  .catch(console.error)
