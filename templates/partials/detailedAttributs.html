@@ -46,7 +46,14 @@
       <dt><%- data.__("Langue d'édition") %></dt>
       <dd>
               <% data.doc.langueEdition.forEach(function (valeur) { %>
-           <p class="enum"><%- valeur %></p>
+                 <p class="enum">
+                   <% if (valeur.nom) { %>
+                    <%- valeur.nom %>
+                   <% } else { %>
+                    <%- valeur %>
+                   <% } %>
+                  </p>
+
         <% }) %><br>
             </dd>
             <% } %>
@@ -140,7 +147,14 @@
       <dt><%- data.__('Types de ressource') %></dt>
       <dd>
               <% data.doc.typeDeRessource.forEach(function (valeur) { %>
-           <p class="enum"><%- valeur %></p>
+                 <p class="enum">
+                   <% if (valeur.nom) { %>
+                    <%- valeur.nom %>
+                   <% } else { %>
+                    <%- valeur %>
+                   <% } %>
+                  </p>
+
         <% }) %><br>
       </dd>
       <% } %>
