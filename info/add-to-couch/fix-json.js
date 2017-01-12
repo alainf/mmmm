@@ -3,6 +3,8 @@
 // core
 const fs = require('fs')
 
+// npm
+const decodeHtmlEntities = require('he').decode
 /**
  * Générer un json corrigé (ligne par ligne, dangling commas, etc.)
  */
@@ -71,6 +73,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         return reject(new Error(`Required: either _id or nom-machine in ${filename}`))
       }
     }
+    if (doc.nom) { doc.nom = decodeHtmlEntities(doc.nom) }
     resolve({ fn: filename, json: doc })
   })
 })

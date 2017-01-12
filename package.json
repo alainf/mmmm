@@ -42,6 +42,7 @@
     "hapi-favicon": "^1.0.0",
     "hapi-i18n": "^1.0.3",
     "hapijs-status-monitor": "^0.5.0",
+    "he": "^1.1.0",
     "hoek": "^4.1.0",
     "inert": "^4.1.0",
     "joi": "^10.1.0",
