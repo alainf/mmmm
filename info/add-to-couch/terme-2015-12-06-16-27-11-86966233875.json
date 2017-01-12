@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-11-86966233875",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/appel-de-communication/",
+  "description": "Description de Appel de communication",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369419,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-11",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Appel de communication",
+  "nom-anglais": [
+    "Call for papers"
+  ],
+  "nom-espagnol": [
+    "Solicitud de ponencias"
+  ],
+  "nom-folder": "appel-de-communication",
+  "nom-francais": [
+    "Appel de communication"
+  ],
+  "nom-italien": [
+    "Invito a presentare relazioni"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-11-86966233875",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

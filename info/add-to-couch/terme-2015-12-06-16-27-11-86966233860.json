@@ -1,0 +1,32 @@
+{
+  "_id": "terme-2015-12-06-16-27-11-86966233860",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/agenda/",
+  "description": "Description de Agenda",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369414,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-11",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Agenda",
+  "nom-anglais": [
+    "Agenda"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1606;&#1592;&#1605; &#1588;&#1582;&#1589;&#1610;"
+  ],
+  "nom-espagnol": [
+    "Agenda"
+  ],
+  "nom-folder": "agenda",
+  "nom-francais": [
+    "Agenda"
+  ],
+  "nom-italien": [
+    "Agenda"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-11-86966233860",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

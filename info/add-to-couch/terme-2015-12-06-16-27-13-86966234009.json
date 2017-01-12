@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-13-86966234009",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/flux/",
+  "description": "Description de Flux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369450,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Flux",
+  "nom-anglais": [
+    "Feed"
+  ],
+  "nom-espagnol": [
+    "Flujo"
+  ],
+  "nom-folder": "flux",
+  "nom-francais": [
+    "Flux"
+  ],
+  "nom-italien": [
+    "Flusso"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-13-86966234009",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-11-86966233899",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/bibliographique/bibliographie/",
+  "description": "Description de Bibliographie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369427,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-11",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Bibliographie",
+  "nom-anglais": [
+    "Bibliography"
+  ],
+  "nom-espagnol": [
+    "Bibliograf&#237;a"
+  ],
+  "nom-folder": "bibliographie",
+  "nom-francais": [
+    "Bibliographie"
+  ],
+  "nom-italien": [
+    "Bibliografia"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-11-86966233899",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

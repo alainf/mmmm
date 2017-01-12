@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-12-86966233937",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/dictionnaire/lexique/",
+  "description": "Description de Lexique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369453,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Lexique",
+  "nom-anglais": [
+    "Lexicon"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1593;&#1580;&#1605;"
+  ],
+  "nom-espagnol": [
+    "L&#233;xico"
+  ],
+  "nom-folder": "lexique",
+  "nom-francais": [
+    "Lexique"
+  ],
+  "nom-italien": [
+    "Lessico"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-12-86966233937",
+  "nom-russe": [
+    "&#1051;&#1077;&#1082;&#1089;&#1080;&#1082;&#1072;"
+  ],
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

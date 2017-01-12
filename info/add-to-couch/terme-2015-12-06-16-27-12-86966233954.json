@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-12-86966233954",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/colloque/",
+  "description": "Description de Colloque",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 378178,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Colloque",
+  "nom-anglais": [
+    "Conference"
+  ],
+  "nom-espagnol": [
+    "Coloquio"
+  ],
+  "nom-folder": "colloque",
+  "nom-francais": [
+    "Colloque"
+  ],
+  "nom-italien": [
+    "Simposio"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-12-86966233954",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

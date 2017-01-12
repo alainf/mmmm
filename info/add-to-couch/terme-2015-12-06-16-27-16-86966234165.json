@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-16-86966234165",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/revue/revue-scientifique/",
+  "description": "Description de Revue scientifique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369489,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-16",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Revue scientifique",
+  "nom-anglais": [
+    "Scientific journal"
+  ],
+  "nom-espagnol": [
+    "Revista cient&#237;fica"
+  ],
+  "nom-folder": "revue-scientifique",
+  "nom-francais": [
+    "Revue scientifique"
+  ],
+  "nom-italien": [
+    "Rivista scientifica"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-16-86966234165",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-15-86966234153",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/revue/revue-academique/",
+  "description": "Description de Revue acad&#233;mique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369486,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-15",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Revue acad&#233;mique",
+  "nom-anglais": [
+    "Scholarly journal"
+  ],
+  "nom-espagnol": [
+    "Revista acad&#233;mica"
+  ],
+  "nom-folder": "revue-academique",
+  "nom-francais": [
+    "Revue acad&#233;mique"
+  ],
+  "nom-italien": [
+    "Rivista accademica"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-15-86966234153",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

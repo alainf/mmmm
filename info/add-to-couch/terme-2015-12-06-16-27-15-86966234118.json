@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-15-86966234118",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/publication/rapport/",
+  "description": "Description de Rapport",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369507,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-15",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Rapport",
+  "nom-anglais": [
+    "Report"
+  ],
+  "nom-espagnol": [
+    "Informe"
+  ],
+  "nom-folder": "rapport",
+  "nom-francais": [
+    "Rapport"
+  ],
+  "nom-italien": [
+    "Rapporto"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-15-86966234118",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

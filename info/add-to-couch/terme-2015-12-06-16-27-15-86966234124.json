@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-15-86966234124",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/publication/texte-integral/",
+  "description": "Description de Texte integral",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369499,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-15",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Texte integral",
+  "nom-anglais": [
+    "Full text"
+  ],
+  "nom-espagnol": [
+    "Texto integral"
+  ],
+  "nom-folder": "texte-integral",
+  "nom-francais": [
+    "Texte integral"
+  ],
+  "nom-italien": [
+    "Testo integrale"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-15-86966234124",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}

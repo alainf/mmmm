@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234057",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/methodologie/methodologie-de-recherche/",
+  "description": "Description de M&#233;thodologie de recherche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369462,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "M&#233;thodologie de recherche",
+  "nom-anglais": [
+    "Research methodology"
+  ],
+  "nom-espagnol": [
+    "Metodolog&#237;a de investigaci&#243;n"
+  ],
+  "nom-folder": "methodologie-de-recherche",
+  "nom-francais": [
+    "M&#233;thodologie de recherche"
+  ],
+  "nom-italien": [
+    "Metodologia di ricerca"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234057",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies"
+}
