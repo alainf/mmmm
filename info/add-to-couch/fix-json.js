@@ -73,6 +73,8 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         return reject(new Error(`Required: either _id or nom-machine in ${filename}`))
       }
     }
+    // TODO
+    // Go over every field that isn't HTML
     if (doc.nom) { doc.nom = decodeHtmlEntities(doc.nom) }
     resolve({ fn: filename, json: doc })
   })
