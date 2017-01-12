@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174431",
+  "ajouter-aux-favoris": true,
+  "breadcrumb": "taxonomies/langues/Anglais/",
+  "description": "L'anglais (English en anglais ; prononc&#233; : /&#712;&#618;&#331;.&#609;l&#618;&#643;/) est une langue indo-europ&#233;enne germanique originaire d'Angleterre qui tire ses racines de langues du nord de l'Europe (terre d'origine des Angles, des Saxons et des Frisons) et dont le vocabulaire a &#233;t&#233; enrichi et la syntaxe et la grammaire modifi&#233;es par la langue normande apport&#233;e par les Normands, puis le fran&#231;ais avec les Plantagen&#234;t. L'anglais est &#233;galement tr&#232;s influenc&#233; par les langues romanes, en particulier par l'utilisation de l'alphabet latin ainsi que les chiffres arabes.<br>Langue officielle de facto du Royaume-Uni, de l'Irlande et d'autres &#238;les de l'archipel britannique (&#206;le de Man, &#238;les anglo-normandes), l'anglais est la langue maternelle de tout ou partie de la population, et suivant les cas, la langue ou une des langues officielles de plusieurs pays, totalement ou partiellement issus des anciennes colonies britanniques de peuplement, dont les &#201;tats-Unis, le Canada, l'Australie et la Nouvelle-Z&#233;lande, que l'on r&#233;unit sous l'appellation de monde anglo-saxon, bien qu'il n'existe pas de d&#233;finition universelle de cette expression.<br>Il est &#233;galement langue officielle ou langue d'&#233;change dans de tr&#232;s nombreux pays issus de l'ancien Empire britannique, m&#234;me en l'absence de population d'origine anglo-saxonne significative (Kenya, Nigeria, Hong-Kong, Inde, Pakistan, etc.).<br>Beaucoup des pays dont l'anglais est la langue officielle sont r&#233;unis au sein du Commonwealth (bien que pour certains, il ne soit pas l'unique langue officielle).<br>Il est &#233;galement l'une des vingt-quatre langues officielles de l'Union europ&#233;enne.<br>L'anglais est l'une des langues les plus parl&#233;es au monde : par son nombre de locuteurs natifs3, il se classe troisi&#232;me, apr&#232;s le chinois (mandarin) qui occupe le premier rang, et l'espagnol, qui occupe le second.<br>Consid&#233;r&#233; par beaucoup comme l'actuelle &#171; langue internationale &#187;4, il est la langue la plus souvent enseign&#233;e en tant que langue &#233;trang&#232;re &#224; travers le monde5. Il est &#233;galement la langue la plus utilis&#233;e sur internet6. L'anglais est l'une des six langues officielles et des deux langues de travail &mdash; avec le fran&#231;ais &mdash; de l'Organisation des Nations unies (ONU).",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317573,
+  "identifiant-drupal-parent": 0,
+  "ISO-639-1": "en",
+  "ISO-639-2": "eng",
+  "ISO-639-3": "eng",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2016-04-30-17-19-35",
+  "nom": "Anglais",
+  "nom-anglais": [
+    "English"
+  ],
+  "nom-arabe": [
+    "&#1575;&#1604;&#1573;&#1606;&#1580;&#1604;&#1610;&#1586;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Ingl&#233;s"
+  ],
+  "nom-folder": "Anglais",
+  "nom-francais": [
+    "Anglais"
+  ],
+  "nom-italien": [
+    "Inglese"
+  ],
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174431",
+  "nom-russe": [
+    "&#1040;&#1085;&#1075;&#1083;&#1080;&#1081;&#1089;&#1082;&#1080;&#1081;"
+  ],
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Anglais"
+}

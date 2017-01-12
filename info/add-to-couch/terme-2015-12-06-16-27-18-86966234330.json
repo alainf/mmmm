@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234330",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/organisation/osbl/",
+  "description": "Description de Osbl",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369381,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Osbl",
+  "nom-anglais": [
+    "Nonprofit organization"
+  ],
+  "nom-espagnol": [
+    "Organizaci&#243;n sin &#225;nimo de lucro"
+  ],
+  "nom-folder": "osbl",
+  "nom-francais": [
+    "Osbl"
+  ],
+  "nom-italien": [
+    "Organizzazione non a scopo di lucro"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234330",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies"
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174537",
+  "ajouter-aux-favoris": true,
+  "breadcrumb": "taxonomies/langues/Francais/",
+  "description": "Le fran&#231;ais est une langue indo-europ&#233;enne de la famille des langues romanes. Le fran&#231;ais s'est form&#233; en France (vari&#233;t&#233; de la &#171; langue d&#8217;o&#239;l &#187;, qui est la langue de la partie du nord) et est aujourd'hui parl&#233; sur tous les continents par environ 274 millions de personnes1,5 dont 212 millions l'utilisant quotidiennement, avec 76 millions2 &#224; 77 millions3 de locuteurs natifs. En 2014, 77 millions d'&#233;l&#232;ves et &#233;tudiants s'instruisent en fran&#231;ais dans le monde6. Elle est une des six langues officielles et une des deux langues de travail (avec l&#8217;anglais) de l&#8217;Organisation des Nations unies, et langue officielle ou de travail de plusieurs organisations internationales ou r&#233;gionales, dont l&#8217;Union europ&#233;enne. Apr&#232;s avoir &#233;t&#233; &#224; l&#8217;&#233;poque de l&#8217;Ancien R&#233;gime fran&#231;ais la langue des cours royales et princi&#232;res, des tsars de Russie aux rois d&#8217;Espagne et d'Angleterre en passant par les princes de l&#8217;Allemagne, elle demeure une langue importante de la diplomatie internationale aux c&#244;t&#233;s de l&#8217;anglais, de l'allemand et de l&#8217;espagnol.<br>La langue fran&#231;aise est un attribut de souverainet&#233; en France, depuis 1992 &#171; la langue de la R&#233;publique est le fran&#231;ais &#187; (article 2 de la Constitution de la Cinqui&#232;me R&#233;publique fran&#231;aise). Elle est &#233;galement le principal v&#233;hicule de la pens&#233;e et de la culture fran&#231;aise dans le monde. La langue fran&#231;aise fait l&#8217;objet d&#8217;un dispositif public d&#8217;enrichissement de la langue, avec le d&#233;cret du 3 juillet 1996 relatif &#224; l'enrichissement de la langue fran&#231;aise.<br>Particularit&#233; de la langue fran&#231;aise, son d&#233;veloppement et sa codification ont &#233;t&#233; en partie l&#8217;&oelig;uvre de groupes intellectuels, comme la Pl&#233;iade, ou d&#8217;institutions, comme l&#8217;Acad&#233;mie fran&#231;aise. C&#8217;est une langue dite &#171; acad&#233;mique &#187;. Toutefois, l&#8217;usage garde ses droits et nombreux sont ceux qui popularis&#232;rent cette langue vivante, au premier rang desquels Rabelais et Moli&#232;re : il est d&#8217;ailleurs question de la &#171; langue de Moli&#232;re &#187;7.",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317602,
+  "identifiant-drupal-parent": 0,
+  "ISO-639-1": "fr",
+  "ISO-639-2": "fre/fra",
+  "ISO-639-3": "fra",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2016-04-30-17-55-25",
+  "nom": "Fran&#231;ais",
+  "nom-anglais": [
+    "French"
+  ],
+  "nom-arabe": [
+    "&#1601;&#1585;&#1606;&#1587;&#1610;&#1577;"
+  ],
+  "nom-espagnol": [
+    "Franc&#233;s"
+  ],
+  "nom-folder": "Francais",
+  "nom-francais": [
+    "Fran&#231;ais"
+  ],
+  "nom-italien": [
+    "Francese"
+  ],
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174537",
+  "nom-russe": [
+    "&#1060;&#1088;&#1072;&#1085;&#1094;&#1091;&#1079;&#1089;&#1082;&#1080;&#1081;"
+  ],
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ais"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "terme-2015-12-06-16-27-21-86966234494",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/site-web/portail/portail-thematique/",
+  "description": "portail thematique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369412,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-21",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Portail th&#233;matique",
+  "nom-anglais": [
+    "Thematic portal"
+  ],
+  "nom-arabe": [
+    "&#1576;&#1608;&#1575;&#1576;&#1577; &#1575;&#1604;&#1605;&#1608;&#1575;&#1590;&#1610;&#1593;"
+  ],
+  "nom-espagnol": [
+    "Portal tem&#225;tico"
+  ],
+  "nom-folder": "portail-thematique",
+  "nom-francais": [
+    "Portail th&#233;matique"
+  ],
+  "nom-italien": [
+    "Portale tematico"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-21-86966234494",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies"
+}

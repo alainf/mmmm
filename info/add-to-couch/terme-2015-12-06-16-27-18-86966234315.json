@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234315",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/medias/",
+  "description": "Description de M&#233;dias",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369395,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "M&#233;dias",
+  "nom-anglais": [
+    "Media"
+  ],
+  "nom-espagnol": [
+    "Medios"
+  ],
+  "nom-folder": "medias",
+  "nom-francais": [
+    "M&#233;dias"
+  ],
+  "nom-italien": [
+    "Mezzi"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234315",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-21-86966234482",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/site-web/",
+  "description": "Description de Site web",
+  "enfants": [
+    "terme-2015-12-06-16-27-21-86966234485",
+    "terme-2015-12-06-16-27-21-86966234488",
+    "terme-2015-12-06-16-27-21-86966234497"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317564,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-21",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Site web",
+  "nom-anglais": [
+    "Web site"
+  ],
+  "nom-arabe": [
+    "&#1605;&#1608;&#1602;&#1593; &#1573;&#1604;&#1603;&#1578;&#1585;&#1608;&#1606;&#1610;"
+  ],
+  "nom-espagnol": [
+    "Sitio web"
+  ],
+  "nom-folder": "site-web",
+  "nom-francais": [
+    "Site web"
+  ],
+  "nom-italien": [
+    "Sito web"
+  ],
+  "nom-machine": "terme-2015-12-06-16-27-21-86966234482",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies"
+}
