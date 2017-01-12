@@ -163,7 +163,14 @@
       <dt><%- data.__('Types de contenu') %></dt>
       <dd>
               <% data.doc.typeDeContenu.forEach(function (valeur) { %>
-           <p class="enum"><%- valeur %></p>
+                 <p class="enum">
+                   <% if (valeur.nom) { %>
+                    <%- valeur.nom %>
+                   <% } else { %>
+                    <%- valeur %>
+                   <% } %>
+                  </p>
+
         <% }) %><br>
       </dd>
       <% } %>
