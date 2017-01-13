@@ -2,7 +2,7 @@
 
 ## Responsabilités
 ### Responsabilités de Livecode
-* à compléter*
+*à compléter*
 
 1. Web spider
 1. Génère des fichiers json conformes
