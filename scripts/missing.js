@@ -1,3 +1,8 @@
+/*
+ * Script pour identifier les docs manquants
+ * qui sont référés par nos docs actuels
+ */
+
 'use strict'
 
 // npm

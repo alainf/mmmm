@@ -1,3 +1,7 @@
+/*
+ * Script pour uploader nos docs dans CouchDB.
+ */
+
 'use strict'
 
 require('dotenv-safe').load({ path: '../../.env', sample: '../../.env.example' })

@@ -1,3 +1,22 @@
+/*
+ * Script pour reformatter les docs en vue de les mettre dans CouchDB.
+ *
+ * C'est le même script utilisé depuis le début,
+ * quand le json n'était pas tout à fait conforme.
+ *
+ * S'occupe entre autre de:
+ *    1. vérifier que _id et nom-machine sont consistents
+ *    2. transforme les entitées html en utf-8
+ *    3. identifiant-drupal et niveau sont des nombres entiers
+ *    4. importance et pertinence sont des nombres décimaux
+ *    5. mots-clefs sont trimmés (espaces début et fin)
+ *
+ * Ce script crée de nouveaux docs dans new/ qu'on peut vérifier
+ * avant d'écraser les docs du répertoire courant. Quand tout est beau,
+ * mv new/*.json .
+ * écrasera nos fichiers qu'on pourra uploader dans CouchDB avec to-db.js
+ */
+
 'use strict'
 
 // core
@@ -16,11 +35,9 @@ const fixLine = (line) => {
 }
 
 /**
- * Générer un json corrigé (ligne par ligne, dangling commas, etc.)
+ * Remplacer les entitées html par la valeur utf-8 dans tous les champs
  */
 const entities = (doc) => {
-  // TODO
-  // Go over every field that isn't HTML
   let r
 
   for (r in doc) {
@@ -30,7 +47,6 @@ const entities = (doc) => {
       doc[r] = doc[r].map((x) => decodeHtmlEntities(x))
     }
   }
-  // if (doc.nom) { doc.nom = decodeHtmlEntities(doc.nom) }
   return doc
 }
 
