@@ -70,8 +70,8 @@
       <dd>
         <% data.doc.section.forEach(function (valeur) { %>
            <p class="enum">
-             <% if (valeur.nom) { %>
-              <%- valeur.nom %>
+             <% if (valeur.nomLangues) { %>
+              <%- valeur.nomLangues[data.languageCode] && valeur.nomLangues[data.languageCode][0] || valeur.nom %>
              <% } else { %>
               <%- valeur %>
              <% } %>
