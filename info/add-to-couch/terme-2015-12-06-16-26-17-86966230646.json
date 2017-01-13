@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-17",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Théorie de la régulation",
-  "nom-anglais": [
-    "Regulation theory"
-  ],
-  "nom-arabe": [
-    "نظرية الضبط"
-  ],
-  "nom-espagnol": [
-    "Teoría de la regulación"
-  ],
   "nom-folder": "Theorie-de-la-regulation",
-  "nom-francais": [
-    "Théorie de la régulation"
-  ],
-  "nom-italien": [
-    "Teoria della regolazione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-17-86966230646"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Regulation theory"
+    ],
+    "ar": [
+      "نظرية الضبط"
+    ],
+    "es": [
+      "Teoría de la regulación"
+    ],
+    "fr": [
+      "Théorie de la régulation"
+    ],
+    "it": [
+      "Teoria della regolazione"
+    ]
+  }
 }

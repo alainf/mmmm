@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Contrôle de gestion et planification",
-  "nom-anglais": [
-    "Management control and planning"
-  ],
-  "nom-arabe": [
-    "الرقابة التدبير والتخطيط"
-  ],
-  "nom-espagnol": [
-    "Control de gestión y planificación"
-  ],
   "nom-folder": "Controle-de-gestion-et-planification",
-  "nom-francais": [
-    "Contrôle de gestion et planification"
-  ],
-  "nom-italien": [
-    "Controllo di gestione e progettazione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-20-86966227218"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management control and planning"
+    ],
+    "ar": [
+      "الرقابة التدبير والتخطيط"
+    ],
+    "es": [
+      "Control de gestión y planificación"
+    ],
+    "fr": [
+      "Contrôle de gestion et planification"
+    ],
+    "it": [
+      "Controllo di gestione e progettazione"
+    ]
+  }
 }

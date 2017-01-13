@@ -9,26 +9,28 @@
   "moment-de-creation": "2015-12-06-16-20-59",
   "moment-de-modification": "2016-02-04-16-46-08",
   "nom": "Guinée",
-  "nom-anglais": [
-    "Guinea"
-  ],
-  "nom-arabe": [
-    "غينيا"
-  ],
-  "nom-espagnol": [
-    "Guinea"
-  ],
   "nom-folder": "Guinee",
-  "nom-francais": [
-    "Guinée"
-  ],
-  "nom-italien": [
-    "Guinea"
-  ],
   "nom-machine": "lieu-2015-12-06-16-20-59-86966211590",
   "nom-russe": [
     "Гвинея"
   ],
   "sous-type": "pays",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Guinea"
+    ],
+    "ar": [
+      "غينيا"
+    ],
+    "es": [
+      "Guinea"
+    ],
+    "fr": [
+      "Guinée"
+    ],
+    "it": [
+      "Guinea"
+    ]
+  }
 }

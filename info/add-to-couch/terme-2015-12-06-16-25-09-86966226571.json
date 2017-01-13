@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-09",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Ingénierie environnementale",
-  "nom-anglais": [
-    "Environmental Engineering"
-  ],
-  "nom-arabe": [
-    "هندسة البيئية"
-  ],
-  "nom-espagnol": [
-    "Ingeniería Ambiental"
-  ],
   "nom-folder": "Ingenierie-environnementale",
-  "nom-francais": [
-    "Ingénierie environnementale"
-  ],
-  "nom-italien": [
-    "Ingegneria ambientale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-09-86966226571"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environmental Engineering"
+    ],
+    "ar": [
+      "هندسة البيئية"
+    ],
+    "es": [
+      "Ingeniería Ambiental"
+    ],
+    "fr": [
+      "Ingénierie environnementale"
+    ],
+    "it": [
+      "Ingegneria ambientale"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-20",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Chimie physique",
-  "nom-anglais": [
-    "Physical chemistry"
-  ],
-  "nom-arabe": [
-    "كيمياء فيزيائية"
-  ],
-  "nom-espagnol": [
-    "Fisicoquímica"
-  ],
   "nom-folder": "Chimie-physique",
-  "nom-francais": [
-    "Chimie physique"
-  ],
-  "nom-italien": [
-    "Chimica fisica"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-20-86966230815"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Physical chemistry"
+    ],
+    "ar": [
+      "كيمياء فيزيائية"
+    ],
+    "es": [
+      "Fisicoquímica"
+    ],
+    "fr": [
+      "Chimie physique"
+    ],
+    "it": [
+      "Chimica fisica"
+    ]
+  }
 }

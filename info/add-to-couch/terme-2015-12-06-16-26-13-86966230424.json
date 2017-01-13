@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-26-13",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Économie politique (branches de l'économie)",
-  "nom-anglais": [
-    "Political Economy (branches)"
-  ],
-  "nom-arabe": [
-    "الاقتصاد السياسى )فروع الاقتصاد("
-  ],
-  "nom-espagnol": [
-    "Economía Política (ramas de la economía)"
-  ],
   "nom-folder": "Economie-politique-(branches-de-l'economie)",
-  "nom-francais": [
-    "Économie politique (branches de l'économie)"
-  ],
-  "nom-italien": [
-    "Economia politica (rami dell'economia)"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-13-86966230424"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political Economy (branches)"
+    ],
+    "ar": [
+      "الاقتصاد السياسى )فروع الاقتصاد("
+    ],
+    "es": [
+      "Economía Política (ramas de la economía)"
+    ],
+    "fr": [
+      "Économie politique (branches de l'économie)"
+    ],
+    "it": [
+      "Economia politica (rami dell'economia)"
+    ]
+  }
 }

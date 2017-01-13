@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-51",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Compte rendu (documentaire)",
-  "nom-anglais": [
-    "Reporting"
-  ],
-  "nom-arabe": [
-    "تقرير"
-  ],
-  "nom-espagnol": [
-    "Informe documental"
-  ],
   "nom-folder": "Compte-rendu-(documentaire)",
-  "nom-francais": [
-    "Compte rendu (documentaire)"
-  ],
-  "nom-italien": [
-    "Relazione documentaria"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-51-86966229116"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reporting"
+    ],
+    "ar": [
+      "تقرير"
+    ],
+    "es": [
+      "Informe documental"
+    ],
+    "fr": [
+      "Compte rendu (documentaire)"
+    ],
+    "it": [
+      "Relazione documentaria"
+    ]
+  }
 }

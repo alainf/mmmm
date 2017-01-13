@@ -19,25 +19,27 @@
   "moment-de-creation": "2015-12-06-16-23-37",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Politique",
-  "nom-anglais": [
-    "Politics"
-  ],
-  "nom-arabe": [
-    "سياسة"
-  ],
-  "nom-espagnol": [
-    "Política"
-  ],
   "nom-folder": "Politique",
-  "nom-francais": [
-    "Politique"
-  ],
-  "nom-italien": [
-    "Politica"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-37-86966221060"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Politics"
+    ],
+    "ar": [
+      "سياسة"
+    ],
+    "es": [
+      "Política"
+    ],
+    "fr": [
+      "Politique"
+    ],
+    "it": [
+      "Politica"
+    ]
+  }
 }

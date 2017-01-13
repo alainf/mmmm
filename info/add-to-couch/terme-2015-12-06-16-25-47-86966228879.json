@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-47",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "Résistance au changement",
-  "nom-anglais": [
-    "Resistance to change"
-  ],
-  "nom-arabe": [
-    "مقاومة التغيير"
-  ],
-  "nom-espagnol": [
-    "Resistencia al cambio"
-  ],
   "nom-folder": "Resistance-au-changement",
-  "nom-francais": [
-    "Résistance au changement"
-  ],
-  "nom-italien": [
-    "Resistenza al cambiamento"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-47-86966228879"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Resistance to change"
+    ],
+    "ar": [
+      "مقاومة التغيير"
+    ],
+    "es": [
+      "Resistencia al cambio"
+    ],
+    "fr": [
+      "Résistance au changement"
+    ],
+    "it": [
+      "Resistenza al cambiamento"
+    ]
+  }
 }

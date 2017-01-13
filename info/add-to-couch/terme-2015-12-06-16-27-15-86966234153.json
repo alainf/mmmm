@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-15",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Revue académique",
-  "nom-anglais": [
-    "Scholarly journal"
-  ],
-  "nom-espagnol": [
-    "Revista académica"
-  ],
   "nom-folder": "revue-academique",
-  "nom-francais": [
-    "Revue académique"
-  ],
-  "nom-italien": [
-    "Rivista accademica"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-15-86966234153",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scholarly journal"
+    ],
+    "es": [
+      "Revista académica"
+    ],
+    "fr": [
+      "Revue académique"
+    ],
+    "it": [
+      "Rivista accademica"
+    ]
+  }
 }

@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-16",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Résumé de thèse",
-  "nom-anglais": [
-    "Abstract"
-  ],
-  "nom-espagnol": [
-    "Resumen documental"
-  ],
   "nom-folder": "resume-abstract",
-  "nom-francais": [
-    "Résumé de thèse"
-  ],
-  "nom-italien": [
-    "Sommario"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-16-86966234195",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Abstract"
+    ],
+    "es": [
+      "Resumen documental"
+    ],
+    "fr": [
+      "Résumé de thèse"
+    ],
+    "it": [
+      "Sommario"
+    ]
+  }
 }

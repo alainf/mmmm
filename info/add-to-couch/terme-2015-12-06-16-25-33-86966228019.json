@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-33",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Gestion des projets dans la santé",
-  "nom-anglais": [
-    "Management of projects in the field of health"
-  ],
-  "nom-arabe": [
-    "إدارة المشاريع في مجال الصحة"
-  ],
-  "nom-espagnol": [
-    "Gestión de proyectos en materia de salud"
-  ],
   "nom-folder": "Gestion-des-projets-dans-la-sante",
-  "nom-francais": [
-    "Gestion des projets dans la santé"
-  ],
-  "nom-italien": [
-    "Gestione dei progetti nella salute"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-33-86966228019"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management of projects in the field of health"
+    ],
+    "ar": [
+      "إدارة المشاريع في مجال الصحة"
+    ],
+    "es": [
+      "Gestión de proyectos en materia de salud"
+    ],
+    "fr": [
+      "Gestion des projets dans la santé"
+    ],
+    "it": [
+      "Gestione dei progetti nella salute"
+    ]
+  }
 }

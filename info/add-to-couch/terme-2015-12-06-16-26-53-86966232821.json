@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-26-53",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Capitalisme",
-  "nom-anglais": [
-    "Capitalism"
-  ],
-  "nom-arabe": [
-    "رأسمالية"
-  ],
-  "nom-espagnol": [
-    "Capitalismo"
-  ],
   "nom-folder": "Capitalisme",
-  "nom-francais": [
-    "Capitalisme"
-  ],
-  "nom-italien": [
-    "Capitalismo"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-53-86966232821"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Capitalism"
+    ],
+    "ar": [
+      "رأسمالية"
+    ],
+    "es": [
+      "Capitalismo"
+    ],
+    "fr": [
+      "Capitalisme"
+    ],
+    "it": [
+      "Capitalismo"
+    ]
+  }
 }

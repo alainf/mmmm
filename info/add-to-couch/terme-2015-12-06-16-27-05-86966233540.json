@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-27-05",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Santé dans les sciences sociales",
-  "nom-anglais": [
-    "Health in the social sciences"
-  ],
-  "nom-arabe": [
-    "الصحة فى العلوم الاجتماعية"
-  ],
-  "nom-espagnol": [
-    "Salud en Ciencias Sociales"
-  ],
   "nom-folder": "Sante-dans-les-sciences-sociales",
-  "nom-francais": [
-    "Santé dans les sciences sociales"
-  ],
-  "nom-italien": [
-    "Salute nelle scienze sociali"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-27-05-86966233540"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health in the social sciences"
+    ],
+    "ar": [
+      "الصحة فى العلوم الاجتماعية"
+    ],
+    "es": [
+      "Salud en Ciencias Sociales"
+    ],
+    "fr": [
+      "Santé dans les sciences sociales"
+    ],
+    "it": [
+      "Salute nelle scienze sociali"
+    ]
+  }
 }

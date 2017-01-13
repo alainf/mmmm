@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-12",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Conférence",
-  "nom-anglais": [
-    "Conference"
-  ],
-  "nom-espagnol": [
-    "Conferencia(s)"
-  ],
   "nom-folder": "conference",
-  "nom-francais": [
-    "Conférence"
-  ],
-  "nom-italien": [
-    "Conferenza"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-12-86966233960",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conference"
+    ],
+    "es": [
+      "Conferencia(s)"
+    ],
+    "fr": [
+      "Conférence"
+    ],
+    "it": [
+      "Conferenza"
+    ]
+  }
 }

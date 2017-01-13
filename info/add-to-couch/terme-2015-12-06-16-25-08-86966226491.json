@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-08",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Déchets",
-  "nom-anglais": [
-    "Waste"
-  ],
-  "nom-arabe": [
-    "مخلفات"
-  ],
-  "nom-espagnol": [
-    "Desechos"
-  ],
   "nom-folder": "Dechets",
-  "nom-francais": [
-    "Déchets"
-  ],
-  "nom-italien": [
-    "Sprechi"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-08-86966226491"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Waste"
+    ],
+    "ar": [
+      "مخلفات"
+    ],
+    "es": [
+      "Desechos"
+    ],
+    "fr": [
+      "Déchets"
+    ],
+    "it": [
+      "Sprechi"
+    ]
+  }
 }

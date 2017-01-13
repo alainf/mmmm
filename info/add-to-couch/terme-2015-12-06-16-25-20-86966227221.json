@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Contrôle de gestion et qualité",
-  "nom-anglais": [
-    "Management control and quality"
-  ],
-  "nom-arabe": [
-    "الرقابة التدبير والجودة"
-  ],
-  "nom-espagnol": [
-    "Control de gestión y calidad"
-  ],
   "nom-folder": "Controle-de-gestion-et-qualite",
-  "nom-francais": [
-    "Contrôle de gestion et qualité"
-  ],
-  "nom-italien": [
-    "Controllo di gestione e qualità"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-20-86966227221"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management control and quality"
+    ],
+    "ar": [
+      "الرقابة التدبير والجودة"
+    ],
+    "es": [
+      "Control de gestión y calidad"
+    ],
+    "fr": [
+      "Contrôle de gestion et qualité"
+    ],
+    "it": [
+      "Controllo di gestione e qualità"
+    ]
+  }
 }

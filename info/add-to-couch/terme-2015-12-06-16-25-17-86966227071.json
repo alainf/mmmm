@@ -19,25 +19,27 @@
   "moment-de-creation": "2015-12-06-16-25-17",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Contrôle de gestion",
-  "nom-anglais": [
-    "Management control"
-  ],
-  "nom-arabe": [
-    "الرقابة التدبير"
-  ],
-  "nom-espagnol": [
-    "Control de gestión"
-  ],
   "nom-folder": "Controle-de-gestion",
-  "nom-francais": [
-    "Contrôle de gestion"
-  ],
-  "nom-italien": [
-    "Controllo di gestione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-17-86966227071"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management control"
+    ],
+    "ar": [
+      "الرقابة التدبير"
+    ],
+    "es": [
+      "Control de gestión"
+    ],
+    "fr": [
+      "Contrôle de gestion"
+    ],
+    "it": [
+      "Controllo di gestione"
+    ]
+  }
 }

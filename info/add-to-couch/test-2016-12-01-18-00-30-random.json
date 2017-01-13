@@ -16,9 +16,7 @@
   "fiche-publiee": false,
   "format": "HTML",
   "identifiant-drupal": 471767,
-  "identifiant-drupal-parent": [
-    "451504"
-  ],
+  "identifiant-drupal-parent": 451504,
   "identifiant-issn": "2261-5512",
   "importance": 0,
   "isCopyright": false,

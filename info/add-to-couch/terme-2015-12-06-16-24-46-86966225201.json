@@ -17,25 +17,27 @@
   "moment-de-creation": "2015-12-06-16-24-46",
   "moment-de-modification": "2016-05-05-02-16-11",
   "nom": "Culture",
-  "nom-anglais": [
-    "Culture"
-  ],
-  "nom-arabe": [
-    "ثقافة"
-  ],
-  "nom-espagnol": [
-    "Cultura"
-  ],
   "nom-folder": "Culture",
-  "nom-francais": [
-    "Culture"
-  ],
-  "nom-italien": [
-    "cultura"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-46-86966225201"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Culture"
+    ],
+    "ar": [
+      "ثقافة"
+    ],
+    "es": [
+      "Cultura"
+    ],
+    "fr": [
+      "Culture"
+    ],
+    "it": [
+      "cultura"
+    ]
+  }
 }

@@ -15,25 +15,27 @@
   "moment-de-creation": "2015-12-06-16-25-19",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Transport",
-  "nom-anglais": [
-    "Transportation"
-  ],
-  "nom-arabe": [
-    "نقل"
-  ],
-  "nom-espagnol": [
-    "Transporte"
-  ],
   "nom-folder": "Transport",
-  "nom-francais": [
-    "Transport"
-  ],
-  "nom-italien": [
-    "Trasporto"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-19-86966227166"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Transportation"
+    ],
+    "ar": [
+      "نقل"
+    ],
+    "es": [
+      "Transporte"
+    ],
+    "fr": [
+      "Transport"
+    ],
+    "it": [
+      "Trasporto"
+    ]
+  }
 }

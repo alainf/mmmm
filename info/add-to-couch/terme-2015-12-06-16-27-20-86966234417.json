@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-20",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Ressource",
-  "nom-anglais": [
-    "Resource"
-  ],
-  "nom-espagnol": [
-    "Recurso"
-  ],
   "nom-folder": "ressource",
-  "nom-francais": [
-    "Ressource"
-  ],
-  "nom-italien": [
-    "Risorsa"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-20-86966234417",
   "sous-type": "types-de-ressource",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Resource"
+    ],
+    "es": [
+      "Recurso"
+    ],
+    "fr": [
+      "Ressource"
+    ],
+    "it": [
+      "Risorsa"
+    ]
+  }
 }

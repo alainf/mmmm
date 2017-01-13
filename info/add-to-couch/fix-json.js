@@ -24,6 +24,15 @@ const fs = require('fs')
 
 // npm
 const decodeHtmlEntities = require('he').decode
+const _ = require('lodash')
+
+const nomLangues = [
+  'nom-francais',
+  'nom-anglais',
+  'nom-italien',
+  'nom-espagnol',
+  'nom-arabe'
+]
 
 /**
  * Générer un json corrigé (ligne par ligne, dangling commas, etc.)
@@ -72,6 +81,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
       return reject(e)
     }
     let r
+    let lang
 
     for (r in doc) {
       // true et false: bool, not strings
@@ -80,7 +90,19 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
       } else if (doc[r] === 'false') {
         doc[r] = false
       } else {
-        if (r === 'identifiant-drupal') {
+        // retirer les doublons des array
+        if (typeof doc[r] === 'object' && doc[r].length) {
+          doc[r] = _.uniq(doc[r])
+        }
+
+        if (nomLangues.indexOf(r) !== -1) {
+          if (!doc.nomLangues) { doc.nomLangues = {} }
+          if (typeof doc[r] === 'string') { doc[r] = [doc[r]] }
+          lang = r.slice(4, 6)
+          if (lang === 'an') { lang = 'en' }
+          doc.nomLangues[lang] = doc[r].slice()
+          delete doc[r]
+        } else if (r === 'identifiant-drupal' || r === 'identifiant-drupal-parent') {
           if (typeof doc[r] === 'object') { doc[r] = doc[r][0] }
           // nombre entier
           doc[r] = parseInt(doc[r], 10)

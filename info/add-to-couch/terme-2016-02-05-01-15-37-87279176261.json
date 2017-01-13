@@ -9,20 +9,22 @@
   "moment-de-creation": "2016-02-05-01-15-37",
   "moment-de-modification": "2016-02-05-01-17-15",
   "nom": "Écrire à qui",
-  "nom-anglais": [
-    "Who to write to"
-  ],
-  "nom-espagnol": [
-    "A quién escribir"
-  ],
   "nom-folder": "Ecrire-a-qui",
-  "nom-francais": [
-    "Écrire à qui"
-  ],
-  "nom-italien": [
-    "A chi scrivere"
-  ],
   "nom-machine": "terme-2016-02-05-01-15-37-87279176261",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Who to write to"
+    ],
+    "es": [
+      "A quién escribir"
+    ],
+    "fr": [
+      "Écrire à qui"
+    ],
+    "it": [
+      "A chi scrivere"
+    ]
+  }
 }

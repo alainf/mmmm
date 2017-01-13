@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-19",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Agrochimie",
-  "nom-anglais": [
-    "Agro-chemistry"
-  ],
-  "nom-arabe": [
-    "الزراعة الكيماوية"
-  ],
-  "nom-espagnol": [
-    "Agroquímica"
-  ],
   "nom-folder": "Agrochimie",
-  "nom-francais": [
-    "Agrochimie"
-  ],
-  "nom-italien": [
-    "Agrochimica"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-19-86966230761"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agro-chemistry"
+    ],
+    "ar": [
+      "الزراعة الكيماوية"
+    ],
+    "es": [
+      "Agroquímica"
+    ],
+    "fr": [
+      "Agrochimie"
+    ],
+    "it": [
+      "Agrochimica"
+    ]
+  }
 }

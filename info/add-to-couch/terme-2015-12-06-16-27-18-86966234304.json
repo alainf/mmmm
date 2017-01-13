@@ -13,20 +13,22 @@
   "moment-de-creation": "2015-12-06-16-27-18",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Institut",
-  "nom-anglais": [
-    "Intstitute"
-  ],
-  "nom-espagnol": [
-    "Instituto"
-  ],
   "nom-folder": "institut",
-  "nom-francais": [
-    "Institut"
-  ],
-  "nom-italien": [
-    "Istituto"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-18-86966234304",
   "sous-type": "types-de-acteur",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intstitute"
+    ],
+    "es": [
+      "Instituto"
+    ],
+    "fr": [
+      "Institut"
+    ],
+    "it": [
+      "Istituto"
+    ]
+  }
 }

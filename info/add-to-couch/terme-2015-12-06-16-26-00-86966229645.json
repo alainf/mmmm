@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-26-00",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Marketing des produits agro-alimentaires",
-  "nom-anglais": [
-    "Agro-food marketing"
-  ],
-  "nom-arabe": [
-    "تسويق المنتجات الزراعية - الغذائية"
-  ],
-  "nom-espagnol": [
-    "Comercialización de productos agroalimentarios"
-  ],
   "nom-folder": "Marketing-des-produits-agro-alimentaires",
-  "nom-francais": [
-    "Marketing des produits agro-alimentaires"
-  ],
-  "nom-italien": [
-    "Commercializzazione di prodotti alimentari"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-00-86966229645"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agro-food marketing"
+    ],
+    "ar": [
+      "تسويق المنتجات الزراعية - الغذائية"
+    ],
+    "es": [
+      "Comercialización de productos agroalimentarios"
+    ],
+    "fr": [
+      "Marketing des produits agro-alimentaires"
+    ],
+    "it": [
+      "Commercializzazione di prodotti alimentari"
+    ]
+  }
 }

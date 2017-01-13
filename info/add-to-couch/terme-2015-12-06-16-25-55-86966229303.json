@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-55",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Entreprises",
-  "nom-anglais": [
-    "Businesses"
-  ],
-  "nom-arabe": [
-    "مقاولات"
-  ],
-  "nom-espagnol": [
-    "Empresas"
-  ],
   "nom-folder": "Entreprises",
-  "nom-francais": [
-    "Entreprises"
-  ],
-  "nom-italien": [
-    "Imprese"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-55-86966229303"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Businesses"
+    ],
+    "ar": [
+      "مقاولات"
+    ],
+    "es": [
+      "Empresas"
+    ],
+    "fr": [
+      "Entreprises"
+    ],
+    "it": [
+      "Imprese"
+    ]
+  }
 }

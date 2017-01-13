@@ -21,22 +21,7 @@
   "moment-de-creation": "2015-12-06-16-23-38",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Quoi faire en ville",
-  "nom-anglais": [
-    "What to do in town"
-  ],
-  "nom-arabe": [
-    "ما يجب القيام به في المدينة"
-  ],
-  "nom-espagnol": [
-    "Qué se hace en la ciudad"
-  ],
   "nom-folder": "Quoi-faire-en-ville",
-  "nom-francais": [
-    "Quoi faire en ville"
-  ],
-  "nom-italien": [
-    "Cosa fare in città"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-38-86966221081"
   ],
@@ -44,5 +29,22 @@
     "Что делать в городе"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "What to do in town"
+    ],
+    "ar": [
+      "ما يجب القيام به في المدينة"
+    ],
+    "es": [
+      "Qué se hace en la ciudad"
+    ],
+    "fr": [
+      "Quoi faire en ville"
+    ],
+    "it": [
+      "Cosa fare in città"
+    ]
+  }
 }

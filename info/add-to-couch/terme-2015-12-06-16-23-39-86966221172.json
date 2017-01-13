@@ -11,22 +11,7 @@
   "moment-de-creation": "2015-12-06-16-23-39",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Environnement, écologie, développement durable",
-  "nom-anglais": [
-    "Environment, ecology, sustainable development"
-  ],
-  "nom-arabe": [
-    "البيئة، علم البيئة، التنمية المستدامة"
-  ],
-  "nom-espagnol": [
-    "Medio ambiente, ecología, desarrollo sostenible"
-  ],
   "nom-folder": "Environnement, ecologie, developpement durable",
-  "nom-francais": [
-    "Environnement, écologie, développement durable"
-  ],
-  "nom-italien": [
-    "Ambiente, ecologia, sviluppo sostenibile"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-39-86966221172"
   ],
@@ -34,5 +19,22 @@
     "Окружающей среды, экологии, устойчивого развития"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environment, ecology, sustainable development"
+    ],
+    "ar": [
+      "البيئة، علم البيئة، التنمية المستدامة"
+    ],
+    "es": [
+      "Medio ambiente, ecología, desarrollo sostenible"
+    ],
+    "fr": [
+      "Environnement, écologie, développement durable"
+    ],
+    "it": [
+      "Ambiente, ecologia, sviluppo sostenibile"
+    ]
+  }
 }

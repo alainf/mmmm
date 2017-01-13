@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-12",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Journée d'etude",
-  "nom-anglais": [
-    "Study session"
-  ],
-  "nom-espagnol": [
-    "Jornada de estudio"
-  ],
   "nom-folder": "journee-d'etude",
-  "nom-francais": [
-    "Journée d'etude"
-  ],
-  "nom-italien": [
-    "Giornata di studio"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-12-86966233975",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Study session"
+    ],
+    "es": [
+      "Jornada de estudio"
+    ],
+    "fr": [
+      "Journée d'etude"
+    ],
+    "it": [
+      "Giornata di studio"
+    ]
+  }
 }

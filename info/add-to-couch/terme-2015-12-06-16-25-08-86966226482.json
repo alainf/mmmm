@@ -15,25 +15,27 @@
   "moment-de-creation": "2015-12-06-16-25-08",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Changement climatique",
-  "nom-anglais": [
-    "Climate Change"
-  ],
-  "nom-arabe": [
-    "تغير المناخ"
-  ],
-  "nom-espagnol": [
-    "Cambio climático"
-  ],
   "nom-folder": "Changement-climatique",
-  "nom-francais": [
-    "Changement climatique"
-  ],
-  "nom-italien": [
-    "cambiamento climatico"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-08-86966226482"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Climate Change"
+    ],
+    "ar": [
+      "تغير المناخ"
+    ],
+    "es": [
+      "Cambio climático"
+    ],
+    "fr": [
+      "Changement climatique"
+    ],
+    "it": [
+      "cambiamento climatico"
+    ]
+  }
 }

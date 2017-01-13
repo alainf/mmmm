@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-18",
   "moment-de-modification": "2015-01-04-02-27-57",
   "nom": "Médias",
-  "nom-anglais": [
-    "Media"
-  ],
-  "nom-espagnol": [
-    "Medios"
-  ],
   "nom-folder": "medias",
-  "nom-francais": [
-    "Médias"
-  ],
-  "nom-italien": [
-    "Mezzi"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-18-86966234315",
   "sous-type": "types-de-acteur",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media"
+    ],
+    "es": [
+      "Medios"
+    ],
+    "fr": [
+      "Médias"
+    ],
+    "it": [
+      "Mezzi"
+    ]
+  }
 }

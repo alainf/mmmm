@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-48",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Aide",
-  "nom-anglais": [
-    "Help"
-  ],
-  "nom-arabe": [
-    "مساعدة"
-  ],
-  "nom-espagnol": [
-    "Ayuda"
-  ],
   "nom-folder": "Aide",
-  "nom-francais": [
-    "Aide"
-  ],
-  "nom-italien": [
-    "aiuto"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-48-86966232494"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Help"
+    ],
+    "ar": [
+      "مساعدة"
+    ],
+    "es": [
+      "Ayuda"
+    ],
+    "fr": [
+      "Aide"
+    ],
+    "it": [
+      "aiuto"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-57",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Théorie de l'agence",
-  "nom-anglais": [
-    "Agency theory"
-  ],
-  "nom-arabe": [
-    "نظرية الوكالة"
-  ],
-  "nom-espagnol": [
-    "Problema del agente-principal"
-  ],
   "nom-folder": "Theorie-de-l'agence",
-  "nom-francais": [
-    "Théorie de l'agence"
-  ],
-  "nom-italien": [
-    "Teoria dell'agenzia"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-57-86966229452"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agency theory"
+    ],
+    "ar": [
+      "نظرية الوكالة"
+    ],
+    "es": [
+      "Problema del agente-principal"
+    ],
+    "fr": [
+      "Théorie de l'agence"
+    ],
+    "it": [
+      "Teoria dell'agenzia"
+    ]
+  }
 }

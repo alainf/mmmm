@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-57",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "Réseaux d'acteurs sociaux",
-  "nom-anglais": [
-    "Social networks"
-  ],
-  "nom-arabe": [
-    "شبكة اجتماعية"
-  ],
-  "nom-espagnol": [
-    "Red social"
-  ],
   "nom-folder": "Reseaux-d'acteurs-sociaux",
-  "nom-francais": [
-    "Réseaux d'acteurs sociaux"
-  ],
-  "nom-italien": [
-    "Rete sociale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-57-86966229429"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social networks"
+    ],
+    "ar": [
+      "شبكة اجتماعية"
+    ],
+    "es": [
+      "Red social"
+    ],
+    "fr": [
+      "Réseaux d'acteurs sociaux"
+    ],
+    "it": [
+      "Rete sociale"
+    ]
+  }
 }

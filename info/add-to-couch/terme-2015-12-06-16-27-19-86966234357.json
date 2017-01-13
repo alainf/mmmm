@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-19",
   "moment-de-modification": "2015-01-04-02-27-57",
   "nom": "Presse universitaire",
-  "nom-anglais": [
-    "University press"
-  ],
-  "nom-espagnol": [
-    "Prensa universitaria"
-  ],
   "nom-folder": "presse-universitaire",
-  "nom-francais": [
-    "Presse universitaire"
-  ],
-  "nom-italien": [
-    "Stampa universitaria"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-19-86966234357",
   "sous-type": "types-de-acteur",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "University press"
+    ],
+    "es": [
+      "Prensa universitaria"
+    ],
+    "fr": [
+      "Presse universitaire"
+    ],
+    "it": [
+      "Stampa universitaria"
+    ]
+  }
 }

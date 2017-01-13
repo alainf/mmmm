@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-13",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Emploi",
-  "nom-anglais": [
-    "Employment"
-  ],
-  "nom-arabe": [
-    "العمل"
-  ],
-  "nom-espagnol": [
-    "Empleo"
-  ],
   "nom-folder": "Emploi",
-  "nom-francais": [
-    "Emploi"
-  ],
-  "nom-italien": [
-    "impiego"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-13-86966230383"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Employment"
+    ],
+    "ar": [
+      "العمل"
+    ],
+    "es": [
+      "Empleo"
+    ],
+    "fr": [
+      "Emploi"
+    ],
+    "it": [
+      "impiego"
+    ]
+  }
 }

@@ -9,26 +9,28 @@
   "moment-de-creation": "2015-12-06-16-22-15",
   "moment-de-modification": "2016-02-04-17-45-50",
   "nom": "Niger",
-  "nom-anglais": [
-    "Niger"
-  ],
-  "nom-arabe": [
-    "النيجر"
-  ],
-  "nom-espagnol": [
-    "Niger"
-  ],
   "nom-folder": "Niger",
-  "nom-francais": [
-    "Niger"
-  ],
-  "nom-italien": [
-    "Niger"
-  ],
   "nom-machine": "lieu-2015-12-06-16-22-15-86966216152",
   "nom-russe": [
     "Нигер"
   ],
   "sous-type": "pays",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Niger"
+    ],
+    "ar": [
+      "النيجر"
+    ],
+    "es": [
+      "Niger"
+    ],
+    "fr": [
+      "Niger"
+    ],
+    "it": [
+      "Niger"
+    ]
+  }
 }

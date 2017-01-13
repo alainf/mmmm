@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-17",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Sécurité alimentaire",
-  "nom-anglais": [
-    "Food security"
-  ],
-  "nom-arabe": [
-    "أمن غذائي"
-  ],
-  "nom-espagnol": [
-    "Seguridad alimentaria"
-  ],
   "nom-folder": "Securite-alimentaire",
-  "nom-francais": [
-    "Sécurité alimentaire"
-  ],
-  "nom-italien": [
-    "Sicurezza alimentare"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-17-86966230621"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Food security"
+    ],
+    "ar": [
+      "أمن غذائي"
+    ],
+    "es": [
+      "Seguridad alimentaria"
+    ],
+    "fr": [
+      "Sécurité alimentaire"
+    ],
+    "it": [
+      "Sicurezza alimentare"
+    ]
+  }
 }

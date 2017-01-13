@@ -20,22 +20,7 @@
   "moment-de-creation": "2015-12-06-16-23-38",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Affaires, économie et finances personnelles",
-  "nom-anglais": [
-    "Business, economics and personal finance"
-  ],
-  "nom-arabe": [
-    "الأعمال والاقتصاد والتمويل الشخصي"
-  ],
-  "nom-espagnol": [
-    "Negocios, economía y finanzas personales"
-  ],
   "nom-folder": "Affaires,-economie-et-finances-personnelles",
-  "nom-francais": [
-    "Affaires, économie et finances personnelles"
-  ],
-  "nom-italien": [
-    "Affari, economia e finanza personale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-38-86966221110"
   ],
@@ -43,5 +28,22 @@
     "Бизнеса, экономики и личных финансов"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business, economics and personal finance"
+    ],
+    "ar": [
+      "الأعمال والاقتصاد والتمويل الشخصي"
+    ],
+    "es": [
+      "Negocios, economía y finanzas personales"
+    ],
+    "fr": [
+      "Affaires, économie et finances personnelles"
+    ],
+    "it": [
+      "Affari, economia e finanza personale"
+    ]
+  }
 }

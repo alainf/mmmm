@@ -15,22 +15,7 @@
   "moment-de-creation": "2015-12-06-16-23-39",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Actualité santé et bien-être",
-  "nom-anglais": [
-    "Health and wellness news"
-  ],
-  "nom-arabe": [
-    "أخبارمن الصحة والعافية"
-  ],
-  "nom-espagnol": [
-    "Noticias de bienestar y salud"
-  ],
   "nom-folder": "Actualite-sante-et-bien-etre",
-  "nom-francais": [
-    "Actualité santé et bien-être"
-  ],
-  "nom-italien": [
-    "Notizie di salute e benessere"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-39-86966221157"
   ],
@@ -38,5 +23,22 @@
     "Новости здоровья и хорошего самочувствия"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health and wellness news"
+    ],
+    "ar": [
+      "أخبارمن الصحة والعافية"
+    ],
+    "es": [
+      "Noticias de bienestar y salud"
+    ],
+    "fr": [
+      "Actualité santé et bien-être"
+    ],
+    "it": [
+      "Notizie di salute e benessere"
+    ]
+  }
 }

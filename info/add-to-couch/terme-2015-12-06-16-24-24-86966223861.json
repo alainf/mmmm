@@ -14,23 +14,25 @@
   "moment-de-creation": "2015-12-06-16-24-24",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Méthodes et systèmes agricoles",
-  "nom-anglais": [
-    "Farming methods and systems"
-  ],
-  "nom-arabe": [
-    "أساليب ونظم الزراعات"
-  ],
-  "nom-espagnol": [
-    "Métodos y sistemas agrícolas"
-  ],
   "nom-folder": "Methodes-et-systemes-agricoles",
-  "nom-francais": [
-    "Méthodes et systèmes agricoles"
-  ],
-  "nom-italien": [
-    "Metodi e sistemi agricoli"
-  ],
   "nom-machine": "terme-2015-12-06-16-24-24-86966223861",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Farming methods and systems"
+    ],
+    "ar": [
+      "أساليب ونظم الزراعات"
+    ],
+    "es": [
+      "Métodos y sistemas agrícolas"
+    ],
+    "fr": [
+      "Méthodes et systèmes agricoles"
+    ],
+    "it": [
+      "Metodi e sistemi agricoli"
+    ]
+  }
 }

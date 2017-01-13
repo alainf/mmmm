@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-04",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Contrôle et régulation",
-  "nom-anglais": [
-    "Control and regulation"
-  ],
-  "nom-arabe": [
-    "مراقبة و تنظيم"
-  ],
-  "nom-espagnol": [
-    "Control y regulación"
-  ],
   "nom-folder": "Controle-et-regulation",
-  "nom-francais": [
-    "Contrôle et régulation"
-  ],
-  "nom-italien": [
-    "Controllo e regolazione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-04-86966229850"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Control and regulation"
+    ],
+    "ar": [
+      "مراقبة و تنظيم"
+    ],
+    "es": [
+      "Control y regulación"
+    ],
+    "fr": [
+      "Contrôle et régulation"
+    ],
+    "it": [
+      "Controllo e regolazione"
+    ]
+  }
 }

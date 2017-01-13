@@ -10,26 +10,28 @@
   "moment-de-creation": "2015-12-06-16-10-48",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Europe",
-  "nom-anglais": [
-    "Europe"
-  ],
-  "nom-arabe": [
-    "أوروبا"
-  ],
-  "nom-espagnol": [
-    "Europa"
-  ],
   "nom-folder": "Europe",
-  "nom-francais": [
-    "Europe"
-  ],
-  "nom-italien": [
-    "Europa"
-  ],
   "nom-machine": "lieu-2015-12-06-16-10-48-86966174926",
   "nom-russe": [
     "Европа"
   ],
   "sous-type": "monde",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Europe"
+    ],
+    "ar": [
+      "أوروبا"
+    ],
+    "es": [
+      "Europa"
+    ],
+    "fr": [
+      "Europe"
+    ],
+    "it": [
+      "Europa"
+    ]
+  }
 }

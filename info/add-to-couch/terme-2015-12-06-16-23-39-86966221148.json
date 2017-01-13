@@ -11,22 +11,7 @@
   "moment-de-creation": "2015-12-06-16-23-39",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Politique nationale",
-  "nom-anglais": [
-    "National politics"
-  ],
-  "nom-arabe": [
-    "السياسة الوطنية"
-  ],
-  "nom-espagnol": [
-    "Política nacional"
-  ],
   "nom-folder": "Politique-nationale",
-  "nom-francais": [
-    "Politique nationale"
-  ],
-  "nom-italien": [
-    "Politica nazionale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-39-86966221148"
   ],
@@ -34,5 +19,22 @@
     "Национальная политика"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National politics"
+    ],
+    "ar": [
+      "السياسة الوطنية"
+    ],
+    "es": [
+      "Política nacional"
+    ],
+    "fr": [
+      "Politique nationale"
+    ],
+    "it": [
+      "Politica nazionale"
+    ]
+  }
 }

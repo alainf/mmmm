@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-14",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Éditorial",
-  "nom-anglais": [
-    "Editorial"
-  ],
-  "nom-arabe": [
-    "الافتتاحية"
-  ],
-  "nom-espagnol": [
-    "Editorial"
-  ],
   "nom-folder": "Editorial",
-  "nom-francais": [
-    "Éditorial"
-  ],
-  "nom-italien": [
-    "Editoriale"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-14-86966226876",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Editorial"
+    ],
+    "ar": [
+      "الافتتاحية"
+    ],
+    "es": [
+      "Editorial"
+    ],
+    "fr": [
+      "Éditorial"
+    ],
+    "it": [
+      "Editoriale"
+    ]
+  }
 }

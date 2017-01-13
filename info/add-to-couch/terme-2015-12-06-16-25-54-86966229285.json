@@ -20,25 +20,27 @@
   "moment-de-creation": "2015-12-06-16-25-54",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Stratégie d'entreprise (stratégie)",
-  "nom-anglais": [
-    "Corporate strategy (strategy)"
-  ],
-  "nom-arabe": [
-    "استراتيجية الأعمال التجارية"
-  ],
-  "nom-espagnol": [
-    "Estrategia empresarial (estrategia)"
-  ],
   "nom-folder": "Strategie-d'entreprise",
-  "nom-francais": [
-    "Stratégie d'entreprise (stratégie)"
-  ],
-  "nom-italien": [
-    "Strategia aziendale (strategia)"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-54-86966229285"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate strategy (strategy)"
+    ],
+    "ar": [
+      "استراتيجية الأعمال التجارية"
+    ],
+    "es": [
+      "Estrategia empresarial (estrategia)"
+    ],
+    "fr": [
+      "Stratégie d'entreprise (stratégie)"
+    ],
+    "it": [
+      "Strategia aziendale (strategia)"
+    ]
+  }
 }

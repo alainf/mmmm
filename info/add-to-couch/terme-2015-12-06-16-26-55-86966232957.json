@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-55",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Économie politique (politique généralités)",
-  "nom-anglais": [
-    "Political Economy"
-  ],
-  "nom-arabe": [
-    "الاقتصاد السياسي (السياسة العامة)"
-  ],
-  "nom-espagnol": [
-    "Economía política (política)"
-  ],
   "nom-folder": "Economie-politique-(politique-generalites)",
-  "nom-francais": [
-    "Économie politique (politique généralités)"
-  ],
-  "nom-italien": [
-    "Economia politica (politica)"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-55-86966232957"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political Economy"
+    ],
+    "ar": [
+      "الاقتصاد السياسي (السياسة العامة)"
+    ],
+    "es": [
+      "Economía política (política)"
+    ],
+    "fr": [
+      "Économie politique (politique généralités)"
+    ],
+    "it": [
+      "Economia politica (politica)"
+    ]
+  }
 }

@@ -20,25 +20,27 @@
   "moment-de-creation": "2015-12-06-16-26-14",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Développement économique",
-  "nom-anglais": [
-    "Economic development"
-  ],
-  "nom-arabe": [
-    "نمو الإقتصادي"
-  ],
-  "nom-espagnol": [
-    "Desarrollo económico"
-  ],
   "nom-folder": "Developpement-economique",
-  "nom-francais": [
-    "Développement économique"
-  ],
-  "nom-italien": [
-    "Sviluppo economico"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-14-86966230489"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic development"
+    ],
+    "ar": [
+      "نمو الإقتصادي"
+    ],
+    "es": [
+      "Desarrollo económico"
+    ],
+    "fr": [
+      "Développement économique"
+    ],
+    "it": [
+      "Sviluppo economico"
+    ]
+  }
 }

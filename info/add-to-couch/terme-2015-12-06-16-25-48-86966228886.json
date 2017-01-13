@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-48",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "Compétences",
-  "nom-anglais": [
-    "Skills"
-  ],
-  "nom-arabe": [
-    "الكفاءات"
-  ],
-  "nom-espagnol": [
-    "Competencias"
-  ],
   "nom-folder": "Competences",
-  "nom-francais": [
-    "Compétences"
-  ],
-  "nom-italien": [
-    "Competenze"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-48-86966228886"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Skills"
+    ],
+    "ar": [
+      "الكفاءات"
+    ],
+    "es": [
+      "Competencias"
+    ],
+    "fr": [
+      "Compétences"
+    ],
+    "it": [
+      "Competenze"
+    ]
+  }
 }

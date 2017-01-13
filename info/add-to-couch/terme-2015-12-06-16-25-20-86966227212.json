@@ -23,25 +23,27 @@
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Audit et contrôle de gestion",
-  "nom-anglais": [
-    "Auditing and management control"
-  ],
-  "nom-arabe": [
-    "تدقيق والرقابة الإدارية"
-  ],
-  "nom-espagnol": [
-    "Auditoría y control de gestión"
-  ],
   "nom-folder": "Audit-et-controle-de-gestion",
-  "nom-francais": [
-    "Audit et contrôle de gestion"
-  ],
-  "nom-italien": [
-    "Verifica e controllo di gestione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-20-86966227212"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Auditing and management control"
+    ],
+    "ar": [
+      "تدقيق والرقابة الإدارية"
+    ],
+    "es": [
+      "Auditoría y control de gestión"
+    ],
+    "fr": [
+      "Audit et contrôle de gestion"
+    ],
+    "it": [
+      "Verifica e controllo di gestione"
+    ]
+  }
 }

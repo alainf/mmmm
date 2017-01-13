@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-24-50",
   "moment-de-modification": "2015-01-04-02-27-55",
   "nom": "Droit du travail dans l'union européenne",
-  "nom-anglais": [
-    "Labour Law in the European Union"
-  ],
-  "nom-arabe": [
-    "قانون العمل في الاتحاد الأوروبي"
-  ],
-  "nom-espagnol": [
-    "Derecho del Trabajo en la Unión Europea"
-  ],
   "nom-folder": "Droit-du-travail-dans-l'union-europeenne",
-  "nom-francais": [
-    "Droit du travail dans l'union européenne"
-  ],
-  "nom-italien": [
-    "Diritto del lavoro nell'Unione Europea"
-  ],
   "nom-machine": "terme-2015-12-06-16-24-50-86966225459",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Labour Law in the European Union"
+    ],
+    "ar": [
+      "قانون العمل في الاتحاد الأوروبي"
+    ],
+    "es": [
+      "Derecho del Trabajo en la Unión Europea"
+    ],
+    "fr": [
+      "Droit du travail dans l'union européenne"
+    ],
+    "it": [
+      "Diritto del lavoro nell'Unione Europea"
+    ]
+  }
 }

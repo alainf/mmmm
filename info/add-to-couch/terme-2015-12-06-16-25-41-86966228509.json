@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-41",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Formations en gestion des entreprises agricoles",
-  "nom-anglais": [
-    "Training in management of agricultural enterprises"
-  ],
-  "nom-arabe": [
-    "تدريبات في مجال إدارة المشاريع الزراعية"
-  ],
-  "nom-espagnol": [
-    "Capacitación en gestión de empresas agrícolas"
-  ],
   "nom-folder": "Formations-en-gestion-des-entreprises-agricoles",
-  "nom-francais": [
-    "Formations en gestion des entreprises agricoles"
-  ],
-  "nom-italien": [
-    "Formazione nella gestione delle imprese agricole"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-41-86966228509",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Training in management of agricultural enterprises"
+    ],
+    "ar": [
+      "تدريبات في مجال إدارة المشاريع الزراعية"
+    ],
+    "es": [
+      "Capacitación en gestión de empresas agrícolas"
+    ],
+    "fr": [
+      "Formations en gestion des entreprises agricoles"
+    ],
+    "it": [
+      "Formazione nella gestione delle imprese agricole"
+    ]
+  }
 }

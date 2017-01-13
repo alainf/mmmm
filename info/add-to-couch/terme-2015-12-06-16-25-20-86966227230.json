@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Formations en contrôle de gestion",
-  "nom-anglais": [
-    "Training in management control"
-  ],
-  "nom-arabe": [
-    "تدريبات في تحكم الإدارة"
-  ],
-  "nom-espagnol": [
-    "Capacitación en control de gestión"
-  ],
   "nom-folder": "Formations-en-controle-de-gestion",
-  "nom-francais": [
-    "Formations en contrôle de gestion"
-  ],
-  "nom-italien": [
-    "Formazioni nel controllo di gestione"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-20-86966227230",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Training in management control"
+    ],
+    "ar": [
+      "تدريبات في تحكم الإدارة"
+    ],
+    "es": [
+      "Capacitación en control de gestión"
+    ],
+    "fr": [
+      "Formations en contrôle de gestion"
+    ],
+    "it": [
+      "Formazioni nel controllo di gestione"
+    ]
+  }
 }

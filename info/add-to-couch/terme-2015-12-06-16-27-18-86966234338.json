@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-18",
   "moment-de-modification": "2015-01-04-02-27-57",
   "nom": "Réseau",
-  "nom-anglais": [
-    "Network"
-  ],
-  "nom-espagnol": [
-    "Red"
-  ],
   "nom-folder": "reseau",
-  "nom-francais": [
-    "Réseau"
-  ],
-  "nom-italien": [
-    "Rete"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-18-86966234338",
   "sous-type": "types-de-acteur",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Network"
+    ],
+    "es": [
+      "Red"
+    ],
+    "fr": [
+      "Réseau"
+    ],
+    "it": [
+      "Rete"
+    ]
+  }
 }

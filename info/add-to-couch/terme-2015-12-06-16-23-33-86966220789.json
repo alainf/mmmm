@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-23-33",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Environnement politique",
-  "nom-anglais": [
-    "Political environment"
-  ],
-  "nom-arabe": [
-    "البيئة السياسية"
-  ],
-  "nom-espagnol": [
-    "Entorno político"
-  ],
   "nom-folder": "Environnement-politique",
-  "nom-francais": [
-    "Environnement politique"
-  ],
-  "nom-italien": [
-    "Ambiente politico"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-33-86966220789"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political environment"
+    ],
+    "ar": [
+      "البيئة السياسية"
+    ],
+    "es": [
+      "Entorno político"
+    ],
+    "fr": [
+      "Environnement politique"
+    ],
+    "it": [
+      "Ambiente politico"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-56",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Théorie de la dépendance des ressources",
-  "nom-anglais": [
-    "Resource dependence theory"
-  ],
-  "nom-arabe": [
-    "الاعتماد على الموارد"
-  ],
-  "nom-espagnol": [
-    "Teoría de la dependencia de los recursos"
-  ],
   "nom-folder": "Dependance-des-ressources",
-  "nom-francais": [
-    "Théorie de la dépendance des ressources"
-  ],
-  "nom-italien": [
-    "Teoria della dipendenza delle risorse"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-56-86966229361"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Resource dependence theory"
+    ],
+    "ar": [
+      "الاعتماد على الموارد"
+    ],
+    "es": [
+      "Teoría de la dependencia de los recursos"
+    ],
+    "fr": [
+      "Théorie de la dépendance des ressources"
+    ],
+    "it": [
+      "Teoria della dipendenza delle risorse"
+    ]
+  }
 }

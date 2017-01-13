@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-44",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Veille médiatique",
-  "nom-anglais": [
-    "Media monitoring service"
-  ],
-  "nom-arabe": [
-    "خدمة رصد سائل الإعلام"
-  ],
-  "nom-espagnol": [
-    "Monitoreo de medios de comunicación"
-  ],
   "nom-folder": "Veille-mediatique",
-  "nom-francais": [
-    "Veille médiatique"
-  ],
-  "nom-italien": [
-    "Monitoraggio mediatico"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-44-86966228697"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media monitoring service"
+    ],
+    "ar": [
+      "خدمة رصد سائل الإعلام"
+    ],
+    "es": [
+      "Monitoreo de medios de comunicación"
+    ],
+    "fr": [
+      "Veille médiatique"
+    ],
+    "it": [
+      "Monitoraggio mediatico"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-55",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Changement organisationnel",
-  "nom-anglais": [
-    "Organizational change"
-  ],
-  "nom-arabe": [
-    "التغيير التنظيمي"
-  ],
-  "nom-espagnol": [
-    "Cambio organizacional"
-  ],
   "nom-folder": "Changement-organisationnel",
-  "nom-francais": [
-    "Changement organisationnel"
-  ],
-  "nom-italien": [
-    "Cambiamento organizzativo"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-55-86966229344"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational change"
+    ],
+    "ar": [
+      "التغيير التنظيمي"
+    ],
+    "es": [
+      "Cambio organizacional"
+    ],
+    "fr": [
+      "Changement organisationnel"
+    ],
+    "it": [
+      "Cambiamento organizzativo"
+    ]
+  }
 }

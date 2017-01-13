@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-16",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Vidéo",
-  "nom-anglais": [
-    "Video"
-  ],
-  "nom-arabe": [
-    "فيديو"
-  ],
-  "nom-espagnol": [
-    "Vídeo"
-  ],
   "nom-folder": "Video",
-  "nom-francais": [
-    "Vidéo"
-  ],
-  "nom-italien": [
-    "Video"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-16-86966226992"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Video"
+    ],
+    "ar": [
+      "فيديو"
+    ],
+    "es": [
+      "Vídeo"
+    ],
+    "fr": [
+      "Vidéo"
+    ],
+    "it": [
+      "Video"
+    ]
+  }
 }

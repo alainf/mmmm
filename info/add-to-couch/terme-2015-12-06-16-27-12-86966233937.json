@@ -10,26 +10,28 @@
   "moment-de-creation": "2015-12-06-16-27-12",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Lexique",
-  "nom-anglais": [
-    "Lexicon"
-  ],
-  "nom-arabe": [
-    "معجم"
-  ],
-  "nom-espagnol": [
-    "Léxico"
-  ],
   "nom-folder": "lexique",
-  "nom-francais": [
-    "Lexique"
-  ],
-  "nom-italien": [
-    "Lessico"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-12-86966233937",
   "nom-russe": [
     "Лексика"
   ],
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lexicon"
+    ],
+    "ar": [
+      "معجم"
+    ],
+    "es": [
+      "Léxico"
+    ],
+    "fr": [
+      "Lexique"
+    ],
+    "it": [
+      "Lessico"
+    ]
+  }
 }

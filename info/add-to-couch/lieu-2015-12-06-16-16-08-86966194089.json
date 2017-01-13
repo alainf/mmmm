@@ -9,26 +9,28 @@
   "moment-de-creation": "2015-12-06-16-16-08",
   "moment-de-modification": "2016-02-04-18-41-06",
   "nom": "États-Unis",
-  "nom-anglais": [
-    "United States"
-  ],
-  "nom-arabe": [
-    "الولايات المتحدة"
-  ],
-  "nom-espagnol": [
-    "Estados Unidos"
-  ],
   "nom-folder": "Etats-Unis",
-  "nom-francais": [
-    "États-Unis"
-  ],
-  "nom-italien": [
-    "Stati Uniti"
-  ],
   "nom-machine": "lieu-2015-12-06-16-16-08-86966194089",
   "nom-russe": [
     "Соединённые Штаты"
   ],
   "sous-type": "pays",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "United States"
+    ],
+    "ar": [
+      "الولايات المتحدة"
+    ],
+    "es": [
+      "Estados Unidos"
+    ],
+    "fr": [
+      "États-Unis"
+    ],
+    "it": [
+      "Stati Uniti"
+    ]
+  }
 }

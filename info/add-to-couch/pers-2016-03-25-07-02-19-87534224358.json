@@ -13,9 +13,6 @@
   "moment-de-creation": "2016-03-25-07-02-19",
   "moment-de-modification": "2016-03-25-07-02-19",
   "nom": "Emmanuel Lazega",
-  "nom-francais": [
-    "Emmanuel Lazega"
-  ],
   "nom-machine": [
     "pers-2016-03-25-07-02-19-87534224358"
   ],
@@ -33,5 +30,10 @@
     "terme-2015-12-06-16-27-18-86966234335",
     "terme-2015-12-06-16-27-20-86966234417",
     "terme-2015-12-06-16-27-21-86966234485"
-  ]
+  ],
+  "nomLangues": {
+    "fr": [
+      "Emmanuel Lazega"
+    ]
+  }
 }

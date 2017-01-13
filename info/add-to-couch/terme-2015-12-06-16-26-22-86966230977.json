@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-22",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Afrique",
-  "nom-anglais": [
-    "Africa"
-  ],
-  "nom-arabe": [
-    "أفريقيا"
-  ],
-  "nom-espagnol": [
-    "África"
-  ],
   "nom-folder": "Afrique",
-  "nom-francais": [
-    "Afrique"
-  ],
-  "nom-italien": [
-    "Africa"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-22-86966230977"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Africa"
+    ],
+    "ar": [
+      "أفريقيا"
+    ],
+    "es": [
+      "África"
+    ],
+    "fr": [
+      "Afrique"
+    ],
+    "it": [
+      "Africa"
+    ]
+  }
 }

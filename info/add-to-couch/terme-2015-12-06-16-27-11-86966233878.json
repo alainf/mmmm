@@ -15,20 +15,22 @@
   "moment-de-creation": "2015-12-06-16-27-11",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Article",
-  "nom-anglais": [
-    "Article"
-  ],
-  "nom-espagnol": [
-    "Artículo científico"
-  ],
   "nom-folder": "article",
-  "nom-francais": [
-    "Article"
-  ],
-  "nom-italien": [
-    "Articolo d’investigazione"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-11-86966233878",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Article"
+    ],
+    "es": [
+      "Artículo científico"
+    ],
+    "fr": [
+      "Article"
+    ],
+    "it": [
+      "Articolo d’investigazione"
+    ]
+  }
 }

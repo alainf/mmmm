@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-23-46",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Poésie",
-  "nom-anglais": [
-    "Poetry"
-  ],
-  "nom-arabe": [
-    "شعر (أدب)"
-  ],
-  "nom-espagnol": [
-    "Poesía"
-  ],
   "nom-folder": "Poesie",
-  "nom-francais": [
-    "Poésie"
-  ],
-  "nom-italien": [
-    "Poesia"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-46-86966221582"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Poetry"
+    ],
+    "ar": [
+      "شعر (أدب)"
+    ],
+    "es": [
+      "Poesía"
+    ],
+    "fr": [
+      "Poésie"
+    ],
+    "it": [
+      "Poesia"
+    ]
+  }
 }

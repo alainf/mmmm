@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-13",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Entreprises de production médiatique",
-  "nom-anglais": [
-    "Media production companies"
-  ],
-  "nom-arabe": [
-    "مقاولات إنتاج وسائل الإعلام"
-  ],
-  "nom-espagnol": [
-    "Empresas de producción mediática"
-  ],
   "nom-folder": "Entreprises-de-production-mediatique",
-  "nom-francais": [
-    "Entreprises de production médiatique"
-  ],
-  "nom-italien": [
-    "Società di produzione multimediale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-13-86966226809"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media production companies"
+    ],
+    "ar": [
+      "مقاولات إنتاج وسائل الإعلام"
+    ],
+    "es": [
+      "Empresas de producción mediática"
+    ],
+    "fr": [
+      "Entreprises de production médiatique"
+    ],
+    "it": [
+      "Società di produzione multimediale"
+    ]
+  }
 }

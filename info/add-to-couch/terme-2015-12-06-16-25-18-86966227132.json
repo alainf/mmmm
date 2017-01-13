@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-18",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Banques et développement durable",
-  "nom-anglais": [
-    "Banks and Sustainable Development"
-  ],
-  "nom-arabe": [
-    "أبناك والتنمية المستدامة"
-  ],
-  "nom-espagnol": [
-    "Bancos y desarrollo sostenible"
-  ],
   "nom-folder": "Banques-et-developpement-durable",
-  "nom-francais": [
-    "Banques et développement durable"
-  ],
-  "nom-italien": [
-    "Banche e sviluppo sostenibile"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-18-86966227132"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Banks and Sustainable Development"
+    ],
+    "ar": [
+      "أبناك والتنمية المستدامة"
+    ],
+    "es": [
+      "Bancos y desarrollo sostenible"
+    ],
+    "fr": [
+      "Banques et développement durable"
+    ],
+    "it": [
+      "Banche e sviluppo sostenibile"
+    ]
+  }
 }

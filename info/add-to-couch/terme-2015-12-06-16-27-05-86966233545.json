@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-27-05",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Travail",
-  "nom-anglais": [
-    "Work"
-  ],
-  "nom-arabe": [
-    "العمل"
-  ],
-  "nom-espagnol": [
-    "Trabajo"
-  ],
   "nom-folder": "Travail",
-  "nom-francais": [
-    "Travail"
-  ],
-  "nom-italien": [
-    "lavoro"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-27-05-86966233545"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Work"
+    ],
+    "ar": [
+      "العمل"
+    ],
+    "es": [
+      "Trabajo"
+    ],
+    "fr": [
+      "Travail"
+    ],
+    "it": [
+      "lavoro"
+    ]
+  }
 }

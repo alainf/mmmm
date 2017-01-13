@@ -19,25 +19,27 @@
   "moment-de-creation": "2015-12-06-16-27-06",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Sport",
-  "nom-anglais": [
-    "Sports"
-  ],
-  "nom-arabe": [
-    "رياضة"
-  ],
-  "nom-espagnol": [
-    "Deporte"
-  ],
   "nom-folder": "Sport",
-  "nom-francais": [
-    "Sport"
-  ],
-  "nom-italien": [
-    "Sport"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-27-06-86966233620"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sports"
+    ],
+    "ar": [
+      "رياضة"
+    ],
+    "es": [
+      "Deporte"
+    ],
+    "fr": [
+      "Sport"
+    ],
+    "it": [
+      "Sport"
+    ]
+  }
 }

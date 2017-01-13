@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-15",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Développement rural",
-  "nom-anglais": [
-    "Rural development"
-  ],
-  "nom-arabe": [
-    "التنمية الريفية"
-  ],
-  "nom-espagnol": [
-    "Desarrollo rural"
-  ],
   "nom-folder": "Developpement-rural",
-  "nom-francais": [
-    "Développement rural"
-  ],
-  "nom-italien": [
-    "Sviluppo rurale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-15-86966230512"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rural development"
+    ],
+    "ar": [
+      "التنمية الريفية"
+    ],
+    "es": [
+      "Desarrollo rural"
+    ],
+    "fr": [
+      "Développement rural"
+    ],
+    "it": [
+      "Sviluppo rurale"
+    ]
+  }
 }

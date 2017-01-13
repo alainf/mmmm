@@ -25,25 +25,27 @@
   "moment-de-creation": "2015-12-06-16-26-59",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Sciences sociales critiques",
-  "nom-anglais": [
-    "Critical social sciences"
-  ],
-  "nom-arabe": [
-    "العلوم الاجتماعية الحرجة"
-  ],
-  "nom-espagnol": [
-    "Ciencias sociales críticas"
-  ],
   "nom-folder": "Sciences-sociales-critiques",
-  "nom-francais": [
-    "Sciences sociales critiques"
-  ],
-  "nom-italien": [
-    "scienze sociali critiche"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-59-86966233151"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Critical social sciences"
+    ],
+    "ar": [
+      "العلوم الاجتماعية الحرجة"
+    ],
+    "es": [
+      "Ciencias sociales críticas"
+    ],
+    "fr": [
+      "Sciences sociales critiques"
+    ],
+    "it": [
+      "scienze sociali critiche"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-13",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Économie politique internationale",
-  "nom-anglais": [
-    "International political economy"
-  ],
-  "nom-arabe": [
-    "الاقتصاد السياسي الدولي"
-  ],
-  "nom-espagnol": [
-    "Economía Política Internacional"
-  ],
   "nom-folder": "Economie-politique-internationale",
-  "nom-francais": [
-    "Économie politique internationale"
-  ],
-  "nom-italien": [
-    "Economia politica internazionale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-13-86966230430"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International political economy"
+    ],
+    "ar": [
+      "الاقتصاد السياسي الدولي"
+    ],
+    "es": [
+      "Economía Política Internacional"
+    ],
+    "fr": [
+      "Économie politique internationale"
+    ],
+    "it": [
+      "Economia politica internazionale"
+    ]
+  }
 }

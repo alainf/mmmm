@@ -15,25 +15,27 @@
   "moment-de-creation": "2015-12-06-16-23-39",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Nouvelles nationales",
-  "nom-anglais": [
-    "National news"
-  ],
-  "nom-arabe": [
-    "أخبار وطنية"
-  ],
-  "nom-espagnol": [
-    "Noticias nacionales"
-  ],
   "nom-folder": "Nouvelles-nationales",
-  "nom-francais": [
-    "Nouvelles nationales"
-  ],
-  "nom-italien": [
-    "Notizie nazionali"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-39-86966221142"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National news"
+    ],
+    "ar": [
+      "أخبار وطنية"
+    ],
+    "es": [
+      "Noticias nacionales"
+    ],
+    "fr": [
+      "Nouvelles nationales"
+    ],
+    "it": [
+      "Notizie nazionali"
+    ]
+  }
 }

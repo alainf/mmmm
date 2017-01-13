@@ -10,25 +10,27 @@
   "moment-de-creation": "2015-12-06-16-10-48",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "monde",
-  "nom-anglais": [
-    "world"
-  ],
-  "nom-arabe": [
-    "عالم"
-  ],
-  "nom-espagnol": [
-    "Mundo"
-  ],
-  "nom-francais": [
-    "monde"
-  ],
-  "nom-italien": [
-    "Mondo"
-  ],
   "nom-machine": "lieu-2015-12-06-16-10-48-86966174886",
   "nom-russe": [
     "Мир"
   ],
   "sous-type": "monde",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "world"
+    ],
+    "ar": [
+      "عالم"
+    ],
+    "es": [
+      "Mundo"
+    ],
+    "fr": [
+      "monde"
+    ],
+    "it": [
+      "Mondo"
+    ]
+  }
 }

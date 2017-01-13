@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-10",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Acquisition",
-  "nom-anglais": [
-    "Acquisition"
-  ],
-  "nom-arabe": [
-    "إقْتِناء"
-  ],
-  "nom-espagnol": [
-    "Adquisición"
-  ],
   "nom-folder": "Acquisition",
-  "nom-francais": [
-    "Acquisition"
-  ],
-  "nom-italien": [
-    "Acquisizione"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-10-86966226641",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Acquisition"
+    ],
+    "ar": [
+      "إقْتِناء"
+    ],
+    "es": [
+      "Adquisición"
+    ],
+    "fr": [
+      "Acquisition"
+    ],
+    "it": [
+      "Acquisizione"
+    ]
+  }
 }

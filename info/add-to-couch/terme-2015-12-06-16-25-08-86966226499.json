@@ -15,25 +15,27 @@
   "moment-de-creation": "2015-12-06-16-25-08",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Développement durable",
-  "nom-anglais": [
-    "Sustainable development"
-  ],
-  "nom-arabe": [
-    "التنمية المستدامة"
-  ],
-  "nom-espagnol": [
-    "Desarrollo sostenible"
-  ],
   "nom-folder": "Developpement-durable",
-  "nom-francais": [
-    "Développement durable"
-  ],
-  "nom-italien": [
-    "Sviluppo sostenibile"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-08-86966226499"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sustainable development"
+    ],
+    "ar": [
+      "التنمية المستدامة"
+    ],
+    "es": [
+      "Desarrollo sostenible"
+    ],
+    "fr": [
+      "Développement durable"
+    ],
+    "it": [
+      "Sviluppo sostenibile"
+    ]
+  }
 }

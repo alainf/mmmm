@@ -28,25 +28,27 @@
   "moment-de-creation": "2015-12-06-16-26-26",
   "moment-de-modification": "2015-01-04-02-27-47",
   "nom": "Histoire",
-  "nom-anglais": [
-    "History"
-  ],
-  "nom-arabe": [
-    "تاريخ"
-  ],
-  "nom-espagnol": [
-    "Historia"
-  ],
   "nom-folder": "Histoire",
-  "nom-francais": [
-    "Histoire"
-  ],
-  "nom-italien": [
-    "storia"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-26-86966231160"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History"
+    ],
+    "ar": [
+      "تاريخ"
+    ],
+    "es": [
+      "Historia"
+    ],
+    "fr": [
+      "Histoire"
+    ],
+    "it": [
+      "storia"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-56",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Régulation des marchés",
-  "nom-anglais": [
-    "Market regulation"
-  ],
-  "nom-arabe": [
-    "تنظيم الأسواق"
-  ],
-  "nom-espagnol": [
-    "Regulación de mercados"
-  ],
   "nom-folder": "Regulation-des-marches",
-  "nom-francais": [
-    "Régulation des marchés"
-  ],
-  "nom-italien": [
-    "Regolazione dei mercati"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-56-86966225765"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Market regulation"
+    ],
+    "ar": [
+      "تنظيم الأسواق"
+    ],
+    "es": [
+      "Regulación de mercados"
+    ],
+    "fr": [
+      "Régulation des marchés"
+    ],
+    "it": [
+      "Regolazione dei mercati"
+    ]
+  }
 }

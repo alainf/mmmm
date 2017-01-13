@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-56",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Réseaux de flux financiers",
-  "nom-anglais": [
-    "Financial flows networks"
-  ],
-  "nom-arabe": [
-    "شبكات للتدفقات المالية"
-  ],
-  "nom-espagnol": [
-    "Redes de flujos financieros"
-  ],
   "nom-folder": "Reseaux-de-flux-financiers",
-  "nom-francais": [
-    "Réseaux de flux financiers"
-  ],
-  "nom-italien": [
-    "Reti di flussi finanziari"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-56-86966225769"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial flows networks"
+    ],
+    "ar": [
+      "شبكات للتدفقات المالية"
+    ],
+    "es": [
+      "Redes de flujos financieros"
+    ],
+    "fr": [
+      "Réseaux de flux financiers"
+    ],
+    "it": [
+      "Reti di flussi finanziari"
+    ]
+  }
 }

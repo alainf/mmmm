@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-23-43",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Marché du travail",
-  "nom-anglais": [
-    "Job market"
-  ],
-  "nom-arabe": [
-    "سوق العمل"
-  ],
-  "nom-espagnol": [
-    "Mercado del trabajo"
-  ],
   "nom-folder": "Marche-du-travail",
-  "nom-francais": [
-    "Marché du travail"
-  ],
-  "nom-italien": [
-    "Mercato del lavoro"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-43-86966221381"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Job market"
+    ],
+    "ar": [
+      "سوق العمل"
+    ],
+    "es": [
+      "Mercado del trabajo"
+    ],
+    "fr": [
+      "Marché du travail"
+    ],
+    "it": [
+      "Mercato del lavoro"
+    ]
+  }
 }

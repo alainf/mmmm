@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-18",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Institut de recherche",
-  "nom-anglais": [
-    "Research institute"
-  ],
-  "nom-espagnol": [
-    "Instituto de investigación"
-  ],
   "nom-folder": "institut-de-recherche",
-  "nom-francais": [
-    "Institut de recherche"
-  ],
-  "nom-italien": [
-    "Istituto di ricerca"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-18-86966234307",
   "sous-type": "types-de-acteur",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research institute"
+    ],
+    "es": [
+      "Instituto de investigación"
+    ],
+    "fr": [
+      "Institut de recherche"
+    ],
+    "it": [
+      "Istituto di ricerca"
+    ]
+  }
 }

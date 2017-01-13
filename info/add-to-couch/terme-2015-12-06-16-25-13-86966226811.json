@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-13",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Gestion des entreprises culturelles",
-  "nom-anglais": [
-    "Cultural enterprise management"
-  ],
-  "nom-arabe": [
-    "إدارة الشركات الثقافية"
-  ],
-  "nom-espagnol": [
-    "Gestión de empresas culturales"
-  ],
   "nom-folder": "Gestion-des-entreprises-culturelles",
-  "nom-francais": [
-    "Gestion des entreprises culturelles"
-  ],
-  "nom-italien": [
-    "Gestione delle imprese culturali"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-13-86966226811"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural enterprise management"
+    ],
+    "ar": [
+      "إدارة الشركات الثقافية"
+    ],
+    "es": [
+      "Gestión de empresas culturales"
+    ],
+    "fr": [
+      "Gestion des entreprises culturelles"
+    ],
+    "it": [
+      "Gestione delle imprese culturali"
+    ]
+  }
 }

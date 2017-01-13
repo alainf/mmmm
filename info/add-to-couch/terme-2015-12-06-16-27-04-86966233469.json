@@ -19,25 +19,27 @@
   "moment-de-creation": "2015-12-06-16-27-04",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Filiation",
-  "nom-anglais": [
-    "Filiation"
-  ],
-  "nom-arabe": [
-    "بنوة"
-  ],
-  "nom-espagnol": [
-    "Filiación"
-  ],
   "nom-folder": "Filiation",
-  "nom-francais": [
-    "Filiation"
-  ],
-  "nom-italien": [
-    "filiazione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-27-04-86966233469"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Filiation"
+    ],
+    "ar": [
+      "بنوة"
+    ],
+    "es": [
+      "Filiación"
+    ],
+    "fr": [
+      "Filiation"
+    ],
+    "it": [
+      "filiazione"
+    ]
+  }
 }

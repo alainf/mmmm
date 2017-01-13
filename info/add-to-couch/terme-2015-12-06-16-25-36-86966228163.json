@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-36",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Proactivité",
-  "nom-anglais": [
-    "Proactivity"
-  ],
-  "nom-arabe": [
-    "استباقية"
-  ],
-  "nom-espagnol": [
-    "Proactividad"
-  ],
   "nom-folder": "Proactivite",
-  "nom-francais": [
-    "Proactivité"
-  ],
-  "nom-italien": [
-    "Proattività"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-36-86966228163"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Proactivity"
+    ],
+    "ar": [
+      "استباقية"
+    ],
+    "es": [
+      "Proactividad"
+    ],
+    "fr": [
+      "Proactivité"
+    ],
+    "it": [
+      "Proattività"
+    ]
+  }
 }

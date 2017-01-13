@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-44",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Veille commerciale",
-  "nom-anglais": [
-    "Marketing intelligence"
-  ],
-  "nom-arabe": [
-    "المخابرات التسويق"
-  ],
-  "nom-espagnol": [
-    "Inteligencia competitiva de mercado"
-  ],
   "nom-folder": "Veille-commerciale",
-  "nom-francais": [
-    "Veille commerciale"
-  ],
-  "nom-italien": [
-    "informazioni di mercato"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-44-86966228670"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Marketing intelligence"
+    ],
+    "ar": [
+      "المخابرات التسويق"
+    ],
+    "es": [
+      "Inteligencia competitiva de mercado"
+    ],
+    "fr": [
+      "Veille commerciale"
+    ],
+    "it": [
+      "informazioni di mercato"
+    ]
+  }
 }

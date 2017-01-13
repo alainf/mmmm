@@ -17,25 +17,27 @@
   "moment-de-creation": "2015-12-06-16-26-22",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Biologie",
-  "nom-anglais": [
-    "Biology"
-  ],
-  "nom-arabe": [
-    "علم الأحياء"
-  ],
-  "nom-espagnol": [
-    "Biología"
-  ],
   "nom-folder": "Biologie",
-  "nom-francais": [
-    "Biologie"
-  ],
-  "nom-italien": [
-    "biologia"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-22-86966230926"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biology"
+    ],
+    "ar": [
+      "علم الأحياء"
+    ],
+    "es": [
+      "Biología"
+    ],
+    "fr": [
+      "Biologie"
+    ],
+    "it": [
+      "biologia"
+    ]
+  }
 }

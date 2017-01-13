@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-04",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Libéralisme (politique)",
-  "nom-anglais": [
-    "Liberalism (politics)"
-  ],
-  "nom-arabe": [
-    "الليبرالية (سياسة)"
-  ],
-  "nom-espagnol": [
-    "Liberalismo (política)"
-  ],
   "nom-folder": "Liberalisme-(politique)",
-  "nom-francais": [
-    "Libéralisme (politique)"
-  ],
-  "nom-italien": [
-    "Liberalismo (politica)"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-04-86966226264",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Liberalism (politics)"
+    ],
+    "ar": [
+      "الليبرالية (سياسة)"
+    ],
+    "es": [
+      "Liberalismo (política)"
+    ],
+    "fr": [
+      "Libéralisme (politique)"
+    ],
+    "it": [
+      "Liberalismo (politica)"
+    ]
+  }
 }

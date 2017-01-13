@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-15",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Quotidien generaliste",
-  "nom-anglais": [
-    "Daily newspaper"
-  ],
-  "nom-espagnol": [
-    "Diario generalista"
-  ],
   "nom-folder": "quotidien-generaliste",
-  "nom-francais": [
-    "Quotidien generaliste"
-  ],
-  "nom-italien": [
-    "Giornale generalista"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-15-86966234132",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Daily newspaper"
+    ],
+    "es": [
+      "Diario generalista"
+    ],
+    "fr": [
+      "Quotidien generaliste"
+    ],
+    "it": [
+      "Giornale generalista"
+    ]
+  }
 }

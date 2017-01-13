@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-58",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Théorie institutionnelle",
-  "nom-anglais": [
-    "Institutional Theory (Old)"
-  ],
-  "nom-arabe": [
-    "نظرية المؤسسية"
-  ],
-  "nom-espagnol": [
-    "Institucionalismo"
-  ],
   "nom-folder": "Theorie-institutionnelle",
-  "nom-francais": [
-    "Théorie institutionnelle"
-  ],
-  "nom-italien": [
-    "Teoria istituzionale (vecchia)"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-58-86966229485"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Institutional Theory (Old)"
+    ],
+    "ar": [
+      "نظرية المؤسسية"
+    ],
+    "es": [
+      "Institucionalismo"
+    ],
+    "fr": [
+      "Théorie institutionnelle"
+    ],
+    "it": [
+      "Teoria istituzionale (vecchia)"
+    ]
+  }
 }

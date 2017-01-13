@@ -22,25 +22,27 @@
   "moment-de-creation": "2015-12-06-16-25-58",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Tourisme",
-  "nom-anglais": [
-    "Tourism"
-  ],
-  "nom-arabe": [
-    "سياحة"
-  ],
-  "nom-espagnol": [
-    "Turismo"
-  ],
   "nom-folder": "Tourisme",
-  "nom-francais": [
-    "Tourisme"
-  ],
-  "nom-italien": [
-    "turismo"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-58-86966229539"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tourism"
+    ],
+    "ar": [
+      "سياحة"
+    ],
+    "es": [
+      "Turismo"
+    ],
+    "fr": [
+      "Tourisme"
+    ],
+    "it": [
+      "turismo"
+    ]
+  }
 }

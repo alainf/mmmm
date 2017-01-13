@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-17",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Régulation",
-  "nom-anglais": [
-    "Regulation"
-  ],
-  "nom-arabe": [
-    "التنظيم الاقتصادي"
-  ],
-  "nom-espagnol": [
-    "Regulación económica"
-  ],
   "nom-folder": "Regulation",
-  "nom-francais": [
-    "Régulation"
-  ],
-  "nom-italien": [
-    "Regolazione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-17-86966230641"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Regulation"
+    ],
+    "ar": [
+      "التنظيم الاقتصادي"
+    ],
+    "es": [
+      "Regulación económica"
+    ],
+    "fr": [
+      "Régulation"
+    ],
+    "it": [
+      "Regolazione"
+    ]
+  }
 }

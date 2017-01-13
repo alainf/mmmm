@@ -50,25 +50,27 @@
   "moment-de-creation": "2015-12-06-16-26-10",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Sciences économiques",
-  "nom-anglais": [
-    "Economics"
-  ],
-  "nom-arabe": [
-    "العلوم الاقتصادية"
-  ],
-  "nom-espagnol": [
-    "Ciencias económicas"
-  ],
   "nom-folder": "Sciences-economiques",
-  "nom-francais": [
-    "Sciences économiques"
-  ],
-  "nom-italien": [
-    "Scienze economiche"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-10-86966230248"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics"
+    ],
+    "ar": [
+      "العلوم الاقتصادية"
+    ],
+    "es": [
+      "Ciencias económicas"
+    ],
+    "fr": [
+      "Sciences économiques"
+    ],
+    "it": [
+      "Scienze economiche"
+    ]
+  }
 }

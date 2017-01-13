@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-41",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Entreprises agricoles et gestion de la qualité",
-  "nom-anglais": [
-    "Farm Business and quality management"
-  ],
-  "nom-arabe": [
-    "مقاولات الزراعية وإدارة الجودة"
-  ],
-  "nom-espagnol": [
-    "Empresas agrícolas y gestión de calidad"
-  ],
   "nom-folder": "Entreprises-agricoles-et-gestion-de-la-qualite",
-  "nom-francais": [
-    "Entreprises agricoles et gestion de la qualité"
-  ],
-  "nom-italien": [
-    "Imprese agricole e gestione della qualità"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-41-86966228503",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Farm Business and quality management"
+    ],
+    "ar": [
+      "مقاولات الزراعية وإدارة الجودة"
+    ],
+    "es": [
+      "Empresas agrícolas y gestión de calidad"
+    ],
+    "fr": [
+      "Entreprises agricoles et gestion de la qualité"
+    ],
+    "it": [
+      "Imprese agricole e gestione della qualità"
+    ]
+  }
 }

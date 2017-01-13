@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-27-10",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Physiologie animale",
-  "nom-anglais": [
-    "Animal physiology"
-  ],
-  "nom-arabe": [
-    "فسيولوجيا الحيوان"
-  ],
-  "nom-espagnol": [
-    "Fisiología Animal"
-  ],
   "nom-folder": "Physiologie-animale",
-  "nom-francais": [
-    "Physiologie animale"
-  ],
-  "nom-italien": [
-    "fisiologia animale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-27-10-86966233849"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Animal physiology"
+    ],
+    "ar": [
+      "فسيولوجيا الحيوان"
+    ],
+    "es": [
+      "Fisiología Animal"
+    ],
+    "fr": [
+      "Physiologie animale"
+    ],
+    "it": [
+      "fisiologia animale"
+    ]
+  }
 }

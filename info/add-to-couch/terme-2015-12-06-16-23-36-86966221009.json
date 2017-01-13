@@ -28,22 +28,7 @@
   "moment-de-creation": "2015-12-06-16-23-36",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Mobilisation sociale",
-  "nom-anglais": [
-    "Social mobilization"
-  ],
-  "nom-arabe": [
-    "التعبئة الاجتماعية"
-  ],
-  "nom-espagnol": [
-    "La movilización social"
-  ],
   "nom-folder": "Mobilisation-sociale",
-  "nom-francais": [
-    "Mobilisation sociale"
-  ],
-  "nom-italien": [
-    "Mobilitazione sociale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-36-86966221009"
   ],
@@ -51,5 +36,22 @@
     "Социальная мобилизация"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social mobilization"
+    ],
+    "ar": [
+      "التعبئة الاجتماعية"
+    ],
+    "es": [
+      "La movilización social"
+    ],
+    "fr": [
+      "Mobilisation sociale"
+    ],
+    "it": [
+      "Mobilitazione sociale"
+    ]
+  }
 }

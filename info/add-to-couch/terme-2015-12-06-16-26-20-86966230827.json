@@ -23,25 +23,27 @@
   "moment-de-creation": "2015-12-06-16-26-20",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Fabrication de produits chimiques",
-  "nom-anglais": [
-    "Chemical product manufacturing"
-  ],
-  "nom-arabe": [
-    "تصنيع المنتجات الكيميائية"
-  ],
-  "nom-espagnol": [
-    "Fabricación de productos químicos"
-  ],
   "nom-folder": "Fabrication-de-produits-chimiques",
-  "nom-francais": [
-    "Fabrication de produits chimiques"
-  ],
-  "nom-italien": [
-    "Fabbricazione di prodotti chimici"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-20-86966230827"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chemical product manufacturing"
+    ],
+    "ar": [
+      "تصنيع المنتجات الكيميائية"
+    ],
+    "es": [
+      "Fabricación de productos químicos"
+    ],
+    "fr": [
+      "Fabrication de produits chimiques"
+    ],
+    "it": [
+      "Fabbricazione di prodotti chimici"
+    ]
+  }
 }

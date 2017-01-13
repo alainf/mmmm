@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-24",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Agronomie",
-  "nom-anglais": [
-    "Agronomy"
-  ],
-  "nom-arabe": [
-    "عِلْم الزراعة"
-  ],
-  "nom-espagnol": [
-    "Agronomía"
-  ],
   "nom-folder": "Agronomie",
-  "nom-francais": [
-    "Agronomie"
-  ],
-  "nom-italien": [
-    "agronomia"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-24-86966223872"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agronomy"
+    ],
+    "ar": [
+      "عِلْم الزراعة"
+    ],
+    "es": [
+      "Agronomía"
+    ],
+    "fr": [
+      "Agronomie"
+    ],
+    "it": [
+      "agronomia"
+    ]
+  }
 }

@@ -10,26 +10,28 @@
   "moment-de-creation": "2015-12-06-16-22-11",
   "moment-de-modification": "2015-01-04-02-26-40",
   "nom": "Monténégro",
-  "nom-anglais": [
-    "Montenegro"
-  ],
-  "nom-arabe": [
-    "الجبل الأسود"
-  ],
-  "nom-espagnol": [
-    "Montenegro"
-  ],
   "nom-folder": "Montenegro",
-  "nom-francais": [
-    "Monténégro"
-  ],
-  "nom-italien": [
-    "Montenegro"
-  ],
   "nom-machine": "lieu-2015-12-06-16-22-11-86966215874",
   "nom-russe": [
     "Черногория"
   ],
   "sous-type": "pays",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Montenegro"
+    ],
+    "ar": [
+      "الجبل الأسود"
+    ],
+    "es": [
+      "Montenegro"
+    ],
+    "fr": [
+      "Monténégro"
+    ],
+    "it": [
+      "Montenegro"
+    ]
+  }
 }

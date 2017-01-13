@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-23-41",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Chroniques",
-  "nom-anglais": [
-    "Columns"
-  ],
-  "nom-arabe": [
-    "أخبار"
-  ],
-  "nom-espagnol": [
-    "Crónicas"
-  ],
   "nom-folder": "Chroniques",
-  "nom-francais": [
-    "Chroniques"
-  ],
-  "nom-italien": [
-    "Cronache"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-41-86966221305"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Columns"
+    ],
+    "ar": [
+      "أخبار"
+    ],
+    "es": [
+      "Crónicas"
+    ],
+    "fr": [
+      "Chroniques"
+    ],
+    "it": [
+      "Cronache"
+    ]
+  }
 }

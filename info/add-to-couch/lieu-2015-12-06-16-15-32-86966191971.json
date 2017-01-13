@@ -9,26 +9,28 @@
   "moment-de-creation": "2015-12-06-16-15-32",
   "moment-de-modification": "2016-02-04-16-24-49",
   "nom": "Chine",
-  "nom-anglais": [
-    "China"
-  ],
-  "nom-arabe": [
-    "الصين"
-  ],
-  "nom-espagnol": [
-    "China"
-  ],
   "nom-folder": "Chine",
-  "nom-francais": [
-    "Chine"
-  ],
-  "nom-italien": [
-    "Cina"
-  ],
   "nom-machine": "lieu-2015-12-06-16-15-32-86966191971",
   "nom-russe": [
     "Китайская Народная "
   ],
   "sous-type": "pays",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "China"
+    ],
+    "ar": [
+      "الصين"
+    ],
+    "es": [
+      "China"
+    ],
+    "fr": [
+      "Chine"
+    ],
+    "it": [
+      "Cina"
+    ]
+  }
 }

@@ -15,27 +15,29 @@
   "moment-de-creation": "2015-12-06-16-10-41",
   "moment-de-modification": "2016-04-30-17-58-02",
   "nom": "Espagnol",
-  "nom-anglais": [
-    "Spanish"
-  ],
-  "nom-arabe": [
-    "إسبانية"
-  ],
-  "nom-espagnol": [
-    "Español"
-  ],
   "nom-folder": "Espagnol",
-  "nom-francais": [
-    "Espagnol"
-  ],
-  "nom-italien": [
-    "Spagnolo"
-  ],
   "nom-machine": "terme-2015-12-06-16-10-41-86966174518",
   "nom-russe": [
     "Испанский"
   ],
   "sous-type": "langues",
   "type": "taxonomies",
-  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Espagnol"
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Espagnol",
+  "nomLangues": {
+    "en": [
+      "Spanish"
+    ],
+    "ar": [
+      "إسبانية"
+    ],
+    "es": [
+      "Español"
+    ],
+    "fr": [
+      "Espagnol"
+    ],
+    "it": [
+      "Spagnolo"
+    ]
+  }
 }

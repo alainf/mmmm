@@ -16,25 +16,27 @@
   "moment-de-creation": "2015-12-06-16-24-29",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Industrie alimentaire",
-  "nom-anglais": [
-    "Food industry"
-  ],
-  "nom-arabe": [
-    "صناعة غذائية"
-  ],
-  "nom-espagnol": [
-    "Industria alimentaria"
-  ],
   "nom-folder": "Industrie-alimentaire",
-  "nom-francais": [
-    "Industrie alimentaire"
-  ],
-  "nom-italien": [
-    "industria alimentare"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-29-86966224152"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Food industry"
+    ],
+    "ar": [
+      "صناعة غذائية"
+    ],
+    "es": [
+      "Industria alimentaria"
+    ],
+    "fr": [
+      "Industrie alimentaire"
+    ],
+    "it": [
+      "industria alimentare"
+    ]
+  }
 }

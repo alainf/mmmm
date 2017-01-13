@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-25-47",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "Gestion de la santé et de la sécurité du travail",
-  "nom-anglais": [
-    "Management of health and safety at work"
-  ],
-  "nom-arabe": [
-    "إدارة الامن والصحة فى العمل"
-  ],
-  "nom-espagnol": [
-    "Gestión de la seguridad y salud en el trabajo"
-  ],
   "nom-folder": "Gestion-de-la-sante-et-securite-du-travail",
-  "nom-francais": [
-    "Gestion de la santé et de la sécurité du travail"
-  ],
-  "nom-italien": [
-    "Gestione delle salute e sicurezza sul lavoro"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-47-86966228847"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management of health and safety at work"
+    ],
+    "ar": [
+      "إدارة الامن والصحة فى العمل"
+    ],
+    "es": [
+      "Gestión de la seguridad y salud en el trabajo"
+    ],
+    "fr": [
+      "Gestion de la santé et de la sécurité du travail"
+    ],
+    "it": [
+      "Gestione delle salute e sicurezza sul lavoro"
+    ]
+  }
 }

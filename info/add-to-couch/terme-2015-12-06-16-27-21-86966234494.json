@@ -10,23 +10,25 @@
   "moment-de-creation": "2015-12-06-16-27-21",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Portail thématique",
-  "nom-anglais": [
-    "Thematic portal"
-  ],
-  "nom-arabe": [
-    "بوابة المواضيع"
-  ],
-  "nom-espagnol": [
-    "Portal temático"
-  ],
   "nom-folder": "portail-thematique",
-  "nom-francais": [
-    "Portail thématique"
-  ],
-  "nom-italien": [
-    "Portale tematico"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-21-86966234494",
   "sous-type": "types-de-ressource",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Thematic portal"
+    ],
+    "ar": [
+      "بوابة المواضيع"
+    ],
+    "es": [
+      "Portal temático"
+    ],
+    "fr": [
+      "Portail thématique"
+    ],
+    "it": [
+      "Portale tematico"
+    ]
+  }
 }

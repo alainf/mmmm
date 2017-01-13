@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-25-17",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Actualités entreprises",
-  "nom-anglais": [
-    "Business news"
-  ],
-  "nom-arabe": [
-    "أخبار الشَّرِكَات التجارية"
-  ],
-  "nom-espagnol": [
-    "Actualidad de negocios"
-  ],
   "nom-folder": "Actualites-entreprises",
-  "nom-francais": [
-    "Actualités entreprises"
-  ],
-  "nom-italien": [
-    "Attualità delle imprese"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-17-86966227059"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business news"
+    ],
+    "ar": [
+      "أخبار الشَّرِكَات التجارية"
+    ],
+    "es": [
+      "Actualidad de negocios"
+    ],
+    "fr": [
+      "Actualités entreprises"
+    ],
+    "it": [
+      "Attualità delle imprese"
+    ]
+  }
 }

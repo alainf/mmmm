@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-57",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Théorie des parties prenantes",
-  "nom-anglais": [
-    "Stakeholder Theory"
-  ],
-  "nom-arabe": [
-    "نظرية أصحاب المصلحة"
-  ],
-  "nom-espagnol": [
-    "Teoría de los stakeholders (interesados)"
-  ],
   "nom-folder": "Theorie-des-parties-prenantes",
-  "nom-francais": [
-    "Théorie des parties prenantes"
-  ],
-  "nom-italien": [
-    "Teoria dei portatori di interessi (stakeholders)"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-57-86966229473"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Stakeholder Theory"
+    ],
+    "ar": [
+      "نظرية أصحاب المصلحة"
+    ],
+    "es": [
+      "Teoría de los stakeholders (interesados)"
+    ],
+    "fr": [
+      "Théorie des parties prenantes"
+    ],
+    "it": [
+      "Teoria dei portatori di interessi (stakeholders)"
+    ]
+  }
 }

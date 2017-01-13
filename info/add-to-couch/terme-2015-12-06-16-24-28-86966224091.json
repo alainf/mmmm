@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-24-28",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Légumes",
-  "nom-anglais": [
-    "Vegetables"
-  ],
-  "nom-arabe": [
-    "خضروات"
-  ],
-  "nom-espagnol": [
-    "Verduras"
-  ],
   "nom-folder": "Legumes",
-  "nom-francais": [
-    "Légumes"
-  ],
-  "nom-italien": [
-    "Verdure"
-  ],
   "nom-machine": "terme-2015-12-06-16-24-28-86966224091",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Vegetables"
+    ],
+    "ar": [
+      "خضروات"
+    ],
+    "es": [
+      "Verduras"
+    ],
+    "fr": [
+      "Légumes"
+    ],
+    "it": [
+      "Verdure"
+    ]
+  }
 }

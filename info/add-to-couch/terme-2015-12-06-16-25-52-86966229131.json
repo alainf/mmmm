@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-52",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Comptabilité nationale et développement durable",
-  "nom-anglais": [
-    "National Accounting and Sustainable Development"
-  ],
-  "nom-arabe": [
-    "محاسبة وطنية و تنمية مستدامة"
-  ],
-  "nom-espagnol": [
-    "Contabilidad Nacional y Desarrollo Sostenible"
-  ],
   "nom-folder": "Comptabilite-nationale-et-dev-durable",
-  "nom-francais": [
-    "Comptabilité nationale et développement durable"
-  ],
-  "nom-italien": [
-    "Contabilità nazionale e sviluppo sostenibile"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-52-86966229131",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National Accounting and Sustainable Development"
+    ],
+    "ar": [
+      "محاسبة وطنية و تنمية مستدامة"
+    ],
+    "es": [
+      "Contabilidad Nacional y Desarrollo Sostenible"
+    ],
+    "fr": [
+      "Comptabilité nationale et développement durable"
+    ],
+    "it": [
+      "Contabilità nazionale e sviluppo sostenibile"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-48",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Parité",
-  "nom-anglais": [
-    "Parity"
-  ],
-  "nom-arabe": [
-    "تكافؤ"
-  ],
-  "nom-espagnol": [
-    "Paridad"
-  ],
   "nom-folder": "Parite",
-  "nom-francais": [
-    "Parité"
-  ],
-  "nom-italien": [
-    "Parità"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-48-86966225287"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Parity"
+    ],
+    "ar": [
+      "تكافؤ"
+    ],
+    "es": [
+      "Paridad"
+    ],
+    "fr": [
+      "Parité"
+    ],
+    "it": [
+      "Parità"
+    ]
+  }
 }

@@ -27,25 +27,27 @@
   "moment-de-creation": "2016-05-12-01-36-44",
   "moment-de-modification": "2016-05-12-02-16-36",
   "nom": "Agriculture",
-  "nom-anglais": [
-    "Agriculture"
-  ],
-  "nom-arabe": [
-    "زراعة"
-  ],
-  "nom-espagnol": [
-    "Agricultura"
-  ],
   "nom-folder": "Agriculture",
-  "nom-francais": [
-    "Agriculture"
-  ],
-  "nom-italien": [
-    "agricoltura"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-22-86966223762"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agriculture"
+    ],
+    "ar": [
+      "زراعة"
+    ],
+    "es": [
+      "Agricultura"
+    ],
+    "fr": [
+      "Agriculture"
+    ],
+    "it": [
+      "agricoltura"
+    ]
+  }
 }

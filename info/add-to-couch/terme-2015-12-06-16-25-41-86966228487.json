@@ -24,25 +24,27 @@
   "moment-de-creation": "2015-12-06-16-25-41",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Management par secteurs d'activités",
-  "nom-anglais": [
-    "Management by sectors of activity"
-  ],
-  "nom-arabe": [
-    "الإدارة حسب قطاعات الأنشطة"
-  ],
-  "nom-espagnol": [
-    "Gestión de empresas por sectores de actividades"
-  ],
   "nom-folder": "Management-par-secteurs-d'activites",
-  "nom-francais": [
-    "Management par secteurs d'activités"
-  ],
-  "nom-italien": [
-    "Gestione per settori di attività"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-41-86966228487"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management by sectors of activity"
+    ],
+    "ar": [
+      "الإدارة حسب قطاعات الأنشطة"
+    ],
+    "es": [
+      "Gestión de empresas por sectores de actividades"
+    ],
+    "fr": [
+      "Management par secteurs d'activités"
+    ],
+    "it": [
+      "Gestione per settori di attività"
+    ]
+  }
 }

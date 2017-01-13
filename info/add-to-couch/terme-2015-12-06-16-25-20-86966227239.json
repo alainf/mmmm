@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Limites du contrôle de gestion",
-  "nom-anglais": [
-    "Limitations of management control"
-  ],
-  "nom-arabe": [
-    "قيود الرقابة الإدارية"
-  ],
-  "nom-espagnol": [
-    "Limitaciones del control de gestión"
-  ],
   "nom-folder": "Limites-du-controle-de-gestion",
-  "nom-francais": [
-    "Limites du contrôle de gestion"
-  ],
-  "nom-italien": [
-    "Limitazioni del controllo di gestione"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-20-86966227239",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Limitations of management control"
+    ],
+    "ar": [
+      "قيود الرقابة الإدارية"
+    ],
+    "es": [
+      "Limitaciones del control de gestión"
+    ],
+    "fr": [
+      "Limites du contrôle de gestion"
+    ],
+    "it": [
+      "Limitazioni del controllo di gestione"
+    ]
+  }
 }

@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-14",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Périodique généraliste (magazine)",
-  "nom-anglais": [
-    "General interest magazine"
-  ],
-  "nom-espagnol": [
-    "Magazín generalista"
-  ],
   "nom-folder": "periodique-generaliste-(magazine)",
-  "nom-francais": [
-    "Périodique généraliste (magazine)"
-  ],
-  "nom-italien": [
-    "Rivista generalista"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-14-86966234083",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "General interest magazine"
+    ],
+    "es": [
+      "Magazín generalista"
+    ],
+    "fr": [
+      "Périodique généraliste (magazine)"
+    ],
+    "it": [
+      "Rivista generalista"
+    ]
+  }
 }

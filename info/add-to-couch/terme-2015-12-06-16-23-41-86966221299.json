@@ -11,22 +11,7 @@
   "moment-de-creation": "2015-12-06-16-23-41",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Nouvelles internationales",
-  "nom-anglais": [
-    "International news"
-  ],
-  "nom-arabe": [
-    "انباء دولية"
-  ],
-  "nom-espagnol": [
-    "Noticias internacionales"
-  ],
   "nom-folder": "Nouvelles-internationales",
-  "nom-francais": [
-    "Nouvelles internationales"
-  ],
-  "nom-italien": [
-    "Notizie internazionali"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-41-86966221299"
   ],
@@ -34,5 +19,22 @@
     "Международные новости"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International news"
+    ],
+    "ar": [
+      "انباء دولية"
+    ],
+    "es": [
+      "Noticias internacionales"
+    ],
+    "fr": [
+      "Nouvelles internationales"
+    ],
+    "it": [
+      "Notizie internazionali"
+    ]
+  }
 }

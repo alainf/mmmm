@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-35",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Gestion des entreprises familiales",
-  "nom-anglais": [
-    "Family Business Management"
-  ],
-  "nom-arabe": [
-    "إدارة الشركات العائلية"
-  ],
-  "nom-espagnol": [
-    "Gestión de empresas familiares"
-  ],
   "nom-folder": "Gestion-des-entreprises-familiales",
-  "nom-francais": [
-    "Gestion des entreprises familiales"
-  ],
-  "nom-italien": [
-    "Gestione delle imprese familiari"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-35-86966228125"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Family Business Management"
+    ],
+    "ar": [
+      "إدارة الشركات العائلية"
+    ],
+    "es": [
+      "Gestión de empresas familiares"
+    ],
+    "fr": [
+      "Gestion des entreprises familiales"
+    ],
+    "it": [
+      "Gestione delle imprese familiari"
+    ]
+  }
 }

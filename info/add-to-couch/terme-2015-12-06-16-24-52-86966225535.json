@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-24-52",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Poursuite",
-  "nom-anglais": [
-    "Legal proceedings"
-  ],
-  "nom-arabe": [
-    "دعوى قضائية"
-  ],
-  "nom-espagnol": [
-    "Demanda judicial"
-  ],
   "nom-folder": "Poursuite",
-  "nom-francais": [
-    "Poursuite"
-  ],
-  "nom-italien": [
-    "Azioni giudiziarie"
-  ],
   "nom-machine": "terme-2015-12-06-16-24-52-86966225535",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Legal proceedings"
+    ],
+    "ar": [
+      "دعوى قضائية"
+    ],
+    "es": [
+      "Demanda judicial"
+    ],
+    "fr": [
+      "Poursuite"
+    ],
+    "it": [
+      "Azioni giudiziarie"
+    ]
+  }
 }

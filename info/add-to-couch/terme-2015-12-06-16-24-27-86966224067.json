@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-24-27",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Fruits",
-  "nom-anglais": [
-    "Fruit"
-  ],
-  "nom-arabe": [
-    "الفواكه"
-  ],
-  "nom-espagnol": [
-    "Fruta"
-  ],
   "nom-folder": "Fruits",
-  "nom-francais": [
-    "Fruits"
-  ],
-  "nom-italien": [
-    "Frutta"
-  ],
   "nom-machine": "terme-2015-12-06-16-24-27-86966224067",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fruit"
+    ],
+    "ar": [
+      "الفواكه"
+    ],
+    "es": [
+      "Fruta"
+    ],
+    "fr": [
+      "Fruits"
+    ],
+    "it": [
+      "Frutta"
+    ]
+  }
 }

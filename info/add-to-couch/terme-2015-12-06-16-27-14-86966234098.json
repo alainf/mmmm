@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-14",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Document de travail",
-  "nom-anglais": [
-    "Working paper"
-  ],
-  "nom-espagnol": [
-    "Documento de trabajo"
-  ],
   "nom-folder": "document-de-travail",
-  "nom-francais": [
-    "Document de travail"
-  ],
-  "nom-italien": [
-    "Documento di lavoro"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-14-86966234098",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Working paper"
+    ],
+    "es": [
+      "Documento de trabajo"
+    ],
+    "fr": [
+      "Document de travail"
+    ],
+    "it": [
+      "Documento di lavoro"
+    ]
+  }
 }

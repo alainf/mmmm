@@ -11,22 +11,7 @@
   "moment-de-creation": "2015-12-06-16-23-42",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Appels à communication",
-  "nom-anglais": [
-    "Call for papers"
-  ],
-  "nom-arabe": [
-    "دعوة للمشاركة"
-  ],
-  "nom-espagnol": [
-    "Call for papers"
-  ],
   "nom-folder": "Appels-a-communication",
-  "nom-francais": [
-    "Appels à communication"
-  ],
-  "nom-italien": [
-    "Invito di contributi"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-42-86966221340"
   ],
@@ -34,5 +19,22 @@
     "приглашение прислать статью"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Call for papers"
+    ],
+    "ar": [
+      "دعوة للمشاركة"
+    ],
+    "es": [
+      "Call for papers"
+    ],
+    "fr": [
+      "Appels à communication"
+    ],
+    "it": [
+      "Invito di contributi"
+    ]
+  }
 }

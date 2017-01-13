@@ -13,20 +13,22 @@
   "moment-de-creation": "2015-12-06-16-27-16",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Agence",
-  "nom-anglais": [
-    "Agency"
-  ],
-  "nom-espagnol": [
-    "Agencia"
-  ],
   "nom-folder": "agence",
-  "nom-francais": [
-    "Agence"
-  ],
-  "nom-italien": [
-    "Agenzia"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-16-86966234215",
   "sous-type": "types-de-acteur",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agency"
+    ],
+    "es": [
+      "Agencia"
+    ],
+    "fr": [
+      "Agence"
+    ],
+    "it": [
+      "Agenzia"
+    ]
+  }
 }

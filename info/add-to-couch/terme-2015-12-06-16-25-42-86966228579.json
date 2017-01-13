@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-42",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Gestion des soins de santé",
-  "nom-anglais": [
-    "Health Care Management"
-  ],
-  "nom-arabe": [
-    "إدارة الرعايات الصحية"
-  ],
-  "nom-espagnol": [
-    "Administración sanitaria"
-  ],
   "nom-folder": "Gestion-des-soins-de-sante",
-  "nom-francais": [
-    "Gestion des soins de santé"
-  ],
-  "nom-italien": [
-    "Amministrazione sanitaria"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-42-86966228579"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health Care Management"
+    ],
+    "ar": [
+      "إدارة الرعايات الصحية"
+    ],
+    "es": [
+      "Administración sanitaria"
+    ],
+    "fr": [
+      "Gestion des soins de santé"
+    ],
+    "it": [
+      "Amministrazione sanitaria"
+    ]
+  }
 }

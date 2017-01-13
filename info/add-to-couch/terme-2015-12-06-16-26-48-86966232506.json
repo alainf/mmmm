@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-26-48",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Autorité",
-  "nom-anglais": [
-    "Authority"
-  ],
-  "nom-arabe": [
-    "السلطة"
-  ],
-  "nom-espagnol": [
-    "Autoridad"
-  ],
   "nom-folder": "Autorite",
-  "nom-francais": [
-    "Autorité"
-  ],
-  "nom-italien": [
-    "Autorità"
-  ],
   "nom-machine": "terme-2015-12-06-16-26-48-86966232506",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Authority"
+    ],
+    "ar": [
+      "السلطة"
+    ],
+    "es": [
+      "Autoridad"
+    ],
+    "fr": [
+      "Autorité"
+    ],
+    "it": [
+      "Autorità"
+    ]
+  }
 }

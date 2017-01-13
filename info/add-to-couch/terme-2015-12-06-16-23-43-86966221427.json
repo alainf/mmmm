@@ -29,22 +29,7 @@
   "moment-de-creation": "2015-12-06-16-23-43",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Recherches",
-  "nom-anglais": [
-    "Research"
-  ],
-  "nom-arabe": [
-    "بحث علمي"
-  ],
-  "nom-espagnol": [
-    "Investigación"
-  ],
   "nom-folder": "Recherches",
-  "nom-francais": [
-    "Recherches"
-  ],
-  "nom-italien": [
-    "Ricerca"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-43-86966221427"
   ],
@@ -52,5 +37,22 @@
     "Исследования"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research"
+    ],
+    "ar": [
+      "بحث علمي"
+    ],
+    "es": [
+      "Investigación"
+    ],
+    "fr": [
+      "Recherches"
+    ],
+    "it": [
+      "Ricerca"
+    ]
+  }
 }

@@ -9,26 +9,28 @@
   "moment-de-creation": "2015-12-06-16-23-24",
   "moment-de-modification": "2016-02-04-18-43-22",
   "nom": "Venezuela",
-  "nom-anglais": [
-    "Venezuela"
-  ],
-  "nom-arabe": [
-    "فنزويلا"
-  ],
-  "nom-espagnol": [
-    "Venezuela"
-  ],
   "nom-folder": "Venezuela",
-  "nom-francais": [
-    "Venezuela"
-  ],
-  "nom-italien": [
-    "Venezuela"
-  ],
   "nom-machine": "lieu-2015-12-06-16-23-24-86966220300",
   "nom-russe": [
     "Венесуэла"
   ],
   "sous-type": "pays",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Venezuela"
+    ],
+    "ar": [
+      "فنزويلا"
+    ],
+    "es": [
+      "Venezuela"
+    ],
+    "fr": [
+      "Venezuela"
+    ],
+    "it": [
+      "Venezuela"
+    ]
+  }
 }

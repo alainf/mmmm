@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-06",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Conférences",
-  "nom-anglais": [
-    "Conferences"
-  ],
-  "nom-arabe": [
-    "مؤتمرات"
-  ],
-  "nom-espagnol": [
-    "Conferencias"
-  ],
   "nom-folder": "Conferences",
-  "nom-francais": [
-    "Conférences"
-  ],
-  "nom-italien": [
-    "Conferenze"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-06-86966226365"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conferences"
+    ],
+    "ar": [
+      "مؤتمرات"
+    ],
+    "es": [
+      "Conferencias"
+    ],
+    "fr": [
+      "Conférences"
+    ],
+    "it": [
+      "Conferenze"
+    ]
+  }
 }

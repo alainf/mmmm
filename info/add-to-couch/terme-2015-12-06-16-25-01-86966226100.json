@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-01",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Réseaux sociaux",
-  "nom-anglais": [
-    "Social networks"
-  ],
-  "nom-arabe": [
-    "الشبكات الاجتماعية"
-  ],
-  "nom-espagnol": [
-    "Redes sociales"
-  ],
   "nom-folder": "Reseaux-sociaux",
-  "nom-francais": [
-    "Réseaux sociaux"
-  ],
-  "nom-italien": [
-    "Reti sociali"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-01-86966226100"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social networks"
+    ],
+    "ar": [
+      "الشبكات الاجتماعية"
+    ],
+    "es": [
+      "Redes sociales"
+    ],
+    "fr": [
+      "Réseaux sociaux"
+    ],
+    "it": [
+      "Reti sociali"
+    ]
+  }
 }

@@ -8,9 +8,6 @@
   "moment-de-creation": "2016-04-04-18-45-44",
   "moment-de-modification": "2016-04-04-18-45-44",
   "nom": "Elisabeth Cunin",
-  "nom-francais": [
-    "Elisabeth Cunin"
-  ],
   "nom-machine": "pers-2016-04-04-18-45-44-87588596696",
   "personne-nom-famille": "Cunin",
   "personne-nom-prenom": "Elisabeth",
@@ -23,5 +20,10 @@
   "type": "ressources",
   "type-de-ressource": [
     "terme-2015-12-06-16-27-21-86966234485"
-  ]
+  ],
+  "nomLangues": {
+    "fr": [
+      "Elisabeth Cunin"
+    ]
+  }
 }

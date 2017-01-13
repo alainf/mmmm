@@ -27,25 +27,27 @@
   "moment-de-creation": "2015-12-06-16-25-43",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Management",
-  "nom-anglais": [
-    "Management"
-  ],
-  "nom-arabe": [
-    "الإدارة"
-  ],
-  "nom-espagnol": [
-    "Gestión"
-  ],
   "nom-folder": "Management",
-  "nom-francais": [
-    "Management"
-  ],
-  "nom-italien": [
-    "gestione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-43-86966228600"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management"
+    ],
+    "ar": [
+      "الإدارة"
+    ],
+    "es": [
+      "Gestión"
+    ],
+    "fr": [
+      "Management"
+    ],
+    "it": [
+      "gestione"
+    ]
+  }
 }

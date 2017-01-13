@@ -43,23 +43,25 @@
   "moment-de-creation": "2015-12-06-16-27-16",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Acteur",
-  "nom-anglais": [
-    "Actor"
-  ],
-  "nom-arabe": [
-    "ممثل"
-  ],
-  "nom-espagnol": [
-    "Actor"
-  ],
   "nom-folder": "acteur",
-  "nom-francais": [
-    "Acteur"
-  ],
-  "nom-italien": [
-    "Attore"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-16-86966234209",
   "sous-type": "types-de-acteur",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Actor"
+    ],
+    "ar": [
+      "ممثل"
+    ],
+    "es": [
+      "Actor"
+    ],
+    "fr": [
+      "Acteur"
+    ],
+    "it": [
+      "Attore"
+    ]
+  }
 }

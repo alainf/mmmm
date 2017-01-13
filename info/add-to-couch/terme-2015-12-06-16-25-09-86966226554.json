@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-25-09",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Environnement",
-  "nom-anglais": [
-    "Environment"
-  ],
-  "nom-arabe": [
-    "بيئة"
-  ],
-  "nom-espagnol": [
-    "Medio ambiente"
-  ],
   "nom-folder": "Environnement",
-  "nom-francais": [
-    "Environnement"
-  ],
-  "nom-italien": [
-    "ambiente"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-09-86966226554"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environment"
+    ],
+    "ar": [
+      "بيئة"
+    ],
+    "es": [
+      "Medio ambiente"
+    ],
+    "fr": [
+      "Environnement"
+    ],
+    "it": [
+      "ambiente"
+    ]
+  }
 }

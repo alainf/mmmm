@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-43",
   "moment-de-modification": "2015-01-04-02-27-50",
   "nom": "Livres",
-  "nom-anglais": [
-    "Books"
-  ],
-  "nom-arabe": [
-    "كتب"
-  ],
-  "nom-espagnol": [
-    "Libros"
-  ],
   "nom-folder": "Livres",
-  "nom-francais": [
-    "Livres"
-  ],
-  "nom-italien": [
-    "libri"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-43-86966225029"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Books"
+    ],
+    "ar": [
+      "كتب"
+    ],
+    "es": [
+      "Libros"
+    ],
+    "fr": [
+      "Livres"
+    ],
+    "it": [
+      "libri"
+    ]
+  }
 }

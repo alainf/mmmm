@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-15",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Économie solidaire",
-  "nom-anglais": [
-    "Social economy"
-  ],
-  "nom-arabe": [
-    "اقتصاد التضامن"
-  ],
-  "nom-espagnol": [
-    "Economía solidaria"
-  ],
   "nom-folder": "Economie-solidaire",
-  "nom-francais": [
-    "Économie solidaire"
-  ],
-  "nom-italien": [
-    "Economia solidale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-15-86966230543"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social economy"
+    ],
+    "ar": [
+      "اقتصاد التضامن"
+    ],
+    "es": [
+      "Economía solidaria"
+    ],
+    "fr": [
+      "Économie solidaire"
+    ],
+    "it": [
+      "Economia solidale"
+    ]
+  }
 }

@@ -26,25 +26,27 @@
   "moment-de-creation": "2015-12-06-16-24-56",
   "moment-de-modification": "2015-12-21-11-54-06",
   "nom": "Finance",
-  "nom-anglais": [
-    "Finance"
-  ],
-  "nom-arabe": [
-    "مالية"
-  ],
-  "nom-espagnol": [
-    "Finanza"
-  ],
   "nom-folder": "Finance",
-  "nom-francais": [
-    "Finance"
-  ],
-  "nom-italien": [
-    "finanza"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-56-86966225788"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Finance"
+    ],
+    "ar": [
+      "مالية"
+    ],
+    "es": [
+      "Finanza"
+    ],
+    "fr": [
+      "Finance"
+    ],
+    "it": [
+      "finanza"
+    ]
+  }
 }

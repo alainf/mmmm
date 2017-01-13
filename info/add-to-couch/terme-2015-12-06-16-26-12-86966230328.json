@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-12",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Économie de la régulation",
-  "nom-anglais": [
-    "Economics of regulation"
-  ],
-  "nom-arabe": [
-    "اقتصاديات التنظيم"
-  ],
-  "nom-espagnol": [
-    "Economía de la regulación"
-  ],
   "nom-folder": "Economie-de-la-reglementation",
-  "nom-francais": [
-    "Économie de la régulation"
-  ],
-  "nom-italien": [
-    "Economia della regolazione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-12-86966230328"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of regulation"
+    ],
+    "ar": [
+      "اقتصاديات التنظيم"
+    ],
+    "es": [
+      "Economía de la regulación"
+    ],
+    "fr": [
+      "Économie de la régulation"
+    ],
+    "it": [
+      "Economia della regolazione"
+    ]
+  }
 }

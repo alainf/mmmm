@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-47",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Femmes",
-  "nom-anglais": [
-    "Women"
-  ],
-  "nom-arabe": [
-    "نساء"
-  ],
-  "nom-espagnol": [
-    "Mujeres"
-  ],
   "nom-folder": "Femmes",
-  "nom-francais": [
-    "Femmes"
-  ],
-  "nom-italien": [
-    "donne"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-47-86966225278"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Women"
+    ],
+    "ar": [
+      "نساء"
+    ],
+    "es": [
+      "Mujeres"
+    ],
+    "fr": [
+      "Femmes"
+    ],
+    "it": [
+      "donne"
+    ]
+  }
 }

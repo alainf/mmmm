@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-12",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Atelier",
-  "nom-anglais": [
-    "Workshop"
-  ],
-  "nom-espagnol": [
-    "Taller"
-  ],
   "nom-folder": "atelier",
-  "nom-francais": [
-    "Atelier"
-  ],
-  "nom-italien": [
-    "Laboratorio"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-12-86966233951",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Workshop"
+    ],
+    "es": [
+      "Taller"
+    ],
+    "fr": [
+      "Atelier"
+    ],
+    "it": [
+      "Laboratorio"
+    ]
+  }
 }

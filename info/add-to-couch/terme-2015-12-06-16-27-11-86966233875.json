@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-11",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Appel de communication",
-  "nom-anglais": [
-    "Call for papers"
-  ],
-  "nom-espagnol": [
-    "Solicitud de ponencias"
-  ],
   "nom-folder": "appel-de-communication",
-  "nom-francais": [
-    "Appel de communication"
-  ],
-  "nom-italien": [
-    "Invito a presentare relazioni"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-11-86966233875",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Call for papers"
+    ],
+    "es": [
+      "Solicitud de ponencias"
+    ],
+    "fr": [
+      "Appel de communication"
+    ],
+    "it": [
+      "Invito a presentare relazioni"
+    ]
+  }
 }

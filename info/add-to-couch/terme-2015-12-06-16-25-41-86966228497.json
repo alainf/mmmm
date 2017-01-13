@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-41",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Développement durable et entreprises agricoles",
-  "nom-anglais": [
-    "Agricultural enterprises and sustainable development"
-  ],
-  "nom-arabe": [
-    "التنمية المستدامة و الشركات الزراعية"
-  ],
-  "nom-espagnol": [
-    "Desarrollo sostenible y empresas agrícolas"
-  ],
   "nom-folder": "Developpement-durable-et-entreprises-agricoles",
-  "nom-francais": [
-    "Développement durable et entreprises agricoles"
-  ],
-  "nom-italien": [
-    "Sviluppo sostenibile e le imprese agricole"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-41-86966228497"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural enterprises and sustainable development"
+    ],
+    "ar": [
+      "التنمية المستدامة و الشركات الزراعية"
+    ],
+    "es": [
+      "Desarrollo sostenible y empresas agrícolas"
+    ],
+    "fr": [
+      "Développement durable et entreprises agricoles"
+    ],
+    "it": [
+      "Sviluppo sostenibile e le imprese agricole"
+    ]
+  }
 }

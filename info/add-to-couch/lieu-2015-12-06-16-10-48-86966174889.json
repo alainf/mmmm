@@ -10,26 +10,28 @@
   "moment-de-creation": "2015-12-06-16-10-48",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Afrique",
-  "nom-anglais": [
-    "Africa"
-  ],
-  "nom-arabe": [
-    "أفريقيا"
-  ],
-  "nom-espagnol": [
-    "África"
-  ],
   "nom-folder": "Afrique",
-  "nom-francais": [
-    "Afrique"
-  ],
-  "nom-italien": [
-    "Africa"
-  ],
   "nom-machine": "lieu-2015-12-06-16-10-48-86966174889",
   "nom-russe": [
     "Африка"
   ],
   "sous-type": "monde",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Africa"
+    ],
+    "ar": [
+      "أفريقيا"
+    ],
+    "es": [
+      "África"
+    ],
+    "fr": [
+      "Afrique"
+    ],
+    "it": [
+      "Africa"
+    ]
+  }
 }

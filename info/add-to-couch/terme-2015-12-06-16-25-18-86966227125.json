@@ -20,25 +20,27 @@
   "moment-de-creation": "2015-12-06-16-25-18",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Industrie",
-  "nom-anglais": [
-    "Industry"
-  ],
-  "nom-arabe": [
-    "صناعة"
-  ],
-  "nom-espagnol": [
-    "Industria"
-  ],
   "nom-folder": "Industrie",
-  "nom-francais": [
-    "Industrie"
-  ],
-  "nom-italien": [
-    "industria"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-18-86966227125"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industry"
+    ],
+    "ar": [
+      "صناعة"
+    ],
+    "es": [
+      "Industria"
+    ],
+    "fr": [
+      "Industrie"
+    ],
+    "it": [
+      "industria"
+    ]
+  }
 }

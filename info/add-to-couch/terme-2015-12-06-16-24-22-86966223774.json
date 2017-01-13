@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-22",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Agriculture biologique",
-  "nom-anglais": [
-    "Organic farming"
-  ],
-  "nom-arabe": [
-    "زراعة عضوية"
-  ],
-  "nom-espagnol": [
-    "Agricultura ecológica"
-  ],
   "nom-folder": "Agriculture-biologique",
-  "nom-francais": [
-    "Agriculture biologique"
-  ],
-  "nom-italien": [
-    "agricoltura biologica"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-22-86966223774"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organic farming"
+    ],
+    "ar": [
+      "زراعة عضوية"
+    ],
+    "es": [
+      "Agricultura ecológica"
+    ],
+    "fr": [
+      "Agriculture biologique"
+    ],
+    "it": [
+      "agricoltura biologica"
+    ]
+  }
 }

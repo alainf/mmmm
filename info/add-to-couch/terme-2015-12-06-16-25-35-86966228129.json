@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-35",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Gestion des entreprises multinationales",
-  "nom-anglais": [
-    "Multinational entreprise management"
-  ],
-  "nom-arabe": [
-    "إدارة المؤسسات متعددة الجنسيات"
-  ],
-  "nom-espagnol": [
-    "Gestión de las empresas multinacionales"
-  ],
   "nom-folder": "Gestion-des-entreprises-multinationales",
-  "nom-francais": [
-    "Gestion des entreprises multinationales"
-  ],
-  "nom-italien": [
-    "Gestione delle imprese multinazionali"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-35-86966228129"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Multinational entreprise management"
+    ],
+    "ar": [
+      "إدارة المؤسسات متعددة الجنسيات"
+    ],
+    "es": [
+      "Gestión de las empresas multinacionales"
+    ],
+    "fr": [
+      "Gestion des entreprises multinationales"
+    ],
+    "it": [
+      "Gestione delle imprese multinazionali"
+    ]
+  }
 }

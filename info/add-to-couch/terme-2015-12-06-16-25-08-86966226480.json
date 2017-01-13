@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-08",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Chaîne alimentaire",
-  "nom-anglais": [
-    "Food chain"
-  ],
-  "nom-arabe": [
-    "سلسلة غذائية"
-  ],
-  "nom-espagnol": [
-    "Cadena alimentaria"
-  ],
   "nom-folder": "Chaine-alimentaire",
-  "nom-francais": [
-    "Chaîne alimentaire"
-  ],
-  "nom-italien": [
-    "Catena alimentare"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-08-86966226480"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Food chain"
+    ],
+    "ar": [
+      "سلسلة غذائية"
+    ],
+    "es": [
+      "Cadena alimentaria"
+    ],
+    "fr": [
+      "Chaîne alimentaire"
+    ],
+    "it": [
+      "Catena alimentare"
+    ]
+  }
 }

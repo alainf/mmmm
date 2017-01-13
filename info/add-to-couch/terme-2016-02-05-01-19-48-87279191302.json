@@ -9,20 +9,22 @@
   "moment-de-creation": "2016-02-05-01-19-48",
   "moment-de-modification": "2016-02-05-01-21-29",
   "nom": "Par quoi commencer",
-  "nom-anglais": [
-    "What to start with"
-  ],
-  "nom-espagnol": [
-    "por qué empezar"
-  ],
   "nom-folder": "Par-quoi-commencer",
-  "nom-francais": [
-    "Par quoi commencer"
-  ],
-  "nom-italien": [
-    "Da dove cominciare"
-  ],
   "nom-machine": "terme-2016-02-05-01-19-48-87279191302",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "What to start with"
+    ],
+    "es": [
+      "por qué empezar"
+    ],
+    "fr": [
+      "Par quoi commencer"
+    ],
+    "it": [
+      "Da dove cominciare"
+    ]
+  }
 }

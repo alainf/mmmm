@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-26-20",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Fabrication d’autres produits chimiques inorganiques de base",
-  "nom-anglais": [
-    "Other inorganic basic chemicals manufacturing"
-  ],
-  "nom-arabe": [
-    "تصنيع المواد الكيميائية الأخرى الغير العضوية الأساسية"
-  ],
-  "nom-espagnol": [
-    "Fabricación de otros productos químicos inorgánicos de base"
-  ],
   "nom-folder": "Fab-autres-produits-chimiques-inorganiques-de-base",
-  "nom-francais": [
-    "Fabrication d’autres produits chimiques inorganiques de base"
-  ],
-  "nom-italien": [
-    "Fabbricazione di altri prodotti chimici inorganici di base"
-  ],
   "nom-machine": "terme-2015-12-06-16-26-20-86966230829",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Other inorganic basic chemicals manufacturing"
+    ],
+    "ar": [
+      "تصنيع المواد الكيميائية الأخرى الغير العضوية الأساسية"
+    ],
+    "es": [
+      "Fabricación de otros productos químicos inorgánicos de base"
+    ],
+    "fr": [
+      "Fabrication d’autres produits chimiques inorganiques de base"
+    ],
+    "it": [
+      "Fabbricazione di altri prodotti chimici inorganici di base"
+    ]
+  }
 }

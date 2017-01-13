@@ -6,10 +6,12 @@
   "moment-de-creation": "2015-12-06-16-13-04",
   "nom": "Clinton",
   "nom-folder": "Clinton",
-  "nom-francais": [
-    "Clinton"
-  ],
   "nom-machine": "lieu-2015-12-06-16-13-04-86966183059",
   "sous-type": "ville",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Clinton"
+    ]
+  }
 }

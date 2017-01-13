@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-25",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "États-Unis",
-  "nom-anglais": [
-    "United States"
-  ],
-  "nom-arabe": [
-    "الولايات المتحدة"
-  ],
-  "nom-espagnol": [
-    "Estados Unidos"
-  ],
   "nom-folder": "Etats-Unis",
-  "nom-francais": [
-    "États-Unis"
-  ],
-  "nom-italien": [
-    "Stati Uniti"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-25-86966231110"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "United States"
+    ],
+    "ar": [
+      "الولايات المتحدة"
+    ],
+    "es": [
+      "Estados Unidos"
+    ],
+    "fr": [
+      "États-Unis"
+    ],
+    "it": [
+      "Stati Uniti"
+    ]
+  }
 }

@@ -15,7 +15,6 @@
     "terme-2015-12-06-16-27-20-86966234411",
     "terme-2015-12-06-16-27-20-86966234414",
     "terme-2015-12-24-10-08-39-87058183163",
-    "terme-2015-12-24-10-08-39-87058183163",
     "terme-2016-04-12-20-25-46-87630428805"
   ],
   "fiche-a-completer": true,
@@ -25,20 +24,22 @@
   "moment-de-creation": "2015-12-06-16-27-19",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Fil rss",
-  "nom-anglais": [
-    "Rss feed"
-  ],
-  "nom-espagnol": [
-    "Flujo rss"
-  ],
   "nom-folder": "fil-RSS",
-  "nom-francais": [
-    "Fil rss"
-  ],
-  "nom-italien": [
-    "Flusso rss"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-19-86966234380",
   "sous-type": "types-de-ressource",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rss feed"
+    ],
+    "es": [
+      "Flujo rss"
+    ],
+    "fr": [
+      "Fil rss"
+    ],
+    "it": [
+      "Flusso rss"
+    ]
+  }
 }

@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Enjeux du contrôle de gestion",
-  "nom-anglais": [
-    "Issues of management control"
-  ],
-  "nom-arabe": [
-    "قضايا الرقابة الإدارية"
-  ],
-  "nom-espagnol": [
-    "Cuestiones de control de gestión"
-  ],
   "nom-folder": "Enjeux-du-controle-de-gestion",
-  "nom-francais": [
-    "Enjeux du contrôle de gestion"
-  ],
-  "nom-italien": [
-    "Questioni di controllo di gestione"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-20-86966227227",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Issues of management control"
+    ],
+    "ar": [
+      "قضايا الرقابة الإدارية"
+    ],
+    "es": [
+      "Cuestiones de control de gestión"
+    ],
+    "fr": [
+      "Enjeux du contrôle de gestion"
+    ],
+    "it": [
+      "Questioni di controllo di gestione"
+    ]
+  }
 }

@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-11",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Bibliographie",
-  "nom-anglais": [
-    "Bibliography"
-  ],
-  "nom-espagnol": [
-    "Bibliografía"
-  ],
   "nom-folder": "bibliographie",
-  "nom-francais": [
-    "Bibliographie"
-  ],
-  "nom-italien": [
-    "Bibliografia"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-11-86966233899",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bibliography"
+    ],
+    "es": [
+      "Bibliografía"
+    ],
+    "fr": [
+      "Bibliographie"
+    ],
+    "it": [
+      "Bibliografia"
+    ]
+  }
 }

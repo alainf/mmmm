@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-15",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Répertoire",
-  "nom-anglais": [
-    "Directory"
-  ],
-  "nom-espagnol": [
-    "Repertorio"
-  ],
   "nom-folder": "repertoire",
-  "nom-francais": [
-    "Répertoire"
-  ],
-  "nom-italien": [
-    "Repertorio"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-15-86966234144",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Directory"
+    ],
+    "es": [
+      "Repertorio"
+    ],
+    "fr": [
+      "Répertoire"
+    ],
+    "it": [
+      "Repertorio"
+    ]
+  }
 }

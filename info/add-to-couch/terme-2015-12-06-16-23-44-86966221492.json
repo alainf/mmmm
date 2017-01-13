@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-23-44",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Multimédia",
-  "nom-anglais": [
-    "Multimedia"
-  ],
-  "nom-arabe": [
-    "وسائط متعددة"
-  ],
-  "nom-espagnol": [
-    "Multimedia"
-  ],
   "nom-folder": "Multimedia",
-  "nom-francais": [
-    "Multimédia"
-  ],
-  "nom-italien": [
-    "Multimediale"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-44-86966221492"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Multimedia"
+    ],
+    "ar": [
+      "وسائط متعددة"
+    ],
+    "es": [
+      "Multimedia"
+    ],
+    "fr": [
+      "Multimédia"
+    ],
+    "it": [
+      "Multimediale"
+    ]
+  }
 }

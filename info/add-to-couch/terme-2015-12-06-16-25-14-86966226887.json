@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-14",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Reportage",
-  "nom-anglais": [
-    "Reporting"
-  ],
-  "nom-arabe": [
-    "تقرير"
-  ],
-  "nom-espagnol": [
-    "Reportaje"
-  ],
   "nom-folder": "Reportage",
-  "nom-francais": [
-    "Reportage"
-  ],
-  "nom-italien": [
-    "Reportage"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-14-86966226887"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reporting"
+    ],
+    "ar": [
+      "تقرير"
+    ],
+    "es": [
+      "Reportaje"
+    ],
+    "fr": [
+      "Reportage"
+    ],
+    "it": [
+      "Reportage"
+    ]
+  }
 }

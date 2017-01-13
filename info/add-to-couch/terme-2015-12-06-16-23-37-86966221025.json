@@ -11,22 +11,7 @@
   "moment-de-creation": "2015-12-06-16-23-37",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Droits des lesbiennes, gais, bisexuels, transgenres",
-  "nom-anglais": [
-    "Lgbt - lesbian, gay, bisexual, and transgender"
-  ],
-  "nom-arabe": [
-    "إل جي بي تي - المثليات والمثليون والمزدوجون جنسيا والمتحولون"
-  ],
-  "nom-espagnol": [
-    "Lgbt -  lesbianas, gais, bisexuales y personas transgénero"
-  ],
   "nom-folder": "Droits-des-lesbiennes,-gais-etc",
-  "nom-francais": [
-    "Droits des lesbiennes, gais, bisexuels, transgenres"
-  ],
-  "nom-italien": [
-    "Lgbt -  lesbiche, gay, bisessuali e transgender"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-37-86966221025"
   ],
@@ -34,5 +19,22 @@
     "ЛГБТ - лесбиянок, геев, бисексуалов  и трансгендеров"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lgbt - lesbian, gay, bisexual, and transgender"
+    ],
+    "ar": [
+      "إل جي بي تي - المثليات والمثليون والمزدوجون جنسيا والمتحولون"
+    ],
+    "es": [
+      "Lgbt -  lesbianas, gais, bisexuales y personas transgénero"
+    ],
+    "fr": [
+      "Droits des lesbiennes, gais, bisexuels, transgenres"
+    ],
+    "it": [
+      "Lgbt -  lesbiche, gay, bisessuali e transgender"
+    ]
+  }
 }

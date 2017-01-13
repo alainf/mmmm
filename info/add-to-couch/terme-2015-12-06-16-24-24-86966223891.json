@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-24",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Typologies des terres agricoles",
-  "nom-anglais": [
-    "Typologies of agricultural land"
-  ],
-  "nom-arabe": [
-    "نماذج أراضي الزراعية"
-  ],
-  "nom-espagnol": [
-    "Tipologías de las tierras agrícolas"
-  ],
   "nom-folder": "Typologies-des-terres-agricoles",
-  "nom-francais": [
-    "Typologies des terres agricoles"
-  ],
-  "nom-italien": [
-    "tipologie di terreni agricoli"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-24-86966223891"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Typologies of agricultural land"
+    ],
+    "ar": [
+      "نماذج أراضي الزراعية"
+    ],
+    "es": [
+      "Tipologías de las tierras agrícolas"
+    ],
+    "fr": [
+      "Typologies des terres agricoles"
+    ],
+    "it": [
+      "tipologie di terreni agricoli"
+    ]
+  }
 }

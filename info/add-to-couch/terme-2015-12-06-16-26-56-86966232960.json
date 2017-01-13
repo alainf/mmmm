@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-26-56",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Élections",
-  "nom-anglais": [
-    "Elections"
-  ],
-  "nom-arabe": [
-    "الانتخابات"
-  ],
-  "nom-espagnol": [
-    "Elecciones"
-  ],
   "nom-folder": "Elections",
-  "nom-francais": [
-    "Élections"
-  ],
-  "nom-italien": [
-    "Elezioni"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-56-86966232960"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Elections"
+    ],
+    "ar": [
+      "الانتخابات"
+    ],
+    "es": [
+      "Elecciones"
+    ],
+    "fr": [
+      "Élections"
+    ],
+    "it": [
+      "Elezioni"
+    ]
+  }
 }

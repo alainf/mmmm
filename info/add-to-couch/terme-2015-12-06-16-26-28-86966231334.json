@@ -19,25 +19,27 @@
   "moment-de-creation": "2015-12-06-16-26-28",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Santé et bien-être",
-  "nom-anglais": [
-    "Health and welfare"
-  ],
-  "nom-arabe": [
-    "الصحة والعافية"
-  ],
-  "nom-espagnol": [
-    "Salud y bienestar"
-  ],
   "nom-folder": "Sante-et-bien-etre",
-  "nom-francais": [
-    "Santé et bien-être"
-  ],
-  "nom-italien": [
-    "Salute e benessere"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-28-86966231334"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health and welfare"
+    ],
+    "ar": [
+      "الصحة والعافية"
+    ],
+    "es": [
+      "Salud y bienestar"
+    ],
+    "fr": [
+      "Santé et bien-être"
+    ],
+    "it": [
+      "Salute e benessere"
+    ]
+  }
 }

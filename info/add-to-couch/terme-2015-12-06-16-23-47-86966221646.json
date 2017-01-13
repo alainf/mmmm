@@ -9,26 +9,28 @@
   "moment-de-creation": "2015-12-06-16-23-47",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Phdadmin",
-  "nom-anglais": [
-    "Administration"
-  ],
-  "nom-arabe": [
-    "إدارة الأعمال"
-  ],
-  "nom-espagnol": [
-    "Administración"
-  ],
   "nom-folder": "phdAdmin",
-  "nom-francais": [
-    "Phdadmin"
-  ],
-  "nom-italien": [
-    "Amministrazione"
-  ],
   "nom-machine": "terme-2015-12-06-16-23-47-86966221646",
   "nom-russe": [
     "Администрация"
   ],
   "sous-type": "sites",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Administration"
+    ],
+    "ar": [
+      "إدارة الأعمال"
+    ],
+    "es": [
+      "Administración"
+    ],
+    "fr": [
+      "Phdadmin"
+    ],
+    "it": [
+      "Amministrazione"
+    ]
+  }
 }

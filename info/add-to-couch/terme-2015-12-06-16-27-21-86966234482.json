@@ -15,23 +15,25 @@
   "moment-de-creation": "2015-12-06-16-27-21",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Site web",
-  "nom-anglais": [
-    "Web site"
-  ],
-  "nom-arabe": [
-    "موقع إلكتروني"
-  ],
-  "nom-espagnol": [
-    "Sitio web"
-  ],
   "nom-folder": "site-web",
-  "nom-francais": [
-    "Site web"
-  ],
-  "nom-italien": [
-    "Sito web"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-21-86966234482",
   "sous-type": "types-de-ressource",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Web site"
+    ],
+    "ar": [
+      "موقع إلكتروني"
+    ],
+    "es": [
+      "Sitio web"
+    ],
+    "fr": [
+      "Site web"
+    ],
+    "it": [
+      "Sito web"
+    ]
+  }
 }

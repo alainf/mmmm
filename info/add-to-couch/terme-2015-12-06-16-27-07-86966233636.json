@@ -15,25 +15,27 @@
   "moment-de-creation": "2015-12-06-16-27-07",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Santé (sport)",
-  "nom-anglais": [
-    "Health (sports)"
-  ],
-  "nom-arabe": [
-    "الصحة (الرياضة)"
-  ],
-  "nom-espagnol": [
-    "Salud (Deporte)"
-  ],
   "nom-folder": "Sante-(sport)",
-  "nom-francais": [
-    "Santé (sport)"
-  ],
-  "nom-italien": [
-    "Salute (sport)"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-27-07-86966233636"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health (sports)"
+    ],
+    "ar": [
+      "الصحة (الرياضة)"
+    ],
+    "es": [
+      "Salud (Deporte)"
+    ],
+    "fr": [
+      "Santé (sport)"
+    ],
+    "it": [
+      "Salute (sport)"
+    ]
+  }
 }

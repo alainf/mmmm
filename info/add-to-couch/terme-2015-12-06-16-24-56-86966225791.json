@@ -25,25 +25,27 @@
   "moment-de-creation": "2015-12-06-16-24-56",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Branches de la finance",
-  "nom-anglais": [
-    "Branches of finance"
-  ],
-  "nom-arabe": [
-    "فروع المالية"
-  ],
-  "nom-espagnol": [
-    "Ramas de las finanzas"
-  ],
   "nom-folder": "Branches-de-la-finance",
-  "nom-francais": [
-    "Branches de la finance"
-  ],
-  "nom-italien": [
-    "rami della finanza"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-56-86966225791"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Branches of finance"
+    ],
+    "ar": [
+      "فروع المالية"
+    ],
+    "es": [
+      "Ramas de las finanzas"
+    ],
+    "fr": [
+      "Branches de la finance"
+    ],
+    "it": [
+      "rami della finanza"
+    ]
+  }
 }

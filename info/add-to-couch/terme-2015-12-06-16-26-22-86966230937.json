@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-26-22",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Génétique",
-  "nom-anglais": [
-    "Genetics"
-  ],
-  "nom-arabe": [
-    "علم الوراثة"
-  ],
-  "nom-espagnol": [
-    "Genética"
-  ],
   "nom-folder": "Genetique",
-  "nom-francais": [
-    "Génétique"
-  ],
-  "nom-italien": [
-    "Genetica"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-22-86966230937"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Genetics"
+    ],
+    "ar": [
+      "علم الوراثة"
+    ],
+    "es": [
+      "Genética"
+    ],
+    "fr": [
+      "Génétique"
+    ],
+    "it": [
+      "Genetica"
+    ]
+  }
 }

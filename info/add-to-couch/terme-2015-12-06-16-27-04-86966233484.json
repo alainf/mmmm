@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-27-04",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Famille",
-  "nom-anglais": [
-    "Family"
-  ],
-  "nom-arabe": [
-    "أسرة"
-  ],
-  "nom-espagnol": [
-    "Familia"
-  ],
   "nom-folder": "Famille",
-  "nom-francais": [
-    "Famille"
-  ],
-  "nom-italien": [
-    "Famiglia"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-27-04-86966233484"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Family"
+    ],
+    "ar": [
+      "أسرة"
+    ],
+    "es": [
+      "Familia"
+    ],
+    "fr": [
+      "Famille"
+    ],
+    "it": [
+      "Famiglia"
+    ]
+  }
 }

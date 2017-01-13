@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-27-04",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Association",
-  "nom-anglais": [
-    "Association"
-  ],
-  "nom-arabe": [
-    "جمعية"
-  ],
-  "nom-espagnol": [
-    "Asociación"
-  ],
   "nom-folder": "Association",
-  "nom-francais": [
-    "Association"
-  ],
-  "nom-italien": [
-    "associazione"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-27-04-86966233476"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Association"
+    ],
+    "ar": [
+      "جمعية"
+    ],
+    "es": [
+      "Asociación"
+    ],
+    "fr": [
+      "Association"
+    ],
+    "it": [
+      "associazione"
+    ]
+  }
 }

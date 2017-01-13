@@ -16,22 +16,7 @@
   "moment-de-creation": "2015-12-06-16-23-38",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Journaux",
-  "nom-anglais": [
-    "Newspapers"
-  ],
-  "nom-arabe": [
-    "الصحف"
-  ],
-  "nom-espagnol": [
-    "Periódicos"
-  ],
   "nom-folder": "Journaux",
-  "nom-francais": [
-    "Journaux"
-  ],
-  "nom-italien": [
-    "Giornali"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-38-86966221136"
   ],
@@ -39,5 +24,22 @@
     "Газеты"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Newspapers"
+    ],
+    "ar": [
+      "الصحف"
+    ],
+    "es": [
+      "Periódicos"
+    ],
+    "fr": [
+      "Journaux"
+    ],
+    "it": [
+      "Giornali"
+    ]
+  }
 }

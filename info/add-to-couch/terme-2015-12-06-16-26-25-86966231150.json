@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-26-25",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Territoire",
-  "nom-anglais": [
-    "Territory"
-  ],
-  "nom-arabe": [
-    "الوقتية الحضرية"
-  ],
-  "nom-espagnol": [
-    "Territorio"
-  ],
   "nom-folder": "Territoire",
-  "nom-francais": [
-    "Territoire"
-  ],
-  "nom-italien": [
-    "territorio"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-25-86966231150"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Territory"
+    ],
+    "ar": [
+      "الوقتية الحضرية"
+    ],
+    "es": [
+      "Territorio"
+    ],
+    "fr": [
+      "Territoire"
+    ],
+    "it": [
+      "territorio"
+    ]
+  }
 }

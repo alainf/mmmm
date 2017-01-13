@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-27",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Production sur stock",
-  "nom-anglais": [
-    "Build to stock"
-  ],
-  "nom-arabe": [
-    "الإنتاج ضد المخزون"
-  ],
-  "nom-espagnol": [
-    "Producción para inventario"
-  ],
   "nom-folder": "Production-sur-stock",
-  "nom-francais": [
-    "Production sur stock"
-  ],
-  "nom-italien": [
-    "Produzione per il magazzino"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-27-86966227678",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Build to stock"
+    ],
+    "ar": [
+      "الإنتاج ضد المخزون"
+    ],
+    "es": [
+      "Producción para inventario"
+    ],
+    "fr": [
+      "Production sur stock"
+    ],
+    "it": [
+      "Produzione per il magazzino"
+    ]
+  }
 }

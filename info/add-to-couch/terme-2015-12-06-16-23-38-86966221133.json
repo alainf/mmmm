@@ -11,22 +11,7 @@
   "moment-de-creation": "2015-12-06-16-23-38",
   "moment-de-modification": "2015-01-04-02-27-33",
   "nom": "Chroniqueurs",
-  "nom-anglais": [
-    "Columnists"
-  ],
-  "nom-arabe": [
-    "المؤرخ الإخباري"
-  ],
-  "nom-espagnol": [
-    "Columnistas"
-  ],
   "nom-folder": "Chroniqueurs",
-  "nom-francais": [
-    "Chroniqueurs"
-  ],
-  "nom-italien": [
-    "Cronisti"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-38-86966221133"
   ],
@@ -34,5 +19,22 @@
     "Хронист"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Columnists"
+    ],
+    "ar": [
+      "المؤرخ الإخباري"
+    ],
+    "es": [
+      "Columnistas"
+    ],
+    "fr": [
+      "Chroniqueurs"
+    ],
+    "it": [
+      "Cronisti"
+    ]
+  }
 }

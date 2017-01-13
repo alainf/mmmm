@@ -11,23 +11,25 @@
   "moment-de-creation": "2015-12-06-16-25-14",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Billet",
-  "nom-anglais": [
-    "Column (press)"
-  ],
-  "nom-arabe": [
-    "العمود (الصحافة)"
-  ],
-  "nom-espagnol": [
-    "Columna (prensa)"
-  ],
   "nom-folder": "Billet",
-  "nom-francais": [
-    "Billet"
-  ],
-  "nom-italien": [
-    "Biglietto"
-  ],
   "nom-machine": "terme-2015-12-06-16-25-14-86966226865",
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Column (press)"
+    ],
+    "ar": [
+      "العمود (الصحافة)"
+    ],
+    "es": [
+      "Columna (prensa)"
+    ],
+    "fr": [
+      "Billet"
+    ],
+    "it": [
+      "Biglietto"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-41",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Proximité",
-  "nom-anglais": [
-    "Proximity"
-  ],
-  "nom-arabe": [
-    "مسافة"
-  ],
-  "nom-espagnol": [
-    "Proximidad"
-  ],
   "nom-folder": "Proximite",
-  "nom-francais": [
-    "Proximité"
-  ],
-  "nom-italien": [
-    "Prossimità"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-41-86966228484"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Proximity"
+    ],
+    "ar": [
+      "مسافة"
+    ],
+    "es": [
+      "Proximidad"
+    ],
+    "fr": [
+      "Proximité"
+    ],
+    "it": [
+      "Prossimità"
+    ]
+  }
 }

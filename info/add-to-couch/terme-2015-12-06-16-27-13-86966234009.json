@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-13",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Flux",
-  "nom-anglais": [
-    "Feed"
-  ],
-  "nom-espagnol": [
-    "Flujo"
-  ],
   "nom-folder": "flux",
-  "nom-francais": [
-    "Flux"
-  ],
-  "nom-italien": [
-    "Flusso"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-13-86966234009",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Feed"
+    ],
+    "es": [
+      "Flujo"
+    ],
+    "fr": [
+      "Flux"
+    ],
+    "it": [
+      "Flusso"
+    ]
+  }
 }

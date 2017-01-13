@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-38",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Choix d'investissements",
-  "nom-anglais": [
-    "Investment choices"
-  ],
-  "nom-arabe": [
-    "الخيارات الاستثمارية"
-  ],
-  "nom-espagnol": [
-    "Opciones de inversión"
-  ],
   "nom-folder": "Choix-d'investissements",
-  "nom-francais": [
-    "Choix d'investissements"
-  ],
-  "nom-italien": [
-    "Scelte d’investimento"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-38-86966228303"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Investment choices"
+    ],
+    "ar": [
+      "الخيارات الاستثمارية"
+    ],
+    "es": [
+      "Opciones de inversión"
+    ],
+    "fr": [
+      "Choix d'investissements"
+    ],
+    "it": [
+      "Scelte d’investimento"
+    ]
+  }
 }

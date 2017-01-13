@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-26-13",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Économie politique de la défense",
-  "nom-anglais": [
-    "Political economy of defence"
-  ],
-  "nom-arabe": [
-    "الاقتصاد السياسي للدفاع"
-  ],
-  "nom-espagnol": [
-    "Economía política de la defensa"
-  ],
   "nom-folder": "Economie-politique-de-la-defense",
-  "nom-francais": [
-    "Économie politique de la défense"
-  ],
-  "nom-italien": [
-    "Economia politica della difesa"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-26-13-86966230427"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political economy of defence"
+    ],
+    "ar": [
+      "الاقتصاد السياسي للدفاع"
+    ],
+    "es": [
+      "Economía política de la defensa"
+    ],
+    "fr": [
+      "Économie politique de la défense"
+    ],
+    "it": [
+      "Economia politica della difesa"
+    ]
+  }
 }

@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-23-44",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Recherche par auteur",
-  "nom-anglais": [
-    "Browse by author"
-  ],
-  "nom-arabe": [
-    "البحث بالمؤلف"
-  ],
-  "nom-espagnol": [
-    "Búsqueda por autor"
-  ],
   "nom-folder": "Recherche-par-auteur",
-  "nom-francais": [
-    "Recherche par auteur"
-  ],
-  "nom-italien": [
-    "Ricerca per autore"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-44-86966221458"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Browse by author"
+    ],
+    "ar": [
+      "البحث بالمؤلف"
+    ],
+    "es": [
+      "Búsqueda por autor"
+    ],
+    "fr": [
+      "Recherche par auteur"
+    ],
+    "it": [
+      "Ricerca per autore"
+    ]
+  }
 }

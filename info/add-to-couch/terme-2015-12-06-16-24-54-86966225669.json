@@ -37,22 +37,7 @@
   "moment-de-creation": "2016-07-09-17-40-41",
   "moment-de-modification": "2016-07-09-17-41-21",
   "nom": "Économie",
-  "nom-anglais": [
-    "Economy"
-  ],
-  "nom-arabe": [
-    "الاقتصاد"
-  ],
-  "nom-espagnol": [
-    "Economía"
-  ],
   "nom-folder": "Economie",
-  "nom-francais": [
-    "Économie"
-  ],
-  "nom-italien": [
-    "Economia"
-  ],
   "nom-machine": "terme-2015-12-06-16-24-54-86966225669",
   "sous-type": "sujets",
   "sujets-dialnet": [
@@ -67,5 +52,22 @@
   "sujets-sage": [
     "terme-2015-12-06-16-24-21-86966223682"
   ],
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economy"
+    ],
+    "ar": [
+      "الاقتصاد"
+    ],
+    "es": [
+      "Economía"
+    ],
+    "fr": [
+      "Économie"
+    ],
+    "it": [
+      "Economia"
+    ]
+  }
 }

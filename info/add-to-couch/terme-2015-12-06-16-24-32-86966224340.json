@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-24-32",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Microbiologie",
-  "nom-anglais": [
-    "Microbiology"
-  ],
-  "nom-arabe": [
-    "علم الأحياء الدقيقة"
-  ],
-  "nom-espagnol": [
-    "Microbiología"
-  ],
   "nom-folder": "Microbiologie",
-  "nom-francais": [
-    "Microbiologie"
-  ],
-  "nom-italien": [
-    "microbiologia"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-24-32-86966224340"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Microbiology"
+    ],
+    "ar": [
+      "علم الأحياء الدقيقة"
+    ],
+    "es": [
+      "Microbiología"
+    ],
+    "fr": [
+      "Microbiologie"
+    ],
+    "it": [
+      "microbiologia"
+    ]
+  }
 }

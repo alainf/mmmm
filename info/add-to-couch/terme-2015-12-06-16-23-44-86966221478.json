@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-23-44",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Téléphd",
-  "nom-anglais": [
-    "Tvphd"
-  ],
-  "nom-arabe": [
-    "تلفاز الدكتور"
-  ],
-  "nom-espagnol": [
-    "Telephd"
-  ],
   "nom-folder": "TelePhD",
-  "nom-francais": [
-    "Téléphd"
-  ],
-  "nom-italien": [
-    "Tele-Phd"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-44-86966221478"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tvphd"
+    ],
+    "ar": [
+      "تلفاز الدكتور"
+    ],
+    "es": [
+      "Telephd"
+    ],
+    "fr": [
+      "Téléphd"
+    ],
+    "it": [
+      "Tele-Phd"
+    ]
+  }
 }

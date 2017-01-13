@@ -11,22 +11,7 @@
   "moment-de-creation": "2015-12-06-16-23-37",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Actions pour la démocratie dans le monde",
-  "nom-anglais": [
-    "Actions for world democracy"
-  ],
-  "nom-arabe": [
-    "العمل من أجل الديمقراطية في العالم"
-  ],
-  "nom-espagnol": [
-    "Acciones para la democracia en el mundo"
-  ],
   "nom-folder": "Actions-pour-la-democratie-dans-le-monde",
-  "nom-francais": [
-    "Actions pour la démocratie dans le monde"
-  ],
-  "nom-italien": [
-    "Azioni per la democrazia nel mondo"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-37-86966221067"
   ],
@@ -34,5 +19,22 @@
     "Действия для демократии в мире"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Actions for world democracy"
+    ],
+    "ar": [
+      "العمل من أجل الديمقراطية في العالم"
+    ],
+    "es": [
+      "Acciones para la democracia en el mundo"
+    ],
+    "fr": [
+      "Actions pour la démocratie dans le monde"
+    ],
+    "it": [
+      "Azioni per la democrazia nel mondo"
+    ]
+  }
 }

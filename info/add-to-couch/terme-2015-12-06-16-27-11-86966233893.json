@@ -10,20 +10,22 @@
   "moment-de-creation": "2015-12-06-16-27-11",
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Base de données",
-  "nom-anglais": [
-    "Database"
-  ],
-  "nom-espagnol": [
-    "Base de datos"
-  ],
   "nom-folder": "base-de-donnees",
-  "nom-francais": [
-    "Base de données"
-  ],
-  "nom-italien": [
-    "Base di dati"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-11-86966233893",
   "sous-type": "types-de-contenu",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Database"
+    ],
+    "es": [
+      "Base de datos"
+    ],
+    "fr": [
+      "Base de données"
+    ],
+    "it": [
+      "Base di dati"
+    ]
+  }
 }

@@ -9,26 +9,28 @@
   "moment-de-creation": "2015-12-06-16-16-35",
   "moment-de-modification": "2016-02-04-16-40-08",
   "nom": "France",
-  "nom-anglais": [
-    "France"
-  ],
-  "nom-arabe": [
-    "فرنسا"
-  ],
-  "nom-espagnol": [
-    "Francia"
-  ],
   "nom-folder": "France",
-  "nom-francais": [
-    "France"
-  ],
-  "nom-italien": [
-    "Francia"
-  ],
   "nom-machine": "lieu-2015-12-06-16-16-35-86966195724",
   "nom-russe": [
     "Франция"
   ],
   "sous-type": "pays",
-  "type": "lieux"
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "France"
+    ],
+    "ar": [
+      "فرنسا"
+    ],
+    "es": [
+      "Francia"
+    ],
+    "fr": [
+      "France"
+    ],
+    "it": [
+      "Francia"
+    ]
+  }
 }

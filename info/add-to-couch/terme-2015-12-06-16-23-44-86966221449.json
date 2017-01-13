@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-23-44",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Périodiques en ligne",
-  "nom-anglais": [
-    "Online periodicals"
-  ],
-  "nom-arabe": [
-    "الدوريات عبر الإنترنت"
-  ],
-  "nom-espagnol": [
-    "Periódicos en línea"
-  ],
   "nom-folder": "Periodiques-en-ligne",
-  "nom-francais": [
-    "Périodiques en ligne"
-  ],
-  "nom-italien": [
-    "Periodici on-line"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-44-86966221449"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Online periodicals"
+    ],
+    "ar": [
+      "الدوريات عبر الإنترنت"
+    ],
+    "es": [
+      "Periódicos en línea"
+    ],
+    "fr": [
+      "Périodiques en ligne"
+    ],
+    "it": [
+      "Periodici on-line"
+    ]
+  }
 }

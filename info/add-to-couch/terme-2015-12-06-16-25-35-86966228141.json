@@ -11,25 +11,27 @@
   "moment-de-creation": "2015-12-06-16-25-35",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Gestion des organismes sans but lucratif",
-  "nom-anglais": [
-    "Management of not-for-profit organizations"
-  ],
-  "nom-arabe": [
-    "إدارة مؤسسات لا تهدف إلى الربح"
-  ],
-  "nom-espagnol": [
-    "Gestión de los organismos sin ánimo de lucro"
-  ],
   "nom-folder": "Gestion-des-organismes-sans-but-lucratif",
-  "nom-francais": [
-    "Gestion des organismes sans but lucratif"
-  ],
-  "nom-italien": [
-    "Gestione delle organizzazioni non a scopo di lucro"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-25-35-86966228141"
   ],
   "sous-type": "sujets",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management of not-for-profit organizations"
+    ],
+    "ar": [
+      "إدارة مؤسسات لا تهدف إلى الربح"
+    ],
+    "es": [
+      "Gestión de los organismos sin ánimo de lucro"
+    ],
+    "fr": [
+      "Gestion des organismes sans but lucratif"
+    ],
+    "it": [
+      "Gestione delle organizzazioni non a scopo di lucro"
+    ]
+  }
 }

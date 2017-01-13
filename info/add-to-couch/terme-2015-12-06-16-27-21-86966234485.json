@@ -10,23 +10,25 @@
   "moment-de-creation": "2015-12-06-16-27-21",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Page web",
-  "nom-anglais": [
-    "Web page"
-  ],
-  "nom-arabe": [
-    "صفحة على الإنترنت"
-  ],
-  "nom-espagnol": [
-    "Página web"
-  ],
   "nom-folder": "page-web",
-  "nom-francais": [
-    "Page web"
-  ],
-  "nom-italien": [
-    "Pagina web"
-  ],
   "nom-machine": "terme-2015-12-06-16-27-21-86966234485",
   "sous-type": "types-de-ressource",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Web page"
+    ],
+    "ar": [
+      "صفحة على الإنترنت"
+    ],
+    "es": [
+      "Página web"
+    ],
+    "fr": [
+      "Page web"
+    ],
+    "it": [
+      "Pagina web"
+    ]
+  }
 }

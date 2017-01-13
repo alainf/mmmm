@@ -14,25 +14,27 @@
   "moment-de-creation": "2015-12-06-16-23-46",
   "moment-de-modification": "2015-01-04-02-27-34",
   "nom": "Littérature",
-  "nom-anglais": [
-    "Literature"
-  ],
-  "nom-arabe": [
-    "أدب"
-  ],
-  "nom-espagnol": [
-    "Literatura"
-  ],
   "nom-folder": "Litterature",
-  "nom-francais": [
-    "Littérature"
-  ],
-  "nom-italien": [
-    "Letteratura"
-  ],
   "nom-machine": [
     "terme-2015-12-06-16-23-46-86966221579"
   ],
   "sous-type": "sections",
-  "type": "taxonomies"
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Literature"
+    ],
+    "ar": [
+      "أدب"
+    ],
+    "es": [
+      "Literatura"
+    ],
+    "fr": [
+      "Littérature"
+    ],
+    "it": [
+      "Letteratura"
+    ]
+  }
 }
