@@ -31,8 +31,8 @@
       <dd>
         <% data.doc.lieuConcerne.forEach(function (valeur) { %>
            <p class="enum">
-             <% if (valeur.nom) { %>
-              <%- valeur.nom %>
+             <% if (valeur.nomLangues) { %>
+              <a href="/<%- data.languageCode %>/lieu/<%- valeur._id %>"><%- valeur.nomLangues[data.languageCode] && valeur.nomLangues[data.languageCode][0] || valeur.nom %></a>
              <% } else { %>
               <%- valeur %>
              <% } %>
@@ -55,8 +55,8 @@
       <dd>
         <% data.doc.personneConcernee.forEach(function (valeur) { %>
            <p class="enum">
-             <% if (valeur.nom) { %>
-              <%- valeur.nom %>
+             <% if (valeur.nomLangues) { %>
+              <a href="/<%- data.languageCode %>/personne/<%- valeur._id %>"><%- valeur.nomLangues[data.languageCode] && valeur.nomLangues[data.languageCode][0] || valeur.nom %></a>
              <% } else { %>
               <%- valeur %>
              <% } %>
@@ -149,6 +149,10 @@
       <dd>
         <% data.doc.voirAussi.forEach(function (valeur) { %>
            <p class="enum">
+             <% if (valeur.nomLangues) { %>
+              <a href="/<%- data.languageCode %>/XXX/<%- valeur._id %>"><%- valeur.nomLangues[data.languageCode] && valeur.nomLangues[data.languageCode][0] || valeur.nom %></a>
+             <% } %>
+
              <% if (valeur.nom) { %>
               <%- valeur.nom %>
              <% } else { %>
