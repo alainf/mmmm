@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-42-86966228579",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-des-soins-de-sante/",
-  "description": "Description de Gestion des soins de sant&#233;",
+  "description": "Description de Gestion des soins de santé",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 272226,
@@ -15,14 +15,14 @@
     "Health Care Management"
   ],
   "nom-arabe": [
-    "&#1573;&#1583;&#1575;&#1585;&#1577; &#1575;&#1604;&#1585;&#1593;&#1575;&#1610;&#1575;&#1578; &#1575;&#1604;&#1589;&#1581;&#1610;&#1577;"
+    "إدارة الرعايات الصحية"
   ],
   "nom-espagnol": [
-    "Administraci&#243;n sanitaria"
+    "Administración sanitaria"
   ],
   "nom-folder": "Gestion-des-soins-de-sante",
   "nom-francais": [
-    "Gestion des soins de sant&#233;"
+    "Gestion des soins de santé"
   ],
   "nom-italien": [
     "Amministrazione sanitaria"

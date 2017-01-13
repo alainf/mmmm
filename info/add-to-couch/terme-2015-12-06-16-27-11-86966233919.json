@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-27-11-86966233919",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/types-de-contenu/catalogue/catalogue-d'editeur/",
-  "description": "catalogue d'&eacute;diteur",
+  "description": "catalogue d'éditeur",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 369433,
@@ -11,14 +11,14 @@
   "moment-de-modification": "2015-01-04-02-26-19",
   "nom": "Catalogue d'éditeur",
   "nom-anglais": [
-    "Publisher&#8217;s catalog"
+    "Publisher’s catalog"
   ],
   "nom-espagnol": [
-    "Cat&#225;logo de editorial"
+    "Catálogo de editorial"
   ],
   "nom-folder": "catalogue-d'editeur",
   "nom-francais": [
-    "Catalogue d'&#233;diteur"
+    "Catalogue d'éditeur"
   ],
   "nom-italien": [
     "Catalogo di casa editrice"

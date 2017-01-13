@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-23-38-86966221110",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sections/Revue-de-presse/Affaires,-economie-et-finances-personnelles/",
-  "description": "Description de Affaires, &#233;conomie et finances personnelles",
+  "description": "Description de Affaires, économie et finances personnelles",
   "enfants": [
     "terme-2015-12-06-16-23-38-86966221114",
     "terme-2015-12-06-16-23-38-86966221116",
@@ -24,14 +24,14 @@
     "Business, economics and personal finance"
   ],
   "nom-arabe": [
-    "&#1575;&#1604;&#1571;&#1593;&#1605;&#1575;&#1604; &#1608;&#1575;&#1604;&#1575;&#1602;&#1578;&#1589;&#1575;&#1583; &#1608;&#1575;&#1604;&#1578;&#1605;&#1608;&#1610;&#1604; &#1575;&#1604;&#1588;&#1582;&#1589;&#1610;"
+    "الأعمال والاقتصاد والتمويل الشخصي"
   ],
   "nom-espagnol": [
-    "Negocios, econom&#237;a y finanzas personales"
+    "Negocios, economía y finanzas personales"
   ],
   "nom-folder": "Affaires,-economie-et-finances-personnelles",
   "nom-francais": [
-    "Affaires, &#233;conomie et finances personnelles"
+    "Affaires, économie et finances personnelles"
   ],
   "nom-italien": [
     "Affari, economia e finanza personale"
@@ -40,7 +40,7 @@
     "terme-2015-12-06-16-23-38-86966221110"
   ],
   "nom-russe": [
-    "&#1041;&#1080;&#1079;&#1085;&#1077;&#1089;&#1072;, &#1101;&#1082;&#1086;&#1085;&#1086;&#1084;&#1080;&#1082;&#1080; &#1080; &#1083;&#1080;&#1095;&#1085;&#1099;&#1093; &#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1086;&#1074;"
+    "Бизнеса, экономики и личных финансов"
   ],
   "sous-type": "sections",
   "type": "taxonomies"

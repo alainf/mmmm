@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-27-16-86966234177",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/types-de-contenu/synthese/",
-  "description": "Description de Synth&#232;se",
+  "description": "Description de Synthèse",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 369495,
@@ -14,11 +14,11 @@
     "Synthesis"
   ],
   "nom-espagnol": [
-    "S&#237;ntesis"
+    "Síntesis"
   ],
   "nom-folder": "synthese",
   "nom-francais": [
-    "Synth&#232;se"
+    "Synthèse"
   ],
   "nom-italien": [
     "Sintesi"

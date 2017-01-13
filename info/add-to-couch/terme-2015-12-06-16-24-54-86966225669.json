@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-24-54-86966225669",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Economie/",
-  "description": "Description de &#201;conomie",
+  "description": "Description de Économie",
   "enfants": [
     "terme-2015-12-06-16-24-54-86966225673",
     "terme-2015-12-06-16-24-54-86966225675",
@@ -41,14 +41,14 @@
     "Economy"
   ],
   "nom-arabe": [
-    "&#1575;&#1604;&#1575;&#1602;&#1578;&#1589;&#1575;&#1583;"
+    "الاقتصاد"
   ],
   "nom-espagnol": [
-    "Econom&#237;a"
+    "Economía"
   ],
   "nom-folder": "Economie",
   "nom-francais": [
-    "&#201;conomie"
+    "Économie"
   ],
   "nom-italien": [
     "Economia"

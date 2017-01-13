@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-08-86966226491",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Dechets/",
-  "description": "Description de D&#233;chets",
+  "description": "Description de Déchets",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 272380,
@@ -15,14 +15,14 @@
     "Waste"
   ],
   "nom-arabe": [
-    "&#1605;&#1582;&#1604;&#1601;&#1575;&#1578;"
+    "مخلفات"
   ],
   "nom-espagnol": [
     "Desechos"
   ],
   "nom-folder": "Dechets",
   "nom-francais": [
-    "D&#233;chets"
+    "Déchets"
   ],
   "nom-italien": [
     "Sprechi"

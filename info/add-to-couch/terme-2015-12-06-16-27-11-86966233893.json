@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-27-11-86966233893",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/types-de-contenu/base-de-donnees/",
-  "description": "Description de Base de donn&#233;es",
+  "description": "Description de Base de données",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 369425,
@@ -18,7 +18,7 @@
   ],
   "nom-folder": "base-de-donnees",
   "nom-francais": [
-    "Base de donn&#233;es"
+    "Base de données"
   ],
   "nom-italien": [
     "Base di dati"

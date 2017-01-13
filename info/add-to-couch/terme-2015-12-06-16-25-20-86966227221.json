@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-20-86966227221",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Audit-et-controle-de-gestion/Controle-de-gestion-et-qualite/",
-  "description": "Description de Contr&#244;le de gestion et qualit&#233;",
+  "description": "Description de Contrôle de gestion et qualité",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 1779,
@@ -15,17 +15,17 @@
     "Management control and quality"
   ],
   "nom-arabe": [
-    "&#1575;&#1604;&#1585;&#1602;&#1575;&#1576;&#1577; &#1575;&#1604;&#1578;&#1583;&#1576;&#1610;&#1585; &#1608;&#1575;&#1604;&#1580;&#1608;&#1583;&#1577;"
+    "الرقابة التدبير والجودة"
   ],
   "nom-espagnol": [
-    "Control de gesti&#243;n y calidad"
+    "Control de gestión y calidad"
   ],
   "nom-folder": "Controle-de-gestion-et-qualite",
   "nom-francais": [
-    "Contr&#244;le de gestion et qualit&#233;"
+    "Contrôle de gestion et qualité"
   ],
   "nom-italien": [
-    "Controllo di gestione e qualit&#224;"
+    "Controllo di gestione e qualità"
   ],
   "nom-machine": [
     "terme-2015-12-06-16-25-20-86966227221"

@@ -5,6 +5,7 @@ const fs = require('fs')
 
 // npm
 const decodeHtmlEntities = require('he').decode
+
 /**
  * Générer un json corrigé (ligne par ligne, dangling commas, etc.)
  */
@@ -12,6 +13,25 @@ const fixLine = (line) => {
   const lc = line.slice(-1)[0]
   if (lc === ',' || lc === '{' || lc === '}') { return line }
   return line + ','
+}
+
+/**
+ * Générer un json corrigé (ligne par ligne, dangling commas, etc.)
+ */
+const entities = (doc) => {
+  // TODO
+  // Go over every field that isn't HTML
+  let r
+
+  for (r in doc) {
+    if (typeof doc[r] === 'string') {
+      doc[r] = decodeHtmlEntities(doc[r])
+    } else if (typeof doc[r] === 'object' && doc[r].length) {
+      doc[r] = doc[r].map((x) => decodeHtmlEntities(x))
+    }
+  }
+  // if (doc.nom) { doc.nom = decodeHtmlEntities(doc.nom) }
+  return doc
 }
 
 /**
@@ -73,10 +93,8 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         return reject(new Error(`Required: either _id or nom-machine in ${filename}`))
       }
     }
-    // TODO
-    // Go over every field that isn't HTML
-    if (doc.nom) { doc.nom = decodeHtmlEntities(doc.nom) }
-    resolve({ fn: filename, json: doc })
+
+    resolve({ fn: filename, json: entities(doc) })
   })
 })
 

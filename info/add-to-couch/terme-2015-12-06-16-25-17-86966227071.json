@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-17-86966227071",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Controle-de-gestion/",
-  "description": "Description de Contr&#244;le de gestion",
+  "description": "Description de Contrôle de gestion",
   "enfants": [
     "terme-2015-12-06-16-25-17-86966227074",
     "terme-2015-12-06-16-25-17-86966227077",
@@ -23,14 +23,14 @@
     "Management control"
   ],
   "nom-arabe": [
-    "&#1575;&#1604;&#1585;&#1602;&#1575;&#1576;&#1577; &#1575;&#1604;&#1578;&#1583;&#1576;&#1610;&#1585;"
+    "الرقابة التدبير"
   ],
   "nom-espagnol": [
-    "Control de gesti&#243;n"
+    "Control de gestión"
   ],
   "nom-folder": "Controle-de-gestion",
   "nom-francais": [
-    "Contr&#244;le de gestion"
+    "Contrôle de gestion"
   ],
   "nom-italien": [
     "Controllo di gestione"

@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-27-12-86966233960",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/types-de-contenu/evenement/conference/",
-  "description": "Description de Conf&#233;rence",
+  "description": "Description de Conférence",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 369437,
@@ -18,7 +18,7 @@
   ],
   "nom-folder": "conference",
   "nom-francais": [
-    "Conf&#233;rence"
+    "Conférence"
   ],
   "nom-italien": [
     "Conferenza"

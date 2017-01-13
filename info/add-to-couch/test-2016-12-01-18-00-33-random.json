@@ -17,7 +17,7 @@
   "fiche-a-completer": true,
   "fiche-publiee": false,
   "flux": [
-    "<a href=&quot;http://www.inra.fr/rss/feed/evenements&quot;>Manifestations et colloques : les rendez-vous de l'Inra</a><a href=&quot;http://www.inra.fr/rss/feed/recrutement&quot;>Recrutement : toutes nos annonces</a><a href=&quot;http://www.inra.fr/rss/feed/appels_offres_internationaux&quot;>International : appels d'offres</a><a href=&quot;http://www.inra.fr/rss/feed/presse&quot;>Informations presse : suivez nos communiqués de presse</a><a href=&quot;http://www.inra.fr/rss/feed/mobilites_internationales&quot;>Mobilités internationales</a>"
+    "<a href=\"http://www.inra.fr/rss/feed/evenements\">Manifestations et colloques : les rendez-vous de l'Inra</a><a href=\"http://www.inra.fr/rss/feed/recrutement\">Recrutement : toutes nos annonces</a><a href=\"http://www.inra.fr/rss/feed/appels_offres_internationaux\">International : appels d'offres</a><a href=\"http://www.inra.fr/rss/feed/presse\">Informations presse : suivez nos communiqués de presse</a><a href=\"http://www.inra.fr/rss/feed/mobilites_internationales\">Mobilités internationales</a>"
   ],
   "format": "HTML",
   "identifiant-drupal": 468441,

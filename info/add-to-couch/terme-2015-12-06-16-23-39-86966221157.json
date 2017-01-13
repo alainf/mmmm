@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-23-39-86966221157",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Actualite-sante-et-bien-etre/",
-  "description": "Description de Actualit&#233; sant&#233; et bien-&#234;tre",
+  "description": "Description de Actualité santé et bien-être",
   "enfants": [
     "terme-2015-12-06-16-23-39-86966221160",
     "terme-2015-12-06-16-23-39-86966221163"
@@ -19,14 +19,14 @@
     "Health and wellness news"
   ],
   "nom-arabe": [
-    "&#1571;&#1582;&#1576;&#1575;&#1585;&#1605;&#1606; &#1575;&#1604;&#1589;&#1581;&#1577; &#1608;&#1575;&#1604;&#1593;&#1575;&#1601;&#1610;&#1577;"
+    "أخبارمن الصحة والعافية"
   ],
   "nom-espagnol": [
     "Noticias de bienestar y salud"
   ],
   "nom-folder": "Actualite-sante-et-bien-etre",
   "nom-francais": [
-    "Actualit&#233; sant&#233; et bien-&#234;tre"
+    "Actualité santé et bien-être"
   ],
   "nom-italien": [
     "Notizie di salute e benessere"
@@ -35,7 +35,7 @@
     "terme-2015-12-06-16-23-39-86966221157"
   ],
   "nom-russe": [
-    "&#1053;&#1086;&#1074;&#1086;&#1089;&#1090;&#1080; &#1079;&#1076;&#1086;&#1088;&#1086;&#1074;&#1100;&#1103; &#1080; &#1093;&#1086;&#1088;&#1086;&#1096;&#1077;&#1075;&#1086; &#1089;&#1072;&#1084;&#1086;&#1095;&#1091;&#1074;&#1089;&#1090;&#1074;&#1080;&#1103;"
+    "Новости здоровья и хорошего самочувствия"
   ],
   "sous-type": "sections",
   "type": "taxonomies"

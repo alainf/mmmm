@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-44-86966228697",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Veille-strategique/Veille-mediatique/",
-  "description": "Description de Veille m&#233;diatique",
+  "description": "Description de Veille médiatique",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 469924,
@@ -15,14 +15,14 @@
     "Media monitoring service"
   ],
   "nom-arabe": [
-    "&#1582;&#1583;&#1605;&#1577; &#1585;&#1589;&#1583; &#1587;&#1575;&#1574;&#1604; &#1575;&#1604;&#1573;&#1593;&#1604;&#1575;&#1605;"
+    "خدمة رصد سائل الإعلام"
   ],
   "nom-espagnol": [
-    "Monitoreo de medios de comunicaci&#243;n"
+    "Monitoreo de medios de comunicación"
   ],
   "nom-folder": "Veille-mediatique",
   "nom-francais": [
-    "Veille m&#233;diatique"
+    "Veille médiatique"
   ],
   "nom-italien": [
     "Monitoraggio mediatico"

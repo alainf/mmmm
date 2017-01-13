@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-23-46-86966221582",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sections/Vie-culturelle/Litterature/Poesie/",
-  "description": "Description de Po&#233;sie",
+  "description": "Description de Poésie",
   "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270625,
@@ -15,14 +15,14 @@
     "Poetry"
   ],
   "nom-arabe": [
-    "&#1588;&#1593;&#1585; (&#1571;&#1583;&#1576;)"
+    "شعر (أدب)"
   ],
   "nom-espagnol": [
-    "Poes&#237;a"
+    "Poesía"
   ],
   "nom-folder": "Poesie",
   "nom-francais": [
-    "Po&#233;sie"
+    "Poésie"
   ],
   "nom-italien": [
     "Poesia"

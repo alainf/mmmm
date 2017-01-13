@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-14-86966226876",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Genres-journalistiques/Editorial/",
-  "description": "Description de &#201;ditorial",
+  "description": "Description de Éditorial",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 272312,
@@ -15,14 +15,14 @@
     "Editorial"
   ],
   "nom-arabe": [
-    "&#1575;&#1604;&#1575;&#1601;&#1578;&#1578;&#1575;&#1581;&#1610;&#1577;"
+    "الافتتاحية"
   ],
   "nom-espagnol": [
     "Editorial"
   ],
   "nom-folder": "Editorial",
   "nom-francais": [
-    "&#201;ditorial"
+    "Éditorial"
   ],
   "nom-italien": [
     "Editoriale"

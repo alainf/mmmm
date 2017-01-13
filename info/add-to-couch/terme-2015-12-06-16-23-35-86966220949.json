@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-23-35-86966220949",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sections/Societe/",
-  "description": "Description de Soci&#233;t&#233;",
+  "description": "Description de Société",
   "enfants": [
     "terme-2015-12-06-16-23-35-86966220952",
     "terme-2015-12-06-16-23-35-86966220955",
@@ -27,17 +27,17 @@
     "Society"
   ],
   "nom-arabe": [
-    "&#1575;&#1604;&#1605;&#1580;&#1578;&#1605;&#1593;"
+    "المجتمع"
   ],
   "nom-espagnol": [
     "Sociedad"
   ],
   "nom-folder": "Societe",
   "nom-francais": [
-    "Soci&#233;t&#233;"
+    "Société"
   ],
   "nom-italien": [
-    "Societ&#224;"
+    "Società"
   ],
   "nom-machine": "terme-2015-12-06-16-23-35-86966220949",
   "sous-type": "sections",

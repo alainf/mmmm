@@ -9,7 +9,7 @@
     "124",
     "CAN"
   ],
-  "description": "Pays au nord des &#201;tats-Unis d'Am&#233;rique.",
+  "description": "Pays au nord des États-Unis d'Amérique.",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 362196,
@@ -28,10 +28,10 @@
     "Canada"
   ],
   "nom-arabe": [
-    "&#1603;&#1606;&#1583;&#1575;"
+    "كندا"
   ],
   "nom-espagnol": [
-    "Canad&#225;"
+    "Canadá"
   ],
   "nom-folder": "Canada",
   "nom-francais": [
@@ -42,7 +42,7 @@
   ],
   "nom-machine": "lieu-2015-12-06-16-12-59-86966182750",
   "nom-russe": [
-    "&#1050;&#1072;&#1085;&#1072;&#1076;&#1072;"
+    "Канада"
   ],
   "population": "33,679,000",
   "sous-type": "pays",
@@ -56,7 +56,7 @@
   "URL-geonames": "http://www.geonames.org/countries/CA/canada.html",
   "URL-wikipedia": "https://fr.wikipedia.org/wiki/Canada",
   "villes": [
-    "Montr&#233;al",
+    "Montréal",
     "Toronto",
     "Vancouver"
   ]

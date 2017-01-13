@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-17-86966227059",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Actualites-entreprises/",
-  "description": "Description de Actualit&#233;s entreprises",
+  "description": "Description de Actualités entreprises",
   "enfants": [
     "terme-2015-12-06-16-25-17-86966227062"
   ],
@@ -18,17 +18,17 @@
     "Business news"
   ],
   "nom-arabe": [
-    "&#1571;&#1582;&#1576;&#1575;&#1585; &#1575;&#1604;&#1588;&#1617;&#1614;&#1585;&#1616;&#1603;&#1614;&#1575;&#1578; &#1575;&#1604;&#1578;&#1580;&#1575;&#1585;&#1610;&#1577;"
+    "أخبار الشَّرِكَات التجارية"
   ],
   "nom-espagnol": [
     "Actualidad de negocios"
   ],
   "nom-folder": "Actualites-entreprises",
   "nom-francais": [
-    "Actualit&#233;s entreprises"
+    "Actualités entreprises"
   ],
   "nom-italien": [
-    "Attualit&#224; delle imprese"
+    "Attualità delle imprese"
   ],
   "nom-machine": [
     "terme-2015-12-06-16-25-17-86966227059"

@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-23-43-86966221381",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sections/Vie-academique/Emplois/Marche-du-travail/",
-  "description": "Description de March&#233; du travail",
+  "description": "Description de Marché du travail",
   "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1733,
@@ -15,14 +15,14 @@
     "Job market"
   ],
   "nom-arabe": [
-    "&#1587;&#1608;&#1602; &#1575;&#1604;&#1593;&#1605;&#1604;"
+    "سوق العمل"
   ],
   "nom-espagnol": [
     "Mercado del trabajo"
   ],
   "nom-folder": "Marche-du-travail",
   "nom-francais": [
-    "March&#233; du travail"
+    "Marché du travail"
   ],
   "nom-italien": [
     "Mercato del lavoro"

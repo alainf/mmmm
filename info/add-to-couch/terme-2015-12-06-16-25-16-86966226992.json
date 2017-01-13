@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-16-86966226992",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Technologies-de-l'information-et-de-la-communication/Video/",
-  "description": "Description de Vid&#233;o",
+  "description": "Description de Vidéo",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 471983,
@@ -15,14 +15,14 @@
     "Video"
   ],
   "nom-arabe": [
-    "&#1601;&#1610;&#1583;&#1610;&#1608;"
+    "فيديو"
   ],
   "nom-espagnol": [
-    "V&#237;deo"
+    "Vídeo"
   ],
   "nom-folder": "Video",
   "nom-francais": [
-    "Vid&#233;o"
+    "Vidéo"
   ],
   "nom-italien": [
     "Video"

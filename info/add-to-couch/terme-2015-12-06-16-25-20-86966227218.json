@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-20-86966227218",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Audit-et-controle-de-gestion/Controle-de-gestion-et-planification/",
-  "description": "Description de Contr&#244;le de gestion et planification",
+  "description": "Description de Contrôle de gestion et planification",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 1778,
@@ -15,14 +15,14 @@
     "Management control and planning"
   ],
   "nom-arabe": [
-    "&#1575;&#1604;&#1585;&#1602;&#1575;&#1576;&#1577; &#1575;&#1604;&#1578;&#1583;&#1576;&#1610;&#1585; &#1608;&#1575;&#1604;&#1578;&#1582;&#1591;&#1610;&#1591;"
+    "الرقابة التدبير والتخطيط"
   ],
   "nom-espagnol": [
-    "Control de gesti&#243;n y planificaci&#243;n"
+    "Control de gestión y planificación"
   ],
   "nom-folder": "Controle-de-gestion-et-planification",
   "nom-francais": [
-    "Contr&#244;le de gestion et planification"
+    "Contrôle de gestion et planification"
   ],
   "nom-italien": [
     "Controllo di gestione e progettazione"

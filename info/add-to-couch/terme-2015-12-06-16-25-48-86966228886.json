@@ -2,7 +2,7 @@
   "_id": "terme-2015-12-06-16-25-48-86966228886",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-du-recrutement/Competences/",
-  "description": "Description de Comp&#233;tences",
+  "description": "Description de Compétences",
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "identifiant-drupal": 272394,
@@ -15,14 +15,14 @@
     "Skills"
   ],
   "nom-arabe": [
-    "&#1575;&#1604;&#1603;&#1601;&#1575;&#1569;&#1575;&#1578;"
+    "الكفاءات"
   ],
   "nom-espagnol": [
     "Competencias"
   ],
   "nom-folder": "Competences",
   "nom-francais": [
-    "Comp&#233;tences"
+    "Compétences"
   ],
   "nom-italien": [
     "Competenze"
