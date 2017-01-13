@@ -25,3 +25,8 @@ plutôt que l'utf-8.
 ## Point de contact
 L'interface entre Livecode (et les json qu'il produit) et
 CouchDB (où les documents reposent, **read-only**).
+
+Les jsons produits par Livecode sont envoyés régulièrement
+sur un serveur distant, soit directement pushé dans CouchDB
+avec un script node, soit envoyé par rsync et observés du serveur
+distant pour les pushé dans CouchDB automatiquement.
