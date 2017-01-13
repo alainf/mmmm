@@ -57,7 +57,7 @@
     "code": "^4.0.0",
     "eslint": "^3.13.1",
     "eslint-plugin-json": "^1.2.0",
-    "lab": "^11.2.1",
+    "lab": "^11.2.2",
     "nodemon": "^1.11.0",
     "standard": "^8.6.0"
   },
