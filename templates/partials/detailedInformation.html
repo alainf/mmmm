@@ -90,7 +90,7 @@
         <% data.doc.sujet.forEach(function (valeur) { %>
            <p class="enum">
              <% if (valeur.nomLangues) { %>
-              <%- valeur.nomLangues[data.languageCode] && valeur.nomLangues[data.languageCode][0] || valeur.nom %>
+              <a href="/<%- data.languageCode %>/sujet/<%- valeur._id %>"><%- valeur.nomLangues[data.languageCode] && valeur.nomLangues[data.languageCode][0] || valeur.nom %></a>
              <% } else { %>
               <%- valeur %>
              <% } %>
