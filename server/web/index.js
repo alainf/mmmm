@@ -82,6 +82,9 @@ exports.register = function (server, options, next) {
       if (err) { return reply(err) } // FIXME: how to test?
       _.forEach(payload, (v, k, o) => {
         if (k[0] === '_') { return }
+        if (k === 'voir-aussi' && typeof v === 'string') {
+          v = [v]
+        }
         const cc = _.camelCase(k)
         if (cc !== k) { o[cc] = v }
       })
@@ -98,7 +101,7 @@ exports.register = function (server, options, next) {
   }
 
   const mapperSujetPaged = (request, callback) => {
-    const w = dbUrl + `/_design/app/_view/parsujet?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.id])}&endkey=${JSON.stringify([request.params.id, {}])}&limit=4&include_docs=true`
+    const w = dbUrl + `/_design/app/_view/parsujet?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.sujetId])}&endkey=${JSON.stringify([request.params.sujetId, {}])}&limit=4&include_docs=true`
     callback(
       null,
       w,
@@ -107,12 +110,34 @@ exports.register = function (server, options, next) {
   }
 
   const mapperSectionPaged = (request, callback) => {
-    const w = dbUrl + `/_design/app/_view/parsection?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.id])}&endkey=${JSON.stringify([request.params.id, {}])}&limit=4&include_docs=true`
+    const w = dbUrl + `/_design/app/_view/parsection?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.sectionId])}&endkey=${JSON.stringify([request.params.sectionId, {}])}&limit=4&include_docs=true`
     callback(
       null,
       w,
       { accept: 'application/json' }
     )
+  }
+
+  const mapperSujet = (request, callback) => {
+    const u = dbUrl + `/_design/app/_view/nomsujet?startkey=${JSON.stringify([request.params.sujetId])}&endkey=${JSON.stringify([request.params.sujetId, {}])}&reduce=false`
+    callback(
+      null,
+      u,
+      { accept: 'application/json' }
+    )
+  }
+
+  const responderSujet = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      const ret = {}
+      payload.rows.forEach((row) => {
+        ret[row.key[1]] = row.value
+      })
+      reply(ret)
+    })
   }
 
   const responderBla = (err, res, request, reply, settings, ttl) => {
@@ -130,6 +155,13 @@ exports.register = function (server, options, next) {
       dbUrl + '/_design/app/_view/breves?include_docs=true&limit=4',
       { accept: 'application/json' }
     )
+  }
+
+  const nomSujet = function (request, reply) {
+    reply.proxy({
+      mapUri: mapperSujet,
+      onResponse: responderSujet
+    })
   }
 
   const bla = function (request, reply) {
@@ -202,7 +234,20 @@ exports.register = function (server, options, next) {
           return doc
         })
 
+      // console.log('request.pre:', request.pre.nomSujet)
+
+      const pageInfo = { }
+      if (request.pre.nomSection) {
+        pageInfo.title = 'PhdAdmin Section (Entreprise)'
+      } else if (request.pre.nomSujet) {
+        pageInfo.title = 'PhdAdmin Sujet ' + request.pre.nomSujet['fr']
+        pageInfo.title2 = request.pre.nomSujet['fr']
+      } else {
+        pageInfo.title = 'Accueil du site PhdAdmin'
+      }
+
       reply.view('accueil', {
+        pageInfo: pageInfo,
         breves: request.pre.bla,
         rows: rows,
         lastPage: Math.ceil(payload.total_rows / 4),
@@ -404,9 +449,13 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/sujet/{id}/{n?}',
+    path: '/{languageCode}/sujet/{sujetId}/{n?}',
     config: {
       pre: [
+        {
+          method: nomSujet,
+          assign: 'nomSujet'
+        },
         {
           method: bla,
           assign: 'bla'
@@ -424,7 +473,7 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/section/{id}/{n?}',
+    path: '/{languageCode}/section/{sectionId}/{n?}',
     config: {
       pre: [
         {
