@@ -1,7 +1,9 @@
 'use strict'
 
-// npm
+// core
 const url = require('url')
+
+// npm
 const Wreck = require('wreck')
 const _ = require('lodash')
 
@@ -83,9 +85,7 @@ exports.register = function (server, options, next) {
         const cc = _.camelCase(k)
         if (cc !== k) { o[cc] = v }
       })
-      // reply.view('detail', { doc: payload })
       reply(payload)
-      // reply({ doc: payload })
     })
   }
 
@@ -99,7 +99,6 @@ exports.register = function (server, options, next) {
 
   const mapperSujetPaged = (request, callback) => {
     const w = dbUrl + `/_design/app/_view/parsujet?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.id])}&endkey=${JSON.stringify([request.params.id, {}])}&limit=4&include_docs=true`
-    console.log('W:', w)
     callback(
       null,
       w,
@@ -109,7 +108,6 @@ exports.register = function (server, options, next) {
 
   const mapperSectionPaged = (request, callback) => {
     const w = dbUrl + `/_design/app/_view/parsection?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.id])}&endkey=${JSON.stringify([request.params.id, {}])}&limit=4&include_docs=true`
-    console.log('W:', w)
     callback(
       null,
       w,
@@ -122,7 +120,6 @@ exports.register = function (server, options, next) {
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
-      // console.log('rows:', payload)
       reply(payload.rows.map((row) => row.doc))
     })
   }
@@ -236,11 +233,9 @@ exports.register = function (server, options, next) {
   }
 
   const thing2 = function (request, reply) {
-    // console.log('PRES:', request.pre.thing1['lieu-concerne'])
     reply.proxy({
       passThrough: true,
       mapUri: mapperDetail666,
-      // onResponse: responderDetail
       onResponse: responderDetail666
     })
   }
@@ -469,16 +464,6 @@ exports.register = function (server, options, next) {
         }
       }
     }
-
-
-    /*
-    handler: {
-      view: {
-        template: 'section',
-        context: { lesSections: sections2.items, lesSujets: sujets.items }
-      }
-    }
-    */
   })
 
   server.route({
