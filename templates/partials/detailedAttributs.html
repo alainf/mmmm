@@ -47,8 +47,8 @@
       <dd>
               <% data.doc.langueEdition.forEach(function (valeur) { %>
                  <p class="enum">
-                   <% if (valeur.nom) { %>
-                    <%- valeur.nom %>
+                   <% if (valeur.nomLangues) { %>
+                    <a href="/<%- data.languageCode %>/langue/<%- valeur._id %>"><%- valeur.nomLangues[data.languageCode] && valeur.nomLangues[data.languageCode][0] || valeur.nom %></a>
                    <% } else { %>
                     <%- valeur %>
                    <% } %>
@@ -63,8 +63,8 @@
       <dd>
               <% data.doc.lieuEdition.forEach(function (valeur) { %>
                  <p class="enum">
-                   <% if (valeur.nom) { %>
-                    <%- valeur.nom %>
+                   <% if (valeur.nomLangues) { %>
+                    <a href="/<%- data.languageCode %>/lieu/<%- valeur._id %>"><%- valeur.nomLangues[data.languageCode] && valeur.nomLangues[data.languageCode][0] || valeur.nom %></a>
                    <% } else { %>
                     <%- valeur %>
                    <% } %>
