@@ -92,7 +92,7 @@ exports.register = function (server, options, next) {
   const mapperAccueilPaged = (request, callback) => {
     callback(
       null,
-      dbUrl + `/_design/app/_view/pertinence?skip=${request.params.n * 4 - 4}&startkey=0&limit=4&include_docs=true`,
+      dbUrl + `/_design/app/_view/pertinence?skip=${(request.params.n || 1) * 4 - 4}&startkey=0&limit=4&include_docs=true`,
       { accept: 'application/json' }
     )
   }
@@ -137,10 +137,6 @@ exports.register = function (server, options, next) {
       mapUri: mapperBla,
       onResponse: responderBla
     })
-  }
-
-  const mapperAccueil = (request, callback) => {
-    callback(null, dbUrl + '/_design/app/_view/pertinence?startkey=0&limit=4&include_docs=true', { accept: 'application/json' })
   }
 
   const responderAccueil = (err, res, request, reply, settings, ttl) => {
@@ -311,27 +307,7 @@ exports.register = function (server, options, next) {
 
   server.route({
     method: 'GET',
-    path: '/{languageCode}/accueil',
-    config: {
-      pre: [
-        {
-          method: bla,
-          assign: 'bla'
-        }
-      ],
-      handler: {
-        proxy: {
-          passThrough: true,
-          mapUri: mapperAccueil,
-          onResponse: responderAccueil
-        }
-      }
-    }
-  })
-
-  server.route({
-    method: 'GET',
-    path: '/{languageCode}/accueil/{n}',
+    path: '/{languageCode}/accueil/{n?}',
     config: {
       pre: [
         {
