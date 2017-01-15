@@ -97,6 +97,26 @@ exports.register = function (server, options, next) {
     )
   }
 
+  const mapperSujetPaged = (request, callback) => {
+    const w = dbUrl + `/_design/app/_view/parsujet?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.id])}&endkey=${JSON.stringify([request.params.id, {}])}&limit=4&include_docs=true`
+    console.log('W:', w)
+    callback(
+      null,
+      w,
+      { accept: 'application/json' }
+    )
+  }
+
+  const mapperSectionPaged = (request, callback) => {
+    const w = dbUrl + `/_design/app/_view/parsection?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.id])}&endkey=${JSON.stringify([request.params.id, {}])}&limit=4&include_docs=true`
+    console.log('W:', w)
+    callback(
+      null,
+      w,
+      { accept: 'application/json' }
+    )
+  }
+
   const responderBla = (err, res, request, reply, settings, ttl) => {
     if (err) { return reply(err) } // FIXME: how to test?
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
@@ -409,6 +429,56 @@ exports.register = function (server, options, next) {
         context: { lesSections: sections2.items, lesSujets: sujets.items }
       }
     }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/sujet/{id}/{n?}',
+    config: {
+      pre: [
+        {
+          method: bla,
+          assign: 'bla'
+        }
+      ],
+      handler: {
+        proxy: {
+          passThrough: true,
+          mapUri: mapperSujetPaged,
+          onResponse: responderAccueil
+        }
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/{languageCode}/section/{id}/{n?}',
+    config: {
+      pre: [
+        {
+          method: bla,
+          assign: 'bla'
+        }
+      ],
+      handler: {
+        proxy: {
+          passThrough: true,
+          mapUri: mapperSectionPaged,
+          onResponse: responderAccueil
+        }
+      }
+    }
+
+
+    /*
+    handler: {
+      view: {
+        template: 'section',
+        context: { lesSections: sections2.items, lesSujets: sujets.items }
+      }
+    }
+    */
   })
 
   server.route({
