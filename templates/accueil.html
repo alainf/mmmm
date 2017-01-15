@@ -1,7 +1,7 @@
 <!doctype html>
-<html lang="<%- data.languageCode %>">
+<html lang="<%- data.languageCode %>" dir="<%- data.languageCode === 'ar' ? 'rtl' : 'ltr' %>">
 
-<%= partials.mmhead({ title: "Accueil du site PhdAdmin" }) %>
+<%= partials.mmhead({ title: data.pageInfo.title || 'à venir' }) %>
 
 <body>
 
@@ -11,7 +11,7 @@
 
 <%= partials.displayBreadcrumb({ langue: data.languageCode, currentPage: data.page, lastPage: data.lastPage, pageID: 'breadcrumbAccueil' }) %>
 
-<%= partials.displayHeader({ page: data.page, langue: data.languageCode, headerName: 'mmPageHeaderRYM', usertype: "membre", title: "Accueil de PhdAdmin" }) %>
+<%= partials.displayHeader({ page: data.page, langue: data.languageCode, headerName: 'mmPageHeaderRYM', usertype: "membre", title: data.pageInfo.title2 || 'Accueil de PhdAdmin' }) %>
 
 <div class='row'>
 
