@@ -234,16 +234,23 @@ exports.register = function (server, options, next) {
           return doc
         })
 
+/*
       // console.log('request.pre:', request.pre.nomSujet)
+      console.log('request:', Object.keys(request))
+      console.log('request.language:', request.language)
+      console.log('request.languages:', request.languages)
+      console.log('request.locale:', request.locale)
+      console.log('request.path:', request.path)
+*/
 
       const pageInfo = { }
       if (request.pre.nomSection) {
         pageInfo.title = 'PhdAdmin Section (Entreprise)'
       } else if (request.pre.nomSujet) {
-        pageInfo.title = 'PhdAdmin Sujet ' + request.pre.nomSujet['fr']
-        pageInfo.title2 = request.pre.nomSujet['fr']
+        pageInfo.title2 = request.pre.nomSujet[request.locale] || request.pre.nomSujet['fr']
+        pageInfo.title = request.__('PhdAdmin Sujet %s', pageInfo.title2)
       } else {
-        pageInfo.title = 'Accueil du site PhdAdmin'
+        pageInfo.title = request.__('Accueil du site PhdAdmin')
       }
 
       reply.view('accueil', {
