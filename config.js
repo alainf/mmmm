@@ -36,6 +36,7 @@ const config = {
     password: process.env.DBPASSWORD
   },
   i18n: {
+    syncFiles: defTrue,
     autoReload: defTrue,
     updateFiles: defTrue,
     locales: ['fr', 'en', 'es', 'it', 'ru', 'ar']
