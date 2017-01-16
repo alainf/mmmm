@@ -118,6 +118,15 @@ exports.register = function (server, options, next) {
     )
   }
 
+  const mapperSection = (request, callback) => {
+    const u = dbUrl + `/_design/app/_view/nomsection?startkey=${JSON.stringify([request.params.sectionId])}&endkey=${JSON.stringify([request.params.sectionId, {}])}&reduce=false`
+    callback(
+      null,
+      u,
+      { accept: 'application/json' }
+    )
+  }
+
   const mapperSujet = (request, callback) => {
     const u = dbUrl + `/_design/app/_view/nomsujet?startkey=${JSON.stringify([request.params.sujetId])}&endkey=${JSON.stringify([request.params.sujetId, {}])}&reduce=false`
     callback(
@@ -155,6 +164,13 @@ exports.register = function (server, options, next) {
       dbUrl + '/_design/app/_view/breves?include_docs=true&limit=4',
       { accept: 'application/json' }
     )
+  }
+
+  const nomSection = function (request, reply) {
+    reply.proxy({
+      mapUri: mapperSection,
+      onResponse: responderSujet
+    })
   }
 
   const nomSujet = function (request, reply) {
@@ -245,7 +261,8 @@ exports.register = function (server, options, next) {
 
       const pageInfo = { }
       if (request.pre.nomSection) {
-        pageInfo.title = 'PhdAdmin Section (Entreprise)'
+        pageInfo.title2 = request.pre.nomSection[request.locale] || request.pre.nomSection['fr']
+        pageInfo.title = request.__('PhdAdmin Section %s', pageInfo.title2)
       } else if (request.pre.nomSujet) {
         pageInfo.title2 = request.pre.nomSujet[request.locale] || request.pre.nomSujet['fr']
         pageInfo.title = request.__('PhdAdmin Sujet %s', pageInfo.title2)
@@ -483,6 +500,10 @@ exports.register = function (server, options, next) {
     path: '/{languageCode}/section/{sectionId}/{n?}',
     config: {
       pre: [
+        {
+          method: nomSection,
+          assign: 'nomSection'
+        },
         {
           method: bla,
           assign: 'bla'
