@@ -113,5 +113,7 @@
   "Bonne": "Good",
   "Criticable": "Mediocre",
   "À éliminer": "Eliminate",
-  "Recevoir notifications": "Recevoir notifications"
+  "Recevoir notifications": "Recevoir notifications",
+  "Accueil du site PhdAdmin": "Accueil du site PhdAdmin",
+  "PhdAdmin Sujet %s": "PhdAdmin Subject %s"
 }
