@@ -43,5 +43,14 @@
   "URL": "URL",
   "PhdAdmin Sujet %s": "PhdAdmin Sujet %s",
   "Accueil du site PhdAdmin": "Accueil du site PhdAdmin",
-  "PhdAdmin Section %s": "PhdAdmin Section %s"
+  "PhdAdmin Section %s": "PhdAdmin Section %s",
+  "Personnes concernées": "Personnes concernées",
+  "Disponible dans un autre format": "Disponible dans un autre format",
+  "Disponible dans une autre langue": "Disponible dans une autre langue",
+  "Disponible en anglais": "Disponible en anglais",
+  "Voir-aussi": "Voir-aussi",
+  "Ajouter un lien": "Ajouter un lien",
+  "Auteurs": "Auteurs",
+  "Contributeurs": "Contributeurs",
+  "Lieux d'édition": "Lieux d'édition"
 }
