@@ -1,0 +1,27 @@
+<html>
+<head>
+</head>
+<body>
+<h1>Sections</h1>
+<% _(data.ret).forEach((v, k) => { %>
+  <h2><%- v.nomParent %> <small><%- v.enfants.length %></small></h2>
+  <ol>
+  <% _(v.enfants).forEach((v2) => { %>
+    <li>
+      <% if (v2.nomLangue) { %>
+        <%- v2.nomLangue %>
+      <% } %>
+      <small><%- v2.id %></small>
+      <% if (v2.enfants && v2.enfants.length) { %>
+        <ul>
+          <% _(v2.enfants).forEach((v3) => { %>
+            <li><%- v3 %></li>
+          <% }) %>
+        </ul>
+      <% } %>
+    </li>
+  <% }) %>
+  </ol>
+<% }) %>
+</body>
+</html>
