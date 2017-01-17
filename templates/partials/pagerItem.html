@@ -1,8 +1,7 @@
 <%
-// seulement implémenter pour l'accueil en français
 if (data.currentPage === data.item) {
 %>
 <li class="current"><%- data.item %></li>
 <% } else { %>
-<li><a href="/fr/accueil/<%- data.item %>" aria-label='Page <%- data.item %>'><%- data.item %></a></li>
+<li><a href="/<%- data.data.pathparts[0] %>/<%- data.data.pathparts[1] %>/<%- data.p2 %><%- data.item %>" aria-label='Page <%- data.item %>'><%- data.item %></a></li>
 <% } %>

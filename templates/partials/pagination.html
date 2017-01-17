@@ -1,5 +1,4 @@
 <%
-// seulement implémenter pour l'accueil en français
 if (data.currentPage) {
   var nItems = 5 // impair
   var r
@@ -16,10 +15,10 @@ if (data.currentPage) {
 <div class='' id='pagination'>
   <ul class='pagination text-center' role='navigation' aria-label='Pagination'>
   <% for (r = firstItem; r < lastItem; ++r) { %>
-  <%= partials.pagerItem({ lastPage: data.lastPage, currentPage: data.currentPage, item: r }) %>
+  <%= partials.pagerItem({ p2: data.data.pathparts[1] === 'accueil' ? '' : (data.data.pathparts[2] + '/'), data: data.data, lastPage: data.lastPage, currentPage: data.currentPage, item: r }) %>
   <% } %>
   <li class='ellipsis'></li>
-  <li><a href="/fr/accueil/<%- data.lastPage %>" aria-label='Last page'><%- data.lastPage %></a></li>
+  <li><a href="/<%- data.data.pathparts[0] %>/<%- data.data.pathparts[1] %>/<%- data.data.pathparts[1] === 'accueil' ? '' : (data.data.pathparts[2]  + '/') %><%- data.lastPage %>" aria-label='Last page'><%- data.lastPage %></a></li>
   </ul>
 </div>
 <% } else { %>
