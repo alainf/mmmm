@@ -100,7 +100,7 @@ exports.register = function (server, options, next) {
   }
 
   const mapperSujetPaged = (request, callback) => {
-    const w = dbUrl + `/_design/app/_view/parsujet?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.sujetId])}&endkey=${JSON.stringify([request.params.sujetId, {}])}&limit=4&include_docs=true`
+    const w = dbUrl + `/_design/app/_view/parsujet?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.sujetId])}&endkey=${JSON.stringify([request.params.sujetId, {}])}&limit=4&include_docs=true&reduce=false`
     callback(
       null,
       w,
@@ -109,7 +109,7 @@ exports.register = function (server, options, next) {
   }
 
   const mapperSectionPaged = (request, callback) => {
-    const w = dbUrl + `/_design/app/_view/parsection?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.sectionId])}&endkey=${JSON.stringify([request.params.sectionId, {}])}&limit=4&include_docs=true`
+    const w = dbUrl + `/_design/app/_view/parsection?skip=${(request.params.n || 1) * 4 - 4}&startkey=${JSON.stringify([request.params.sectionId])}&endkey=${JSON.stringify([request.params.sectionId, {}])}&limit=4&include_docs=true&reduce=false`
     callback(
       null,
       w,
@@ -124,6 +124,33 @@ exports.register = function (server, options, next) {
       u,
       { accept: 'application/json' }
     )
+  }
+
+  const mapperPagesSection = (request, callback) => {
+    const u = dbUrl + `/_design/app/_view/parsection?startkey=${JSON.stringify([request.params.sectionId])}&endkey=${JSON.stringify([request.params.sectionId, {}])}&group_level=1`
+    callback(
+      null,
+      u,
+      { accept: 'application/json' }
+    )
+  }
+
+  const mapperPagesSujet = (request, callback) => {
+    const u = dbUrl + `/_design/app/_view/parsujet?startkey=${JSON.stringify([request.params.sujetId])}&endkey=${JSON.stringify([request.params.sujetId, {}])}&group_level=1`
+    callback(
+      null,
+      u,
+      { accept: 'application/json' }
+    )
+  }
+
+  const responderPagesSujet = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      reply(payload.rows && payload.rows[0] && payload.rows[0].value || 0)
+    })
   }
 
   const mapperSujet = (request, callback) => {
@@ -176,6 +203,20 @@ exports.register = function (server, options, next) {
     reply.proxy({
       mapUri: mapperSujet,
       onResponse: responderSujet
+    })
+  }
+
+  const pagesSection = function (request, reply) {
+    reply.proxy({
+      mapUri: mapperPagesSection,
+      onResponse: responderPagesSujet
+    })
+  }
+
+  const pagesSujet = function (request, reply) {
+    reply.proxy({
+      mapUri: mapperPagesSujet,
+      onResponse: responderPagesSujet
     })
   }
 
@@ -250,7 +291,9 @@ exports.register = function (server, options, next) {
         })
 
 /*
-      // console.log('request.pre:', request.pre.nomSujet)
+      console.log('request.pre keys:', Object.keys(request.pre))
+      console.log('request.pre nPages:', request.pre.nPages)
+
       console.log('request:', Object.keys(request))
       console.log('request.language:', request.language)
       console.log('request.languages:', request.languages)
@@ -269,11 +312,20 @@ exports.register = function (server, options, next) {
         pageInfo.title = request.__('Accueil du site PhdAdmin')
       }
 
+      let lastPage
+      // console.log('PAYLOAD:', payload)
+      if (request.pre.nPages) {
+        lastPage = Math.ceil(request.pre.nPages / 4)
+      } else {
+        lastPage = Math.ceil(payload.total_rows / 4)
+      }
+
       reply.view('accueil', {
         pageInfo: pageInfo,
         breves: request.pre.bla,
         rows: rows,
-        lastPage: Math.ceil(payload.total_rows / 4),
+        lastPage: lastPage,
+        // lastPage: Math.ceil(payload.rows.length / 4),
         page: request.params.n ? parseInt(request.params.n, 10) : 1,
         lesSections: sections.items,
         lesSujets: sujets.items
@@ -475,6 +527,10 @@ exports.register = function (server, options, next) {
     config: {
       pre: [
         {
+          method: pagesSujet,
+          assign: 'nPages'
+        },
+        {
           method: nomSujet,
           assign: 'nomSujet'
         },
@@ -498,6 +554,10 @@ exports.register = function (server, options, next) {
     path: '/{languageCode}/section/{sectionId}/{n?}',
     config: {
       pre: [
+        {
+          method: pagesSection,
+          assign: 'nPages'
+        },
         {
           method: nomSection,
           assign: 'nomSection'

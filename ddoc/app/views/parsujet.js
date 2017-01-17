@@ -8,5 +8,6 @@ module.exports = {
         emit([x, doc.pertinence])
       })
     }
-  }
+  },
+  reduce: '_count'
 }
