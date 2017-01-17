@@ -62,8 +62,7 @@ exports.register = function (server, options, next) {
       })
 
       const z = _.groupBy(payload.rows, (row) => _.camelCase(row.key[1]))
-      let r
-      for (r in z) { z[r] = z[r].map((d) => d.doc) }
+      for (let r in z) { z[r] = z[r].map((d) => d.doc) }
       reply(z)
     })
   }
@@ -320,8 +319,7 @@ exports.register = function (server, options, next) {
         }
       ],
       handler: function (request, reply) {
-        let r
-        for (r in request.pre.thing2) {
+        for (let r in request.pre.thing2) {
           request.pre.thing2[r] = request.pre.thing2[r].filter((x) => x)
           if (request.pre.thing2[r].length) {
             request.pre.thing1[r] = request.pre.thing2[r]
