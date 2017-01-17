@@ -5,9 +5,9 @@
 
 <body>
 
-<%= partials.liensPublics({ usertype: "membre" }) %>
+<%= partials.liensPublics({ data: data, usertype: "membre" }) %>
 
-<%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
+<%= partials.displayHeader({ data: data, headerName: 'logoChercherFiltrer' }) %>
 
 <%= partials.displayBreadcrumb({ langue: data.languageCode, currentPage: data.page, lastPage: data.lastPage, pageID: 'breadcrumbAccueil' }) %>
 
