@@ -1,7 +1,7 @@
 <% if (data.headerName === 'logoChercher') { %>
 <div class='row align-middle'>
   <div class='small-6 columns'>
-    <a href="/fr/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a>
+    <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a>
   </div>
   <div class='small-6 columns'>
     <br><form>
@@ -10,8 +10,8 @@
          <input type='text' value="">
       </div>
       <div class='small-6 columns'>
-        <a href="/fr/resultats" class='hollow button' title="Chercher parmi tous les articles ">Chercher</a>&nbsp;
-        <a href="/fr/resultats" class='hollow button' title="Enregistrer cette page ">Enregistrer</a>&nbsp;
+        <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/resultats" class='hollow button' title="Chercher parmi tous les articles ">Chercher</a>&nbsp;
+        <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/resultats" class='hollow button' title="Enregistrer cette page ">Enregistrer</a>&nbsp;
         </div>
       </div>
     </form>
@@ -22,7 +22,7 @@
 <% if (data.headerName === 'logoChercherFiltrer') { %>
 <div class='row align-middle'>
   <div class='small-6 columns'>
-    <a href="/fr/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a>
+    <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a>
   </div>
   <div class='small-6 columns'>
     <br><form>
@@ -31,7 +31,7 @@
          <input type='text' value="">
       </div>
       <div class='small-6 columns'>
-      <a href="/fr/resultats" class='hollow button' title="Chercher parmi tous les articles ">Chercher</a>&nbsp;
+      <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/resultats" class='hollow button' title="Chercher parmi tous les articles ">Chercher</a>&nbsp;
       <!-- debut filtrer -->
         <button class='hollow button' type='button' data-toggle="filtrer-dropdown" title="Filtrer articles de cette page ">Filtrer</button>
         <div class='dropdown-pane' id="filtrer-dropdown" data-dropdown data-auto-focus='true'>
@@ -89,7 +89,7 @@
     <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
      <div class='' id="bloc-fonctions">
      <ul class='menu align-right'>
-      <li class='icon'><a title="Aidez-moi" href="/fr/aider"><i class='fi-info'></i></a></li>
+      <li class='icon'><a title="Aidez-moi" href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/aider"><i class='fi-info'></i></a></li>
       <li class='icon'><a title="Imprimer la page" href="#"><i class='fi-print'></i></a></li>
       <li class='icon'><a title="Enregistrer" href="#"><i class='fi-save'></i></a></li>
       <li class='icon'><a title="S'abonner aux notifications" href="#"><i class='fi-rss'></i></a></li>
@@ -118,7 +118,7 @@
     <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
      <div class='' id="bloc-fonctions">
      <ul class='menu align-right'>
-      <li class='icon'><a title="Aidez-moi" href="/fr/aider"><i class='fi-info'></i></a></li>
+      <li class='icon'><a title="Aidez-moi" href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/aider"><i class='fi-info'></i></a></li>
       <li class='icon'><a title="Imprimer la page" href="#"><i class='fi-print'></i></a></li>
       <li class='icon'><a title="Enregistrer" href="#"><i class='fi-save'></i></a></li>
       <li class='icon'><a title="S'abonner aux notifications" href="#"><i class='fi-rss'></i></a></li>
@@ -147,7 +147,7 @@
     <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
      <div class=''>
       <ul class='menu align-right'>
-      <li class='icon'><a title="Aidez-moi" href="/fr/aider"><i class='fi-info'></i></a></li>
+      <li class='icon'><a title="Aidez-moi" href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/aider"><i class='fi-info'></i></a></li>
       <li class='icon'><a title="Enregistrer résultats" href="#"><i class='fi-page-export-pdf'></i></a></li>
       <li class='icon'><a title="Historique de mes recherches" href="#"><i class='fi-clock'></i></a></li>
       <li class='icon'><a title="S'abonner aux notifications" href="#"><i class='fi-rss'></i></a></li>
