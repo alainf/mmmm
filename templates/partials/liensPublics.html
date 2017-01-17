@@ -3,28 +3,28 @@
     <ul class='menu align-right'>
     <!-- -->
     <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
-    <li><a href="/fr/me-deconnecter">Me déconnecter</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/me-deconnecter">Me déconnecter</a></li>
     <% } else { %>
-    <li><a href="/fr/me-connecter">Me connecter</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/me-connecter">Me connecter</a></li>
     <% } %>
     <!-- -->
     <% if (data.usertype === 'anonyme') { %>
-      <li><a href="/fr/abonnez-vous">M'abonner</a></li>
+      <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/abonnez-vous">M'abonner</a></li>
     <% } %>
     <!-- -->
     <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
-    <li><a href="/fr/moi">Moi</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/moi">Moi</a></li>
     <% } %>
     <!-- -->
     <% if (data.usertype === 'membre' || data.usertype === 'admin') { %>
-    <li><a href="/fr/favoris">Favoris</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/favoris">Favoris</a></li>
     <% } %>
     <!-- -->
-    <li><a href="/fr/bottin" title="Membres et groupes de phdAdmin">Bottin</a></li>
-    <li><a href="/fr/agenda" title="Agenda de phdAdmin">Agenda</a></li>
-    <li><a href="/fr/faq" title="Foire aux questions">FAQ</a></li>
-    <li><a href="/fr/apropos">À propos</a></li>
-    <li><a href="/fr/accueil">Accueil</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/bottin" title="Membres et groupes de phdAdmin">Bottin</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/agenda" title="Agenda de phdAdmin">Agenda</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/faq" title="Foire aux questions">FAQ</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/apropos">À propos</a></li>
+    <li><a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/accueil">Accueil</a></li>
     <!-- -->
     </ul>
   </div>
