@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225800",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Banque-Europeenne-pour-la-Reconstruction-etc/",
+  "description": "Description de Banque Européenne pour la Reconstruction et le Développement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271378,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Banque Européenne pour la Reconstruction et le Développement",
+  "nom-folder": "Banque-Europeenne-pour-la-Reconstruction-etc",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225800"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "European Bank for Reconstruction and Development"
+    ],
+    "ar": [
+      "بنك الأوروبي لإعادة البناء والتنمية"
+    ],
+    "es": [
+      "Banco Europeo para la Reconstrucción y el Desarrollo"
+    ],
+    "fr": [
+      "Banque Européenne pour la Reconstruction et le Développement"
+    ],
+    "it": [
+      "Banca europea per la ricostruzione e lo sviluppo"
+    ]
+  }
+}

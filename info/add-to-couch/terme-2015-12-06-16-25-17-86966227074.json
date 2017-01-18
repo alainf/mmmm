@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227074",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Controle-de-gestion/Achats/",
+  "description": "Description de Achats",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465848,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Achats",
+  "nom-folder": "Achats",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227074"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Purchases"
+    ],
+    "ar": [
+      "مُشْتَرَيَات"
+    ],
+    "es": [
+      "Compras"
+    ],
+    "fr": [
+      "Achats"
+    ],
+    "it": [
+      "acquisti"
+    ]
+  }
+}

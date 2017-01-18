@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223863",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Methodes-et-systemes-agricoles/Systemes-d'information-pour-l'agriculture/",
+  "description": "Description de Systèmes d'information pour l'agriculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472362,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Systèmes d'information pour l'agriculture",
+  "nom-folder": "Systemes-d'information-pour-l'agriculture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223863"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural information systems"
+    ],
+    "ar": [
+      "نظم معلومات للزراعة"
+    ],
+    "es": [
+      "Sistemas de información para la agricultura"
+    ],
+    "fr": [
+      "Systèmes d'information pour l'agriculture"
+    ],
+    "it": [
+      "Sistemi di informazione per l'agricoltura"
+    ]
+  }
+}

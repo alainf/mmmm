@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227089",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Controle-de-gestion/Outils-de-gestion/",
+  "description": "Description de Outils de gestion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472092,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Outils de gestion",
+  "nom-folder": "Outils-de-gestion",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227089"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management tools"
+    ],
+    "ar": [
+      "أدوات إدارة"
+    ],
+    "es": [
+      "Herramientas de gestión"
+    ],
+    "fr": [
+      "Outils de gestion"
+    ],
+    "it": [
+      "Strumenti di gestione"
+    ]
+  }
+}

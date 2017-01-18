@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227129",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Banques/",
+  "description": "Description de Banques",
+  "enfants": [
+    "terme-2015-12-06-16-25-18-86966227132",
+    "terme-2015-12-06-16-25-18-86966227135",
+    "terme-2015-12-06-16-25-18-86966227138"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272224,
+  "identifiant-drupal-parent": 272222,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Banques",
+  "nom-folder": "Banques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227129"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Banks"
+    ],
+    "ar": [
+      "أبناك"
+    ],
+    "es": [
+      "Bancos"
+    ],
+    "fr": [
+      "Banques"
+    ],
+    "it": [
+      "Banche"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227146",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Industries-extractives/",
+  "description": "Description de Industries extractives",
+  "enfants": [
+    "terme-2015-12-06-16-25-19-86966227149",
+    "terme-2015-12-06-16-25-19-86966227158"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472343,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Industries extractives",
+  "nom-folder": "Industries-extractives",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227146"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Extractive industries"
+    ],
+    "ar": [
+      "الصناعات الإستخراجية"
+    ],
+    "es": [
+      "Industrias extractivas"
+    ],
+    "fr": [
+      "Industries extractives"
+    ],
+    "it": [
+      "industrie estrattive"
+    ]
+  }
+}

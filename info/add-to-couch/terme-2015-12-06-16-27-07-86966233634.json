@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233634",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sport/Metiers-du-sport/",
+  "description": "Description de Métiers du sport",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270914,
+  "identifiant-drupal-parent": 892,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Métiers du sport",
+  "nom-folder": "Metiers-du-sport",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233634"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sports occupations"
+    ],
+    "ar": [
+      "مهن الرياضة"
+    ],
+    "es": [
+      "Ocupaciones en el deporte"
+    ],
+    "fr": [
+      "Métiers du sport"
+    ],
+    "it": [
+      "Occupazioni dello sport"
+    ]
+  }
+}

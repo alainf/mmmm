@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230575",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Histoire-de-la-pensee-economique/",
+  "description": "Description de Histoire de la pensée économique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1484,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Histoire de la pensée économique",
+  "nom-folder": "Histoire-de-la-pensee-economique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230575"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of Economic Thought"
+    ],
+    "ar": [
+      "تاريخ الفكر الإقتصادي"
+    ],
+    "es": [
+      "Historia del Pensamiento Económico"
+    ],
+    "fr": [
+      "Histoire de la pensée économique"
+    ],
+    "it": [
+      "Storia del pensiero economico"
+    ]
+  }
+}

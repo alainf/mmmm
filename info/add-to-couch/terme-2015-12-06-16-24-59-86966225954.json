@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225954",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Histoire-de-la-finance/",
+  "description": "Description de Histoire de la finance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271297,
+  "identifiant-drupal-parent": 877,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Histoire de la finance",
+  "nom-folder": "Histoire-de-la-finance",
+  "nom-machine": "terme-2015-12-06-16-24-59-86966225954",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of finance"
+    ],
+    "ar": [
+      "تاريخ المالية"
+    ],
+    "es": [
+      "Historia de las finanzas"
+    ],
+    "fr": [
+      "Histoire de la finance"
+    ],
+    "it": [
+      "Storia della finanza"
+    ]
+  }
+}

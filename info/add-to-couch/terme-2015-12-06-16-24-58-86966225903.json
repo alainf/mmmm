@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225903",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Securite-financiere/",
+  "description": "Description de Sécurité financière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271380,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Sécurité financière",
+  "nom-folder": "Securite-financiere",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225903"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial Security"
+    ],
+    "ar": [
+      "الأمن المالي"
+    ],
+    "es": [
+      "Seguridad Financiera"
+    ],
+    "fr": [
+      "Sécurité financière"
+    ],
+    "it": [
+      "Sicurezza finanziaria"
+    ]
+  }
+}

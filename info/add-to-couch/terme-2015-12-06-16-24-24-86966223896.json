@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223896",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agrocarburants/",
+  "description": "Description de Agrocarburants",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272177,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-02-13-18-56-17",
+  "nom": "Agrocarburants",
+  "nom-folder": "Agrocarburants",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223896"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biofuels"
+    ],
+    "ar": [
+      "وقود حيوي"
+    ],
+    "es": [
+      "Biocombustibles"
+    ],
+    "fr": [
+      "Agrocarburants"
+    ],
+    "it": [
+      "agrocombustibili"
+    ]
+  }
+}

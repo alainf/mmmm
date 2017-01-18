@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226502",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Developpement-durable/Capital-naturel/",
+  "description": "Description de Capital naturel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272423,
+  "identifiant-drupal-parent": 270876,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Capital naturel",
+  "nom-folder": "Capital-naturel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226502"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Natural capital"
+    ],
+    "ar": [
+      "رأس المال الطبيعي"
+    ],
+    "es": [
+      "Capital natural"
+    ],
+    "fr": [
+      "Capital naturel"
+    ],
+    "it": [
+      "capitale naturale"
+    ]
+  }
+}

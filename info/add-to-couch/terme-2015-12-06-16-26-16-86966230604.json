@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230604",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Principales-ecoles-en-sciences-economiques/",
+  "description": "Description de Principales écoles en sciences économiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1553,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Principales écoles en sciences économiques",
+  "nom-folder": "Principales-ecoles-en-sciences-economiques",
+  "nom-machine": "terme-2015-12-06-16-26-16-86966230604",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Major Schools of Thought in Economics"
+    ],
+    "ar": [
+      "مدارس الفكر الرئيسية في الاقتصاد"
+    ],
+    "es": [
+      "Principales escuelas de pensamiento en ciencias económicas"
+    ],
+    "fr": [
+      "Principales écoles en sciences économiques"
+    ],
+    "it": [
+      "Principali scuole nelle scienze economiche"
+    ]
+  }
+}

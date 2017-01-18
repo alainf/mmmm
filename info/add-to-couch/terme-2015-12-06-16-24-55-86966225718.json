@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225718",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Ideologies-economiques/",
+  "description": "Description de Idéologies économiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471939,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Idéologies économiques",
+  "nom-folder": "Ideologies-economiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225718"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic ideologies"
+    ],
+    "ar": [
+      "إيديولوجيات الإقتصادية"
+    ],
+    "es": [
+      "Ideologías económicas"
+    ],
+    "fr": [
+      "Idéologies économiques"
+    ],
+    "it": [
+      "Ideologie economiche"
+    ]
+  }
+}

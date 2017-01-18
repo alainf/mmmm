@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230598",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Politique-economique/",
+  "description": "Description de Politique économique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272231,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Politique économique",
+  "nom-folder": "Politique-economique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230598"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic Policy"
+    ],
+    "ar": [
+      "السياسة الاقتصادية"
+    ],
+    "es": [
+      "Política económica"
+    ],
+    "fr": [
+      "Politique économique"
+    ],
+    "it": [
+      "Politica economica"
+    ]
+  }
+}

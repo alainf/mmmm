@@ -1,0 +1,56 @@
+{
+  "_id": "terme-2015-12-06-16-26-26-86966231206",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/",
+  "description": "Description de Objets de l'histoire",
+  "enfants": [
+    "terme-2015-12-06-16-26-26-86966231209",
+    "terme-2015-12-06-16-26-26-86966231211",
+    "terme-2015-12-06-16-26-26-86966231215",
+    "terme-2015-12-06-16-26-26-86966231218",
+    "terme-2015-12-06-16-26-27-86966231221",
+    "terme-2015-12-06-16-26-27-86966231224",
+    "terme-2015-12-06-16-26-27-86966231226",
+    "terme-2015-12-06-16-26-27-86966231233",
+    "terme-2015-12-06-16-26-27-86966231236",
+    "terme-2015-12-06-16-26-27-86966231240",
+    "terme-2015-12-06-16-26-27-86966231242",
+    "terme-2015-12-06-16-26-27-86966231245",
+    "terme-2015-12-06-16-26-27-86966231249",
+    "terme-2015-12-06-16-26-27-86966231252",
+    "terme-2015-12-06-16-26-27-86966231255",
+    "terme-2015-12-06-16-26-27-86966231258",
+    "terme-2015-12-06-16-26-27-86966231261"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 978,
+  "identifiant-drupal-parent": 943,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-26",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Objets de l'histoire",
+  "nom-folder": "Objets-de-l'histoire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-26-86966231206"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Objects of History"
+    ],
+    "ar": [
+      "كائنات من التاريخ"
+    ],
+    "es": [
+      "Objetos de la historia"
+    ],
+    "fr": [
+      "Objets de l'histoire"
+    ],
+    "it": [
+      "Oggetti della storia"
+    ]
+  }
+}

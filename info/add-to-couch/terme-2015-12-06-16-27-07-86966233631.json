@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233631",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sport/Management-du-sport/",
+  "description": "Description de Management du sport",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270913,
+  "identifiant-drupal-parent": 892,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Management du sport",
+  "nom-folder": "Management-du-sport",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233631"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sports Management"
+    ],
+    "ar": [
+      "الإدارة الرياضية"
+    ],
+    "es": [
+      "Gestión del Deporte"
+    ],
+    "fr": [
+      "Management du sport"
+    ],
+    "it": [
+      "Gestione dello sport"
+    ]
+  }
+}

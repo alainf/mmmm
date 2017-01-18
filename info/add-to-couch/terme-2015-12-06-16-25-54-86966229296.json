@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229296",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie-d'entreprise/Modeles-organisationnels/",
+  "description": "Description de Modèles organisationnels",
+  "enfants": [
+    "terme-2015-12-06-16-25-54-86966229300",
+    "terme-2015-12-06-16-25-55-86966229303"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2220,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Modèles organisationnels",
+  "nom-folder": "Modeles-organisationnels",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229296"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational models"
+    ],
+    "ar": [
+      "نماذج تنظيمية"
+    ],
+    "es": [
+      "Modelos organizativos"
+    ],
+    "fr": [
+      "Modèles organisationnels"
+    ],
+    "it": [
+      "Modelli organizzativi"
+    ]
+  }
+}

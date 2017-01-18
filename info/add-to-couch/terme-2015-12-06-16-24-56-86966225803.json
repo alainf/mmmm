@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225803",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Banque-mondiale/",
+  "description": "Description de Banque mondiale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271375,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Banque mondiale",
+  "nom-folder": "Banque-mondiale",
+  "nom-machine": "terme-2015-12-06-16-24-56-86966225803",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "World Bank"
+    ],
+    "ar": [
+      "بنك الدولي"
+    ],
+    "es": [
+      "Banco Mundial"
+    ],
+    "fr": [
+      "Banque mondiale"
+    ],
+    "it": [
+      "Banca Mondiale"
+    ]
+  }
+}

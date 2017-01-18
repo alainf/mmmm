@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228607",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Enseignement-des-sciences-de-gestion/",
+  "description": "Description de Enseignement des sciences de gestion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2184,
+  "identifiant-drupal-parent": 2183,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Enseignement des sciences de gestion",
+  "nom-folder": "Enseignement-des-sciences-de-gestion",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228607"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management science education"
+    ],
+    "ar": [
+      "تدريس علوم الإدارية"
+    ],
+    "es": [
+      "Enseñanza de las ciencias de la gestión"
+    ],
+    "fr": [
+      "Enseignement des sciences de gestion"
+    ],
+    "it": [
+      "insegnamento delle scienze della gestione"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225782",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Precarite/",
+  "description": "Description de Précarité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1275,
+  "identifiant-drupal-parent": 1254,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Précarité",
+  "nom-folder": "Precarite",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225782"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Precarity"
+    ],
+    "ar": [
+      "رقة حال"
+    ],
+    "es": [
+      "Precariedad"
+    ],
+    "fr": [
+      "Précarité"
+    ],
+    "it": [
+      "Precarietà"
+    ]
+  }
+}

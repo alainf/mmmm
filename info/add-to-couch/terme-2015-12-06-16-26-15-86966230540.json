@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230540",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Economie-sociale/Entrepreneuriat-populaire/",
+  "description": "Description de Entrepreneuriat populaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272426,
+  "identifiant-drupal-parent": 272024,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Entrepreneuriat populaire",
+  "nom-folder": "Entrepreneuriat-populaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230540"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Popular entrepreneurship"
+    ],
+    "ar": [
+      "ريادة الأعمال الشعبية"
+    ],
+    "es": [
+      "Empresariado popular"
+    ],
+    "fr": [
+      "Entrepreneuriat populaire"
+    ],
+    "it": [
+      "Imprenditorialità popolare"
+    ]
+  }
+}

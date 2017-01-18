@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230546",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Fiscalite-et-droit-fiscal/",
+  "description": "Description de Fiscalité et droit fiscal",
+  "enfants": [
+    "terme-2015-12-06-16-26-15-86966230549",
+    "terme-2015-12-06-16-26-15-86966230552",
+    "terme-2015-12-06-16-26-15-86966230555",
+    "terme-2015-12-06-16-26-15-86966230558",
+    "terme-2015-12-06-16-26-16-86966230561",
+    "terme-2015-12-06-16-26-16-86966230563",
+    "terme-2015-12-06-16-26-16-86966230566",
+    "terme-2015-12-06-16-26-16-86966230569",
+    "terme-2015-12-06-16-26-16-86966230572"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272236,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Fiscalité et droit fiscal",
+  "nom-folder": "Fiscalite-et-droit-fiscal",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230546"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Taxation and Tax Law"
+    ],
+    "ar": [
+      "ضرائب و القانون الضريبى"
+    ],
+    "es": [
+      "Fiscalidad y Derecho fiscal"
+    ],
+    "fr": [
+      "Fiscalité et droit fiscal"
+    ],
+    "it": [
+      "Fiscalità e diritto fiscale"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-47-86966228850",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-de-la-sante-et-securite-du-travail/Ergonomie/",
+  "description": "Description de Ergonomie",
+  "enfants": [
+    "terme-2015-12-06-16-25-47-86966228853",
+    "terme-2015-12-06-16-25-47-86966228856"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 452222,
+  "identifiant-drupal-parent": 2122,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-47",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Ergonomie",
+  "nom-folder": "Ergonomie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-47-86966228850"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ergnomics"
+    ],
+    "ar": [
+      "تقنيتة مريحة"
+    ],
+    "es": [
+      "Ergonomía"
+    ],
+    "fr": [
+      "Ergonomie"
+    ],
+    "it": [
+      "Ergonomia"
+    ]
+  }
+}

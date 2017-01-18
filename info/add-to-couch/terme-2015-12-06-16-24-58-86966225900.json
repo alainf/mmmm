@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225900",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Risque-financier/",
+  "description": "Description de Risque financier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271379,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Risque financier",
+  "nom-folder": "Risque-financier",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225900"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial Risk"
+    ],
+    "ar": [
+      "المخاطر المالية"
+    ],
+    "es": [
+      "Riesgo financiero"
+    ],
+    "fr": [
+      "Risque financier"
+    ],
+    "it": [
+      "rischio finanziario"
+    ]
+  }
+}

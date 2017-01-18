@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-59-86966229553",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Etudes-urbaines-et-touristiques/Tourisme/Parcs-nationaux/",
+  "description": "Description de Parcs nationaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472359,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-25-59",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Parcs nationaux",
+  "nom-folder": "Parcs-nationaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-59-86966229553"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National parks"
+    ],
+    "ar": [
+      "المتنزهات الوطنية"
+    ],
+    "es": [
+      "Parques Nacionales"
+    ],
+    "fr": [
+      "Parcs nationaux"
+    ],
+    "it": [
+      "Parchi nazionali"
+    ]
+  }
+}

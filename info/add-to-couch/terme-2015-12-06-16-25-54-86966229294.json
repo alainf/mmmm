@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229294",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie-d'entreprise/Interactions-strategiques/",
+  "description": "Description de Interactions stratégiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472170,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Interactions stratégiques",
+  "nom-folder": "Interactions-strategiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229294"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Strategic interactions"
+    ],
+    "ar": [
+      "تفاعلات إستراتيجية"
+    ],
+    "es": [
+      "Interacciones estratégicas"
+    ],
+    "fr": [
+      "Interactions stratégiques"
+    ],
+    "it": [
+      "Interazioni strategiche"
+    ]
+  }
+}

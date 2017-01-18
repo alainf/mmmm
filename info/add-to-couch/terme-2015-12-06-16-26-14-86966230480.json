@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-14-86966230480",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Communautarisme-(economique)/",
+  "description": "Description de Communautarisme (économique)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272430,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-14",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Communautarisme (économique)",
+  "nom-folder": "Communautarisme-(economique)",
+  "nom-machine": "terme-2015-12-06-16-26-14-86966230480",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communitarianism (economics)"
+    ],
+    "ar": [
+      "الطائفية (الاقتصادية)"
+    ],
+    "es": [
+      "Comunitarismo (economía)"
+    ],
+    "fr": [
+      "Communautarisme (économique)"
+    ],
+    "it": [
+      "Comunitarismo (economia)"
+    ]
+  }
+}

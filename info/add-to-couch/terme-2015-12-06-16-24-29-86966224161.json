@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224161",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Industrie-alimentaire/Produits-refrigeres/",
+  "description": "Description de Produits réfrigérés",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472366,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Produits réfrigérés",
+  "nom-folder": "Produits-refrigeres",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-29-86966224161"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Refrigerated products"
+    ],
+    "ar": [
+      "المنتجات المبردة"
+    ],
+    "es": [
+      "Productos refrigerados"
+    ],
+    "fr": [
+      "Produits réfrigérés"
+    ],
+    "it": [
+      "Prodotti refrigerati"
+    ]
+  }
+}

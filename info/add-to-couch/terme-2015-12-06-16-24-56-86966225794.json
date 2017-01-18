@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225794",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Banque-des-reglements-internationaux/",
+  "description": "Description de Banque des règlements internationaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271376,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Banque des règlements internationaux",
+  "nom-folder": "Banque-des-reglements-internationaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225794"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bank for International Settlements"
+    ],
+    "ar": [
+      "بنك التسويات الدولية"
+    ],
+    "es": [
+      "Banco de Pagos Internacionales"
+    ],
+    "fr": [
+      "Banque des règlements internationaux"
+    ],
+    "it": [
+      "Banca dei regolamenti internazionali"
+    ]
+  }
+}

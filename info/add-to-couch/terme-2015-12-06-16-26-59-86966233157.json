@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233157",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-sociales-critiques/Classes-sociales/",
+  "description": "Description de Classes sociales",
+  "enfants": [
+    "terme-2015-12-06-16-26-59-86966233160"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466726,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Classes sociales",
+  "nom-folder": "Classes-sociales",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233157"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social classes"
+    ],
+    "ar": [
+      "الطبقات الاجتماعية"
+    ],
+    "es": [
+      "Clases sociales"
+    ],
+    "fr": [
+      "Classes sociales"
+    ],
+    "it": [
+      "classi sociali"
+    ]
+  }
+}

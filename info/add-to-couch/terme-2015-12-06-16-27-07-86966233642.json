@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233642",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sport/Sante-(sport)/Telesante/",
+  "description": "Description de Télésanté",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272397,
+  "identifiant-drupal-parent": 270915,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Télésanté",
+  "nom-folder": "Telesante",
+  "nom-machine": "terme-2015-12-06-16-27-07-86966233642",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Telehealth"
+    ],
+    "ar": [
+      "طب إلكتروني"
+    ],
+    "es": [
+      "ESalud"
+    ],
+    "fr": [
+      "Télésanté"
+    ],
+    "it": [
+      "Telesalute"
+    ]
+  }
+}

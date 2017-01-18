@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225785",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Richesse/",
+  "description": "Description de Richesse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1276,
+  "identifiant-drupal-parent": 1254,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Richesse",
+  "nom-folder": "Richesse",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225785"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wealth"
+    ],
+    "ar": [
+      "ثروة"
+    ],
+    "es": [
+      "Riqueza"
+    ],
+    "fr": [
+      "Richesse"
+    ],
+    "it": [
+      "ricchezza"
+    ]
+  }
+}

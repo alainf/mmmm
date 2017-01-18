@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224158",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Industrie-alimentaire/Procede-agroalimentaire/",
+  "description": "Description de Procédé agroalimentaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472367,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Procédé agroalimentaire",
+  "nom-folder": "Procede-agroalimentaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-29-86966224158"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Food processing"
+    ],
+    "ar": [
+      "تجهيز الأغذية"
+    ],
+    "es": [
+      "Procesado de los alimentos"
+    ],
+    "fr": [
+      "Procédé agroalimentaire"
+    ],
+    "it": [
+      "Trasformazione dei prodotti alimentari"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232824",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Liberalisme-(ideologie)/Capitalisme/Echappatoires-fiscaux/",
+  "description": "Description de Échappatoires fiscaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472293,
+  "identifiant-drupal-parent": 1131,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Échappatoires fiscaux",
+  "nom-folder": "Echappatoires-fiscaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-53-86966232824"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tax loopholes"
+    ],
+    "ar": [
+      "الثغرات الضريبية"
+    ],
+    "es": [
+      "Lagunas fiscales"
+    ],
+    "fr": [
+      "Échappatoires fiscaux"
+    ],
+    "it": [
+      "Scappatoie fiscali"
+    ]
+  }
+}

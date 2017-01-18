@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228604",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Conseil/",
+  "description": "Description de Conseil",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451421,
+  "identifiant-drupal-parent": 2183,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Conseil",
+  "nom-folder": "Conseil",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228604"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Consulting"
+    ],
+    "ar": [
+      "استشارة"
+    ],
+    "es": [
+      "Consultoría"
+    ],
+    "fr": [
+      "Conseil"
+    ],
+    "it": [
+      "consulenza"
+    ]
+  }
+}

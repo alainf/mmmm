@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-14-86966230486",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Desinflation/",
+  "description": "Description de Désinflation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451219,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-14",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Désinflation",
+  "nom-folder": "Desinflation",
+  "nom-machine": "terme-2015-12-06-16-26-14-86966230486",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Disinflation"
+    ],
+    "ar": [
+      "الإانكماش"
+    ],
+    "es": [
+      "Desinflación"
+    ],
+    "fr": [
+      "Désinflation"
+    ],
+    "it": [
+      "Disinflazione"
+    ]
+  }
+}

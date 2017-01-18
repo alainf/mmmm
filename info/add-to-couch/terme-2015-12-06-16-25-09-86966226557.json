@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226557",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Environnement/Erosion/",
+  "description": "Description de Érosion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472373,
+  "identifiant-drupal-parent": 455651,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Érosion",
+  "nom-folder": "Erosion",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226557"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Erosion"
+    ],
+    "ar": [
+      "تآكل"
+    ],
+    "es": [
+      "Erosión"
+    ],
+    "fr": [
+      "Érosion"
+    ],
+    "it": [
+      "Erosione"
+    ]
+  }
+}

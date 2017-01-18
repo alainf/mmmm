@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225687",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Dematerialisation/",
+  "description": "Description de Dématérialisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472125,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Dématérialisation",
+  "nom-folder": "Dematerialisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225687"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Dematerialization"
+    ],
+    "ar": [
+      "محاكاة الإفتراضية"
+    ],
+    "es": [
+      "Dematerialización"
+    ],
+    "fr": [
+      "Dématérialisation"
+    ],
+    "it": [
+      "Dematerializzazione"
+    ]
+  }
+}

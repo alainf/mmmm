@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226505",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Developpement-durable/Humanitarian-aid/",
+  "description": "Humanitarian aid",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272429,
+  "identifiant-drupal-parent": 270876,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Aide humanitaire",
+  "nom-folder": "Humanitarian-aid",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226505"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Relief work"
+    ],
+    "ar": [
+      "مساعدات إنسانية"
+    ],
+    "es": [
+      "Ayuda humanitaria"
+    ],
+    "fr": [
+      "Aide humanitaire"
+    ],
+    "it": [
+      "Aiuto umanitario"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233171",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-sociales-critiques/Discrimination/",
+  "description": "Description de Discrimination",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472355,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Discrimination",
+  "nom-folder": "Discrimination",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233171"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Discrimination"
+    ],
+    "ar": [
+      "تمييز في المعاملة"
+    ],
+    "es": [
+      "Discriminación"
+    ],
+    "fr": [
+      "Discrimination"
+    ],
+    "it": [
+      "Discriminazione"
+    ]
+  }
+}

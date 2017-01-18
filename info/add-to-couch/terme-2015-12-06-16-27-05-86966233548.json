@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233548",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Travail/Mutation-du-travail-(travail)/",
+  "description": "Description de Mutation du travail (travail)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469910,
+  "identifiant-drupal-parent": 1262,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Mutation du travail (travail)",
+  "nom-folder": "Mutation-du-travail-(travail)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-05-86966233548"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mutations of labour"
+    ],
+    "ar": [
+      "الطفرات العمل (العمل)"
+    ],
+    "es": [
+      "Mutación del trabajo"
+    ],
+    "fr": [
+      "Mutation du travail (travail)"
+    ],
+    "it": [
+      "mutazione del lavoro (lavoro)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230578",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Histoire-des-sciences-economiques/",
+  "description": "Description de Histoire des sciences économiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1483,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Histoire des sciences économiques",
+  "nom-folder": "Histoire-des-sciences-economiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230578"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of economics"
+    ],
+    "ar": [
+      "تاريخ العلوم الإقتصادية"
+    ],
+    "es": [
+      "Historia de las Ciencias económicas"
+    ],
+    "fr": [
+      "Histoire des sciences économiques"
+    ],
+    "it": [
+      "Storia delle scienze economiche"
+    ]
+  }
+}

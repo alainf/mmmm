@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225797",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Banque-Europeenne-d'investissement/",
+  "description": "Description de Banque Européenne d'investissement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271377,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Banque Européenne d'investissement",
+  "nom-folder": "Banque-Europeenne-d'investissement",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225797"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "European Investment Bank"
+    ],
+    "ar": [
+      "بنك الأوروبي للاستثمار"
+    ],
+    "es": [
+      "Banco Europeo de Inversiones"
+    ],
+    "fr": [
+      "Banque Européenne d'investissement"
+    ],
+    "it": [
+      "Banca europea degli investimenti"
+    ]
+  }
+}

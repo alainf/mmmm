@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-30-86966224228",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Viticulture/",
+  "description": "Description de Viticulture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465734,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-30",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Viticulture",
+  "nom-folder": "Viticulture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-30-86966224228"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Viticulture"
+    ],
+    "ar": [
+      "زراعة الكروم"
+    ],
+    "es": [
+      "Viticulture"
+    ],
+    "fr": [
+      "Viticulture"
+    ],
+    "it": [
+      "Viticoltura"
+    ]
+  }
+}

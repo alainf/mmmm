@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-14-86966230491",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Developpement-economique/Developpement-global/",
+  "description": "Description de Développement global",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272323,
+  "identifiant-drupal-parent": 1554,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-14",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Développement global",
+  "nom-folder": "Developpement-global",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-14-86966230491"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Global Development"
+    ],
+    "ar": [
+      "التنمية العالمية"
+    ],
+    "es": [
+      "Desarrollo Global"
+    ],
+    "fr": [
+      "Développement global"
+    ],
+    "it": [
+      "Sviluppo globale"
+    ]
+  }
+}

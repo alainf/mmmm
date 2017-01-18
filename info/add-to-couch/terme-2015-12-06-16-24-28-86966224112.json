@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224112",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Experimentation-agricole/",
+  "description": "Description de Expérimentation agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 908,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Expérimentation agricole",
+  "nom-folder": "Experimentation-agricole",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-28-86966224112"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural experiments"
+    ],
+    "ar": [
+      "تجريب الزراعي"
+    ],
+    "es": [
+      "Experimentación agrícola"
+    ],
+    "fr": [
+      "Expérimentation agricole"
+    ],
+    "it": [
+      "Sperimentazione agricola"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966223996",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/",
+  "description": "Description de Botanique",
+  "enfants": [
+    "terme-2015-12-06-16-24-26-86966223999",
+    "terme-2015-12-06-16-24-26-86966224002",
+    "terme-2015-12-06-16-24-26-86966224018",
+    "terme-2015-12-06-16-24-27-86966224048",
+    "terme-2015-12-06-16-24-27-86966224054",
+    "terme-2015-12-06-16-24-27-86966224057",
+    "terme-2015-12-06-16-24-27-86966224059",
+    "terme-2015-12-06-16-24-27-86966224062",
+    "terme-2015-12-06-16-24-27-86966224065",
+    "terme-2015-12-06-16-24-27-86966224067",
+    "terme-2015-12-06-16-24-27-86966224070",
+    "terme-2015-12-06-16-24-28-86966224088",
+    "terme-2015-12-06-16-24-28-86966224091",
+    "terme-2015-12-06-16-24-28-86966224094",
+    "terme-2015-12-06-16-24-28-86966224096",
+    "terme-2015-12-06-16-24-28-86966224099",
+    "terme-2015-12-06-16-24-28-86966224102",
+    "terme-2015-12-06-16-24-28-86966224106"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 936,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Botanique",
+  "nom-folder": "Botanique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-26-86966223996"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Botany"
+    ],
+    "ar": [
+      "علم النبات"
+    ],
+    "es": [
+      "Botánica"
+    ],
+    "fr": [
+      "Botanique"
+    ],
+    "it": [
+      "botanica"
+    ]
+  }
+}

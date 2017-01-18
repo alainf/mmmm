@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230638",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Theories-en-sciences-economiques/",
+  "description": "Description de Théories en sciences économiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-17-86966230641",
+    "terme-2015-12-06-16-26-17-86966230643",
+    "terme-2015-12-06-16-26-17-86966230646",
+    "terme-2015-12-06-16-26-17-86966230649",
+    "terme-2015-12-06-16-26-17-86966230652"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1485,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Théories en sciences économiques",
+  "nom-folder": "Theories-en-sciences-economiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230638"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories in economics"
+    ],
+    "ar": [
+      "نظريات في علم الاقتصاد"
+    ],
+    "es": [
+      "Teorías en ciencias económicas"
+    ],
+    "fr": [
+      "Théories en sciences économiques"
+    ],
+    "it": [
+      "Teorie in scienze economiche"
+    ]
+  }
+}

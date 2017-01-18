@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230849",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Fabrication-de-produits-chimiques/Fabrication-de-produits-petrochimiques/",
+  "description": "Description de Fabrication de produits pétrochimiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451100,
+  "identifiant-drupal-parent": 451099,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Fabrication de produits pétrochimiques",
+  "nom-folder": "Fabrication-de-produits-petrochimiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-20-86966230849"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Petrochemical production"
+    ],
+    "ar": [
+      "تصنيع المنتجات البتروكيميائية"
+    ],
+    "es": [
+      "Fabricación de productos petroquímicos"
+    ],
+    "fr": [
+      "Fabrication de produits pétrochimiques"
+    ],
+    "it": [
+      "Produzione di prodotti petrolchimici"
+    ]
+  }
+}

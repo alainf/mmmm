@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230615",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Regles/",
+  "description": "Description de Règles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472100,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Règles",
+  "nom-folder": "Regles",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230615"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rules"
+    ],
+    "ar": [
+      "القواعد"
+    ],
+    "es": [
+      "Reglas"
+    ],
+    "fr": [
+      "Règles"
+    ],
+    "it": [
+      "Regole"
+    ]
+  }
+}

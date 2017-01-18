@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225720",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/",
+  "description": "Description de Mondialisation",
+  "enfants": [
+    "terme-2015-12-06-16-24-55-86966225723",
+    "terme-2015-12-06-16-24-55-86966225729",
+    "terme-2015-12-06-16-24-55-86966225737",
+    "terme-2015-12-06-16-24-55-86966225740",
+    "terme-2015-12-06-16-24-55-86966225743",
+    "terme-2015-12-06-16-24-55-86966225748",
+    "terme-2015-12-06-16-24-55-86966225751",
+    "terme-2015-12-06-16-24-56-86966225760",
+    "terme-2015-12-06-16-24-56-86966225763",
+    "terme-2015-12-06-16-24-56-86966225765",
+    "terme-2015-12-06-16-24-56-86966225769",
+    "terme-2015-12-06-16-24-56-86966225771",
+    "terme-2015-12-06-16-24-56-86966225774"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472167,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Mondialisation",
+  "nom-folder": "Mondialisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225720"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Globalization"
+    ],
+    "ar": [
+      "عولمة"
+    ],
+    "es": [
+      "Globalización"
+    ],
+    "fr": [
+      "Mondialisation"
+    ],
+    "it": [
+      "globalizzazione"
+    ]
+  }
+}

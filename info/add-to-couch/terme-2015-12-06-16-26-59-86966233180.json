@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233180",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-sociales-critiques/Imaginaire-politique/",
+  "description": "Description de Imaginaire politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471897,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Imaginaire politique",
+  "nom-folder": "Imaginaire-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233180"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political imaginary"
+    ],
+    "ar": [
+      "وهمي سياسي"
+    ],
+    "es": [
+      "Imaginario político"
+    ],
+    "fr": [
+      "Imaginaire politique"
+    ],
+    "it": [
+      "immaginario politico"
+    ]
+  }
+}

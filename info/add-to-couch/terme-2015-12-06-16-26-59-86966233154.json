@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233154",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-sociales-critiques/Censure/",
+  "description": "Description de Censure",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472195,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Censure",
+  "nom-folder": "Censure",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233154"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Censorship"
+    ],
+    "ar": [
+      "رقابة"
+    ],
+    "es": [
+      "Censura"
+    ],
+    "fr": [
+      "Censure"
+    ],
+    "it": [
+      "Censura"
+    ]
+  }
+}

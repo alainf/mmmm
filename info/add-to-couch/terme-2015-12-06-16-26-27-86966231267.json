@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231267",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Sources-de-l'histoire/",
+  "description": "Description de Sources de l'histoire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 979,
+  "identifiant-drupal-parent": 943,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Sources de l'histoire",
+  "nom-folder": "Sources-de-l'histoire",
+  "nom-machine": "terme-2015-12-06-16-26-27-86966231267",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sources for history"
+    ],
+    "ar": [
+      "مصادر للتاريخ"
+    ],
+    "es": [
+      "Fuentes de la historia"
+    ],
+    "fr": [
+      "Sources de l'histoire"
+    ],
+    "it": [
+      "Fonti della storia"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-25-42-86966228548",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-des-assurances/",
+  "description": "Description de Gestion des assurances",
+  "enfants": [
+    "terme-2015-12-06-16-25-42-86966228551",
+    "terme-2015-12-06-16-25-42-86966228555",
+    "terme-2015-12-06-16-25-42-86966228558",
+    "terme-2015-12-06-16-25-42-86966228561",
+    "terme-2015-12-06-16-25-42-86966228564",
+    "terme-2015-12-06-16-25-42-86966228567"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2192,
+  "identifiant-drupal-parent": 2189,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-42",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des assurances",
+  "nom-folder": "Gestion-des-assurances",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-42-86966228548"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Insurance Management"
+    ],
+    "ar": [
+      "إدارة التأمينات"
+    ],
+    "es": [
+      "Gestión de Seguros"
+    ],
+    "fr": [
+      "Gestion des assurances"
+    ],
+    "it": [
+      "gestione delle assicurazioni"
+    ]
+  }
+}

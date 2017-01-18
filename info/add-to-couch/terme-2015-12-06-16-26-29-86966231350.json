@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-29-86966231350",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Sante-et-bien-etre/Sciences,-techniques-activites-physiques,-sportives/",
+  "description": "Description de Sciences et techniques des activités physiques et sportives",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472089,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-29",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Sciences et techniques des activités physiques et sportives",
+  "nom-folder": "Sciences,-techniques-activites-physiques,-sportives",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-29-86966231350"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sciences and techniques of physical and sports activities"
+    ],
+    "ar": [
+      "علوم وتقنيات الأنشطة البدنية والرياضية"
+    ],
+    "es": [
+      "Ciencias y tecnologías de las actividades físicas y deportivas"
+    ],
+    "fr": [
+      "Sciences et techniques des activités physiques et sportives"
+    ],
+    "it": [
+      "Scienze e tecniche delle attività fisiche e sportive"
+    ]
+  }
+}

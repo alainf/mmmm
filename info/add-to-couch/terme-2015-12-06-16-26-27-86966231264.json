@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231264",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Sciences-auxiliaires-de-l'histoire/",
+  "description": "Description de Sciences auxiliaires de l'histoire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271416,
+  "identifiant-drupal-parent": 943,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Sciences auxiliaires de l'histoire",
+  "nom-folder": "Sciences-auxiliaires-de-l'histoire",
+  "nom-machine": "terme-2015-12-06-16-26-27-86966231264",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Auxiliary sciences of history"
+    ],
+    "ar": [
+      "علوم التاريخ المساعدة"
+    ],
+    "es": [
+      "Disciplinas auxiliares de la Historia"
+    ],
+    "fr": [
+      "Sciences auxiliaires de l'histoire"
+    ],
+    "it": [
+      "Discipline ausiliarie della storia"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-26-86966231186",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Histoire-de-la-France/",
+  "description": "Description de Histoire de la France",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451321,
+  "identifiant-drupal-parent": 943,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-26",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire de la France",
+  "nom-folder": "Histoire-de-la-France",
+  "nom-machine": "terme-2015-12-06-16-26-26-86966231186",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of France"
+    ],
+    "ar": [
+      "تاريخ فرنسا"
+    ],
+    "es": [
+      "Historia de Francia"
+    ],
+    "fr": [
+      "Histoire de la France"
+    ],
+    "it": [
+      "Storia di Francia"
+    ]
+  }
+}

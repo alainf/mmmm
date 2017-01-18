@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230601",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Pouvoir-d'achat/",
+  "description": "Description de Pouvoir d'achat",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451401,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Pouvoir d'achat",
+  "nom-folder": "Pouvoir-d'achat",
+  "nom-machine": "terme-2015-12-06-16-26-16-86966230601",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Purchasing power"
+    ],
+    "ar": [
+      "القوة الشرائية"
+    ],
+    "es": [
+      "Poder adquisitivo"
+    ],
+    "fr": [
+      "Pouvoir d'achat"
+    ],
+    "it": [
+      "Potere d'acquisto"
+    ]
+  }
+}
