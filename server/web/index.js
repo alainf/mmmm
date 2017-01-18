@@ -175,6 +175,36 @@ exports.register = function (server, options, next) {
     })
   }
 
+  const firstArrayString = (aors) => {
+    // console.log('AORS:', aors)
+    if (typeof aors === 'string') return { aors }
+    if (typeof aors === 'object' && aors.length) { return aors[0] }
+    // throw new Error('Bad ArrayOrString')
+    return false
+  }
+
+  const responderTopSections = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      reply(payload.rows.map((row) => {
+        const types = {
+          sections: 'section',
+          sujets: 'sujet'
+        }
+        const sousType = types[row.key[0]]
+        // console.log('ROW:', row)
+        return {
+          id: row.id,
+          sousType: sousType,
+          href: '/' + [request.locale, sousType, row.id].join('/'),
+          nom: firstArrayString(row.value[request.locale]) || firstArrayString(row.value.fr)
+        }
+      }))
+    })
+  }
+
   const responderBla = (err, res, request, reply, settings, ttl) => {
     if (err) { return reply(err) } // FIXME: how to test?
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
@@ -182,6 +212,22 @@ exports.register = function (server, options, next) {
       if (err) { return reply(err) } // FIXME: how to test?
       reply(payload.rows.map((row) => row.doc))
     })
+  }
+
+  const mapperTopSections = (request, callback) => {
+    callback(
+      null,
+      dbUrl + '/_design/app/_view/toplevels?reduce=false&include_docs=true&startkey=[%22sections%22]&endkey=[%22sections%22,{}]',
+      { accept: 'application/json' }
+    )
+  }
+
+  const mapperTopSujets = (request, callback) => {
+    callback(
+      null,
+      dbUrl + '/_design/app/_view/toplevels?reduce=false&include_docs=true&startkey=[%22sujets%22]&endkey=[%22sujets%22,{}]',
+      { accept: 'application/json' }
+    )
   }
 
   const mapperBla = (request, callback) => {
@@ -217,6 +263,20 @@ exports.register = function (server, options, next) {
     reply.proxy({
       mapUri: mapperPagesSujet,
       onResponse: responderPagesSujet
+    })
+  }
+
+  const topSections = function (request, reply) {
+    reply.proxy({
+      mapUri: mapperTopSections,
+      onResponse: responderTopSections
+    })
+  }
+
+  const topSujets = function (request, reply) {
+    reply.proxy({
+      mapUri: mapperTopSujets,
+      onResponse: responderTopSections
     })
   }
 
@@ -310,6 +370,14 @@ exports.register = function (server, options, next) {
         pageInfo.title = request.__('PhdAdmin Sujet %s', pageInfo.title2)
       } else {
         pageInfo.title = request.__('Accueil du site PhdAdmin')
+
+        if (request.pre.topSections) {
+          pageInfo.topSections = request.pre.topSections
+        }
+
+        if (request.pre.topSujets) {
+          pageInfo.topSujets = request.pre.topSujets
+        }
       }
 
       let lastPage
@@ -424,11 +492,24 @@ exports.register = function (server, options, next) {
     }
   })
 
+/*
+topSections
+topSujets
+*/
+
   server.route({
     method: 'GET',
     path: '/{languageCode}/accueil/{n?}',
     config: {
       pre: [
+        {
+          method: topSections,
+          assign: 'topSections'
+        },
+        {
+          method: topSujets,
+          assign: 'topSujets'
+        },
         {
           method: bla,
           assign: 'bla'
