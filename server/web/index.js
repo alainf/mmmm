@@ -362,6 +362,14 @@ exports.register = function (server, options, next) {
 */
 
       const pageInfo = { }
+      if (request.pre.topSections) {
+        pageInfo.topSections = request.pre.topSections
+      }
+
+      if (request.pre.topSujets) {
+        pageInfo.topSujets = request.pre.topSujets
+      }
+
       if (request.pre.nomSection) {
         pageInfo.title2 = request.pre.nomSection[request.locale] || request.pre.nomSection['fr']
         pageInfo.title = request.__('PhdAdmin Section %s', pageInfo.title2)
@@ -370,14 +378,6 @@ exports.register = function (server, options, next) {
         pageInfo.title = request.__('PhdAdmin Sujet %s', pageInfo.title2)
       } else {
         pageInfo.title = request.__('Accueil du site PhdAdmin')
-
-        if (request.pre.topSections) {
-          pageInfo.topSections = request.pre.topSections
-        }
-
-        if (request.pre.topSujets) {
-          pageInfo.topSujets = request.pre.topSujets
-        }
       }
 
       let lastPage
@@ -608,6 +608,10 @@ topSujets
     config: {
       pre: [
         {
+          method: topSections,
+          assign: 'topSections'
+        },
+        {
           method: pagesSujet,
           assign: 'nPages'
         },
@@ -635,6 +639,10 @@ topSujets
     path: '/{languageCode}/section/{sectionId}/{n?}',
     config: {
       pre: [
+        {
+          method: topSujets,
+          assign: 'topSujets'
+        },
         {
           method: pagesSection,
           assign: 'nPages'
