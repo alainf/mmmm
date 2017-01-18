@@ -26,6 +26,7 @@ exports.register = (server, options, next) => {
   }
 
   const firstArrayString = (aors) => {
+    // console.log('AORS:', aors)
     if (typeof aors === 'string') return { aors }
     if (typeof aors === 'object' && aors.length) { return aors[0] }
     // throw new Error('Bad ArrayOrString')
@@ -44,9 +45,15 @@ exports.register = (server, options, next) => {
 
       const ret2 = {}
       _(ret).forEach((v, k) => {
+        // console.log('K:', k)
+        // console.log('V[0]:', v[0])
+        let nomParent
+        if (v[0].value.nomParent) {
+          nomParent = firstArrayString(v[0].value.nomParent[request.locale]) || firstArrayString(v[0].value.nomParent.fr)
+        }
         ret2[k] = {
           // nomParent: v[0].value.nomParent[request.locale] || v[0].value.nomParent.fr,
-          nomParent: firstArrayString(v[0].value.nomParent[request.locale]) || firstArrayString(v[0].value.nomParent.fr),
+          nomParent: nomParent,
           sousType: v[0].key[0],
           enfants: v.map((x) => {
             if (!x.doc || !x.doc.nomLangues) { return { id: x.value._id } }
