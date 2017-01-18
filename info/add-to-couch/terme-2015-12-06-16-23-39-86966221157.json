@@ -19,9 +19,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-39-86966221157"
   ],
-  "nom-russe": [
-    "Новости здоровья и хорошего самочувствия"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -39,6 +36,9 @@
     ],
     "it": [
       "Notizie di salute e benessere"
+    ],
+    "ru": [
+      "Новости здоровья и хорошего самочувствия"
     ]
   }
 }

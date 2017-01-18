@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221075",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Politique/Paix-et-securite/",
+  "description": "Description de Paix et sécurité",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270543,
+  "identifiant-drupal-parent": 1666,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Paix et sécurité",
+  "nom-folder": "Paix-et-securite",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221075"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Peace and security"
+    ],
+    "ar": [
+      "السلام والامن"
+    ],
+    "es": [
+      "Paz y seguridad"
+    ],
+    "fr": [
+      "Paix et sécurité"
+    ],
+    "it": [
+      "Pace e sicurezza"
+    ]
+  }
+}

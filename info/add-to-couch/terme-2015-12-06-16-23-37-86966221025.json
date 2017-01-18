@@ -15,9 +15,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-37-86966221025"
   ],
-  "nom-russe": [
-    "ЛГБТ - лесбиянок, геев, бисексуалов  и трансгендеров"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -35,6 +32,9 @@
     ],
     "it": [
       "Lgbt -  lesbiche, gay, bisessuali e transgender"
+    ],
+    "ru": [
+      "ЛГБТ - лесбиянок, геев, бисексуалов  и трансгендеров"
     ]
   }
 }

@@ -11,9 +11,6 @@
   "nom": "Chine",
   "nom-folder": "Chine",
   "nom-machine": "lieu-2015-12-06-16-15-32-86966191971",
-  "nom-russe": [
-    "Китайская Народная "
-  ],
   "sous-type": "pays",
   "type": "lieux",
   "nomLangues": {
@@ -31,6 +28,9 @@
     ],
     "it": [
       "Cina"
+    ],
+    "ru": [
+      "Китайская Народная "
     ]
   }
 }

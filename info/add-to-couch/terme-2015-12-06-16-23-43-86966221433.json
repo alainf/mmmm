@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221433",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Recherches/Bibliotheques-academiques/",
+  "description": "Description de Bibliothèques académiques",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1758,
+  "identifiant-drupal-parent": 1678,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Bibliothèques académiques",
+  "nom-folder": "Bibliotheques-academiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221433"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Academic libraries"
+    ],
+    "ar": [
+      "المكتبات الأكاديمية"
+    ],
+    "es": [
+      "Bibliotecas académicas"
+    ],
+    "fr": [
+      "Bibliothèques académiques"
+    ],
+    "it": [
+      "Biblioteche accademiche"
+    ]
+  }
+}

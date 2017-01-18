@@ -24,9 +24,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-38-86966221110"
   ],
-  "nom-russe": [
-    "Бизнеса, экономики и личных финансов"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -44,6 +41,9 @@
     ],
     "it": [
       "Affari, economia e finanza personale"
+    ],
+    "ru": [
+      "Бизнеса, экономики и личных финансов"
     ]
   }
 }

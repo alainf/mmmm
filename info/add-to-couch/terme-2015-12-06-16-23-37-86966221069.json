@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221069",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Politique/Actions-pour-la-souverainete-nationale/",
+  "description": "Description de Actions pour la souveraineté nationale",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1687,
+  "identifiant-drupal-parent": 1666,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Actions pour la souveraineté nationale",
+  "nom-folder": "Actions-pour-la-souverainete-nationale",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221069"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Actions for national sovereignty"
+    ],
+    "ar": [
+      "الاجراءات على السيادة الوطنية"
+    ],
+    "es": [
+      "Acciones para la soberanía nacional"
+    ],
+    "fr": [
+      "Actions pour la souveraineté nationale"
+    ],
+    "it": [
+      "Azioni per la sovranità nazionale"
+    ]
+  }
+}

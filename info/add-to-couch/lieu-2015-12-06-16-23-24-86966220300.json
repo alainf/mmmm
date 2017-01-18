@@ -11,9 +11,6 @@
   "nom": "Venezuela",
   "nom-folder": "Venezuela",
   "nom-machine": "lieu-2015-12-06-16-23-24-86966220300",
-  "nom-russe": [
-    "Венесуэла"
-  ],
   "sous-type": "pays",
   "type": "lieux",
   "nomLangues": {
@@ -31,6 +28,9 @@
     ],
     "it": [
       "Venezuela"
+    ],
+    "ru": [
+      "Венесуэла"
     ]
   }
 }

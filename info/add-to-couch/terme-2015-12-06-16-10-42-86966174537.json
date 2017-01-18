@@ -17,9 +17,6 @@
   "nom": "Français",
   "nom-folder": "Francais",
   "nom-machine": "terme-2015-12-06-16-10-42-86966174537",
-  "nom-russe": [
-    "Французский"
-  ],
   "sous-type": "langues",
   "type": "taxonomies",
   "URL-wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ais",
@@ -38,6 +35,9 @@
     ],
     "it": [
       "Francese"
+    ],
+    "ru": [
+      "Французский"
     ]
   }
 }

@@ -32,9 +32,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-36-86966221009"
   ],
-  "nom-russe": [
-    "Социальная мобилизация"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -52,6 +49,9 @@
     ],
     "it": [
       "Mobilitazione sociale"
+    ],
+    "ru": [
+      "Социальная мобилизация"
     ]
   }
 }

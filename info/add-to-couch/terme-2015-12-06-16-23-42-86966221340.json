@@ -15,9 +15,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-42-86966221340"
   ],
-  "nom-russe": [
-    "приглашение прислать статью"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -35,6 +32,9 @@
     ],
     "it": [
       "Invito di contributi"
+    ],
+    "ru": [
+      "приглашение прислать статью"
     ]
   }
 }

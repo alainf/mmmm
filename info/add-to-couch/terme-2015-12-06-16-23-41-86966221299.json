@@ -15,9 +15,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-41-86966221299"
   ],
-  "nom-russe": [
-    "Международные новости"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -35,6 +32,9 @@
     ],
     "it": [
       "Notizie internazionali"
+    ],
+    "ru": [
+      "Международные новости"
     ]
   }
 }

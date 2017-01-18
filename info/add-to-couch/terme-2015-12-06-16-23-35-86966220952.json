@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220952",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Altermondialisme/",
+  "description": "Description de Altermondialisme",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270472,
+  "identifiant-drupal-parent": 1718,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Altermondialisme",
+  "nom-folder": "Altermondialisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220952"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Alter-globalization"
+    ],
+    "ar": [
+      "التيرموندياليسم"
+    ],
+    "es": [
+      "Altermundialismo"
+    ],
+    "fr": [
+      "Altermondialisme"
+    ],
+    "it": [
+      "Alter-globalizzazione"
+    ],
+    "ru": [
+      "Альтерглобализм"
+    ]
+  }
+}

@@ -25,9 +25,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-38-86966221081"
   ],
-  "nom-russe": [
-    "Что делать в городе"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -45,6 +42,9 @@
     ],
     "it": [
       "Cosa fare in città"
+    ],
+    "ru": [
+      "Что делать в городе"
     ]
   }
 }

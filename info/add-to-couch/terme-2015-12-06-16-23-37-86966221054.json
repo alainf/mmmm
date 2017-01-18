@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221054",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Mondialisation/",
+  "description": "Description de Mondialisation",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270474,
+  "identifiant-drupal-parent": 1718,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Mondialisation",
+  "nom-folder": "Mondialisation",
+  "nom-machine": "terme-2015-12-06-16-23-37-86966221054",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Globalization"
+    ],
+    "ar": [
+      "عولمة"
+    ],
+    "es": [
+      "Globalización"
+    ],
+    "fr": [
+      "Mondialisation"
+    ],
+    "it": [
+      "Globalizzazione"
+    ]
+  }
+}

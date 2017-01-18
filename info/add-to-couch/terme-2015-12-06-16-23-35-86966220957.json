@@ -1,0 +1,54 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220957",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Debats/",
+  "description": "Description de Débats",
+  "enfants": [
+    "terme-2015-12-06-16-23-36-86966220961",
+    "terme-2015-12-06-16-23-36-86966220964",
+    "terme-2015-12-06-16-23-36-86966220967",
+    "terme-2015-12-06-16-23-36-86966220969",
+    "terme-2015-12-06-16-23-36-86966220972",
+    "terme-2015-12-06-16-23-36-86966220975",
+    "terme-2015-12-06-16-23-36-86966220978",
+    "terme-2015-12-06-16-23-36-86966220981",
+    "terme-2015-12-06-16-23-36-86966220983",
+    "terme-2015-12-06-16-23-36-86966220987",
+    "terme-2015-12-06-16-23-36-86966220990",
+    "terme-2015-12-06-16-23-36-86966220993",
+    "terme-2015-12-06-16-23-36-86966220995",
+    "terme-2015-12-06-16-23-36-86966220999",
+    "terme-2015-12-06-16-23-36-86966221001"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1671,
+  "identifiant-drupal-parent": 1718,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Débats",
+  "nom-folder": "Debats",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220957"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Debates"
+    ],
+    "ar": [
+      "مناقشات"
+    ],
+    "es": [
+      "Debates"
+    ],
+    "fr": [
+      "Débats"
+    ],
+    "it": [
+      "Dibattiti"
+    ]
+  }
+}

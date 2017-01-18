@@ -15,9 +15,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-37-86966221067"
   ],
-  "nom-russe": [
-    "Действия для демократии в мире"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -35,6 +32,9 @@
     ],
     "it": [
       "Azioni per la democrazia nel mondo"
+    ],
+    "ru": [
+      "Действия для демократии в мире"
     ]
   }
 }

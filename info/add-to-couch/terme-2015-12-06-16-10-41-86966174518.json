@@ -17,9 +17,6 @@
   "nom": "Espagnol",
   "nom-folder": "Espagnol",
   "nom-machine": "terme-2015-12-06-16-10-41-86966174518",
-  "nom-russe": [
-    "Испанский"
-  ],
   "sous-type": "langues",
   "type": "taxonomies",
   "URL-wikipedia": "https://fr.wikipedia.org/wiki/Espagnol",
@@ -38,6 +35,9 @@
     ],
     "it": [
       "Spagnolo"
+    ],
+    "ru": [
+      "Испанский"
     ]
   }
 }

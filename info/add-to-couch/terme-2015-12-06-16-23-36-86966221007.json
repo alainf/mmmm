@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966221007",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Luttes-ouvrieres/",
+  "description": "Description de Luttes ouvrières",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270535,
+  "identifiant-drupal-parent": 1718,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Luttes ouvrières",
+  "nom-folder": "Luttes-ouvrieres",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966221007"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Worker's struggles"
+    ],
+    "ar": [
+      "نضالات العمال"
+    ],
+    "es": [
+      "Luchas obreras"
+    ],
+    "fr": [
+      "Luttes ouvrières"
+    ],
+    "it": [
+      "Le lotte dei lavoratori"
+    ],
+    "ru": [
+      "рабочей борьбы"
+    ]
+  }
+}

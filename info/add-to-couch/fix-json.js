@@ -28,6 +28,7 @@ const _ = require('lodash')
 
 const nomLangues = [
   'nom-francais',
+  'nom-russe',
   'nom-anglais',
   'nom-italien',
   'nom-espagnol',
@@ -48,9 +49,14 @@ const fixLine = (line) => {
  */
 const entities = (doc) => {
   let r
+  let t
 
   for (r in doc) {
-    if (typeof doc[r] === 'string') {
+    if (r === 'nomLangues') {
+      for (t in doc.nomLangues) {
+        doc.nomLangues[t] = doc.nomLangues[t].map((x) => decodeHtmlEntities(x))
+      }
+    } else if (typeof doc[r] === 'string') {
       doc[r] = decodeHtmlEntities(doc[r])
     } else if (typeof doc[r] === 'object' && doc[r].length) {
       doc[r] = doc[r].map((x) => decodeHtmlEntities(x))

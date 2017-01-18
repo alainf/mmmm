@@ -20,9 +20,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-38-86966221136"
   ],
-  "nom-russe": [
-    "Газеты"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -40,6 +37,9 @@
     ],
     "it": [
       "Giornali"
+    ],
+    "ru": [
+      "Газеты"
     ]
   }
 }

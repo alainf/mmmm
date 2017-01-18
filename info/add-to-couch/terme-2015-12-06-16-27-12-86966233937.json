@@ -12,9 +12,6 @@
   "nom": "Lexique",
   "nom-folder": "lexique",
   "nom-machine": "terme-2015-12-06-16-27-12-86966233937",
-  "nom-russe": [
-    "Лексика"
-  ],
   "sous-type": "types-de-contenu",
   "type": "taxonomies",
   "nomLangues": {
@@ -32,6 +29,9 @@
     ],
     "it": [
       "Lessico"
+    ],
+    "ru": [
+      "Лексика"
     ]
   }
 }

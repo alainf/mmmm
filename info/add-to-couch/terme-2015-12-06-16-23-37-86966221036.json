@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221036",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Mobilisation-sociale/Equite-sociale/",
+  "description": "Description de Équité sociale",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1702,
+  "identifiant-drupal-parent": 1667,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Équité sociale",
+  "nom-folder": "Equite-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221036"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social equity"
+    ],
+    "ar": [
+      "العدالة الاجتماعية"
+    ],
+    "es": [
+      "Equidad social"
+    ],
+    "fr": [
+      "Équité sociale"
+    ],
+    "it": [
+      "Equità sociale"
+    ],
+    "ru": [
+      "Общественная справедливость"
+    ]
+  }
+}

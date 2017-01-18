@@ -26,9 +26,6 @@
   "nom": "Canada",
   "nom-folder": "Canada",
   "nom-machine": "lieu-2015-12-06-16-12-59-86966182750",
-  "nom-russe": [
-    "Канада"
-  ],
   "population": "33,679,000",
   "sous-type": "pays",
   "superficie": "9,984,670.0",
@@ -60,6 +57,9 @@
     ],
     "it": [
       "Canada"
+    ],
+    "ru": [
+      "Канада"
     ]
   }
 }

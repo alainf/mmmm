@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221151",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Journaux/Nouvelles-regionales/",
+  "description": "Description de Nouvelles régionales",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1746,
+  "identifiant-drupal-parent": 1675,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Nouvelles régionales",
+  "nom-folder": "Nouvelles-regionales",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221151"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Regional news"
+    ],
+    "ar": [
+      "أخبار إقليمية"
+    ],
+    "es": [
+      "Noticias regionales"
+    ],
+    "fr": [
+      "Nouvelles régionales"
+    ],
+    "it": [
+      "Notizie regionali"
+    ]
+  }
+}

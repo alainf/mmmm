@@ -33,9 +33,6 @@
   "nom-machine": [
     "terme-2015-12-06-16-23-43-86966221427"
   ],
-  "nom-russe": [
-    "Исследования"
-  ],
   "sous-type": "sections",
   "type": "taxonomies",
   "nomLangues": {
@@ -53,6 +50,9 @@
     ],
     "it": [
       "Ricerca"
+    ],
+    "ru": [
+      "Исследования"
     ]
   }
 }

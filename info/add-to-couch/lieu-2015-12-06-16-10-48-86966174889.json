@@ -12,9 +12,6 @@
   "nom": "Afrique",
   "nom-folder": "Afrique",
   "nom-machine": "lieu-2015-12-06-16-10-48-86966174889",
-  "nom-russe": [
-    "Африка"
-  ],
   "sous-type": "monde",
   "type": "lieux",
   "nomLangues": {
@@ -32,6 +29,9 @@
     ],
     "it": [
       "Africa"
+    ],
+    "ru": [
+      "Африка"
     ]
   }
 }

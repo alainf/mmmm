@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221160",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Actualite-sante-et-bien-etre/Forme physique et nutrition/",
+  "description": "Description de Forme physique et nutrition",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270705,
+  "identifiant-drupal-parent": 1668,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Forme physique et nutrition",
+  "nom-folder": "Forme physique et nutrition",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221160"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fitness and nutrition"
+    ],
+    "ar": [
+      "اللياقة البدنية والتغذية"
+    ],
+    "es": [
+      "Buena forma física y nutrición"
+    ],
+    "fr": [
+      "Forme physique et nutrition"
+    ],
+    "it": [
+      "Forma fisica e nutrizione"
+    ]
+  }
+}

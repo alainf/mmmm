@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221192",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Le-monde/Amerique Centrale et Caraibes/",
+  "description": "Description de Amérique centrale et caraïbes",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270659,
+  "identifiant-drupal-parent": 270647,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Amérique centrale et caraïbes",
+  "nom-folder": "Amerique Centrale et Caraibes",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221192"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Central america and the caribbean"
+    ],
+    "ar": [
+      "أمريكا الوسطى ومنطقة البحر الكاريبي"
+    ],
+    "es": [
+      "América central y el caribe"
+    ],
+    "fr": [
+      "Amérique centrale et caraïbes"
+    ],
+    "it": [
+      "America centrale e caraibi"
+    ],
+    "ru": [
+      "Центральная Америка и Карибы"
+    ]
+  }
+}

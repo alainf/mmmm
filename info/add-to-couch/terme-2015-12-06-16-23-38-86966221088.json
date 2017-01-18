@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221088",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Quoi-faire-en-ville/Canaux-de-television/",
+  "description": "Description de Canaux de télévision",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4486,
+  "identifiant-drupal-parent": 1677,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Canaux de télévision",
+  "nom-folder": "Canaux-de-television",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221088"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Television channels"
+    ],
+    "ar": [
+      "قنوات التلفزيون"
+    ],
+    "es": [
+      "Canales de televisión"
+    ],
+    "fr": [
+      "Canaux de télévision"
+    ],
+    "it": [
+      "Canali televisivi"
+    ]
+  }
+}

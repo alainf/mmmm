@@ -17,9 +17,6 @@
   "nom": "Italien",
   "nom-folder": "Italien",
   "nom-machine": "terme-2015-12-06-16-10-43-86966174600",
-  "nom-russe": [
-    "Итальянский"
-  ],
   "sous-type": "langues",
   "type": "taxonomies",
   "URL-wikipedia": "https://fr.wikipedia.org/wiki/Italien",
@@ -38,6 +35,9 @@
     ],
     "it": [
       "Italiano"
+    ],
+    "ru": [
+      "Итальянский"
     ]
   }
 }

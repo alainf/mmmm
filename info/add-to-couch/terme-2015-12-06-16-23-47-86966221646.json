@@ -11,9 +11,6 @@
   "nom": "Phdadmin",
   "nom-folder": "phdAdmin",
   "nom-machine": "terme-2015-12-06-16-23-47-86966221646",
-  "nom-russe": [
-    "Администрация"
-  ],
   "sous-type": "sites",
   "type": "taxonomies",
   "nomLangues": {
@@ -31,6 +28,9 @@
     ],
     "it": [
       "Amministrazione"
+    ],
+    "ru": [
+      "Администрация"
     ]
   }
 }

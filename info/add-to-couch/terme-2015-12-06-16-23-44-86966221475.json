@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221475",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Recherches/Travaux-academiques-en-ligne/",
+  "description": "Description de Travaux académiques en ligne",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1772,
+  "identifiant-drupal-parent": 1678,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Travaux académiques en ligne",
+  "nom-folder": "Travaux-academiques-en-ligne",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221475"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Academic work online"
+    ],
+    "ar": [
+      "العمل الأكاديمي على الانترنت"
+    ],
+    "es": [
+      "Trabajo académico en línea"
+    ],
+    "fr": [
+      "Travaux académiques en ligne"
+    ],
+    "it": [
+      "Lavoro accademico online"
+    ],
+    "ru": [
+      "Научная работа в сети Интернет"
+    ]
+  }
+}

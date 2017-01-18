@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221101",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Quoi-faire-en-ville/Musique,-concerts-et-opera/",
+  "description": "Description de Musique, concerts et opéra",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270718,
+  "identifiant-drupal-parent": 1677,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Musique, concerts et opéra",
+  "nom-folder": "Musique,-concerts-et-opera",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221101"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Music, concerts et opera"
+    ],
+    "ar": [
+      "الموسيقى, والحفلات الموسيقية و أوبرا"
+    ],
+    "es": [
+      "Música, conciertos y ópera"
+    ],
+    "fr": [
+      "Musique, concerts et opéra"
+    ],
+    "it": [
+      "Musica, concerti e lirica"
+    ]
+  }
+}

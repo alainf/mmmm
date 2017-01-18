@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221093",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Quoi-faire-en-ville/En-scene-presentement/",
+  "description": "Description de En scène présentement",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270717,
+  "identifiant-drupal-parent": 1677,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "En scène présentement",
+  "nom-folder": "En-scene-presentement",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221093"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Currently on stage"
+    ],
+    "ar": [
+      "حاليا على خشبة المسرح"
+    ],
+    "es": [
+      "Actualmente en el escenario"
+    ],
+    "fr": [
+      "En scène présentement"
+    ],
+    "it": [
+      "Attualmente sul palco"
+    ],
+    "ru": [
+      "В настоящее время на сцене"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221031",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Mobilisation-sociale/Droits-des-sans-abri/",
+  "description": "Description de Droits des sans-abri",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1701,
+  "identifiant-drupal-parent": 1667,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Droits des sans-abri",
+  "nom-folder": "Droits-des-sans-abri",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221031"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rights of the homeless"
+    ],
+    "ar": [
+      "حقوق الانسان بلا ماوى"
+    ],
+    "es": [
+      "Derechos de los indigentes"
+    ],
+    "fr": [
+      "Droits des sans-abri"
+    ],
+    "it": [
+      "Diritti dei senzatetto"
+    ],
+    "ru": [
+      "Права человека бездомных"
+    ]
+  }
+}

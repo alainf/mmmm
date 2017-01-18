@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221098",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Quoi-faire-en-ville/Musees,-expositions,-galeries-d'art/",
+  "description": "Description de Musées,expositions, galeries d'art",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1755,
+  "identifiant-drupal-parent": 1677,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Musées,expositions, galeries d'art",
+  "nom-folder": "Musees,-expositions,-galeries-d'art",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221098"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Museums,exhibitions and art galleries"
+    ],
+    "ar": [
+      "المعارض"
+    ],
+    "es": [
+      "Museos, exposiciones y galerías de arte"
+    ],
+    "fr": [
+      "Musées,expositions, galeries d'art"
+    ],
+    "it": [
+      "Musei, mostre e gallerie d'arte"
+    ],
+    "ru": [
+      "выставки"
+    ]
+  }
+}

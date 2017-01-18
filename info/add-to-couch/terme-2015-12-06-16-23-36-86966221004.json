@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966221004",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Fiscalite/",
+  "description": "Description de Fiscalité",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270547,
+  "identifiant-drupal-parent": 1718,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Fiscalité",
+  "nom-folder": "Fiscalite",
+  "nom-machine": "terme-2015-12-06-16-23-36-86966221004",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tax system"
+    ],
+    "ar": [
+      "نظام الضرائب"
+    ],
+    "es": [
+      "Fiscalidad"
+    ],
+    "fr": [
+      "Fiscalité"
+    ],
+    "it": [
+      "Tasse"
+    ],
+    "ru": [
+      "налоговая система"
+    ]
+  }
+}

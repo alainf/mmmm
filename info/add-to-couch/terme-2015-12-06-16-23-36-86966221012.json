@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966221012",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Mobilisation-sociale/Corruption/",
+  "description": "Description de Corruption",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1690,
+  "identifiant-drupal-parent": 1667,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Corruption",
+  "nom-folder": "Corruption",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966221012"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corruption"
+    ],
+    "ar": [
+      "الفساد"
+    ],
+    "es": [
+      "Corrupción"
+    ],
+    "fr": [
+      "Corruption"
+    ],
+    "it": [
+      "Corruzione"
+    ]
+  }
+}

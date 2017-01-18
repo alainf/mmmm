@@ -11,9 +11,6 @@
   "nom": "Ukraine",
   "nom-folder": "Ukraine",
   "nom-machine": "lieu-2015-12-06-16-23-24-86966220291",
-  "nom-russe": [
-    "Украина"
-  ],
   "sous-type": "pays",
   "type": "lieux",
   "nomLangues": {
@@ -31,6 +28,9 @@
     ],
     "it": [
       "Ucraina"
+    ],
+    "ru": [
+      "Украина"
     ]
   }
 }

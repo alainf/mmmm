@@ -12,9 +12,6 @@
   "nom": "Europe",
   "nom-folder": "Europe",
   "nom-machine": "lieu-2015-12-06-16-10-48-86966174926",
-  "nom-russe": [
-    "Европа"
-  ],
   "sous-type": "monde",
   "type": "lieux",
   "nomLangues": {
@@ -32,6 +29,9 @@
     ],
     "it": [
       "Europa"
+    ],
+    "ru": [
+      "Европа"
     ]
   }
 }

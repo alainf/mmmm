@@ -12,9 +12,6 @@
   "nom": "Monténégro",
   "nom-folder": "Montenegro",
   "nom-machine": "lieu-2015-12-06-16-22-11-86966215874",
-  "nom-russe": [
-    "Черногория"
-  ],
   "sous-type": "pays",
   "type": "lieux",
   "nomLangues": {
@@ -32,6 +29,9 @@
     ],
     "it": [
       "Montenegro"
+    ],
+    "ru": [
+      "Черногория"
     ]
   }
 }

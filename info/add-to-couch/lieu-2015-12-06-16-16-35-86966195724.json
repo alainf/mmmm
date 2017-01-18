@@ -11,9 +11,6 @@
   "nom": "France",
   "nom-folder": "France",
   "nom-machine": "lieu-2015-12-06-16-16-35-86966195724",
-  "nom-russe": [
-    "Франция"
-  ],
   "sous-type": "pays",
   "type": "lieux",
   "nomLangues": {
@@ -31,6 +28,9 @@
     ],
     "it": [
       "Francia"
+    ],
+    "ru": [
+      "Франция"
     ]
   }
 }

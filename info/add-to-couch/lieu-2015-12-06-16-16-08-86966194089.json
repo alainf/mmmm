@@ -11,9 +11,6 @@
   "nom": "États-Unis",
   "nom-folder": "Etats-Unis",
   "nom-machine": "lieu-2015-12-06-16-16-08-86966194089",
-  "nom-russe": [
-    "Соединённые Штаты"
-  ],
   "sous-type": "pays",
   "type": "lieux",
   "nomLangues": {
@@ -31,6 +28,9 @@
     ],
     "it": [
       "Stati Uniti"
+    ],
+    "ru": [
+      "Соединённые Штаты"
     ]
   }
 }
