@@ -1,11 +1,17 @@
 <div class=''>
   <div class='callout'>
     <ul class='menu vertical'>
-    <!-- debut -->
-    <% data.lesSections.forEach((item) => { %>
-      <li><a href="/fr/section"><%- item %></a></li>
-    <% }) %>
-    <!-- fin -->
+    <% if (data.pageInfo && data.pageInfo.topSections) { %>
+      <% data.pageInfo.topSections.forEach((item) => { %>
+        <li><a href="<%- item.href %>"><%- item.nom %></a></li>
+      <% }) %>
+    <% } else { %>
+      <!-- debut -->
+      <% data.lesSections.forEach((item) => { %>
+        <li><a href="/fr/section"><%- item %></a></li>
+      <% }) %>
+      <!-- fin -->
+    <% } %>
   </ul>
   </div>
 </div>
