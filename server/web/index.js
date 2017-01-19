@@ -214,6 +214,58 @@ exports.register = function (server, options, next) {
     })
   }
 
+/*
+
+/*
+* http://localhost:5990/machina/
+* _design/app/_view/
+* enfants?
+* reduce=false&
+* include_docs=true&
+* startkey=[%22sections%22,%22terme-2015-12-06-16-23-35-86966220949%22]&
+* endkey=[%22sections%22,%22terme-2015-12-06-16-23-35-86966220949%22,{}]
+
+
+// enfants?reduce=false&include_docs=true&startkey=["sections","terme-2015-12-06-16-23-35-86966220949"]&endkey=["sections","terme-2015-12-06-16-23-35-86966220949",{}]
+*/
+
+  const mapperSousSections = (request, callback) => {
+    callback(
+      null,
+      dbUrl + `/_design/app/_view/enfants?reduce=false&include_docs=true&startkey=${JSON.stringify(['sections', request.params.sectionId])}&endkey=${JSON.stringify(['sections', request.params.sectionId,{}])}`,
+      { accept: 'application/json' }
+    )
+  }
+
+  const responderSousSections = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      // console.log('PAYLOAD:', JSON.stringify(payload.rows, null, '  '))
+      reply(payload.rows.map((row) => {
+        const types = {
+          sections: 'section',
+          sujets: 'sujet'
+        }
+        const sousType = types[row.key[0]]
+        // console.log('ROW:', row)
+        if (!row.doc) { return {
+          id: row.value._id,
+          sousType: sousType,
+          href: '/' + [request.locale, sousType, row.value._id].join('/'),
+          nom: row.value._id
+        } }
+        return {
+          id: row.doc._id,
+          sousType: sousType,
+          href: '/' + [request.locale, sousType, row.doc._id].join('/'),
+          nom: firstArrayString(row.doc.nomLangues[request.locale]) || firstArrayString(row.doc.nomLangues.fr)
+        }
+      }))
+    })
+  }
+
   const mapperTopSections = (request, callback) => {
     callback(
       null,
@@ -270,6 +322,13 @@ exports.register = function (server, options, next) {
     reply.proxy({
       mapUri: mapperTopSections,
       onResponse: responderTopSections
+    })
+  }
+
+  const sousSections = function (request, reply) {
+    reply.proxy({
+      mapUri: mapperSousSections,
+      onResponse: responderSousSections
     })
   }
 
@@ -639,6 +698,10 @@ topSujets
     path: '/{languageCode}/section/{sectionId}/{n?}',
     config: {
       pre: [
+        {
+          method: sousSections,
+          assign: 'topSections'
+        },
         {
           method: topSujets,
           assign: 'topSujets'
