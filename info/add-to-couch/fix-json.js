@@ -97,7 +97,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
         doc[r] = false
       } else {
         // retirer les doublons des array
-        if (typeof doc[r] === 'object' && doc[r].length) {
+        if (doc[r] && typeof doc[r] === 'object' && doc[r].length) {
           doc[r] = _.uniq(doc[r])
         }
 
@@ -109,7 +109,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
           doc.nomLangues[lang] = doc[r].slice()
           delete doc[r]
         } else if (r === 'identifiant-drupal' || r === 'identifiant-drupal-parent') {
-          if (typeof doc[r] === 'object') { doc[r] = doc[r][0] }
+          if (doc[r] && typeof doc[r] === 'object') { doc[r] = doc[r][0] }
           // nombre entier
           doc[r] = parseInt(doc[r], 10)
         } else if (r === 'niveau') {
@@ -151,10 +151,7 @@ const writeFile = (j) => fs.writeFile(`new/${j.fn}`, JSON.stringify(j.json, null
  */
 const processDirectory = () => {
   fs.readdir('.', (err, file) => {
-    if (err) {
-      console.error(err)
-      return
-    }
+    if (err) { return console.error('ERR1:', err) }
     Promise.all(
       file
         .filter((fn) => fn.slice(-5) === '.json') // seulement les .json
@@ -165,7 +162,7 @@ const processDirectory = () => {
         return jsons
       })
       .then((jsons) => jsons.forEach(writeFile))
-      .catch((err) => { console.error('ERR:', err) })
+      .catch((err) => { console.error('ERR2:', err) })
   })
 }
 
