@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-14-86966226844",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Circulation/",
+  "description": "Description de Circulation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471703,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-14",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Circulation",
+  "nom-folder": "Circulation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-14-86966226844"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Circulation (newspapers)"
+    ],
+    "ar": [
+      "توزيع الصحف"
+    ],
+    "es": [
+      "Circulación"
+    ],
+    "fr": [
+      "Circulation"
+    ],
+    "it": [
+      "Diffusione (editoria)"
+    ]
+  }
+}

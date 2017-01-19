@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225267",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/Etudes-feministes/Etudes-culturelles-feministes/",
+  "description": "études culturelles féministes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469783,
+  "identifiant-drupal-parent": 466800,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études culturelles féministes",
+  "nom-folder": "Etudes-culturelles-feministes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-47-86966225267"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Feminist cultural studies"
+    ],
+    "ar": [
+      "الدراسات الثقافية النسائية"
+    ],
+    "es": [
+      "Estudios culturales feministas"
+    ],
+    "fr": [
+      "Études culturelles féministes"
+    ],
+    "it": [
+      "Studi culturali femministi"
+    ]
+  }
+}

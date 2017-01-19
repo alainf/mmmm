@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2016-02-29-04-32-35-87404301338",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/ecrire-a-qui/ecrire-pour-conquerir-un-public/ecrire-pour-tout-le-monde/",
+  "description": "Description de Écrire pour tout le monde",
+  "enfants": [
+    "terme-2016-02-29-04-26-14-87404278453",
+    "terme-2016-02-29-04-27-23-87404282591"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-32-35",
+  "moment-de-modification": "2016-02-29-04-33-18",
+  "nom": "Écrire pour tout le monde",
+  "nom-folder": "ecrire-pour-tout-le-monde",
+  "nom-machine": "terme-2016-02-29-04-32-35-87404301338",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Writing for everybody at large"
+    ],
+    "fr": [
+      "Écrire pour tout le monde"
+    ]
+  }
+}

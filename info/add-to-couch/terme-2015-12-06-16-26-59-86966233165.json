@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233165",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-sociales-critiques/Democratie-sociale/",
+  "description": "Description de Démocratie sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472003,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Démocratie sociale",
+  "nom-folder": "Democratie-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233165"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social democracy"
+    ],
+    "ar": [
+      "ديمقراطية اشتراكية"
+    ],
+    "es": [
+      "Socialdemocracia"
+    ],
+    "fr": [
+      "Démocratie sociale"
+    ],
+    "it": [
+      "Democrazia sociale"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224684",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/",
+  "description": "Description de Cinéma",
+  "enfants": [
+    "terme-2015-12-06-16-24-38-86966224687",
+    "terme-2015-12-06-16-24-38-86966224690",
+    "terme-2015-12-06-16-24-38-86966224693",
+    "terme-2015-12-06-16-24-38-86966224695",
+    "terme-2015-12-06-16-24-38-86966224698",
+    "terme-2015-12-06-16-24-38-86966224700",
+    "terme-2015-12-06-16-24-38-86966224705",
+    "terme-2015-12-06-16-24-38-86966224707",
+    "terme-2015-12-06-16-24-38-86966224718",
+    "terme-2015-12-06-16-24-38-86966224721"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466876,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Cinéma",
+  "nom-folder": "Cinema",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224684"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cinema"
+    ],
+    "ar": [
+      "سينما"
+    ],
+    "es": [
+      "Cine"
+    ],
+    "fr": [
+      "Cinéma"
+    ],
+    "it": [
+      "Cinema"
+    ]
+  }
+}

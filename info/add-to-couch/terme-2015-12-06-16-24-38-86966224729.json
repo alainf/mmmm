@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224729",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Techniques-cinematographiques/Techniques-de-prise-de-vues/",
+  "description": "Description de Techniques de prise de vues",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466891,
+  "identifiant-drupal-parent": 466889,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Techniques de prise de vues",
+  "nom-folder": "Techniques-de-prise-de-vues",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224729"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Shooting techniques"
+    ],
+    "ar": [
+      "تقنيات إطلاق النار"
+    ],
+    "es": [
+      "Técnicas de filmación"
+    ],
+    "fr": [
+      "Techniques de prise de vues"
+    ],
+    "it": [
+      "Tecniche di riprese cinematografiche"
+    ]
+  }
+}

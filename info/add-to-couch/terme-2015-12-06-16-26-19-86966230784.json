@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230784",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Chimie-biologique/",
+  "description": "Description de Chimie biologique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270446,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Chimie biologique",
+  "nom-folder": "Chimie-biologique",
+  "nom-machine": "terme-2015-12-06-16-26-19-86966230784",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biological Chemistry"
+    ],
+    "ar": [
+      "كيمياء بيولوجية"
+    ],
+    "es": [
+      "Bioquímica"
+    ],
+    "fr": [
+      "Chimie biologique"
+    ],
+    "it": [
+      "Chimica biologica"
+    ]
+  }
+}

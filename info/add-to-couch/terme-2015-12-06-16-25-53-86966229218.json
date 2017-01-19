@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229218",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/",
+  "description": "Stratégie, responsabilité sociale et environnementale",
+  "enfants": [
+    "terme-2015-12-06-16-25-53-86966229221",
+    "terme-2015-12-06-16-25-53-86966229224",
+    "terme-2015-12-06-16-25-53-86966229228",
+    "terme-2015-12-06-16-25-53-86966229231",
+    "terme-2015-12-06-16-25-53-86966229233",
+    "terme-2015-12-06-16-25-54-86966229254",
+    "terme-2015-12-06-16-25-54-86966229257",
+    "terme-2015-12-06-16-25-54-86966229260",
+    "terme-2015-12-06-16-25-54-86966229262",
+    "terme-2015-12-06-16-25-54-86966229265",
+    "terme-2015-12-06-16-25-54-86966229268"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2229,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Stratégie responsabilité sociale et environnementale",
+  "nom-folder": "Strategie,-responsabilite-sociale-et-environnementale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-53-86966229218"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social and environmental responsibility strategy"
+    ],
+    "ar": [
+      "الاستراتيجية، المسؤولية الاجتماعية والبيئية"
+    ],
+    "es": [
+      "Estrategia responsabilidad social y ambiental"
+    ],
+    "fr": [
+      "Stratégie responsabilité sociale et environnementale"
+    ],
+    "it": [
+      "Strategia responsabilità sociale e ambientale"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-40-86966228440",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Indicateurs-de-la-gestion-de-la-chaine-logistique/Indicateurs-de-stock/",
+  "description": "Description de Indicateurs de stock",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2043,
+  "identifiant-drupal-parent": 2039,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-40",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Indicateurs de stock",
+  "nom-folder": "Indicateurs-de-stock",
+  "nom-machine": "terme-2015-12-06-16-25-40-86966228440",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Supplies indicators"
+    ],
+    "ar": [
+      "مؤشرات المخزون"
+    ],
+    "es": [
+      "Indicadores de suministros"
+    ],
+    "fr": [
+      "Indicateurs de stock"
+    ],
+    "it": [
+      "Indicatori di scorte"
+    ]
+  }
+}

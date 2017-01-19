@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227429",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Theories-du-commerce-international/Modelisation-des-echanges-entre-pays/",
+  "description": "Description de Modélisation des échanges entre pays",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1823,
+  "identifiant-drupal-parent": 1817,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Modélisation des échanges entre pays",
+  "nom-folder": "Modelisation-des-echanges-entre-pays",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-23-86966227429"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Modeling International Trade Flows"
+    ],
+    "ar": [
+      "نمذجة التبادلات بين الدول"
+    ],
+    "es": [
+      "Modelización de los intercambios entre países"
+    ],
+    "fr": [
+      "Modélisation des échanges entre pays"
+    ],
+    "it": [
+      "Modellazione di scambi tra paesi"
+    ]
+  }
+}

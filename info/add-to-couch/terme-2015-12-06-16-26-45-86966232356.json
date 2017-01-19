@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232356",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-du-discours/",
+  "description": "Description de Analyse du discours",
+  "enfants": [
+    "terme-2015-12-06-16-26-45-86966232359",
+    "terme-2015-12-06-16-26-46-86966232363",
+    "terme-2015-12-06-16-26-46-86966232366",
+    "terme-2015-12-06-16-26-46-86966232368",
+    "terme-2015-12-06-16-26-46-86966232372",
+    "terme-2015-12-06-16-26-46-86966232375",
+    "terme-2015-12-06-16-26-46-86966232381"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1224,
+  "identifiant-drupal-parent": 1220,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Analyse du discours",
+  "nom-folder": "Analyse-du-discours",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232356"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Discourse analysis"
+    ],
+    "ar": [
+      "تحليل الخطابي"
+    ],
+    "es": [
+      "Análisis de discurso"
+    ],
+    "fr": [
+      "Analyse du discours"
+    ],
+    "it": [
+      "analisi del discorso"
+    ]
+  }
+}

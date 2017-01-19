@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-45-18-87275179114",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tsonga/",
+  "description": "Description de Tsonga",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ts",
+  "ISO-639-2": "tso",
+  "ISO-639-3": "tso",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-45-18",
+  "moment-de-modification": "2016-02-04-06-46-17",
+  "nom": "Tsonga",
+  "nom-folder": "Tsonga",
+  "nom-machine": "terme-2016-02-04-06-45-18-87275179114",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tsonga_(langue)",
+  "nomLangues": {
+    "en": [
+      "Tsonga"
+    ],
+    "ar": [
+      "تسونجا"
+    ],
+    "es": [
+      "Tsonga"
+    ],
+    "fr": [
+      "Tsonga"
+    ],
+    "it": [
+      "Tsonga"
+    ],
+    "ru": [
+      "Тсонга"
+    ]
+  }
+}

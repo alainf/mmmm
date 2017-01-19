@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226765",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communications/",
+  "description": "Description de Communications",
+  "enfants": [
+    "terme-2015-12-06-16-25-12-86966226768"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466700,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Communications",
+  "nom-folder": "Communications",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226765"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication"
+    ],
+    "ar": [
+      "الاتصالات"
+    ],
+    "es": [
+      "Comunicaciones"
+    ],
+    "fr": [
+      "Communications"
+    ],
+    "it": [
+      "comunicazione"
+    ]
+  }
+}

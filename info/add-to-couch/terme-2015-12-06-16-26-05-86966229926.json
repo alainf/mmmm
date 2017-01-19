@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-05-86966229926",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-electrique-et-electronique/Telecommunications/Regles-en-telecommunications/",
+  "description": "Description de Règles en télécommunications",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471937,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-05",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Règles en télécommunications",
+  "nom-folder": "Regles-en-telecommunications",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-05-86966229926"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Telecommunication regulations"
+    ],
+    "ar": [
+      "القواعد فى الاتصالات السلكية واللاسلكية"
+    ],
+    "es": [
+      "Regulaciones en telecomunicaciones"
+    ],
+    "fr": [
+      "Règles en télécommunications"
+    ],
+    "it": [
+      "Regolamentazione telecomunicazioni"
+    ]
+  }
+}

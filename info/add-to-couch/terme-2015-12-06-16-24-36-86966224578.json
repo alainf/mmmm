@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224578",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Art-lyrique/",
+  "description": "Description de Art lyrique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466875,
+  "identifiant-drupal-parent": 466874,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Art lyrique",
+  "nom-folder": "Art-lyrique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-36-86966224578"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lyric art"
+    ],
+    "ar": [
+      "فن القصيدة"
+    ],
+    "es": [
+      "Arte lírico"
+    ],
+    "fr": [
+      "Art lyrique"
+    ],
+    "it": [
+      "arte lirica"
+    ]
+  }
+}

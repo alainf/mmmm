@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232404",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Logiciels-d'analyse-des-donnees-qualitative/",
+  "description": "Description de Logiciels d'analyse des données qualitative",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472244,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Logiciels d'analyse des données qualitative",
+  "nom-folder": "Logiciels-d'analyse-des-donnees-qualitative",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232404"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Qualitative data analysis software"
+    ],
+    "ar": [
+      "برمجيات تحليل البيانات النوعية"
+    ],
+    "es": [
+      "Software de análisis de datos cualitativos"
+    ],
+    "fr": [
+      "Logiciels d'analyse des données qualitative"
+    ],
+    "it": [
+      "Software di analisi dei dati qualitativi"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226783",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Critique-des-medias/",
+  "description": "Description de Critique des médias",
+  "enfants": [
+    "terme-2015-12-06-16-25-13-86966226786"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272183,
+  "identifiant-drupal-parent": 272181,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Critique des médias",
+  "nom-folder": "Critique-des-medias",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226783"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media criticism"
+    ],
+    "ar": [
+      "نقد وسائل الإعلام"
+    ],
+    "es": [
+      "Crítica de los medios de comunicación"
+    ],
+    "fr": [
+      "Critique des médias"
+    ],
+    "it": [
+      "Critica dei mezzi di comunicazione"
+    ]
+  }
+}

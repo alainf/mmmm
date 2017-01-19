@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226708",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Catalogage-et-classification/Classification-decimale-universelle/",
+  "description": "Description de Classification décimale universelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471965,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Classification décimale universelle",
+  "nom-folder": "Classification-decimale-universelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-11-86966226708"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Universal decimal classification"
+    ],
+    "ar": [
+      "تصنيف العشري الكوني"
+    ],
+    "es": [
+      "Clasificación Decimal Universal"
+    ],
+    "fr": [
+      "Classification décimale universelle"
+    ],
+    "it": [
+      "Classificazione decimale universale"
+    ]
+  }
+}

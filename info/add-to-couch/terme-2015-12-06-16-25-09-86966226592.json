@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226592",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Protection-de-l'environnement/Deversements-petroliers/",
+  "description": "Description de Déversements pétroliers",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472257,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Déversements pétroliers",
+  "nom-folder": "Deversements-petroliers",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226592"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oil spills"
+    ],
+    "ar": [
+      "انسكابات نفطية"
+    ],
+    "es": [
+      "Derrames de petróleo"
+    ],
+    "fr": [
+      "Déversements pétroliers"
+    ],
+    "it": [
+      "Disastro petrolifero"
+    ]
+  }
+}

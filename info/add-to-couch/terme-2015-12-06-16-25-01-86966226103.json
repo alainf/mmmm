@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226103",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Internet-(informatique)/Web-semantique/",
+  "description": "Description de Web sémantique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469635,
+  "identifiant-drupal-parent": 270357,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Web sémantique",
+  "nom-folder": "Web-semantique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-01-86966226103"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Semantic Web"
+    ],
+    "ar": [
+      "الويب الدلالي"
+    ],
+    "es": [
+      "Web semántico"
+    ],
+    "fr": [
+      "Web sémantique"
+    ],
+    "it": [
+      "Web semantico"
+    ]
+  }
+}

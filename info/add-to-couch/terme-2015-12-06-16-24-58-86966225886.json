@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225886",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Principes-des-finances-publiques/Principe-d'unite-budgetaire/",
+  "description": "Description de Principe d'unité budgétaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271352,
+  "identifiant-drupal-parent": 271350,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Principe d'unité budgétaire",
+  "nom-folder": "Principe-d'unite-budgetaire",
+  "nom-machine": "terme-2015-12-06-16-24-58-86966225886",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Unitary budget principle"
+    ],
+    "ar": [
+      "مبدأ وحدة الميزانية"
+    ],
+    "es": [
+      "Principio de unidad del presupuesto"
+    ],
+    "fr": [
+      "Principe d'unité budgétaire"
+    ],
+    "it": [
+      "Principio dell'unità di bilancio"
+    ]
+  }
+}

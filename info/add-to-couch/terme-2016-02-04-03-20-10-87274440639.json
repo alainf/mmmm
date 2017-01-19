@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-03-20-10-87274440639",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Assamais/",
+  "description": "Description de Assamais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "as",
+  "ISO-639-2": "asm",
+  "ISO-639-3": "asm",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-20-10",
+  "moment-de-modification": "2016-02-04-03-20-53",
+  "nom": "Assamais",
+  "nom-folder": "Assamais",
+  "nom-machine": "terme-2016-02-04-03-20-10-87274440639",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Assamais",
+  "nomLangues": {
+    "en": [
+      "Assamese"
+    ],
+    "ar": [
+      "آسامية"
+    ],
+    "es": [
+      "Asamés"
+    ],
+    "fr": [
+      "Assamais"
+    ],
+    "it": [
+      "Assamese"
+    ],
+    "ru": [
+      "Ассамский"
+    ]
+  }
+}

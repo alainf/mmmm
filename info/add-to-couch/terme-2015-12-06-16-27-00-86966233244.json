@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233244",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-des-migrations/",
+  "description": "Description de Sociologie des migrations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1208,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie des migrations",
+  "nom-folder": "Sociologie-des-migrations",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-00-86966233244"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of Migration"
+    ],
+    "ar": [
+      "علم الاجتماع الهجرة"
+    ],
+    "es": [
+      "Sociología de las migraciones"
+    ],
+    "fr": [
+      "Sociologie des migrations"
+    ],
+    "it": [
+      "Sociologia delle migrazioni"
+    ]
+  }
+}

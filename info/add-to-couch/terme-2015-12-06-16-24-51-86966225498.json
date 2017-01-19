@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-51-86966225498",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-public/Droit-lie-a-la-finance-publique/",
+  "description": "Description de Droit lié à la finance publique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269110,
+  "identifiant-drupal-parent": 269097,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-51",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit lié à la finance publique",
+  "nom-folder": "Droit-lie-a-la-finance-publique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-51-86966225498"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public Finance Law"
+    ],
+    "ar": [
+      "قانون المتعلق بالمالية العامة"
+    ],
+    "es": [
+      "Derecho de la financiación pública"
+    ],
+    "fr": [
+      "Droit lié à la finance publique"
+    ],
+    "it": [
+      "Diritto in materia di finanza pubblica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-37-86966224644",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Genres-theatraux/Theatre-religieux/",
+  "description": "Description de Théâtre religieux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467081,
+  "identifiant-drupal-parent": 467063,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-37",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Théâtre religieux",
+  "nom-folder": "Theatre-religieux",
+  "nom-machine": "terme-2015-12-06-16-24-37-86966224644",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Religious theatre"
+    ],
+    "ar": [
+      "المسرح الديني"
+    ],
+    "es": [
+      "Teatro religioso"
+    ],
+    "fr": [
+      "Théâtre religieux"
+    ],
+    "it": [
+      "Teatro religioso"
+    ]
+  }
+}

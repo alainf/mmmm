@@ -1,0 +1,65 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232945",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/",
+  "description": "Description de Politique généralités",
+  "enfants": [
+    "terme-2015-12-06-16-26-55-86966232949",
+    "terme-2015-12-06-16-26-55-86966232955",
+    "terme-2015-12-06-16-26-55-86966232957",
+    "terme-2015-12-06-16-26-56-86966232960",
+    "terme-2015-12-06-16-26-56-86966232966",
+    "terme-2015-12-06-16-26-56-86966232969",
+    "terme-2015-12-06-16-26-56-86966232972",
+    "terme-2015-12-06-16-26-56-86966232987",
+    "terme-2015-12-06-16-26-56-86966232990",
+    "terme-2015-12-06-16-26-57-86966233021",
+    "terme-2015-12-06-16-26-57-86966233031",
+    "terme-2015-12-06-16-26-57-86966233034",
+    "terme-2015-12-06-16-26-57-86966233037",
+    "terme-2015-12-06-16-26-57-86966233040",
+    "terme-2015-12-06-16-26-57-86966233042",
+    "terme-2015-12-06-16-26-57-86966233045",
+    "terme-2015-12-06-16-26-57-86966233048",
+    "terme-2015-12-06-16-26-57-86966233056",
+    "terme-2015-12-06-16-26-57-86966233059",
+    "terme-2015-12-06-16-26-57-86966233062",
+    "terme-2015-12-06-16-26-57-86966233065",
+    "terme-2015-12-06-16-26-57-86966233068",
+    "terme-2015-12-06-16-26-57-86966233071",
+    "terme-2015-12-06-16-26-57-86966233074",
+    "terme-2015-12-06-16-26-57-86966233077",
+    "terme-2015-12-06-16-26-58-86966233080"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1106,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Politique généralités",
+  "nom-folder": "Politique-generalites",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-55-86966232945"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "General Politics"
+    ],
+    "ar": [
+      "سياسة لمحة عامة"
+    ],
+    "es": [
+      "Política (general)"
+    ],
+    "fr": [
+      "Politique généralités"
+    ],
+    "it": [
+      "Politica (generalità)"
+    ]
+  }
+}

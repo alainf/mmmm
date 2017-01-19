@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221325",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Academique/",
+  "description": "Description de Académique",
+  "enfants": [
+    "terme-2015-12-06-16-23-42-86966221328",
+    "terme-2015-12-06-16-23-42-86966221331",
+    "terme-2015-12-06-16-23-42-86966221367",
+    "terme-2015-12-06-16-23-43-86966221390",
+    "terme-2015-12-06-16-23-43-86966221407",
+    "terme-2015-12-06-16-23-43-86966221427",
+    "terme-2015-12-06-16-23-44-86966221478"
+  ],
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": false,
+  "identifiant-drupal": 0,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2017-01-06-04-37-45",
+  "moment-de-creation": "2017-01-06-04-37-45",
+  "moment-de-modification": "2017-01-06-04-48-44",
+  "nom": "Académique",
+  "nom-folder": "Academique",
+  "nom-machine": "terme-2015-12-06-16-23-42-86966221325",
+  "parent": "Aucun",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Academic"
+    ],
+    "ar": [
+      "الحياة الأكاديمية"
+    ],
+    "es": [
+      "Académica"
+    ],
+    "fr": [
+      "Académique"
+    ],
+    "it": [
+      "Accademica"
+    ]
+  }
+}

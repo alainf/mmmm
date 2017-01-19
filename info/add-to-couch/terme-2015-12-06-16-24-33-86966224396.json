@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224396",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Architecture/Enseignement-de-l'architecture/",
+  "description": "Description de Enseignement de l'architecture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466829,
+  "identifiant-drupal-parent": 466817,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Enseignement de l'architecture",
+  "nom-folder": "Enseignement-de-l'architecture",
+  "nom-machine": "terme-2015-12-06-16-24-33-86966224396",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching of architecture"
+    ],
+    "ar": [
+      "تدريس المعماري"
+    ],
+    "es": [
+      "Enseñanza de la arquitectura"
+    ],
+    "fr": [
+      "Enseignement de l'architecture"
+    ],
+    "it": [
+      "Insegnamento dell'architettura"
+    ]
+  }
+}

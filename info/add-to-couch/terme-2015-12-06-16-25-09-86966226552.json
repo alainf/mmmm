@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226552",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Environnement-energetique/",
+  "description": "Description de Environnement énergétique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472256,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Environnement énergétique",
+  "nom-folder": "Environnement-energetique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226552"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy Environment"
+    ],
+    "ar": [
+      "بيئة طاقية"
+    ],
+    "es": [
+      "Entorno energético"
+    ],
+    "fr": [
+      "Environnement énergétique"
+    ],
+    "it": [
+      "Ambiente energetico"
+    ]
+  }
+}

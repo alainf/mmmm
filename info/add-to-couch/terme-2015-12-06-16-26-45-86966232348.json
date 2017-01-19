@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232348",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/",
+  "description": "Description de Méthodes qualitatives",
+  "enfants": [
+    "terme-2015-12-06-16-26-45-86966232350",
+    "terme-2015-12-06-16-26-45-86966232353",
+    "terme-2015-12-06-16-26-45-86966232356",
+    "terme-2015-12-06-16-26-46-86966232384",
+    "terme-2015-12-06-16-26-46-86966232386",
+    "terme-2015-12-06-16-26-46-86966232389",
+    "terme-2015-12-06-16-26-46-86966232392",
+    "terme-2015-12-06-16-26-46-86966232395",
+    "terme-2015-12-06-16-26-46-86966232399",
+    "terme-2015-12-06-16-26-46-86966232401",
+    "terme-2015-12-06-16-26-46-86966232404",
+    "terme-2015-12-06-16-26-46-86966232407",
+    "terme-2015-12-06-16-26-46-86966232410"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1220,
+  "identifiant-drupal-parent": 1188,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Méthodes qualitatives",
+  "nom-folder": "Methodes-qualitatives",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232348"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Qualitative methods"
+    ],
+    "ar": [
+      "الأساليب النوعية"
+    ],
+    "es": [
+      "Metodos cualitativos"
+    ],
+    "fr": [
+      "Méthodes qualitatives"
+    ],
+    "it": [
+      "Metodi qualitativi"
+    ]
+  }
+}

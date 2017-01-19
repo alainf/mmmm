@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-02-86966222560",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Engineering/Nanotechnology/",
+  "description": "Description de Nanotechnology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369009,
+  "identifiant-drupal-parent": 368996,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-02",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Nanotechnology",
+  "nom-folder": "Nanotechnology",
+  "nom-machine": "terme-2015-12-06-16-24-02-86966222560",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Nanotechnology"
+    ]
+  }
+}

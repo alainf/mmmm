@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225276",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/Femmes-au-travail/",
+  "description": "Description de Femmes au travail",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271816,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Femmes au travail",
+  "nom-folder": "Femmes-au-travail",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-47-86966225276"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Women at work"
+    ],
+    "ar": [
+      "نساء فى العمل"
+    ],
+    "es": [
+      "Mujeres en el trabajo"
+    ],
+    "fr": [
+      "Femmes au travail"
+    ],
+    "it": [
+      "donne nel lavoro"
+    ]
+  }
+}

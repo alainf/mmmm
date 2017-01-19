@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-22-86966223774",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Agriculture-et-environnement/Agriculture-biologique/",
+  "description": "Description de Agriculture biologique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272373,
+  "identifiant-drupal-parent": 896,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-22",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Agriculture biologique",
+  "nom-folder": "Agriculture-biologique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-22-86966223774"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organic farming"
+    ],
+    "ar": [
+      "زراعة عضوية"
+    ],
+    "es": [
+      "Agricultura ecológica"
+    ],
+    "fr": [
+      "Agriculture biologique"
+    ],
+    "it": [
+      "agricoltura biologica"
+    ]
+  }
+}

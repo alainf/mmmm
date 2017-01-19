@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225978",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Generalites/",
+  "custom-about": "terme-2015-12-06-16-24-59-86966225978",
+  "description": "Description de Généralités",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 878,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-12-21-11-54-19",
+  "nom": "Généralités",
+  "nom-folder": "Generalites",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-59-86966225978"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Generalities"
+    ],
+    "ar": [
+      "عموميات"
+    ],
+    "es": [
+      "Generalidades"
+    ],
+    "fr": [
+      "Généralités"
+    ],
+    "it": [
+      "Generalità"
+    ]
+  }
+}

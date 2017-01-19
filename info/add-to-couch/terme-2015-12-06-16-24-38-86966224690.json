@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224690",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Cinema-documentaire/",
+  "description": "Description de Cinéma documentaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471907,
+  "identifiant-drupal-parent": 466876,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Cinéma documentaire",
+  "nom-folder": "Cinema-documentaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224690"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Documentary film"
+    ],
+    "ar": [
+      "سينما وثائقي"
+    ],
+    "es": [
+      "Documental"
+    ],
+    "fr": [
+      "Cinéma documentaire"
+    ],
+    "it": [
+      "Cinema documentario"
+    ]
+  }
+}

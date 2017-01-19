@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233616",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Travail-social/Insertion-sociale/",
+  "description": "Description de Insertion sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472205,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Insertion sociale",
+  "nom-folder": "Insertion-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-06-86966233616"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social integration"
+    ],
+    "ar": [
+      "إعادة الإدماج الإجتماعي"
+    ],
+    "es": [
+      "Inserción social"
+    ],
+    "fr": [
+      "Insertion sociale"
+    ],
+    "it": [
+      "inserzione sociale"
+    ]
+  }
+}

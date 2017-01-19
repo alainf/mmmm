@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-07-07-15-03-29-88075092583",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-revuesOrg/Langue-et-linguistique/Linguistique-appliquee/",
+  "description": "Description de Linguistique appliquée",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-07-07-15-03-29",
+  "moment-de-creation": "2016-07-07-15-03-29",
+  "moment-de-modification": "2016-07-07-15-04-02",
+  "nom": "Linguistique appliquée",
+  "nom-folder": "Linguistique-appliquee",
+  "nom-machine": "terme-2016-07-07-15-03-29-88075092583",
+  "sous-type": "sujets-revuesOrg",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Applied linguistics"
+    ],
+    "fr": [
+      "Linguistique appliquée"
+    ]
+  }
+}

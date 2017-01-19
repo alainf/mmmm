@@ -1,0 +1,51 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226157",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Langues/",
+  "description": "Description de Langues",
+  "enfants": [
+    "terme-2015-12-06-16-25-02-86966226159",
+    "terme-2015-12-06-16-25-02-86966226162",
+    "terme-2015-12-06-16-25-02-86966226165",
+    "terme-2015-12-06-16-25-02-86966226168",
+    "terme-2015-12-06-16-25-02-86966226171",
+    "terme-2015-12-06-16-25-02-86966226173",
+    "terme-2015-12-06-16-25-02-86966226176",
+    "terme-2015-12-06-16-25-02-86966226179",
+    "terme-2015-12-06-16-25-03-86966226182",
+    "terme-2015-12-06-16-25-03-86966226185",
+    "terme-2015-12-06-16-25-03-86966226188",
+    "terme-2015-12-06-16-25-03-86966226191"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270402,
+  "identifiant-drupal-parent": 880,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Langues",
+  "nom-folder": "Langues",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-02-86966226157"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Languages"
+    ],
+    "ar": [
+      "لغات"
+    ],
+    "es": [
+      "Idiomas"
+    ],
+    "fr": [
+      "Langues"
+    ],
+    "it": [
+      "lingue"
+    ]
+  }
+}

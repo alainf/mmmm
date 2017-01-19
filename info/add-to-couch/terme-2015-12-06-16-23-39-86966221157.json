@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221157",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Actualite-sante-et-bien-etre/",
+  "description": "Description de Actualité santé et bien-être",
+  "enfants": [
+    "terme-2015-12-06-16-23-39-86966221160",
+    "terme-2015-12-06-16-23-39-86966221163"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1668,
+  "identifiant-drupal-parent": 270650,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Actualité santé et bien-être",
+  "nom-folder": "Actualite-sante-et-bien-etre",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221157"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health and wellness news"
+    ],
+    "ar": [
+      "أخبارمن الصحة والعافية"
+    ],
+    "es": [
+      "Noticias de bienestar y salud"
+    ],
+    "fr": [
+      "Actualité santé et bien-être"
+    ],
+    "it": [
+      "Notizie di salute e benessere"
+    ],
+    "ru": [
+      "Новости здоровья и хорошего самочувствия"
+    ]
+  }
+}

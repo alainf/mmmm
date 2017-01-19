@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-10-86966230204",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-des-materiaux/Ciment-(materiaux)/",
+  "description": "Description de Ciment (matériaux)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270811,
+  "identifiant-drupal-parent": 887,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-10",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Ciment (matériaux)",
+  "nom-folder": "Ciment-(materiaux)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-10-86966230204"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cement (materials)"
+    ],
+    "ar": [
+      "إسمنت (مواد)"
+    ],
+    "es": [
+      "Cemento (material)"
+    ],
+    "fr": [
+      "Ciment (matériaux)"
+    ],
+    "it": [
+      "Cemento (materiali)"
+    ]
+  }
+}

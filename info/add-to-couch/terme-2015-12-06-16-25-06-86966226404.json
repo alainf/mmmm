@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226404",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Orientations-pedagogiques/",
+  "description": "Description de Orientations pédagogiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270852,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Orientations pédagogiques",
+  "nom-folder": "Orientations-pedagogiques",
+  "nom-machine": "terme-2015-12-06-16-25-06-86966226404",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching guidelines"
+    ],
+    "ar": [
+      "المبادئ التوجيهية التعليمية"
+    ],
+    "es": [
+      "Orientaciones pedagógicas"
+    ],
+    "fr": [
+      "Orientations pédagogiques"
+    ],
+    "it": [
+      "Orientazioni pedagogiche"
+    ]
+  }
+}

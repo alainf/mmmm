@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229669",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-du-tourisme-et-de-l'hotellerie/",
+  "description": "Description de Marketing du tourisme et de l'hôtellerie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2066,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing du tourisme et de l'hôtellerie",
+  "nom-folder": "Marketing-du-tourisme-et-de-l'hotellerie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229669"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tourism and hotel industry marketing"
+    ],
+    "ar": [
+      "التسويق السياحة والفندقة"
+    ],
+    "es": [
+      "Marketing del turismo y la hostelería"
+    ],
+    "fr": [
+      "Marketing du tourisme et de l'hôtellerie"
+    ],
+    "it": [
+      "Marketing del turismo e della industria ricettiva"
+    ]
+  }
+}

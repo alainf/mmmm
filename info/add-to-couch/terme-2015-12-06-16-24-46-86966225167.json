@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-46-86966225167",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Techniques-de-la-peinture/Peinture-par-projection/",
+  "description": "Description de Peinture par projection",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467028,
+  "identifiant-drupal-parent": 467018,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-46",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Peinture par projection",
+  "nom-folder": "Peinture-par-projection",
+  "nom-machine": "terme-2015-12-06-16-24-46-86966225167",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Projection painting"
+    ],
+    "ar": [
+      "الإسقاط اللوحة"
+    ],
+    "es": [
+      "Pintura proyectada"
+    ],
+    "fr": [
+      "Peinture par projection"
+    ],
+    "it": [
+      "Pittura da proiezione"
+    ]
+  }
+}

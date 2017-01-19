@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225227",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Culture-populaire/Folklore/",
+  "description": "Description de Folklore",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466788,
+  "identifiant-drupal-parent": 466787,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Folklore",
+  "nom-folder": "Folklore",
+  "nom-machine": "terme-2015-12-06-16-24-47-86966225227",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Folklore"
+    ],
+    "ar": [
+      "الفولكلور"
+    ],
+    "es": [
+      "Folclore"
+    ],
+    "fr": [
+      "Folklore"
+    ],
+    "it": [
+      "Folclore"
+    ]
+  }
+}

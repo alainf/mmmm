@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-13-86966230380",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-du-travail/",
+  "description": "Description de Économie du travail",
+  "enfants": [
+    "terme-2015-12-06-16-26-13-86966230383"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1493,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-13",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie du travail",
+  "nom-folder": "Economie-du-travail",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-13-86966230380"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Labour Economics"
+    ],
+    "ar": [
+      "اقتصاد العمل"
+    ],
+    "es": [
+      "Economía del trabajo"
+    ],
+    "fr": [
+      "Économie du travail"
+    ],
+    "it": [
+      "Economia del lavoro"
+    ]
+  }
+}

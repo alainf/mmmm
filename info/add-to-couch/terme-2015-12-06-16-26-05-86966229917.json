@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-26-05-86966229917",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-electrique-et-electronique/Telecommunications/",
+  "description": "Description de Télécommunications",
+  "enfants": [
+    "terme-2015-12-06-16-26-05-86966229921",
+    "terme-2015-12-06-16-26-05-86966229923",
+    "terme-2015-12-06-16-26-05-86966229926",
+    "terme-2015-12-06-16-26-05-86966229929"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270909,
+  "identifiant-drupal-parent": 270894,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-05",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Télécommunications",
+  "nom-folder": "Telecommunications",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-05-86966229917"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Telecommunications"
+    ],
+    "ar": [
+      "الاتصالات السلكية واللاسلكية"
+    ],
+    "es": [
+      "Telecomunicaciones"
+    ],
+    "fr": [
+      "Télécommunications"
+    ],
+    "it": [
+      "Telecomunicazioni"
+    ]
+  }
+}

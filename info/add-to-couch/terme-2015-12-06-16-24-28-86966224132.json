@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224132",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Foresterie/Sylviculture/",
+  "description": "Description de Sylviculture",
+  "enfants": [
+    "terme-2015-12-06-16-24-28-86966224135",
+    "terme-2015-12-06-16-24-28-86966224138",
+    "terme-2015-12-06-16-24-29-86966224140",
+    "terme-2015-12-06-16-24-29-86966224143",
+    "terme-2015-12-06-16-24-29-86966224146",
+    "terme-2015-12-06-16-24-29-86966224148"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268993,
+  "identifiant-drupal-parent": 938,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Sylviculture",
+  "nom-folder": "Sylviculture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-28-86966224132"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sylviculture"
+    ],
+    "ar": [
+      "علم التحريج"
+    ],
+    "es": [
+      "Silvicultura"
+    ],
+    "fr": [
+      "Sylviculture"
+    ],
+    "it": [
+      "silvicoltura"
+    ]
+  }
+}

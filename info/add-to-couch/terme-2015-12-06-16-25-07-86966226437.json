@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226437",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Sociologie-de-l'education-(educ)/",
+  "description": "Sociologie de l'éducation (éduc)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270854,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Sociologie de l'éducation (éducation)",
+  "nom-folder": "Sociologie-de-l'education-(educ)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226437"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of Education (education)"
+    ],
+    "ar": [
+      "علم الاجتماع التربية والتعليم (التربية والتعليم)"
+    ],
+    "es": [
+      "Sociología de la Educación (Educación)"
+    ],
+    "fr": [
+      "Sociologie de l'éducation (éducation)"
+    ],
+    "it": [
+      "Sociologia dell'educazione (educazione)"
+    ]
+  }
+}

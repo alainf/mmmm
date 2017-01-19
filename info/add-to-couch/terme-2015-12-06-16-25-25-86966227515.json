@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-25-86966227515",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Gestion-electronique-des-docs/",
+  "description": "Description de Gestion électronique des documents (communication)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2157,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-25",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Gestion électronique des documents (communication)",
+  "nom-folder": "Gestion-electronique-des-docs",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-25-86966227515"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Electronic Document Management EDM (communications)"
+    ],
+    "ar": [
+      "الإدارة الإلكترونية للوثائق (الاتصالات)"
+    ],
+    "es": [
+      "Gestión electrónica de documentos (comunicaciones)"
+    ],
+    "fr": [
+      "Gestion électronique des documents (communication)"
+    ],
+    "it": [
+      "Gestione elettronica dei documenti (comunicazione)"
+    ]
+  }
+}

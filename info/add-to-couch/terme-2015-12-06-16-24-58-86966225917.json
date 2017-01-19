@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225917",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Finances-publiques/",
+  "description": "Description de Finances publiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455652,
+  "identifiant-drupal-parent": 877,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Finances publiques",
+  "nom-folder": "Finances-publiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225917"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public finance"
+    ],
+    "ar": [
+      "ماليات عامة"
+    ],
+    "es": [
+      "Finanzas públicas"
+    ],
+    "fr": [
+      "Finances publiques"
+    ],
+    "it": [
+      "finanze pubbliche"
+    ]
+  }
+}

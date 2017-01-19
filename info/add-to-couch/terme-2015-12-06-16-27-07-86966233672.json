@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233672",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Eco-quartiers/",
+  "description": "Description de Éco-quartiers",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466727,
+  "identifiant-drupal-parent": 467096,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Éco-quartiers",
+  "nom-folder": "Eco-quartiers",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233672"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecological neighborhoods"
+    ],
+    "ar": [
+      "الأحياء الإيكولوجية"
+    ],
+    "es": [
+      "Barrios ecológicos"
+    ],
+    "fr": [
+      "Éco-quartiers"
+    ],
+    "it": [
+      "Quartieri ecologici"
+    ]
+  }
+}

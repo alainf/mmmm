@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229028",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Normes-et-principes-de-la-comptabilite/Plan-comptable/",
+  "description": "Description de Plan comptable",
+  "enfants": [
+    "terme-2015-12-06-16-25-50-86966229031",
+    "terme-2015-12-06-16-25-50-86966229035",
+    "terme-2015-12-06-16-25-50-86966229038",
+    "terme-2015-12-06-16-25-50-86966229041"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271276,
+  "identifiant-drupal-parent": 271275,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Plan comptable",
+  "nom-folder": "Plan-comptable",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-50-86966229028"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chart of accounts"
+    ],
+    "ar": [
+      "الرسم البياني للحسابات"
+    ],
+    "es": [
+      "Plan de cuentas"
+    ],
+    "fr": [
+      "Plan comptable"
+    ],
+    "it": [
+      "piano contabile"
+    ]
+  }
+}

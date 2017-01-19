@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-04-02-31-87274593107",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Ewe/",
+  "description": "Description de Ewe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ee",
+  "ISO-639-2": "ewe",
+  "ISO-639-3": "ewe",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-02-31",
+  "moment-de-modification": "2016-02-04-04-03-11",
+  "nom": "Ewe",
+  "nom-folder": "Ewe",
+  "nom-machine": "terme-2016-02-04-04-02-31-87274593107",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Ewe_(langue)",
+  "nomLangues": {
+    "en": [
+      "Ewe"
+    ],
+    "es": [
+      "Ewé"
+    ],
+    "fr": [
+      "Ewe"
+    ],
+    "it": [
+      "Ewe"
+    ],
+    "ru": [
+      "Эве"
+    ]
+  }
+}

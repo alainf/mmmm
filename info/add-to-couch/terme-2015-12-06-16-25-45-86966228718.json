@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-45-86966228718",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Relations-industrielles/Gestion-des-conflits-(relations-industrielles)/Arbitrage/",
+  "description": "Description de Arbitrage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451378,
+  "identifiant-drupal-parent": 2224,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-45",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Arbitrage",
+  "nom-folder": "Arbitrage",
+  "nom-machine": "terme-2015-12-06-16-25-45-86966228718",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arbitration"
+    ],
+    "ar": [
+      "تحكيم"
+    ],
+    "es": [
+      "Arbitraje"
+    ],
+    "fr": [
+      "Arbitrage"
+    ],
+    "it": [
+      "Arbitrato"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231942",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Philosophie-de-la-religion/",
+  "description": "Description de Philosophie de la religion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466765,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie de la religion",
+  "nom-folder": "Philosophie-de-la-religion",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-39-86966231942"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of religion"
+    ],
+    "ar": [
+      "فلسفة الدين"
+    ],
+    "es": [
+      "Filosofía de la religión"
+    ],
+    "fr": [
+      "Philosophie de la religion"
+    ],
+    "it": [
+      "Filosofia della religione"
+    ]
+  }
+}

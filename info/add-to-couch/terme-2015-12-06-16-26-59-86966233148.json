@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233148",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Theories-politiques/",
+  "description": "Description de Théories politiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472177,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Théories politiques",
+  "nom-folder": "Theories-politiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233148"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political theories"
+    ],
+    "ar": [
+      "النظريات السياسية"
+    ],
+    "es": [
+      "Teorías políticas"
+    ],
+    "fr": [
+      "Théories politiques"
+    ],
+    "it": [
+      "Teorie politiche"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225829",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Disciplines-de-la-finance/Theorie-moderne-du-portefeuille/",
+  "description": "Description de Théorie moderne du portefeuille",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271369,
+  "identifiant-drupal-parent": 271365,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Théorie moderne du portefeuille",
+  "nom-folder": "Theorie-moderne-du-portefeuille",
+  "nom-machine": "terme-2015-12-06-16-24-57-86966225829",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Modern Portfolio Theory"
+    ],
+    "ar": [
+      "نظرية المحفظة الحديثة"
+    ],
+    "es": [
+      "Teoría moderna del portafolio"
+    ],
+    "fr": [
+      "Théorie moderne du portefeuille"
+    ],
+    "it": [
+      "Teoria moderna del portafoglio"
+    ]
+  }
+}

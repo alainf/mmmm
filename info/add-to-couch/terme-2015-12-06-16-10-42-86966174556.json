@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174556",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Guarani/",
+  "description": "Description de Guarani",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380800,
+  "ISO-639-1": "gn",
+  "ISO-639-2": "grn",
+  "ISO-639-3": "grn",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2016-02-04-04-26-26",
+  "nom": "Guarani",
+  "nom-folder": "Guarani",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174556",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Guarani_(langue)",
+  "nomLangues": {
+    "en": [
+      "Guarani"
+    ],
+    "ar": [
+      "غوارانية"
+    ],
+    "es": [
+      "Guaraní"
+    ],
+    "fr": [
+      "Guarani"
+    ],
+    "it": [
+      "Guarani"
+    ],
+    "ru": [
+      "Гуарани"
+    ]
+  }
+}

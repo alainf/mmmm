@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-58-86966222289",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Earth-Sciences/Geotechnical-Engineering/",
+  "description": "Description de Geotechnical engineering",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368917,
+  "identifiant-drupal-parent": 368910,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-23-58",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Geotechnical engineering",
+  "nom-folder": "Geotechnical-Engineering",
+  "nom-machine": "terme-2015-12-06-16-23-58-86966222289",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Geotechnical engineering"
+    ]
+  }
+}

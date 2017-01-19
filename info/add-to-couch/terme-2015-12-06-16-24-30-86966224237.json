@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-30-86966224237",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/Droit-des-animaux/",
+  "description": "Description de Droit des animaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269023,
+  "identifiant-drupal-parent": 269001,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-30",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Droit des animaux",
+  "nom-folder": "Droit-des-animaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-30-86966224237"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Animal rights"
+    ],
+    "ar": [
+      "حقوق الحيوانات"
+    ],
+    "es": [
+      "Derechos de los animales"
+    ],
+    "fr": [
+      "Droit des animaux"
+    ],
+    "it": [
+      "diritti degli animali"
+    ]
+  }
+}

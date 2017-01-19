@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228381",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Depenses-publiques/",
+  "description": "Description de Dépenses publiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272366,
+  "identifiant-drupal-parent": 2035,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Dépenses publiques",
+  "nom-folder": "Depenses-publiques",
+  "nom-machine": "terme-2015-12-06-16-25-39-86966228381",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public spending"
+    ],
+    "ar": [
+      "الإنفاق العام"
+    ],
+    "es": [
+      "Gasto público"
+    ],
+    "fr": [
+      "Dépenses publiques"
+    ],
+    "it": [
+      "Spesa pubblica"
+    ]
+  }
+}

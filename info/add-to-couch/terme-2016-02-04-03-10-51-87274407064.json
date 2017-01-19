@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-03-10-51-87274407064",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Akan/",
+  "description": "Description de Akan",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ak",
+  "ISO-639-2": "aka",
+  "ISO-639-3": "aka",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-10-51",
+  "moment-de-modification": "2016-02-04-03-11-37",
+  "nom": "Akan",
+  "nom-folder": "Akan",
+  "nom-machine": "terme-2016-02-04-03-10-51-87274407064",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Akan_(langue)",
+  "nomLangues": {
+    "en": [
+      "Akan"
+    ],
+    "es": [
+      "Akan"
+    ],
+    "fr": [
+      "Akan"
+    ],
+    "it": [
+      "Akan"
+    ],
+    "ru": [
+      "Акан"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_id": "terme-2015-12-06-16-25-15-86966226950",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Technologies-de-l'information-et-de-la-communication/",
+  "description": "Description de Technologies de l'information et de la communication",
+  "enfants": [
+    "terme-2015-12-06-16-25-15-86966226954",
+    "terme-2015-12-06-16-25-15-86966226957",
+    "terme-2015-12-06-16-25-16-86966226960",
+    "terme-2015-12-06-16-25-16-86966226963",
+    "terme-2015-12-06-16-25-16-86966226966",
+    "terme-2015-12-06-16-25-16-86966226968",
+    "terme-2015-12-06-16-25-16-86966226971",
+    "terme-2015-12-06-16-25-16-86966226975",
+    "terme-2015-12-06-16-25-16-86966226977",
+    "terme-2015-12-06-16-25-16-86966226980",
+    "terme-2015-12-06-16-25-16-86966226983",
+    "terme-2015-12-06-16-25-16-86966226986",
+    "terme-2015-12-06-16-25-16-86966226988",
+    "terme-2015-12-06-16-25-16-86966226992"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2166,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-15",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Technologies de l'information et de la communication",
+  "nom-folder": "Technologies-de-l'information-et-de-la-communication",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-15-86966226950"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Information and Communication Technology"
+    ],
+    "ar": [
+      "تكنولوجيا المعلومات والاتصالات"
+    ],
+    "es": [
+      "Tecnología de la información y de la comunicación"
+    ],
+    "fr": [
+      "Technologies de l'information et de la communication"
+    ],
+    "it": [
+      "Tecnologia dell'informazione e della comunicazione"
+    ]
+  }
+}

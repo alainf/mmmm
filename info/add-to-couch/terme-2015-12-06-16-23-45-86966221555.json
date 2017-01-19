@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221555",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Culture-et-technique/",
+  "description": "Description de Culture et technique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270638,
+  "identifiant-drupal-parent": 1665,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Culture et technique",
+  "nom-folder": "Culture-et-technique",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-45-86966221555"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Culture and technique"
+    ],
+    "ar": [
+      "الثقافة وتقنية"
+    ],
+    "es": [
+      "Cultura y técnica"
+    ],
+    "fr": [
+      "Culture et technique"
+    ],
+    "it": [
+      "Cultura e tecnica"
+    ],
+    "ru": [
+      "Культура и Техника"
+    ]
+  }
+}

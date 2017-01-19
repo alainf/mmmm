@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225845",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finance-de-marche/Portefeuille-et-instruments-financiers/",
+  "description": "Description de Portefeuille et instruments financiers",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469930,
+  "identifiant-drupal-parent": 271332,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Portefeuille et instruments financiers",
+  "nom-folder": "Portefeuille-et-instruments-financiers",
+  "nom-machine": "terme-2015-12-06-16-24-57-86966225845",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Portfolio and financial instruments"
+    ],
+    "ar": [
+      "محفظة استثمارية وصكوك المالية"
+    ],
+    "es": [
+      "Cartera de inversiones e instrumentos financieros"
+    ],
+    "fr": [
+      "Portefeuille et instruments financiers"
+    ],
+    "it": [
+      "Portafoglio e strumenti finanziari"
+    ]
+  }
+}

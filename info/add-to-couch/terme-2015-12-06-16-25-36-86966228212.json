@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-36-86966228212",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-systemes-d'information/Gestion-de-contenu/",
+  "description": "Description de Gestion de contenu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1999,
+  "identifiant-drupal-parent": 1992,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-36",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion de contenu",
+  "nom-folder": "Gestion-de-contenu",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-36-86966228212"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Content management"
+    ],
+    "ar": [
+      "إدارة المحتوى"
+    ],
+    "es": [
+      "Gestión de contenidos"
+    ],
+    "fr": [
+      "Gestion de contenu"
+    ],
+    "it": [
+      "Gestione dei contenuti"
+    ]
+  }
+}

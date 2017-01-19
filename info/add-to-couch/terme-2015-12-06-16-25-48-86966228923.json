@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-48-86966228923",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Organisation-du-travail/Relations-de-travail/",
+  "description": "Description de Relations de travail",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472251,
+  "identifiant-drupal-parent": 2132,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-48",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Relations de travail",
+  "nom-folder": "Relations-de-travail",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-48-86966228923"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Labor relations"
+    ],
+    "ar": [
+      "علاقات العمل"
+    ],
+    "es": [
+      "Relaciones de trabajo"
+    ],
+    "fr": [
+      "Relations de travail"
+    ],
+    "it": [
+      "Relazioni di lavoro"
+    ]
+  }
+}

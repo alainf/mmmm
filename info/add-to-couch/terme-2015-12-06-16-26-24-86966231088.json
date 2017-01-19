@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-24-86966231088",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geomatique/Image-satellite/",
+  "description": "Description de Image satellite",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 450968,
+  "identifiant-drupal-parent": 272379,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-24",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Image satellite",
+  "nom-folder": "Image-satellite",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-24-86966231088"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Satellite imagery"
+    ],
+    "ar": [
+      "صورة ساتلية"
+    ],
+    "es": [
+      "Imagen satelite"
+    ],
+    "fr": [
+      "Image satellite"
+    ],
+    "it": [
+      "Immagine satellitare"
+    ]
+  }
+}

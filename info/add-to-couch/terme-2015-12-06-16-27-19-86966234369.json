@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-19-86966234369",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/autre(s)/dev-du-site/",
+  "description": "Description de Développement du site",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369310,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Développement du site",
+  "nom-folder": "dev-du-site",
+  "nom-machine": "terme-2015-12-06-16-27-19-86966234369",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Development of site"
+    ],
+    "es": [
+      "Desarrollo del sitio"
+    ],
+    "fr": [
+      "Développement du site"
+    ],
+    "it": [
+      "Sviluppo del sito"
+    ]
+  }
+}

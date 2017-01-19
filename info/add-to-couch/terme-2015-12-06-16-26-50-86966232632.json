@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232632",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Acteurs-politiques/Rapports-des-citoyens-a-la-politique/",
+  "description": "Description de Rapports des citoyens à la politique",
+  "enfants": [
+    "terme-2015-12-06-16-26-50-86966232635"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472238,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Rapports des citoyens à la politique",
+  "nom-folder": "Rapports-des-citoyens-a-la-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232632"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Citizens' relationships with politics"
+    ],
+    "ar": [
+      "علاقات المواطنين مع السياسة"
+    ],
+    "es": [
+      "Relaciones de los ciudadanos con la política"
+    ],
+    "fr": [
+      "Rapports des citoyens à la politique"
+    ],
+    "it": [
+      "Rapporti dei cittadini alla politica"
+    ]
+  }
+}

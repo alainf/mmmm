@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-57-86966229432",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Sociologie-de-l'entreprise/",
+  "description": "Description de Sociologie de l'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466721,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-57",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Sociologie de l'entreprise",
+  "nom-folder": "Sociologie-de-l'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-57-86966229432"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of the enterprise"
+    ],
+    "ar": [
+      "علم الاجتماع من المؤسسة"
+    ],
+    "es": [
+      "Sociología de la empresa"
+    ],
+    "fr": [
+      "Sociologie de l'entreprise"
+    ],
+    "it": [
+      "sociologia dell'impresa"
+    ]
+  }
+}

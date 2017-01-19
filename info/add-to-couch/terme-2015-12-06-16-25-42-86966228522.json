@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-25-42-86966228522",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-bancaire/",
+  "description": "Description de Gestion bancaire",
+  "enfants": [
+    "terme-2015-12-06-16-25-42-86966228525",
+    "terme-2015-12-06-16-25-42-86966228529",
+    "terme-2015-12-06-16-25-42-86966228532",
+    "terme-2015-12-06-16-25-42-86966228535",
+    "terme-2015-12-06-16-25-42-86966228538",
+    "terme-2015-12-06-16-25-42-86966228541",
+    "terme-2015-12-06-16-25-42-86966228544"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2191,
+  "identifiant-drupal-parent": 2189,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-42",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion bancaire",
+  "nom-folder": "Gestion-bancaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-42-86966228522"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Banking"
+    ],
+    "ar": [
+      "إدارة الاعمال المصرفية"
+    ],
+    "es": [
+      "Gestión bancaria"
+    ],
+    "fr": [
+      "Gestion bancaire"
+    ],
+    "it": [
+      "Gestione bancaria"
+    ]
+  }
+}

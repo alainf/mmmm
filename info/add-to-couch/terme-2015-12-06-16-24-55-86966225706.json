@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225706",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Economie-de-la-sante/",
+  "custom-about": "terme-2015-12-06-16-24-55-86966225706",
+  "description": "Description de Économie de la santé",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469988,
+  "identifiant-drupal-parent": 1254,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-12-13-20-35-52",
+  "nom": "Économie de la santé",
+  "nom-folder": "Economie-de-la-sante",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225706"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health economics"
+    ],
+    "ar": [
+      "اقتصاديات الصحة"
+    ],
+    "es": [
+      "Economía de la salud"
+    ],
+    "fr": [
+      "Économie de la santé"
+    ],
+    "it": [
+      "Economia della salute"
+    ]
+  }
+}

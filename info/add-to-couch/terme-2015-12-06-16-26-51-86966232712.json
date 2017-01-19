@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-51-86966232712",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Conflits,-droits-humains-et-impunite/Terrorisme/Terrorisme-individuel/",
+  "description": "Description de Terrorisme individuel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451301,
+  "identifiant-drupal-parent": 451300,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-51",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Terrorisme individuel",
+  "nom-folder": "Terrorisme-individuel",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-51-86966232712"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Individual terrorism"
+    ],
+    "ar": [
+      "الإرهاب الفردي"
+    ],
+    "es": [
+      "Terrorismo individual"
+    ],
+    "fr": [
+      "Terrorisme individuel"
+    ],
+    "it": [
+      "terrorismo individuale"
+    ]
+  }
+}

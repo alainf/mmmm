@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232304",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Materialisme-historique/",
+  "description": "Description de Matérialisme historique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272324,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Matérialisme historique",
+  "nom-folder": "Materialisme-historique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232304"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Historical Materialism"
+    ],
+    "ar": [
+      "مادية تاريخية"
+    ],
+    "es": [
+      "Materialismo histórico"
+    ],
+    "fr": [
+      "Matérialisme historique"
+    ],
+    "it": [
+      "Materialismo storico"
+    ]
+  }
+}

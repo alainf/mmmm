@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-27-19-86966234395",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/fil-RSS/MP3/",
+  "description": "Description de Mp3",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369315,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Mp3",
+  "nom-folder": "MP3",
+  "nom-machine": "terme-2015-12-06-16-27-19-86966234395",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mp3"
+    ],
+    "ar": [
+      "MP3"
+    ],
+    "es": [
+      "Mp3"
+    ],
+    "fr": [
+      "Mp3"
+    ],
+    "it": [
+      "Mp3"
+    ]
+  }
+}

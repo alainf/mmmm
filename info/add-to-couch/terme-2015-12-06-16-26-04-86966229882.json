@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-26-04-86966229882",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-electrique-et-electronique/",
+  "description": "Description de Ingénierie électrique et électronique",
+  "enfants": [
+    "terme-2015-12-06-16-26-04-86966229885",
+    "terme-2015-12-06-16-26-04-86966229888",
+    "terme-2015-12-06-16-26-04-86966229891",
+    "terme-2015-12-06-16-26-04-86966229894",
+    "terme-2015-12-06-16-26-04-86966229897",
+    "terme-2015-12-06-16-26-05-86966229901",
+    "terme-2015-12-06-16-26-05-86966229903",
+    "terme-2015-12-06-16-26-05-86966229906",
+    "terme-2015-12-06-16-26-05-86966229909",
+    "terme-2015-12-06-16-26-05-86966229912",
+    "terme-2015-12-06-16-26-05-86966229915",
+    "terme-2015-12-06-16-26-05-86966229917",
+    "terme-2015-12-06-16-26-05-86966229932"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270894,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Ingénierie électrique et électronique",
+  "nom-folder": "Ingenierie-electrique-et-electronique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-04-86966229882"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Electrical and Electronic Engineering"
+    ],
+    "ar": [
+      "هندسة الكهربائية والإلكترونية"
+    ],
+    "es": [
+      "Ingeniería eléctrica y electrónica"
+    ],
+    "fr": [
+      "Ingénierie électrique et électronique"
+    ],
+    "it": [
+      "Ingegneria elettrica ed elettronica"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "terme-2015-12-06-16-24-19-86966223551",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Peche/",
+  "description": "Description de Pêche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Pêche",
+  "nom-folder": "Peche",
+  "nom-machine": "terme-2015-12-06-16-24-19-86966223551",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fishing"
+    ],
+    "fr": [
+      "Pêche"
+    ]
+  }
+}

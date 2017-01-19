@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229352",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Darwinisme/",
+  "description": "Description de Darwinisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2256,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Darwinisme",
+  "nom-folder": "Darwinisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-55-86966229352"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Darwinism"
+    ],
+    "ar": [
+      "الداروينية"
+    ],
+    "es": [
+      "Darvinismo"
+    ],
+    "fr": [
+      "Darwinisme"
+    ],
+    "it": [
+      "Darwinismo"
+    ]
+  }
+}

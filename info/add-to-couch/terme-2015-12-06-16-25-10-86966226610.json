@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226610",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Rechauffement-climatique/Temperature-des-oceans/",
+  "description": "Description de Température des océans",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472210,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Température des océans",
+  "nom-folder": "Temperature-des-oceans",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-10-86966226610"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ocean temperature"
+    ],
+    "ar": [
+      "درجة حرارة المحيطات"
+    ],
+    "es": [
+      "Temperatura del océano"
+    ],
+    "fr": [
+      "Température des océans"
+    ],
+    "it": [
+      "Temperatura degli oceani"
+    ]
+  }
+}

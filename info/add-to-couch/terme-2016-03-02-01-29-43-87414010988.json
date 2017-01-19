@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2016-03-02-01-29-43-87414010988",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/quoi-ecrire/un-recit-d-enfance/",
+  "description": "Description de Un récit d'enfance",
+  "enfants": [
+    "terme-2016-03-02-01-30-21-87414013292",
+    "terme-2016-03-02-01-30-59-87414015547"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-29-43",
+  "moment-de-modification": "2016-03-02-01-30-14",
+  "nom": "Un récit d'enfance",
+  "nom-folder": "un-recit-d-enfance",
+  "nom-machine": "terme-2016-03-02-01-29-43-87414010988",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Un récit d'enfance"
+    ]
+  }
+}

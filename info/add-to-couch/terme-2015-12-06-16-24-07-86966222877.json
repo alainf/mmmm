@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-07-86966222877",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Mathematics/",
+  "description": "Description de Mathematics",
+  "enfants": [
+    "terme-2015-12-06-16-24-08-86966222881",
+    "terme-2015-12-06-16-24-08-86966222883",
+    "terme-2015-12-06-16-24-08-86966222886",
+    "terme-2015-12-06-16-24-08-86966222889",
+    "terme-2015-12-06-16-24-08-86966222892",
+    "terme-2015-12-06-16-24-08-86966222894",
+    "terme-2015-12-06-16-24-08-86966222897",
+    "terme-2015-12-06-16-24-08-86966222901",
+    "terme-2015-12-06-16-24-08-86966222904",
+    "terme-2015-12-06-16-24-08-86966222907",
+    "terme-2015-12-06-16-24-08-86966222909",
+    "terme-2015-12-06-16-24-08-86966222913",
+    "terme-2015-12-06-16-24-08-86966222915",
+    "terme-2015-12-06-16-24-08-86966222918",
+    "terme-2015-12-06-16-24-08-86966222920"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369116,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-07",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Mathematics",
+  "nom-folder": "Mathematics",
+  "nom-machine": "terme-2015-12-06-16-24-07-86966222877",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Mathematics"
+    ]
+  }
+}

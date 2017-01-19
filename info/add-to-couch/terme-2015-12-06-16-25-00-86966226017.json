@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226017",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Informatique-theorique/",
+  "description": "Description de Informatique théorique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455578,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Informatique théorique",
+  "nom-folder": "Informatique-theorique",
+  "nom-machine": "terme-2015-12-06-16-25-00-86966226017",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theoretical computer science"
+    ],
+    "ar": [
+      "معلوماتية النظرية"
+    ],
+    "es": [
+      "Ciencia computacional teórica"
+    ],
+    "fr": [
+      "Informatique théorique"
+    ],
+    "it": [
+      "Informatica teorica"
+    ]
+  }
+}

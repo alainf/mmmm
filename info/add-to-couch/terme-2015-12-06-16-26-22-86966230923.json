@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230923",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-vie/",
+  "description": "Description de Sciences de la vie",
+  "enfants": [
+    "terme-2015-12-06-16-26-22-86966230926",
+    "terme-2015-12-06-16-26-22-86966230944",
+    "terme-2015-12-06-16-26-22-86966230946",
+    "terme-2015-12-06-16-26-22-86966230950",
+    "terme-2015-12-06-16-26-22-86966230953"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270761,
+  "identifiant-drupal-parent": 889,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Sciences de la vie",
+  "nom-folder": "Sciences-de-la-vie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230923"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Life Sciences"
+    ],
+    "ar": [
+      "علوم الحياة"
+    ],
+    "es": [
+      "Ciencias de la Vida"
+    ],
+    "fr": [
+      "Sciences de la vie"
+    ],
+    "it": [
+      "scienze della vita"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-15-86966226942",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Techniques-d'ecriture-journalistique/",
+  "description": "Techniques d'écriture journalistique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272307,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-15",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Techniques d’écriture journalistique",
+  "nom-folder": "Techniques-d'ecriture-journalistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-15-86966226942"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Techniques of journalistic writing"
+    ],
+    "ar": [
+      "تقنيات الكتابة الصحفية"
+    ],
+    "es": [
+      "Técnicas de redacción periodística"
+    ],
+    "fr": [
+      "Techniques d’écriture journalistique"
+    ],
+    "it": [
+      "Tecniche della redazione giornalistica"
+    ]
+  }
+}

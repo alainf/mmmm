@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-03-01-26-87274373201",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Avestique/",
+  "description": "Description de Avestique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ae",
+  "ISO-639-2": "ave",
+  "ISO-639-3": "ave",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-01-26",
+  "moment-de-modification": "2016-02-04-03-08-47",
+  "nom": "Avestique",
+  "nom-folder": "Avestique",
+  "nom-machine": "terme-2016-02-04-03-01-26-87274373201",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Avestique",
+  "nomLangues": {
+    "en": [
+      "Avestan"
+    ],
+    "es": [
+      "Avéstico"
+    ],
+    "fr": [
+      "Avestique"
+    ],
+    "it": [
+      "Avestico"
+    ],
+    "ru": [
+      "Авестийский"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-07-86966230033",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Geosciences/Morphodynamique/",
+  "description": "Description de Morphodynamique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472224,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-07",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Morphodynamique",
+  "nom-folder": "Morphodynamique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-07-86966230033"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Morphodynamic"
+    ],
+    "ar": [
+      "مورفوديناميكس"
+    ],
+    "es": [
+      "Morfodinámica"
+    ],
+    "fr": [
+      "Morphodynamique"
+    ],
+    "it": [
+      "morfodinamica"
+    ]
+  }
+}

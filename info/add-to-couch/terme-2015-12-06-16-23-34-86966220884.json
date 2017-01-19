@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220884",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Processus-industriels/Production/",
+  "description": "Description de Production",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270581,
+  "identifiant-drupal-parent": 270584,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Production",
+  "nom-folder": "Production",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220884"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Production"
+    ],
+    "ar": [
+      "الإنتاج"
+    ],
+    "es": [
+      "Producción"
+    ],
+    "fr": [
+      "Production"
+    ],
+    "it": [
+      "Produzione"
+    ]
+  }
+}

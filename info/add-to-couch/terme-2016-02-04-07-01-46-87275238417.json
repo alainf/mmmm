@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-07-01-46-87275238417",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Zhuang/",
+  "description": "Description de Zhuang",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "za",
+  "ISO-639-2": "zha",
+  "ISO-639-3": "zha",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-07-01-46",
+  "moment-de-modification": "2016-02-04-07-02-58",
+  "nom": "Zhuang",
+  "nom-folder": "Zhuang",
+  "nom-machine": "terme-2016-02-04-07-01-46-87275238417",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "/wiki/Zhuang_(langue)",
+  "nomLangues": {
+    "en": [
+      "Zhuang"
+    ],
+    "es": [
+      "Chuang"
+    ],
+    "fr": [
+      "Zhuang"
+    ],
+    "it": [
+      "Zhuang"
+    ],
+    "ru": [
+      "Чжуанский"
+    ]
+  }
+}

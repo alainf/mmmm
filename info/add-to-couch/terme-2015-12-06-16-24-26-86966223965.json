@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966223965",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Gestion-de-l'aquaculture/",
+  "description": "Description de Gestion de l'aquaculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 930,
+  "identifiant-drupal-parent": 924,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Gestion de l'aquaculture",
+  "nom-folder": "Gestion-de-l'aquaculture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-26-86966223965"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aquaculture Management"
+    ],
+    "ar": [
+      "إدارة الزراعات المائية"
+    ],
+    "es": [
+      "Gestión de acuicultura"
+    ],
+    "fr": [
+      "Gestion de l'aquaculture"
+    ],
+    "it": [
+      "Gestione dell'acquicoltura"
+    ]
+  }
+}

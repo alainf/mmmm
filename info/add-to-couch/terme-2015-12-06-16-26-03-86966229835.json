@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229835",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technologies-de-l'apprentissage/Theorie-de-Vapnik-Chervonenkis/",
+  "description": "Description de Théorie de Vapnik-Chervonenkis",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472395,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théorie de Vapnik-Chervonenkis",
+  "nom-folder": "Theorie-de-Vapnik-Chervonenkis",
+  "nom-machine": "terme-2015-12-06-16-26-03-86966229835",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Vapnik–Chervonenkis theory"
+    ],
+    "ar": [
+      "فابنيك-تشيرفونينكيس نظرية"
+    ],
+    "es": [
+      "Teoría Vapnik–Chervonenkis"
+    ],
+    "fr": [
+      "Théorie de Vapnik-Chervonenkis"
+    ],
+    "it": [
+      "Teoria Vapnik–Chervonenkis"
+    ]
+  }
+}

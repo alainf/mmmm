@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225889",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Principes-des-finances-publiques/Principe-de-l'equilibre-budgetaire/",
+  "description": "Description de Principe de l'équilibre budgétaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271355,
+  "identifiant-drupal-parent": 271350,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Principe de l'équilibre budgétaire",
+  "nom-folder": "Principe-de-l'equilibre-budgetaire",
+  "nom-machine": "terme-2015-12-06-16-24-58-86966225889",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Balanced budget principle"
+    ],
+    "ar": [
+      "مبدأ التوازن في الميزانية"
+    ],
+    "es": [
+      "Principio de equilibrio en el presupuesto"
+    ],
+    "fr": [
+      "Principe de l'équilibre budgétaire"
+    ],
+    "it": [
+      "Principio di equilibrio di bilancio"
+    ]
+  }
+}

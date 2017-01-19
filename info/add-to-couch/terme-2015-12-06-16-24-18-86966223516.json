@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-18-86966223516",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Elevage-d-autres-animaux/",
+  "description": "Description de Élevage d'autres animaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-18",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Élevage d'autres animaux",
+  "nom-folder": "Elevage-d-autres-animaux",
+  "nom-machine": "terme-2015-12-06-16-24-18-86966223516",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Élevage d'autres animaux"
+    ]
+  }
+}

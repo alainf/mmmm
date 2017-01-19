@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-40-86966228400",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/Transport-aerien/Transport-aerien-regulier/",
+  "description": "Description de Transport aérien régulier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451132,
+  "identifiant-drupal-parent": 272293,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-40",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Transport aérien régulier",
+  "nom-folder": "Transport-aerien-regulier",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-40-86966228400"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scheduled Air Transportation"
+    ],
+    "ar": [
+      "سائل نقل بديلة"
+    ],
+    "es": [
+      "Transporte aéreo regular"
+    ],
+    "fr": [
+      "Transport aérien régulier"
+    ],
+    "it": [
+      "Trasporto aereo regolare"
+    ]
+  }
+}

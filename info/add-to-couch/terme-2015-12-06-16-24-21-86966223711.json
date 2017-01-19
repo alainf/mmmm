@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-21-86966223711",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Social-Science-Humanities/Interpersonal-Violence/",
+  "description": "Description de Violence interpersonnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368190,
+  "identifiant-drupal-parent": 368147,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-21",
+  "moment-de-modification": "2015-01-04-02-27-32",
+  "nom": "Violence interpersonnelle",
+  "nom-folder": "Interpersonal-Violence",
+  "nom-machine": "terme-2015-12-06-16-24-21-86966223711",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Interpersonal violence"
+    ],
+    "fr": [
+      "Violence interpersonnelle"
+    ]
+  }
+}

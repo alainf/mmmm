@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-36-86966228192",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-risques-(gestion)/Risques-naturels/",
+  "description": "Description de Risques naturels",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451225,
+  "identifiant-drupal-parent": 1991,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-36",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Risques naturels",
+  "nom-folder": "Risques-naturels",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-36-86966228192"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Natural Hazards"
+    ],
+    "ar": [
+      "الإخطار الطبيعية"
+    ],
+    "es": [
+      "Riesgos naturales"
+    ],
+    "fr": [
+      "Risques naturels"
+    ],
+    "it": [
+      "rischi naturali"
+    ]
+  }
+}

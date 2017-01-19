@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230778",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Chimie-analytique/",
+  "description": "Description de Chimie analytique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270433,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Chimie analytique",
+  "nom-folder": "Chimie-analytique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-19-86966230778"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Analytical chemistry"
+    ],
+    "ar": [
+      "كيمياء تحليلية"
+    ],
+    "es": [
+      "Química analítica"
+    ],
+    "fr": [
+      "Chimie analytique"
+    ],
+    "it": [
+      "chimica analitica"
+    ]
+  }
+}

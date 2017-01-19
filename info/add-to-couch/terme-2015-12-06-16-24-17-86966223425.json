@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-17-86966223425",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Sports-and-Recreation/Recreation-and-Leisure/",
+  "description": "Description de Tourism",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-17",
+  "moment-de-modification": "2015-10-04-05-11-11",
+  "nom": "Tourism",
+  "nom-folder": "Recreation-and-Leisure",
+  "nom-machine": "terme-2015-12-06-16-24-17-86966223425",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Tourism"
+    ]
+  }
+}

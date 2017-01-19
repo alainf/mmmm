@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232419",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Recherche-qualitative/Reflexivite-en-recherche-qualitative/",
+  "description": "Description de Réflexivité en recherche qualitative",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472247,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Réflexivité en recherche qualitative",
+  "nom-folder": "Reflexivite-en-recherche-qualitative",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232419"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reflexivity in qualitative research"
+    ],
+    "ar": [
+      "الفعل المنعكس في البحث النوعي"
+    ],
+    "es": [
+      "Reflexividad en investigación cualitativa"
+    ],
+    "fr": [
+      "Réflexivité en recherche qualitative"
+    ],
+    "it": [
+      "Riflessività nell'investigazione qualitativa"
+    ]
+  }
+}

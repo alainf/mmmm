@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-31-86966227905",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Systeme-Qualite/",
+  "description": "Description de Système Qualité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1942,
+  "identifiant-drupal-parent": 1877,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-31",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Système Qualité",
+  "nom-folder": "Systeme-Qualite",
+  "nom-machine": "terme-2015-12-06-16-25-31-86966227905",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Quality system"
+    ],
+    "ar": [
+      "نظام الجودة"
+    ],
+    "es": [
+      "Sistema de calidad"
+    ],
+    "fr": [
+      "Système Qualité"
+    ],
+    "it": [
+      "Sistema di qualità"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223891",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Typologies-des-terres-agricoles/",
+  "description": "Description de Typologies des terres agricoles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 922,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Typologies des terres agricoles",
+  "nom-folder": "Typologies-des-terres-agricoles",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223891"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Typologies of agricultural land"
+    ],
+    "ar": [
+      "نماذج أراضي الزراعية"
+    ],
+    "es": [
+      "Tipologías de las tierras agrícolas"
+    ],
+    "fr": [
+      "Typologies des terres agricoles"
+    ],
+    "it": [
+      "tipologie di terreni agricoli"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232784",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Democratie-(ideologie)/Social-democratie/",
+  "description": "Description de Social-démocratie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1125,
+  "identifiant-drupal-parent": 1113,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Social-démocratie",
+  "nom-folder": "Social-democratie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-53-86966232784"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social Democracy"
+    ],
+    "ar": [
+      "الديمقراطية الاجتماعية"
+    ],
+    "es": [
+      "Social democracia"
+    ],
+    "fr": [
+      "Social-démocratie"
+    ],
+    "it": [
+      "Socialdemocrazia"
+    ]
+  }
+}

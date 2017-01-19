@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220855",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/L'entreprise-et-la-technologie/",
+  "description": "Description de L'entreprise et la technologie",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270491,
+  "identifiant-drupal-parent": 270482,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "L'entreprise et la technologie",
+  "nom-folder": "L'entreprise-et-la-technologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220855"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Enterprise and technology"
+    ],
+    "ar": [
+      "الأعمال التجارية والتكنولوجيا"
+    ],
+    "es": [
+      "Empresa y tecnología"
+    ],
+    "fr": [
+      "L'entreprise et la technologie"
+    ],
+    "it": [
+      "Impresa e tecnologia"
+    ],
+    "ru": [
+      "Предприятия и технологии"
+    ]
+  }
+}

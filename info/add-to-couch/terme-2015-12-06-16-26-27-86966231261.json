@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231261",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Micro-histoire/",
+  "description": "Description de Micro-histoire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 993,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Micro-histoire",
+  "nom-folder": "Micro-histoire",
+  "nom-machine": "terme-2015-12-06-16-26-27-86966231261",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Micro-history"
+    ],
+    "ar": [
+      "مايكرو تاريخ"
+    ],
+    "es": [
+      "Microhistoria"
+    ],
+    "fr": [
+      "Micro-histoire"
+    ],
+    "it": [
+      "Microstoria"
+    ]
+  }
+}

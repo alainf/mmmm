@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227809",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-banques-et-services-financiers/ISO-9362/",
+  "description": "ISO 9362 code d'identification des banques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1897,
+  "identifiant-drupal-parent": 1891,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 9362 code d'identification pour les institutions financières et non financières",
+  "nom-folder": "ISO-9362",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227809",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 9362 identification code for both financial and non-financial institutions"
+    ],
+    "ar": [
+      "ISO 9362 رمز التعريف البنكي"
+    ],
+    "es": [
+      "ISO 9362 código de identificación tanto para las instituciones financieras y no financieras"
+    ],
+    "fr": [
+      "ISO 9362 code d'identification pour les institutions financières et non financières"
+    ],
+    "it": [
+      "Iso 9362 codice di identificazione per entrambe le istituzioni finanziarie e non finanziarie"
+    ]
+  }
+}

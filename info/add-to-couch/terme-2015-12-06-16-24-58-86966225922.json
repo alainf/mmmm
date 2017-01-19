@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225922",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Autres-fonds-de-placement-a-capital-variable/",
+  "description": "Description de Autres fonds de placement à capital variable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451159,
+  "identifiant-drupal-parent": 451151,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Autres fonds de placement à capital variable",
+  "nom-folder": "Autres-fonds-de-placement-a-capital-variable",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225922"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Other variable capital investment funds"
+    ],
+    "ar": [
+      "صناديق الاستثمار فى راس المال متغير الأخرى"
+    ],
+    "es": [
+      "Otros fondos de inversión con capital variable"
+    ],
+    "fr": [
+      "Autres fonds de placement à capital variable"
+    ],
+    "it": [
+      "Altri fondi di investimento con capitale variabile"
+    ]
+  }
+}

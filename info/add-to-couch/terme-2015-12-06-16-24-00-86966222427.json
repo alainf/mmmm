@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-00-86966222427",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Education/Educational-Technology/",
+  "description": "Description de Educational technology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368963,
+  "identifiant-drupal-parent": 368955,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-24-00",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Educational technology",
+  "nom-folder": "Educational-Technology",
+  "nom-machine": "terme-2015-12-06-16-24-00-86966222427",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Educational technology"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229182",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Operations-sur-biens-et-services/",
+  "description": "Description de Opérations sur biens et services",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270946,
+  "identifiant-drupal-parent": 270940,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Opérations sur biens et services",
+  "nom-folder": "Operations-sur-biens-et-services",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-53-86966229182"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Operations on goods and services"
+    ],
+    "ar": [
+      "العمليات على السلع والخدمات"
+    ],
+    "es": [
+      "Operaciones sobre bienes y servicios"
+    ],
+    "fr": [
+      "Opérations sur biens et services"
+    ],
+    "it": [
+      "Operazioni su beni e servizi"
+    ]
+  }
+}

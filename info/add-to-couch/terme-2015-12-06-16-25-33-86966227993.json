@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966227993",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-de-projet-agile/",
+  "description": "Description de Gestion de projet agile",
+  "enfants": [
+    "terme-2015-12-06-16-25-33-86966227996"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451373,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion de projet agile",
+  "nom-folder": "Gestion-de-projet-agile",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-33-86966227993"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agile project management"
+    ],
+    "ar": [
+      "إدارة مشاريع رشيقة"
+    ],
+    "es": [
+      "Gestión de proyectos ágil"
+    ],
+    "fr": [
+      "Gestion de projet agile"
+    ],
+    "it": [
+      "Gestione di progetto agile (Agile PM)"
+    ]
+  }
+}

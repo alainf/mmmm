@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966227011",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Gestion-des-ressources-numeriques/",
+  "description": "Description de Gestion des ressources numériques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451003,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Gestion des ressources numériques",
+  "nom-folder": "Gestion-des-ressources-numeriques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-16-86966227011"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Digital asset management"
+    ],
+    "ar": [
+      "إدارة الموارد الرقمية"
+    ],
+    "es": [
+      "Gestión de activos digitales"
+    ],
+    "fr": [
+      "Gestion des ressources numériques"
+    ],
+    "it": [
+      "Gestione di risorse digitali"
+    ]
+  }
+}

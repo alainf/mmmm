@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-23-46-86966221599",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Styles-de-vie/",
+  "description": "Description de Styles de vie",
+  "enfants": [
+    "terme-2015-12-06-16-23-46-86966221602",
+    "terme-2015-12-06-16-23-46-86966221604",
+    "terme-2015-12-06-16-23-46-86966221607",
+    "terme-2015-12-06-16-23-46-86966221610",
+    "terme-2015-12-06-16-23-46-86966221612"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270707,
+  "identifiant-drupal-parent": 1665,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-46",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Styles de vie",
+  "nom-folder": "Styles-de-vie",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-46-86966221599"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lifestyles"
+    ],
+    "ar": [
+      "أنماط الحياة"
+    ],
+    "es": [
+      "Estilos de vida"
+    ],
+    "fr": [
+      "Styles de vie"
+    ],
+    "it": [
+      "Stili di vita"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230956",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-halieutiques-et-aquatiques/",
+  "description": "Description de Sciences halieutiques et aquatiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-22-86966230959"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471911,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Sciences halieutiques et aquatiques",
+  "nom-folder": "Sciences-halieutiques-et-aquatiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230956"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Halieutics and aquatic science"
+    ],
+    "ar": [
+      "مصايد الأسماك وعلوم الأحياء المائية"
+    ],
+    "es": [
+      "Ciencias haliéuticas y acuáticas"
+    ],
+    "fr": [
+      "Sciences halieutiques et aquatiques"
+    ],
+    "it": [
+      "Scienze alieutiche e acquatiche"
+    ]
+  }
+}

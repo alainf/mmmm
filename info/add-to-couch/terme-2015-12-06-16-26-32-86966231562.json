@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-32-86966231562",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-de-la-medecine/",
+  "description": "Description de Philosophie de la médecine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455604,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-32",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie de la médecine",
+  "nom-folder": "Philosophie-de-la-medecine",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-32-86966231562"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of Medicine"
+    ],
+    "ar": [
+      "فلسفة الطب"
+    ],
+    "es": [
+      "Filosofía de la medicina"
+    ],
+    "fr": [
+      "Philosophie de la médecine"
+    ],
+    "it": [
+      "Filosofia della medicina"
+    ]
+  }
+}

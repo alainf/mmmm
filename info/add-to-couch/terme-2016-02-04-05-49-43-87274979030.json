@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-49-43-87274979030",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Oriya/",
+  "description": "Description de Oriya",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "or",
+  "ISO-639-2": "ori",
+  "ISO-639-3": "ori",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-49-43",
+  "moment-de-modification": "2016-02-04-05-50-48",
+  "nom": "Oriya",
+  "nom-folder": "Oriya",
+  "nom-machine": "terme-2016-02-04-05-49-43-87274979030",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Oriya",
+  "nomLangues": {
+    "en": [
+      "Odia"
+    ],
+    "ar": [
+      "الأوريا"
+    ],
+    "es": [
+      "Oriya"
+    ],
+    "fr": [
+      "Oriya"
+    ],
+    "it": [
+      "Oriya"
+    ],
+    "ru": [
+      "Ория"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229268",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Strategie-d'entreprise-(CSR)/",
+  "description": "Description de Stratégie d'entreprise (CSR)",
+  "enfants": [
+    "terme-2015-12-06-16-25-54-86966229271",
+    "terme-2015-12-06-16-25-54-86966229274",
+    "terme-2015-12-06-16-25-54-86966229277",
+    "terme-2015-12-06-16-25-54-86966229280",
+    "terme-2015-12-06-16-25-54-86966229282"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2239,
+  "identifiant-drupal-parent": 2229,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Stratégie d'entreprise (CSR)",
+  "nom-folder": "Strategie-d'entreprise-(CSR)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229268"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate strategy (CSR)"
+    ],
+    "ar": [
+      "إدارة إستراتيجية"
+    ],
+    "es": [
+      "Estrategia empresarial (RSC)"
+    ],
+    "fr": [
+      "Stratégie d'entreprise (CSR)"
+    ],
+    "it": [
+      "Strategia aziendale (RSA)"
+    ]
+  }
+}

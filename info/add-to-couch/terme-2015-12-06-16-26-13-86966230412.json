@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-13-86966230412",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-monetaire/",
+  "description": "Description de Économie monétaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1519,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-13",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie monétaire",
+  "nom-folder": "Economie-monetaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-13-86966230412"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Monetary Economics"
+    ],
+    "ar": [
+      "الاقتصاد النقدي"
+    ],
+    "es": [
+      "Economía Monetaria"
+    ],
+    "fr": [
+      "Économie monétaire"
+    ],
+    "it": [
+      "Economia monetaria"
+    ]
+  }
+}

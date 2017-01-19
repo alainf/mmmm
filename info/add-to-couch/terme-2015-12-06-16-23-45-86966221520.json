@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221520",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-visuels/Sculpture/",
+  "description": "Description de Sculpture",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270617,
+  "identifiant-drupal-parent": 270609,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Sculpture",
+  "nom-folder": "Sculpture",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-45-86966221520"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sculpture"
+    ],
+    "ar": [
+      "نحت"
+    ],
+    "es": [
+      "Escultura"
+    ],
+    "fr": [
+      "Sculpture"
+    ],
+    "it": [
+      "Scultura"
+    ]
+  }
+}

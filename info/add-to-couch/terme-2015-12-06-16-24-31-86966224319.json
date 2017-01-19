@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224319",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/Bacteriologie/",
+  "description": "Description de Bactériologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269039,
+  "identifiant-drupal-parent": 269028,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Bactériologie",
+  "nom-folder": "Bacteriologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-31-86966224319"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bacteriology"
+    ],
+    "ar": [
+      "علم الجراثيم"
+    ],
+    "es": [
+      "Bacteriología"
+    ],
+    "fr": [
+      "Bactériologie"
+    ],
+    "it": [
+      "Batteriologia"
+    ]
+  }
+}

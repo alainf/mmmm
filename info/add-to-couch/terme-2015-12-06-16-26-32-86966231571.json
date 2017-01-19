@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-32-86966231571",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-de-la-technologie/",
+  "description": "Description de Philosophie de la technologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455606,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-32",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie de la technologie",
+  "nom-folder": "Philosophie-de-la-technologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-32-86966231571"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of Technology"
+    ],
+    "ar": [
+      "فلسفة التكنولوجيا"
+    ],
+    "es": [
+      "Filosofía de la tecnología"
+    ],
+    "fr": [
+      "Philosophie de la technologie"
+    ],
+    "it": [
+      "Filosofia della Tecnologia"
+    ]
+  }
+}

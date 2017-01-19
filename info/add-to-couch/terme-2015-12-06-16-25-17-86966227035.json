@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227035",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Societe-de-l'information/Interactivite/",
+  "description": "Description de Interactivité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471925,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Interactivité",
+  "nom-folder": "Interactivite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227035"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Interactivity"
+    ],
+    "ar": [
+      "تفاعل"
+    ],
+    "es": [
+      "Interactividad"
+    ],
+    "fr": [
+      "Interactivité"
+    ],
+    "it": [
+      "Interattività"
+    ]
+  }
+}

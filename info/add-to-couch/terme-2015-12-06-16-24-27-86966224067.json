@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224067",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Fruits/",
+  "description": "Description de Fruits",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268982,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Fruits",
+  "nom-folder": "Fruits",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224067",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fruit"
+    ],
+    "ar": [
+      "الفواكه"
+    ],
+    "es": [
+      "Fruta"
+    ],
+    "fr": [
+      "Fruits"
+    ],
+    "it": [
+      "Frutta"
+    ]
+  }
+}

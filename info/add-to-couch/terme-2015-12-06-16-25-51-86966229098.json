@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229098",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-generale-(types)/Documents-comptables/Documents-courants/Journal-des-ecritures/",
+  "description": "Description de Journal des écritures",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270972,
+  "identifiant-drupal-parent": 270971,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Journal des écritures",
+  "nom-folder": "Journal-des-ecritures",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229098",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "General journal"
+    ],
+    "ar": [
+      "مجلة الكتابات"
+    ],
+    "es": [
+      "Libro diario"
+    ],
+    "fr": [
+      "Journal des écritures"
+    ],
+    "it": [
+      "Libro giornale"
+    ]
+  }
+}

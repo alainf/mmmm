@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-31-86966227917",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Analyse-des-couts/",
+  "description": "Description de Analyse des coûts",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471359,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-31",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Analyse des coûts",
+  "nom-folder": "Analyse-des-couts",
+  "nom-machine": "terme-2015-12-06-16-25-31-86966227917",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cost analysis"
+    ],
+    "ar": [
+      "تحليل التكاليف"
+    ],
+    "es": [
+      "Análisis de costos"
+    ],
+    "fr": [
+      "Analyse des coûts"
+    ],
+    "it": [
+      "Analisi dei costi"
+    ]
+  }
+}

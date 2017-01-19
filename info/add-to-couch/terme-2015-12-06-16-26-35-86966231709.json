@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-35-86966231709",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Methodes-en-psychologie/",
+  "description": "Description de Méthodes en psychologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451269,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-35",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Méthodes en psychologie",
+  "nom-folder": "Methodes-en-psychologie",
+  "nom-machine": "terme-2015-12-06-16-26-35-86966231709",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Methods in psychology"
+    ],
+    "ar": [
+      "الأساليب في علم النفس"
+    ],
+    "es": [
+      "Métodos en Psicología"
+    ],
+    "fr": [
+      "Méthodes en psychologie"
+    ],
+    "it": [
+      "Metodi in psicologia"
+    ]
+  }
+}

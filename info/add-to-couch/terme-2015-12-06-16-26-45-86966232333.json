@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232333",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Exploration-de-donnees-sociales/",
+  "description": "Description de Exploration de données sociales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472022,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Exploration de données sociales",
+  "nom-folder": "Exploration-de-donnees-sociales",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232333"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social data mining"
+    ],
+    "ar": [
+      "تنقيب في البيانات الإجتماعية"
+    ],
+    "es": [
+      "Minería de datos sociales"
+    ],
+    "fr": [
+      "Exploration de données sociales"
+    ],
+    "it": [
+      "Mineraria di dati sociali"
+    ]
+  }
+}

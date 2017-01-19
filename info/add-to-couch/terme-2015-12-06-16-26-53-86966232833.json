@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232833",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Liberalisme-(ideologie)/Paleo-libertarianisme/",
+  "description": "Description de Paléo-libertarianisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1134,
+  "identifiant-drupal-parent": 1115,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Paléo-libertarianisme",
+  "nom-folder": "Paleo-libertarianisme",
+  "nom-machine": "terme-2015-12-06-16-26-53-86966232833",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Paleolibertarianism"
+    ],
+    "ar": [
+      "بالوليبيرترينيسم"
+    ],
+    "es": [
+      "Paleolibertarismo"
+    ],
+    "fr": [
+      "Paléo-libertarianisme"
+    ],
+    "it": [
+      "Paleolibertarianismo"
+    ]
+  }
+}

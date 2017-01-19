@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225359",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Minorites-(sciences-sociales)/",
+  "description": "Description de Minorités (sciences sociales)",
+  "enfants": [
+    "terme-2015-12-06-16-24-49-86966225362"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 470184,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Minorités (sciences sociales)",
+  "nom-folder": "Minorites-(sciences-sociales)",
+  "nom-machine": "terme-2015-12-06-16-24-49-86966225359",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Minorities (social science)"
+    ],
+    "ar": [
+      "الاقليات (العلوم الإجتماعية)"
+    ],
+    "es": [
+      "Minorías (Ciencias Sociales)"
+    ],
+    "fr": [
+      "Minorités (sciences sociales)"
+    ],
+    "it": [
+      "Minoranze (scienze sociali)"
+    ]
+  }
+}

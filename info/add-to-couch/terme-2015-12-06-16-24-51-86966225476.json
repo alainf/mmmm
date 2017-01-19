@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-51-86966225476",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-public/Droit-constitutionnel/Constitution-francaise/",
+  "description": "Description de Constitution française",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451189,
+  "identifiant-drupal-parent": 269098,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-51",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Constitution française",
+  "nom-folder": "Constitution-francaise",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-51-86966225476"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "French Constitution"
+    ],
+    "ar": [
+      "الدستور الفرنسي"
+    ],
+    "es": [
+      "Constitución francesa"
+    ],
+    "fr": [
+      "Constitution française"
+    ],
+    "it": [
+      "Costituzione francese"
+    ]
+  }
+}

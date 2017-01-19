@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-34-86966224449",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Art-moderne/Cubisme/",
+  "description": "Description de Cubisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466854,
+  "identifiant-drupal-parent": 466845,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-34",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Cubisme",
+  "nom-folder": "Cubisme",
+  "nom-machine": "terme-2015-12-06-16-24-34-86966224449",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cubism"
+    ],
+    "ar": [
+      "مدرسة تكعيبية"
+    ],
+    "es": [
+      "Cubismo"
+    ],
+    "fr": [
+      "Cubisme"
+    ],
+    "it": [
+      "Cubismo"
+    ]
+  }
+}

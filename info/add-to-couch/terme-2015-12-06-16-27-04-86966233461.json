@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233461",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Education/Decrochage-scolaire/",
+  "description": "Description de Décrochage scolaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1277,
+  "identifiant-drupal-parent": 1255,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Décrochage scolaire",
+  "nom-folder": "Decrochage-scolaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-04-86966233461"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Dropout"
+    ],
+    "ar": [
+      "إنقطاع عن التمدرس"
+    ],
+    "es": [
+      "Deserción escolar"
+    ],
+    "fr": [
+      "Décrochage scolaire"
+    ],
+    "it": [
+      "Abbandono scolastico"
+    ]
+  }
+}

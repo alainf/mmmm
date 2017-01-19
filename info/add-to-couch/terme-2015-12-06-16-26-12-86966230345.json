@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230345",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-des-institutions/",
+  "description": "Description de Économie des institutions",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1504,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie des institutions",
+  "nom-folder": "Economie-des-institutions",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-12-86966230345"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "economics of institutions"
+    ],
+    "ar": [
+      "الاقتصاديات المؤسسية"
+    ],
+    "es": [
+      "Economía de las instituciones"
+    ],
+    "fr": [
+      "Économie des institutions"
+    ],
+    "it": [
+      "Economia delle istituzioni"
+    ]
+  }
+}

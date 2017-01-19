@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220872",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Processus-industriels/Gestion-de-la-qualite/",
+  "description": "Description de Gestion de la qualité",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270575,
+  "identifiant-drupal-parent": 270584,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Gestion de la qualité",
+  "nom-folder": "Gestion-de-la-qualite",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220872"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Quality management"
+    ],
+    "ar": [
+      "إدارة الجودة"
+    ],
+    "es": [
+      "Gestión de la calidad"
+    ],
+    "fr": [
+      "Gestion de la qualité"
+    ],
+    "it": [
+      "Gestione della qualità"
+    ],
+    "ru": [
+      "Управление качеством"
+    ]
+  }
+}

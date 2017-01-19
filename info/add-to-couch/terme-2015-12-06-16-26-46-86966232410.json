@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232410",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Observation-participante/",
+  "description": "Description de Observation participante",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1228,
+  "identifiant-drupal-parent": 1220,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Observation participante",
+  "nom-folder": "Observation-participante",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232410"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Participant observation"
+    ],
+    "ar": [
+      "الملاحظة بالمشاركة"
+    ],
+    "es": [
+      "Observación participante"
+    ],
+    "fr": [
+      "Observation participante"
+    ],
+    "it": [
+      "osservazione partecipante"
+    ]
+  }
+}

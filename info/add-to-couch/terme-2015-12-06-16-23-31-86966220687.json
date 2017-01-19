@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220687",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industrie-aeronautique-et-aerospatiale/",
+  "description": "Description de Industrie aéronautique et aérospatiale",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270571,
+  "identifiant-drupal-parent": 270556,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Industrie aéronautique et aérospatiale",
+  "nom-folder": "Industrie-aeronautique-et-aerospatiale",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220687"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aicraft and aerospace industry"
+    ],
+    "ar": [
+      "صناعة الطيران و ايروسباسيال"
+    ],
+    "es": [
+      "Industria aeronáutica y aeroespacial"
+    ],
+    "fr": [
+      "Industrie aéronautique et aérospatiale"
+    ],
+    "it": [
+      "Industria aeronautica ed aerospaziale"
+    ],
+    "ru": [
+      "Аэронавтике и авиационно-космической промышленности"
+    ]
+  }
+}

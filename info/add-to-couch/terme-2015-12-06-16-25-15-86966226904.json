@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-15-86966226904",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Journalisme-citoyen/",
+  "description": "Description de Journalisme citoyen",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270732,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-15",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Journalisme citoyen",
+  "nom-folder": "Journalisme-citoyen",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-15-86966226904"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Citizen journalism"
+    ],
+    "ar": [
+      "صحافة مواطنة"
+    ],
+    "es": [
+      "Periodismo ciudadano"
+    ],
+    "fr": [
+      "Journalisme citoyen"
+    ],
+    "it": [
+      "Giornalismo cittadino"
+    ]
+  }
+}

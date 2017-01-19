@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224166",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Droit-du-travail-des-pecheurs/",
+  "description": "Description de Droit du travail des pêcheurs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269089,
+  "identifiant-drupal-parent": 939,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Droit du travail des pêcheurs",
+  "nom-folder": "Droit-du-travail-des-pecheurs",
+  "nom-machine": "terme-2015-12-06-16-24-29-86966224166",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fishing labor laws"
+    ],
+    "ar": [
+      "قانون العمل الصيادين البحريين"
+    ],
+    "es": [
+      "Derecho del trabajo de los pescadores"
+    ],
+    "fr": [
+      "Droit du travail des pêcheurs"
+    ],
+    "it": [
+      "Diritto del lavoro dei pescatori"
+    ]
+  }
+}

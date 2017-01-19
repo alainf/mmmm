@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230563",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Fiscalite-et-droit-fiscal/Fiscalite-immobiliere/",
+  "description": "Description de Fiscalité immobilière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272253,
+  "identifiant-drupal-parent": 272236,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Fiscalité immobilière",
+  "nom-folder": "Fiscalite-immobiliere",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230563"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Property tax"
+    ],
+    "ar": [
+      "ضرائب العقارية"
+    ],
+    "es": [
+      "Fiscalidad Inmobiliaria"
+    ],
+    "fr": [
+      "Fiscalité immobilière"
+    ],
+    "it": [
+      "Fiscalità immobiliare"
+    ]
+  }
+}

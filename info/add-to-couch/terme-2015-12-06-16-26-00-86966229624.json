@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229624",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Gestion-des-ventes/",
+  "description": "Description de Gestion des ventes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2058,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Gestion des ventes",
+  "nom-folder": "Gestion-des-ventes",
+  "nom-machine": "terme-2015-12-06-16-26-00-86966229624",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sales Management"
+    ],
+    "ar": [
+      "إدارة المبيعات"
+    ],
+    "es": [
+      "Gestión de las ventas"
+    ],
+    "fr": [
+      "Gestion des ventes"
+    ],
+    "it": [
+      "Gestione delle vendite"
+    ]
+  }
+}

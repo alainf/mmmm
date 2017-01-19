@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229494",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theories-de-l'apprentissage/",
+  "description": "Description de Théories de l'apprentissage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2287,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théories de l'apprentissage",
+  "nom-folder": "Theories-de-l'apprentissage",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229494"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Learning theories"
+    ],
+    "ar": [
+      "نظرية التعلم"
+    ],
+    "es": [
+      "Teorías del aprendizaje"
+    ],
+    "fr": [
+      "Théories de l'apprentissage"
+    ],
+    "it": [
+      "Teorie dell'apprendimento"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-23-27-86966220455",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/periodes/mois/",
+  "description": "Description de Mois",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368260,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-27",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Mois",
+  "nom-folder": "mois",
+  "nom-machine": "terme-2015-12-06-16-23-27-86966220455",
+  "sous-type": "periodes",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Monthly"
+    ],
+    "ar": [
+      "شهريا"
+    ],
+    "es": [
+      "Mes"
+    ],
+    "fr": [
+      "Mois"
+    ],
+    "it": [
+      "Mese"
+    ]
+  }
+}

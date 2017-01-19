@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233221",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Epistemologie/Epistemologie-du-capitalisme/",
+  "description": "Description de Épistémologie du capitalisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471912,
+  "identifiant-drupal-parent": 1201,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Épistémologie du capitalisme",
+  "nom-folder": "Epistemologie-du-capitalisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-00-86966233221"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Epistemology of capitalism"
+    ],
+    "ar": [
+      "نظرية المعرفة للرأسمالية"
+    ],
+    "es": [
+      "Epistemología del capitalismo"
+    ],
+    "fr": [
+      "Épistémologie du capitalisme"
+    ],
+    "it": [
+      "Epistemologia del capitalismo"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228370",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gouvernance-economique-et-financiere/",
+  "description": "Description de Gouvernance économique et financière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472199,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gouvernance économique et financière",
+  "nom-folder": "Gouvernance-economique-et-financiere",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-39-86966228370"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial and economic governance"
+    ],
+    "ar": [
+      "حكامة الإقتصادية و المالية"
+    ],
+    "es": [
+      "Gobernanza económica y financiera"
+    ],
+    "fr": [
+      "Gouvernance économique et financière"
+    ],
+    "it": [
+      "Governance economica e finanziaria"
+    ]
+  }
+}

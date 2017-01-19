@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226150",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/",
+  "custom-about": "terme-2015-12-06-16-25-02-86966226150",
+  "description": "Description de Langage et linguistique",
+  "enfants": [
+    "terme-2015-12-06-16-25-02-86966226154",
+    "terme-2015-12-06-16-25-02-86966226157",
+    "terme-2015-12-06-16-25-03-86966226193",
+    "terme-2015-12-06-16-25-04-86966226250",
+    "terme-2015-12-06-16-25-04-86966226253"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 880,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-12-21-11-54-46",
+  "nom": "Langage et linguistique",
+  "nom-folder": "Langage-et-linguistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-02-86966226150"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Language and Linguistics"
+    ],
+    "ar": [
+      "اللغة واللغوية"
+    ],
+    "es": [
+      "Lenguaje y lingüística"
+    ],
+    "fr": [
+      "Langage et linguistique"
+    ],
+    "it": [
+      "Linguaggio e linguistica"
+    ]
+  }
+}

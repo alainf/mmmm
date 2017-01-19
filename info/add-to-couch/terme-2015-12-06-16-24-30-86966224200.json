@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-30-86966224200",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Peche-professionnelle-ou-commerciale/",
+  "description": "Description de Pêche professionnelle ou commerciale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269072,
+  "identifiant-drupal-parent": 939,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-30",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Pêche professionnelle ou commerciale",
+  "nom-folder": "Peche-professionnelle-ou-commerciale",
+  "nom-machine": "terme-2015-12-06-16-24-30-86966224200",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Professional or commercial fishing"
+    ],
+    "ar": [
+      "الصيد مهني أو تجاري"
+    ],
+    "es": [
+      "Pesca profesional o comercial"
+    ],
+    "fr": [
+      "Pêche professionnelle ou commerciale"
+    ],
+    "it": [
+      "Pesca professionale o commerciale"
+    ]
+  }
+}

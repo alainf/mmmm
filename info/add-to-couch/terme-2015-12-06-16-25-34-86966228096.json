@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228096",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Phases-de-projets/Phase-preliminaire/Etude-de-faisabilite/",
+  "description": "Description de Étude de faisabilité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1987,
+  "identifiant-drupal-parent": 1986,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Étude de faisabilité",
+  "nom-folder": "Etude-de-faisabilite",
+  "nom-machine": "terme-2015-12-06-16-25-34-86966228096",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Feasibility study"
+    ],
+    "ar": [
+      "دراسة الجدوى"
+    ],
+    "es": [
+      "Estudio de factibilidad"
+    ],
+    "fr": [
+      "Étude de faisabilité"
+    ],
+    "it": [
+      "Studio di fattibilità"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-12-86966233965",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/exposition-foire-professionnelle/",
+  "description": "Description de Exposition foire professionnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 379163,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Exposition foire professionnelle",
+  "nom-folder": "exposition-foire-professionnelle",
+  "nom-machine": "terme-2015-12-06-16-27-12-86966233965",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Exhibition, trade fair"
+    ],
+    "es": [
+      "Exposición, feria profesional"
+    ],
+    "fr": [
+      "Exposition foire professionnelle"
+    ],
+    "it": [
+      "Esposizione, fiera campionaria"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-52-86966221966",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Astronomy-Astrophysics-Space-Science/Meteors/",
+  "description": "Description de Meteors",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368804,
+  "identifiant-drupal-parent": 368799,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-52",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Meteors",
+  "nom-folder": "Meteors",
+  "nom-machine": "terme-2015-12-06-16-23-52-86966221966",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Meteors"
+    ]
+  }
+}

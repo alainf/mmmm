@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232755",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Anarchisme-(ideologie)/Mouvement-autonome/",
+  "description": "Description de Mouvement autonome",
+  "enfants": [
+    "terme-2015-12-06-16-26-52-86966232758"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1122,
+  "identifiant-drupal-parent": 1112,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Mouvement autonome",
+  "nom-folder": "Mouvement-autonome",
+  "nom-machine": "terme-2015-12-06-16-26-52-86966232755",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Autonomism"
+    ],
+    "ar": [
+      "حركة الحكم الذاتي"
+    ],
+    "es": [
+      "Autonomismo"
+    ],
+    "fr": [
+      "Mouvement autonome"
+    ],
+    "it": [
+      "Autonomia operaia"
+    ]
+  }
+}

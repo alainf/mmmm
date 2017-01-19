@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232449",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Redaction-de-these/These_-sources-d'information/",
+  "description": "Description de Thèse: sources d'information",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472060,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Thèse: sources d'information",
+  "nom-folder": "These_-sources-d'information",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232449"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Thesis: sources of information"
+    ],
+    "ar": [
+      "الأطروحة: مصادر المعلومات"
+    ],
+    "es": [
+      "Tesis: fuentes de información"
+    ],
+    "fr": [
+      "Thèse: sources d'information"
+    ],
+    "it": [
+      "Tesi: fonti di informazione"
+    ]
+  }
+}

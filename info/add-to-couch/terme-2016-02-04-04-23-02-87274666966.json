@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-23-02-87274666966",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Ecossais/",
+  "description": "Description de Gaélique écossais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "gd",
+  "ISO-639-2": "gla",
+  "ISO-639-3": "gla",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-23-02",
+  "moment-de-modification": "2016-02-04-04-24-58",
+  "nom": "Gaélique écossais",
+  "nom-folder": "Ecossais",
+  "nom-machine": "terme-2016-02-04-04-23-02-87274666966",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Ga%C3%A9lique_%C3%A9cossais",
+  "nomLangues": {
+    "en": [
+      "Scottish gaelic"
+    ],
+    "ar": [
+      "غيلية اسكتلندية"
+    ],
+    "es": [
+      "Gaélico escocés"
+    ],
+    "fr": [
+      "Gaélique écossais"
+    ],
+    "it": [
+      "Gaelico scozzese"
+    ],
+    "ru": [
+      "Кельтский Шотландский"
+    ]
+  }
+}

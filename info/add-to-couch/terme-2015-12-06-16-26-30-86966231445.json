@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-30-86966231445",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-pratique/Pharmacie/",
+  "description": "Description de Pharmacie",
+  "enfants": [
+    "terme-2015-12-06-16-26-30-86966231449"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1426,
+  "identifiant-drupal-parent": 1414,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-30",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Pharmacie",
+  "nom-folder": "Pharmacie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-30-86966231445"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pharmacy"
+    ],
+    "ar": [
+      "صيدلة"
+    ],
+    "es": [
+      "Farmacia"
+    ],
+    "fr": [
+      "Pharmacie"
+    ],
+    "it": [
+      "farmacia"
+    ]
+  }
+}

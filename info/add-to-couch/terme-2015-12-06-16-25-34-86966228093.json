@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228093",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Phases-de-projets/Phase-preliminaire/",
+  "description": "Description de Phase préliminaire",
+  "enfants": [
+    "terme-2015-12-06-16-25-34-86966228096",
+    "terme-2015-12-06-16-25-34-86966228098"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1986,
+  "identifiant-drupal-parent": 1983,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Phase préliminaire",
+  "nom-folder": "Phase-preliminaire",
+  "nom-machine": "terme-2015-12-06-16-25-34-86966228093",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Preliminary stage"
+    ],
+    "ar": [
+      "المرحلة الأولية"
+    ],
+    "es": [
+      "Fase preliminar"
+    ],
+    "fr": [
+      "Phase préliminaire"
+    ],
+    "it": [
+      "Fase preliminare"
+    ]
+  }
+}

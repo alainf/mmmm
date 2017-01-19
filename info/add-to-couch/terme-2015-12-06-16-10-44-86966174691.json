@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174691",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Norvegien/",
+  "description": "Description de Norvégien",
+  "enfants": [
+    "terme-2015-12-06-16-10-44-86966174693",
+    "terme-2015-12-06-16-10-44-86966174695",
+    "terme-2015-12-06-16-10-44-86966174697",
+    "terme-2015-12-06-16-10-44-86966174700",
+    "terme-2015-12-06-16-10-45-86966174702",
+    "terme-2015-12-06-16-10-45-86966174704"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369384,
+  "ISO-639-1": "nb",
+  "ISO-639-2": "nob",
+  "ISO-639-3": "nob",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2016-02-04-05-37-04",
+  "nom": "Norvégien",
+  "nom-folder": "Norvegien",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174691",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Bokm%C3%A5l",
+  "nomLangues": {
+    "en": [
+      "Norwegian"
+    ],
+    "ar": [
+      "نرويجية"
+    ],
+    "es": [
+      "Noruego"
+    ],
+    "fr": [
+      "Norvégien"
+    ],
+    "it": [
+      "Norvegese"
+    ],
+    "ru": [
+      "Норвежский"
+    ]
+  }
+}

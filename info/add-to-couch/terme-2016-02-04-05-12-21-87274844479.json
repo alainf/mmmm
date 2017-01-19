@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-12-21-87274844479",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Cornique/",
+  "description": "Description de Cornique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "kw",
+  "ISO-639-2": "cor",
+  "ISO-639-3": "cor",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-12-21",
+  "moment-de-modification": "2016-02-04-05-13-00",
+  "nom": "Cornique",
+  "nom-folder": "Cornique",
+  "nom-machine": "terme-2016-02-04-05-12-21-87274844479",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Cornique",
+  "nomLangues": {
+    "en": [
+      "Cornish"
+    ],
+    "ar": [
+      "كورنية"
+    ],
+    "es": [
+      "Córnico"
+    ],
+    "fr": [
+      "Cornique"
+    ],
+    "it": [
+      "Cornico"
+    ],
+    "ru": [
+      "Корнский"
+    ]
+  }
+}

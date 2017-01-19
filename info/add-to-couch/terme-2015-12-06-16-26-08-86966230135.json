@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-08-86966230135",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/Extraction-de-pierre/",
+  "description": "Description de Extraction de pierre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451078,
+  "identifiant-drupal-parent": 451077,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de pierre",
+  "nom-folder": "Extraction-de-pierre",
+  "nom-machine": "terme-2015-12-06-16-26-08-86966230135",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Stone mining"
+    ],
+    "ar": [
+      "إستخراج الحجر"
+    ],
+    "es": [
+      "Minería de piedra"
+    ],
+    "fr": [
+      "Extraction de pierre"
+    ],
+    "it": [
+      "Estrazione di pietra"
+    ]
+  }
+}

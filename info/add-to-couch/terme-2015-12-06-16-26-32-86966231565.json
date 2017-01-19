@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-32-86966231565",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-de-la-politique/",
+  "description": "Description de Philosophie de la politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472058,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-32",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie de la politique",
+  "nom-folder": "Philosophie-de-la-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-32-86966231565"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of politics"
+    ],
+    "ar": [
+      "فلسفة السياسة"
+    ],
+    "es": [
+      "Filosofía de política"
+    ],
+    "fr": [
+      "Philosophie de la politique"
+    ],
+    "it": [
+      "Filosofia della politica"
+    ]
+  }
+}

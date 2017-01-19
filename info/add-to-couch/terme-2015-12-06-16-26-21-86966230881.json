@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-21-86966230881",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-physiques/Mecanique-des-fluides/",
+  "description": "Description de Mécanique des fluides",
+  "enfants": [
+    "terme-2015-12-06-16-26-21-86966230884"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270460,
+  "identifiant-drupal-parent": 270456,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-21",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Mécanique des fluides",
+  "nom-folder": "Mecanique-des-fluides",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-21-86966230881"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fluid mechanics"
+    ],
+    "ar": [
+      "ميكانيكا الموائع"
+    ],
+    "es": [
+      "Mecánica de fluidos"
+    ],
+    "fr": [
+      "Mécanique des fluides"
+    ],
+    "it": [
+      "Meccanica dei fluidi"
+    ]
+  }
+}

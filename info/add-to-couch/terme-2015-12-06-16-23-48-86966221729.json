@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-23-48-86966221729",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Ciencias-de-la-salud/",
+  "description": "Description de Ciencias de la salud",
+  "enfants": [
+    "terme-2015-12-06-16-23-48-86966221732",
+    "terme-2015-12-06-16-23-48-86966221735",
+    "terme-2015-12-06-16-23-48-86966221738",
+    "terme-2015-12-06-16-23-49-86966221740",
+    "terme-2015-12-06-16-23-49-86966221744",
+    "terme-2015-12-06-16-23-49-86966221746",
+    "terme-2015-12-06-16-23-49-86966221749",
+    "terme-2015-12-06-16-23-49-86966221752",
+    "terme-2015-12-06-16-23-49-86966221755"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380838,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-48",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Ciencias de la salud",
+  "nom-folder": "Ciencias-de-la-salud",
+  "nom-machine": "terme-2015-12-06-16-23-48-86966221729",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Ciencias de la salud"
+    ]
+  }
+}

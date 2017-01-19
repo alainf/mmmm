@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174660",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Micmac/",
+  "description": "The ethnonym has traditionally been spelled Micmac in English, but the people themselves have used different spellings: Mi’kmaq (singular Mi’kmaw) in Prince Edward Island, Nova Scotia and Newfoundland, Miigmaq (Miigmao) in New Brunswick, Mi’gmaq by the Listuguj Council in Quebec, and Mìgmaq (Mìgmaw) in some native literature.[14]",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317629,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2016-02-27-12-52-52",
+  "nom": "Micmac",
+  "nom-folder": "Micmac",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174660",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mi'kmaq"
+    ],
+    "ar": [
+      "ميغماكية"
+    ],
+    "es": [
+      "Micmac"
+    ],
+    "fr": [
+      "Micmac"
+    ],
+    "it": [
+      "Micmac"
+    ],
+    "ru": [
+      "Микмаки"
+    ]
+  }
+}

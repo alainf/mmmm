@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226546",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Energies-alternatives/Energie-eolienne/",
+  "description": "Description de Énergie éolienne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272405,
+  "identifiant-drupal-parent": 270879,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Énergie éolienne",
+  "nom-folder": "Energie-eolienne",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226546"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wind power"
+    ],
+    "ar": [
+      "طاقة رياح"
+    ],
+    "es": [
+      "Energía eólica"
+    ],
+    "fr": [
+      "Énergie éolienne"
+    ],
+    "it": [
+      "Energia eolica"
+    ]
+  }
+}

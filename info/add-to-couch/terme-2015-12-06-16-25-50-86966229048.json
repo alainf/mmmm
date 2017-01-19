@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229048",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/",
+  "description": "Description de Types de comptabilité",
+  "enfants": [
+    "terme-2015-12-06-16-25-50-86966229051",
+    "terme-2015-12-06-16-25-51-86966229080",
+    "terme-2015-12-06-16-25-51-86966229083",
+    "terme-2015-12-06-16-25-51-86966229086",
+    "terme-2015-12-06-16-25-52-86966229125",
+    "terme-2015-12-06-16-25-53-86966229199",
+    "terme-2015-12-06-16-25-53-86966229215"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270934,
+  "identifiant-drupal-parent": 270916,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Types de comptabilité",
+  "nom-folder": "Types-de-comptabilite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-50-86966229048"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Types of accounting"
+    ],
+    "ar": [
+      "أنواع المحاسبة"
+    ],
+    "es": [
+      "Tipos de contabilidad"
+    ],
+    "fr": [
+      "Types de comptabilité"
+    ],
+    "it": [
+      "Tipi di contabilità"
+    ]
+  }
+}

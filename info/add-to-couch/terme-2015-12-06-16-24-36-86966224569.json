@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224569",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-visuels/",
+  "description": "Description de Arts visuels",
+  "enfants": [
+    "terme-2015-12-06-16-24-36-86966224572"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466873,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Arts visuels",
+  "nom-folder": "Arts-visuels",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-36-86966224569"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Visual arts"
+    ],
+    "ar": [
+      "فنون البصرية"
+    ],
+    "es": [
+      "Artes visuales"
+    ],
+    "fr": [
+      "Arts visuels"
+    ],
+    "it": [
+      "arti visive"
+    ]
+  }
+}

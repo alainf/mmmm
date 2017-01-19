@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-15-86966234130",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/quotidien/",
+  "description": "Description de Quotidien",
+  "enfants": [
+    "terme-2015-12-06-16-27-15-86966234132",
+    "terme-2015-12-06-16-27-15-86966234136"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369474,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-15",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Quotidien",
+  "nom-folder": "quotidien",
+  "nom-machine": "terme-2015-12-06-16-27-15-86966234130",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Daily"
+    ],
+    "es": [
+      "Diario"
+    ],
+    "fr": [
+      "Quotidien"
+    ],
+    "it": [
+      "Quotidiano"
+    ]
+  }
+}

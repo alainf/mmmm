@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-52-31-87274989078",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Pendjabi/",
+  "description": "Description de Pendjabi",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "pa",
+  "ISO-639-2": "pan",
+  "ISO-639-3": "pan",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-52-31",
+  "moment-de-modification": "2016-02-04-05-53-06",
+  "nom": "Pendjabi",
+  "nom-folder": "Pendjabi",
+  "nom-machine": "terme-2016-02-04-05-52-31-87274989078",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Pendjabi",
+  "nomLangues": {
+    "en": [
+      "Punjabi"
+    ],
+    "ar": [
+      "بنجابية"
+    ],
+    "es": [
+      "Panyabí"
+    ],
+    "fr": [
+      "Pendjabi"
+    ],
+    "it": [
+      "Punjabi"
+    ],
+    "ru": [
+      "Панджаби"
+    ]
+  }
+}

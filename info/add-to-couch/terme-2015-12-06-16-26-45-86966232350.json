@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232350",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-de-contenu/",
+  "description": "Description de Analyse de contenu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1223,
+  "identifiant-drupal-parent": 1220,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Analyse de contenu",
+  "nom-folder": "Analyse-de-contenu",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232350"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Content analysis"
+    ],
+    "ar": [
+      "تحليل محتوى"
+    ],
+    "es": [
+      "Análisis de contenidos"
+    ],
+    "fr": [
+      "Analyse de contenu"
+    ],
+    "it": [
+      "analisi di contenuto"
+    ]
+  }
+}

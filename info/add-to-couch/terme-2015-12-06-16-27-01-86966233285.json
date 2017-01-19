@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233285",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Enseignement-de-la-sociologie/",
+  "description": "Description de Enseignement de la sociologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1186,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Enseignement de la sociologie",
+  "nom-folder": "Enseignement-de-la-sociologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-01-86966233285"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching Sociology"
+    ],
+    "ar": [
+      "تدريس علم الإجتماع"
+    ],
+    "es": [
+      "Enseñanza de la sociología"
+    ],
+    "fr": [
+      "Enseignement de la sociologie"
+    ],
+    "it": [
+      "insegnamento della sociologia"
+    ]
+  }
+}

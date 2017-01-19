@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224327",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/Comportement-animalier-(veterinaire)/",
+  "description": "Description de Comportement animalier (vétérinaire)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269029,
+  "identifiant-drupal-parent": 269028,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Comportement animalier (vétérinaire)",
+  "nom-folder": "Comportement-animalier-(veterinaire)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-32-86966224327"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Animal behavior"
+    ],
+    "ar": [
+      "سلوك الحيوان (البيطرية)"
+    ],
+    "es": [
+      "Comporatamiento animal"
+    ],
+    "fr": [
+      "Comportement animalier (vétérinaire)"
+    ],
+    "it": [
+      "Comportamento animale (veterinario)"
+    ]
+  }
+}

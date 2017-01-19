@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-06-86966229984",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Theorie-d'uniformite-des-apprentissages/",
+  "description": "Description de Théorie d'uniformité des apprentissages",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472397,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-06",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théorie d'uniformité des apprentissages",
+  "nom-folder": "Theorie-d'uniformite-des-apprentissages",
+  "nom-machine": "terme-2015-12-06-16-26-06-86966229984",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theory of consistency of learning"
+    ],
+    "ar": [
+      "نظرية ا تساق فى التعليم"
+    ],
+    "es": [
+      "Teoría de la uniformidad del aprendizaje"
+    ],
+    "fr": [
+      "Théorie d'uniformité des apprentissages"
+    ],
+    "it": [
+      "Teoria della consistenza di apprendimento"
+    ]
+  }
+}

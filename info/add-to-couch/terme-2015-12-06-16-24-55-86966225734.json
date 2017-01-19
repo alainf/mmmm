@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225734",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Globalisation-des-institutions/Constitution-de-fondations/",
+  "description": "Description de Constitution de fondations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472217,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Constitution de fondations",
+  "nom-folder": "Constitution-de-fondations",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225734"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Establishment of foundations"
+    ],
+    "ar": [
+      "دسترة المؤسسات"
+    ],
+    "es": [
+      "Constitución de fundaciones"
+    ],
+    "fr": [
+      "Constitution de fondations"
+    ],
+    "it": [
+      "Costituzione di fondazioni"
+    ]
+  }
+}

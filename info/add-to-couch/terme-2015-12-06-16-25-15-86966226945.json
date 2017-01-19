@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-15-86966226945",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Techniques-d'ecriture/",
+  "description": "Description de Techniques d'écriture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465732,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-15",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Techniques d'écriture",
+  "nom-folder": "Techniques-d'ecriture",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-15-86966226945"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Writing techniques"
+    ],
+    "ar": [
+      "تقنيات الكتابة"
+    ],
+    "es": [
+      "Técnicas de escritura"
+    ],
+    "fr": [
+      "Techniques d'écriture"
+    ],
+    "it": [
+      "Tecniche di scrittura"
+    ]
+  }
+}

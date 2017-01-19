@@ -1,0 +1,27 @@
+{
+  "_id": "terme-2016-02-29-04-23-49-87404269781",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/ecrire-a-qui/",
+  "description": "Description de Écrire à qui",
+  "enfants": [
+    "terme-2016-02-29-04-25-21-87404275308"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-23-49",
+  "moment-de-modification": "2016-03-06-02-04-08",
+  "nom": "Écrire à qui",
+  "nom-folder": "ecrire-a-qui",
+  "nom-machine": "terme-2016-02-29-04-23-49-87404269781",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Who to write to"
+    ],
+    "fr": [
+      "Écrire à qui"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220864",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Processus-industriels/Conception/",
+  "description": "Description de Conception",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270585,
+  "identifiant-drupal-parent": 270584,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Conception",
+  "nom-folder": "Conception",
+  "nom-machine": "terme-2015-12-06-16-23-34-86966220864",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "New product development"
+    ],
+    "ar": [
+      "هندسة الإنتاج"
+    ],
+    "es": [
+      "Desarrollo de un nuevo producto"
+    ],
+    "fr": [
+      "Conception"
+    ],
+    "it": [
+      "Sviluppo di nuovi prodotti"
+    ],
+    "ru": [
+      "Разработка нового продукта"
+    ]
+  }
+}

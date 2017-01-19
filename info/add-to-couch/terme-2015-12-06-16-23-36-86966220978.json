@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966220978",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Debats/Laicite/",
+  "description": "Description de Laicité",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1720,
+  "identifiant-drupal-parent": 1671,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Laicité",
+  "nom-folder": "Laicite",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966220978"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Secularism"
+    ],
+    "ar": [
+      "علمانية"
+    ],
+    "es": [
+      "Secularismo"
+    ],
+    "fr": [
+      "Laicité"
+    ],
+    "it": [
+      "Secolarismo"
+    ],
+    "ru": [
+      "Секуляризм"
+    ]
+  }
+}

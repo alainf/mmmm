@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-34-86966231659",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Communication-non-verbale/Kinesique/",
+  "description": "Description de Kinésique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469444,
+  "identifiant-drupal-parent": 469442,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-34",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Kinésique",
+  "nom-folder": "Kinesique",
+  "nom-machine": "terme-2015-12-06-16-26-34-86966231659",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Kinesics"
+    ],
+    "ar": [
+      "دراسات الحركات لجسم الإنسان"
+    ],
+    "es": [
+      "Kinésica"
+    ],
+    "fr": [
+      "Kinésique"
+    ],
+    "it": [
+      "Cinesica"
+    ]
+  }
+}

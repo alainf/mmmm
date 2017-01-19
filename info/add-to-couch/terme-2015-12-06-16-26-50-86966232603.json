@@ -1,0 +1,61 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232603",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/",
+  "description": "Description de Sciences politiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-50-86966232606",
+    "terme-2015-12-06-16-26-50-86966232638",
+    "terme-2015-12-06-16-26-51-86966232674",
+    "terme-2015-12-06-16-26-51-86966232677",
+    "terme-2015-12-06-16-26-51-86966232680",
+    "terme-2015-12-06-16-26-51-86966232715",
+    "terme-2015-12-06-16-26-51-86966232718",
+    "terme-2015-12-06-16-26-52-86966232721",
+    "terme-2015-12-06-16-26-52-86966232723",
+    "terme-2015-12-06-16-26-52-86966232726",
+    "terme-2015-12-06-16-26-52-86966232730",
+    "terme-2015-12-06-16-26-52-86966232732",
+    "terme-2015-12-06-16-26-52-86966232735",
+    "terme-2015-12-06-16-26-55-86966232926",
+    "terme-2015-12-06-16-26-55-86966232935",
+    "terme-2015-12-06-16-26-55-86966232942",
+    "terme-2015-12-06-16-26-55-86966232945",
+    "terme-2015-12-06-16-26-58-86966233083",
+    "terme-2015-12-06-16-26-58-86966233090",
+    "terme-2015-12-06-16-26-58-86966233093",
+    "terme-2015-12-06-16-26-58-86966233116",
+    "terme-2015-12-06-16-26-59-86966233148"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1004,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Sciences politiques",
+  "nom-folder": "Sciences-politiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232603"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political science"
+    ],
+    "ar": [
+      "العلوم السياسية"
+    ],
+    "es": [
+      "Ciencias políticas"
+    ],
+    "fr": [
+      "Sciences politiques"
+    ],
+    "it": [
+      "scienze politiche"
+    ]
+  }
+}

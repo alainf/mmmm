@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-05-02-17-87274808249",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Kuanyama/",
+  "description": "Description de Kuanyama",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "kj",
+  "ISO-639-2": "kua",
+  "ISO-639-3": "kua",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-02-17",
+  "moment-de-modification": "2016-02-04-05-03-03",
+  "nom": "Kuanyama",
+  "nom-folder": "Kuanyama",
+  "nom-machine": "terme-2016-02-04-05-02-17-87274808249",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Kuanyama",
+  "nomLangues": {
+    "en": [
+      "Kwanyama"
+    ],
+    "es": [
+      "Kuanyama"
+    ],
+    "fr": [
+      "Kuanyama"
+    ],
+    "it": [
+      "Kwanyamo"
+    ],
+    "ru": [
+      "Кваньяма"
+    ]
+  }
+}

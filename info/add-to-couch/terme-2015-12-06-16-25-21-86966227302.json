@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227302",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-materiel-de-divertissement-au-foyer/",
+  "description": "Description de Commerce de gros de matériel de divertissement au foyer",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451118,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros de matériel de divertissement au foyer",
+  "nom-folder": "C-de-g-materiel-de-divertissement-au-foyer",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227302",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of home entertainment equipment"
+    ],
+    "ar": [
+      "تجارة بالجملة في معدات الترفيه المنزلي"
+    ],
+    "es": [
+      "Comercio por mayor de equipos de entretenimiento para el hogar"
+    ],
+    "fr": [
+      "Commerce de gros de matériel de divertissement au foyer"
+    ],
+    "it": [
+      "Commercio all'ingrosso di attrezzature di intrattenimento domestico"
+    ]
+  }
+}

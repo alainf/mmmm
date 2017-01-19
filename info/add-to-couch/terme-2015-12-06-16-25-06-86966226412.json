@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226412",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Philosophie-de-l'education/",
+  "description": "Description de Philosophie de l'éducation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451241,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Philosophie de l'éducation",
+  "nom-folder": "Philosophie-de-l'education",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226412"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of education"
+    ],
+    "ar": [
+      "فلسفة التعليم"
+    ],
+    "es": [
+      "Filosofía de la educación"
+    ],
+    "fr": [
+      "Philosophie de l'éducation"
+    ],
+    "it": [
+      "Filosofia dell'educazione"
+    ]
+  }
+}

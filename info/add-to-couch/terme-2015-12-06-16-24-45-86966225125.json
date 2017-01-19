@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-45-86966225125",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Procede-de-fabrication-en-peinture/Lavis-ou-encre-de-Chine/",
+  "description": "Description de Lavis ou encre de Chine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467013,
+  "identifiant-drupal-parent": 467006,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-45",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Lavis ou encre de Chine",
+  "nom-folder": "Lavis-ou-encre-de-Chine",
+  "nom-machine": "terme-2015-12-06-16-24-45-86966225125",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ink wash painting"
+    ],
+    "ar": [
+      "تقنية الرسم بلون واحد أو حبر الهند"
+    ],
+    "es": [
+      "Sumi-e"
+    ],
+    "fr": [
+      "Lavis ou encre de Chine"
+    ],
+    "it": [
+      "Sumi-e o inchiostro di china"
+    ]
+  }
+}

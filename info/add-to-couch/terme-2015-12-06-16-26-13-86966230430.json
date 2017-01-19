@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-13-86966230430",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-politique-internationale/",
+  "description": "Description de Économie politique internationale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451213,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-13",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie politique internationale",
+  "nom-folder": "Economie-politique-internationale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-13-86966230430"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International political economy"
+    ],
+    "ar": [
+      "الاقتصاد السياسي الدولي"
+    ],
+    "es": [
+      "Economía Política Internacional"
+    ],
+    "fr": [
+      "Économie politique internationale"
+    ],
+    "it": [
+      "Economia politica internazionale"
+    ]
+  }
+}

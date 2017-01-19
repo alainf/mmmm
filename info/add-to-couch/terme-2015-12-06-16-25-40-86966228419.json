@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-40-86966228419",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/Transport-par-helicoptere/",
+  "description": "Description de Transport par hélicoptère",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272294,
+  "identifiant-drupal-parent": 2037,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-40",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Transport par hélicoptère",
+  "nom-folder": "Transport-par-helicoptere",
+  "nom-machine": "terme-2015-12-06-16-25-40-86966228419",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Transportation by helicopter"
+    ],
+    "ar": [
+      "النقل بواسطة طائرات الهليكوبتر"
+    ],
+    "es": [
+      "Transporte por helicóptero"
+    ],
+    "fr": [
+      "Transport par hélicoptère"
+    ],
+    "it": [
+      "Trasporto da elicottero"
+    ]
+  }
+}

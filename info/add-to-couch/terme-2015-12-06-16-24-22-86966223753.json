@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-22-86966223753",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Social-Science-Humanities/Special-Education/",
+  "description": "Description de Éducation spécialisée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368205,
+  "identifiant-drupal-parent": 368147,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-22",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Éducation spécialisée",
+  "nom-folder": "Special-Education",
+  "nom-machine": "terme-2015-12-06-16-24-22-86966223753",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Special education"
+    ],
+    "fr": [
+      "Éducation spécialisée"
+    ]
+  }
+}

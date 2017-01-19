@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224189",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Peche-en-bateau/Peche-au-cormoran/",
+  "description": "Description de Pêche au cormoran",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269078,
+  "identifiant-drupal-parent": 269075,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Pêche au cormoran",
+  "nom-folder": "Peche-au-cormoran",
+  "nom-machine": "terme-2015-12-06-16-24-29-86966224189",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cormorant fishing"
+    ],
+    "ar": [
+      "الصيد الغاق"
+    ],
+    "es": [
+      "Pesca con cormoranes"
+    ],
+    "fr": [
+      "Pêche au cormoran"
+    ],
+    "it": [
+      "Pesca coi cormorani"
+    ]
+  }
+}

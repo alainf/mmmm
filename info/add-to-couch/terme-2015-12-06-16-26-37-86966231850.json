@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-37-86966231850",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychologie-politique-(psychologie)/",
+  "description": "Description de Psychologie politique (psychologie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270387,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-37",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Psychologie politique (psychologie)",
+  "nom-folder": "Psychologie-politique-(psychologie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-37-86966231850"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political psychology"
+    ],
+    "ar": [
+      "علم النفس السياسي (علم النفس)"
+    ],
+    "es": [
+      "Psicología Política (Psicología)"
+    ],
+    "fr": [
+      "Psychologie politique (psychologie)"
+    ],
+    "it": [
+      "psicologia politica (psicologia)"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-03-59-29-87274582183",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Maldivien/",
+  "description": "Description de Maldivien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "dv",
+  "ISO-639-2": "div",
+  "ISO-639-3": "div",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-59-29",
+  "moment-de-modification": "2016-02-04-04-00-09",
+  "nom": "Maldivien",
+  "nom-folder": "Maldivien",
+  "nom-machine": "terme-2016-02-04-03-59-29-87274582183",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Maldivien",
+  "nomLangues": {
+    "en": [
+      "Maldivian"
+    ],
+    "ar": [
+      "ديفهي"
+    ],
+    "es": [
+      "Maldivo"
+    ],
+    "fr": [
+      "Maldivien"
+    ],
+    "it": [
+      "Maldiviano"
+    ],
+    "ru": [
+      "Мальдивский"
+    ]
+  }
+}

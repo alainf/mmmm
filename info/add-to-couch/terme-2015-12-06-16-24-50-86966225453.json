@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-50-86966225453",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-du-travail/Droit-du-travail-au-Canada/",
+  "description": "Description de Droit du travail au Canada",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269137,
+  "identifiant-drupal-parent": 269135,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-50",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit du travail au Canada",
+  "nom-folder": "Droit-du-travail-au-Canada",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-50-86966225453"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Labour Law in Canada"
+    ],
+    "ar": [
+      "قانون العمل في كندا"
+    ],
+    "es": [
+      "Derecho del Trabajo en Canadá"
+    ],
+    "fr": [
+      "Droit du travail au Canada"
+    ],
+    "it": [
+      "Diritto del lavoro in Canada"
+    ]
+  }
+}

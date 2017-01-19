@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-46-86966221602",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Styles-de-vie/Maisons-et-jardins/",
+  "description": "Description de Maisons et jardins",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270711,
+  "identifiant-drupal-parent": 270707,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-46",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Maisons et jardins",
+  "nom-folder": "Maisons-et-jardins",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-46-86966221602"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "House & gardens"
+    ],
+    "ar": [
+      "منازل وحدائق"
+    ],
+    "es": [
+      "Casas y jardines"
+    ],
+    "fr": [
+      "Maisons et jardins"
+    ],
+    "it": [
+      "Casa e giardini"
+    ]
+  }
+}

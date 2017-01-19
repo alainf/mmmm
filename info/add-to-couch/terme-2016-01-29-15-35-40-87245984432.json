@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2016-01-29-15-35-40-87245984432",
+  "breadcrumb": "taxonomies/langues/Gascon/",
+  "description": "Description de Gascon",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2016-01-29-15-35-40",
+  "moment-de-modification": "2016-01-29-15-39-43",
+  "nom": "Gascon",
+  "nom-folder": "Gascon",
+  "nom-machine": "terme-2016-01-29-15-35-40-87245984432",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Gascon"
+    ],
+    "es": [
+      "Gascón"
+    ],
+    "fr": [
+      "Gascon"
+    ],
+    "it": [
+      "Guascone"
+    ],
+    "ru": [
+      "Гасконский"
+    ]
+  }
+}

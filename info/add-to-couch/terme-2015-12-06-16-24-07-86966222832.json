@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-07-86966222832",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Materials-Science-(category)/",
+  "description": "Description de Materials science (category)",
+  "enfants": [
+    "terme-2015-12-06-16-24-07-86966222835",
+    "terme-2015-12-06-16-24-07-86966222838",
+    "terme-2015-12-06-16-24-07-86966222841",
+    "terme-2015-12-06-16-24-07-86966222843",
+    "terme-2015-12-06-16-24-07-86966222846",
+    "terme-2015-12-06-16-24-07-86966222849",
+    "terme-2015-12-06-16-24-07-86966222852",
+    "terme-2015-12-06-16-24-07-86966222855",
+    "terme-2015-12-06-16-24-07-86966222858",
+    "terme-2015-12-06-16-24-07-86966222861",
+    "terme-2015-12-06-16-24-07-86966222864",
+    "terme-2015-12-06-16-24-07-86966222867",
+    "terme-2015-12-06-16-24-07-86966222869",
+    "terme-2015-12-06-16-24-07-86966222872",
+    "terme-2015-12-06-16-24-07-86966222875"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369100,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-07",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Materials science (category)",
+  "nom-folder": "Materials-Science-(category)",
+  "nom-machine": "terme-2015-12-06-16-24-07-86966222832",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Materials science (category)"
+    ]
+  }
+}

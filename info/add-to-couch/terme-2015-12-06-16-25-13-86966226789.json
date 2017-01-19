@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226789",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Culture-mediatique/",
+  "description": "Description de Culture médiatique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472050,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Culture médiatique",
+  "nom-folder": "Culture-mediatique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226789"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media culture"
+    ],
+    "ar": [
+      "ثقافة إعلامية"
+    ],
+    "es": [
+      "Cultura mediática"
+    ],
+    "fr": [
+      "Culture médiatique"
+    ],
+    "it": [
+      "Cultura mediatica"
+    ]
+  }
+}

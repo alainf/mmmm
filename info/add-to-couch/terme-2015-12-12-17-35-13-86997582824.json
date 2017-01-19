@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-12-17-35-13-86997582824",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/formats/XML/",
+  "description": "Description de Xml",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-12-17-35-13",
+  "moment-de-modification": "2016-01-28-22-59-20",
+  "nom": "Xml",
+  "nom-folder": "XML",
+  "nom-machine": "terme-2015-12-12-17-35-13-86997582824",
+  "sous-type": "formats",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Xml"
+    ],
+    "ar": [
+      "XML"
+    ],
+    "es": [
+      "Xml"
+    ],
+    "fr": [
+      "Xml"
+    ],
+    "it": [
+      "Xml"
+    ]
+  }
+}

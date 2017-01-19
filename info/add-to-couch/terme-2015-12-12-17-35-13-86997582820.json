@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-12-17-35-13-86997582820",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/formats/HTML/",
+  "description": "Markup used in web pages.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-12-17-35-13",
+  "moment-de-modification": "2016-02-02-22-56-30",
+  "nom": "Html",
+  "nom-folder": "HTML",
+  "nom-machine": "terme-2015-12-12-17-35-13-86997582820",
+  "sous-type": "formats",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Html"
+    ],
+    "ar": [
+      "لغة ترميز النص الفائق"
+    ],
+    "es": [
+      "Html"
+    ],
+    "fr": [
+      "Html"
+    ],
+    "it": [
+      "Html"
+    ]
+  }
+}

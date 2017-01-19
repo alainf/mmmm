@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-24-86966231070",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-physique/Oceanographie-(geographie)/",
+  "description": "Description de Océanographie (géographie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 967,
+  "identifiant-drupal-parent": 953,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-24",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Océanographie (géographie)",
+  "nom-folder": "Oceanographie-(geographie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-24-86966231070"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oceanography (geography)"
+    ],
+    "ar": [
+      "علم المحيطات (الجغرافيا)"
+    ],
+    "es": [
+      "Oceanografía (Geografía)"
+    ],
+    "fr": [
+      "Océanographie (géographie)"
+    ],
+    "it": [
+      "Oceanografia (geografia)"
+    ]
+  }
+}

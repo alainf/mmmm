@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221166",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Ils-(elles)-sont-a-surveiller/",
+  "description": "Description de Ils (elles) sont à surveiller",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271474,
+  "identifiant-drupal-parent": 270650,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Ils (elles) sont à surveiller",
+  "nom-folder": "Ils-(elles)-sont-a-surveiller",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221166"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "They should be watched"
+    ],
+    "ar": [
+      "هُم (وَ هُنَّ) إلى رَصد"
+    ],
+    "es": [
+      "Hay que vigilarlos(las)"
+    ],
+    "fr": [
+      "Ils (elles) sont à surveiller"
+    ],
+    "it": [
+      "Bisogna tenerli d'occhio"
+    ],
+    "ru": [
+      "Вы должны наблюдать за ними"
+    ]
+  }
+}

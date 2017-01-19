@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966232978",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernance-democratique/Protection-des-denonciateurs/",
+  "description": "Description de Protection des dénonciateurs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472193,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Protection des dénonciateurs",
+  "nom-folder": "Protection-des-denonciateurs",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966232978"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Whistleblower protection"
+    ],
+    "ar": [
+      "حماية المبلغين عن المخالفات"
+    ],
+    "es": [
+      "Protección de los denunciantes"
+    ],
+    "fr": [
+      "Protection des dénonciateurs"
+    ],
+    "it": [
+      "Protezione dei denunciatori"
+    ]
+  }
+}

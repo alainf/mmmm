@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227468",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Histoire-du-commerce/",
+  "description": "Description de Histoire du commerce",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1832,
+  "identifiant-drupal-parent": 1785,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Histoire du commerce",
+  "nom-folder": "Histoire-du-commerce",
+  "nom-machine": "terme-2015-12-06-16-25-24-86966227468",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of commerce"
+    ],
+    "ar": [
+      "تاريخ التجارة"
+    ],
+    "es": [
+      "Historia del comercio"
+    ],
+    "fr": [
+      "Histoire du commerce"
+    ],
+    "it": [
+      "Storia del commercio"
+    ]
+  }
+}

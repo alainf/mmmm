@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232318",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Codage-d'entrevues/",
+  "description": "Description de Codage d'entrevues",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472119,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Codage d'entrevues",
+  "nom-folder": "Codage-d'entrevues",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232318"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Interview coding"
+    ],
+    "ar": [
+      "ترميز المقابلات"
+    ],
+    "es": [
+      "Codificación de entrevistas"
+    ],
+    "fr": [
+      "Codage d'entrevues"
+    ],
+    "it": [
+      "Codificazione di interviste"
+    ]
+  }
+}

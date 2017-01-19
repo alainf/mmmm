@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233558",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Violence/Violence-conjugale/",
+  "description": "Description de Violence conjugale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471943,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Violence conjugale",
+  "nom-folder": "Violence-conjugale",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-05-86966233558"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Domestic violence"
+    ],
+    "ar": [
+      "العنف المنزلي"
+    ],
+    "es": [
+      "Violencia doméstica"
+    ],
+    "fr": [
+      "Violence conjugale"
+    ],
+    "it": [
+      "violenza domestica"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-17-86966234251",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/commission/commission-scolaire/",
+  "description": "Description de Commission scolaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369342,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-17",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Commission scolaire",
+  "nom-folder": "commission-scolaire",
+  "nom-machine": "terme-2015-12-06-16-27-17-86966234251",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "School district"
+    ],
+    "es": [
+      "Distrito escolar"
+    ],
+    "fr": [
+      "Commission scolaire"
+    ],
+    "it": [
+      "Distretto scolastico"
+    ]
+  }
+}

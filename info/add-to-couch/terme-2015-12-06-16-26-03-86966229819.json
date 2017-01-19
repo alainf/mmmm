@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229819",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Operation-des-reseaux/",
+  "description": "Description de Opération des réseaux",
+  "enfants": [
+    "terme-2015-12-06-16-26-03-86966229822",
+    "terme-2015-12-06-16-26-03-86966229825"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472307,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Opération des réseaux",
+  "nom-folder": "Operation-des-reseaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-03-86966229819"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Networks operation"
+    ],
+    "ar": [
+      "تشغيل شبكات"
+    ],
+    "es": [
+      "Operación de redes"
+    ],
+    "fr": [
+      "Opération des réseaux"
+    ],
+    "it": [
+      "Operazione di reti"
+    ]
+  }
+}

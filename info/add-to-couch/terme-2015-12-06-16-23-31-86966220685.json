@@ -1,0 +1,56 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220685",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/",
+  "description": "Description de Industries",
+  "enfants": [
+    "terme-2015-12-06-16-23-31-86966220687",
+    "terme-2015-12-06-16-23-31-86966220690",
+    "terme-2015-12-06-16-23-31-86966220693",
+    "terme-2015-12-06-16-23-31-86966220696",
+    "terme-2015-12-06-16-23-31-86966220699",
+    "terme-2015-12-06-16-23-31-86966220701",
+    "terme-2015-12-06-16-23-31-86966220704",
+    "terme-2015-12-06-16-23-31-86966220707",
+    "terme-2015-12-06-16-23-31-86966220710",
+    "terme-2015-12-06-16-23-31-86966220713",
+    "terme-2015-12-06-16-23-31-86966220716",
+    "terme-2015-12-06-16-23-31-86966220719",
+    "terme-2015-12-06-16-23-32-86966220722",
+    "terme-2015-12-06-16-23-32-86966220725",
+    "terme-2015-12-06-16-23-32-86966220730",
+    "terme-2015-12-06-16-23-32-86966220745",
+    "terme-2015-12-06-16-23-32-86966220750"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270556,
+  "identifiant-drupal-parent": 270471,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Industries",
+  "nom-folder": "Industries",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220685"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industries"
+    ],
+    "ar": [
+      "الصناعة"
+    ],
+    "es": [
+      "Industrias"
+    ],
+    "fr": [
+      "Industries"
+    ],
+    "it": [
+      "Industrie"
+    ]
+  }
+}

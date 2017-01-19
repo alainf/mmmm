@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232653",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Actualites-politiques/Guerre-et-politique/Paix-et-securite-internationales/Irenologie/",
+  "description": "Description de Irénologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466707,
+  "identifiant-drupal-parent": 472088,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Irénologie",
+  "nom-folder": "Irenologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232653"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Peace and conflict studies"
+    ],
+    "ar": [
+      "العلم سلميّ التفاهم"
+    ],
+    "es": [
+      "Irenología"
+    ],
+    "fr": [
+      "Irénologie"
+    ],
+    "it": [
+      "Irenologia"
+    ]
+  }
+}

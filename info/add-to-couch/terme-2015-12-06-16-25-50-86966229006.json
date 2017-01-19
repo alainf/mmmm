@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229006",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Metiers-de-la-comptabilite/",
+  "description": "Description de Métiers de la comptabilité",
+  "enfants": [
+    "terme-2015-12-06-16-25-50-86966229009",
+    "terme-2015-12-06-16-25-50-86966229012",
+    "terme-2015-12-06-16-25-50-86966229015",
+    "terme-2015-12-06-16-25-50-86966229018",
+    "terme-2015-12-06-16-25-50-86966229020"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271290,
+  "identifiant-drupal-parent": 270916,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Métiers de la comptabilité",
+  "nom-folder": "Metiers-de-la-comptabilite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-50-86966229006"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Accounting professions"
+    ],
+    "ar": [
+      "مهن المحاسبة"
+    ],
+    "es": [
+      "Profesiones de contabilidad"
+    ],
+    "fr": [
+      "Métiers de la comptabilité"
+    ],
+    "it": [
+      "Professioni di contabilità"
+    ]
+  }
+}

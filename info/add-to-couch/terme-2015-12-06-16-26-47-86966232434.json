@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232434",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Redaction-de-these/Revue-de-la-litterature/",
+  "description": "Description de Revue de la littérature",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471920,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Revue de la littérature",
+  "nom-folder": "Revue-de-la-litterature",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232434"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Litterature review"
+    ],
+    "ar": [
+      "استعراض الأدب"
+    ],
+    "es": [
+      "Revisión de publicaciones"
+    ],
+    "fr": [
+      "Revue de la littérature"
+    ],
+    "it": [
+      "Revisione della letteratura"
+    ]
+  }
+}

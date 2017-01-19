@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2017-01-04-14-19-00-86966221481",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Accueil/",
+  "descendants": [
+    "terme-2015-12-06-16-23-42-86966221325",
+    "terme-2015-12-06-16-23-30-86966220631",
+    "terme-2015-12-06-16-23-38-86966221081",
+    "terme-2015-12-06-16-23-38-86966221107",
+    "terme-2015-12-06-16-23-35-86966220949",
+    "terme-2015-12-06-16-23-44-86966221481"
+  ],
+  "description": "Section Accueil regroupe tout.",
+  "enfants": [
+    "",
+    "terme-2015-12-06-16-23-30-86966220628",
+    "terme-2015-12-06-16-23-30-86966220631",
+    "terme-2015-12-06-16-23-35-86966220949",
+    "terme-2015-12-06-16-23-38-86966221081",
+    "terme-2015-12-06-16-23-38-86966221107",
+    "terme-2015-12-06-16-23-42-86966221325",
+    "terme-2015-12-06-16-23-44-86966221481"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "mise-a-jour": "2017-01-04-14-19-00",
+  "moment-de-creation": "2017-01-04-14-19-00",
+  "moment-de-modification": "2017-01-04-14-19-00",
+  "nom": "Accueil",
+  "nom-folder": "Accueil",
+  "nom-machine": [
+    "terme-2017-01-04-14-19-00-86966221481"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Home"
+    ],
+    "fr": [
+      "Accueil"
+    ]
+  }
+}

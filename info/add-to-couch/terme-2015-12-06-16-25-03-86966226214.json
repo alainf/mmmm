@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226214",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/Linguistique-symetrique/",
+  "description": "Description de Linguistique symétrique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472174,
+  "identifiant-drupal-parent": 270393,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Linguistique symétrique",
+  "nom-folder": "Linguistique-symetrique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-03-86966226214"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Symetrical linguistics"
+    ],
+    "ar": [
+      "لسانيات متماثلة"
+    ],
+    "es": [
+      "Lingüística simétrica"
+    ],
+    "fr": [
+      "Linguistique symétrique"
+    ],
+    "it": [
+      "Linguistica simmetrica"
+    ]
+  }
+}

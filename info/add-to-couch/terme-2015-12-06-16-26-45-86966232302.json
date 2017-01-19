@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232302",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Histoire-des-sciences-sociales/",
+  "description": "Description de Histoire des sciences sociales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 999,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Histoire des sciences sociales",
+  "nom-folder": "Histoire-des-sciences-sociales",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232302"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of social sciences"
+    ],
+    "ar": [
+      "تاريخ العلوم الإجتماعية"
+    ],
+    "es": [
+      "Historia de las Ciencias Sociales"
+    ],
+    "fr": [
+      "Histoire des sciences sociales"
+    ],
+    "it": [
+      "Storia delle Scienze Sociali"
+    ]
+  }
+}

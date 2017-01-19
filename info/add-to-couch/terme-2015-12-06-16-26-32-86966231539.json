@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-32-86966231539",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-antique/",
+  "description": "Description de Philosophie antique",
+  "enfants": [
+    "terme-2015-12-06-16-26-32-86966231542"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469932,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-32",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie antique",
+  "nom-folder": "Philosophie-antique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-32-86966231539"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ancient philosophy"
+    ],
+    "ar": [
+      "فلسفة قديمة"
+    ],
+    "es": [
+      "Filosofía antigua"
+    ],
+    "fr": [
+      "Philosophie antique"
+    ],
+    "it": [
+      "filosofia antica"
+    ]
+  }
+}

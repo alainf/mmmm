@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226089",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Interface-homme-machine/",
+  "description": "Description de Interface homme-machine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455579,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Interface homme-machine",
+  "nom-folder": "Interface-homme-machine",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-01-86966226089"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Computer-Human Interaction"
+    ],
+    "ar": [
+      "واجهة الانسان والآلة"
+    ],
+    "es": [
+      "Interfaz hombre-máquina"
+    ],
+    "fr": [
+      "Interface homme-machine"
+    ],
+    "it": [
+      "interfaccia uomo-macchina"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220742",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industries-extractives/Industrie-petroliere/",
+  "description": "Description de Industrie pétrolière",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270590,
+  "identifiant-drupal-parent": 270583,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Industrie pétrolière",
+  "nom-folder": "Industrie-petroliere",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220742"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Petroleum industry"
+    ],
+    "ar": [
+      "صناعة نفطية"
+    ],
+    "es": [
+      "Industria del petróleo"
+    ],
+    "fr": [
+      "Industrie pétrolière"
+    ],
+    "it": [
+      "Industria petrolifera"
+    ]
+  }
+}

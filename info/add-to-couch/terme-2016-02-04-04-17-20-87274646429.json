@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-17-20-87274646429",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Faroese/",
+  "description": "Description de Féroïen",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "fo",
+  "ISO-639-2": "fao",
+  "ISO-639-3": "fao",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-17-20",
+  "moment-de-modification": "2016-02-04-04-19-40",
+  "nom": "Féroïen",
+  "nom-folder": "Faroese",
+  "nom-machine": "terme-2016-02-04-04-17-20-87274646429",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/F%C3%A9ro%C3%AFen",
+  "nomLangues": {
+    "en": [
+      "Faroese"
+    ],
+    "ar": [
+      "فاروية"
+    ],
+    "es": [
+      "Feroés"
+    ],
+    "fr": [
+      "Féroïen"
+    ],
+    "it": [
+      "Faroese"
+    ],
+    "ru": [
+      "Фарерский"
+    ]
+  }
+}

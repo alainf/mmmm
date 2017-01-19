@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-47-86966228847",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-de-la-sante-et-securite-du-travail/",
+  "description": "Description de Gestion de la santé et de la sécurité du travail",
+  "enfants": [
+    "terme-2015-12-06-16-25-47-86966228850"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2122,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-47",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion de la santé et de la sécurité du travail",
+  "nom-folder": "Gestion-de-la-sante-et-securite-du-travail",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-47-86966228847"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management of health and safety at work"
+    ],
+    "ar": [
+      "إدارة الامن والصحة فى العمل"
+    ],
+    "es": [
+      "Gestión de la seguridad y salud en el trabajo"
+    ],
+    "fr": [
+      "Gestion de la santé et de la sécurité du travail"
+    ],
+    "it": [
+      "Gestione delle salute e sicurezza sul lavoro"
+    ]
+  }
+}

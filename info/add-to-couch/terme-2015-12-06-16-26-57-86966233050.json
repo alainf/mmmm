@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233050",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Philosophie-politique/Philosophie-politique-et-pensee-critique/",
+  "description": "Description de Philosophie politique et pensée critique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455675,
+  "identifiant-drupal-parent": 1172,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Philosophie politique et pensée critique",
+  "nom-folder": "Philosophie-politique-et-pensee-critique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-57-86966233050"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political philosophy and critical thought"
+    ],
+    "ar": [
+      "الفلسفة السياسية والتفكير النقدى"
+    ],
+    "es": [
+      "Filosofía política y pensamiento crítico"
+    ],
+    "fr": [
+      "Philosophie politique et pensée critique"
+    ],
+    "it": [
+      "Filosofia politica e pensiero critico"
+    ]
+  }
+}

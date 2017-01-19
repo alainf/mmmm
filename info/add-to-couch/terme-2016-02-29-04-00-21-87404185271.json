@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-00-21-87404185271",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/avec-quoi-ecrire/etablir-des-balises-stylistiques/",
+  "description": "Description de Établir des balises stylistiques",
+  "enfants": [
+    "terme-2016-02-29-04-03-33-87404196783"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-00-21",
+  "moment-de-modification": "2016-02-29-04-03-22",
+  "nom": "Établir des balises stylistiques",
+  "nom-folder": "etablir-des-balises-stylistiques",
+  "nom-machine": "terme-2016-02-29-04-00-21-87404185271",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Establish stylistic markers"
+    ],
+    "fr": [
+      "Établir des balises stylistiques"
+    ]
+  }
+}

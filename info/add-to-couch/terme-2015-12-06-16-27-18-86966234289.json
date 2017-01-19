@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234289",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/groupe/",
+  "description": "Description de Groupe",
+  "enfants": [
+    "terme-2015-12-06-16-27-18-86966234292",
+    "terme-2015-12-06-16-27-18-86966234295",
+    "terme-2015-12-06-16-27-18-86966234298",
+    "terme-2015-12-06-16-27-18-86966234301"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317546,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Groupe",
+  "nom-folder": "groupe",
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234289",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Group"
+    ],
+    "es": [
+      "Grupo"
+    ],
+    "fr": [
+      "Groupe"
+    ],
+    "it": [
+      "Gruppo"
+    ]
+  }
+}

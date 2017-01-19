@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174820",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Vietnamien/",
+  "description": "Description de Vietnamien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317666,
+  "ISO-639-1": "vi",
+  "ISO-639-2": "vie",
+  "ISO-639-3": "vie",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2016-02-04-06-55-23",
+  "nom": "Vietnamien",
+  "nom-folder": "Vietnamien",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174820",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Vietnamien",
+  "nomLangues": {
+    "en": [
+      "Vietnamese"
+    ],
+    "ar": [
+      "فيتنامية"
+    ],
+    "es": [
+      "Vietnamita"
+    ],
+    "fr": [
+      "Vietnamien"
+    ],
+    "it": [
+      "Vietnamita"
+    ],
+    "ru": [
+      "Вьетнамский"
+    ]
+  }
+}

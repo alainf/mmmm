@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-03-32-00-87274483240",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Bichelamar/",
+  "description": "Description de Bichelamar",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "bi",
+  "ISO-639-2": "bis",
+  "ISO-639-3": "bis",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-32-00",
+  "moment-de-modification": "2016-02-04-03-32-37",
+  "nom": "Bichelamar",
+  "nom-folder": "Bichelamar",
+  "nom-machine": "terme-2016-02-04-03-32-00-87274483240",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Bichelamar",
+  "nomLangues": {
+    "en": [
+      "Bislama"
+    ],
+    "ar": [
+      "بسلاما"
+    ],
+    "es": [
+      "Bislama"
+    ],
+    "fr": [
+      "Bichelamar"
+    ],
+    "it": [
+      "Bislama"
+    ],
+    "ru": [
+      "Бислама"
+    ]
+  }
+}

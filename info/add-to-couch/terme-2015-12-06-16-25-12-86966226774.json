@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226774",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Analyse-de-presse/",
+  "description": "Description de Analyse de presse",
+  "enfants": [
+    "terme-2015-12-06-16-25-12-86966226777"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472140,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Analyse de presse",
+  "nom-folder": "Analyse-de-presse",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226774"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Press analysis"
+    ],
+    "ar": [
+      "تحليل للصحافة"
+    ],
+    "es": [
+      "Análisis de prensa"
+    ],
+    "fr": [
+      "Analyse de presse"
+    ],
+    "it": [
+      "analisi di stampa"
+    ]
+  }
+}

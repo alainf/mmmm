@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225400",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-civil/Droit-de-la-preuve/",
+  "description": "Description de Droit de la preuve",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269120,
+  "identifiant-drupal-parent": 269114,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit de la preuve",
+  "nom-folder": "Droit-de-la-preuve",
+  "nom-machine": "terme-2015-12-06-16-24-49-86966225400",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Law of Evidence"
+    ],
+    "ar": [
+      "قانون الإثبات"
+    ],
+    "es": [
+      "Derecho Probatorio"
+    ],
+    "fr": [
+      "Droit de la preuve"
+    ],
+    "it": [
+      "Diritto della prova"
+    ]
+  }
+}

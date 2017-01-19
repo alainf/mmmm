@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966233010",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernement/Societes-parapubliques/",
+  "description": "Description de Sociétés parapubliques",
+  "enfants": [
+    "terme-2015-12-06-16-26-56-86966233013"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1102,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Sociétés parapubliques",
+  "nom-folder": "Societes-parapubliques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966233010"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Government-owned corporation"
+    ],
+    "ar": [
+      "الشركة المملوكة للقطاع العام"
+    ],
+    "es": [
+      "Empresa del sector público"
+    ],
+    "fr": [
+      "Sociétés parapubliques"
+    ],
+    "it": [
+      "Imprese parastatali"
+    ]
+  }
+}

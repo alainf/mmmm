@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-06-86966230015",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Geologie-quantitative/",
+  "description": "Description de Géologie quantitative",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270832,
+  "identifiant-drupal-parent": 886,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-06",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Géologie quantitative",
+  "nom-folder": "Geologie-quantitative",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-06-86966230015"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Quantitative geology"
+    ],
+    "ar": [
+      "جيولوجيا إقتصادية"
+    ],
+    "es": [
+      "Geología cuantitativa"
+    ],
+    "fr": [
+      "Géologie quantitative"
+    ],
+    "it": [
+      "Geologia quantitativa"
+    ]
+  }
+}

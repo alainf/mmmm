@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-13-86966234038",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/livre/",
+  "description": "Description de Livre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369455,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Livre",
+  "nom-folder": "livre",
+  "nom-machine": "terme-2015-12-06-16-27-13-86966234038",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Book"
+    ],
+    "es": [
+      "Libro"
+    ],
+    "fr": [
+      "Livre"
+    ],
+    "it": [
+      "Libro"
+    ]
+  }
+}

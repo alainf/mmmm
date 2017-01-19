@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-07-86966230079",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-metalliques/Extraction-de-minerais-d'uranium/",
+  "description": "Extraction de minerais d'uranium",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451075,
+  "identifiant-drupal-parent": 451068,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-07",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de minerais d’uranium",
+  "nom-folder": "Extraction-de-minerais-d'uranium",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-07-86966230079"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Uranium mining"
+    ],
+    "ar": [
+      "إستخراج خامات اليورانيوم"
+    ],
+    "es": [
+      "Minería de uranio"
+    ],
+    "fr": [
+      "Extraction de minerais d’uranium"
+    ],
+    "it": [
+      "estrazione di minerali d'uranio"
+    ]
+  }
+}

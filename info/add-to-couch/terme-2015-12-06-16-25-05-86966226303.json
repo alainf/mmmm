@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226303",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Conception-de-l'enseignement/",
+  "description": "Description de Conception de l'enseignement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270858,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Conception de l'enseignement",
+  "nom-folder": "Conception-de-l'enseignement",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226303"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Instructional design"
+    ],
+    "ar": [
+      "التصميم التعليمي"
+    ],
+    "es": [
+      "Diseño instruccional"
+    ],
+    "fr": [
+      "Conception de l'enseignement"
+    ],
+    "it": [
+      "progettazione didattica"
+    ]
+  }
+}

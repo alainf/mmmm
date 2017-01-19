@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225655",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Relations-internationales/Defense-et-securite/Armement/",
+  "description": "Description de Armement",
+  "enfants": [
+    "terme-2015-12-06-16-24-54-86966225658"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 454238,
+  "identifiant-drupal-parent": 451412,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Armement",
+  "nom-folder": "Armement",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225655"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Armament"
+    ],
+    "ar": [
+      "تسلّح"
+    ],
+    "es": [
+      "Armamento"
+    ],
+    "fr": [
+      "Armement"
+    ],
+    "it": [
+      "armamento"
+    ]
+  }
+}

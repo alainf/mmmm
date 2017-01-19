@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232213",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Histoire-de-l'anthropologie/",
+  "description": "Description de Histoire de l'anthropologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1029,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Histoire de l'anthropologie",
+  "nom-folder": "Histoire-de-l'anthropologie",
+  "nom-machine": "terme-2015-12-06-16-26-43-86966232213",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of anthropology"
+    ],
+    "ar": [
+      "تاريخ الأنثروبولوجيا"
+    ],
+    "es": [
+      "Historia de la antropología"
+    ],
+    "fr": [
+      "Histoire de l'anthropologie"
+    ],
+    "it": [
+      "Storia dell'antropologia"
+    ]
+  }
+}

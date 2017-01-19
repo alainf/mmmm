@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-48-86966225298",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/Theories-feministes/",
+  "description": "Description de Théories féministes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466803,
+  "identifiant-drupal-parent": 466798,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-48",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Théories féministes",
+  "nom-folder": "Theories-feministes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-48-86966225298"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Feminist theories"
+    ],
+    "ar": [
+      "النظريات النسوية"
+    ],
+    "es": [
+      "Teorías feministas"
+    ],
+    "fr": [
+      "Théories féministes"
+    ],
+    "it": [
+      "Teorie femministe"
+    ]
+  }
+}

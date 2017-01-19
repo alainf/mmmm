@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-59-86966229547",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Etudes-urbaines-et-touristiques/Tourisme/Hotellerie/",
+  "description": "Description de Hôtellerie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272414,
+  "identifiant-drupal-parent": 272227,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-25-59",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Hôtellerie",
+  "nom-folder": "Hotellerie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-59-86966229547"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Hospitality industry"
+    ],
+    "ar": [
+      "فندقة"
+    ],
+    "es": [
+      "Hostelería"
+    ],
+    "fr": [
+      "Hôtellerie"
+    ],
+    "it": [
+      "Industria ricettiva"
+    ]
+  }
+}

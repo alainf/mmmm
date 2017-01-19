@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225911",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Credit/",
+  "description": "Description de Crédit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272230,
+  "identifiant-drupal-parent": 877,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Crédit",
+  "nom-folder": "Credit",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225911"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Credit"
+    ],
+    "ar": [
+      "ائتمان"
+    ],
+    "es": [
+      "Crédito"
+    ],
+    "fr": [
+      "Crédit"
+    ],
+    "it": [
+      "Credito"
+    ]
+  }
+}

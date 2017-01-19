@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230661",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Biophysique/",
+  "description": "Description de Biophysique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451353,
+  "identifiant-drupal-parent": 889,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Biophysique",
+  "nom-folder": "Biophysique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230661"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biophysics"
+    ],
+    "ar": [
+      "فيزياء حيوية"
+    ],
+    "es": [
+      "Biofísica"
+    ],
+    "fr": [
+      "Biophysique"
+    ],
+    "it": [
+      "biofisica"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-30-86966220649",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Acteurs-de-l'entreprise/Salaries/Cadres/",
+  "description": "Description de Cadres",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270509,
+  "identifiant-drupal-parent": 270510,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-30",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Cadres",
+  "nom-folder": "Cadres",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-30-86966220649"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Middle management"
+    ],
+    "ar": [
+      "إدارة وسطى"
+    ],
+    "es": [
+      "Cadres"
+    ],
+    "fr": [
+      "Cadres"
+    ],
+    "it": [
+      "Quadri"
+    ]
+  }
+}

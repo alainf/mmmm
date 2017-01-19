@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230610",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Rapports-economiques/Elites-economiques/",
+  "description": "Description de Élites économiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472351,
+  "identifiant-drupal-parent": 1482,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Élites économiques",
+  "nom-folder": "Elites-economiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230610"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic elites"
+    ],
+    "ar": [
+      "النخب الاقتصادية"
+    ],
+    "es": [
+      "Elites económicas"
+    ],
+    "fr": [
+      "Élites économiques"
+    ],
+    "it": [
+      "Elite economiche"
+    ]
+  }
+}

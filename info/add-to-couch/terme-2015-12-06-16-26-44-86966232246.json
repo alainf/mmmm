@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232246",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Ethologie-(sociale)/",
+  "description": "Description de Éthologie (sociale)",
+  "enfants": [
+    "terme-2015-12-06-16-26-44-86966232249",
+    "terme-2015-12-06-16-26-44-86966232252",
+    "terme-2015-12-06-16-26-44-86966232255"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 997,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Éthologie (sociale)",
+  "nom-folder": "Ethologie-(sociale)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-44-86966232246"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ethology (social)"
+    ],
+    "ar": [
+      "إيثولوجيا (الاجتماعية)"
+    ],
+    "es": [
+      "Etología (social)"
+    ],
+    "fr": [
+      "Éthologie (sociale)"
+    ],
+    "it": [
+      "Etologia (sociale)"
+    ]
+  }
+}

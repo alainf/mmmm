@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227297",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-materiaux,-fournitures-de-construction/",
+  "description": "Description de Commerce de gros de matériaux et fournitures de construction",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451131,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros de matériaux et fournitures de construction",
+  "nom-folder": "C-de-g-materiaux,-fournitures-de-construction",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-21-86966227297"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of building materials and supplies"
+    ],
+    "ar": [
+      "تجارة بالجملة لمواد البناء واللوازم"
+    ],
+    "es": [
+      "Comercio mayorista de materiales de construcción y suministros"
+    ],
+    "fr": [
+      "Commerce de gros de matériaux et fournitures de construction"
+    ],
+    "it": [
+      "Commercio all'ingrosso di materiali da costruzione"
+    ]
+  }
+}

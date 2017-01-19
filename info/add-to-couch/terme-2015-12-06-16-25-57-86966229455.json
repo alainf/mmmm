@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-57-86966229455",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theorie-de-l'ordre-negocie/",
+  "description": "Description de Théorie de l'ordre négocié",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2270,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-57",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théorie de l'ordre négocié",
+  "nom-folder": "Theorie-de-l'ordre-negocie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-57-86966229455"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Negotiated Order theory"
+    ],
+    "ar": [
+      "نظرية ترتيب التفاوض"
+    ],
+    "es": [
+      "Teoría del orden negociado"
+    ],
+    "fr": [
+      "Théorie de l'ordre négocié"
+    ],
+    "it": [
+      "Teoria dell'ordine negoziato"
+    ]
+  }
+}

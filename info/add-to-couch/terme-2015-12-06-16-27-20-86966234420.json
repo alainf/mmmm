@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-20-86966234420",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/base(s)-de-donnees/",
+  "description": "Description de Base(s) de données",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369401,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-20",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Base(s) de données",
+  "nom-folder": "base(s)-de-donnees",
+  "nom-machine": "terme-2015-12-06-16-27-20-86966234420",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Database"
+    ],
+    "es": [
+      "Base de datos"
+    ],
+    "fr": [
+      "Base(s) de données"
+    ],
+    "it": [
+      "Base di dati"
+    ]
+  }
+}

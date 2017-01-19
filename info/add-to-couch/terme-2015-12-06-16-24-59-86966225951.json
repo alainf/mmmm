@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225951",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Regles-en-investissement/",
+  "description": "Description de Règles en investissement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471936,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Règles en investissement",
+  "nom-folder": "Regles-en-investissement",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-59-86966225951"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Investment rules"
+    ],
+    "ar": [
+      "الاستثمار القواعد"
+    ],
+    "es": [
+      "Normas de inversión"
+    ],
+    "fr": [
+      "Règles en investissement"
+    ],
+    "it": [
+      "Normativa investimenti"
+    ]
+  }
+}

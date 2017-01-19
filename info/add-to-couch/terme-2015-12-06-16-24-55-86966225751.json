@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225751",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Mondialisation-et-territoires/",
+  "description": "Description de Mondialisation et territoires",
+  "enfants": [
+    "terme-2015-12-06-16-24-55-86966225754",
+    "terme-2015-12-06-16-24-55-86966225757"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472336,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Mondialisation et territoires",
+  "nom-folder": "Mondialisation-et-territoires",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225751"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Globalisation and territories"
+    ],
+    "ar": [
+      "العولمة والأقاليم"
+    ],
+    "es": [
+      "Globalización y territorios"
+    ],
+    "fr": [
+      "Mondialisation et territoires"
+    ],
+    "it": [
+      "globalizzazione e territori"
+    ]
+  }
+}

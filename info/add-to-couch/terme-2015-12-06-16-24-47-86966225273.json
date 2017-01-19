@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225273",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/Etudes-sur-les-femmes/",
+  "description": "Etudes sur les femmes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271817,
+  "identifiant-drupal-parent": 466798,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études sur les femmes",
+  "nom-folder": "Etudes-sur-les-femmes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-47-86966225273"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Women's Studies"
+    ],
+    "ar": [
+      "دراسات المرأة"
+    ],
+    "es": [
+      "Estudios de la Mujer"
+    ],
+    "fr": [
+      "Études sur les femmes"
+    ],
+    "it": [
+      "Studi sulle donne"
+    ]
+  }
+}

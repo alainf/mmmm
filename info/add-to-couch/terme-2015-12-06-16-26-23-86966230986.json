@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966230986",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Arctique-et-Grand-nord/",
+  "description": "Description de Arctique et Grand nord",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455638,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Arctique et Grand nord",
+  "nom-folder": "Arctique-et-Grand-nord",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-23-86966230986"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arctic and Far North"
+    ],
+    "ar": [
+      "القطب الشمالي وشمال الكندي الأقصى"
+    ],
+    "es": [
+      "Árctico y Gran Norte canadiense"
+    ],
+    "fr": [
+      "Arctique et Grand nord"
+    ],
+    "it": [
+      "Artide e Grande Nord"
+    ]
+  }
+}

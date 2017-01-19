@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228081",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Outils-et-techniques-de-doc,-gestion-des-connaissance/",
+  "description": "Description de Outils et techniques de documentation et de gestion des connaissance en gestion de projets",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1982,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Outils et techniques de documentation et de gestion des connaissance en gestion de projets",
+  "nom-folder": "Outils-et-techniques-de-doc,-gestion-des-connaissance",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-34-86966228081"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tools and techniques for documentation and knowledge management in project management"
+    ],
+    "ar": [
+      "أدوات وتقنيات للوثائق، وإدارة المعرفة في المشروع الإدارة"
+    ],
+    "es": [
+      "Herramientas y técnicas para la documentación y la gestión del conocimiento en gestión de proyectos"
+    ],
+    "fr": [
+      "Outils et techniques de documentation et de gestion des connaissance en gestion de projets"
+    ],
+    "it": [
+      "Strumenti e tecniche di documentazione e gestione della conoscenza nella gestione di progetti"
+    ]
+  }
+}

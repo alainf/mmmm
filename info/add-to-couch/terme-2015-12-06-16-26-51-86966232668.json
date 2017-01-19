@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-51-86966232668",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Actualites-politiques/Printemps-erable/",
+  "description": "Description de Printemps érable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472035,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-51",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Printemps érable",
+  "nom-folder": "Printemps-erable",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-51-86966232668"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Maple Spring"
+    ],
+    "ar": [
+      "القيقب الربيع"
+    ],
+    "es": [
+      "Primavera de arce"
+    ],
+    "fr": [
+      "Printemps érable"
+    ],
+    "it": [
+      "Primavera dell'acero"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227149",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Industries-extractives/Compagnies-minieres-et-petrolieres/",
+  "description": "Description de Compagnies minières et pétrolières",
+  "enfants": [
+    "terme-2015-12-06-16-25-19-86966227152",
+    "terme-2015-12-06-16-25-19-86966227155"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455643,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Compagnies minières et pétrolières",
+  "nom-folder": "Compagnies-minieres-et-petrolieres",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227149"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mining and oil companies"
+    ],
+    "ar": [
+      "شركات التعدين و النفط"
+    ],
+    "es": [
+      "Compañías mineras y petroleras"
+    ],
+    "fr": [
+      "Compagnies minières et pétrolières"
+    ],
+    "it": [
+      "Compagnie minerarie e petrolifere"
+    ]
+  }
+}

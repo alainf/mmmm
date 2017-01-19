@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227022",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Relations-publiques-(TIC)/",
+  "description": "Description de Relations publiques (TIC)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272191,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Relations publiques (TIC)",
+  "nom-folder": "Relations-publiques-(TIC)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227022"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public Relations (IT)"
+    ],
+    "ar": [
+      "العلاقات العامة (تكنولوجيا المعلومات والاتصالات)"
+    ],
+    "es": [
+      "Relaciones Públicas (TIC)"
+    ],
+    "fr": [
+      "Relations publiques (TIC)"
+    ],
+    "it": [
+      "Pubbliche relazioni (TIC)"
+    ]
+  }
+}

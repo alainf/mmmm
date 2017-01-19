@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174798",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tcheque/",
+  "description": "Description de Tchèque",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317661,
+  "ISO-639-1": "cs",
+  "ISO-639-2": "cze/ces",
+  "ISO-639-3": "ces",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2016-02-04-03-46-12",
+  "nom": "Tchèque",
+  "nom-folder": "Tcheque",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174798",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tch%C3%A8que",
+  "nomLangues": {
+    "en": [
+      "Czech"
+    ],
+    "ar": [
+      "تشيكية"
+    ],
+    "es": [
+      "Checo"
+    ],
+    "fr": [
+      "Tchèque"
+    ],
+    "it": [
+      "Ceco"
+    ],
+    "ru": [
+      "Чешский"
+    ]
+  }
+}

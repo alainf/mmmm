@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-40-39-87404330365",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/lieu-de-l-ecriture/lieu-de-la-narration/lieu-embematique/la-pourvoirie-de-peche/",
+  "description": "Description de La pourvoirie de pêche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-40-39",
+  "moment-de-modification": "2016-02-29-04-41-59",
+  "nom": "La pourvoirie de pêche",
+  "nom-folder": "la-pourvoirie-de-peche",
+  "nom-machine": "terme-2016-02-29-04-40-39-87404330365",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The fishing outfitter"
+    ],
+    "fr": [
+      "La pourvoirie de pêche"
+    ]
+  }
+}

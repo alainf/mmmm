@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226384",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Formation-des-enseignants/",
+  "description": "Description de Formation des enseignants",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270850,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Formation des enseignants",
+  "nom-folder": "Formation-des-enseignants",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226384"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teacher Training"
+    ],
+    "ar": [
+      "تدريب المعلمين"
+    ],
+    "es": [
+      "Formación de los profesores"
+    ],
+    "fr": [
+      "Formation des enseignants"
+    ],
+    "it": [
+      "formazione degli professori"
+    ]
+  }
+}

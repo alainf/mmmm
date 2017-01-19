@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-25-86966231127",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Outils-et-techniques-en-geographie/Cartographie/",
+  "description": "Description de Cartographie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 970,
+  "identifiant-drupal-parent": 948,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-25",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Cartographie",
+  "nom-folder": "Cartographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-25-86966231127"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cartography"
+    ],
+    "ar": [
+      "علم الخرائط"
+    ],
+    "es": [
+      "Cartografía"
+    ],
+    "fr": [
+      "Cartographie"
+    ],
+    "it": [
+      "cartografia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230855",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Fabrication-de-produits-chimiques/Production-de-gaz-industriels/",
+  "description": "Description de Production de gaz industriels",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451101,
+  "identifiant-drupal-parent": 451099,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Production de gaz industriels",
+  "nom-folder": "Production-de-gaz-industriels",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-20-86966230855"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial Gas Production"
+    ],
+    "ar": [
+      "إنتاج الغاز الصناعي"
+    ],
+    "es": [
+      "Producción de gases industriales"
+    ],
+    "fr": [
+      "Production de gaz industriels"
+    ],
+    "it": [
+      "Produzione di gas industriali"
+    ]
+  }
+}

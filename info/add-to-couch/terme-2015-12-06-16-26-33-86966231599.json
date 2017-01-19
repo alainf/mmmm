@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231599",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-medievale/",
+  "description": "Description de Philosophie médiévale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451246,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie médiévale",
+  "nom-folder": "Philosophie-medievale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-33-86966231599"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medieval Philosophy"
+    ],
+    "ar": [
+      "فلسفة القرون الوسطى"
+    ],
+    "es": [
+      "Filosofía medieval"
+    ],
+    "fr": [
+      "Philosophie médiévale"
+    ],
+    "it": [
+      "Filosofia medievale"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226540",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ecologie/Recyclage/",
+  "description": "Description de Recyclage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272381,
+  "identifiant-drupal-parent": 270869,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Recyclage",
+  "nom-folder": "Recyclage",
+  "nom-machine": "terme-2015-12-06-16-25-09-86966226540",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Recycling"
+    ],
+    "ar": [
+      "تدوير النفايات"
+    ],
+    "es": [
+      "Reciclaje"
+    ],
+    "fr": [
+      "Recyclage"
+    ],
+    "it": [
+      "Riciclaggio"
+    ]
+  }
+}

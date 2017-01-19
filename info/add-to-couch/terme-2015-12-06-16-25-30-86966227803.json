@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227803",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-banques-et-services-financiers/ISO-4217/",
+  "description": "Description de ISO 4217 code des monnaies du monde",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1895,
+  "identifiant-drupal-parent": 1891,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 4217 code des monnaies du monde",
+  "nom-folder": "ISO-4217",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227803",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 4217 Currency Code"
+    ],
+    "ar": [
+      "التعليمات البرمجية لعملات العالم ISO 4217"
+    ],
+    "es": [
+      "ISO 4217 código de las monedas del mundo"
+    ],
+    "fr": [
+      "ISO 4217 code des monnaies du monde"
+    ],
+    "it": [
+      "Iso 4217 codice valute paesi"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220905",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Biotechnologies/",
+  "description": "Description de Biotechnologies",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270577,
+  "identifiant-drupal-parent": 270557,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Biotechnologies",
+  "nom-folder": "Biotechnologies",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220905"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biotechnologies"
+    ],
+    "ar": [
+      "تقانة حيوية"
+    ],
+    "es": [
+      "Biotecnologías"
+    ],
+    "fr": [
+      "Biotechnologies"
+    ],
+    "it": [
+      "Biotecnologie"
+    ]
+  }
+}

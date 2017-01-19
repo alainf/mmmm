@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232207",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Ethnologie/Ethnologie-autochtone/",
+  "description": "Description de Ethnologie autochtone",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472342,
+  "identifiant-drupal-parent": 1027,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Ethnologie autochtone",
+  "nom-folder": "Ethnologie-autochtone",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232207"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aboriginal Ethnology"
+    ],
+    "ar": [
+      "إثنولوجيا السكان الأصليين"
+    ],
+    "es": [
+      "Etnología aboriginal"
+    ],
+    "fr": [
+      "Ethnologie autochtone"
+    ],
+    "it": [
+      "etnologia aborigena"
+    ]
+  }
+}

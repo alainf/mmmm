@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-45-40-87274964433",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Chichewa/",
+  "description": "Description de Chichewa",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ny",
+  "ISO-639-2": "nya",
+  "ISO-639-3": "nya",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-45-40",
+  "moment-de-modification": "2016-02-04-05-46-16",
+  "nom": "Chichewa",
+  "nom-folder": "Chichewa",
+  "nom-machine": "terme-2016-02-04-05-45-40-87274964433",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Chichewa",
+  "nomLangues": {
+    "en": [
+      "Chichewa"
+    ],
+    "ar": [
+      "الشيشيوا"
+    ],
+    "es": [
+      "Chichewa"
+    ],
+    "fr": [
+      "Chichewa"
+    ],
+    "it": [
+      "Chewa"
+    ],
+    "ru": [
+      "Ньянджа"
+    ]
+  }
+}

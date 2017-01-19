@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224504",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/",
+  "description": "Description de Sculpture",
+  "enfants": [
+    "terme-2015-12-06-16-24-35-86966224507",
+    "terme-2015-12-06-16-24-35-86966224510",
+    "terme-2015-12-06-16-24-35-86966224513",
+    "terme-2015-12-06-16-24-35-86966224515",
+    "terme-2015-12-06-16-24-35-86966224518",
+    "terme-2015-12-06-16-24-35-86966224549"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467037,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Sculpture",
+  "nom-folder": "Sculpture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-35-86966224504"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sculpture"
+    ],
+    "ar": [
+      "فن النحت"
+    ],
+    "es": [
+      "Escultura"
+    ],
+    "fr": [
+      "Sculpture"
+    ],
+    "it": [
+      "scultura"
+    ]
+  }
+}

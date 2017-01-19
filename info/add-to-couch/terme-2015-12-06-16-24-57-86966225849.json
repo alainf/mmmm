@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225849",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finance-de-marche/Risque-de-marche/",
+  "description": "Description de Risque de marché",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469929,
+  "identifiant-drupal-parent": 271332,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Risque de marché",
+  "nom-folder": "Risque-de-marche",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225849"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Market risk"
+    ],
+    "ar": [
+      "المخاطر السوق"
+    ],
+    "es": [
+      "Riesgo de mercado"
+    ],
+    "fr": [
+      "Risque de marché"
+    ],
+    "it": [
+      "Rischio di mercato"
+    ]
+  }
+}

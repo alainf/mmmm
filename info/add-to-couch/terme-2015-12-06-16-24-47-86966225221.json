@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225221",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Culture-hellenistique/",
+  "description": "Description de Culture hellénistique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466786,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Culture hellénistique",
+  "nom-folder": "Culture-hellenistique",
+  "nom-machine": "terme-2015-12-06-16-24-47-86966225221",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Hellenistic period"
+    ],
+    "ar": [
+      "العصر الهيلينستي"
+    ],
+    "es": [
+      "Período helenístico"
+    ],
+    "fr": [
+      "Culture hellénistique"
+    ],
+    "it": [
+      "Cultura ellenistica"
+    ]
+  }
+}

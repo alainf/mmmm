@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233277",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-electorale/",
+  "description": "Description de Sociologie électorale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1218,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie électorale",
+  "nom-folder": "Sociologie-electorale",
+  "nom-machine": "terme-2015-12-06-16-27-01-86966233277",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Electoral sociology"
+    ],
+    "ar": [
+      "علم الاجتماع الانتخابي"
+    ],
+    "es": [
+      "Sociología electoral"
+    ],
+    "fr": [
+      "Sociologie électorale"
+    ],
+    "it": [
+      "Sociologia elettorale"
+    ]
+  }
+}

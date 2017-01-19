@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966226994",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Geostrategie-de-l'information/",
+  "description": "Description de Géostratégie de l'information",
+  "enfants": [
+    "terme-2015-12-06-16-25-16-86966226997",
+    "terme-2015-12-06-16-25-16-86966227000",
+    "terme-2015-12-06-16-25-16-86966227002"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471935,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Géostratégie de l'information",
+  "nom-folder": "Geostrategie-de-l'information",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-16-86966226994"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Information geostrategy"
+    ],
+    "ar": [
+      "جيوستراتيجية المعلومات"
+    ],
+    "es": [
+      "Geoestrategia de la información"
+    ],
+    "fr": [
+      "Géostratégie de l'information"
+    ],
+    "it": [
+      "Geostrategia della informazione"
+    ]
+  }
+}

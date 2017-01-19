@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229300",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie-d'entreprise/Modeles-organisationnels/Auto-organisation/",
+  "description": "Description de Auto-organisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471889,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Auto-organisation",
+  "nom-folder": "Auto-organisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229300"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Self-organization"
+    ],
+    "ar": [
+      "التنظيم الذاتي"
+    ],
+    "es": [
+      "Autoorganización"
+    ],
+    "fr": [
+      "Auto-organisation"
+    ],
+    "it": [
+      "Auto-organizzazione"
+    ]
+  }
+}

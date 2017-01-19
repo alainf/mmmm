@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234080",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/periodique/",
+  "description": "Description de Periodique",
+  "enfants": [
+    "terme-2015-12-06-16-27-14-86966234083",
+    "terme-2015-12-06-16-27-14-86966234086"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369468,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Periodique",
+  "nom-folder": "periodique",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234080",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Periodical"
+    ],
+    "es": [
+      "Periódico"
+    ],
+    "fr": [
+      "Periodique"
+    ],
+    "it": [
+      "Periodico"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966232990",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernement/",
+  "description": "Description de Gouvernement",
+  "enfants": [
+    "terme-2015-12-06-16-26-56-86966232993",
+    "terme-2015-12-06-16-26-56-86966232996",
+    "terme-2015-12-06-16-26-56-86966232998",
+    "terme-2015-12-06-16-26-56-86966233001",
+    "terme-2015-12-06-16-26-56-86966233004",
+    "terme-2015-12-06-16-26-56-86966233007",
+    "terme-2015-12-06-16-26-56-86966233010",
+    "terme-2015-12-06-16-26-56-86966233019"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1165,
+  "identifiant-drupal-parent": 1106,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Gouvernement",
+  "nom-folder": "Gouvernement",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966232990"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Government"
+    ],
+    "ar": [
+      "حكومة"
+    ],
+    "es": [
+      "Gobierno"
+    ],
+    "fr": [
+      "Gouvernement"
+    ],
+    "it": [
+      "governo"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-11-86966233901",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/bibliographique/notice-bibliographique/",
+  "description": "Description de Notice bibliographique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369428,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-11",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Notice bibliographique",
+  "nom-folder": "notice-bibliographique",
+  "nom-machine": "terme-2015-12-06-16-27-11-86966233901",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bibliographic record"
+    ],
+    "es": [
+      "Reseña bibliográfica"
+    ],
+    "fr": [
+      "Notice bibliographique"
+    ],
+    "it": [
+      "Notizia bibliografica"
+    ]
+  }
+}

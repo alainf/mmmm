@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230195",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-des-materiaux/Bois/",
+  "description": "Description de Bois",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270808,
+  "identifiant-drupal-parent": 887,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Bois",
+  "nom-folder": "Bois",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230195"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wood"
+    ],
+    "ar": [
+      "خشب"
+    ],
+    "es": [
+      "Madera"
+    ],
+    "fr": [
+      "Bois"
+    ],
+    "it": [
+      "Legno"
+    ]
+  }
+}

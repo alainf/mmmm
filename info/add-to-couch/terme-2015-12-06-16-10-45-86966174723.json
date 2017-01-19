@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-45-86966174723",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Ourdou/",
+  "description": "Description de Ourdou",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380943,
+  "ISO-639-1": "ur",
+  "ISO-639-2": "urd",
+  "ISO-639-3": "urd",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-45",
+  "moment-de-modification": "2016-02-04-06-52-22",
+  "nom": "Ourdou",
+  "nom-folder": "Ourdou",
+  "nom-machine": "terme-2015-12-06-16-10-45-86966174723",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Ourdou",
+  "nomLangues": {
+    "en": [
+      "Urdu"
+    ],
+    "ar": [
+      "أردية"
+    ],
+    "es": [
+      "Urdú"
+    ],
+    "fr": [
+      "Ourdou"
+    ],
+    "it": [
+      "Urdu"
+    ],
+    "ru": [
+      "Урду"
+    ]
+  }
+}

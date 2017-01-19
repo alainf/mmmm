@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-26-25-86966231121",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Outils-et-techniques-en-geographie/",
+  "description": "Description de Outils et techniques en géographie",
+  "enfants": [
+    "terme-2015-12-06-16-26-25-86966231124",
+    "terme-2015-12-06-16-26-25-86966231127",
+    "terme-2015-12-06-16-26-25-86966231130",
+    "terme-2015-12-06-16-26-25-86966231133",
+    "terme-2015-12-06-16-26-25-86966231136",
+    "terme-2015-12-06-16-26-25-86966231139",
+    "terme-2015-12-06-16-26-25-86966231141"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 948,
+  "identifiant-drupal-parent": 942,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-25",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Outils et techniques en géographie",
+  "nom-folder": "Outils-et-techniques-en-geographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-25-86966231121"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tools and Techniques in Geography"
+    ],
+    "ar": [
+      "أدوات وتقنيات في الجغرافيا"
+    ],
+    "es": [
+      "Herramientas y técnicas en geografía"
+    ],
+    "fr": [
+      "Outils et techniques en géographie"
+    ],
+    "it": [
+      "Strumenti e tecniche nella geografia"
+    ]
+  }
+}

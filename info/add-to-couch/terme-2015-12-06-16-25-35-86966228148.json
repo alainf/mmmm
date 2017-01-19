@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228148",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-ressources-humaines/",
+  "description": "Description de Gestion des ressources humaines",
+  "enfants": [
+    "terme-2015-12-06-16-25-35-86966228151",
+    "terme-2015-12-06-16-25-35-86966228154",
+    "terme-2015-12-06-16-25-35-86966228156",
+    "terme-2015-12-06-16-25-36-86966228160",
+    "terme-2015-12-06-16-25-36-86966228163",
+    "terme-2015-12-06-16-25-36-86966228166",
+    "terme-2015-12-06-16-25-36-86966228169",
+    "terme-2015-12-06-16-25-36-86966228172",
+    "terme-2015-12-06-16-25-36-86966228175",
+    "terme-2015-12-06-16-25-36-86966228178"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2225,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des ressources humaines",
+  "nom-folder": "Gestion-des-ressources-humaines",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-35-86966228148"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Human Resource Management"
+    ],
+    "ar": [
+      "إدارة الموارد البشرية"
+    ],
+    "es": [
+      "Gestión de recursos humanos"
+    ],
+    "fr": [
+      "Gestion des ressources humaines"
+    ],
+    "it": [
+      "Gestione delle risorse umane"
+    ]
+  }
+}

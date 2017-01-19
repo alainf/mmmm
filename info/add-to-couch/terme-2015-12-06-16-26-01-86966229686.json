@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229686",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-mix/",
+  "description": "Description de Marketing mix",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469928,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Marketing mix",
+  "nom-folder": "Marketing-mix",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229686"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Marketing mix"
+    ],
+    "ar": [
+      "تسويق مزيج"
+    ],
+    "es": [
+      "Mezcla de mercadotecnia"
+    ],
+    "fr": [
+      "Marketing mix"
+    ],
+    "it": [
+      "Marketing mix"
+    ],
+    "ru": [
+      "4P"
+    ]
+  }
+}

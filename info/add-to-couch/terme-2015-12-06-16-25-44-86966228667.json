@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-44-86966228667",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Veille-strategique/Systeme-strategique-d'alerte-precoce/",
+  "description": "Description de Système stratégique d'alerte précoce",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471362,
+  "identifiant-drupal-parent": 2168,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-44",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Système stratégique d'alerte précoce",
+  "nom-folder": "Systeme-strategique-d'alerte-precoce",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-44-86966228667"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Strategic early warning system"
+    ],
+    "ar": [
+      "نظام الإنذار الاستراتيجي المبكر"
+    ],
+    "es": [
+      "Sistema estratégico de alerta precoz"
+    ],
+    "fr": [
+      "Système stratégique d'alerte précoce"
+    ],
+    "it": [
+      "Sistema strategico di allarme precoce"
+    ]
+  }
+}

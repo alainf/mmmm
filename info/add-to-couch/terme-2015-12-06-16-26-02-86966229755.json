@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229755",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Publicite-ecologique/",
+  "description": "Description de Publicité écologique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2101,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Publicité écologique",
+  "nom-folder": "Publicite-ecologique",
+  "nom-machine": "terme-2015-12-06-16-26-02-86966229755",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecological advertising"
+    ],
+    "ar": [
+      "الإعلانات البيئية"
+    ],
+    "es": [
+      "Publicidad ecológica"
+    ],
+    "fr": [
+      "Publicité écologique"
+    ],
+    "it": [
+      "Pubblicità ecologica"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225872",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Finances-personnelles-ou-finances-privees/Gestion-des-revenus-personnels/",
+  "description": "Description de Gestion des revenus personnels",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271362,
+  "identifiant-drupal-parent": 271360,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Gestion des revenus personnels",
+  "nom-folder": "Gestion-des-revenus-personnels",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225872"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Personal income management"
+    ],
+    "ar": [
+      "إدارة المداخل الشخصية"
+    ],
+    "es": [
+      "Gestión de los ingresos personales"
+    ],
+    "fr": [
+      "Gestion des revenus personnels"
+    ],
+    "it": [
+      "Gestione del reddito personale"
+    ]
+  }
+}

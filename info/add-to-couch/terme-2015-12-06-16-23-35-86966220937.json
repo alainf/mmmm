@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220937",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Nanotechnologies/",
+  "description": "Description de Nanotechnologies",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270578,
+  "identifiant-drupal-parent": 270557,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Nanotechnologies",
+  "nom-folder": "Nanotechnologies",
+  "nom-machine": "terme-2015-12-06-16-23-35-86966220937",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Nano technologies"
+    ],
+    "ar": [
+      "تقنية النانو"
+    ],
+    "es": [
+      "Nanotecnologías"
+    ],
+    "fr": [
+      "Nanotechnologies"
+    ],
+    "it": [
+      "Nanotecnologia"
+    ]
+  }
+}

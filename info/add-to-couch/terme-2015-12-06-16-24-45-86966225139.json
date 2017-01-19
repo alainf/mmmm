@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-24-45-86966225139",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Techniques-de-la-peinture/",
+  "description": "Description de Techniques de la peinture",
+  "enfants": [
+    "terme-2015-12-06-16-24-45-86966225142",
+    "terme-2015-12-06-16-24-45-86966225144",
+    "terme-2015-12-06-16-24-45-86966225147",
+    "terme-2015-12-06-16-24-45-86966225150",
+    "terme-2015-12-06-16-24-45-86966225153",
+    "terme-2015-12-06-16-24-45-86966225156",
+    "terme-2015-12-06-16-24-45-86966225159",
+    "terme-2015-12-06-16-24-46-86966225162",
+    "terme-2015-12-06-16-24-46-86966225165",
+    "terme-2015-12-06-16-24-46-86966225167",
+    "terme-2015-12-06-16-24-46-86966225170"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467018,
+  "identifiant-drupal-parent": 467003,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-45",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Techniques de la peinture",
+  "nom-folder": "Techniques-de-la-peinture",
+  "nom-machine": "terme-2015-12-06-16-24-45-86966225139",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Painting techniques"
+    ],
+    "ar": [
+      "تقنيات الرسم"
+    ],
+    "es": [
+      "Técnicas de la pintura"
+    ],
+    "fr": [
+      "Techniques de la peinture"
+    ],
+    "it": [
+      "Tecniche della pittura"
+    ]
+  }
+}

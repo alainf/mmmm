@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225928",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Fonds-d'actions/",
+  "description": "Fonds d'actions",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451153,
+  "identifiant-drupal-parent": 451151,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Fonds d’actions",
+  "nom-folder": "Fonds-d'actions",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225928"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Stock fund"
+    ],
+    "ar": [
+      "صناديق الأسهم"
+    ],
+    "es": [
+      "Fondo de Acciones"
+    ],
+    "fr": [
+      "Fonds d’actions"
+    ],
+    "it": [
+      "fondo di azioni"
+    ]
+  }
+}

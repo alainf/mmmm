@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228778",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Equilibre-incitation-contribution/",
+  "description": "Description de Équilibre incitation-contribution",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2174,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Équilibre incitation-contribution",
+  "nom-folder": "Equilibre-incitation-contribution",
+  "nom-machine": "terme-2015-12-06-16-25-46-86966228778",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Incentive-contribution balance"
+    ],
+    "ar": [
+      "التوازن التحريض - اسهام"
+    ],
+    "es": [
+      "Equilibrio incitación-contribución"
+    ],
+    "fr": [
+      "Équilibre incitation-contribution"
+    ],
+    "it": [
+      "Equilibrio incentivo-contribuzione"
+    ]
+  }
+}

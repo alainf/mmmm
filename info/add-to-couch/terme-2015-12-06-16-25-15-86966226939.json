@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-15-86966226939",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Stock-shot/",
+  "description": "Description de Stock-shot",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471706,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-15",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Stock-shot",
+  "nom-folder": "Stock-shot",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-15-86966226939"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Stock footage"
+    ],
+    "ar": [
+      "مخزون لقطات"
+    ],
+    "es": [
+      "Metraje de reserva"
+    ],
+    "fr": [
+      "Stock-shot"
+    ],
+    "it": [
+      "Filmato di repertorio"
+    ]
+  }
+}

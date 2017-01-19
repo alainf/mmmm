@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-35-86966231736",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Personnalite-(psychologie)/Psychometrie/Indicateur-de-type-de-personnalite-Myers-Briggs/",
+  "description": "Description de Indicateur de type de personnalité Myers-Briggs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472496,
+  "identifiant-drupal-parent": 472499,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-35",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Indicateur de type de personnalité Myers-Briggs",
+  "nom-folder": "Indicateur-de-type-de-personnalite-Myers-Briggs",
+  "nom-machine": "terme-2015-12-06-16-26-35-86966231736",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Myers-Briggs Type Indicator"
+    ],
+    "ar": [
+      "مؤشر نوع شخصية مايرز-بريغز"
+    ],
+    "es": [
+      "Indicador de tipos de personalidad Myers-Briggs"
+    ],
+    "fr": [
+      "Indicateur de type de personnalité Myers-Briggs"
+    ],
+    "it": [
+      "Indicatore di tipi di personalità Myers-Briggs"
+    ]
+  }
+}

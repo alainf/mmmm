@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225866",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Finance-des-collectivites-locales/",
+  "description": "Description de Finance des collectivités locales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271359,
+  "identifiant-drupal-parent": 271339,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Finance des collectivités locales",
+  "nom-folder": "Finance-des-collectivites-locales",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225866"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financing of local collectivities"
+    ],
+    "ar": [
+      "مالية المجتمعات المحلية"
+    ],
+    "es": [
+      "Financiación de comunidades locales"
+    ],
+    "fr": [
+      "Finance des collectivités locales"
+    ],
+    "it": [
+      "Finanza delle collettività locali"
+    ]
+  }
+}

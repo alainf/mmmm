@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-50-86966225408",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-civil/Droit-des-personnes/",
+  "description": "Description de Droit des personnes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269116,
+  "identifiant-drupal-parent": 269114,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-50",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit des personnes",
+  "nom-folder": "Droit-des-personnes",
+  "nom-machine": "terme-2015-12-06-16-24-50-86966225408",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Persons' Law"
+    ],
+    "ar": [
+      "قانون الأشخاص"
+    ],
+    "es": [
+      "Derecho de las personas"
+    ],
+    "fr": [
+      "Droit des personnes"
+    ],
+    "it": [
+      "Diritti delle persone"
+    ]
+  }
+}

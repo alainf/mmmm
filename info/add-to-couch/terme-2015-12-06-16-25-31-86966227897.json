@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-31-86966227897",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/Schema-geographique/",
+  "description": "Description de Schéma géographique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1939,
+  "identifiant-drupal-parent": 1910,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-31",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Schéma géographique",
+  "nom-folder": "Schema-geographique",
+  "nom-machine": "terme-2015-12-06-16-25-31-86966227897",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Geographic pattern"
+    ],
+    "ar": [
+      "النمط الجغرافي"
+    ],
+    "es": [
+      "Esquema geográfico"
+    ],
+    "fr": [
+      "Schéma géographique"
+    ],
+    "it": [
+      "Schema geografico"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227271",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-d'enregistrements-sonores/",
+  "description": "Description de Commerce de gros d'enregistrements sonores",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451124,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros d'enregistrements sonores",
+  "nom-folder": "C-de-g-d'enregistrements-sonores",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227271",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of sound recordings"
+    ],
+    "ar": [
+      "تجارة الجملة للتسجيلات الصوتية"
+    ],
+    "es": [
+      "Comercio mayorista de grabaciones de sonido"
+    ],
+    "fr": [
+      "Commerce de gros d'enregistrements sonores"
+    ],
+    "it": [
+      "Commercio all'ingrosso di registrazioni sonore"
+    ]
+  }
+}

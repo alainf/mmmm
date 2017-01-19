@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-35-86966231742",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Personnalite-(psychologie)/Psychometrie/Orientation-fondamentale-relations-interpers/",
+  "description": "Description de Orientation fondamentale des relations interpersonnelles (FIRO-B)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472498,
+  "identifiant-drupal-parent": 472499,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-35",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Orientation fondamentale des relations interpersonnelles (FIRO-B)",
+  "nom-folder": "Orientation-fondamentale-relations-interpers",
+  "nom-machine": "terme-2015-12-06-16-26-35-86966231742",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fundamental interpersonal relations orientation"
+    ],
+    "ar": [
+      "العلاقات الشخصية الاساسية توجه"
+    ],
+    "es": [
+      "Orientación fundamental de las relaciones interpersonales (FIRO-B)"
+    ],
+    "fr": [
+      "Orientation fondamentale des relations interpersonnelles (FIRO-B)"
+    ],
+    "it": [
+      "Orientazione fondamentale delle relazioni interpersonali (FIRO-B)"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-40-86966224812",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Dessin/Representation-(dessin)/",
+  "description": "Description de Représentation (dessin)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466918,
+  "identifiant-drupal-parent": 466909,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-40",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Représentation (dessin)",
+  "nom-folder": "Representation-(dessin)",
+  "nom-machine": "terme-2015-12-06-16-24-40-86966224812",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Representation (drawing)"
+    ],
+    "ar": [
+      "التمثيل"
+    ],
+    "es": [
+      "Representación (dibujo)"
+    ],
+    "fr": [
+      "Représentation (dessin)"
+    ],
+    "it": [
+      "Rappresentazione (disegno)"
+    ]
+  }
+}

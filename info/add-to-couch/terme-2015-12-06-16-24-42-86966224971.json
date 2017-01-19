@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-42-86966224971",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litterature-comparee/",
+  "description": "Description de Littérature comparée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466958,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-42",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littérature comparée",
+  "nom-folder": "Litterature-comparee",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-42-86966224971"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Comparative literature"
+    ],
+    "ar": [
+      "أدب المقارن"
+    ],
+    "es": [
+      "Literatura comparada"
+    ],
+    "fr": [
+      "Littérature comparée"
+    ],
+    "it": [
+      "Letteratura comparata"
+    ]
+  }
+}

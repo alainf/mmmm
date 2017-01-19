@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-05-00-87274818001",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Khmer/",
+  "description": "Description de Khmer",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "km",
+  "ISO-639-2": "khm",
+  "ISO-639-3": "khm",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-05-00",
+  "moment-de-modification": "2016-02-04-05-05-43",
+  "nom": "Khmer",
+  "nom-folder": "Khmer",
+  "nom-machine": "terme-2016-02-04-05-05-00-87274818001",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Khmer",
+  "nomLangues": {
+    "en": [
+      "Khmer"
+    ],
+    "ar": [
+      "خميرية"
+    ],
+    "es": [
+      "Jemer"
+    ],
+    "fr": [
+      "Khmer"
+    ],
+    "it": [
+      "Khmer"
+    ],
+    "ru": [
+      "Кхмерский"
+    ]
+  }
+}

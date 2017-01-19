@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-48-86966221704",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Ciencias-basicas-y-experimentales/Generalidades/",
+  "description": "Description de Generalidades",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380848,
+  "identifiant-drupal-parent": 380835,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-48",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Generalidades",
+  "nom-folder": "Generalidades",
+  "nom-machine": "terme-2015-12-06-16-23-48-86966221704",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Generalidades"
+    ]
+  }
+}

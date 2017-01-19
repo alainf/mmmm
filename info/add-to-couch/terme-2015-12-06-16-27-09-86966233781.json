@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-09-86966233781",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Temporalite-urbaine/",
+  "description": "Description de Temporalité urbaine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467130,
+  "identifiant-drupal-parent": 467095,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-09",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Temporalité urbaine",
+  "nom-folder": "Temporalite-urbaine",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-09-86966233781"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban temporality"
+    ],
+    "ar": [
+      "زمنيّة المدنيّة"
+    ],
+    "es": [
+      "Temporalidad urbana"
+    ],
+    "fr": [
+      "Temporalité urbaine"
+    ],
+    "it": [
+      "Temporalità urbana"
+    ]
+  }
+}

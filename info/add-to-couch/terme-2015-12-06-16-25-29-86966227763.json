@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227763",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/Gestion-de-donnees-et-documents-d'archives/ISO-11179/",
+  "description": "Description de ISO 11179 Métadonnées",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1899,
+  "identifiant-drupal-parent": 1898,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 11179 Métadonnées",
+  "nom-folder": "ISO-11179",
+  "nom-machine": "terme-2015-12-06-16-25-29-86966227763",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 11179 Metadata"
+    ],
+    "ar": [
+      "ISO 11179 بيانات التعريف"
+    ],
+    "es": [
+      "ISO 11179 Metadatos"
+    ],
+    "fr": [
+      "ISO 11179 Métadonnées"
+    ],
+    "it": [
+      "Iso 11179 Metadati"
+    ]
+  }
+}

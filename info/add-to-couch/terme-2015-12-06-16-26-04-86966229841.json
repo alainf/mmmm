@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-04-86966229841",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/",
+  "description": "Description de Technosciences",
+  "enfants": [
+    "terme-2015-12-06-16-26-04-86966229844",
+    "terme-2015-12-06-16-26-06-86966229972",
+    "terme-2015-12-06-16-26-06-86966229975",
+    "terme-2015-12-06-16-26-06-86966229978",
+    "terme-2015-12-06-16-26-06-86966229984"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471908,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Technosciences",
+  "nom-folder": "Technosciences",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-04-86966229841"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Technoscience"
+    ],
+    "ar": [
+      "علوم وتكنولوجيا"
+    ],
+    "es": [
+      "Tecnociencias"
+    ],
+    "fr": [
+      "Technosciences"
+    ],
+    "it": [
+      "tecnoscienze"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227155",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Industries-extractives/Compagnies-minieres-et-petrolieres/Sables-bitumineux/",
+  "description": "Description de Sables bitumineux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472262,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Sables bitumineux",
+  "nom-folder": "Sables-bitumineux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227155"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tar sands"
+    ],
+    "ar": [
+      "نفط رملي"
+    ],
+    "es": [
+      "Arena bituminosa"
+    ],
+    "fr": [
+      "Sables bitumineux"
+    ],
+    "it": [
+      "sabbie bituminose"
+    ]
+  }
+}

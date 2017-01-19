@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228237",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-systemes-d'information/Securite-informatique/Ingenierie-sociale/",
+  "description": "Description de Ingénierie sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271405,
+  "identifiant-drupal-parent": 2005,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Ingénierie sociale",
+  "nom-folder": "Ingenierie-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-37-86966228237"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social engineering"
+    ],
+    "ar": [
+      "هندسة الإجتماعية"
+    ],
+    "es": [
+      "Ingeniería social"
+    ],
+    "fr": [
+      "Ingénierie sociale"
+    ],
+    "it": [
+      "Ingegneria sociale"
+    ]
+  }
+}

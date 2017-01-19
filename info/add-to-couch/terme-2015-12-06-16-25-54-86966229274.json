@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229274",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Strategie-d'entreprise-(CSR)/Deploiement-strategique/",
+  "description": "Description de Déploiement stratégique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2241,
+  "identifiant-drupal-parent": 2239,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Déploiement stratégique",
+  "nom-folder": "Deploiement-strategique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229274"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Strategic Deployment"
+    ],
+    "ar": [
+      "الإنتشار الإستراتيجي"
+    ],
+    "es": [
+      "Despliegue estratégico"
+    ],
+    "fr": [
+      "Déploiement stratégique"
+    ],
+    "it": [
+      "Spiegamento strategico"
+    ]
+  }
+}

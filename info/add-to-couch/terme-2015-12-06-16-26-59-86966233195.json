@@ -1,0 +1,61 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233195",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/",
+  "description": "Description de Champs de la sociologie",
+  "enfants": [
+    "terme-2015-12-06-16-26-59-86966233198",
+    "terme-2015-12-06-16-27-00-86966233201",
+    "terme-2015-12-06-16-27-00-86966233206",
+    "terme-2015-12-06-16-27-00-86966233212",
+    "terme-2015-12-06-16-27-00-86966233215",
+    "terme-2015-12-06-16-27-00-86966233230",
+    "terme-2015-12-06-16-27-00-86966233232",
+    "terme-2015-12-06-16-27-00-86966233235",
+    "terme-2015-12-06-16-27-00-86966233238",
+    "terme-2015-12-06-16-27-00-86966233241",
+    "terme-2015-12-06-16-27-00-86966233244",
+    "terme-2015-12-06-16-27-00-86966233247",
+    "terme-2015-12-06-16-27-00-86966233250",
+    "terme-2015-12-06-16-27-00-86966233253",
+    "terme-2015-12-06-16-27-00-86966233256",
+    "terme-2015-12-06-16-27-00-86966233259",
+    "terme-2015-12-06-16-27-01-86966233262",
+    "terme-2015-12-06-16-27-01-86966233265",
+    "terme-2015-12-06-16-27-01-86966233268",
+    "terme-2015-12-06-16-27-01-86966233274",
+    "terme-2015-12-06-16-27-01-86966233277",
+    "terme-2015-12-06-16-27-01-86966233279"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1185,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Champs de la sociologie",
+  "nom-folder": "Champs-de-la-sociologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233195"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fields of sociology"
+    ],
+    "ar": [
+      "ميادين علم الاجتماع"
+    ],
+    "es": [
+      "Campos de la sociología"
+    ],
+    "fr": [
+      "Champs de la sociologie"
+    ],
+    "it": [
+      "campi della sociologia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225851",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finance-de-marche/Taux-d'interet-du-marche/",
+  "description": "Description de Taux d'intérêt du marché",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271337,
+  "identifiant-drupal-parent": 271332,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Taux d'intérêt du marché",
+  "nom-folder": "Taux-d'interet-du-marche",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225851"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Market interest rate"
+    ],
+    "ar": [
+      "سعر الفائدة في السوق"
+    ],
+    "es": [
+      "Tasa de interés del mercado"
+    ],
+    "fr": [
+      "Taux d'intérêt du marché"
+    ],
+    "it": [
+      "Tasso di interesse di mercato"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-05-01-35-31-87279247860",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Avec-quoi-ecrire/Utiliser-un-contenu-base-sur-son-vecu/",
+  "description": "Description de Utiliser un contenu basé sur son vécu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-35-31",
+  "moment-de-modification": "2016-02-05-01-38-21",
+  "nom": "Utiliser un contenu basé sur son vécu",
+  "nom-folder": "Utiliser-un-contenu-base-sur-son-vecu",
+  "nom-machine": "terme-2016-02-05-01-35-31-87279247860",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Use content based on one's experience"
+    ],
+    "es": [
+      "Utilizar un contenido basado en sus experiencias"
+    ],
+    "fr": [
+      "Utiliser un contenu basé sur son vécu"
+    ],
+    "it": [
+      "Utilizzare un contenuto basato sul proprio vissuto"
+    ]
+  }
+}

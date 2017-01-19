@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-17-10-87404245846",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/comment-ecrire/faire-appel-a-ses-souvenirs/experience-de-vie/",
+  "description": "Description de Expérience de vie",
+  "enfants": [
+    "terme-2016-02-29-04-17-49-87404248161"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-17-10",
+  "moment-de-modification": "2016-02-29-04-17-40",
+  "nom": "Expérience de vie",
+  "nom-folder": "experience-de-vie",
+  "nom-machine": "terme-2016-02-29-04-17-10-87404245846",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Life experience"
+    ],
+    "fr": [
+      "Expérience de vie"
+    ]
+  }
+}

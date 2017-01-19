@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224263",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/Reproduction-animale/Animaux-domestiques/",
+  "description": "Description de Animaux domestiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269014,
+  "identifiant-drupal-parent": 269002,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Animaux domestiques",
+  "nom-folder": "Animaux-domestiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-31-86966224263"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Domestic animals"
+    ],
+    "ar": [
+      "الحيوانات الأليفة"
+    ],
+    "es": [
+      "Animales domésticos"
+    ],
+    "fr": [
+      "Animaux domestiques"
+    ],
+    "it": [
+      "animali domestici"
+    ]
+  }
+}

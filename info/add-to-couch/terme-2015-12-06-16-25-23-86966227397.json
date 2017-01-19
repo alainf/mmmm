@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227397",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Organisations-economiques-regionales/",
+  "description": "Description de Organisations économiques régionales",
+  "enfants": [
+    "terme-2015-12-06-16-25-23-86966227400",
+    "terme-2015-12-06-16-25-23-86966227403",
+    "terme-2015-12-06-16-25-23-86966227405",
+    "terme-2015-12-06-16-25-23-86966227408"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1812,
+  "identifiant-drupal-parent": 1802,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Organisations économiques régionales",
+  "nom-folder": "Organisations-economiques-regionales",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-23-86966227397"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Regional economic organizations"
+    ],
+    "ar": [
+      "المنظمات الاقتصادية الإقليمية"
+    ],
+    "es": [
+      "Organizaciones económicas regionales"
+    ],
+    "fr": [
+      "Organisations économiques régionales"
+    ],
+    "it": [
+      "Organizzazioni economiche regionali"
+    ]
+  }
+}

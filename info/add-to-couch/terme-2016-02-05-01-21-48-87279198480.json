@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-05-01-21-48-87279198480",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Pourquoi-ecrire/",
+  "description": "Description de Pourquoi écrire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-21-48",
+  "moment-de-modification": "2016-02-05-01-22-35",
+  "nom": "Pourquoi écrire",
+  "nom-folder": "Pourquoi-ecrire",
+  "nom-machine": "terme-2016-02-05-01-21-48-87279198480",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Why write"
+    ],
+    "es": [
+      "Porqué escribir"
+    ],
+    "fr": [
+      "Pourquoi écrire"
+    ],
+    "it": [
+      "Perché scrivere"
+    ]
+  }
+}

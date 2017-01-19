@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-45-86966228711",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Relations-industrielles/",
+  "description": "Description de Relations industrielles",
+  "enfants": [
+    "terme-2015-12-06-16-25-45-86966228714",
+    "terme-2015-12-06-16-25-45-86966228721",
+    "terme-2015-12-06-16-25-45-86966228724",
+    "terme-2015-12-06-16-25-45-86966228730"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2223,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-45",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Relations industrielles",
+  "nom-folder": "Relations-industrielles",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-45-86966228711"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial Relations"
+    ],
+    "ar": [
+      "العلاقات الصناعية"
+    ],
+    "es": [
+      "Relaciones industriales"
+    ],
+    "fr": [
+      "Relations industrielles"
+    ],
+    "it": [
+      "relazioni industriali"
+    ]
+  }
+}

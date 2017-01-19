@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225843",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finance-de-marche/Marches-financiers/",
+  "description": "Description de Marchés financiers",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271334,
+  "identifiant-drupal-parent": 271332,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Marchés financiers",
+  "nom-folder": "Marches-financiers",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225843"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial Markets"
+    ],
+    "ar": [
+      "الأسواق المالية"
+    ],
+    "es": [
+      "Mercados financieros"
+    ],
+    "fr": [
+      "Marchés financiers"
+    ],
+    "it": [
+      "Mercati finanziari"
+    ]
+  }
+}

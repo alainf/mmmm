@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-49-86966232586",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Relations-intergroupes/",
+  "description": "Description de Relations intergroupes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1097,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-49",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Relations intergroupes",
+  "nom-folder": "Relations-intergroupes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-49-86966232586"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intergroup relations"
+    ],
+    "ar": [
+      "العلاقات بين المجموعات"
+    ],
+    "es": [
+      "Relaciones entre los grupos"
+    ],
+    "fr": [
+      "Relations intergroupes"
+    ],
+    "it": [
+      "Relazioni tra gruppi"
+    ]
+  }
+}

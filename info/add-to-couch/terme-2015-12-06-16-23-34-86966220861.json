@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220861",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Processus-industriels/Comptabilite-de-l'entreprise/",
+  "description": "Description de Comptabilité de l'entreprise",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270487,
+  "identifiant-drupal-parent": 270584,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Comptabilité de l'entreprise",
+  "nom-folder": "Comptabilite-de-l'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220861"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business accounting"
+    ],
+    "ar": [
+      "المحاسبة التجارية"
+    ],
+    "es": [
+      "Contabilidad de la empresa"
+    ],
+    "fr": [
+      "Comptabilité de l'entreprise"
+    ],
+    "it": [
+      "Contabilità aziendale"
+    ]
+  }
+}

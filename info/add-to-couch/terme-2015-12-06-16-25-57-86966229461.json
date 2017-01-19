@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-57-86966229461",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theorie-de-la-decision-(organisations)/",
+  "description": "Description de Théorie de la décision (organisations)",
+  "enfants": [
+    "terme-2015-12-06-16-25-57-86966229464"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2280,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-57",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Théorie de la décision (organisations)",
+  "nom-folder": "Theorie-de-la-decision-(organisations)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-57-86966229461"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Decision theory (organizations)"
+    ],
+    "ar": [
+      "نظرية القرار (منظمات)"
+    ],
+    "es": [
+      "Teoría de la decisión (organizaciones)"
+    ],
+    "fr": [
+      "Théorie de la décision (organisations)"
+    ],
+    "it": [
+      "Teoria della decisione (organizzazioni)"
+    ]
+  }
+}

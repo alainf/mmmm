@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232428",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Recherche-sociale-empirique/",
+  "description": "Description de Recherche sociale empirique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272240,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Recherche sociale empirique",
+  "nom-folder": "Recherche-sociale-empirique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232428"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Empirical Social Research"
+    ],
+    "ar": [
+      "البحث الاجتماعي التجريبي"
+    ],
+    "es": [
+      "Investigación Social Empírica"
+    ],
+    "fr": [
+      "Recherche sociale empirique"
+    ],
+    "it": [
+      "ricerca sociale empirica"
+    ]
+  }
+}

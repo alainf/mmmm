@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224021",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Cereales/Autres-cultures-cerealieres/",
+  "description": "Description de Autres cultures céréalières",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451051,
+  "identifiant-drupal-parent": 937,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Autres cultures céréalières",
+  "nom-folder": "Autres-cultures-cerealieres",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224021",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Other grain crops"
+    ],
+    "ar": [
+      "محاصيل الحبوب الأخرى"
+    ],
+    "es": [
+      "Otros tipos de cerealicultura"
+    ],
+    "fr": [
+      "Autres cultures céréalières"
+    ],
+    "it": [
+      "Altre colture cerealicole"
+    ]
+  }
+}

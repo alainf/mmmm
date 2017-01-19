@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226342",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Enseignement-des-mathematiques/",
+  "description": "Description de Enseignement des mathématiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270845,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Enseignement des mathématiques",
+  "nom-folder": "Enseignement-des-mathematiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226342"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching mathematics"
+    ],
+    "ar": [
+      "تدريس الرياضيات"
+    ],
+    "es": [
+      "Enseñanza de las matemáticas"
+    ],
+    "fr": [
+      "Enseignement des mathématiques"
+    ],
+    "it": [
+      "Insegnamento delle matematiche"
+    ]
+  }
+}

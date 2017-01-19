@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229346",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Construction-sociale/",
+  "description": "Description de Construction sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2254,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Construction sociale",
+  "nom-folder": "Construction-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-55-86966229346"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social construction"
+    ],
+    "ar": [
+      "البناء الاجتماعي"
+    ],
+    "es": [
+      "Construcción social"
+    ],
+    "fr": [
+      "Construction sociale"
+    ],
+    "it": [
+      "costruzione sociale"
+    ]
+  }
+}

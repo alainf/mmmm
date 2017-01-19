@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224305",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Enseignement-en-zootechnie/",
+  "description": "Description de Enseignement en zootechnie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269027,
+  "identifiant-drupal-parent": 940,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Enseignement en zootechnie",
+  "nom-folder": "Enseignement-en-zootechnie",
+  "nom-machine": "terme-2015-12-06-16-24-31-86966224305",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching in Animal Science"
+    ],
+    "ar": [
+      "تدريس تربية الحيوانات"
+    ],
+    "es": [
+      "Enseñanza en Zootecnia"
+    ],
+    "fr": [
+      "Enseignement en zootechnie"
+    ],
+    "it": [
+      "Insegnamento nella zootecnia"
+    ]
+  }
+}

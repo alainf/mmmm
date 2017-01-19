@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-20-86966234439",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/catalogue/repertoire/",
+  "description": "Description de Repertoire",
+  "enfants": [
+    "terme-2015-12-06-16-27-20-86966234442",
+    "terme-2015-12-06-16-27-20-86966234445"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369407,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-20",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Repertoire",
+  "nom-folder": "repertoire",
+  "nom-machine": "terme-2015-12-06-16-27-20-86966234439",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Directory"
+    ],
+    "es": [
+      "Repertorio"
+    ],
+    "fr": [
+      "Repertoire"
+    ],
+    "it": [
+      "Repertorio"
+    ]
+  }
+}

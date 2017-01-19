@@ -1,0 +1,27 @@
+{
+  "_id": "terme-2015-12-12-17-35-13-86997582828",
+  "breadcrumb": "taxonomies/formats/Word/",
+  "description": "Description de Word",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-12-17-35-13",
+  "nom": "Word",
+  "nom-folder": "Word",
+  "nom-machine": "terme-2015-12-12-17-35-13-86997582828",
+  "sous-type": "formats",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Word"
+    ],
+    "es": [
+      "Word"
+    ],
+    "fr": [
+      "Word"
+    ],
+    "it": [
+      "Word"
+    ]
+  }
+}

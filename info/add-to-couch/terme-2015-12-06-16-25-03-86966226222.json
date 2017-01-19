@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226222",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/Philologie/",
+  "description": "Description de Philologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270401,
+  "identifiant-drupal-parent": 270393,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Philologie",
+  "nom-folder": "Philologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-03-86966226222"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philology"
+    ],
+    "ar": [
+      "فقه اللغة"
+    ],
+    "es": [
+      "Filología"
+    ],
+    "fr": [
+      "Philologie"
+    ],
+    "it": [
+      "filologia"
+    ]
+  }
+}

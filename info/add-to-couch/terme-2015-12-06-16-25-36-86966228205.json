@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-36-86966228205",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-systemes-d'information/Categories-de-systemes-d'information/Systemes-d'information-de-gestion/",
+  "description": "Description de Systèmes d'information de gestion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1995,
+  "identifiant-drupal-parent": 1994,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-36",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Systèmes d'information de gestion",
+  "nom-folder": "Systemes-d'information-de-gestion",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-36-86966228205"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management Information Systems"
+    ],
+    "ar": [
+      "نظم المعلومات الإدارية"
+    ],
+    "es": [
+      "Sistemas de información gerencial"
+    ],
+    "fr": [
+      "Systèmes d'information de gestion"
+    ],
+    "it": [
+      "Sistemi d'informazione di gestione"
+    ]
+  }
+}

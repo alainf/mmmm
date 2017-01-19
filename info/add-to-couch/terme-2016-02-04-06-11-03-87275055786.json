@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-11-03-87275055786",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Sarde/",
+  "description": "Description de Sarde",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "sc",
+  "ISO-639-2": "srd",
+  "ISO-639-3": "srd",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-11-03",
+  "moment-de-modification": "2016-02-04-06-11-39",
+  "nom": "Sarde",
+  "nom-folder": "Sarde",
+  "nom-machine": "terme-2016-02-04-06-11-03-87275055786",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Sarde",
+  "nomLangues": {
+    "en": [
+      "Sardinian"
+    ],
+    "ar": [
+      "سردينية"
+    ],
+    "es": [
+      "Sardo"
+    ],
+    "fr": [
+      "Sarde"
+    ],
+    "it": [
+      "Sardo"
+    ],
+    "ru": [
+      "Сардинский"
+    ]
+  }
+}

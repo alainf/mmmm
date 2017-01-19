@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228326",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Gestion-des-comptes-clients/",
+  "description": "Description de Gestion des comptes-clients",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451182,
+  "identifiant-drupal-parent": 2017,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion des comptes-clients",
+  "nom-folder": "Gestion-des-comptes-clients",
+  "nom-machine": "terme-2015-12-06-16-25-38-86966228326",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Client account management"
+    ],
+    "ar": [
+      "إدارة حسابات-الزبائن"
+    ],
+    "es": [
+      "Gestión de cuentas de clientes"
+    ],
+    "fr": [
+      "Gestion des comptes-clients"
+    ],
+    "it": [
+      "Gestione dei conti clienti"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-27-15-86966234150",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/revue/",
+  "description": "Description de Revue",
+  "enfants": [
+    "terme-2015-12-06-16-27-15-86966234153",
+    "terme-2015-12-06-16-27-15-86966234156",
+    "terme-2015-12-06-16-27-15-86966234159",
+    "terme-2015-12-06-16-27-16-86966234162",
+    "terme-2015-12-06-16-27-16-86966234165"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369485,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-15",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Revue",
+  "nom-folder": "revue",
+  "nom-machine": "terme-2015-12-06-16-27-15-86966234150",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Magazine"
+    ],
+    "es": [
+      "Magazín"
+    ],
+    "fr": [
+      "Revue"
+    ],
+    "it": [
+      "Rivista"
+    ]
+  }
+}

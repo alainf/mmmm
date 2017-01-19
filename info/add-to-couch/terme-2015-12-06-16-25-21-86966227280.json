@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227280",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-de-cosmetiques/",
+  "description": "Description de Commerce de gros de cosmétiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451129,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros de cosmétiques",
+  "nom-folder": "C-de-g-de-cosmetiques",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227280",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale of cosmetics"
+    ],
+    "ar": [
+      "تجارة بالجملة لمستحضرات التجميلية"
+    ],
+    "es": [
+      "Venta al por mayor de cosméticos"
+    ],
+    "fr": [
+      "Commerce de gros de cosmétiques"
+    ],
+    "it": [
+      "Commercio all'ingrosso di cosmetici"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230827",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Fabrication-de-produits-chimiques/",
+  "description": "Description de Fabrication de produits chimiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-20-86966230829",
+    "terme-2015-12-06-16-26-20-86966230832",
+    "terme-2015-12-06-16-26-20-86966230835",
+    "terme-2015-12-06-16-26-20-86966230838",
+    "terme-2015-12-06-16-26-20-86966230841",
+    "terme-2015-12-06-16-26-20-86966230843",
+    "terme-2015-12-06-16-26-20-86966230846",
+    "terme-2015-12-06-16-26-20-86966230849",
+    "terme-2015-12-06-16-26-20-86966230852",
+    "terme-2015-12-06-16-26-20-86966230855"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451099,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Fabrication de produits chimiques",
+  "nom-folder": "Fabrication-de-produits-chimiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-20-86966230827"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chemical product manufacturing"
+    ],
+    "ar": [
+      "تصنيع المنتجات الكيميائية"
+    ],
+    "es": [
+      "Fabricación de productos químicos"
+    ],
+    "fr": [
+      "Fabrication de produits chimiques"
+    ],
+    "it": [
+      "Fabbricazione di prodotti chimici"
+    ]
+  }
+}

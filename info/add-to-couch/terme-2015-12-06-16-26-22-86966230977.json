@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230977",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Afrique/",
+  "description": "Description de Afrique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471976,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Afrique",
+  "nom-folder": "Afrique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230977"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Africa"
+    ],
+    "ar": [
+      "أفريقيا"
+    ],
+    "es": [
+      "África"
+    ],
+    "fr": [
+      "Afrique"
+    ],
+    "it": [
+      "Africa"
+    ]
+  }
+}

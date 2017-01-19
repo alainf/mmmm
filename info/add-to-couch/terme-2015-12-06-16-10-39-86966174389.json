@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-39-86966174389",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/centre-de-recherche-independant/",
+  "description": "Description de Centre de recherche indépendant",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-39",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Centre de recherche indépendant",
+  "nom-folder": "centre-de-recherche-independant",
+  "nom-machine": "terme-2015-12-06-16-10-39-86966174389",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Independent research center"
+    ],
+    "ar": [
+      "مركز أبحاث مستقل"
+    ],
+    "es": [
+      "Centro de investigación independiente"
+    ],
+    "fr": [
+      "Centre de recherche indépendant"
+    ],
+    "it": [
+      "Centro di ricerca indipendente"
+    ]
+  }
+}

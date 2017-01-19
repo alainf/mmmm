@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231637",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Analyse-freudienne/",
+  "description": "Description de Analyse freudienne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451180,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Analyse freudienne",
+  "nom-folder": "Analyse-freudienne",
+  "nom-machine": "terme-2015-12-06-16-26-33-86966231637",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Freudian analysis"
+    ],
+    "ar": [
+      "التحليل فرويدي"
+    ],
+    "es": [
+      "Análisis freudiano"
+    ],
+    "fr": [
+      "Analyse freudienne"
+    ],
+    "it": [
+      "Analisi freudiana"
+    ]
+  }
+}

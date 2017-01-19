@@ -1,0 +1,76 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232485",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/",
+  "description": "Description de Quelques thèmes étudiés par la psychologie sociale",
+  "enfants": [
+    "terme-2015-12-06-16-26-48-86966232488",
+    "terme-2015-12-06-16-26-48-86966232491",
+    "terme-2015-12-06-16-26-48-86966232494",
+    "terme-2015-12-06-16-26-48-86966232497",
+    "terme-2015-12-06-16-26-48-86966232500",
+    "terme-2015-12-06-16-26-48-86966232503",
+    "terme-2015-12-06-16-26-48-86966232506",
+    "terme-2015-12-06-16-26-48-86966232509",
+    "terme-2015-12-06-16-26-48-86966232512",
+    "terme-2015-12-06-16-26-48-86966232515",
+    "terme-2015-12-06-16-26-48-86966232518",
+    "terme-2015-12-06-16-26-48-86966232520",
+    "terme-2015-12-06-16-26-48-86966232523",
+    "terme-2015-12-06-16-26-48-86966232526",
+    "terme-2015-12-06-16-26-48-86966232529",
+    "terme-2015-12-06-16-26-48-86966232532",
+    "terme-2015-12-06-16-26-48-86966232535",
+    "terme-2015-12-06-16-26-49-86966232540",
+    "terme-2015-12-06-16-26-49-86966232542",
+    "terme-2015-12-06-16-26-49-86966232545",
+    "terme-2015-12-06-16-26-49-86966232548",
+    "terme-2015-12-06-16-26-49-86966232551",
+    "terme-2015-12-06-16-26-49-86966232554",
+    "terme-2015-12-06-16-26-49-86966232556",
+    "terme-2015-12-06-16-26-49-86966232559",
+    "terme-2015-12-06-16-26-49-86966232562",
+    "terme-2015-12-06-16-26-49-86966232565",
+    "terme-2015-12-06-16-26-49-86966232568",
+    "terme-2015-12-06-16-26-49-86966232571",
+    "terme-2015-12-06-16-26-49-86966232574",
+    "terme-2015-12-06-16-26-49-86966232577",
+    "terme-2015-12-06-16-26-49-86966232580",
+    "terme-2015-12-06-16-26-49-86966232582",
+    "terme-2015-12-06-16-26-49-86966232586",
+    "terme-2015-12-06-16-26-49-86966232589",
+    "terme-2015-12-06-16-26-49-86966232592",
+    "terme-2015-12-06-16-26-49-86966232595"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1062,
+  "identifiant-drupal-parent": 1002,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Quelques thèmes étudiés par la psychologie sociale",
+  "nom-folder": "Quelques-themes-etudies-par-la-psychologie-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-48-86966232485"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social Psychology Topics"
+    ],
+    "ar": [
+      "بعض المواضيع التي يغطيها علم النفس الاجتماعي"
+    ],
+    "es": [
+      "Algunos temas cubiertos por la psicología social"
+    ],
+    "fr": [
+      "Quelques thèmes étudiés par la psychologie sociale"
+    ],
+    "it": [
+      "Alcune aree studiate da psicologia sociale"
+    ]
+  }
+}

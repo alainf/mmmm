@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-23-27-86966220442",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/periodes/annee/",
+  "description": "Description de Année",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368259,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-27",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Année",
+  "nom-folder": "annee",
+  "nom-machine": "terme-2015-12-06-16-23-27-86966220442",
+  "sous-type": "periodes",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Year"
+    ],
+    "ar": [
+      "سنة"
+    ],
+    "es": [
+      "Año"
+    ],
+    "fr": [
+      "Année"
+    ],
+    "it": [
+      "Anno"
+    ]
+  }
+}

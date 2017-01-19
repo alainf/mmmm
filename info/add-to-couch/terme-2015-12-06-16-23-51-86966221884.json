@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2015-12-06-16-23-51-86966221884",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Psicologia-y-educacion/",
+  "description": "Description de Psicologia y educacion",
+  "enfants": [
+    "terme-2015-12-06-16-23-51-86966221887",
+    "terme-2015-12-06-16-23-51-86966221889",
+    "terme-2015-12-06-16-23-51-86966221892",
+    "terme-2015-12-06-16-23-51-86966221895",
+    "terme-2015-12-06-16-23-51-86966221897"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380844,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-51",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Psicologia y educacion",
+  "nom-folder": "Psicologia-y-educacion",
+  "nom-machine": "terme-2015-12-06-16-23-51-86966221884",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Psicologia y educacion"
+    ]
+  }
+}

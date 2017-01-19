@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227651",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/",
+  "description": "Description de Organisation de la production",
+  "enfants": [
+    "terme-2015-12-06-16-25-27-86966227654",
+    "terme-2015-12-06-16-25-27-86966227657",
+    "terme-2015-12-06-16-25-27-86966227668",
+    "terme-2015-12-06-16-25-28-86966227680"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1854,
+  "identifiant-drupal-parent": 1837,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Organisation de la production",
+  "nom-folder": "Organisation-de-la-production",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-27-86966227651"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organization of production"
+    ],
+    "ar": [
+      "تنظيم الإنتاج"
+    ],
+    "es": [
+      "Organización de la producción"
+    ],
+    "fr": [
+      "Organisation de la production"
+    ],
+    "it": [
+      "organizzazione della produzione"
+    ]
+  }
+}

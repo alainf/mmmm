@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-43-86966174622",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Langues-amerindiennes/",
+  "description": "Description de Langues amérindiennes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382419,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-43",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Langues amérindiennes",
+  "nom-folder": "Langues-amerindiennes",
+  "nom-machine": "terme-2015-12-06-16-10-43-86966174622",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Indigenous languages of the americas"
+    ],
+    "ar": [
+      "اللغات الأصلية للأمريكتين"
+    ],
+    "es": [
+      "Lenguas indígenas de américa"
+    ],
+    "fr": [
+      "Langues amérindiennes"
+    ],
+    "it": [
+      "Lingue native americane"
+    ],
+    "ru": [
+      "Индейские языки"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233730",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Usage-residentiel-des-territoires/",
+  "description": "Description de Usage résidentiel des territoires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472358,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Usage résidentiel des territoires",
+  "nom-folder": "Usage-residentiel-des-territoires",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-08-86966233730"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Residential land use"
+    ],
+    "ar": [
+      "استخدام السكني للأراضي"
+    ],
+    "es": [
+      "Uso residencial de los territorios"
+    ],
+    "fr": [
+      "Usage résidentiel des territoires"
+    ],
+    "it": [
+      "Uso residenziale dei territori"
+    ]
+  }
+}

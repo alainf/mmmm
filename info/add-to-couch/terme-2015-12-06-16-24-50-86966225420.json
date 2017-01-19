@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-50-86966225420",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-des-affaires/Droit-boursier-(affaires)/",
+  "description": "Description de Droit boursier (affaires)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269130,
+  "identifiant-drupal-parent": 269121,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-50",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit boursier (affaires)",
+  "nom-folder": "Droit-boursier-(affaires)",
+  "nom-machine": "terme-2015-12-06-16-24-50-86966225420",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Securities regulation"
+    ],
+    "ar": [
+      "قانون البورصة (الأعمال)"
+    ],
+    "es": [
+      "Regulación de valores"
+    ],
+    "fr": [
+      "Droit boursier (affaires)"
+    ],
+    "it": [
+      "Diritto della banca e della borsa"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233513",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Religiosite/Laicite/",
+  "description": "Laà¯cité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1296,
+  "identifiant-drupal-parent": 1259,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Laïcité",
+  "nom-folder": "Laicite",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-05-86966233513"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Secularism"
+    ],
+    "ar": [
+      "علمانية"
+    ],
+    "es": [
+      "Laicismo"
+    ],
+    "fr": [
+      "Laïcité"
+    ],
+    "it": [
+      "Laicismo"
+    ]
+  }
+}

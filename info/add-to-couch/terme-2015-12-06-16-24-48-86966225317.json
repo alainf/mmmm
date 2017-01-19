@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-48-86966225317",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-familiales/",
+  "description": "Description de Études familiales",
+  "enfants": [
+    "terme-2015-12-06-16-24-48-86966225320"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466720,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-48",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études familiales",
+  "nom-folder": "Etudes-familiales",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-48-86966225317"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Family Studies"
+    ],
+    "ar": [
+      "دراسات الأسرة"
+    ],
+    "es": [
+      "Estudios de la Familia"
+    ],
+    "fr": [
+      "Études familiales"
+    ],
+    "it": [
+      "Studi della famiglia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174770",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Serere/",
+  "description": "Description de Sérère",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382166,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Sérère",
+  "nom-folder": "Serere",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174770",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Serer"
+    ],
+    "ar": [
+      "سيريرية"
+    ],
+    "es": [
+      "Serer"
+    ],
+    "fr": [
+      "Sérère"
+    ],
+    "it": [
+      "Serer"
+    ],
+    "ru": [
+      "Серер"
+    ]
+  }
+}

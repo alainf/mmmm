@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224039",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Cereales/Culture-du-mais/",
+  "description": "Culture du maà¯s",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451049,
+  "identifiant-drupal-parent": 937,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture du maïs",
+  "nom-folder": "Culture-du-mais",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224039",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corn farming"
+    ],
+    "ar": [
+      "زراعة ذرة"
+    ],
+    "es": [
+      "Cultivo de maiz"
+    ],
+    "fr": [
+      "Culture du maïs"
+    ],
+    "it": [
+      "Coltivazione di mais"
+    ]
+  }
+}

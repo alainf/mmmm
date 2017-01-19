@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231270",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/",
+  "description": "Description de Médecine",
+  "enfants": [
+    "terme-2015-12-06-16-26-27-86966231274",
+    "terme-2015-12-06-16-26-28-86966231283",
+    "terme-2015-12-06-16-26-28-86966231286",
+    "terme-2015-12-06-16-26-28-86966231291",
+    "terme-2015-12-06-16-26-28-86966231295",
+    "terme-2015-12-06-16-26-28-86966231298",
+    "terme-2015-12-06-16-26-28-86966231301",
+    "terme-2015-12-06-16-26-28-86966231304",
+    "terme-2015-12-06-16-26-28-86966231308",
+    "terme-2015-12-06-16-26-28-86966231332",
+    "terme-2015-12-06-16-26-28-86966231334",
+    "terme-2015-12-06-16-26-29-86966231356",
+    "terme-2015-12-06-16-26-31-86966231489"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1399,
+  "identifiant-drupal-parent": 890,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Médecine",
+  "nom-folder": "Medecine",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-27-86966231270"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medicine"
+    ],
+    "ar": [
+      "طب"
+    ],
+    "es": [
+      "Medicina"
+    ],
+    "fr": [
+      "Médecine"
+    ],
+    "it": [
+      "Medicina"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-13-86966234003",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/visite-touristique/",
+  "description": "Description de Visite touristique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 379165,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Visite touristique",
+  "nom-folder": "visite-touristique",
+  "nom-machine": "terme-2015-12-06-16-27-13-86966234003",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tourist visit"
+    ],
+    "es": [
+      "Visita turística"
+    ],
+    "fr": [
+      "Visite touristique"
+    ],
+    "it": [
+      "Giro turistico"
+    ]
+  }
+}

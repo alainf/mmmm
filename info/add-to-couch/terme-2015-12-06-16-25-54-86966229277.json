@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229277",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Strategie-d'entreprise-(CSR)/Enjeux-et-histoire-de-la-strategie-d'entreprise/",
+  "description": "Description de Enjeux et histoire de la stratégie d'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2242,
+  "identifiant-drupal-parent": 2239,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Enjeux et histoire de la stratégie d'entreprise",
+  "nom-folder": "Enjeux-et-histoire-de-la-strategie-d'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229277"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business strategy issues and history"
+    ],
+    "ar": [
+      "قضايا وتاريخ استراتيجية الشركات"
+    ],
+    "es": [
+      "Cuestiones e historia de la estrategia empresarial"
+    ],
+    "fr": [
+      "Enjeux et histoire de la stratégie d'entreprise"
+    ],
+    "it": [
+      "Sfide e storia della strategia aziendale"
+    ]
+  }
+}

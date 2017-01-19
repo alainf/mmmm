@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226026",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/",
+  "description": "Description de Intelligence artificielle",
+  "enfants": [
+    "terme-2015-12-06-16-25-00-86966226028"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270356,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Intelligence artificielle",
+  "nom-folder": "Intelligence-artificielle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-00-86966226026"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Artificial intelligence"
+    ],
+    "ar": [
+      "ذكاء إصطناعي"
+    ],
+    "es": [
+      "Inteligencia artificial"
+    ],
+    "fr": [
+      "Intelligence artificielle"
+    ],
+    "it": [
+      "Intelligenza artificiale"
+    ]
+  }
+}

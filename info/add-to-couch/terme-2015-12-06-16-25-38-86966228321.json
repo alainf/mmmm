@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228321",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Excedent-brut-d'exploitation-ou-EBE/",
+  "description": "Excédent brut d'exploitation ou EBE",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2026,
+  "identifiant-drupal-parent": 2017,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Excédent brut d'exploitation ou BAIIDA",
+  "nom-folder": "Excedent-brut-d'exploitation-ou-EBE",
+  "nom-machine": "terme-2015-12-06-16-25-38-86966228321",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Gross operating surplus"
+    ],
+    "ar": [
+      "فائض الإجمالي للتشغيل"
+    ],
+    "es": [
+      "Excedente bruto de explotación"
+    ],
+    "fr": [
+      "Excédent brut d'exploitation ou BAIIDA"
+    ],
+    "it": [
+      "Margine operativo lordo o EBITDA"
+    ],
+    "ru": []
+  }
+}

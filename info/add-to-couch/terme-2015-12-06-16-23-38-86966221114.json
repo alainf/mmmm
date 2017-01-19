@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221114",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Affaires,-economie-et-finances-personnelles/Business-planetaire/",
+  "description": "Description de Business planétaire",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270670,
+  "identifiant-drupal-parent": 270643,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Business planétaire",
+  "nom-folder": "Business-planetaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221114"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Global business"
+    ],
+    "ar": [
+      "الأعمال التجارية العالمية"
+    ],
+    "es": [
+      "Empresa global"
+    ],
+    "fr": [
+      "Business planétaire"
+    ],
+    "it": [
+      "Impresa globale"
+    ],
+    "ru": [
+      "Глобальное предприятие"
+    ]
+  }
+}

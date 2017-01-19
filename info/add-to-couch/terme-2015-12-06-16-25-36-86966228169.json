@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-36-86966228169",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-ressources-humaines/Stages-etudiants/",
+  "description": "Description de Stages étudiants",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472285,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-36",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Stages étudiants",
+  "nom-folder": "Stages-etudiants",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-36-86966228169"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Student internships"
+    ],
+    "ar": [
+      "طالب التدريب الداخلي"
+    ],
+    "es": [
+      "Pasantías estudiantiles"
+    ],
+    "fr": [
+      "Stages étudiants"
+    ],
+    "it": [
+      "Tirocini studenteschi"
+    ]
+  }
+}

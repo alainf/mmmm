@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966227989",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-de-programme/",
+  "description": "Description de Gestion de programme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472067,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion de programme",
+  "nom-folder": "Gestion-de-programme",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-33-86966227989"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Program management"
+    ],
+    "ar": [
+      "إدارة البرنامج"
+    ],
+    "es": [
+      "Gestión de programa"
+    ],
+    "fr": [
+      "Gestion de programme"
+    ],
+    "it": [
+      "gestione di programma"
+    ]
+  }
+}

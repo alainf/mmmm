@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174855",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/licences/Creative-Commons/",
+  "description": "Description de Creative commons",
+  "enfants": [
+    "terme-2015-12-06-16-10-47-86966174858",
+    "terme-2015-12-06-16-10-47-86966174860",
+    "terme-2015-12-06-16-10-47-86966174862",
+    "terme-2015-12-06-16-10-47-86966174865",
+    "terme-2015-12-06-16-10-47-86966174867",
+    "terme-2015-12-06-16-10-47-86966174869"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Creative commons",
+  "nom-folder": "Creative-Commons",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174855",
+  "sous-type": "licences",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Creative commons"
+    ],
+    "ar": [
+      "المشاع الإبداعي"
+    ],
+    "es": [
+      "Creative commons"
+    ],
+    "fr": [
+      "Creative commons"
+    ],
+    "it": [
+      "Creative commons"
+    ]
+  }
+}

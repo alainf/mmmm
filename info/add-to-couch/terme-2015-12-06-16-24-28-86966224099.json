@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224099",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Plantes-medicinales/",
+  "description": "Description de Plantes médicinales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268984,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Plantes médicinales",
+  "nom-folder": "Plantes-medicinales",
+  "nom-machine": "terme-2015-12-06-16-24-28-86966224099",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medicinal plants"
+    ],
+    "ar": [
+      "النباتات الطبية"
+    ],
+    "es": [
+      "Plantas medicinales"
+    ],
+    "fr": [
+      "Plantes médicinales"
+    ],
+    "it": [
+      "Piante medicinali"
+    ]
+  }
+}

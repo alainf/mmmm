@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-42-86966232147",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Courants-anthropologiques/Anthropologie-post-culturaliste/",
+  "description": "Description de Anthropologie post-culturaliste",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1037,
+  "identifiant-drupal-parent": 1025,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-42",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie post-culturaliste",
+  "nom-folder": "Anthropologie-post-culturaliste",
+  "nom-machine": "terme-2015-12-06-16-26-42-86966232147",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Post-cultural anthropology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا بعد-ثقافوية"
+    ],
+    "es": [
+      "Antropología posculturalista"
+    ],
+    "fr": [
+      "Anthropologie post-culturaliste"
+    ],
+    "it": [
+      "Antropologia post-culturalista"
+    ]
+  }
+}

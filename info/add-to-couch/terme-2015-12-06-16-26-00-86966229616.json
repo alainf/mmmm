@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229616",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Facteurs-d'influence-du-prix-de-vente/",
+  "description": "Description de Facteurs d'influence du prix de vente",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2054,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Facteurs d'influence du prix de vente",
+  "nom-folder": "Facteurs-d'influence-du-prix-de-vente",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-00-86966229616"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Factors leveraging the selling price"
+    ],
+    "ar": [
+      "العوامل المؤثرة على سعر البيع"
+    ],
+    "es": [
+      "Factores que influyen en el precio de venta"
+    ],
+    "fr": [
+      "Facteurs d'influence du prix de vente"
+    ],
+    "it": [
+      "Fattori d'influenza del prezzo di vendita"
+    ]
+  }
+}

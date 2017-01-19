@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232761",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Anti-extremisme/",
+  "description": "Description de Anti-extrémisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471917,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Anti-extrémisme",
+  "nom-folder": "Anti-extremisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232761"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anti-extremism"
+    ],
+    "ar": [
+      "ضد التطرف"
+    ],
+    "es": [
+      "Antiextremismo"
+    ],
+    "fr": [
+      "Anti-extrémisme"
+    ],
+    "it": [
+      "Anti-estremismo"
+    ]
+  }
+}

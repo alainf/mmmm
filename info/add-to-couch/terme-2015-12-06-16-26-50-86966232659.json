@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232659",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Actualites-politiques/Guerre-et-politique/Tiers-monde/",
+  "description": "Description de Tiers monde",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455689,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Tiers monde",
+  "nom-folder": "Tiers-monde",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232659"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Third World"
+    ],
+    "ar": [
+      "العالم الثالث"
+    ],
+    "es": [
+      "Tercer mundo"
+    ],
+    "fr": [
+      "Tiers monde"
+    ],
+    "it": [
+      "Terzo Mondo"
+    ]
+  }
+}

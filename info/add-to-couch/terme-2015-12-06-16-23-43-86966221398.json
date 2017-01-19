@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221398",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Financement/Bourses/Bourses-d'excellence/",
+  "description": "Description de Bourses d'excellence",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1742,
+  "identifiant-drupal-parent": 1741,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Bourses d'excellence",
+  "nom-folder": "Bourses-d'excellence",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221398"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scholarship"
+    ],
+    "ar": [
+      "منحة دراسية"
+    ],
+    "es": [
+      "Beca"
+    ],
+    "fr": [
+      "Bourses d'excellence"
+    ],
+    "it": [
+      "Borse di studio"
+    ],
+    "ru": [
+      "Стипендия"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223788",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Agriculture-organique/",
+  "description": "Description de Agriculture organique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 897,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Agriculture organique",
+  "nom-folder": "Agriculture-organique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223788"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organic Agriculture"
+    ],
+    "ar": [
+      "الزراعة العضوية"
+    ],
+    "es": [
+      "Agricultura orgánica"
+    ],
+    "fr": [
+      "Agriculture organique"
+    ],
+    "it": [
+      "agricoltura organica"
+    ]
+  }
+}

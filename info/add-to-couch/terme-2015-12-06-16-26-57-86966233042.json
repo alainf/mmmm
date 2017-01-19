@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233042",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Paix-et-securite/",
+  "description": "Description de Paix et sécurité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471872,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Paix et sécurité",
+  "nom-folder": "Paix-et-securite",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-57-86966233042"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Peace and security"
+    ],
+    "ar": [
+      "السلام والأمن"
+    ],
+    "es": [
+      "Paz y seguridad"
+    ],
+    "fr": [
+      "Paix et sécurité"
+    ],
+    "it": [
+      "Pace e sicurezza"
+    ]
+  }
+}

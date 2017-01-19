@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966227996",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-de-projet-agile/Scrum/",
+  "description": "Description de Scrum",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472069,
+  "identifiant-drupal-parent": 451373,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Scrum",
+  "nom-folder": "Scrum",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-33-86966227996"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scrum"
+    ],
+    "ar": [
+      "سكرم"
+    ],
+    "es": [
+      "Scrum"
+    ],
+    "fr": [
+      "Scrum"
+    ],
+    "it": [
+      "scrum"
+    ],
+    "ru": [
+      "scrum"
+    ]
+  }
+}

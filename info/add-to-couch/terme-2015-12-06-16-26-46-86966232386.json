@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232386",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Entretien-de-groupe-en-ligne/",
+  "description": "Description de Entretien de groupe en ligne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472149,
+  "identifiant-drupal-parent": 1220,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Entretien de groupe en ligne",
+  "nom-folder": "Entretien-de-groupe-en-ligne",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232386"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Online group interview"
+    ],
+    "ar": [
+      "مقابلة المجموعة عبر الإنترنت"
+    ],
+    "es": [
+      "Entrevista en grupo en línea"
+    ],
+    "fr": [
+      "Entretien de groupe en ligne"
+    ],
+    "it": [
+      "intervista di gruppo in linea"
+    ]
+  }
+}

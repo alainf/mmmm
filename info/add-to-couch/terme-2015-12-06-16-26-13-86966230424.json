@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-13-86966230424",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-politique-(branches-de-l'economie)/",
+  "description": "Description de Économie politique (branches de l'économie)",
+  "enfants": [
+    "terme-2015-12-06-16-26-13-86966230427"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1510,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-13",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie politique (branches de l'économie)",
+  "nom-folder": "Economie-politique-(branches-de-l'economie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-13-86966230424"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political Economy (branches)"
+    ],
+    "ar": [
+      "الاقتصاد السياسى )فروع الاقتصاد("
+    ],
+    "es": [
+      "Economía Política (ramas de la economía)"
+    ],
+    "fr": [
+      "Économie politique (branches de l'économie)"
+    ],
+    "it": [
+      "Economia politica (rami dell'economia)"
+    ]
+  }
+}

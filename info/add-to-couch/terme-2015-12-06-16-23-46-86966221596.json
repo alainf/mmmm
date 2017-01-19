@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-46-86966221596",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Sport-spectacle/",
+  "description": "Description de Sport-spectacle",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270641,
+  "identifiant-drupal-parent": 1665,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-46",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Sport-spectacle",
+  "nom-folder": "Sport-spectacle",
+  "nom-machine": "terme-2015-12-06-16-23-46-86966221596",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Spectator sport"
+    ],
+    "ar": [
+      "متفرج الرياضة"
+    ],
+    "es": [
+      "Deporte de espectáculo"
+    ],
+    "fr": [
+      "Sport-spectacle"
+    ],
+    "it": [
+      "Sport-spettacolo"
+    ],
+    "ru": [
+      "зрителя спорта"
+    ]
+  }
+}

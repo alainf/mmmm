@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-26-86966231193",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Histoire-moderne/",
+  "description": "Description de Histoire moderne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272348,
+  "identifiant-drupal-parent": 943,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-26",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire moderne",
+  "nom-folder": "Histoire-moderne",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-26-86966231193"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Modern History"
+    ],
+    "ar": [
+      "تاريخ الحديث"
+    ],
+    "es": [
+      "Historia moderna"
+    ],
+    "fr": [
+      "Histoire moderne"
+    ],
+    "it": [
+      "storia moderna"
+    ]
+  }
+}

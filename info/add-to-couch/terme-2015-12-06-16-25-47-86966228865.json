@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-47-86966228865",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-des-conflits/",
+  "description": "Description de Gestion des conflits (ressources humaines et organisation)",
+  "enfants": [
+    "terme-2015-12-06-16-25-47-86966228868"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2125,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-47",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion des conflits (ressources humaines et organisation)",
+  "nom-folder": "Gestion-des-conflits",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-47-86966228865"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conflict management (human resources and organization)"
+    ],
+    "ar": [
+      "إدارة الصراعات (الموارد البشرية والمنظمة)"
+    ],
+    "es": [
+      "Gestión de los conflictos (recursos humanos y organización)"
+    ],
+    "fr": [
+      "Gestion des conflits (ressources humaines et organisation)"
+    ],
+    "it": [
+      "Gestione dei conflitti (risorse umane e organizzazione)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226390",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Gestion-des-etablissements-d'education/",
+  "description": "Description de Gestion des établissements d'éducation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270851,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Gestion des établissements d'éducation",
+  "nom-folder": "Gestion-des-etablissements-d'education",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226390"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Education institution management"
+    ],
+    "ar": [
+      "إدارة المؤسسات التربوية"
+    ],
+    "es": [
+      "Administración de las instituciones educativas"
+    ],
+    "fr": [
+      "Gestion des établissements d'éducation"
+    ],
+    "it": [
+      "Amministrazione degli istituti scolastici"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-36-22-87404314978",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/lieu-de-l-ecriture/",
+  "description": "Description de Lieu de l'écriture",
+  "enfants": [
+    "terme-2016-02-29-04-37-32-87404319172"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-36-22",
+  "moment-de-modification": "2016-02-29-04-37-26",
+  "nom": "Lieu de l'écriture",
+  "nom-folder": "lieu-de-l-ecriture",
+  "nom-machine": "terme-2016-02-29-04-36-22-87404314978",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Place of writing"
+    ],
+    "fr": [
+      "Lieu de l'écriture"
+    ]
+  }
+}

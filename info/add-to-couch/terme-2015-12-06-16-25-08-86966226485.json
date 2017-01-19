@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226485",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Changement-climatique/Crise-ecologique/",
+  "description": "Description de Crise écologique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472323,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Crise écologique",
+  "nom-folder": "Crise-ecologique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226485"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecological crisis"
+    ],
+    "ar": [
+      "الأزمة البيئية"
+    ],
+    "es": [
+      "Crisis ecológica"
+    ],
+    "fr": [
+      "Crise écologique"
+    ],
+    "it": [
+      "Crisi ecologica"
+    ]
+  }
+}

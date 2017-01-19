@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-11-26-87274841213",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Komi/",
+  "description": "Description de Komi",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "kv",
+  "ISO-639-2": "kom",
+  "ISO-639-3": "kom",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-11-26",
+  "moment-de-modification": "2016-02-04-05-12-00",
+  "nom": "Komi",
+  "nom-folder": "Komi",
+  "nom-machine": "terme-2016-02-04-05-11-26-87274841213",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Komi_(langue)",
+  "nomLangues": {
+    "en": [
+      "Komi"
+    ],
+    "ar": [
+      "كومية"
+    ],
+    "es": [
+      "Komi"
+    ],
+    "fr": [
+      "Komi"
+    ],
+    "it": [
+      "Komi"
+    ],
+    "ru": [
+      "Коми"
+    ]
+  }
+}

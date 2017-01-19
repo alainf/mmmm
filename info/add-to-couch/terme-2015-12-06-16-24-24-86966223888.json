@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223888",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Speculation-agricole/",
+  "description": "Description de Spéculation agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472327,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Spéculation agricole",
+  "nom-folder": "Speculation-agricole",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223888"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural speculation"
+    ],
+    "ar": [
+      "المضاربة الزراعية"
+    ],
+    "es": [
+      "Especulación agrícola"
+    ],
+    "fr": [
+      "Spéculation agricole"
+    ],
+    "it": [
+      "Speculazione agricola"
+    ]
+  }
+}

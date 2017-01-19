@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227626",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Methodes-en-gestion-de-la-production/5S-(seiri,-seiton,-seiso,-seiketsu-et-shitsuke)/",
+  "description": "5S: débarrasser; ranger; nettoyer; ordonner; être rigoureux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1847,
+  "identifiant-drupal-parent": 1846,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "5S: débarrasser; ranger; nettoyer; ordonner; être rigoureux (seiri seiton seiso seiketsu et shitsuke)",
+  "nom-folder": "5S-(seiri,-seiton,-seiso,-seiketsu-et-shitsuke)",
+  "nom-machine": "terme-2015-12-06-16-25-27-86966227626",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "5S (methodology): Sorting (Seiri); Straightening or Setting in Order to Flow or Streamlining (Seiton); Systematic Cleaning (Seiso); Standardize (Seiketsu); Sustain (Shitsuke)"
+    ],
+    "ar": [
+      "5S (تنظيم) (Seiri)؛ ترتيب (Seiton)؛ التنظيف المنتظم (Seiso)؛نظافة (Seiketsu)؛تربية (Shitsuke)"
+    ],
+    "es": [
+      "5S (metodología) selección (Seiri) enderezar o preparación con el fin de agilizar el flujo o (Seiton) limpieza regular (Seiso) la unificación (Seiketsu); sostener (Shitsuke)"
+    ],
+    "fr": [
+      "5S: débarrasser; ranger; nettoyer; ordonner; être rigoureux (seiri seiton seiso seiketsu et shitsuke)"
+    ],
+    "it": [
+      "Metodo 5S (metodologia) separare, riordinare, pulire, sistemare, diffondere"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220838",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Communications,-marketing,-gestion-de-la-marque/Commandite/",
+  "description": "Description de Commandite",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270549,
+  "identifiant-drupal-parent": 270485,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Commandite",
+  "nom-folder": "Commandite",
+  "nom-machine": "terme-2015-12-06-16-23-33-86966220838",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sponsorship"
+    ],
+    "ar": [
+      "رعاية تجارية"
+    ],
+    "es": [
+      "Patrocinio (publicidad)"
+    ],
+    "fr": [
+      "Commandite"
+    ],
+    "it": [
+      "Sponsorizzazione"
+    ],
+    "ru": [
+      "Спонсор"
+    ]
+  }
+}

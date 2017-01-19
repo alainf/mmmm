@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230841",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Fabrication-de-produits-chimiques/Fabrication-d'alcalis/",
+  "description": "Description de Fabrication d'alcalis",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451104,
+  "identifiant-drupal-parent": 451099,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Fabrication d'alcalis",
+  "nom-folder": "Fabrication-d'alcalis",
+  "nom-machine": "terme-2015-12-06-16-26-20-86966230841",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Alkali manufacturing"
+    ],
+    "ar": [
+      "تصنيع القلويات"
+    ],
+    "es": [
+      "Fabricación de álcalis"
+    ],
+    "fr": [
+      "Fabrication d'alcalis"
+    ],
+    "it": [
+      "Fabbricazione di alcali"
+    ]
+  }
+}

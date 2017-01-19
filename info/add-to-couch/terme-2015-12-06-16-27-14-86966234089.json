@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234089",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/publication/",
+  "description": "Description de Publication",
+  "enfants": [
+    "terme-2015-12-06-16-27-14-86966234092",
+    "terme-2015-12-06-16-27-14-86966234095",
+    "terme-2015-12-06-16-27-14-86966234098",
+    "terme-2015-12-06-16-27-15-86966234101",
+    "terme-2015-12-06-16-27-15-86966234104",
+    "terme-2015-12-06-16-27-15-86966234107",
+    "terme-2015-12-06-16-27-15-86966234109",
+    "terme-2015-12-06-16-27-15-86966234112",
+    "terme-2015-12-06-16-27-15-86966234116",
+    "terme-2015-12-06-16-27-15-86966234118",
+    "terme-2015-12-06-16-27-15-86966234121",
+    "terme-2015-12-06-16-27-15-86966234124",
+    "terme-2015-12-06-16-27-15-86966234127"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369472,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Publication",
+  "nom-folder": "publication",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234089",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Publication"
+    ],
+    "es": [
+      "Publicación"
+    ],
+    "fr": [
+      "Publication"
+    ],
+    "it": [
+      "Pubblicazione"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-49-86966228983",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Audit-comptable-et-financier/Controle-interne-et-controle-externe/",
+  "description": "Description de Contrôle interne et contrôle externe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271288,
+  "identifiant-drupal-parent": 271284,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-49",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Contrôle interne et contrôle externe",
+  "nom-folder": "Controle-interne-et-controle-externe",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-49-86966228983"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Internal control and external control"
+    ],
+    "ar": [
+      "المرقابة الداخلية و المرقابة الخارجية"
+    ],
+    "es": [
+      "Control interno y control externo"
+    ],
+    "fr": [
+      "Contrôle interne et contrôle externe"
+    ],
+    "it": [
+      "Controllo interno e controllo esterno"
+    ]
+  }
+}

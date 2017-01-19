@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-27-19-86966234360",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/autre(s)/",
+  "description": "Description de Autre(s)",
+  "enfants": [
+    "terme-2015-12-06-16-27-19-86966234363",
+    "terme-2015-12-06-16-27-19-86966234366",
+    "terme-2015-12-06-16-27-19-86966234369",
+    "terme-2015-12-06-16-27-19-86966234371",
+    "terme-2015-12-06-16-27-19-86966234375",
+    "terme-2015-12-06-16-27-19-86966234377",
+    "terme-2015-12-24-10-16-39-87058183163"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369306,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Autre(s)",
+  "nom-folder": "autre(s)",
+  "nom-machine": "terme-2015-12-06-16-27-19-86966234360",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Other"
+    ],
+    "es": [
+      "Otro"
+    ],
+    "fr": [
+      "Autre(s)"
+    ],
+    "it": [
+      "Altro"
+    ]
+  }
+}

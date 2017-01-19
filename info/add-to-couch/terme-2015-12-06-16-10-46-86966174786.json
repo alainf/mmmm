@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174786",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Suedois/",
+  "description": "Description de Suédois",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317658,
+  "ISO-639-1": "sv",
+  "ISO-639-2": "swe",
+  "ISO-639-3": "swe",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2016-02-04-06-26-46",
+  "nom": "Suédois",
+  "nom-folder": "Suedois",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174786",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Su%C3%A9dois",
+  "nomLangues": {
+    "en": [
+      "Swedish"
+    ],
+    "ar": [
+      "سويدية"
+    ],
+    "es": [
+      "Sueco"
+    ],
+    "fr": [
+      "Suédois"
+    ],
+    "it": [
+      "Svedese"
+    ],
+    "ru": [
+      "Шведский"
+    ]
+  }
+}

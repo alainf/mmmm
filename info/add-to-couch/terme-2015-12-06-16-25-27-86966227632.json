@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227632",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Methodes-en-gestion-de-la-production/Lean/",
+  "description": "Description de Lean",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1849,
+  "identifiant-drupal-parent": 1846,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Lean",
+  "nom-folder": "Lean",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-27-86966227632"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lean Manufacturing"
+    ],
+    "ar": [
+      "التصنيع الرشيق"
+    ],
+    "es": [
+      "Producción ajustada"
+    ],
+    "fr": [
+      "Lean"
+    ],
+    "it": [
+      "Produzione snella"
+    ]
+  }
+}

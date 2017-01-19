@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233551",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Violence/",
+  "description": "Violence",
+  "enfants": [
+    "terme-2015-12-06-16-27-05-86966233554",
+    "terme-2015-12-06-16-27-05-86966233558",
+    "terme-2015-12-06-16-27-06-86966233561",
+    "terme-2015-12-06-16-27-06-86966233564",
+    "terme-2015-12-06-16-27-06-86966233567"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 0,
+  "identifiant-drupal-parent": 1193,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Violence (sociologie)",
+  "nom-folder": "Violence",
+  "nom-machine": "terme-2015-12-06-16-27-05-86966233551",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "violence (sociology)"
+    ],
+    "es": [
+      "violencia (sociología)"
+    ],
+    "fr": [
+      "Violence (sociologie)"
+    ],
+    "it": [
+      "Violenza (sociologia)"
+    ]
+  }
+}

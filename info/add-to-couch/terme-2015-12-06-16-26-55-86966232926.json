@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232926",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Organisations-internationales-(sciences)/",
+  "description": "Description de Organisations internationales (sciences)",
+  "enfants": [
+    "terme-2015-12-06-16-26-55-86966232929",
+    "terme-2015-12-06-16-26-55-86966232932"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272337,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Organisations internationales (sciences)",
+  "nom-folder": "Organisations-internationales-(sciences)",
+  "nom-machine": "terme-2015-12-06-16-26-55-86966232926",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International Organizations (science)"
+    ],
+    "ar": [
+      "المنظمات الدولية (العلم)"
+    ],
+    "es": [
+      "Organizaciones internacionales (ciencias)"
+    ],
+    "fr": [
+      "Organisations internationales (sciences)"
+    ],
+    "it": [
+      "Organizzazioni internazionali (scienze)"
+    ]
+  }
+}

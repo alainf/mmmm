@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-23-47-86966221640",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sites/myOccupy/",
+  "description": "Description de Myoccupy",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-47",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Myoccupy",
+  "nom-folder": "myOccupy",
+  "nom-machine": "terme-2015-12-06-16-23-47-86966221640",
+  "sous-type": "sites",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Occupy"
+    ],
+    "ar": [
+      "احتلوا"
+    ],
+    "es": [
+      "Ocupar"
+    ],
+    "fr": [
+      "Myoccupy"
+    ],
+    "it": [
+      "Occupazione"
+    ],
+    "ru": [
+      "занимать"
+    ]
+  }
+}

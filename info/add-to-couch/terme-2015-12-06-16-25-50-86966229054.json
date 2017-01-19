@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229054",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-analytique/Methodes-de-comptabilite-analytique/",
+  "description": "Description de Méthodes de comptabilité analytique",
+  "enfants": [
+    "terme-2015-12-06-16-25-50-86966229057",
+    "terme-2015-12-06-16-25-51-86966229061",
+    "terme-2015-12-06-16-25-51-86966229063",
+    "terme-2015-12-06-16-25-51-86966229066",
+    "terme-2015-12-06-16-25-51-86966229069",
+    "terme-2015-12-06-16-25-51-86966229072",
+    "terme-2015-12-06-16-25-51-86966229075",
+    "terme-2015-12-06-16-25-51-86966229078"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270982,
+  "identifiant-drupal-parent": 270981,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Méthodes de comptabilité analytique",
+  "nom-folder": "Methodes-de-comptabilite-analytique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-50-86966229054"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cost accounting methods"
+    ],
+    "ar": [
+      "أساليب المحاسبة التحليلية"
+    ],
+    "es": [
+      "Métodos de contabilidad analítica"
+    ],
+    "fr": [
+      "Méthodes de comptabilité analytique"
+    ],
+    "it": [
+      "Metodi di contabilità analitica"
+    ]
+  }
+}

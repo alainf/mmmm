@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225875",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Finances-personnelles-ou-finances-privees/Gestion-du-patrimoine/",
+  "description": "Gestion du patrimoine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271361,
+  "identifiant-drupal-parent": 271360,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Gestion de patrimoine",
+  "nom-folder": "Gestion-du-patrimoine",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225875"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wealth Management"
+    ],
+    "ar": [
+      "إدارة التراث"
+    ],
+    "es": [
+      "Gestión de patrimonio"
+    ],
+    "fr": [
+      "Gestion de patrimoine"
+    ],
+    "it": [
+      "Amministrazione del patrimonio"
+    ]
+  }
+}

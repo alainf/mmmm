@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-18-86966230722",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astronomie/Meteorites/",
+  "description": "Description de Météorites",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451288,
+  "identifiant-drupal-parent": 270765,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-18",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Météorites",
+  "nom-folder": "Meteorites",
+  "nom-machine": "terme-2015-12-06-16-26-18-86966230722",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Meteorites"
+    ],
+    "ar": [
+      "النيازك"
+    ],
+    "es": [
+      "Meteoritos"
+    ],
+    "fr": [
+      "Météorites"
+    ],
+    "it": [
+      "Meteoriti"
+    ]
+  }
+}

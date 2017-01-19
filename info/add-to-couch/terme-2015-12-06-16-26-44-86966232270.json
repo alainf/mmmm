@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232270",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Ethologie-(sociale)/Theories-en-ethologie/Ethologie-moderne/",
+  "description": "Description de Éthologie moderne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1057,
+  "identifiant-drupal-parent": 1052,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Éthologie moderne",
+  "nom-folder": "Ethologie-moderne",
+  "nom-machine": "terme-2015-12-06-16-26-44-86966232270",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Modern ethology"
+    ],
+    "ar": [
+      "إيثولوجيا الحديثة"
+    ],
+    "es": [
+      "Etología moderna"
+    ],
+    "fr": [
+      "Éthologie moderne"
+    ],
+    "it": [
+      "Etologia moderna"
+    ]
+  }
+}

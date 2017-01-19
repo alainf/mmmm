@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-32-38-87274917529",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Malais/",
+  "description": "Description de Malais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ms",
+  "ISO-639-2": "may/msa",
+  "ISO-639-3": "msa",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-32-38",
+  "moment-de-modification": "2016-02-04-05-33-27",
+  "nom": "Malais",
+  "nom-folder": "Malais",
+  "nom-machine": "terme-2016-02-04-05-32-38-87274917529",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Malais_(langue)",
+  "nomLangues": {
+    "en": [
+      "Malay"
+    ],
+    "ar": [
+      "ملايو"
+    ],
+    "es": [
+      "Malayo"
+    ],
+    "fr": [
+      "Malais"
+    ],
+    "it": [
+      "Malese"
+    ],
+    "ru": [
+      "Малайский"
+    ]
+  }
+}

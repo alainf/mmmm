@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174777",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Shuswap/",
+  "description": "Description de Shuswap",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382165,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Shuswap",
+  "nom-folder": "Shuswap",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174777",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Shuswap"
+    ],
+    "es": [
+      "Shuswap"
+    ],
+    "fr": [
+      "Shuswap"
+    ],
+    "it": [
+      "Shuswap"
+    ],
+    "ru": [
+      "Шусвап"
+    ]
+  }
+}

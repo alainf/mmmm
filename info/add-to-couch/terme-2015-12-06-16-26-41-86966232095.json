@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232095",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-politique/",
+  "description": "Description de Anthropologie politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1020,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie politique",
+  "nom-folder": "Anthropologie-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-41-86966232095"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political anthropology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا السياسية"
+    ],
+    "es": [
+      "Antropología política"
+    ],
+    "fr": [
+      "Anthropologie politique"
+    ],
+    "it": [
+      "antropologia politica"
+    ]
+  }
+}

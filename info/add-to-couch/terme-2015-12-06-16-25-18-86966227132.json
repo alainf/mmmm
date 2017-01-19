@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227132",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Banques/Banques-et-developpement-durable/",
+  "description": "Description de Banques et développement durable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465756,
+  "identifiant-drupal-parent": 272224,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Banques et développement durable",
+  "nom-folder": "Banques-et-developpement-durable",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227132"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Banks and Sustainable Development"
+    ],
+    "ar": [
+      "أبناك والتنمية المستدامة"
+    ],
+    "es": [
+      "Bancos y desarrollo sostenible"
+    ],
+    "fr": [
+      "Banques et développement durable"
+    ],
+    "it": [
+      "Banche e sviluppo sostenibile"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-36-86966228219",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-systemes-d'information/Gestion-des-acces/",
+  "description": "Description de Gestion des accès",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2000,
+  "identifiant-drupal-parent": 1992,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-36",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion des accès",
+  "nom-folder": "Gestion-des-acces",
+  "nom-machine": "terme-2015-12-06-16-25-36-86966228219",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Access management"
+    ],
+    "ar": [
+      "إدارة المداخل"
+    ],
+    "es": [
+      "Gestión de los accesos"
+    ],
+    "fr": [
+      "Gestion des accès"
+    ],
+    "it": [
+      "Gestione degli accessi"
+    ]
+  }
+}

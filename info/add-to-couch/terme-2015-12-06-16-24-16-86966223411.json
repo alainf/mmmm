@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-16-86966223411",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Sports-and-Recreation/History-of-Sport-and-Recreation/",
+  "description": "Description de History of sport and recreation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369298,
+  "identifiant-drupal-parent": 369294,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-16",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "History of sport and recreation",
+  "nom-folder": "History-of-Sport-and-Recreation",
+  "nom-machine": "terme-2015-12-06-16-24-16-86966223411",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "History of sport and recreation"
+    ]
+  }
+}

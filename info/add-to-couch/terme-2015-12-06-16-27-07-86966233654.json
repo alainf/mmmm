@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233654",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/",
+  "description": "Description de Aspects de l'urbanisation",
+  "enfants": [
+    "terme-2015-12-06-16-27-07-86966233657",
+    "terme-2015-12-06-16-27-07-86966233660",
+    "terme-2015-12-06-16-27-07-86966233663",
+    "terme-2015-12-06-16-27-07-86966233666",
+    "terme-2015-12-06-16-27-07-86966233669",
+    "terme-2015-12-06-16-27-07-86966233672",
+    "terme-2015-12-06-16-27-07-86966233675",
+    "terme-2015-12-06-16-27-08-86966233713",
+    "terme-2015-12-06-16-27-08-86966233718",
+    "terme-2015-12-06-16-27-08-86966233721",
+    "terme-2015-12-06-16-27-08-86966233723",
+    "terme-2015-12-06-16-27-08-86966233727",
+    "terme-2015-12-06-16-27-08-86966233730"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467096,
+  "identifiant-drupal-parent": 467095,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Aspects de l'urbanisation",
+  "nom-folder": "Aspects-de-l'urbanisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233654"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aspects of urbanization"
+    ],
+    "ar": [
+      "جوانب التمدن"
+    ],
+    "es": [
+      "Aspectos de la urbanización"
+    ],
+    "fr": [
+      "Aspects de l'urbanisation"
+    ],
+    "it": [
+      "Aspetti della urbanizzazione"
+    ]
+  }
+}

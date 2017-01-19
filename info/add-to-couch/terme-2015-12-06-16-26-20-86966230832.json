@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230832",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Fabrication-de-produits-chimiques/Fab-autres-produits-chimiques-organiques-de-base/",
+  "description": "Fabrication d'autres produits chimiques organiques de base",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451106,
+  "identifiant-drupal-parent": 451099,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Fabrication d’autres produits chimiques organiques de base",
+  "nom-folder": "Fab-autres-produits-chimiques-organiques-de-base",
+  "nom-machine": "terme-2015-12-06-16-26-20-86966230832",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Other organic basic chemicals manufacturing"
+    ],
+    "ar": [
+      "تصنيع المواد الكيميائية الأخرى العضوية الأساسية"
+    ],
+    "es": [
+      "Fabricación de otros productos químicos orgánicos de base"
+    ],
+    "fr": [
+      "Fabrication d’autres produits chimiques organiques de base"
+    ],
+    "it": [
+      "Fabbricazione di altri prodotti chimici organici di base"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224546",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Techniques-de-la-sculpture/Taille/",
+  "description": "Description de Taille",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467052,
+  "identifiant-drupal-parent": 467042,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Taille",
+  "nom-folder": "Taille",
+  "nom-machine": "terme-2015-12-06-16-24-35-86966224546",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Size"
+    ],
+    "ar": [
+      "الحجم"
+    ],
+    "es": [
+      "Tamaño"
+    ],
+    "fr": [
+      "Taille"
+    ],
+    "it": [
+      "Taglio"
+    ]
+  }
+}

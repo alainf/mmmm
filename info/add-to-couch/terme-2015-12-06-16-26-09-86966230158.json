@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230158",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Oceanographie-(terre)/Exploration-en-eau-profonde/",
+  "description": "Description de Exploration en eau profonde",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472259,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Exploration en eau profonde",
+  "nom-folder": "Exploration-en-eau-profonde",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230158"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Deep water exploration"
+    ],
+    "ar": [
+      "التنقيب في المياه العميقة"
+    ],
+    "es": [
+      "Exploración en aguas profundas"
+    ],
+    "fr": [
+      "Exploration en eau profonde"
+    ],
+    "it": [
+      "esplorazione in acqua profonde"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-59-86966229591",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Commandite/Commandite-de-partenariat-d'affaires/",
+  "description": "Description de Commandite de partenariat d'affaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272197,
+  "identifiant-drupal-parent": 2050,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-25-59",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Commandite de partenariat d'affaires",
+  "nom-folder": "Commandite-de-partenariat-d'affaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-59-86966229591"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business partnership sponsorship"
+    ],
+    "ar": [
+      "رعاية شراكة الأعمال"
+    ],
+    "es": [
+      "Patrocinio en asociación con empresas"
+    ],
+    "fr": [
+      "Commandite de partenariat d'affaires"
+    ],
+    "it": [
+      "Sponsorizzazione di partenariati aziendali"
+    ]
+  }
+}

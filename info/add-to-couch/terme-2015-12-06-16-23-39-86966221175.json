@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221175",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/La-science/Espace et cosmos/",
+  "description": "Description de Espace et cosmos",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270704,
+  "identifiant-drupal-parent": 270702,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Espace et cosmos",
+  "nom-folder": "Espace et cosmos",
+  "nom-machine": "terme-2015-12-06-16-23-39-86966221175",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Space and cosmos"
+    ],
+    "ar": [
+      "الفضاء و الكون"
+    ],
+    "es": [
+      "Espacio y cosmos"
+    ],
+    "fr": [
+      "Espace et cosmos"
+    ],
+    "it": [
+      "Spazio e cosmo"
+    ]
+  }
+}

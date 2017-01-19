@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227112",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Immobilier/Economie-et-financement-de-l'immobilier/",
+  "description": "Description de Économie et financement de l'immobilier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455412,
+  "identifiant-drupal-parent": 272225,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Économie et financement de l'immobilier",
+  "nom-folder": "Economie-et-financement-de-l'immobilier",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227112"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Real estate finance and economics"
+    ],
+    "ar": [
+      "الاقتصاد و وتمويل الاسكان"
+    ],
+    "es": [
+      "Economía y financiación de los bienes raíces"
+    ],
+    "fr": [
+      "Économie et financement de l'immobilier"
+    ],
+    "it": [
+      "Economia e finanziamento immobiliare"
+    ]
+  }
+}

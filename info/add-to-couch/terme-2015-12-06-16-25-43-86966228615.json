@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228615",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Etudes-organisationnelles/Environnement-organisationnel/",
+  "description": "Description de Environnement organisationnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472313,
+  "identifiant-drupal-parent": 466706,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Environnement organisationnel",
+  "nom-folder": "Environnement-organisationnel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228615"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational environment"
+    ],
+    "ar": [
+      "البيئة التنظيمية"
+    ],
+    "es": [
+      "Entorno organizacional"
+    ],
+    "fr": [
+      "Environnement organisationnel"
+    ],
+    "it": [
+      "ambiente organizzativo"
+    ]
+  }
+}

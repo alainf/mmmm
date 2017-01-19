@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220774",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/Capacite-de-reponse-de-l'entreprise/",
+  "description": "Description de Capacité de réponse de l'entreprise",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270489,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Capacité de réponse de l'entreprise",
+  "nom-folder": "Capacite-de-reponse-de-l'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220774"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate social responsiveness"
+    ],
+    "ar": [
+      "الاستجابة الاجتماعية للشركات"
+    ],
+    "es": [
+      "Sensibilidad social corporativa"
+    ],
+    "fr": [
+      "Capacité de réponse de l'entreprise"
+    ],
+    "it": [
+      "La sensibilità sociale delle imprese"
+    ],
+    "ru": [
+      "Корпоративной социальной реакции"
+    ]
+  }
+}

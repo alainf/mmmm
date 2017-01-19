@@ -1,0 +1,65 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227471",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/",
+  "description": "Description de Communication d'entreprise",
+  "enfants": [
+    "terme-2015-12-06-16-25-24-86966227474",
+    "terme-2015-12-06-16-25-24-86966227476",
+    "terme-2015-12-06-16-25-24-86966227479",
+    "terme-2015-12-06-16-25-24-86966227481",
+    "terme-2015-12-06-16-25-24-86966227484",
+    "terme-2015-12-06-16-25-24-86966227487",
+    "terme-2015-12-06-16-25-24-86966227490",
+    "terme-2015-12-06-16-25-24-86966227492",
+    "terme-2015-12-06-16-25-24-86966227495",
+    "terme-2015-12-06-16-25-24-86966227498",
+    "terme-2015-12-06-16-25-25-86966227501",
+    "terme-2015-12-06-16-25-25-86966227503",
+    "terme-2015-12-06-16-25-25-86966227506",
+    "terme-2015-12-06-16-25-25-86966227509",
+    "terme-2015-12-06-16-25-25-86966227512",
+    "terme-2015-12-06-16-25-25-86966227515",
+    "terme-2015-12-06-16-25-25-86966227517",
+    "terme-2015-12-06-16-25-25-86966227520",
+    "terme-2015-12-06-16-25-25-86966227523",
+    "terme-2015-12-06-16-25-25-86966227526",
+    "terme-2015-12-06-16-25-25-86966227529",
+    "terme-2015-12-06-16-25-25-86966227532",
+    "terme-2015-12-06-16-25-25-86966227535",
+    "terme-2015-12-06-16-25-25-86966227538",
+    "terme-2015-12-06-16-25-25-86966227541",
+    "terme-2015-12-06-16-25-25-86966227544"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2141,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Communication d'entreprise",
+  "nom-folder": "Communication-d'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227471"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate communication"
+    ],
+    "ar": [
+      "اتصالات الشركات"
+    ],
+    "es": [
+      "Comunicación corporativa"
+    ],
+    "fr": [
+      "Communication d'entreprise"
+    ],
+    "it": [
+      "comunicazione d'impresa"
+    ]
+  }
+}

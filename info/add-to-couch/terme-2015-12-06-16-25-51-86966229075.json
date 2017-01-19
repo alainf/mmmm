@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229075",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-analytique/Methodes-de-comptabilite-analytique/Methode-sections-homogenes-et-couts-complets/",
+  "description": "Description de Méthode des sections homogènes et des coûts complets",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270983,
+  "identifiant-drupal-parent": 270982,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Méthode des sections homogènes et des coûts complets",
+  "nom-folder": "Methode-sections-homogenes-et-couts-complets",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229075",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Homogeneous sections and full costs method"
+    ],
+    "ar": [
+      "طريقة أقسام متجانسة والتكاليف الكاملة"
+    ],
+    "es": [
+      "Método de las secciones homogéneas y todos los costos"
+    ],
+    "fr": [
+      "Méthode des sections homogènes et des coûts complets"
+    ],
+    "it": [
+      "Metodo delle sezioni omogenee e dei costi completi"
+    ]
+  }
+}

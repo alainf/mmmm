@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226684",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Bibliotheconomie/Bibliographies/Bibliographie-thematique/",
+  "description": "Bibliographie thématique ",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272297,
+  "identifiant-drupal-parent": 272296,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Bibliographie thématique",
+  "nom-folder": "Bibliographie-thematique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-11-86966226684"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Thematic Bibliography"
+    ],
+    "ar": [
+      "ببليوغرافيا الموضوعية"
+    ],
+    "es": [
+      "Bibliografía temática"
+    ],
+    "fr": [
+      "Bibliographie thématique"
+    ],
+    "it": [
+      "Bibliografia tematica"
+    ]
+  }
+}

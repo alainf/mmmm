@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-47-86966228826",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-administrative/",
+  "description": "Description de Gestion administrative",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2119,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-47",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion administrative",
+  "nom-folder": "Gestion-administrative",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-47-86966228826"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Administration"
+    ],
+    "ar": [
+      "ممارسات الإدارية"
+    ],
+    "es": [
+      "Gestión administrativa"
+    ],
+    "fr": [
+      "Gestion administrative"
+    ],
+    "it": [
+      "Gestione amministrativa"
+    ]
+  }
+}

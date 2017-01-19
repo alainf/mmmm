@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229061",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-analytique/Methodes-de-comptabilite-analytique/Methode-ABC/",
+  "description": "Description de Méthode ABC",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270989,
+  "identifiant-drupal-parent": 270982,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Méthode ABC",
+  "nom-folder": "Methode-ABC",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229061",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Activity-based costing"
+    ],
+    "ar": [
+      "نشاط حساب التكاليف"
+    ],
+    "es": [
+      "Sistema de costeo basado en actividades"
+    ],
+    "fr": [
+      "Méthode ABC"
+    ],
+    "it": [
+      "Calcolo dei costi basato sulle attività"
+    ]
+  }
+}

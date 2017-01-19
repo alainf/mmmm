@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229799",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Systemes-d'information-marketing-SIM/",
+  "description": "Description de Systèmes d'information marketing SIM",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2079,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Systèmes d'information marketing SIM",
+  "nom-folder": "Systemes-d'information-marketing-SIM",
+  "nom-machine": "terme-2015-12-06-16-26-03-86966229799",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Marketing information systems"
+    ],
+    "ar": [
+      "نظم المعلومات التسويق"
+    ],
+    "es": [
+      "Sistemas de Información de Marketing"
+    ],
+    "fr": [
+      "Systèmes d'information marketing SIM"
+    ],
+    "it": [
+      "Sistemi informativi di marketing"
+    ]
+  }
+}

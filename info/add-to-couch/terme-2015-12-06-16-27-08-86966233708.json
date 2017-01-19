@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233708",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Politique-energetique/",
+  "description": "Description de Politique énergétique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469839,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Politique énergétique",
+  "nom-folder": "Politique-energetique",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-08-86966233708"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy policy"
+    ],
+    "ar": [
+      "سياسة الطاقة"
+    ],
+    "es": [
+      "Política energética"
+    ],
+    "fr": [
+      "Politique énergétique"
+    ],
+    "it": [
+      "Politica energetica"
+    ]
+  }
+}

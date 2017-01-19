@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-44-86966228643",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Recherche-operationnelle/",
+  "description": "Description de Recherche opérationnelle",
+  "enfants": [
+    "terme-2015-12-06-16-25-44-86966228646"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2188,
+  "identifiant-drupal-parent": 2183,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-44",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Recherche opérationnelle",
+  "nom-folder": "Recherche-operationnelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-44-86966228643"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Operations Research"
+    ],
+    "ar": [
+      "بحوث العمليات"
+    ],
+    "es": [
+      "Investigación operativa"
+    ],
+    "fr": [
+      "Recherche opérationnelle"
+    ],
+    "it": [
+      "Ricerca operativa"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227783",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-9000_2005/",
+  "description": "ISO 9000:2005 Système du management de la qualité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1906,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 9000:2005 Système du management de la qualité - principes essentiels et vocabulaires",
+  "nom-folder": "ISO-9000_2005",
+  "nom-machine": "terme-2015-12-06-16-25-29-86966227783",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 9000 Quality Management System - Fundamentals and vocabulary"
+    ],
+    "ar": [
+      "نظام إدارة الجودة-المبادئ الأساسية والمفردات ISO 9000:2005"
+    ],
+    "es": [
+      "ISO 9000:2005 Sistema de Gestión de la Calidad - Fundamentos y vocabulario"
+    ],
+    "fr": [
+      "ISO 9000:2005 Système du management de la qualité - principes essentiels et vocabulaires"
+    ],
+    "it": [
+      "Iso 9000 sistemi di gestione qualità - fondamenti e vocabolario"
+    ]
+  }
+}

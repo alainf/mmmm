@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234298",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/groupe/groupe-d'etude/",
+  "description": "Description de Groupe d'etude",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369349,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Groupe d'etude",
+  "nom-folder": "groupe-d'etude",
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234298",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Study group"
+    ],
+    "es": [
+      "Grupo de estudio"
+    ],
+    "fr": [
+      "Groupe d'etude"
+    ],
+    "it": [
+      "Gruppo di studio"
+    ]
+  }
+}

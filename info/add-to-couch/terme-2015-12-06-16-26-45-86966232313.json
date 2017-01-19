@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232313",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Cadre-conceptuel/",
+  "description": "Description de Cadre conceptuel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472121,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Cadre conceptuel",
+  "nom-folder": "Cadre-conceptuel",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232313"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conceptual framework"
+    ],
+    "ar": [
+      "الإطار المفاهيمي"
+    ],
+    "es": [
+      "Marco conceptual"
+    ],
+    "fr": [
+      "Cadre conceptuel"
+    ],
+    "it": [
+      "quadro concettuale"
+    ]
+  }
+}

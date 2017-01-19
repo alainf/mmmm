@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-06-86966229969",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Technologie-sans-fil/",
+  "description": "Description de Technologie sans fil",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270906,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-06",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Technologie sans fil",
+  "nom-folder": "Technologie-sans-fil",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-06-86966229969"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wireless Technology"
+    ],
+    "ar": [
+      "التكنولوجيا اللاسلكية"
+    ],
+    "es": [
+      "Tecnología inalámbrica"
+    ],
+    "fr": [
+      "Technologie sans fil"
+    ],
+    "it": [
+      "tecnologia senza fili"
+    ]
+  }
+}

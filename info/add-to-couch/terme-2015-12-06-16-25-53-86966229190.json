@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229190",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Tableaux-de-synthese/Tableau-economique-d'ensemble-TEE/",
+  "description": "Description de Tableau économique d'ensemble TEE",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270964,
+  "identifiant-drupal-parent": 270963,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Tableau économique d'ensemble TEE",
+  "nom-folder": "Tableau-economique-d'ensemble-TEE",
+  "nom-machine": "terme-2015-12-06-16-25-53-86966229190",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic overview table"
+    ],
+    "ar": [
+      "الجدول اقتصادية عامة"
+    ],
+    "es": [
+      "Tabla económica general"
+    ],
+    "fr": [
+      "Tableau économique d'ensemble TEE"
+    ],
+    "it": [
+      "Quadro economico generale"
+    ]
+  }
+}

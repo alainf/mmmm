@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228387",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/",
+  "description": "Description de Gestion du transport",
+  "enfants": [
+    "terme-2015-12-06-16-25-39-86966228390",
+    "terme-2015-12-06-16-25-39-86966228393",
+    "terme-2015-12-06-16-25-40-86966228403",
+    "terme-2015-12-06-16-25-40-86966228405",
+    "terme-2015-12-06-16-25-40-86966228415",
+    "terme-2015-12-06-16-25-40-86966228419",
+    "terme-2015-12-06-16-25-40-86966228421",
+    "terme-2015-12-06-16-25-40-86966228425"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2037,
+  "identifiant-drupal-parent": 2035,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion du transport",
+  "nom-folder": "Gestion-du-transport",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-39-86966228387"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Transport management"
+    ],
+    "ar": [
+      "إدارة النقل"
+    ],
+    "es": [
+      "Gestión del transporte"
+    ],
+    "fr": [
+      "Gestion du transport"
+    ],
+    "it": [
+      "gestione del trasporto"
+    ]
+  }
+}

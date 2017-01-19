@@ -1,0 +1,53 @@
+{
+  "_id": "terme-2015-12-06-16-25-22-86966227367",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/",
+  "description": "Description de Commerce international",
+  "enfants": [
+    "terme-2015-12-06-16-25-22-86966227370",
+    "terme-2015-12-06-16-25-22-86966227373",
+    "terme-2015-12-06-16-25-22-86966227375",
+    "terme-2015-12-06-16-25-22-86966227378",
+    "terme-2015-12-06-16-25-23-86966227380",
+    "terme-2015-12-06-16-25-23-86966227383",
+    "terme-2015-12-06-16-25-23-86966227386",
+    "terme-2015-12-06-16-25-23-86966227389",
+    "terme-2015-12-06-16-25-23-86966227392",
+    "terme-2015-12-06-16-25-23-86966227395",
+    "terme-2015-12-06-16-25-23-86966227397",
+    "terme-2015-12-06-16-25-23-86966227411",
+    "terme-2015-12-06-16-25-24-86966227447",
+    "terme-2015-12-06-16-25-24-86966227450"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1802,
+  "identifiant-drupal-parent": 1785,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-22",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce international",
+  "nom-folder": "Commerce-international",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-22-86966227367"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International trade"
+    ],
+    "ar": [
+      "تجارة دولية"
+    ],
+    "es": [
+      "Comercio internacional"
+    ],
+    "fr": [
+      "Commerce international"
+    ],
+    "it": [
+      "Commercio internazionale"
+    ]
+  }
+}

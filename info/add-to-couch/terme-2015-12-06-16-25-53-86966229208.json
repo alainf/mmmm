@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229208",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-publique/Comptables-du-Tresor/",
+  "description": "Description de Comptables du Trésor",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270938,
+  "identifiant-drupal-parent": 270935,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptables du Trésor",
+  "nom-folder": "Comptables-du-Tresor",
+  "nom-machine": "terme-2015-12-06-16-25-53-86966229208",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Treasury's accountants"
+    ],
+    "ar": [
+      "محاسبين الخزانة"
+    ],
+    "es": [
+      "Contables de la Tesorería (Inglaterra)"
+    ],
+    "fr": [
+      "Comptables du Trésor"
+    ],
+    "it": [
+      "Contabili del ministero del tesoro"
+    ]
+  }
+}

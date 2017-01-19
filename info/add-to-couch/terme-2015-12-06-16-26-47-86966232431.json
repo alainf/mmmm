@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232431",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Redaction-de-these/",
+  "description": "Description de Rédaction de thèse",
+  "enfants": [
+    "terme-2015-12-06-16-26-47-86966232434",
+    "terme-2015-12-06-16-26-47-86966232437",
+    "terme-2015-12-06-16-26-47-86966232440",
+    "terme-2015-12-06-16-26-47-86966232443",
+    "terme-2015-12-06-16-26-47-86966232446",
+    "terme-2015-12-06-16-26-47-86966232449",
+    "terme-2015-12-06-16-26-47-86966232452"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472104,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Rédaction de thèse",
+  "nom-folder": "Redaction-de-these",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232431"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Thesis writing"
+    ],
+    "ar": [
+      "كتابة الأطروحة"
+    ],
+    "es": [
+      "Elaboración de tesis"
+    ],
+    "fr": [
+      "Rédaction de thèse"
+    ],
+    "it": [
+      "Scrittura di tesi"
+    ]
+  }
+}

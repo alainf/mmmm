@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228609",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Etudes-critiques-en-management/",
+  "description": "Description de Études critiques en management",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469664,
+  "identifiant-drupal-parent": 2183,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Études critiques en management",
+  "nom-folder": "Etudes-critiques-en-management",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228609"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Critical management studies"
+    ],
+    "ar": [
+      "الدراسات النقدية في إدارة"
+    ],
+    "es": [
+      "Estudios críticos en gestión"
+    ],
+    "fr": [
+      "Études critiques en management"
+    ],
+    "it": [
+      "Studi critici nella gestione"
+    ]
+  }
+}

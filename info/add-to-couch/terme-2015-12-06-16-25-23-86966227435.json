@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227435",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Theories-du-commerce-international/Theorie-des-avantages-absolus/",
+  "description": "Description de Théorie des avantages absolus",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1825,
+  "identifiant-drupal-parent": 1817,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Théorie des avantages absolus",
+  "nom-folder": "Theorie-des-avantages-absolus",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-23-86966227435"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Absolute advantage theory"
+    ],
+    "ar": [
+      "نظرية الأفضلية مطلقة"
+    ],
+    "es": [
+      "Teoría de las ventajas absolutas"
+    ],
+    "fr": [
+      "Théorie des avantages absolus"
+    ],
+    "it": [
+      "Teoria dei vantaggi assoluti"
+    ]
+  }
+}

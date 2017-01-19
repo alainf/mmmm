@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233104",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Regimes-politiques/Democratie-(regime)/",
+  "description": "Description de Démocratie (régime)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1181,
+  "identifiant-drupal-parent": 1107,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Démocratie (régime)",
+  "nom-folder": "Democratie-(regime)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-58-86966233104"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Democracy (system)"
+    ],
+    "ar": [
+      "ديمقراطية (النظامية)"
+    ],
+    "es": [
+      "Democracia (sistema)"
+    ],
+    "fr": [
+      "Démocratie (régime)"
+    ],
+    "it": [
+      "Democrazia (sistema)"
+    ]
+  }
+}

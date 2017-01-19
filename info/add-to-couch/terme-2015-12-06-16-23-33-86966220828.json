@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220828",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/Responsabilite-sociale-de-l'entreprise/",
+  "description": "Description de Responsabilité sociale de l'entreprise",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270488,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Responsabilité sociale de l'entreprise",
+  "nom-folder": "Responsabilite-sociale-de-l'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-33-86966220828"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate social responsibility"
+    ],
+    "ar": [
+      "المسؤولية الاجتماعية شركة"
+    ],
+    "es": [
+      "Responsabilidad social de la empresa"
+    ],
+    "fr": [
+      "Responsabilité sociale de l'entreprise"
+    ],
+    "it": [
+      "Responsabilità sociale dell'impresa"
+    ],
+    "ru": [
+      "Общественная ответственность предприятия"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229057",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-analytique/Methodes-de-comptabilite-analytique/Calcul-des-couts-par-les-caracteristiques/",
+  "description": "Description de Méthode de calcul des coûts par les caractéristiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270990,
+  "identifiant-drupal-parent": 270982,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Méthode de calcul des coûts par les caractéristiques",
+  "nom-folder": "Calcul-des-couts-par-les-caracteristiques",
+  "nom-machine": "terme-2015-12-06-16-25-50-86966229057",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Feature-based costing method"
+    ],
+    "ar": [
+      "أسلوب حساب التكاليف على أساس الخصائص"
+    ],
+    "es": [
+      "Método de cálculo de los costes por las características"
+    ],
+    "fr": [
+      "Méthode de calcul des coûts par les caractéristiques"
+    ],
+    "it": [
+      "Calcolo dei costi basato sulle caratteristiche"
+    ]
+  }
+}

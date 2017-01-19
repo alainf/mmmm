@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-45-86966174756",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Romani/",
+  "description": "Description de Romani",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317650,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-45",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Romani",
+  "nom-folder": "Romani",
+  "nom-machine": "terme-2015-12-06-16-10-45-86966174756",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Romani"
+    ],
+    "ar": [
+      "رومنية"
+    ],
+    "es": [
+      "Romaní"
+    ],
+    "fr": [
+      "Romani"
+    ],
+    "it": [
+      "Romaní"
+    ],
+    "ru": [
+      "Цыганский"
+    ]
+  }
+}

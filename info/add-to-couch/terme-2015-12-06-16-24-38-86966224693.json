@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224693",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Cinema-et-societe/",
+  "description": "Description de Cinéma et société",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466878,
+  "identifiant-drupal-parent": 466876,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Cinéma et société",
+  "nom-folder": "Cinema-et-societe",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224693"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cinema and society"
+    ],
+    "ar": [
+      "السينما والمجتمع"
+    ],
+    "es": [
+      "Cine y sociedad"
+    ],
+    "fr": [
+      "Cinéma et société"
+    ],
+    "it": [
+      "Cinema e società"
+    ]
+  }
+}

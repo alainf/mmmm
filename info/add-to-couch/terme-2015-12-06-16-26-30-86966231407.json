@@ -1,0 +1,53 @@
+{
+  "_id": "terme-2015-12-06-16-26-30-86966231407",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-pratique/",
+  "description": "Spécialités de la médecine, par pratique",
+  "enfants": [
+    "terme-2015-12-06-16-26-30-86966231410",
+    "terme-2015-12-06-16-26-30-86966231414",
+    "terme-2015-12-06-16-26-30-86966231417",
+    "terme-2015-12-06-16-26-30-86966231421",
+    "terme-2015-12-06-16-26-30-86966231424",
+    "terme-2015-12-06-16-26-30-86966231426",
+    "terme-2015-12-06-16-26-30-86966231430",
+    "terme-2015-12-06-16-26-30-86966231433",
+    "terme-2015-12-06-16-26-30-86966231436",
+    "terme-2015-12-06-16-26-30-86966231439",
+    "terme-2015-12-06-16-26-30-86966231443",
+    "terme-2015-12-06-16-26-30-86966231445",
+    "terme-2015-12-06-16-26-30-86966231455",
+    "terme-2015-12-06-16-26-30-86966231458"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1414,
+  "identifiant-drupal-parent": 1413,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-30",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Spécialités de la médecine par pratique",
+  "nom-folder": "Specialites-de-la-medecine,-par-pratique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-30-86966231407"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medical specialties by practice"
+    ],
+    "ar": [
+      "تخصصات الطب بالممارسة"
+    ],
+    "es": [
+      "Especialidades médicas por práctica"
+    ],
+    "fr": [
+      "Spécialités de la médecine par pratique"
+    ],
+    "it": [
+      "Specialità mediche per pratica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224283",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/Reproduction-animale/Dindes/",
+  "description": "Description de Dindes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269004,
+  "identifiant-drupal-parent": 269002,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Dindes",
+  "nom-folder": "Dindes",
+  "nom-machine": "terme-2015-12-06-16-24-31-86966224283",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Turkeys"
+    ],
+    "ar": [
+      "دجاج رومي"
+    ],
+    "es": [
+      "Pavos"
+    ],
+    "fr": [
+      "Dindes"
+    ],
+    "it": [
+      "Tacchini"
+    ]
+  }
+}

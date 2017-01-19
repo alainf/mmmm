@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226129",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Reseau-de-neurones-artificiels/",
+  "description": "Description de Réseau de neurones artificiels",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455582,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Réseau de neurones artificiels",
+  "nom-folder": "Reseau-de-neurones-artificiels",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-02-86966226129"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Artificial neural network"
+    ],
+    "ar": [
+      "شبكات عصبونية اصطناعية"
+    ],
+    "es": [
+      "Red neuronal artificial"
+    ],
+    "fr": [
+      "Réseau de neurones artificiels"
+    ],
+    "it": [
+      "Rete neurale artificiale"
+    ]
+  }
+}

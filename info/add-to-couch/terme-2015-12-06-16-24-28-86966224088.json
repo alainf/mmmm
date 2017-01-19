@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224088",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Irrigation-(botanique)/",
+  "description": "Description de Irrigation (botanique)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 252583,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Irrigation (botanique)",
+  "nom-folder": "Irrigation-(botanique)",
+  "nom-machine": "terme-2015-12-06-16-24-28-86966224088",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Irrigation (botany)"
+    ],
+    "ar": [
+      "الري (تربة)"
+    ],
+    "es": [
+      "Riego (Botánica)"
+    ],
+    "fr": [
+      "Irrigation (botanique)"
+    ],
+    "it": [
+      "Irrigazione (botanica)"
+    ]
+  }
+}

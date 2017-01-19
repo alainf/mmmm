@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-39-86966174394",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/editeur-professionnel/",
+  "description": "éditeur professionnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-39",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Éditeur professionnel",
+  "nom-folder": "editeur-professionnel",
+  "nom-machine": "terme-2015-12-06-16-10-39-86966174394",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Professional publishing company"
+    ],
+    "ar": [
+      "دار نشر"
+    ],
+    "es": [
+      "Casa editorial"
+    ],
+    "fr": [
+      "Éditeur professionnel"
+    ],
+    "it": [
+      "Casa editrice"
+    ]
+  }
+}

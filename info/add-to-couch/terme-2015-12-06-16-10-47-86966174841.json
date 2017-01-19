@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174841",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Zoulou/",
+  "description": "Description de Zoulou",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317672,
+  "ISO-639-1": "zu",
+  "ISO-639-2": "zul",
+  "ISO-639-3": "zul",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2016-02-04-07-04-31",
+  "nom": "Zoulou",
+  "nom-folder": "Zoulou",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174841",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Zoulou",
+  "nomLangues": {
+    "en": [
+      "Zulu"
+    ],
+    "ar": [
+      "زولوية"
+    ],
+    "es": [
+      "Zulú"
+    ],
+    "fr": [
+      "Zoulou"
+    ],
+    "it": [
+      "Zulu"
+    ],
+    "ru": [
+      "Зулу"
+    ]
+  }
+}

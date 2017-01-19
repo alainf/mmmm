@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225726",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/De-localisation/Localisation-des-industries/",
+  "description": "Description de Localisation des industries",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472109,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Localisation des industries",
+  "nom-folder": "Localisation-des-industries",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225726"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial localization"
+    ],
+    "ar": [
+      "تموقع الصناعات"
+    ],
+    "es": [
+      "Localización industrial"
+    ],
+    "fr": [
+      "Localisation des industries"
+    ],
+    "it": [
+      "localizzazione industriale"
+    ]
+  }
+}

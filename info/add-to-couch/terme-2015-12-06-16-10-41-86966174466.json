@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-41-86966174466",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Bielorusse/",
+  "description": "Description de Biélorusse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380445,
+  "ISO-639-1": "be",
+  "ISO-639-2": "bel",
+  "ISO-639-3": "bel",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-41",
+  "moment-de-modification": "2016-02-04-03-26-56",
+  "nom": "Biélorusse",
+  "nom-folder": "Bielorusse",
+  "nom-machine": "terme-2015-12-06-16-10-41-86966174466",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Bi%C3%A9lorusse",
+  "nomLangues": {
+    "en": [
+      "Belarusian"
+    ],
+    "ar": [
+      "بيلاروسية"
+    ],
+    "es": [
+      "Bielorruso"
+    ],
+    "fr": [
+      "Biélorusse"
+    ],
+    "it": [
+      "Bielorusso"
+    ],
+    "ru": [
+      "Белорусский"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-40-86966228428",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Indicateurs-de-la-gestion-de-la-chaine-logistique/",
+  "description": "Description de Indicateurs de la gestion de la chaîne logistique",
+  "enfants": [
+    "terme-2015-12-06-16-25-40-86966228431",
+    "terme-2015-12-06-16-25-40-86966228434",
+    "terme-2015-12-06-16-25-40-86966228438",
+    "terme-2015-12-06-16-25-40-86966228440",
+    "terme-2015-12-06-16-25-40-86966228443"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2039,
+  "identifiant-drupal-parent": 2035,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-40",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Indicateurs de la gestion de la chaîne logistique",
+  "nom-folder": "Indicateurs-de-la-gestion-de-la-chaine-logistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-40-86966228428"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Supply chain management indicators"
+    ],
+    "ar": [
+      "مؤشرات التسيير السلسلة اللوجستيكية"
+    ],
+    "es": [
+      "Indicadores de gestión de la cadena logística"
+    ],
+    "fr": [
+      "Indicateurs de la gestion de la chaîne logistique"
+    ],
+    "it": [
+      "Indicatori di gestione della catena logistica"
+    ]
+  }
+}

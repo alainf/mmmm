@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230627",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Statistiques-economiques/",
+  "description": "Description de Statistiques économiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-17-86966230630"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272232,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Statistiques économiques",
+  "nom-folder": "Statistiques-economiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230627"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic Statistics"
+    ],
+    "ar": [
+      "الإحصاءات الاقتصادية"
+    ],
+    "es": [
+      "Estadísticas económicas"
+    ],
+    "fr": [
+      "Statistiques économiques"
+    ],
+    "it": [
+      "Statistiche economiche"
+    ]
+  }
+}

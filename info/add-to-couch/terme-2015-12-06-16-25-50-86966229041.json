@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229041",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Normes-et-principes-de-la-comptabilite/Plan-comptable/Compte-de-produits/",
+  "description": "Description de Compte de produits",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271277,
+  "identifiant-drupal-parent": 271276,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Compte de produits",
+  "nom-folder": "Compte-de-produits",
+  "nom-machine": "terme-2015-12-06-16-25-50-86966229041",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Product account"
+    ],
+    "ar": [
+      "حساب المنتجات"
+    ],
+    "es": [
+      "Cuenta de productos"
+    ],
+    "fr": [
+      "Compte de produits"
+    ],
+    "it": [
+      "Conto di prodotti"
+    ]
+  }
+}

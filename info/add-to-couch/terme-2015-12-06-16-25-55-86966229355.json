@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229355",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Debordement-culturaliste/",
+  "description": "Description de Débordement culturaliste",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2257,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Débordement culturaliste",
+  "nom-folder": "Debordement-culturaliste",
+  "nom-machine": "terme-2015-12-06-16-25-55-86966229355",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Culturalist overflow"
+    ],
+    "ar": [
+      "تدفق ثقافوي"
+    ],
+    "es": [
+      "Desbordamiento culturalista"
+    ],
+    "fr": [
+      "Débordement culturaliste"
+    ],
+    "it": [
+      "Eccesso culturalista (teoria)"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-15-86966223356",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Social-Sciences-(category)/Criminology/",
+  "description": "Description de Criminology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369279,
+  "identifiant-drupal-parent": 369274,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-15",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Criminology",
+  "nom-folder": "Criminology",
+  "nom-machine": "terme-2015-12-06-16-24-15-86966223356",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Criminology"
+    ]
+  }
+}

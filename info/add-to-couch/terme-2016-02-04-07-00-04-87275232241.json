@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-07-00-04-87275232241",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Yiddish/",
+  "description": "Description de Yiddish",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "yi",
+  "ISO-639-2": "yid",
+  "ISO-639-3": "yid",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-07-00-04",
+  "moment-de-modification": "2016-02-04-07-00-52",
+  "nom": "Yiddish",
+  "nom-folder": "Yiddish",
+  "nom-machine": "terme-2016-02-04-07-00-04-87275232241",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Yiddish",
+  "nomLangues": {
+    "en": [
+      "Yiddish"
+    ],
+    "ar": [
+      "يديشية"
+    ],
+    "es": [
+      "Yidis"
+    ],
+    "fr": [
+      "Yiddish"
+    ],
+    "it": [
+      "Yiddish"
+    ],
+    "ru": [
+      "идиш"
+    ]
+  }
+}

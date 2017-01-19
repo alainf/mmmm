@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230813",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Chimie-organometallique/",
+  "description": "Description de Chimie organométallique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270452,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Chimie organométallique",
+  "nom-folder": "Chimie-organometallique",
+  "nom-machine": "terme-2015-12-06-16-26-20-86966230813",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organometallic chemistry"
+    ],
+    "ar": [
+      "كيمياء عضوية فلزية"
+    ],
+    "es": [
+      "Química organometálica"
+    ],
+    "fr": [
+      "Chimie organométallique"
+    ],
+    "it": [
+      "Chimica organometallica"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221201",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Le-monde/Asie/",
+  "description": "Description de Asie",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270661,
+  "identifiant-drupal-parent": 270647,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Asie",
+  "nom-folder": "Asie",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-40-86966221201"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Asia"
+    ],
+    "ar": [
+      "آسيا"
+    ],
+    "es": [
+      "Asia"
+    ],
+    "fr": [
+      "Asie"
+    ],
+    "it": [
+      "Asia"
+    ]
+  }
+}

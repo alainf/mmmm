@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-41-86966174478",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Cantonnais/",
+  "description": "Description de Cantonnais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369328,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-41",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Cantonnais",
+  "nom-folder": "Cantonnais",
+  "nom-machine": "terme-2015-12-06-16-10-41-86966174478",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Yue chinese"
+    ],
+    "ar": [
+      "صينية يؤ"
+    ],
+    "es": [
+      "Cantonés"
+    ],
+    "fr": [
+      "Cantonnais"
+    ],
+    "it": [
+      "Cantonese"
+    ],
+    "ru": [
+      "Юэ"
+    ]
+  }
+}

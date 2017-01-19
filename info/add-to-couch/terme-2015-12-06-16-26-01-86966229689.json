@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229689",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-social/",
+  "description": "Description de Marketing social",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2070,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing social",
+  "nom-folder": "Marketing-social",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229689"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social marketing"
+    ],
+    "ar": [
+      "التسويق الإجتماعي"
+    ],
+    "es": [
+      "Marketing social"
+    ],
+    "fr": [
+      "Marketing social"
+    ],
+    "it": [
+      "marketing sociale"
+    ]
+  }
+}

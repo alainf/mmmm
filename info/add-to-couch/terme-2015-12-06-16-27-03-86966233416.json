@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-03-86966233416",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Culture-en-sociologie/Consommation/",
+  "description": "Description de Consommation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1263,
+  "identifiant-drupal-parent": 1252,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-03",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Consommation",
+  "nom-folder": "Consommation",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-03-86966233416"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Consumption"
+    ],
+    "ar": [
+      "استهلاك"
+    ],
+    "es": [
+      "Consumo"
+    ],
+    "fr": [
+      "Consommation"
+    ],
+    "it": [
+      "consumo"
+    ]
+  }
+}

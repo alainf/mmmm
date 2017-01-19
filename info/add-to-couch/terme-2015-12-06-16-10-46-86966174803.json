@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174803",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Thai/",
+  "description": "Description de Thaï",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382408,
+  "ISO-639-1": "th",
+  "ISO-639-2": "tha",
+  "ISO-639-3": "tha",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2016-02-04-06-37-32",
+  "nom": "Thaï",
+  "nom-folder": "Thai",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174803",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tha%C3%AF",
+  "nomLangues": {
+    "en": [
+      "Thai"
+    ],
+    "ar": [
+      "تايلندية"
+    ],
+    "es": [
+      "Tailandés"
+    ],
+    "fr": [
+      "Thaï"
+    ],
+    "it": [
+      "Thailandese"
+    ],
+    "ru": [
+      "Тайский"
+    ]
+  }
+}

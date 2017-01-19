@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-11-86966230295",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-de-l'innovation/Innovation-territoriale/",
+  "description": "Description de Innovation territoriale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469103,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-11",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Innovation territoriale",
+  "nom-folder": "Innovation-territoriale",
+  "nom-machine": "terme-2015-12-06-16-26-11-86966230295",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Territorial innovation"
+    ],
+    "ar": [
+      "إبتكار إقليمي"
+    ],
+    "es": [
+      "Innovación territorial"
+    ],
+    "fr": [
+      "Innovation territoriale"
+    ],
+    "it": [
+      "Innovazione territoriale"
+    ]
+  }
+}

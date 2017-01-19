@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230658",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/",
+  "description": "Description de Sciences exactes",
+  "enfants": [
+    "terme-2015-12-06-16-26-17-86966230661",
+    "terme-2015-12-06-16-26-17-86966230664",
+    "terme-2015-12-06-16-26-17-86966230667",
+    "terme-2015-12-06-16-26-17-86966230670",
+    "terme-2015-12-06-16-26-18-86966230684",
+    "terme-2015-12-06-16-26-19-86966230755",
+    "terme-2015-12-06-16-26-22-86966230923",
+    "terme-2015-12-06-16-26-22-86966230956"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 889,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Sciences exactes",
+  "nom-folder": "Sciences-exactes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230658"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Exact Sciences"
+    ],
+    "ar": [
+      "علوم دقيقة"
+    ],
+    "es": [
+      "Ciencias exactas"
+    ],
+    "fr": [
+      "Sciences exactes"
+    ],
+    "it": [
+      "scienze esatte"
+    ]
+  }
+}

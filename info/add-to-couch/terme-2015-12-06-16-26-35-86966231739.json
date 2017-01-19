@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-35-86966231739",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Personnalite-(psychologie)/Psychometrie/Inventaire-multiphase-personnalite-Minnesota/",
+  "description": "Description de Inventaire multiphase de personnalité du Minnesota",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472494,
+  "identifiant-drupal-parent": 472499,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-35",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Inventaire multiphase de personnalité du Minnesota",
+  "nom-folder": "Inventaire-multiphase-personnalite-Minnesota",
+  "nom-machine": "terme-2015-12-06-16-26-35-86966231739",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Minnesota Multiphasic Personality Inventory"
+    ],
+    "ar": [
+      "جرد متعدد المراحل لشخصية مينيسوتا"
+    ],
+    "es": [
+      "Inventario multifásico de personalidad de Minnesota"
+    ],
+    "fr": [
+      "Inventaire multiphase de personnalité du Minnesota"
+    ],
+    "it": [
+      "Inventario multifasico di personalità Minnesota"
+    ]
+  }
+}

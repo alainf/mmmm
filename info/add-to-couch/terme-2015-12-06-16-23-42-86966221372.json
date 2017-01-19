@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221372",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Emplois/Emploi/",
+  "description": "Description de Emploi",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1730,
+  "identifiant-drupal-parent": 1672,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Emploi",
+  "nom-folder": "Emploi",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221372"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Employment"
+    ],
+    "ar": [
+      "العمالة"
+    ],
+    "es": [
+      "Empleo"
+    ],
+    "fr": [
+      "Emploi"
+    ],
+    "it": [
+      "Occupazione"
+    ]
+  }
+}

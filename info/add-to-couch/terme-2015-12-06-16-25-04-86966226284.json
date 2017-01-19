@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226284",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Politique/Politique-sociale/Reforme-agraire/",
+  "description": "Description de Réforme agraire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272178,
+  "identifiant-drupal-parent": 1292,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Réforme agraire",
+  "nom-folder": "Reforme-agraire",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226284"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agrarian Reform"
+    ],
+    "ar": [
+      "إصلاح زراعي"
+    ],
+    "es": [
+      "Reforma agraria"
+    ],
+    "fr": [
+      "Réforme agraire"
+    ],
+    "it": [
+      "Riforma agraria"
+    ]
+  }
+}

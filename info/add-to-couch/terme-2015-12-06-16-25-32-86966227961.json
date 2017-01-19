@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227961",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Construction-des-equipes/",
+  "description": "Description de Construction des équipes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451376,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Construction des équipes",
+  "nom-folder": "Construction-des-equipes",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-32-86966227961"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Team building"
+    ],
+    "ar": [
+      "بناء فرق الأعمال"
+    ],
+    "es": [
+      "Formación de equipos"
+    ],
+    "fr": [
+      "Construction des équipes"
+    ],
+    "it": [
+      "Costruzione dei gruppi"
+    ]
+  }
+}

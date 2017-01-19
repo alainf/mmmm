@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223810",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Economie-agricole-(agriculture)/",
+  "description": "Description de Économie agricole (agriculture)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 905,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Économie agricole (agriculture)",
+  "nom-folder": "Economie-agricole-(agriculture)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223810"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural economy"
+    ],
+    "ar": [
+      "الاقتصاد الزراعى (الزراعة)"
+    ],
+    "es": [
+      "Economía Agrícola (Agricultura)"
+    ],
+    "fr": [
+      "Économie agricole (agriculture)"
+    ],
+    "it": [
+      "Economia agricola (agricoltura)"
+    ]
+  }
+}

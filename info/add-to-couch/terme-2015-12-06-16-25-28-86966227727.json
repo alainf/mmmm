@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227727",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Analyse-de-la-performance/",
+  "description": "Description de Analyse de la performance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1878,
+  "identifiant-drupal-parent": 1877,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Analyse de la performance",
+  "nom-folder": "Analyse-de-la-performance",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227727"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Performance analysis"
+    ],
+    "ar": [
+      "تحليل الأداء"
+    ],
+    "es": [
+      "Análisis de rendimiento"
+    ],
+    "fr": [
+      "Analyse de la performance"
+    ],
+    "it": [
+      "analisi del rendimento"
+    ]
+  }
+}

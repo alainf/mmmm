@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-37-86966231841",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychologie-experimentale/",
+  "description": "Description de Psychologie expérimentale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270385,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-37",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Psychologie expérimentale",
+  "nom-folder": "Psychologie-experimentale",
+  "nom-machine": "terme-2015-12-06-16-26-37-86966231841",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Experimental psychology"
+    ],
+    "ar": [
+      "علم النفس التجريبي"
+    ],
+    "es": [
+      "Psicología experimental"
+    ],
+    "fr": [
+      "Psychologie expérimentale"
+    ],
+    "it": [
+      "Psicologia sperimentale"
+    ]
+  }
+}

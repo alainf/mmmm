@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232647",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Actualites-politiques/Guerre-et-politique/Militarisme-et-antimilitarisme/",
+  "description": "Description de Militarisme et antimilitarisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455668,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Militarisme et antimilitarisme",
+  "nom-folder": "Militarisme-et-antimilitarisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232647"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Militarism and anti-militarism"
+    ],
+    "ar": [
+      "سياسة عسكرية و مكافحة النزعة العسكرية"
+    ],
+    "es": [
+      "Militarismo y antimilitarismo"
+    ],
+    "fr": [
+      "Militarisme et antimilitarisme"
+    ],
+    "it": [
+      "Militarismo ed antimilitarismo"
+    ]
+  }
+}

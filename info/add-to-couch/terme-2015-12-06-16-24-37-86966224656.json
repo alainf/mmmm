@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-37-86966224656",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Theatre-baroque/",
+  "description": "Description de Théâtre baroque",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467085,
+  "identifiant-drupal-parent": 467060,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-37",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Théâtre baroque",
+  "nom-folder": "Theatre-baroque",
+  "nom-machine": "terme-2015-12-06-16-24-37-86966224656",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Baroque theatre"
+    ],
+    "ar": [
+      "باروكية"
+    ],
+    "es": [
+      "Barroco"
+    ],
+    "fr": [
+      "Théâtre baroque"
+    ],
+    "it": [
+      "Teatro barocco"
+    ]
+  }
+}

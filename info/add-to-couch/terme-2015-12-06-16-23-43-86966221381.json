@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221381",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Emplois/Marche-du-travail/",
+  "description": "Description de Marché du travail",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1733,
+  "identifiant-drupal-parent": 1672,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Marché du travail",
+  "nom-folder": "Marche-du-travail",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221381"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Job market"
+    ],
+    "ar": [
+      "سوق العمل"
+    ],
+    "es": [
+      "Mercado del trabajo"
+    ],
+    "fr": [
+      "Marché du travail"
+    ],
+    "it": [
+      "Mercato del lavoro"
+    ]
+  }
+}

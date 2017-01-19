@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227746",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Histoire-de-la-gestion-de-la-qualite/",
+  "description": "Description de Histoire de la gestion de la qualité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1886,
+  "identifiant-drupal-parent": 1877,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Histoire de la gestion de la qualité",
+  "nom-folder": "Histoire-de-la-gestion-de-la-qualite",
+  "nom-machine": "terme-2015-12-06-16-25-29-86966227746",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of quality management"
+    ],
+    "ar": [
+      "تاريخ إدارة الجودة"
+    ],
+    "es": [
+      "Historia de la gestión de la calidad"
+    ],
+    "fr": [
+      "Histoire de la gestion de la qualité"
+    ],
+    "it": [
+      "Storia della gestione della qualità"
+    ]
+  }
+}

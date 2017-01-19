@@ -1,0 +1,51 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233675",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/",
+  "description": "Description de Énergie",
+  "enfants": [
+    "terme-2015-12-06-16-27-07-86966233677",
+    "terme-2015-12-06-16-27-08-86966233680",
+    "terme-2015-12-06-16-27-08-86966233683",
+    "terme-2015-12-06-16-27-08-86966233686",
+    "terme-2015-12-06-16-27-08-86966233690",
+    "terme-2015-12-06-16-27-08-86966233692",
+    "terme-2015-12-06-16-27-08-86966233695",
+    "terme-2015-12-06-16-27-08-86966233699",
+    "terme-2015-12-06-16-27-08-86966233702",
+    "terme-2015-12-06-16-27-08-86966233705",
+    "terme-2015-12-06-16-27-08-86966233708",
+    "terme-2015-12-06-16-27-08-86966233711"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467101,
+  "identifiant-drupal-parent": 467096,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Énergie",
+  "nom-folder": "Energie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233675"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy"
+    ],
+    "ar": [
+      "طاقة"
+    ],
+    "es": [
+      "Energía"
+    ],
+    "fr": [
+      "Énergie"
+    ],
+    "it": [
+      "Energia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225345",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-regionales/",
+  "description": "Description de Études régionales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466709,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études régionales",
+  "nom-folder": "Etudes-regionales",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-49-86966225345"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Regional Studies"
+    ],
+    "ar": [
+      "الدراسات الإقليمية"
+    ],
+    "es": [
+      "Estudios regionales"
+    ],
+    "fr": [
+      "Études régionales"
+    ],
+    "it": [
+      "Studi regionali"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231969",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Religions-et-homosexualite/",
+  "description": "Description de Religions et homosexualité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466775,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Religions et homosexualité",
+  "nom-folder": "Religions-et-homosexualite",
+  "nom-machine": "terme-2015-12-06-16-26-39-86966231969",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Religions and homosexuality"
+    ],
+    "ar": [
+      "الأديان والمثلية"
+    ],
+    "es": [
+      "Religiones y homosexualidad"
+    ],
+    "fr": [
+      "Religions et homosexualité"
+    ],
+    "it": [
+      "Religioni e omosessualità"
+    ],
+    "ru": []
+  }
+}

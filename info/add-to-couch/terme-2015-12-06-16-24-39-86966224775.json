@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-24-39-86966224775",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Dessin/",
+  "description": "Description de Dessin",
+  "enfants": [
+    "terme-2015-12-06-16-24-39-86966224779",
+    "terme-2015-12-06-16-24-39-86966224781",
+    "terme-2015-12-06-16-24-39-86966224784",
+    "terme-2015-12-06-16-24-39-86966224798",
+    "terme-2015-12-06-16-24-40-86966224801",
+    "terme-2015-12-06-16-24-40-86966224804",
+    "terme-2015-12-06-16-24-40-86966224807",
+    "terme-2015-12-06-16-24-40-86966224809",
+    "terme-2015-12-06-16-24-40-86966224812",
+    "terme-2015-12-06-16-24-40-86966224815",
+    "terme-2015-12-06-16-24-40-86966224826"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466909,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-39",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Dessin",
+  "nom-folder": "Dessin",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-39-86966224775"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Drawing"
+    ],
+    "ar": [
+      "رسم"
+    ],
+    "es": [
+      "Dibujo"
+    ],
+    "fr": [
+      "Dessin"
+    ],
+    "it": [
+      "disegno"
+    ]
+  }
+}

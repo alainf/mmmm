@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-21-86966230869",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-physiques/Astrophysique-(physique)/",
+  "description": "Description de Astrophysique (physique)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270758,
+  "identifiant-drupal-parent": 270456,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-21",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Astrophysique (physique)",
+  "nom-folder": "Astrophysique-(physique)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-21-86966230869"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Astrophysics (physics)"
+    ],
+    "ar": [
+      "الفيزياء الفلكية (الفيزياء)"
+    ],
+    "es": [
+      "Astrofísica (Física)"
+    ],
+    "fr": [
+      "Astrophysique (physique)"
+    ],
+    "it": [
+      "astrofisica (fisica)"
+    ]
+  }
+}

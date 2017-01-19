@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233636",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sport/Sante-(sport)/",
+  "description": "Description de Santé (sport)",
+  "enfants": [
+    "terme-2015-12-06-16-27-07-86966233640",
+    "terme-2015-12-06-16-27-07-86966233642"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270915,
+  "identifiant-drupal-parent": 892,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Santé (sport)",
+  "nom-folder": "Sante-(sport)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233636"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health (sports)"
+    ],
+    "ar": [
+      "الصحة (الرياضة)"
+    ],
+    "es": [
+      "Salud (Deporte)"
+    ],
+    "fr": [
+      "Santé (sport)"
+    ],
+    "it": [
+      "Salute (sport)"
+    ]
+  }
+}

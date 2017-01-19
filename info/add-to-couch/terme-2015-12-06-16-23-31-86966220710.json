@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220710",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industrie-du-spectacle/",
+  "description": "Description de Industrie du spectacle",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270592,
+  "identifiant-drupal-parent": 270556,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Industrie du spectacle",
+  "nom-folder": "Industrie-du-spectacle",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220710"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Show business"
+    ],
+    "ar": [
+      "صناعة الترفيه"
+    ],
+    "es": [
+      "Mundo del espectáculo"
+    ],
+    "fr": [
+      "Industrie du spectacle"
+    ],
+    "it": [
+      "Industria dello spettacolo"
+    ],
+    "ru": [
+      "Шоу-бизнес"
+    ]
+  }
+}

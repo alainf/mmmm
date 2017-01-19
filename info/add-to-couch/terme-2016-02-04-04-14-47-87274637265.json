@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-14-47-87274637265",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Finnois/",
+  "description": "Description de Finnois",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "fi",
+  "ISO-639-2": "fin",
+  "ISO-639-3": "fin",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-14-47",
+  "moment-de-modification": "2016-02-04-04-15-42",
+  "nom": "Finnois",
+  "nom-folder": "Finnois",
+  "nom-machine": "terme-2016-02-04-04-14-47-87274637265",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Finnois",
+  "nomLangues": {
+    "en": [
+      "Finnish"
+    ],
+    "ar": [
+      "فنلندية"
+    ],
+    "es": [
+      "Finés"
+    ],
+    "fr": [
+      "Finnois"
+    ],
+    "it": [
+      "Finlandese"
+    ],
+    "ru": [
+      "Финский"
+    ]
+  }
+}

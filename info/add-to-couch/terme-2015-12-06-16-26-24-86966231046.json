@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-24-86966231046",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-humaine/Geographie-urbaine/",
+  "description": "Description de Géographie urbaine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 961,
+  "identifiant-drupal-parent": 952,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-24",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Géographie urbaine",
+  "nom-folder": "Geographie-urbaine",
+  "nom-machine": "terme-2015-12-06-16-26-24-86966231046",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban Geography"
+    ],
+    "ar": [
+      "جغرافيا حضرية"
+    ],
+    "es": [
+      "Geografía Urbana"
+    ],
+    "fr": [
+      "Géographie urbaine"
+    ],
+    "it": [
+      "Geografia urbana"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229790",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Segmentation-du-marche/Analyse-socio-demographique/",
+  "description": "Description de Analyse socio-démographique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472405,
+  "identifiant-drupal-parent": 472404,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Analyse socio-démographique",
+  "nom-folder": "Analyse-socio-demographique",
+  "nom-machine": "terme-2015-12-06-16-26-03-86966229790",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Socio-demographic analysis"
+    ],
+    "ar": [
+      "تحليل الاجتماعية والديمغرافية"
+    ],
+    "es": [
+      "Análisis sociodemográfico"
+    ],
+    "fr": [
+      "Analyse socio-démographique"
+    ],
+    "it": [
+      "Analisi socio-demografiche"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966228017",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-des-projets-culturels/",
+  "description": "Description de Gestion des projets culturels",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1966,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des projets culturels",
+  "nom-folder": "Gestion-des-projets-culturels",
+  "nom-machine": "terme-2015-12-06-16-25-33-86966228017",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management of cultural projects"
+    ],
+    "ar": [
+      "إدارة المشاريع الثقافية"
+    ],
+    "es": [
+      "Gestión de proyectos culturales"
+    ],
+    "fr": [
+      "Gestion des projets culturels"
+    ],
+    "it": [
+      "Gestione dei progetti culturali"
+    ]
+  }
+}

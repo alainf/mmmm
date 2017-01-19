@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221154",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/",
+  "description": "Description de Les nouvelles",
+  "enfants": [
+    "terme-2015-12-06-16-23-39-86966221157",
+    "terme-2015-12-06-16-23-39-86966221166",
+    "terme-2015-12-06-16-23-39-86966221169",
+    "terme-2015-12-06-16-23-39-86966221177",
+    "terme-2015-12-06-16-23-40-86966221213",
+    "terme-2015-12-06-16-23-41-86966221270",
+    "terme-2015-12-06-16-23-41-86966221273",
+    "terme-2015-12-06-16-23-41-86966221275"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270650,
+  "identifiant-drupal-parent": 270470,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Les nouvelles",
+  "nom-folder": "Les-nouvelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221154"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The news"
+    ],
+    "ar": [
+      "الأخبار"
+    ],
+    "es": [
+      "Las noticias"
+    ],
+    "fr": [
+      "Les nouvelles"
+    ],
+    "it": [
+      "Le notizie"
+    ]
+  }
+}

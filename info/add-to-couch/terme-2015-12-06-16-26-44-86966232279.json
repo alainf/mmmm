@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232279",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Etudes-des-sciences-et-de-la-societe/Enjeux-de-societe/",
+  "description": "Description de Enjeux de société",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471906,
+  "identifiant-drupal-parent": 466711,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Enjeux de société",
+  "nom-folder": "Enjeux-de-societe",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-44-86966232279"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Societal issues"
+    ],
+    "ar": [
+      "قضايا المجتمع"
+    ],
+    "es": [
+      "Asuntos societales"
+    ],
+    "fr": [
+      "Enjeux de société"
+    ],
+    "it": [
+      "Sfide di società"
+    ]
+  }
+}

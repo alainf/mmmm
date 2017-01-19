@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-13-86966233986",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/manifestation/",
+  "description": "Description de Manifestation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 378963,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Manifestation",
+  "nom-folder": "manifestation",
+  "nom-machine": "terme-2015-12-06-16-27-13-86966233986",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Demonstration"
+    ],
+    "es": [
+      "Manifestación"
+    ],
+    "fr": [
+      "Manifestation"
+    ],
+    "it": [
+      "Manifestazione"
+    ]
+  }
+}

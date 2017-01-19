@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-50-86966225445",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-des-affaires/Droit-financier/",
+  "description": "Description de Droit financier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269129,
+  "identifiant-drupal-parent": 269121,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-50",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit financier",
+  "nom-folder": "Droit-financier",
+  "nom-machine": "terme-2015-12-06-16-24-50-86966225445",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial Law"
+    ],
+    "ar": [
+      "قانون المالي"
+    ],
+    "es": [
+      "Derecho financiero"
+    ],
+    "fr": [
+      "Droit financier"
+    ],
+    "it": [
+      "Diritto finanziario"
+    ]
+  }
+}

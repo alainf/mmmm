@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-05-86966229940",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-mecanique/",
+  "description": "Description de Ingénierie mécanique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270890,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-05",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Ingénierie mécanique",
+  "nom-folder": "Ingenierie-mecanique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-05-86966229940"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mechanical engineering"
+    ],
+    "ar": [
+      "هندسة الميكانيكية"
+    ],
+    "es": [
+      "Ingeniería mecánica"
+    ],
+    "fr": [
+      "Ingénierie mécanique"
+    ],
+    "it": [
+      "Ingegneria meccanica"
+    ]
+  }
+}

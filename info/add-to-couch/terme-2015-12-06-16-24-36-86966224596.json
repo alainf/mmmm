@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224596",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Genres-theatraux/Cafe-theatre/",
+  "description": "Description de Café théâtre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467064,
+  "identifiant-drupal-parent": 467063,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Café théâtre",
+  "nom-folder": "Cafe-theatre",
+  "nom-machine": "terme-2015-12-06-16-24-36-86966224596",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Café-théâtre"
+    ],
+    "ar": [
+      "مقهى المسرح"
+    ],
+    "es": [
+      "Café-teatro"
+    ],
+    "fr": [
+      "Café théâtre"
+    ],
+    "it": [
+      "Caffè teatro"
+    ]
+  }
+}

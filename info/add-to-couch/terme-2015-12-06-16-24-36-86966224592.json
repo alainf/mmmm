@@ -1,0 +1,60 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224592",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Genres-theatraux/",
+  "description": "Description de Genres théâtraux",
+  "enfants": [
+    "terme-2015-12-06-16-24-36-86966224596",
+    "terme-2015-12-06-16-24-36-86966224598",
+    "terme-2015-12-06-16-24-36-86966224602",
+    "terme-2015-12-06-16-24-36-86966224604",
+    "terme-2015-12-06-16-24-36-86966224608",
+    "terme-2015-12-06-16-24-36-86966224610",
+    "terme-2015-12-06-16-24-36-86966224613",
+    "terme-2015-12-06-16-24-36-86966224616",
+    "terme-2015-12-06-16-24-36-86966224618",
+    "terme-2015-12-06-16-24-37-86966224622",
+    "terme-2015-12-06-16-24-37-86966224624",
+    "terme-2015-12-06-16-24-37-86966224627",
+    "terme-2015-12-06-16-24-37-86966224630",
+    "terme-2015-12-06-16-24-37-86966224632",
+    "terme-2015-12-06-16-24-37-86966224635",
+    "terme-2015-12-06-16-24-37-86966224638",
+    "terme-2015-12-06-16-24-37-86966224641",
+    "terme-2015-12-06-16-24-37-86966224644",
+    "terme-2015-12-06-16-24-37-86966224646",
+    "terme-2015-12-06-16-24-37-86966224649",
+    "terme-2015-12-06-16-24-37-86966224652"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467063,
+  "identifiant-drupal-parent": 467060,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Genres théâtraux",
+  "nom-folder": "Genres-theatraux",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-36-86966224592"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theatrical genres"
+    ],
+    "ar": [
+      "الأنواع المسرحية"
+    ],
+    "es": [
+      "Géneros teatrales"
+    ],
+    "fr": [
+      "Genres théâtraux"
+    ],
+    "it": [
+      "Generi teatrali"
+    ]
+  }
+}

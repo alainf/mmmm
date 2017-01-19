@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966231036",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-humaine/Geographie-politique/",
+  "description": "Description de Géographie politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 958,
+  "identifiant-drupal-parent": 952,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Géographie politique",
+  "nom-folder": "Geographie-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-23-86966231036"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political Geography"
+    ],
+    "ar": [
+      "جغرافيا سياسية"
+    ],
+    "es": [
+      "Geografía política"
+    ],
+    "fr": [
+      "Géographie politique"
+    ],
+    "it": [
+      "Geografia politica"
+    ]
+  }
+}

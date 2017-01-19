@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-27-12-86966233929",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/dictionnaire/",
+  "description": "Description de Dictionnaire",
+  "enfants": [
+    "terme-2015-12-06-16-27-12-86966233931",
+    "terme-2015-12-06-16-27-12-86966233934",
+    "terme-2015-12-06-16-27-12-86966233937"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369439,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Dictionnaire",
+  "nom-folder": "dictionnaire",
+  "nom-machine": "terme-2015-12-06-16-27-12-86966233929",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Dictionary"
+    ],
+    "es": [
+      "Diccionario fonético"
+    ],
+    "fr": [
+      "Dictionnaire"
+    ],
+    "it": [
+      "Dizionario"
+    ]
+  }
+}

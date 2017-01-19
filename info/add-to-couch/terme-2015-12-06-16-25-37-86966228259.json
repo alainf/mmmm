@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228259",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-du-changement-(gestion)/Communication-et-changement/",
+  "description": "Description de Communication et changement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2012,
+  "identifiant-drupal-parent": 2008,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Communication et changement",
+  "nom-folder": "Communication-et-changement",
+  "nom-machine": "terme-2015-12-06-16-25-37-86966228259",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication and change"
+    ],
+    "ar": [
+      "الإتصال و التغيير"
+    ],
+    "es": [
+      "Comunicación y cambio"
+    ],
+    "fr": [
+      "Communication et changement"
+    ],
+    "it": [
+      "Comunicazione e cambiamento"
+    ]
+  }
+}

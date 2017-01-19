@@ -1,0 +1,65 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231891",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/",
+  "description": "Description de Religion (philosophie)",
+  "enfants": [
+    "terme-2015-12-06-16-26-38-86966231895",
+    "terme-2015-12-06-16-26-38-86966231898",
+    "terme-2015-12-06-16-26-38-86966231901",
+    "terme-2015-12-06-16-26-38-86966231903",
+    "terme-2015-12-06-16-26-38-86966231906",
+    "terme-2015-12-06-16-26-38-86966231909",
+    "terme-2015-12-06-16-26-38-86966231912",
+    "terme-2015-12-06-16-26-38-86966231915",
+    "terme-2015-12-06-16-26-38-86966231918",
+    "terme-2015-12-06-16-26-38-86966231921",
+    "terme-2015-12-06-16-26-38-86966231924",
+    "terme-2015-12-06-16-26-38-86966231927",
+    "terme-2015-12-06-16-26-38-86966231930",
+    "terme-2015-12-06-16-26-38-86966231933",
+    "terme-2015-12-06-16-26-38-86966231938",
+    "terme-2015-12-06-16-26-39-86966231942",
+    "terme-2015-12-06-16-26-39-86966231944",
+    "terme-2015-12-06-16-26-39-86966231948",
+    "terme-2015-12-06-16-26-39-86966231951",
+    "terme-2015-12-06-16-26-39-86966231966",
+    "terme-2015-12-06-16-26-39-86966231969",
+    "terme-2015-12-06-16-26-39-86966231972",
+    "terme-2015-12-06-16-26-39-86966231975",
+    "terme-2015-12-06-16-26-39-86966231977",
+    "terme-2015-12-06-16-26-39-86966231980",
+    "terme-2015-12-06-16-26-39-86966231983"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 882,
+  "identifiant-drupal-parent": 881,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Religion (philosophie)",
+  "nom-folder": "Religion-(philosophie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-38-86966231891"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Religion (philosophy)"
+    ],
+    "ar": [
+      "الدين (الفلسفة)"
+    ],
+    "es": [
+      "Religión (Filosofía)"
+    ],
+    "fr": [
+      "Religion (philosophie)"
+    ],
+    "it": [
+      "religione (filosofia)"
+    ]
+  }
+}

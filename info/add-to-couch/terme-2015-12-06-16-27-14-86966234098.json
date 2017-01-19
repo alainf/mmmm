@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234098",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/publication/document-de-travail/",
+  "description": "Description de Document de travail",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369445,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Document de travail",
+  "nom-folder": "document-de-travail",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234098",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Working paper"
+    ],
+    "es": [
+      "Documento de trabajo"
+    ],
+    "fr": [
+      "Document de travail"
+    ],
+    "it": [
+      "Documento di lavoro"
+    ]
+  }
+}

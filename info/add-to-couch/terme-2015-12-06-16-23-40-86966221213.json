@@ -1,0 +1,55 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221213",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/",
+  "description": "Description de Les sports",
+  "enfants": [
+    "terme-2015-12-06-16-23-40-86966221216",
+    "terme-2015-12-06-16-23-40-86966221219",
+    "terme-2015-12-06-16-23-40-86966221222",
+    "terme-2015-12-06-16-23-40-86966221225",
+    "terme-2015-12-06-16-23-40-86966221227",
+    "terme-2015-12-06-16-23-40-86966221230",
+    "terme-2015-12-06-16-23-40-86966221233",
+    "terme-2015-12-06-16-23-40-86966221236",
+    "terme-2015-12-06-16-23-40-86966221238",
+    "terme-2015-12-06-16-23-40-86966221247",
+    "terme-2015-12-06-16-23-40-86966221250",
+    "terme-2015-12-06-16-23-40-86966221252",
+    "terme-2015-12-06-16-23-40-86966221256",
+    "terme-2015-12-06-16-23-40-86966221258",
+    "terme-2015-12-06-16-23-41-86966221261",
+    "terme-2015-12-06-16-23-41-86966221267"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270649,
+  "identifiant-drupal-parent": 270650,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Les sports",
+  "nom-folder": "Les-sports",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-40-86966221213"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sports"
+    ],
+    "ar": [
+      "الرياضة"
+    ],
+    "es": [
+      "Los deportes"
+    ],
+    "fr": [
+      "Les sports"
+    ],
+    "it": [
+      "Gli sport"
+    ]
+  }
+}

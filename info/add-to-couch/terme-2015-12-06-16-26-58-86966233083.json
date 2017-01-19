@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233083",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-internationale/",
+  "description": "Description de Politique internationale",
+  "enfants": [
+    "terme-2015-12-06-16-26-58-86966233086"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272241,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Politique internationale",
+  "nom-folder": "Politique-internationale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-58-86966233083"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International Politics"
+    ],
+    "ar": [
+      "السياسة الدولية"
+    ],
+    "es": [
+      "Política Internacional"
+    ],
+    "fr": [
+      "Politique internationale"
+    ],
+    "it": [
+      "politica internazionale"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220858",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Processus-industriels/",
+  "description": "Description de Processus industriels",
+  "enfants": [
+    "terme-2015-12-06-16-23-34-86966220861",
+    "terme-2015-12-06-16-23-34-86966220864",
+    "terme-2015-12-06-16-23-34-86966220867",
+    "terme-2015-12-06-16-23-34-86966220869",
+    "terme-2015-12-06-16-23-34-86966220872",
+    "terme-2015-12-06-16-23-34-86966220876",
+    "terme-2015-12-06-16-23-34-86966220878",
+    "terme-2015-12-06-16-23-34-86966220881",
+    "terme-2015-12-06-16-23-34-86966220884",
+    "terme-2015-12-06-16-23-34-86966220887",
+    "terme-2015-12-06-16-23-34-86966220890"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270584,
+  "identifiant-drupal-parent": 270482,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Processus industriels",
+  "nom-folder": "Processus-industriels",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220858"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial processes"
+    ],
+    "ar": [
+      "العمليات الصناعية"
+    ],
+    "es": [
+      "Procesos industriales"
+    ],
+    "fr": [
+      "Processus industriels"
+    ],
+    "it": [
+      "Processi industriali"
+    ]
+  }
+}

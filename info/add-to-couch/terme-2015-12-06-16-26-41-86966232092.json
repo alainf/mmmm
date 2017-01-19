@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232092",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-physique/",
+  "description": "Description de Anthropologie physique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1019,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie physique",
+  "nom-folder": "Anthropologie-physique",
+  "nom-machine": "terme-2015-12-06-16-26-41-86966232092",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Physical anthropology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا الجسدية"
+    ],
+    "es": [
+      "Antropología física"
+    ],
+    "fr": [
+      "Anthropologie physique"
+    ],
+    "it": [
+      "Antropologia fisica"
+    ]
+  }
+}

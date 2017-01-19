@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-19-86966223573",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Traitement-primaire-des-recoltes/",
+  "description": "Description de Traitement primaire des récoltes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Traitement primaire des récoltes",
+  "nom-folder": "Traitement-primaire-des-recoltes",
+  "nom-machine": "terme-2015-12-06-16-24-19-86966223573",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Traitement primaire des récoltes"
+    ]
+  }
+}

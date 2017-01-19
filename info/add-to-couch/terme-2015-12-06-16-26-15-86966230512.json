@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230512",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Developpement-rural/",
+  "description": "Description de Développement rural",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1555,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Développement rural",
+  "nom-folder": "Developpement-rural",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230512"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rural development"
+    ],
+    "ar": [
+      "التنمية الريفية"
+    ],
+    "es": [
+      "Desarrollo rural"
+    ],
+    "fr": [
+      "Développement rural"
+    ],
+    "it": [
+      "Sviluppo rurale"
+    ]
+  }
+}

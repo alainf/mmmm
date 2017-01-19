@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-11-86966230313",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-de-la-firme/",
+  "description": "Description de Économie de la firme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451201,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-11",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie de la firme",
+  "nom-folder": "Economie-de-la-firme",
+  "nom-machine": "terme-2015-12-06-16-26-11-86966230313",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economy of the firm"
+    ],
+    "ar": [
+      "اقتصاد شركة"
+    ],
+    "es": [
+      "Economía de la empresa"
+    ],
+    "fr": [
+      "Économie de la firme"
+    ],
+    "it": [
+      "Economia dell'impresa"
+    ]
+  }
+}

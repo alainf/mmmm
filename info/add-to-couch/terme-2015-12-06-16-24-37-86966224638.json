@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-37-86966224638",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Genres-theatraux/Theatre-installation-performance/",
+  "description": "Description de Théâtre installation performance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467079,
+  "identifiant-drupal-parent": 467063,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-37",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Théâtre installation performance",
+  "nom-folder": "Theatre-installation-performance",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-37-86966224638"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Installation art"
+    ],
+    "ar": [
+      "تنصيبية"
+    ],
+    "es": [
+      "Instalación artística"
+    ],
+    "fr": [
+      "Théâtre installation performance"
+    ],
+    "it": [
+      "Installazione (arte)"
+    ]
+  }
+}

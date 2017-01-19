@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-08-86966230126",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/Extraction-de-gypse/",
+  "description": "Description de Extraction de gypse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451096,
+  "identifiant-drupal-parent": 451077,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de gypse",
+  "nom-folder": "Extraction-de-gypse",
+  "nom-machine": "terme-2015-12-06-16-26-08-86966230126",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Gypsum mining"
+    ],
+    "ar": [
+      "إستخراج الجص"
+    ],
+    "es": [
+      "Minería de yeso mineral"
+    ],
+    "fr": [
+      "Extraction de gypse"
+    ],
+    "it": [
+      "Estrazione di gesso"
+    ]
+  }
+}

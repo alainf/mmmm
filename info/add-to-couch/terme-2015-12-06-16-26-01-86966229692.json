@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229692",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Plan-de-marketing/",
+  "description": "Description de Plan de marketing",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2071,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Plan de marketing",
+  "nom-folder": "Plan-de-marketing",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229692"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Marketing plan"
+    ],
+    "ar": [
+      "خطة التسويق"
+    ],
+    "es": [
+      "Plan de marketing"
+    ],
+    "fr": [
+      "Plan de marketing"
+    ],
+    "it": [
+      "piano marketing"
+    ]
+  }
+}

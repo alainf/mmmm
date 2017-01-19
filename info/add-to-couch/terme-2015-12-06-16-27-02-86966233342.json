@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-02-86966233342",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Perspectives-methodologiques-en-sociologie/Analyse-de-reseau-(perspectives)/",
+  "description": "Description de Analyse de réseau (perspectives)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1238,
+  "identifiant-drupal-parent": 1191,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-02",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Analyse de réseau (perspectives)",
+  "nom-folder": "Analyse-de-reseau-(perspectives)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-02-86966233342"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Network analysis (perspectives)"
+    ],
+    "ar": [
+      "تحليل لشبكة (منظورات)"
+    ],
+    "es": [
+      "Análisis de red (perspectivas)"
+    ],
+    "fr": [
+      "Analyse de réseau (perspectives)"
+    ],
+    "it": [
+      "Analisi di rete (prospettive)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227620",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Gestion-des-operations/",
+  "description": "Description de Gestion des opérations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1845,
+  "identifiant-drupal-parent": 1837,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion des opérations",
+  "nom-folder": "Gestion-des-operations",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-27-86966227620"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Operations Management"
+    ],
+    "ar": [
+      "إدارة العمليات"
+    ],
+    "es": [
+      "Gestión de operaciones"
+    ],
+    "fr": [
+      "Gestion des opérations"
+    ],
+    "it": [
+      "Gestione delle operazioni"
+    ]
+  }
+}

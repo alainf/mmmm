@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224716",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Metiers-du-cinema/Production-de-films/",
+  "description": "Description de Production de films",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466887,
+  "identifiant-drupal-parent": 466883,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Production de films",
+  "nom-folder": "Production-de-films",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224716"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Film production"
+    ],
+    "ar": [
+      "إنتاج الأفلام"
+    ],
+    "es": [
+      "Producción de películas"
+    ],
+    "fr": [
+      "Production de films"
+    ],
+    "it": [
+      "produzione di film"
+    ]
+  }
+}

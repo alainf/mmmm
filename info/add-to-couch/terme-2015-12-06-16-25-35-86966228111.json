@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228111",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-centres-d'appel/",
+  "description": "Description de Gestion des centres d'appel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451163,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion des centres d'appel",
+  "nom-folder": "Gestion-des-centres-d'appel",
+  "nom-machine": "terme-2015-12-06-16-25-35-86966228111",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Call center management"
+    ],
+    "ar": [
+      "إدارة مراكز الإتصال"
+    ],
+    "es": [
+      "Gestión de centros de llamadas"
+    ],
+    "fr": [
+      "Gestion des centres d'appel"
+    ],
+    "it": [
+      "Gestione di centri chiamate (call center)"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-31-86966227863",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/Histogramme/",
+  "description": "Description de Histogramme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1925,
+  "identifiant-drupal-parent": 1910,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-31",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Histogramme",
+  "nom-folder": "Histogramme",
+  "nom-machine": "terme-2015-12-06-16-25-31-86966227863",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Histogram"
+    ],
+    "ar": [
+      "مدرج تكراري"
+    ],
+    "es": [
+      "Histograma"
+    ],
+    "fr": [
+      "Histogramme"
+    ],
+    "it": [
+      "Istogramma"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226806",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Industries-creatives/Edition/",
+  "description": "Description de Édition",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471923,
+  "identifiant-drupal-parent": 466834,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Édition",
+  "nom-folder": "Edition",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226806"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Edition"
+    ],
+    "ar": [
+      "طبعة"
+    ],
+    "es": [
+      "Edición"
+    ],
+    "fr": [
+      "Édition"
+    ],
+    "it": [
+      "Edizione"
+    ]
+  }
+}

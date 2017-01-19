@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221419",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Le-pouls-de-ce-reseau/Programmes-de-doctorat/",
+  "description": "Description de Programmes de doctorat",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1750,
+  "identifiant-drupal-parent": 1676,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Programmes de doctorat",
+  "nom-folder": "Programmes-de-doctorat",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221419"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Doctoral programs"
+    ],
+    "ar": [
+      "برامج الدكتوراه"
+    ],
+    "es": [
+      "Los programas de doctorado"
+    ],
+    "fr": [
+      "Programmes de doctorat"
+    ],
+    "it": [
+      "I programmi di dottorato"
+    ],
+    "ru": [
+      "Докторские программы"
+    ]
+  }
+}

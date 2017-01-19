@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-17-19-87274862390",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Limbourgeois/",
+  "description": "Description de Limbourgeois",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "li",
+  "ISO-639-2": "lim",
+  "ISO-639-3": "lim",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-17-19",
+  "moment-de-modification": "2016-02-04-05-17-55",
+  "nom": "Limbourgeois",
+  "nom-folder": "Limbourgeois",
+  "nom-machine": "terme-2016-02-04-05-17-19-87274862390",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Limbourgeois",
+  "nomLangues": {
+    "en": [
+      "Limburgish"
+    ],
+    "ar": [
+      "ليمبورغية"
+    ],
+    "es": [
+      "Limburgués"
+    ],
+    "fr": [
+      "Limbourgeois"
+    ],
+    "it": [
+      "Imburghese"
+    ],
+    "ru": [
+      "Лимбургский"
+    ]
+  }
+}

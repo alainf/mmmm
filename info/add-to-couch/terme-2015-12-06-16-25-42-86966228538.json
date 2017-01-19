@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-42-86966228538",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-bancaire/Histoire-des-banques/",
+  "description": "Description de Histoire des banques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2210,
+  "identifiant-drupal-parent": 2191,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-42",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Histoire des banques",
+  "nom-folder": "Histoire-des-banques",
+  "nom-machine": "terme-2015-12-06-16-25-42-86966228538",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of banking"
+    ],
+    "ar": [
+      "تاريخ الأبناك"
+    ],
+    "es": [
+      "Historia de los bancos"
+    ],
+    "fr": [
+      "Histoire des banques"
+    ],
+    "it": [
+      "Storia delle banche"
+    ]
+  }
+}

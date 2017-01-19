@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224710",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Metiers-du-cinema/Postproduction-et-autres-industries-du-film/",
+  "description": "Description de Postproduction et autres industries du film",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466884,
+  "identifiant-drupal-parent": 466883,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Postproduction et autres industries du film",
+  "nom-folder": "Postproduction-et-autres-industries-du-film",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224710"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Postproduction and other movie industries"
+    ],
+    "ar": [
+      "بعد الإنتاج وغيرها من الصناعات الفيلم"
+    ],
+    "es": [
+      "Posproducción y otras industrias del cine"
+    ],
+    "fr": [
+      "Postproduction et autres industries du film"
+    ],
+    "it": [
+      "Postproduzione e altre industrie cinematografiche"
+    ]
+  }
+}

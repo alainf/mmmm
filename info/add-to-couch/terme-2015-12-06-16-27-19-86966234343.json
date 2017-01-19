@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-27-19-86966234343",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/societe/",
+  "description": "Description de Société",
+  "enfants": [
+    "terme-2015-12-06-16-27-19-86966234346"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369345,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Société",
+  "nom-folder": "societe",
+  "nom-machine": "terme-2015-12-06-16-27-19-86966234343",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Society"
+    ],
+    "es": [
+      "Sociedad"
+    ],
+    "fr": [
+      "Société"
+    ],
+    "it": [
+      "Società"
+    ]
+  }
+}

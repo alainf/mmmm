@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220822",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/La-performance-societale-de-l'entreprise/",
+  "description": "Description de La performance sociétale de l'entreprise",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270505,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "La performance sociétale de l'entreprise",
+  "nom-folder": "La-performance-societale-de-l'entreprise",
+  "nom-machine": "terme-2015-12-06-16-23-33-86966220822",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate societal performance"
+    ],
+    "ar": [
+      "الأداء الاجتماعي للشركة"
+    ],
+    "es": [
+      "Desempeño societal corporativo"
+    ],
+    "fr": [
+      "La performance sociétale de l'entreprise"
+    ],
+    "it": [
+      "Prestazioni societali aziendali"
+    ]
+  }
+}

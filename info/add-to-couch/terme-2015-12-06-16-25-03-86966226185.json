@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226185",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Langues/Langues-indo-iraniennes/",
+  "description": "Description de Langues indo-iraniennes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272333,
+  "identifiant-drupal-parent": 270402,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Langues indo-iraniennes",
+  "nom-folder": "Langues-indo-iraniennes",
+  "nom-machine": "terme-2015-12-06-16-25-03-86966226185",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Indo-Iranian Languages"
+    ],
+    "ar": [
+      "اللغات الهندية الإيرانية"
+    ],
+    "es": [
+      "Lenguas indoiranias"
+    ],
+    "fr": [
+      "Langues indo-iraniennes"
+    ],
+    "it": [
+      "Lingue indo-iraniane"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226673",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Bibliotheconomie/Bibliographies/Bibliographie-analytique/",
+  "description": "Bibliographie analytique ",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272299,
+  "identifiant-drupal-parent": 272296,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Bibliographie analytique",
+  "nom-folder": "Bibliographie-analytique",
+  "nom-machine": "terme-2015-12-06-16-25-11-86966226673",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Analytical bibliography"
+    ],
+    "ar": [
+      "ببليوجرافيا تحليلية"
+    ],
+    "es": [
+      "Bibliografía analítica"
+    ],
+    "fr": [
+      "Bibliographie analytique"
+    ],
+    "it": [
+      "Bibliografia analitica"
+    ]
+  }
+}

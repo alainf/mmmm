@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229202",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-publique/Comptabilite-de-l'etat/",
+  "description": "Description de Comptabilité de l'État",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270936,
+  "identifiant-drupal-parent": 270935,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptabilité de l'État",
+  "nom-folder": "Comptabilite-de-l'etat",
+  "nom-machine": "terme-2015-12-06-16-25-53-86966229202",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "State accounting"
+    ],
+    "ar": [
+      "محاسبة الدولة"
+    ],
+    "es": [
+      "Contabilidad del Estado"
+    ],
+    "fr": [
+      "Comptabilité de l'État"
+    ],
+    "it": [
+      "Contabilità dello Stato"
+    ]
+  }
+}

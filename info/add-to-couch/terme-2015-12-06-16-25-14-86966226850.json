@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-14-86966226850",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Deontologie-du-journalisme/",
+  "description": "Description de Déontologie du journalisme",
+  "enfants": [
+    "terme-2015-12-06-16-25-14-86966226853"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272306,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-14",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Déontologie du journalisme",
+  "nom-folder": "Deontologie-du-journalisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-14-86966226850"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Journalism ethics and standards"
+    ],
+    "ar": [
+      "أخلاقيات الصحافة"
+    ],
+    "es": [
+      "Deontología profesional periodística"
+    ],
+    "fr": [
+      "Déontologie du journalisme"
+    ],
+    "it": [
+      "Deontologia professionale giornalistica"
+    ]
+  }
+}

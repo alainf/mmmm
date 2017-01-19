@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-21-86966234477",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/moteur-de-recherche/",
+  "description": "Description de Moteur de recherche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317561,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-21",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Moteur de recherche",
+  "nom-folder": "moteur-de-recherche",
+  "nom-machine": "terme-2015-12-06-16-27-21-86966234477",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Search engine"
+    ],
+    "es": [
+      "Motor de busqueda"
+    ],
+    "fr": [
+      "Moteur de recherche"
+    ],
+    "it": [
+      "Motore di recerca"
+    ]
+  }
+}

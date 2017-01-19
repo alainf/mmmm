@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225356",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Interculturalisme/",
+  "description": "Description de Interculturalisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466815,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Interculturalisme",
+  "nom-folder": "Interculturalisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-49-86966225356"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Interculturalism"
+    ],
+    "ar": [
+      "تفاعل الثقافي"
+    ],
+    "es": [
+      "Interculturalismo"
+    ],
+    "fr": [
+      "Interculturalisme"
+    ],
+    "it": [
+      "Inter-culturalismo"
+    ]
+  }
+}

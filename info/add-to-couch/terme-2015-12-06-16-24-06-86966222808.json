@@ -1,0 +1,32 @@
+{
+  "_id": "terme-2015-12-06-16-24-06-86966222808",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Management-Science-Operations-Research/",
+  "description": "Description de Management science operations research",
+  "enfants": [
+    "terme-2015-12-06-16-24-06-86966222811",
+    "terme-2015-12-06-16-24-06-86966222815",
+    "terme-2015-12-06-16-24-06-86966222817",
+    "terme-2015-12-06-16-24-07-86966222820",
+    "terme-2015-12-06-16-24-07-86966222823",
+    "terme-2015-12-06-16-24-07-86966222826",
+    "terme-2015-12-06-16-24-07-86966222829"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369092,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-06",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Management science operations research",
+  "nom-folder": "Management-Science-Operations-Research",
+  "nom-machine": "terme-2015-12-06-16-24-06-86966222808",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Management science operations research"
+    ]
+  }
+}

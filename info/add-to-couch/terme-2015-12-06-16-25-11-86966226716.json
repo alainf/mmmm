@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226716",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-de-masse/Nouveaux-medias/",
+  "description": "Description de Nouveaux médias",
+  "enfants": [
+    "terme-2015-12-06-16-25-11-86966226719"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272184,
+  "identifiant-drupal-parent": 272180,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Nouveaux médias",
+  "nom-folder": "Nouveaux-medias",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-11-86966226716"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "New Media"
+    ],
+    "ar": [
+      "وسائل الإعلام الجديدة"
+    ],
+    "es": [
+      "Nuevos medios"
+    ],
+    "fr": [
+      "Nouveaux médias"
+    ],
+    "it": [
+      "Nuovi media"
+    ]
+  }
+}

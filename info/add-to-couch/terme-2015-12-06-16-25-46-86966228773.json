@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228773",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Determinants-individuels-et-comportement-organisationnel/",
+  "description": "Description de Déterminants individuels et comportement organisationnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2173,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Déterminants individuels et comportement organisationnel",
+  "nom-folder": "Determinants-individuels-et-comportement-organisationnel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-46-86966228773"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Individual determinants and organizational behavior"
+    ],
+    "ar": [
+      "المحددات الفردية والسلوك التنظيمي"
+    ],
+    "es": [
+      "Determinantes individuales y comportamiento organizativo"
+    ],
+    "fr": [
+      "Déterminants individuels et comportement organisationnel"
+    ],
+    "it": [
+      "Determinanti individuali e comportamento organizzativo"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226353",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Enseignement-special/",
+  "description": "Enseignement spécial",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270855,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Éducation spécialisée",
+  "nom-folder": "Enseignement-special",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226353"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Special education"
+    ],
+    "ar": [
+      "تدريس الخاصة"
+    ],
+    "es": [
+      "Educación especial"
+    ],
+    "fr": [
+      "Éducation spécialisée"
+    ],
+    "it": [
+      "Pedagogia speciale"
+    ]
+  }
+}

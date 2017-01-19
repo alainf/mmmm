@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220753",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Investissement/",
+  "description": "Description de Investissement",
+  "enfants": [
+    "terme-2015-12-06-16-23-32-86966220756",
+    "terme-2015-12-06-16-23-32-86966220759",
+    "terme-2015-12-06-16-23-32-86966220762",
+    "terme-2015-12-06-16-23-32-86966220764",
+    "terme-2015-12-06-16-23-32-86966220768"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270550,
+  "identifiant-drupal-parent": 270471,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Investissement",
+  "nom-folder": "Investissement",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220753"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Investment"
+    ],
+    "ar": [
+      "الاستثمار"
+    ],
+    "es": [
+      "Inversión"
+    ],
+    "fr": [
+      "Investissement"
+    ],
+    "it": [
+      "Investimento"
+    ]
+  }
+}

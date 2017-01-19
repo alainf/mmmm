@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230931",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-vie/Biologie/Enseignement-de-la-biologie/",
+  "description": "Description de Enseignement de la biologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465759,
+  "identifiant-drupal-parent": 270762,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Enseignement de la biologie",
+  "nom-folder": "Enseignement-de-la-biologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230931"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching biology"
+    ],
+    "ar": [
+      "تدريس علم الأحياء"
+    ],
+    "es": [
+      "Enseñanza de la biología"
+    ],
+    "fr": [
+      "Enseignement de la biologie"
+    ],
+    "it": [
+      "Insegnamento della biologia"
+    ]
+  }
+}

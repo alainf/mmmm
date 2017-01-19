@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234083",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/periodique/periodique-generaliste-(magazine)/",
+  "description": "Description de Périodique généraliste (magazine)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369469,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Périodique généraliste (magazine)",
+  "nom-folder": "periodique-generaliste-(magazine)",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234083",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "General interest magazine"
+    ],
+    "es": [
+      "Magazín generalista"
+    ],
+    "fr": [
+      "Périodique généraliste (magazine)"
+    ],
+    "it": [
+      "Rivista generalista"
+    ]
+  }
+}

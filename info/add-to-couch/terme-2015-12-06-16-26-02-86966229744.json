@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229744",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Image-d'entreprise/Esthetique/",
+  "description": "Description de Esthétique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451231,
+  "identifiant-drupal-parent": 2096,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Esthétique",
+  "nom-folder": "Esthetique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-02-86966229744"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aesthetics"
+    ],
+    "ar": [
+      "علم الشهوات و الزين"
+    ],
+    "es": [
+      "Estética"
+    ],
+    "fr": [
+      "Esthétique"
+    ],
+    "it": [
+      "Estetica"
+    ]
+  }
+}

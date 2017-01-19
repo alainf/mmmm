@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228513",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-agricole-(secteurs)/Gestion-de-la-production-agricole/",
+  "description": "Description de Gestion de la production agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2204,
+  "identifiant-drupal-parent": 2190,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion de la production agricole",
+  "nom-folder": "Gestion-de-la-production-agricole",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-41-86966228513"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural production management"
+    ],
+    "ar": [
+      "إدارة الإنتاج الزراعي"
+    ],
+    "es": [
+      "Gestión de la producción agrícola"
+    ],
+    "fr": [
+      "Gestion de la production agricole"
+    ],
+    "it": [
+      "gestione della produzione agricola"
+    ]
+  }
+}

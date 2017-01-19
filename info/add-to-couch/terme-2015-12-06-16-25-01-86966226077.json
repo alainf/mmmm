@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226077",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/Traitement-automatique-du-langage-naturel/Simplification-de-textes/",
+  "description": "Description de Simplification de textes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472508,
+  "identifiant-drupal-parent": 472500,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Simplification de textes",
+  "nom-folder": "Simplification-de-textes",
+  "nom-machine": "terme-2015-12-06-16-25-01-86966226077",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Text simplification"
+    ],
+    "ar": [
+      "تبسيط النصوص"
+    ],
+    "es": [
+      "Simplificacón de textos"
+    ],
+    "fr": [
+      "Simplification de textes"
+    ],
+    "it": [
+      "Semplificazione di testi"
+    ]
+  }
+}

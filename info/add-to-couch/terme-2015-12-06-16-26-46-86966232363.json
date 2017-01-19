@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232363",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-du-discours/Analyse-litteraire/",
+  "description": "Description de Analyse littéraire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472011,
+  "identifiant-drupal-parent": 1224,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Analyse littéraire",
+  "nom-folder": "Analyse-litteraire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232363"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Literary analysis"
+    ],
+    "ar": [
+      "تحليل الادبية"
+    ],
+    "es": [
+      "Análisis literario"
+    ],
+    "fr": [
+      "Analyse littéraire"
+    ],
+    "it": [
+      "Analisi letteraria"
+    ]
+  }
+}

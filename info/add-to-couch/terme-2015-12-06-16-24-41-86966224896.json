@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-41-86966224896",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Histoire-des-arts/",
+  "description": "Description de Histoire des arts",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472038,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-41",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Histoire des arts",
+  "nom-folder": "Histoire-des-arts",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-41-86966224896"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of arts"
+    ],
+    "ar": [
+      "تاريخ الفنون"
+    ],
+    "es": [
+      "Historia de las artes"
+    ],
+    "fr": [
+      "Histoire des arts"
+    ],
+    "it": [
+      "storia delle arti"
+    ]
+  }
+}

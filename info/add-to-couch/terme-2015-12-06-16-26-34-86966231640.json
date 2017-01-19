@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-34-86966231640",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Analyse-transactionnelle/",
+  "description": "Description de Analyse transactionnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451254,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-34",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Analyse transactionnelle",
+  "nom-folder": "Analyse-transactionnelle",
+  "nom-machine": "terme-2015-12-06-16-26-34-86966231640",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Transactional analysis"
+    ],
+    "ar": [
+      "تحليل المعاملات"
+    ],
+    "es": [
+      "Análisis transaccional"
+    ],
+    "fr": [
+      "Analyse transactionnelle"
+    ],
+    "it": [
+      "Analisi transazionale"
+    ]
+  }
+}

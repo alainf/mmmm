@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-28-86966231332",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Professionnels-de-la-sante/",
+  "description": "Description de Professionnels de la santé",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466698,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-28",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Professionnels de la santé",
+  "nom-folder": "Professionnels-de-la-sante",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-28-86966231332"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health professionals"
+    ],
+    "ar": [
+      "الصحة المهنيين"
+    ],
+    "es": [
+      "Profesionales de la salud"
+    ],
+    "fr": [
+      "Professionnels de la santé"
+    ],
+    "it": [
+      "Professionisti della sanità"
+    ]
+  }
+}

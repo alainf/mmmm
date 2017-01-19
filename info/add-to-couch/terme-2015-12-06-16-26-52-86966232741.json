@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232741",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Anarchisme-(ideologie)/",
+  "description": "Description de Anarchisme (idéologie)",
+  "enfants": [
+    "terme-2015-12-06-16-26-52-86966232744",
+    "terme-2015-12-06-16-26-52-86966232747",
+    "terme-2015-12-06-16-26-52-86966232750",
+    "terme-2015-12-06-16-26-52-86966232752",
+    "terme-2015-12-06-16-26-52-86966232755"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1112,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anarchisme (idéologie)",
+  "nom-folder": "Anarchisme-(ideologie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232741"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anarchism (ideology)"
+    ],
+    "ar": [
+      "لاسلطوية (أيديولوجية)"
+    ],
+    "es": [
+      "Anarquismo (ideología)"
+    ],
+    "fr": [
+      "Anarchisme (idéologie)"
+    ],
+    "it": [
+      "Anarchismo (ideologia)"
+    ]
+  }
+}

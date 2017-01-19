@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966227986",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-de-la-valeur-acquise/",
+  "description": "Description de Gestion de la valeur acquise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472265,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion de la valeur acquise",
+  "nom-folder": "Gestion-de-la-valeur-acquise",
+  "nom-machine": "terme-2015-12-06-16-25-33-86966227986",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Earned value management"
+    ],
+    "ar": [
+      "إدارة القيمة المكتسبة"
+    ],
+    "es": [
+      "Gestión del Valor Ganado"
+    ],
+    "fr": [
+      "Gestion de la valeur acquise"
+    ],
+    "it": [
+      "Gestione del valore acquisito"
+    ]
+  }
+}

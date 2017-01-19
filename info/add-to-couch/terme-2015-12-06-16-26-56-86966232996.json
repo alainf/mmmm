@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966232996",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernement/Crise-politique/",
+  "description": "Description de Crise politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472113,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Crise politique",
+  "nom-folder": "Crise-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966232996"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political crisis"
+    ],
+    "ar": [
+      "الازمة السياسية"
+    ],
+    "es": [
+      "Crisis política"
+    ],
+    "fr": [
+      "Crise politique"
+    ],
+    "it": [
+      "crisi politica"
+    ]
+  }
+}

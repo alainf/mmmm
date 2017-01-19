@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226020",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Infrastructures-de-reseau/",
+  "description": "Description de Infrastructures de réseau",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471959,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Infrastructures de réseau",
+  "nom-folder": "Infrastructures-de-reseau",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-00-86966226020"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Network infrastructure"
+    ],
+    "ar": [
+      "البنيات التحتية للشبكة"
+    ],
+    "es": [
+      "Infraestructuras de red"
+    ],
+    "fr": [
+      "Infrastructures de réseau"
+    ],
+    "it": [
+      "Infrastruttura di rete"
+    ]
+  }
+}

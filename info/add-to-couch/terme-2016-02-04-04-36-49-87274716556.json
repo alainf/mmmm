@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-36-49-87274716556",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Herero/",
+  "description": "Description de Herero",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "hz",
+  "ISO-639-2": "her",
+  "ISO-639-3": "her",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-36-49",
+  "moment-de-modification": "2016-02-04-04-39-29",
+  "nom": "Herero",
+  "nom-folder": "Herero",
+  "nom-machine": "terme-2016-02-04-04-36-49-87274716556",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/H%C3%A9r%C3%A9ro_(langue)",
+  "nomLangues": {
+    "en": [
+      "Herero"
+    ],
+    "ar": [
+      "هيريرو"
+    ],
+    "es": [
+      "Herero"
+    ],
+    "fr": [
+      "Herero"
+    ],
+    "it": [
+      "Herero"
+    ],
+    "ru": [
+      "Гереро"
+    ]
+  }
+}

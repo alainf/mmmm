@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229285",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie-d'entreprise/",
+  "description": "Stratégie d'entreprise",
+  "enfants": [
+    "terme-2015-12-06-16-25-54-86966229288",
+    "terme-2015-12-06-16-25-54-86966229291",
+    "terme-2015-12-06-16-25-54-86966229294",
+    "terme-2015-12-06-16-25-54-86966229296",
+    "terme-2015-12-06-16-25-55-86966229305",
+    "terme-2015-12-06-16-25-55-86966229308",
+    "terme-2015-12-06-16-25-55-86966229311"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2228,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Stratégie d'entreprise (stratégie)",
+  "nom-folder": "Strategie-d'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229285"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate strategy (strategy)"
+    ],
+    "ar": [
+      "استراتيجية الأعمال التجارية"
+    ],
+    "es": [
+      "Estrategia empresarial (estrategia)"
+    ],
+    "fr": [
+      "Stratégie d'entreprise (stratégie)"
+    ],
+    "it": [
+      "Strategia aziendale (strategia)"
+    ]
+  }
+}

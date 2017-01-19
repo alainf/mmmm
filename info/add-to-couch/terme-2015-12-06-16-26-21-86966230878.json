@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-21-86966230878",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-physiques/Mecanique-classique/",
+  "description": "Description de Mécanique classique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270459,
+  "identifiant-drupal-parent": 270456,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-21",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Mécanique classique",
+  "nom-folder": "Mecanique-classique",
+  "nom-machine": "terme-2015-12-06-16-26-21-86966230878",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Classical mechanics"
+    ],
+    "ar": [
+      "ميكانيكا كلاسيكية"
+    ],
+    "es": [
+      "Mecánica clásica"
+    ],
+    "fr": [
+      "Mécanique classique"
+    ],
+    "it": [
+      "Meccanica classica"
+    ]
+  }
+}

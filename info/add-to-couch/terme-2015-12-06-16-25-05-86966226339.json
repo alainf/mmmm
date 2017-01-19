@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226339",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Enseignement-des-affaires/",
+  "description": "Description de Enseignement des affaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270843,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Enseignement des affaires",
+  "nom-folder": "Enseignement-des-affaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226339"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business education"
+    ],
+    "ar": [
+      "تدريس الأعمال التجارية"
+    ],
+    "es": [
+      "Enseñanza de los negocios"
+    ],
+    "fr": [
+      "Enseignement des affaires"
+    ],
+    "it": [
+      "insegnamento degli affari"
+    ]
+  }
+}

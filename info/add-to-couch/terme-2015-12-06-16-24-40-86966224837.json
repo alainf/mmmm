@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-24-40-86966224837",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Gravure/Techniques-de-la-gravure/",
+  "description": "Description de Techniques de la gravure",
+  "enfants": [
+    "terme-2015-12-06-16-24-40-86966224841",
+    "terme-2015-12-06-16-24-40-86966224843",
+    "terme-2015-12-06-16-24-40-86966224846",
+    "terme-2015-12-06-16-24-40-86966224854",
+    "terme-2015-12-06-16-24-40-86966224857",
+    "terme-2015-12-06-16-24-41-86966224860",
+    "terme-2015-12-06-16-24-41-86966224862",
+    "terme-2015-12-06-16-24-41-86966224868",
+    "terme-2015-12-06-16-24-41-86966224871"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466929,
+  "identifiant-drupal-parent": 466927,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-40",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Techniques de la gravure",
+  "nom-folder": "Techniques-de-la-gravure",
+  "nom-machine": "terme-2015-12-06-16-24-40-86966224837",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Engraving techniques"
+    ],
+    "ar": [
+      "النقش والتقنيات"
+    ],
+    "es": [
+      "Técnicas de grabado"
+    ],
+    "fr": [
+      "Techniques de la gravure"
+    ],
+    "it": [
+      "Tecniche di incisione"
+    ]
+  }
+}

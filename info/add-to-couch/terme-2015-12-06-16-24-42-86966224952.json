@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-42-86966224952",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litterature-afro-americaine/",
+  "description": "Description de Littérature afro-américaine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466970,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-42",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littérature afro-américaine",
+  "nom-folder": "Litterature-afro-americaine",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-42-86966224952"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "African-American literature"
+    ],
+    "ar": [
+      "الأدب الإفريقي-أمريكي"
+    ],
+    "es": [
+      "Literatura afroamericana"
+    ],
+    "fr": [
+      "Littérature afro-américaine"
+    ],
+    "it": [
+      "Letteratura afroamericana"
+    ]
+  }
+}

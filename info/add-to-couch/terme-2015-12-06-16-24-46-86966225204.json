@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-46-86966225204",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Conservation-du-patrimoine/",
+  "description": "Description de Conservation du patrimoine",
+  "enfants": [
+    "terme-2015-12-06-16-24-46-86966225207"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466781,
+  "identifiant-drupal-parent": 466754,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-46",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Conservation du patrimoine",
+  "nom-folder": "Conservation-du-patrimoine",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-46-86966225204"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Heritage conservation"
+    ],
+    "ar": [
+      "حفظ التراث"
+    ],
+    "es": [
+      "Conservación del patrimonio"
+    ],
+    "fr": [
+      "Conservation du patrimoine"
+    ],
+    "it": [
+      "conservazione del patrimonio"
+    ]
+  }
+}

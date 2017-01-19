@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220681",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Formes-d'organisations/Petites-et-moyennes-entreprises/",
+  "description": "Description de Petites et moyennes entreprises",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270517,
+  "identifiant-drupal-parent": 270512,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Petites et moyennes entreprises",
+  "nom-folder": "Petites-et-moyennes-entreprises",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220681"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Small and medium-sized enterprises"
+    ],
+    "ar": [
+      "شركات صغيرة و متوسطة"
+    ],
+    "es": [
+      "Pequeñas y medianas empresas"
+    ],
+    "fr": [
+      "Petites et moyennes entreprises"
+    ],
+    "it": [
+      "Piccole e medie imprese"
+    ],
+    "ru": [
+      "Малые и средние компании"
+    ]
+  }
+}

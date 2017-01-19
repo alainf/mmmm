@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-27-20-86966234408",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/fil-RSS/RSS/",
+  "description": "Description de Rss",
+  "enfants": [
+    "terme-2016-04-12-20-30-39-87630446363",
+    "terme-2016-04-12-20-32-08-87630451692",
+    "terme-2016-04-12-20-33-40-87630457201"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369318,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-20",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Rss",
+  "nom-folder": "RSS",
+  "nom-machine": "terme-2015-12-06-16-27-20-86966234408",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rss"
+    ],
+    "ar": [
+      "RSS"
+    ],
+    "es": [
+      "Rss"
+    ],
+    "fr": [
+      "Rss"
+    ],
+    "it": [
+      "Rss"
+    ]
+  }
+}

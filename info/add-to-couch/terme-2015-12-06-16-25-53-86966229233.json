@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229233",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Criteres-de-la-resp-sociale-et-env-des-entreprises/",
+  "description": "Description de Critères de la responsabilité sociale et environnementale des entreprises",
+  "enfants": [
+    "terme-2015-12-06-16-25-53-86966229237",
+    "terme-2015-12-06-16-25-54-86966229240",
+    "terme-2015-12-06-16-25-54-86966229243",
+    "terme-2015-12-06-16-25-54-86966229246",
+    "terme-2015-12-06-16-25-54-86966229251"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2231,
+  "identifiant-drupal-parent": 2140,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Critères de la responsabilité sociale et environnementale des entreprises",
+  "nom-folder": "Criteres-de-la-resp-sociale-et-env-des-entreprises",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-53-86966229233"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate social and environmental responsibility criteria"
+    ],
+    "ar": [
+      "معايير المسؤولية البيئية والاجتماعية لـﺎلشركات"
+    ],
+    "es": [
+      "Criterios de responsabilidad social y ambiental de las empresas"
+    ],
+    "fr": [
+      "Critères de la responsabilité sociale et environnementale des entreprises"
+    ],
+    "it": [
+      "Criteri di responsabilità sociale e ambientale delle imprese"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225811",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Disciplines-de-la-finance/Evaluation-financiere/",
+  "description": "Description de Évaluation financière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271367,
+  "identifiant-drupal-parent": 271365,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Évaluation financière",
+  "nom-folder": "Evaluation-financiere",
+  "nom-machine": "terme-2015-12-06-16-24-56-86966225811",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial Assessment"
+    ],
+    "ar": [
+      "التقييم المالي"
+    ],
+    "es": [
+      "Evaluación Financiera"
+    ],
+    "fr": [
+      "Évaluation financière"
+    ],
+    "it": [
+      "Valutazione finanziaria"
+    ]
+  }
+}

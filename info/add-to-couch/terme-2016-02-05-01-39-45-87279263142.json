@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-05-01-39-45-87279263142",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Avec-quoi-ecrire/Etablir-des-balises-stylistiques/Preparer-des-pages-exemplaires/",
+  "description": "Description de Préparer des pages exemplaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-39-45",
+  "moment-de-modification": "2016-02-05-01-42-44",
+  "nom": "Préparer des pages exemplaires",
+  "nom-folder": "Preparer-des-pages-exemplaires",
+  "nom-machine": "terme-2016-02-05-01-39-45-87279263142",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Prepare sample pages"
+    ],
+    "es": [
+      "Preparar ejemplos de páginas"
+    ],
+    "fr": [
+      "Préparer des pages exemplaires"
+    ],
+    "it": [
+      "Preparare esempi di pagine"
+    ]
+  }
+}

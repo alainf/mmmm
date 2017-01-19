@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220776",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/Environnement-commercial/",
+  "description": "Description de Environnement commercial",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270520,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Environnement commercial",
+  "nom-folder": "Environnement-commercial",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220776"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Commercial environment"
+    ],
+    "ar": [
+      "بيئة الأعمال"
+    ],
+    "es": [
+      "Entorno comercial"
+    ],
+    "fr": [
+      "Environnement commercial"
+    ],
+    "it": [
+      "Ambiente comerciale"
+    ]
+  }
+}

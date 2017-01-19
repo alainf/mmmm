@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227262",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-d'appareils-menagers/",
+  "description": "Commerce de gros d'appareils ménagers",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451119,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros d’appareils ménagers",
+  "nom-folder": "C-de-g-d'appareils-menagers",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227262",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of household appliances"
+    ],
+    "ar": [
+      "تجارة بالجملة الاجهزة المنزلية"
+    ],
+    "es": [
+      "Comercio mayorista de aparatos caseros"
+    ],
+    "fr": [
+      "Commerce de gros d’appareils ménagers"
+    ],
+    "it": [
+      "Commercio all'ingrosso di elettrodomestici"
+    ]
+  }
+}

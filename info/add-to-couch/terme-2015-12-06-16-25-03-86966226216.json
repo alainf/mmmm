@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226216",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/Linguistique-theorique/",
+  "description": "Description de Linguistique théorique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455596,
+  "identifiant-drupal-parent": 270393,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Linguistique théorique",
+  "nom-folder": "Linguistique-theorique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-03-86966226216"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theoretical Linguistics"
+    ],
+    "ar": [
+      "لسانيات نظرية"
+    ],
+    "es": [
+      "Lingüística teórica"
+    ],
+    "fr": [
+      "Linguistique théorique"
+    ],
+    "it": [
+      "Linguistica teorica"
+    ]
+  }
+}

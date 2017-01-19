@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966231005",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/",
+  "description": "Description de Branches de la géographie",
+  "enfants": [
+    "terme-2015-12-06-16-26-23-86966231008",
+    "terme-2015-12-06-16-26-23-86966231011",
+    "terme-2015-12-06-16-26-23-86966231014",
+    "terme-2015-12-06-16-26-23-86966231017",
+    "terme-2015-12-06-16-26-23-86966231030",
+    "terme-2015-12-06-16-26-24-86966231053",
+    "terme-2015-12-06-16-26-24-86966231076",
+    "terme-2015-12-06-16-26-24-86966231078",
+    "terme-2015-12-06-16-26-24-86966231081",
+    "terme-2015-12-06-16-26-24-86966231098"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 946,
+  "identifiant-drupal-parent": 942,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Branches de la géographie",
+  "nom-folder": "Branches-de-la-geographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-23-86966231005"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Branches of Geography"
+    ],
+    "ar": [
+      "فروع الجغرافيا"
+    ],
+    "es": [
+      "Ramas de la geografía"
+    ],
+    "fr": [
+      "Branches de la géographie"
+    ],
+    "it": [
+      "Rami della geografia"
+    ]
+  }
+}

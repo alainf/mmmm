@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-49-86966228941",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Receptivite-sociale-des-entreprises/",
+  "description": "Description de Réceptivité sociale des entreprises",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2135,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-49",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Réceptivité sociale des entreprises",
+  "nom-folder": "Receptivite-sociale-des-entreprises",
+  "nom-machine": "terme-2015-12-06-16-25-49-86966228941",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate social responsiveness"
+    ],
+    "ar": [
+      "الحساسية الاجتماعية الشركات"
+    ],
+    "es": [
+      "Sensibilidad social corporativa"
+    ],
+    "fr": [
+      "Réceptivité sociale des entreprises"
+    ],
+    "it": [
+      "Ricettività sociale delle imprese"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-23-16-27-21-86966234474",
+  "breadcrumb": "taxonomies/types-de-ressource/tag/",
+  "description": "Description de Étiquette",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-23-16-27-21",
+  "nom": "Étiquette",
+  "nom-folder": "tag",
+  "nom-machine": "terme-2015-12-23-16-27-21-86966234474",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tag"
+    ],
+    "ar": [
+      "وسم"
+    ],
+    "es": [
+      "Etiqueta"
+    ],
+    "fr": [
+      "Étiquette"
+    ],
+    "it": [
+      "Etichetta"
+    ],
+    "ru": [
+      "Тег"
+    ]
+  }
+}

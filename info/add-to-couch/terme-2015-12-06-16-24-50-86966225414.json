@@ -1,0 +1,51 @@
+{
+  "_id": "terme-2015-12-06-16-24-50-86966225414",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-des-affaires/",
+  "description": "Description de Droit des affaires",
+  "enfants": [
+    "terme-2015-12-06-16-24-50-86966225417",
+    "terme-2015-12-06-16-24-50-86966225420",
+    "terme-2015-12-06-16-24-50-86966225422",
+    "terme-2015-12-06-16-24-50-86966225425",
+    "terme-2015-12-06-16-24-50-86966225428",
+    "terme-2015-12-06-16-24-50-86966225431",
+    "terme-2015-12-06-16-24-50-86966225433",
+    "terme-2015-12-06-16-24-50-86966225436",
+    "terme-2015-12-06-16-24-50-86966225439",
+    "terme-2015-12-06-16-24-50-86966225442",
+    "terme-2015-12-06-16-24-50-86966225445",
+    "terme-2015-12-06-16-24-50-86966225447"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269121,
+  "identifiant-drupal-parent": 269113,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-50",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit des affaires",
+  "nom-folder": "Droit-des-affaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-50-86966225414"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business Law"
+    ],
+    "ar": [
+      "قانون الأعمال"
+    ],
+    "es": [
+      "Derecho de los Negocios"
+    ],
+    "fr": [
+      "Droit des affaires"
+    ],
+    "it": [
+      "diritto degli affari"
+    ]
+  }
+}

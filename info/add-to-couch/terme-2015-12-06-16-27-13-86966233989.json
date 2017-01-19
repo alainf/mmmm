@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-13-86966233989",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/petition-recours-collectif-revendication/",
+  "description": "petition recours collectif revendication",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 378961,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Petition, recours collectif, revendication",
+  "nom-folder": "petition-recours-collectif-revendication",
+  "nom-machine": "terme-2015-12-06-16-27-13-86966233989",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Petition,class action,"
+    ],
+    "es": [
+      "Petición, acción de clase, reivindicación"
+    ],
+    "fr": [
+      "Petition, recours collectif, revendication"
+    ],
+    "it": [
+      "Petizione, azione collettiva, rivendicazione"
+    ]
+  }
+}

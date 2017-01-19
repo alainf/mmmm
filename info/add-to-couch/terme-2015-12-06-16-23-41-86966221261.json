@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-23-41-86966221261",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/Sports de raquette/",
+  "description": "Description de Sports de raquette",
+  "enfants": [
+    "terme-2015-12-06-16-23-41-86966221264"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270694,
+  "identifiant-drupal-parent": 270649,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-41",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Sports de raquette",
+  "nom-folder": "Sports de raquette",
+  "nom-machine": "terme-2015-12-06-16-23-41-86966221261",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Racket sports"
+    ],
+    "ar": [
+      "رياضة الراح"
+    ],
+    "es": [
+      "Deportes de raqueta"
+    ],
+    "fr": [
+      "Sports de raquette"
+    ],
+    "it": [
+      "Sport di racchetta"
+    ],
+    "ru": [
+      "Ракетка спорта"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225043",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musees/Conservation-des-musees/",
+  "description": "Description de Conservation des musées",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466985,
+  "identifiant-drupal-parent": 466982,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Conservation des musées",
+  "nom-folder": "Conservation-des-musees",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-44-86966225043"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Museum conservation"
+    ],
+    "ar": [
+      "المحافظة المتاحف"
+    ],
+    "es": [
+      "Conservación de los museos"
+    ],
+    "fr": [
+      "Conservation des musées"
+    ],
+    "it": [
+      "Conservazione dei musei"
+    ]
+  }
+}

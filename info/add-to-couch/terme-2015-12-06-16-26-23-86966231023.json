@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966231023",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-environnementale/Ecosystemes-montagnards/",
+  "description": "Description de Écosystèmes montagnards",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472372,
+  "identifiant-drupal-parent": 1302,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Écosystèmes montagnards",
+  "nom-folder": "Ecosystemes-montagnards",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-23-86966231023"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mountain ecosystems"
+    ],
+    "ar": [
+      "النظم الإيكولوجية الجبلية"
+    ],
+    "es": [
+      "Ecosistemas de montaña"
+    ],
+    "fr": [
+      "Écosystèmes montagnards"
+    ],
+    "it": [
+      "Ecosistema montano"
+    ]
+  }
+}

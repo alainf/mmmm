@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-17-86966223459",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Aquaculture-en-mer/",
+  "description": "Description de Aquaculture en mer",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-17",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Aquaculture en mer",
+  "nom-folder": "Aquaculture-en-mer",
+  "nom-machine": "terme-2015-12-06-16-24-17-86966223459",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Aquaculture en mer"
+    ]
+  }
+}

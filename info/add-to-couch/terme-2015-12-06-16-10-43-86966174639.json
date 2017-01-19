@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-43-86966174639",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Malecite-passamaquoddy/",
+  "description": "Malécite-passamaquoddy",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317622,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-43",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Malécite",
+  "nom-folder": "Malecite-passamaquoddy",
+  "nom-machine": "terme-2015-12-06-16-10-43-86966174639",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Malecite"
+    ],
+    "es": [
+      "Maliseet"
+    ],
+    "fr": [
+      "Malécite"
+    ],
+    "it": [
+      "Malecite"
+    ],
+    "ru": [
+      "Малесит-пассамакводди"
+    ]
+  }
+}

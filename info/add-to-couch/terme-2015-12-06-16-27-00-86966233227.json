@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233227",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Epistemologie/Epistemologie-genetique/",
+  "description": "Description de Épistémologie génétique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451229,
+  "identifiant-drupal-parent": 1201,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Épistémologie génétique",
+  "nom-folder": "Epistemologie-genetique",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-00-86966233227"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Genetic epistemology"
+    ],
+    "ar": [
+      "نظرية المعرفة الوراثية"
+    ],
+    "es": [
+      "Epistemología Genética"
+    ],
+    "fr": [
+      "Épistémologie génétique"
+    ],
+    "it": [
+      "Epistemologia genetica"
+    ]
+  }
+}

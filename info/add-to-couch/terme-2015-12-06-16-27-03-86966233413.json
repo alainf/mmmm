@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-03-86966233413",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Culture-en-sociologie/Assimilation/",
+  "description": "Description de Assimilation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272213,
+  "identifiant-drupal-parent": 1252,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-03",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Assimilation",
+  "nom-folder": "Assimilation",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-03-86966233413"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Assimilation"
+    ],
+    "ar": [
+      "استيعاب"
+    ],
+    "es": [
+      "Asimilación cultural"
+    ],
+    "fr": [
+      "Assimilation"
+    ],
+    "it": [
+      "assimilazione"
+    ]
+  }
+}

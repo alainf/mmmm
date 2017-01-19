@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227937",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Communication-en-gestion-de-projets/",
+  "description": "Description de Communication en gestion de projets",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1949,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Communication en gestion de projets",
+  "nom-folder": "Communication-en-gestion-de-projets",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-32-86966227937"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication in project management"
+    ],
+    "ar": [
+      "الإتصال في إدارة المشاريع"
+    ],
+    "es": [
+      "Comunicaciones en gestión de proyectos"
+    ],
+    "fr": [
+      "Communication en gestion de projets"
+    ],
+    "it": [
+      "Comunicazione nella gestione di progetti"
+    ]
+  }
+}

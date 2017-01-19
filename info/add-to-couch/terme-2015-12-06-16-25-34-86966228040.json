@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228040",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-des-projets-multiples/",
+  "description": "Description de Gestion des projets multiples",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1974,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des projets multiples",
+  "nom-folder": "Gestion-des-projets-multiples",
+  "nom-machine": "terme-2015-12-06-16-25-34-86966228040",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Managing multiple projects"
+    ],
+    "ar": [
+      "إدارة المشاريع المتعددة"
+    ],
+    "es": [
+      "Gestión de proyectos múltiples"
+    ],
+    "fr": [
+      "Gestion des projets multiples"
+    ],
+    "it": [
+      "Gestione dei progetti molteplici"
+    ]
+  }
+}

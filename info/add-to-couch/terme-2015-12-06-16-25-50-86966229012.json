@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229012",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Metiers-de-la-comptabilite/Commissaire-aux-comptes/",
+  "description": "Description de Commissaire aux comptes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271291,
+  "identifiant-drupal-parent": 271290,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Commissaire aux comptes",
+  "nom-folder": "Commissaire-aux-comptes",
+  "nom-machine": "terme-2015-12-06-16-25-50-86966229012",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Statutory auditor"
+    ],
+    "ar": [
+      "مفوض قانوني في الحسابات"
+    ],
+    "es": [
+      "Auditor legal"
+    ],
+    "fr": [
+      "Commissaire aux comptes"
+    ],
+    "it": [
+      "Revisore legale"
+    ]
+  }
+}

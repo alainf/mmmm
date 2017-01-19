@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221227",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/Football canadien et americain/",
+  "description": "Description de Football canadien et américain",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270685,
+  "identifiant-drupal-parent": 270649,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Football canadien et américain",
+  "nom-folder": "Football canadien et americain",
+  "nom-machine": "terme-2015-12-06-16-23-40-86966221227",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Canadian and american football"
+    ],
+    "ar": [
+      "كرة القدم الكندية والأمريكية"
+    ],
+    "es": [
+      "Fútbol canadiense y estadounidense"
+    ],
+    "fr": [
+      "Football canadien et américain"
+    ],
+    "it": [
+      "Football canadese e americano"
+    ]
+  }
+}

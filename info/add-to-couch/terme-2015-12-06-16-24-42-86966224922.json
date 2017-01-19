@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-24-42-86966224922",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Genres-litteraires/",
+  "description": "Description de Genres littéraires",
+  "enfants": [
+    "terme-2015-12-06-16-24-42-86966224924",
+    "terme-2015-12-06-16-24-42-86966224927",
+    "terme-2015-12-06-16-24-42-86966224931",
+    "terme-2015-12-06-16-24-42-86966224933",
+    "terme-2015-12-06-16-24-42-86966224936"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466945,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-42",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Genres littéraires",
+  "nom-folder": "Genres-litteraires",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-42-86966224922"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Literary genre"
+    ],
+    "ar": [
+      "الأنواع الأدبية"
+    ],
+    "es": [
+      "Género literario"
+    ],
+    "fr": [
+      "Genres littéraires"
+    ],
+    "it": [
+      "Genere letterario"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-26-35-86966231745",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Personnalite-(psychologie)/Temperaments-psychologiques-de-Keirsey-Bates/",
+  "description": "Description de Tempéraments psychologiques de Keirsey-Bates",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472497,
+  "identifiant-drupal-parent": 270378,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-35",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Tempéraments psychologiques de Keirsey-Bates",
+  "nom-folder": "Temperaments-psychologiques-de-Keirsey-Bates",
+  "nom-machine": "terme-2015-12-06-16-26-35-86966231745",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Keirsey-Bates Temperament Sorter"
+    ],
+    "ar": [
+      "المزاجات النفسية من كيرسي-بتس"
+    ],
+    "es": [
+      "Clasificador de temperamento Keirsey-Bates"
+    ],
+    "fr": [
+      "Tempéraments psychologiques de Keirsey-Bates"
+    ],
+    "it": [
+      "Temperamenti psicologici da Keirsey-Bates"
+    ],
+    "ru": [
+      "Keirsey"
+    ]
+  }
+}

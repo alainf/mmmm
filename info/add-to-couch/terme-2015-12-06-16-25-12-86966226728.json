@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226728",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-de-masse/NTIC/Fracture-numerique/",
+  "description": "Description de Fracture numérique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471869,
+  "identifiant-drupal-parent": 272185,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Fracture numérique",
+  "nom-folder": "Fracture-numerique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226728"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Digital divide"
+    ],
+    "ar": [
+      "فجوة رقمية"
+    ],
+    "es": [
+      "Brecha digital"
+    ],
+    "fr": [
+      "Fracture numérique"
+    ],
+    "it": [
+      "Divario digitale"
+    ]
+  }
+}

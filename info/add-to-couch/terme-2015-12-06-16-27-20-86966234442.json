@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-20-86966234442",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/catalogue/repertoire/repertoire-de-blogs/",
+  "description": "Description de Repertoire de blogs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369408,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-20",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Repertoire de blogs",
+  "nom-folder": "repertoire-de-blogs",
+  "nom-machine": "terme-2015-12-06-16-27-20-86966234442",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Blog directory"
+    ],
+    "es": [
+      "Repertorio de blogs"
+    ],
+    "fr": [
+      "Repertoire de blogs"
+    ],
+    "it": [
+      "Direttorio di blog"
+    ]
+  }
+}

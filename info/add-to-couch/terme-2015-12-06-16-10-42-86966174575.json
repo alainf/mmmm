@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174575",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Huasteque/",
+  "description": "Description de Huastèque",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 377528,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Huastèque",
+  "nom-folder": "Huasteque",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174575",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Huastec"
+    ],
+    "es": [
+      "Huasteco"
+    ],
+    "fr": [
+      "Huastèque"
+    ],
+    "it": [
+      "Huasteco"
+    ],
+    "ru": [
+      "Уастекский"
+    ]
+  }
+}

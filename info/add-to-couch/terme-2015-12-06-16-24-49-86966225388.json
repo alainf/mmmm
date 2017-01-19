@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225388",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-maritime/Droit-cotier/",
+  "description": "Description de Droit côtier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272335,
+  "identifiant-drupal-parent": 455592,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit côtier",
+  "nom-folder": "Droit-cotier",
+  "nom-machine": "terme-2015-12-06-16-24-49-86966225388",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Coastal Law"
+    ],
+    "ar": [
+      "قانون الساحلية"
+    ],
+    "es": [
+      "Derecho costero"
+    ],
+    "fr": [
+      "Droit côtier"
+    ],
+    "it": [
+      "Diritto costiero"
+    ]
+  }
+}

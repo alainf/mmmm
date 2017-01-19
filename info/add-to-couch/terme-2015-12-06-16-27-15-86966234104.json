@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-15-86966234104",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/publication/etude-de-cas/",
+  "description": "Description de Etude de cas",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 378965,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-15",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Etude de cas",
+  "nom-folder": "etude-de-cas",
+  "nom-machine": "terme-2015-12-06-16-27-15-86966234104",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Case study"
+    ],
+    "es": [
+      "Estudio de caso"
+    ],
+    "fr": [
+      "Etude de cas"
+    ],
+    "it": [
+      "Studio di caso"
+    ]
+  }
+}

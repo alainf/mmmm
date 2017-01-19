@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233713",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Etalement,-densification-et-trame-urbains/",
+  "description": "Description de Étalement, densification et trame urbains",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467110,
+  "identifiant-drupal-parent": 467096,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Étalement, densification et trame urbains",
+  "nom-folder": "Etalement,-densification-et-trame-urbains",
+  "nom-machine": "terme-2015-12-06-16-27-08-86966233713",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban densification, mesh and sprawl"
+    ],
+    "ar": [
+      "النسيج الحضري، الزحف العمراني، التكثيف في المناطق الحضرية"
+    ],
+    "es": [
+      "Tejido urbano, densificación y expansión urbana"
+    ],
+    "fr": [
+      "Étalement, densification et trame urbains"
+    ],
+    "it": [
+      "Trama, densificazione e spandimento urbani"
+    ]
+  }
+}

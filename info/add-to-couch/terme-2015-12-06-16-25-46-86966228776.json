@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228776",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Dynamiques-organisationnelles/",
+  "description": "Description de Dynamiques organisationnelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472091,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Dynamiques organisationnelles",
+  "nom-folder": "Dynamiques-organisationnelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-46-86966228776"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational dynamics"
+    ],
+    "ar": [
+      "ديناميات التنظيمية"
+    ],
+    "es": [
+      "Dinámicas organizacionales"
+    ],
+    "fr": [
+      "Dynamiques organisationnelles"
+    ],
+    "it": [
+      "Dinamiche organizzative"
+    ]
+  }
+}

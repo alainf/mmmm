@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233238",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-de-la-justice-sociale/",
+  "description": "Description de Sociologie de la justice sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1206,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie de la justice sociale",
+  "nom-folder": "Sociologie-de-la-justice-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-00-86966233238"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of social justice"
+    ],
+    "ar": [
+      "علم الاجتماع من العدالة الاجتماعية"
+    ],
+    "es": [
+      "Sociología de la justicia social"
+    ],
+    "fr": [
+      "Sociologie de la justice sociale"
+    ],
+    "it": [
+      "sociologia della giustizia sociale"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-56-86966229378",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Economie-des-organisations/Capital-immateriel/",
+  "description": "Description de Capital immatériel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472123,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-56",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Capital immatériel",
+  "nom-folder": "Capital-immateriel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-56-86966229378"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intangible asset"
+    ],
+    "ar": [
+      "أصول غير مادي"
+    ],
+    "es": [
+      "Activo intangible"
+    ],
+    "fr": [
+      "Capital immatériel"
+    ],
+    "it": [
+      "Attivo intangibile"
+    ]
+  }
+}

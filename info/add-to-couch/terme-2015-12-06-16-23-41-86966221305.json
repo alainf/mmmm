@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-41-86966221305",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Opinions/Chroniques/",
+  "description": "Description de Chroniques",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270716,
+  "identifiant-drupal-parent": 270655,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-41",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Chroniques",
+  "nom-folder": "Chroniques",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-41-86966221305"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Columns"
+    ],
+    "ar": [
+      "أخبار"
+    ],
+    "es": [
+      "Crónicas"
+    ],
+    "fr": [
+      "Chroniques"
+    ],
+    "it": [
+      "Cronache"
+    ]
+  }
+}

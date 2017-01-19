@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227806",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-banques-et-services-financiers/ISO-6166/",
+  "description": "Description de ISO 6166 code des valeurs mobilières",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1896,
+  "identifiant-drupal-parent": 1891,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 6166 code des valeurs mobilières",
+  "nom-folder": "ISO-6166",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227806",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 6166 International Securities Identifying Number (ISIN)"
+    ],
+    "ar": [
+      "ISO 6166 رمز الأوراق المالية"
+    ],
+    "es": [
+      "ISO 6166 número de identificación internacional de valores mobiliarios (ISIN)"
+    ],
+    "fr": [
+      "ISO 6166 code des valeurs mobilières"
+    ],
+    "it": [
+      "Iso 6166 struttura del numero di identificazione internazionale degli strumenti finanziari"
+    ]
+  }
+}

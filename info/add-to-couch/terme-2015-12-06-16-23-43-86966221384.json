@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221384",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Emplois/Ordres-professionnels/",
+  "description": "Description de Ordres professionnels",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1734,
+  "identifiant-drupal-parent": 1672,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Ordres professionnels",
+  "nom-folder": "Ordres-professionnels",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221384"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Professional corporations"
+    ],
+    "ar": [
+      "المؤسسة المهنى"
+    ],
+    "es": [
+      "Corporación profesional"
+    ],
+    "fr": [
+      "Ordres professionnels"
+    ],
+    "it": [
+      "Corporazioni professionali"
+    ],
+    "ru": [
+      "Профессиональные корпорации"
+    ]
+  }
+}

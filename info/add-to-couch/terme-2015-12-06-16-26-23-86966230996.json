@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966230996",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Asie-de-l'Est/",
+  "description": "Description de Asie de l'Est",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272345,
+  "identifiant-drupal-parent": 942,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Asie de l'Est",
+  "nom-folder": "Asie-de-l'Est",
+  "nom-machine": "terme-2015-12-06-16-26-23-86966230996",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "East Asia"
+    ],
+    "ar": [
+      "آسيا الشرقية"
+    ],
+    "es": [
+      "Asia Oriental"
+    ],
+    "fr": [
+      "Asie de l'Est"
+    ],
+    "it": [
+      "Asia orientale"
+    ]
+  }
+}

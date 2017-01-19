@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-42-86966232124",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Archeologie/Epigraphie/",
+  "description": "Description de Épigraphie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271410,
+  "identifiant-drupal-parent": 1023,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-42",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Épigraphie",
+  "nom-folder": "Epigraphie",
+  "nom-machine": "terme-2015-12-06-16-26-42-86966232124",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Epigraphy"
+    ],
+    "ar": [
+      "علم النقائش"
+    ],
+    "es": [
+      "Epigrafía"
+    ],
+    "fr": [
+      "Épigraphie"
+    ],
+    "it": [
+      "Epigrafia"
+    ]
+  }
+}

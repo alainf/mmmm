@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233031",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Histoire-politique-(generalites)/",
+  "description": "Description de Histoire politique (généralités)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1167,
+  "identifiant-drupal-parent": 1106,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Histoire politique (généralités)",
+  "nom-folder": "Histoire-politique-(generalites)",
+  "nom-machine": "terme-2015-12-06-16-26-57-86966233031",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political History (general)"
+    ],
+    "ar": [
+      "تاريخ السياسي (عام)"
+    ],
+    "es": [
+      "Historia política (general)"
+    ],
+    "fr": [
+      "Histoire politique (généralités)"
+    ],
+    "it": [
+      "Storia politica (generalità)"
+    ]
+  }
+}

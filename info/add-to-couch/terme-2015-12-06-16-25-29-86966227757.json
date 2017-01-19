@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227757",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/",
+  "description": "Description de Normes de gestion de la qualité",
+  "enfants": [
+    "terme-2015-12-06-16-25-29-86966227760",
+    "terme-2015-12-06-16-25-29-86966227774",
+    "terme-2015-12-06-16-25-29-86966227777",
+    "terme-2015-12-06-16-25-29-86966227779",
+    "terme-2015-12-06-16-25-29-86966227783",
+    "terme-2015-12-06-16-25-29-86966227786",
+    "terme-2015-12-06-16-25-29-86966227788",
+    "terme-2015-12-06-16-25-29-86966227791",
+    "terme-2015-12-06-16-25-30-86966227812"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1890,
+  "identifiant-drupal-parent": 1877,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Normes de gestion de la qualité",
+  "nom-folder": "Normes-de-gestion-de-la-qualite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-29-86966227757"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Standards for quality management"
+    ],
+    "ar": [
+      "معايير إدارة الجودة"
+    ],
+    "es": [
+      "Normas de Gestión de la Calidad"
+    ],
+    "fr": [
+      "Normes de gestion de la qualité"
+    ],
+    "it": [
+      "Norme di gestione della qualità"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221331",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Agenda/",
+  "description": "Description de Agenda",
+  "enfants": [
+    "terme-2015-12-06-16-23-42-86966221334",
+    "terme-2015-12-06-16-23-42-86966221337",
+    "terme-2015-12-06-16-23-42-86966221349",
+    "terme-2015-12-06-16-23-42-86966221352",
+    "terme-2015-12-06-16-23-42-86966221355",
+    "terme-2015-12-06-16-23-42-86966221357",
+    "terme-2015-12-06-16-23-42-86966221361",
+    "terme-2015-12-06-16-23-42-86966221363"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1670,
+  "identifiant-drupal-parent": 270469,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Agenda",
+  "nom-folder": "Agenda",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221331"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agenda"
+    ],
+    "ar": [
+      "أجندة"
+    ],
+    "es": [
+      "Agenda"
+    ],
+    "fr": [
+      "Agenda"
+    ],
+    "it": [
+      "Agenda"
+    ]
+  }
+}

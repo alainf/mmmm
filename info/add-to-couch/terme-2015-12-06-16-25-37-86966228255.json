@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228255",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-du-changement-(gestion)/Changements-dans-l'environnement-economique/",
+  "description": "Description de Changements dans l'environnement économique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271344,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Changements dans l'environnement économique",
+  "nom-folder": "Changements-dans-l'environnement-economique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-37-86966228255"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Changes in the economic environment"
+    ],
+    "ar": [
+      "التغيرات في البيئة الاقتصادية"
+    ],
+    "es": [
+      "Cambios en el entorno económico"
+    ],
+    "fr": [
+      "Changements dans l'environnement économique"
+    ],
+    "it": [
+      "Cambiamenti nel contesto economico"
+    ]
+  }
+}

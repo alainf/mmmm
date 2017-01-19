@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-15-86966223319",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Psychology/Psychoanalysis/",
+  "description": "Description de Psychoanalysis",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369266,
+  "identifiant-drupal-parent": 369241,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-15",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Psychoanalysis",
+  "nom-folder": "Psychoanalysis",
+  "nom-machine": "terme-2015-12-06-16-24-15-86966223319",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Psychoanalysis"
+    ]
+  }
+}

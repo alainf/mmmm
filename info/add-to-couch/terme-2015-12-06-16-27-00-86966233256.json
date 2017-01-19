@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233256",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-des-reseaux/",
+  "description": "Description de Sociologie des réseaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1212,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie des réseaux",
+  "nom-folder": "Sociologie-des-reseaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-00-86966233256"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Networks sociology"
+    ],
+    "ar": [
+      "علم الاجتماع الشبكات"
+    ],
+    "es": [
+      "Sociología de las redes"
+    ],
+    "fr": [
+      "Sociologie des réseaux"
+    ],
+    "it": [
+      "Sociologia delle reti"
+    ]
+  }
+}

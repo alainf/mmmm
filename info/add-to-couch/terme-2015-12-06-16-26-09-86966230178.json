@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230178",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Processus-de-surface-de-la-terre-et-reliefs/",
+  "description": "Description de Processus de surface de la terre et reliefs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270831,
+  "identifiant-drupal-parent": 886,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Processus de surface de la terre et reliefs",
+  "nom-folder": "Processus-de-surface-de-la-terre-et-reliefs",
+  "nom-machine": "terme-2015-12-06-16-26-09-86966230178",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Earth surface processes and landforms"
+    ],
+    "ar": [
+      "العمليات السطحية للأرض و التضاريس"
+    ],
+    "es": [
+      "Procesos superficiales de la tierra y relieves"
+    ],
+    "fr": [
+      "Processus de surface de la terre et reliefs"
+    ],
+    "it": [
+      "Processi di superficie terrestre e rilievi"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225925",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Fonds-a-revenu/",
+  "description": "Description de Fonds à revenu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451157,
+  "identifiant-drupal-parent": 451151,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Fonds à revenu",
+  "nom-folder": "Fonds-a-revenu",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225925"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Income fund"
+    ],
+    "ar": [
+      "صناديق الدخل"
+    ],
+    "es": [
+      "Fondo de ingresos"
+    ],
+    "fr": [
+      "Fonds à revenu"
+    ],
+    "it": [
+      "Fondo di reddito"
+    ]
+  }
+}

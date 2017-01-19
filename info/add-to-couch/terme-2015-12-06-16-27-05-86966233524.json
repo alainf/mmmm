@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233524",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Resistance-sociale-(sociologie)/Emancipation,-insubordination,-insurrection/",
+  "description": "Description de Émancipation, insubordination, insurrection",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455655,
+  "identifiant-drupal-parent": 471365,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Émancipation, insubordination, insurrection",
+  "nom-folder": "Emancipation,-insubordination,-insurrection",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-05-86966233524"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Emancipation, insubordination, insurrection"
+    ],
+    "ar": [
+      "التحرر، العصيان، العصيان المسلح"
+    ],
+    "es": [
+      "Emancipación, insubordinación, insurrección"
+    ],
+    "fr": [
+      "Émancipation, insubordination, insurrection"
+    ],
+    "it": [
+      "Emancipazione, insubordinazione, insurrezione"
+    ]
+  }
+}

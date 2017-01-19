@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232911",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Socialisme/Luxembourgisme/",
+  "description": "Description de Luxembourgisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1154,
+  "identifiant-drupal-parent": 1118,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Luxembourgisme",
+  "nom-folder": "Luxembourgisme",
+  "nom-machine": "terme-2015-12-06-16-26-55-86966232911",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Luxemburgism"
+    ],
+    "ar": [
+      "لوكسمبورغية"
+    ],
+    "es": [
+      "Luxemburguismo"
+    ],
+    "fr": [
+      "Luxembourgisme"
+    ],
+    "it": [
+      "Luxemburghismo"
+    ]
+  }
+}

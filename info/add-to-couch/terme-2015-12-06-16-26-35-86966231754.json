@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-35-86966231754",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychanalyse/Angoisse-de-castration/",
+  "description": "Description de Angoisse de castration",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451259,
+  "identifiant-drupal-parent": 451181,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-35",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Angoisse de castration",
+  "nom-folder": "Angoisse-de-castration",
+  "nom-machine": "terme-2015-12-06-16-26-35-86966231754",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Castration anxiety"
+    ],
+    "ar": [
+      "قلق الإخصاء"
+    ],
+    "es": [
+      "Complejo de castración"
+    ],
+    "fr": [
+      "Angoisse de castration"
+    ],
+    "it": [
+      "Ansietà di castrazione"
+    ]
+  }
+}

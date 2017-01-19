@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224033",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Cereales/Culture-de-pois-et-de-haricots-secs/",
+  "description": "Description de Culture de pois et de haricots secs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451047,
+  "identifiant-drupal-parent": 937,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture de pois et de haricots secs",
+  "nom-folder": "Culture-de-pois-et-de-haricots-secs",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-27-86966224033"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pea and bean cultivation"
+    ],
+    "ar": [
+      "زراعة الحمص و الفاصوليا المجففة"
+    ],
+    "es": [
+      "Cultivo de garbanzos y frijoles"
+    ],
+    "fr": [
+      "Culture de pois et de haricots secs"
+    ],
+    "it": [
+      "Coltivazione di ceci e fagioli"
+    ]
+  }
+}

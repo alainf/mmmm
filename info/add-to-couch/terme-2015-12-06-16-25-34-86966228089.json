@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228089",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Phases-de-projets/Phase-de-realisation/",
+  "description": "Description de Phase de réalisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1985,
+  "identifiant-drupal-parent": 1983,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Phase de réalisation",
+  "nom-folder": "Phase-de-realisation",
+  "nom-machine": "terme-2015-12-06-16-25-34-86966228089",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Execution stage"
+    ],
+    "ar": [
+      "مرحلة التنفيذ"
+    ],
+    "es": [
+      "Fase de ejecución"
+    ],
+    "fr": [
+      "Phase de réalisation"
+    ],
+    "it": [
+      "Fase di realizzazione"
+    ]
+  }
+}

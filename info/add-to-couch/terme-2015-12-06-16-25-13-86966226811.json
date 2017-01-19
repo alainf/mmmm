@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226811",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Industries-creatives/Gestion-des-entreprises-culturelles/",
+  "description": "Description de Gestion des entreprises culturelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466838,
+  "identifiant-drupal-parent": 466834,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Gestion des entreprises culturelles",
+  "nom-folder": "Gestion-des-entreprises-culturelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226811"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural enterprise management"
+    ],
+    "ar": [
+      "إدارة الشركات الثقافية"
+    ],
+    "es": [
+      "Gestión de empresas culturales"
+    ],
+    "fr": [
+      "Gestion des entreprises culturelles"
+    ],
+    "it": [
+      "Gestione delle imprese culturali"
+    ]
+  }
+}

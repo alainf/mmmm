@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-36-86966231769",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychiatrie/",
+  "description": "Description de Psychiatrie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451273,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-36",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Psychiatrie",
+  "nom-folder": "Psychiatrie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-36-86966231769"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Psychiatry"
+    ],
+    "ar": [
+      "طب نفسي"
+    ],
+    "es": [
+      "Psiquiatría"
+    ],
+    "fr": [
+      "Psychiatrie"
+    ],
+    "it": [
+      "psichiatria"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-32-86966231527",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Ontologie/",
+  "description": "Description de Ontologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455602,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-32",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Ontologie",
+  "nom-folder": "Ontologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-32-86966231527"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ontology"
+    ],
+    "ar": [
+      "علم الوجود"
+    ],
+    "es": [
+      "Ontología"
+    ],
+    "fr": [
+      "Ontologie"
+    ],
+    "it": [
+      "ontologia"
+    ]
+  }
+}

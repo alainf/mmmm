@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230523",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Economie-industrielle/",
+  "description": "Description de Économie industrielle",
+  "enfants": [
+    "terme-2015-12-06-16-26-15-86966230526",
+    "terme-2015-12-06-16-26-15-86966230529",
+    "terme-2015-12-06-16-26-15-86966230532"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451333,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie industrielle",
+  "nom-folder": "Economie-industrielle",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230523"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial economics"
+    ],
+    "ar": [
+      "الاقتصادات الصناعية"
+    ],
+    "es": [
+      "Economía industrial"
+    ],
+    "fr": [
+      "Économie industrielle"
+    ],
+    "it": [
+      "Economia industriale"
+    ]
+  }
+}

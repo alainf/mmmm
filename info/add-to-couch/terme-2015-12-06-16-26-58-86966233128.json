@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233128",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Resistance-sociale-(sciences-politiques)/Lanceurs-d'alertes/",
+  "description": "Description de Lanceurs d'alertes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472292,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Lanceurs d'alertes",
+  "nom-folder": "Lanceurs-d'alertes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-58-86966233128"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Whistleblower"
+    ],
+    "ar": [
+      "مطلق التحذيرات"
+    ],
+    "es": [
+      "Alertador"
+    ],
+    "fr": [
+      "Lanceurs d'alertes"
+    ],
+    "it": [
+      "Fischiatore"
+    ]
+  }
+}

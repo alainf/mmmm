@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-12-86966223141",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Philosophy/Miscellaneous-(Philosophy)/",
+  "description": "Description de Miscellaneous (philosophy)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369208,
+  "identifiant-drupal-parent": 369203,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Miscellaneous (philosophy)",
+  "nom-folder": "Miscellaneous-(Philosophy)",
+  "nom-machine": "terme-2015-12-06-16-24-12-86966223141",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Miscellaneous (philosophy)"
+    ]
+  }
+}

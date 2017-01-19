@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229023",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Normes-et-principes-de-la-comptabilite/",
+  "description": "Description de Normes et principes de la comptabilité",
+  "enfants": [
+    "terme-2015-12-06-16-25-50-86966229026",
+    "terme-2015-12-06-16-25-50-86966229028",
+    "terme-2015-12-06-16-25-50-86966229044"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271275,
+  "identifiant-drupal-parent": 270916,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Normes et principes de la comptabilité",
+  "nom-folder": "Normes-et-principes-de-la-comptabilite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-50-86966229023"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Accounting standards and principles"
+    ],
+    "ar": [
+      "معايير ومبادئ المحاسبة"
+    ],
+    "es": [
+      "Normas y principios de contabilidad"
+    ],
+    "fr": [
+      "Normes et principes de la comptabilité"
+    ],
+    "it": [
+      "Norme e principi di contabilità"
+    ]
+  }
+}

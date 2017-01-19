@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228050",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-des-risques-(projets)/",
+  "description": "Description de Gestion des risques (projets)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1977,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des risques (projets)",
+  "nom-folder": "Gestion-des-risques-(projets)",
+  "nom-machine": "terme-2015-12-06-16-25-34-86966228050",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Risk management (projects)"
+    ],
+    "ar": [
+      "إدارة المخاطر (المشاريع)"
+    ],
+    "es": [
+      "Gestión de riesgos (proyectos)"
+    ],
+    "fr": [
+      "Gestion des risques (projets)"
+    ],
+    "it": [
+      "Gestione dei rischi (gestione di progetti)"
+    ]
+  }
+}

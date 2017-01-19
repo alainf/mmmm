@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233649",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sujets-orphelins/Comites-de-lecture/",
+  "description": "Comites-de-lecture",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472158,
+  "identifiant-drupal-parent": 472064,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Comités de lecture",
+  "nom-folder": "Comites-de-lecture",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233649"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Advisory Committees"
+    ],
+    "ar": [
+      "لجان القراءة"
+    ],
+    "es": [
+      "Comités de lectura"
+    ],
+    "fr": [
+      "Comités de lecture"
+    ],
+    "it": [
+      "Comitato consultativo"
+    ]
+  }
+}

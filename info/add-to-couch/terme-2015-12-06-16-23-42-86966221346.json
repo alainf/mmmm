@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221346",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Agenda/Agenda-scientifique/Appels-a-participation/",
+  "description": "Description de Appels à participation",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270528,
+  "identifiant-drupal-parent": 1705,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Appels à participation",
+  "nom-folder": "Appels-a-participation",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221346"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Calls for participation"
+    ],
+    "ar": [
+      "دعوات للمشاركة"
+    ],
+    "es": [
+      "Llamadas a participación"
+    ],
+    "fr": [
+      "Appels à participation"
+    ],
+    "it": [
+      "Invito alla partecipazione"
+    ],
+    "ru": [
+      "Призывы к участию"
+    ]
+  }
+}

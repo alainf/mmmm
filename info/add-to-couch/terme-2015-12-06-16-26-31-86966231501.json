@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-31-86966231501",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Cartesianisme/",
+  "description": "Description de Cartésianisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472007,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-31",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Cartésianisme",
+  "nom-folder": "Cartesianisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-31-86966231501"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cartesianism"
+    ],
+    "ar": [
+      "ديكارتية"
+    ],
+    "es": [
+      "Cartesianismo"
+    ],
+    "fr": [
+      "Cartésianisme"
+    ],
+    "it": [
+      "Cartesianismo"
+    ]
+  }
+}

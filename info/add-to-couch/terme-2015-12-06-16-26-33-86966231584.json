@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231584",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-du-discours/",
+  "description": "Description de Philosophie du discours",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472175,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie du discours",
+  "nom-folder": "Philosophie-du-discours",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-33-86966231584"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of discourse"
+    ],
+    "ar": [
+      "فلسفة الكلام"
+    ],
+    "es": [
+      "Filosofía del discurso"
+    ],
+    "fr": [
+      "Philosophie du discours"
+    ],
+    "it": [
+      "filosofia del discorso"
+    ]
+  }
+}

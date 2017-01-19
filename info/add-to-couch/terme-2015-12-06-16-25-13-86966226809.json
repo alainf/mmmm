@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226809",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Industries-creatives/Entreprises-de-production-mediatique/",
+  "description": "Description de Entreprises de production médiatique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466837,
+  "identifiant-drupal-parent": 466834,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Entreprises de production médiatique",
+  "nom-folder": "Entreprises-de-production-mediatique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226809"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media production companies"
+    ],
+    "ar": [
+      "مقاولات إنتاج وسائل الإعلام"
+    ],
+    "es": [
+      "Empresas de producción mediática"
+    ],
+    "fr": [
+      "Entreprises de production médiatique"
+    ],
+    "it": [
+      "Società di produzione multimediale"
+    ]
+  }
+}

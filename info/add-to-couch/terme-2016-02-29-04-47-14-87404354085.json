@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-47-14-87404354085",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/par-quoi-commencer/etablir-les-grandes-lignes-du-recit/",
+  "description": "Description de Établir les grandes lignes du récit",
+  "enfants": [
+    "terme-2016-02-29-04-50-37-87404366221"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-47-14",
+  "moment-de-modification": "2016-02-29-04-47-54",
+  "nom": "Établir les grandes lignes du récit",
+  "nom-folder": "etablir-les-grandes-lignes-du-recit",
+  "nom-machine": "terme-2016-02-29-04-47-14-87404354085",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Prepare an outline of the story"
+    ],
+    "fr": [
+      "Établir les grandes lignes du récit"
+    ]
+  }
+}

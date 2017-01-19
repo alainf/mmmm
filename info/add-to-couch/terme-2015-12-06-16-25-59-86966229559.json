@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-59-86966229559",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Etudes-urbaines-et-touristiques/Tourisme/Tourisme-humanitaire/",
+  "description": "Description de Tourisme humanitaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469941,
+  "identifiant-drupal-parent": 272227,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-25-59",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Tourisme humanitaire",
+  "nom-folder": "Tourisme-humanitaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-59-86966229559"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Humanitarian tourism"
+    ],
+    "ar": [
+      "السياحة الانسانى"
+    ],
+    "es": [
+      "Turismo humanitario"
+    ],
+    "fr": [
+      "Tourisme humanitaire"
+    ],
+    "it": [
+      "turismo umanitario"
+    ]
+  }
+}

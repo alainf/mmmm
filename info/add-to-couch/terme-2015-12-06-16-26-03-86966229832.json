@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229832",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technologies-de-l'apprentissage/",
+  "description": "Description de Technologies de l'apprentissage",
+  "enfants": [
+    "terme-2015-12-06-16-26-03-86966229835",
+    "terme-2015-12-06-16-26-03-86966229838"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472233,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Technologies de l'apprentissage",
+  "nom-folder": "Technologies-de-l'apprentissage",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-03-86966229832"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Learning technologies"
+    ],
+    "ar": [
+      "تكنولوجيا التعليم"
+    ],
+    "es": [
+      "Tecnologías del aprendizaje"
+    ],
+    "fr": [
+      "Technologies de l'apprentissage"
+    ],
+    "it": [
+      "Tecnologie dell'apprendimento"
+    ]
+  }
+}

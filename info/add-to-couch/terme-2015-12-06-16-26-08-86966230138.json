@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-08-86966230138",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/Extraction-de-potasse/",
+  "description": "Description de Extraction de potasse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451097,
+  "identifiant-drupal-parent": 451077,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de potasse",
+  "nom-folder": "Extraction-de-potasse",
+  "nom-machine": "terme-2015-12-06-16-26-08-86966230138",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Potash mining"
+    ],
+    "ar": [
+      "إستخراج البوتاس"
+    ],
+    "es": [
+      "Minería de potasa"
+    ],
+    "fr": [
+      "Extraction de potasse"
+    ],
+    "it": [
+      "Estrazione di potassio"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233096",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Regimes-politiques/Anarchisme-(regime)/",
+  "description": "Description de Anarchisme (régime)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1178,
+  "identifiant-drupal-parent": 1107,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Anarchisme (régime)",
+  "nom-folder": "Anarchisme-(regime)",
+  "nom-machine": "terme-2015-12-06-16-26-58-86966233096",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anarchism"
+    ],
+    "ar": [
+      "لاسلطوية (نظام الحكم)"
+    ],
+    "es": [
+      "Anarquismo (forma de gobierno)"
+    ],
+    "fr": [
+      "Anarchisme (régime)"
+    ],
+    "it": [
+      "Anarchismo (forma di governo)"
+    ]
+  }
+}

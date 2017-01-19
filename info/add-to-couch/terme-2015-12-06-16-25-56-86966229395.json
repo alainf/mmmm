@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-56-86966229395",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Economie-des-organisations/Contexte-institutionnel/",
+  "description": "Description de Contexte institutionnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472250,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-56",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Contexte institutionnel",
+  "nom-folder": "Contexte-institutionnel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-56-86966229395"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Institutional context"
+    ],
+    "ar": [
+      "السياق المؤسساتي"
+    ],
+    "es": [
+      "Contexto institucional"
+    ],
+    "fr": [
+      "Contexte institutionnel"
+    ],
+    "it": [
+      "contesto istituzionale"
+    ]
+  }
+}

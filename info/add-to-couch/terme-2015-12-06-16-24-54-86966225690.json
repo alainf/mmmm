@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225690",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Developpement-international/",
+  "description": "Description de Développement international",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471981,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Développement international",
+  "nom-folder": "Developpement-international",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225690"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International development"
+    ],
+    "ar": [
+      "التنمية الدولية"
+    ],
+    "es": [
+      "Desarrollo Internacional"
+    ],
+    "fr": [
+      "Développement international"
+    ],
+    "it": [
+      "Sviluppo internazionale"
+    ]
+  }
+}

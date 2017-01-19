@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229637",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-academique/",
+  "description": "Description de Marketing académique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472160,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing académique",
+  "nom-folder": "Marketing-academique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-00-86966229637"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Academic marketing"
+    ],
+    "ar": [
+      "التسويق الأكاديمي"
+    ],
+    "es": [
+      "Comercialización Académica"
+    ],
+    "fr": [
+      "Marketing académique"
+    ],
+    "it": [
+      "Commercializzazione accademica"
+    ]
+  }
+}

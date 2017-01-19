@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-48-86966228902",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Motivation-des-collaborateurs/",
+  "description": "Description de Motivation des collaborateurs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2130,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-48",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Motivation des collaborateurs",
+  "nom-folder": "Motivation-des-collaborateurs",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-48-86966228902"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Employee motivation"
+    ],
+    "ar": [
+      "الحافز للموظفين"
+    ],
+    "es": [
+      "Motivación de los colaboradores"
+    ],
+    "fr": [
+      "Motivation des collaborateurs"
+    ],
+    "it": [
+      "Motivazione dei collaboratori"
+    ]
+  }
+}

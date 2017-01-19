@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233479",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Filiation/Celibat/",
+  "description": "Description de Célibat",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1281,
+  "identifiant-drupal-parent": 1256,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Célibat",
+  "nom-folder": "Celibat",
+  "nom-machine": "terme-2015-12-06-16-27-04-86966233479",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Celibacy"
+    ],
+    "ar": [
+      "أعزب"
+    ],
+    "es": [
+      "Celibato"
+    ],
+    "fr": [
+      "Célibat"
+    ],
+    "it": [
+      "Celibato"
+    ]
+  }
+}

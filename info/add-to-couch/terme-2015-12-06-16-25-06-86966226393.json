@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226393",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Industries-educatives/",
+  "description": "Description de Industries éducatives",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451284,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Industries éducatives",
+  "nom-folder": "Industries-educatives",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226393"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Education industries"
+    ],
+    "ar": [
+      "الصناعات التعليمية"
+    ],
+    "es": [
+      "Industrias educativas"
+    ],
+    "fr": [
+      "Industries éducatives"
+    ],
+    "it": [
+      "Industrie educative"
+    ]
+  }
+}

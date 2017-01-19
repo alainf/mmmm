@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232790",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Democratie-(ideologie)/Theorie-de-la-paix-democratique/",
+  "description": "Description de Théorie de la paix démocratique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1126,
+  "identifiant-drupal-parent": 1113,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Théorie de la paix démocratique",
+  "nom-folder": "Theorie-de-la-paix-democratique",
+  "nom-machine": "terme-2015-12-06-16-26-53-86966232790",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Democratic peace theory"
+    ],
+    "ar": [
+      "نظرية السلام الديمقراطي"
+    ],
+    "es": [
+      "Teoría de la paz democrática"
+    ],
+    "fr": [
+      "Théorie de la paix démocratique"
+    ],
+    "it": [
+      "Teoria della pace democratica"
+    ]
+  }
+}

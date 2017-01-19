@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227158",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Industries-extractives/Transformation-des-mineraux/",
+  "description": "Description de Transformation des minéraux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472258,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Transformation des minéraux",
+  "nom-folder": "Transformation-des-mineraux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227158"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mineral Processing"
+    ],
+    "ar": [
+      "تجهيز المعادن"
+    ],
+    "es": [
+      "Procesamiento de Minerales"
+    ],
+    "fr": [
+      "Transformation des minéraux"
+    ],
+    "it": [
+      "Trattamento dei minerali"
+    ]
+  }
+}

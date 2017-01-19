@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227760",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/Gestion-de-donnees-et-documents-d'archives/",
+  "description": "Description de Gestion de données et documents d'archives",
+  "enfants": [
+    "terme-2015-12-06-16-25-29-86966227763",
+    "terme-2015-12-06-16-25-29-86966227765",
+    "terme-2015-12-06-16-25-29-86966227768",
+    "terme-2015-12-06-16-25-29-86966227771"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1898,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion de données et documents d'archives",
+  "nom-folder": "Gestion-de-donnees-et-documents-d'archives",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-29-86966227760"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Data and records management"
+    ],
+    "ar": [
+      "إدارة بيانات و مستندات المحفوظات"
+    ],
+    "es": [
+      "Gestión de datos y archivos"
+    ],
+    "fr": [
+      "Gestion de données et documents d'archives"
+    ],
+    "it": [
+      "Gestione dei dati e documenti d'archivio"
+    ]
+  }
+}

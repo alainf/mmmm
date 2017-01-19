@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-47-86966228856",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-de-la-sante-et-securite-du-travail/Ergonomie/Ergonomie-cognitive/",
+  "description": "Description de Ergonomie cognitive",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472102,
+  "identifiant-drupal-parent": 452222,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-47",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Ergonomie cognitive",
+  "nom-folder": "Ergonomie-cognitive",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-47-86966228856"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cognitive ergonomy"
+    ],
+    "ar": [
+      "تقنيتة مريحة معرفية"
+    ],
+    "es": [
+      "Ergonomía Cognitiva"
+    ],
+    "fr": [
+      "Ergonomie cognitive"
+    ],
+    "it": [
+      "Ergonomia cognitiva"
+    ]
+  }
+}

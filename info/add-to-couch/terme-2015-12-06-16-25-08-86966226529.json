@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226529",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ecologie/Ecologie-acoustique/Conception-sonore/",
+  "description": "Description de Conception sonore",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272387,
+  "identifiant-drupal-parent": 272384,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Conception sonore",
+  "nom-folder": "Conception-sonore",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226529"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sound Design"
+    ],
+    "ar": [
+      "تصميم الصوت"
+    ],
+    "es": [
+      "Diseño de sonido"
+    ],
+    "fr": [
+      "Conception sonore"
+    ],
+    "it": [
+      "Progettazione del suono"
+    ]
+  }
+}

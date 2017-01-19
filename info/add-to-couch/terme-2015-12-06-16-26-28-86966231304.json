@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-28-86966231304",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Medecine-palliative-et-soins-chroniques/",
+  "description": "Description de Médecine palliative et soins chroniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466708,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-28",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Médecine palliative et soins chroniques",
+  "nom-folder": "Medecine-palliative-et-soins-chroniques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-28-86966231304"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Palliative Medicine & Chronic Care"
+    ],
+    "ar": [
+      "الطب الملطفة والرعاية المزمنة"
+    ],
+    "es": [
+      "Medicina paliativa y atención a enfermos crónicos"
+    ],
+    "fr": [
+      "Médecine palliative et soins chroniques"
+    ],
+    "it": [
+      "Medicina palliativa e cure per malati cronici"
+    ]
+  }
+}

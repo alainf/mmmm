@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231607",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Post-structuralisme/",
+  "description": "Description de Post-structuralisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272351,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Post-structuralisme",
+  "nom-folder": "Post-structuralisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-33-86966231607"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Post-structuralism"
+    ],
+    "ar": [
+      "ما بعد البنيوية"
+    ],
+    "es": [
+      "Posestructuralismo"
+    ],
+    "fr": [
+      "Post-structuralisme"
+    ],
+    "it": [
+      "Post-strutturalismo"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-29-86966231398",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-organes/Ophtalmologie/",
+  "description": "Description de Ophtalmologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1473,
+  "identifiant-drupal-parent": 1437,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-29",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Ophtalmologie",
+  "nom-folder": "Ophtalmologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-29-86966231398"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ophthalmology"
+    ],
+    "ar": [
+      "طب العيون"
+    ],
+    "es": [
+      "Oftalmología"
+    ],
+    "fr": [
+      "Ophtalmologie"
+    ],
+    "it": [
+      "oftalmologia"
+    ]
+  }
+}

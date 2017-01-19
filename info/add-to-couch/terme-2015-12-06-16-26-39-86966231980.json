@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231980",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Sectes-(religions)/",
+  "description": "Description de Sectes (religions)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466778,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Sectes (religions)",
+  "nom-folder": "Sectes-(religions)",
+  "nom-machine": "terme-2015-12-06-16-26-39-86966231980",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sects (religions)"
+    ],
+    "ar": [
+      "مذاهب"
+    ],
+    "es": [
+      "Sectas (religiones)"
+    ],
+    "fr": [
+      "Sectes (religions)"
+    ],
+    "it": [
+      "Sette (religioni)"
+    ]
+  }
+}

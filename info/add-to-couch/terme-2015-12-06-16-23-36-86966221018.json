@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966221018",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Mobilisation-sociale/Droits-de-l'enfant/",
+  "description": "Description de Droits de l'enfant",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1697,
+  "identifiant-drupal-parent": 1667,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Droits de l'enfant",
+  "nom-folder": "Droits-de-l'enfant",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966221018"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Children's rights"
+    ],
+    "ar": [
+      "حقوق الطفل"
+    ],
+    "es": [
+      "Derechos del niño"
+    ],
+    "fr": [
+      "Droits de l'enfant"
+    ],
+    "it": [
+      "Diritti dei bambini"
+    ]
+  }
+}

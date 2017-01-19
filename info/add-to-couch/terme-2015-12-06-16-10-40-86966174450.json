@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174450",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Auvergnat/",
+  "description": "Description de Auvergnat",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317579,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Auvergnat",
+  "nom-folder": "Auvergnat",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174450",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Auvergnat"
+    ],
+    "es": [
+      "Occitano auvernés"
+    ],
+    "fr": [
+      "Auvergnat"
+    ],
+    "it": [
+      "Alvernese"
+    ],
+    "ru": [
+      "Овернский"
+    ]
+  }
+}

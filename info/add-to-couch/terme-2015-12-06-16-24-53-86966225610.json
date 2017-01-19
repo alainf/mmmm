@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-53-86966225610",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Philosophie-du-droit/",
+  "description": "Description de Philosophie du droit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269146,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-53",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Philosophie du droit",
+  "nom-folder": "Philosophie-du-droit",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-53-86966225610"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of Law"
+    ],
+    "ar": [
+      "فلسفة القانون"
+    ],
+    "es": [
+      "Filosofía del derecho"
+    ],
+    "fr": [
+      "Philosophie du droit"
+    ],
+    "it": [
+      "filosofia del diritto"
+    ]
+  }
+}

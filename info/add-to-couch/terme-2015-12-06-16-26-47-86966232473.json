@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232473",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/",
+  "description": "Description de Psychologie sociale (sciences sociales)",
+  "enfants": [
+    "terme-2015-12-06-16-26-47-86966232477",
+    "terme-2015-12-06-16-26-47-86966232479",
+    "terme-2015-12-06-16-26-48-86966232482",
+    "terme-2015-12-06-16-26-48-86966232485",
+    "terme-2015-12-06-16-26-49-86966232598"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1002,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Psychologie sociale (sciences sociales)",
+  "nom-folder": "Psychologie-sociale-(sciences-sociales)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232473"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social psychology"
+    ],
+    "ar": [
+      "علم النفس الاجتماعي (العلوم الاجتماعية)"
+    ],
+    "es": [
+      "Psicología Social (Ciencias Sociales)"
+    ],
+    "fr": [
+      "Psychologie sociale (sciences sociales)"
+    ],
+    "it": [
+      "psicologia sociale (scienze sociali)"
+    ]
+  }
+}

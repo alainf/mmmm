@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232342",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Groupe-de-discussion/",
+  "description": "Description de Groupe de discussion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472148,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Groupe de discussion",
+  "nom-folder": "Groupe-de-discussion",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232342"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Focus group"
+    ],
+    "ar": [
+      "مجموعة التركيز"
+    ],
+    "es": [
+      "Grupo focal"
+    ],
+    "fr": [
+      "Groupe de discussion"
+    ],
+    "it": [
+      "Gruppo di discussione"
+    ]
+  }
+}

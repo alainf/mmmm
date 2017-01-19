@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-27-23-87404282591",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/ecrire-a-qui/ecrire-pour-conquerir-un-public/ecrire-pour-tout-le-monde/ecrire-pour-sa-famille/",
+  "description": "Description de Écrire pour sa famille",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-27-23",
+  "moment-de-modification": "2016-02-29-04-27-54",
+  "nom": "Écrire pour sa famille",
+  "nom-folder": "ecrire-pour-sa-famille",
+  "nom-machine": "terme-2016-02-29-04-27-23-87404282591",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Writing for one's family"
+    ],
+    "fr": [
+      "Écrire pour sa famille"
+    ]
+  }
+}

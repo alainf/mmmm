@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-15-86966223359",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Social-Sciences-(category)/Demography/",
+  "description": "Description de Demography",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369280,
+  "identifiant-drupal-parent": 369274,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-15",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Demography",
+  "nom-folder": "Demography",
+  "nom-machine": "terme-2015-12-06-16-24-15-86966223359",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Demography"
+    ]
+  }
+}

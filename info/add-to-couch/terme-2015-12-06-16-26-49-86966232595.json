@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-49-86966232595",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Risques-psychosociaux/",
+  "description": "Description de Risques psychosociaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1100,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-49",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Risques psychosociaux",
+  "nom-folder": "Risques-psychosociaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-49-86966232595"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Psychosocial risks"
+    ],
+    "ar": [
+      "المخاطر النفسية والاجتماعية"
+    ],
+    "es": [
+      "Riesgos psicosociales"
+    ],
+    "fr": [
+      "Risques psychosociaux"
+    ],
+    "it": [
+      "rischi psicosociali"
+    ]
+  }
+}

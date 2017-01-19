@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-48-86966228933",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Procedures-et-chaines-du-travail/",
+  "description": "Description de Procédures et chaînes du travail",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2133,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-48",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Procédures et chaînes du travail",
+  "nom-folder": "Procedures-et-chaines-du-travail",
+  "nom-machine": "terme-2015-12-06-16-25-48-86966228933",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Procedures and labor chains"
+    ],
+    "ar": [
+      "إجراءات ومهام سير العمل"
+    ],
+    "es": [
+      "Procedimientos y flujos de trabajo"
+    ],
+    "fr": [
+      "Procédures et chaînes du travail"
+    ],
+    "it": [
+      "Procedure e catene di lavoro"
+    ]
+  }
+}

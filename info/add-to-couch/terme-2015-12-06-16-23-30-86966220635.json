@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-23-30-86966220635",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Acteurs-de-l'entreprise/",
+  "description": "Description de Acteurs de l'entreprise",
+  "enfants": [
+    "terme-2015-12-06-16-23-30-86966220638",
+    "terme-2015-12-06-16-23-30-86966220640",
+    "terme-2015-12-06-16-23-30-86966220644",
+    "terme-2015-12-06-16-23-30-86966220646"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270506,
+  "identifiant-drupal-parent": 270471,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-30",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Acteurs de l'entreprise",
+  "nom-folder": "Acteurs-de-l'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-30-86966220635"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Actors of the firm"
+    ],
+    "ar": [
+      "الجهات الفاعلة فى الشركة"
+    ],
+    "es": [
+      "Actores de la empresa"
+    ],
+    "fr": [
+      "Acteurs de l'entreprise"
+    ],
+    "it": [
+      "Attori della società"
+    ],
+    "ru": [
+      "Актеры в компании"
+    ]
+  }
+}

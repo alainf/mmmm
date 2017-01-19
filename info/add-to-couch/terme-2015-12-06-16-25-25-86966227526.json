@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-25-86966227526",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Journal-externe-d'entreprise/",
+  "description": "Description de Journal externe d'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2150,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-25",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Journal externe d'entreprise",
+  "nom-folder": "Journal-externe-d'entreprise",
+  "nom-machine": "terme-2015-12-06-16-25-25-86966227526",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate external journal"
+    ],
+    "ar": [
+      "صحيفة خارجية للشركة"
+    ],
+    "es": [
+      "Periódico externo de la empresa"
+    ],
+    "fr": [
+      "Journal externe d'entreprise"
+    ],
+    "it": [
+      "Giornale esterno della impresa"
+    ]
+  }
+}

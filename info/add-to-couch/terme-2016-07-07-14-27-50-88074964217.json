@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-07-07-14-27-50-88074964217",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-revuesOrg/Etudes-environnementales,-geographie-et-developpement/Geographie/",
+  "description": "Description de Géographie",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-07-07-14-27-50",
+  "moment-de-creation": "2016-07-07-14-27-50",
+  "moment-de-modification": "2016-07-07-14-28-08",
+  "nom": "Géographie",
+  "nom-folder": "Geographie",
+  "nom-machine": "terme-2016-07-07-14-27-50-88074964217",
+  "sous-type": "sujets-revuesOrg",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Geography"
+    ],
+    "fr": [
+      "Géographie"
+    ]
+  }
+}

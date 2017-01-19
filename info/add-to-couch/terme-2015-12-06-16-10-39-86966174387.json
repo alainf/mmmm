@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-10-39-86966174387",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/auteur/",
+  "description": "Description du terme auteur.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 0,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-39",
+  "moment-de-modification": "2016-03-16-23-39-05",
+  "nom": "Auteur",
+  "nom-folder": "auteur",
+  "nom-machine": "terme-2015-12-06-16-10-39-86966174387",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Author"
+    ],
+    "ar": [
+      "مؤلف"
+    ],
+    "es": [
+      "Autor"
+    ],
+    "fr": [
+      "Auteur"
+    ],
+    "it": [
+      "Autore"
+    ]
+  }
+}

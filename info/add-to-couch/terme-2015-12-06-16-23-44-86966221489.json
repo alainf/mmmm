@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221489",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-mediatiques/",
+  "description": "Description de Arts médiatiques",
+  "enfants": [
+    "terme-2015-12-06-16-23-44-86966221492",
+    "terme-2015-12-06-16-23-44-86966221495",
+    "terme-2015-12-06-16-23-44-86966221497",
+    "terme-2015-12-06-16-23-45-86966221501"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270611,
+  "identifiant-drupal-parent": 1665,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Arts médiatiques",
+  "nom-folder": "Arts-mediatiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221489"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media arts"
+    ],
+    "ar": [
+      "وسائل الإعلام الفنون"
+    ],
+    "es": [
+      "Artes mediáticos"
+    ],
+    "fr": [
+      "Arts médiatiques"
+    ],
+    "it": [
+      "Arti mediatiche"
+    ],
+    "ru": [
+      "Средства массовой информации искусств"
+    ]
+  }
+}

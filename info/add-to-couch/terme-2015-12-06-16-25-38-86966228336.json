@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228336",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Placement-d'entreprise/",
+  "description": "Description de Placement d'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2029,
+  "identifiant-drupal-parent": 2017,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Placement d'entreprise",
+  "nom-folder": "Placement-d'entreprise",
+  "nom-machine": "terme-2015-12-06-16-25-38-86966228336",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business investment"
+    ],
+    "ar": [
+      "الاستثمار في الأعمال التجارية"
+    ],
+    "es": [
+      "Inversión empresarial"
+    ],
+    "fr": [
+      "Placement d'entreprise"
+    ],
+    "it": [
+      "Investimenti delle imprese"
+    ]
+  }
+}

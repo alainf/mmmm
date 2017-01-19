@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230652",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Theories-en-sciences-economiques/Theorie-des-jeux/",
+  "description": "Description de Théorie des jeux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451357,
+  "identifiant-drupal-parent": 1485,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Théorie des jeux",
+  "nom-folder": "Theorie-des-jeux",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230652"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Game theory"
+    ],
+    "ar": [
+      "نظرية اللعبة"
+    ],
+    "es": [
+      "Teoría de juegos"
+    ],
+    "fr": [
+      "Théorie des jeux"
+    ],
+    "it": [
+      "Teoria dei giochi"
+    ]
+  }
+}

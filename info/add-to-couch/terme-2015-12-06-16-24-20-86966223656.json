@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-20-86966223656",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Life-Biomedical-Sciences/Toxicology/",
+  "description": "Description de Toxicologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368173,
+  "identifiant-drupal-parent": 368145,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-20",
+  "moment-de-modification": "2015-01-04-02-27-32",
+  "nom": "Toxicologie",
+  "nom-folder": "Toxicology",
+  "nom-machine": "terme-2015-12-06-16-24-20-86966223656",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Toxicology"
+    ],
+    "fr": [
+      "Toxicologie"
+    ]
+  }
+}

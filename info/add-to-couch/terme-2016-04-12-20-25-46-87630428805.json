@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2016-04-12-20-25-46-87630428805",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/fil-RSS/OPML/",
+  "description": "Description de Opml",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2016-04-12-20-25-46",
+  "moment-de-modification": "2016-04-12-20-26-14",
+  "nom": "Opml",
+  "nom-folder": "OPML",
+  "nom-machine": "terme-2016-04-12-20-25-46-87630428805",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Opml"
+    ],
+    "ar": [
+      "OPML"
+    ],
+    "es": [
+      "Opml"
+    ],
+    "fr": [
+      "Opml"
+    ],
+    "it": [
+      "Opml"
+    ]
+  }
+}

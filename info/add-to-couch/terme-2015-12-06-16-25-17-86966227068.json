@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227068",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Administration-des-affaires-en-Asie/",
+  "description": "Description de Administration des affaires en Asie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451002,
+  "identifiant-drupal-parent": 272222,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Administration des affaires en Asie",
+  "nom-folder": "Administration-des-affaires-en-Asie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227068"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business administration in Asia"
+    ],
+    "ar": [
+      "إدارة الأعمال في آسيا"
+    ],
+    "es": [
+      "Administración de empresas en Asia"
+    ],
+    "fr": [
+      "Administration des affaires en Asie"
+    ],
+    "it": [
+      "Amministrazione aziendale in Asia"
+    ]
+  }
+}

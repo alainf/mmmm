@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-21-32-87404261537",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/comment-ecrire/utiliser-des-procedes-litteraires/phrases-longues/",
+  "description": "Description de Phrases longues",
+  "enfants": [
+    "terme-2016-02-29-04-22-28-87404264937"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-21-32",
+  "moment-de-modification": "2016-02-29-04-22-18",
+  "nom": "Phrases longues",
+  "nom-folder": "phrases-longues",
+  "nom-machine": "terme-2016-02-29-04-21-32-87404261537",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Long sentences"
+    ],
+    "fr": [
+      "Phrases longues"
+    ]
+  }
+}

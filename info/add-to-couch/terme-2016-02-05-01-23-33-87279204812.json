@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-05-01-23-33-87279204812",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Qui-ecrit/",
+  "description": "Description de Qui écrit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-23-33",
+  "moment-de-modification": "2016-02-05-01-24-13",
+  "nom": "Qui écrit",
+  "nom-folder": "Qui-ecrit",
+  "nom-machine": "terme-2016-02-05-01-23-33-87279204812",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Who writes"
+    ],
+    "es": [
+      "Quién escribe"
+    ],
+    "fr": [
+      "Qui écrit"
+    ],
+    "it": [
+      "Chi scrive"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174544",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Galicien/",
+  "description": "Description de Galicien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369944,
+  "ISO-639-1": "gl",
+  "ISO-639-2": "glg",
+  "ISO-639-3": "glg",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2016-02-04-04-25-53",
+  "nom": "Galicien",
+  "nom-folder": "Galicien",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174544",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Galicien",
+  "nomLangues": {
+    "en": [
+      "Galician"
+    ],
+    "ar": [
+      "غاليسية"
+    ],
+    "es": [
+      "Gallego"
+    ],
+    "fr": [
+      "Galicien"
+    ],
+    "it": [
+      "Gallego"
+    ],
+    "ru": [
+      "Галисийский"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-37-86966231820",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychologie-du-sport/",
+  "description": "Description de Psychologie du sport",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469834,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-37",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Psychologie du sport",
+  "nom-folder": "Psychologie-du-sport",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-37-86966231820"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sport psychology"
+    ],
+    "ar": [
+      "علم النفس الرياضي"
+    ],
+    "es": [
+      "Psicología del deporte"
+    ],
+    "fr": [
+      "Psychologie du sport"
+    ],
+    "it": [
+      "Psicologia dello sport"
+    ]
+  }
+}

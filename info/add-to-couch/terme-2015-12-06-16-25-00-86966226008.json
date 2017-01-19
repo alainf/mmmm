@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226008",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Gestion-des-reseaux/",
+  "description": "Description de Gestion des réseaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270353,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Gestion des réseaux",
+  "nom-folder": "Gestion-des-reseaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-00-86966226008"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Network Management"
+    ],
+    "ar": [
+      "إدارة الشبكات"
+    ],
+    "es": [
+      "Gestión de redes"
+    ],
+    "fr": [
+      "Gestion des réseaux"
+    ],
+    "it": [
+      "Gestione di reti"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-53-86966221980",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Astronomy-Astrophysics-Space-Science/Theoretical-Astrophysics/",
+  "description": "Description de Theoretical astrophysics",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368809,
+  "identifiant-drupal-parent": 368799,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-53",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Theoretical astrophysics",
+  "nom-folder": "Theoretical-Astrophysics",
+  "nom-machine": "terme-2015-12-06-16-23-53-86966221980",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Theoretical astrophysics"
+    ]
+  }
+}

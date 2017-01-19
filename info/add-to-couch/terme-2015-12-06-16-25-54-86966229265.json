@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229265",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Responsabilite-sociale-d'entreprise/",
+  "description": "Description de Responsabilité sociale d'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2238,
+  "identifiant-drupal-parent": 2229,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Responsabilité sociale d'entreprise",
+  "nom-folder": "Responsabilite-sociale-d'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229265"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate social responsibility"
+    ],
+    "ar": [
+      "المسؤولية الاجتماعية للشركات"
+    ],
+    "es": [
+      "Responsabilidad social corporativa"
+    ],
+    "fr": [
+      "Responsabilité sociale d'entreprise"
+    ],
+    "it": [
+      "Responsabilità sociale d'impresa"
+    ]
+  }
+}

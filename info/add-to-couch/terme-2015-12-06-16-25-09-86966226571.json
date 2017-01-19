@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226571",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ingenierie-environnementale/",
+  "description": "Description de Ingénierie environnementale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270872,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Ingénierie environnementale",
+  "nom-folder": "Ingenierie-environnementale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226571"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environmental Engineering"
+    ],
+    "ar": [
+      "هندسة البيئية"
+    ],
+    "es": [
+      "Ingeniería Ambiental"
+    ],
+    "fr": [
+      "Ingénierie environnementale"
+    ],
+    "it": [
+      "Ingegneria ambientale"
+    ]
+  }
+}

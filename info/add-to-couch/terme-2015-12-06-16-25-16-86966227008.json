@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966227008",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Gestion-des-periodiques/",
+  "description": "Description de Gestion des périodiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1564,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Gestion des périodiques",
+  "nom-folder": "Gestion-des-periodiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-16-86966227008"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Periodicals management"
+    ],
+    "ar": [
+      "إدارة الدوريات"
+    ],
+    "es": [
+      "Gestión de publicaciones periódicas"
+    ],
+    "fr": [
+      "Gestion des périodiques"
+    ],
+    "it": [
+      "Gestione di periodici"
+    ]
+  }
+}

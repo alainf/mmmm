@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228811",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Economie-des-ressources/",
+  "description": "Description de Économie des ressources",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471896,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Économie des ressources",
+  "nom-folder": "Economie-des-ressources",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-46-86966228811"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Resource economics"
+    ],
+    "ar": [
+      "اقتصاد الموارد"
+    ],
+    "es": [
+      "Economía de los Recursos"
+    ],
+    "fr": [
+      "Économie des ressources"
+    ],
+    "it": [
+      "Economia delle risorse"
+    ]
+  }
+}

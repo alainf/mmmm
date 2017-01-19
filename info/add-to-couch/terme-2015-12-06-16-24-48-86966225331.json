@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-48-86966225331",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-israeliennes/",
+  "description": "Description de Études israéliennes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471871,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-48",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études israéliennes",
+  "nom-folder": "Etudes-israeliennes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-48-86966225331"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Israeli studies"
+    ],
+    "ar": [
+      "دراسات الإسرائيلية"
+    ],
+    "es": [
+      "Estudios israelíes"
+    ],
+    "fr": [
+      "Études israéliennes"
+    ],
+    "it": [
+      "Studi israeliani"
+    ]
+  }
+}

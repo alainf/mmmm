@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221225",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/Foot/",
+  "description": "Description de Foot",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270684,
+  "identifiant-drupal-parent": 270649,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Foot",
+  "nom-folder": "Foot",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-40-86966221225"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Football (soccer)"
+    ],
+    "ar": [
+      "لعبة كرة القدم"
+    ],
+    "es": [
+      "Fútbol"
+    ],
+    "fr": [
+      "Foot"
+    ],
+    "it": [
+      "Calcio (sport)"
+    ],
+    "ru": [
+      "Футбол"
+    ]
+  }
+}

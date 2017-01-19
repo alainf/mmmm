@@ -1,0 +1,22 @@
+{
+  "_id": "terme-2016-03-02-01-33-49-87414025778",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/temps-de-l-ecriture/moment-de-la-narration/le-temps-est-personnalise/",
+  "description": "Description de Époque passée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-33-49",
+  "moment-de-modification": "2016-03-02-01-35-54",
+  "nom": "Époque passée",
+  "nom-folder": "le-temps-est-personnalise",
+  "nom-machine": "terme-2016-03-02-01-33-49-87414025778",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Époque passée"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-24-45-86966225106",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Procede-de-fabrication-en-peinture/",
+  "description": "Description de Procédé de fabrication en peinture",
+  "enfants": [
+    "terme-2015-12-06-16-24-45-86966225108",
+    "terme-2015-12-06-16-24-45-86966225111",
+    "terme-2015-12-06-16-24-45-86966225114",
+    "terme-2015-12-06-16-24-45-86966225116",
+    "terme-2015-12-06-16-24-45-86966225120",
+    "terme-2015-12-06-16-24-45-86966225122",
+    "terme-2015-12-06-16-24-45-86966225125",
+    "terme-2015-12-06-16-24-45-86966225127",
+    "terme-2015-12-06-16-24-45-86966225130",
+    "terme-2015-12-06-16-24-45-86966225133"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467006,
+  "identifiant-drupal-parent": 467003,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-45",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Procédé de fabrication en peinture",
+  "nom-folder": "Procede-de-fabrication-en-peinture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-45-86966225106"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Manufacturing process in painting"
+    ],
+    "ar": [
+      "طريقة تصنيع الطلاء"
+    ],
+    "es": [
+      "Procedimiento de fabricación en pintura"
+    ],
+    "fr": [
+      "Procédé de fabrication en peinture"
+    ],
+    "it": [
+      "Processo di fabbricazione nella pittura"
+    ]
+  }
+}

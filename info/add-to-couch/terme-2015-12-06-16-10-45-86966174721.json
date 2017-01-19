@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-45-86966174721",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Ouighour/",
+  "description": "Description de Ouïghour",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317641,
+  "ISO-639-1": "ug",
+  "ISO-639-2": "uig",
+  "ISO-639-3": "uig",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-45",
+  "moment-de-modification": "2016-02-04-06-50-31",
+  "nom": "Ouïghour",
+  "nom-folder": "Ouighour",
+  "nom-machine": "terme-2015-12-06-16-10-45-86966174721",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Ou%C3%AFghour",
+  "nomLangues": {
+    "en": [
+      "Uyghur"
+    ],
+    "ar": [
+      "أويغورية"
+    ],
+    "es": [
+      "Uigur"
+    ],
+    "fr": [
+      "Ouïghour"
+    ],
+    "it": [
+      "Uiguro"
+    ],
+    "ru": [
+      "Уйгурский"
+    ]
+  }
+}

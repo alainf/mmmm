@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-25-86966227503",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Elaboration-des-plans-de-communication/",
+  "description": "Description de Élaboration des plans de communication",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2154,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-25",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Élaboration des plans de communication",
+  "nom-folder": "Elaboration-des-plans-de-communication",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-25-86966227503"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication plans development"
+    ],
+    "ar": [
+      "وضع خطط الاتصالات"
+    ],
+    "es": [
+      "Elaboración de planes de comunicación"
+    ],
+    "fr": [
+      "Élaboration des plans de communication"
+    ],
+    "it": [
+      "Elaborazione di piani di comunicazione"
+    ]
+  }
+}

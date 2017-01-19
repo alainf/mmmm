@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-17-86966223436",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Activites-de-soutien-aux-cultures/",
+  "description": "Description de Activités de soutien aux cultures",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-17",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Activités de soutien aux cultures",
+  "nom-folder": "Activites-de-soutien-aux-cultures",
+  "nom-machine": "terme-2015-12-06-16-24-17-86966223436",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Activités de soutien aux cultures"
+    ]
+  }
+}

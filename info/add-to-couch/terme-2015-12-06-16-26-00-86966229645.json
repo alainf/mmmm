@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229645",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-des-produits-agro-alimentaires/",
+  "description": "Description de Marketing des produits agro-alimentaires",
+  "enfants": [
+    "terme-2015-12-06-16-26-00-86966229648"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2060,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing des produits agro-alimentaires",
+  "nom-folder": "Marketing-des-produits-agro-alimentaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-00-86966229645"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agro-food marketing"
+    ],
+    "ar": [
+      "تسويق المنتجات الزراعية - الغذائية"
+    ],
+    "es": [
+      "Comercialización de productos agroalimentarios"
+    ],
+    "fr": [
+      "Marketing des produits agro-alimentaires"
+    ],
+    "it": [
+      "Commercializzazione di prodotti alimentari"
+    ]
+  }
+}

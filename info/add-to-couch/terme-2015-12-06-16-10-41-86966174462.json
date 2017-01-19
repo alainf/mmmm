@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-41-86966174462",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Bengali/",
+  "description": "Description de Bengali",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382376,
+  "ISO-639-1": "bn",
+  "ISO-639-2": "ben",
+  "ISO-639-3": "ben",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-41",
+  "moment-de-modification": "2016-02-04-03-34-20",
+  "nom": "Bengali",
+  "nom-folder": "Bengali",
+  "nom-machine": "terme-2015-12-06-16-10-41-86966174462",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Bengali",
+  "nomLangues": {
+    "en": [
+      "Bengali"
+    ],
+    "ar": [
+      " بنغالية"
+    ],
+    "es": [
+      "Bengalí"
+    ],
+    "fr": [
+      "Bengali"
+    ],
+    "it": [
+      "Bengali"
+    ],
+    "ru": [
+      "Бенгальский"
+    ]
+  }
+}

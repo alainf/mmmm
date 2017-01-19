@@ -1,0 +1,24 @@
+{
+  "_id": "terme-2016-02-29-04-43-39-87404341193",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/lieu-de-l-ecriture/lieu-de-la-narration/lieu-evenementiel/les-lieux-correspondant-aux-evenements/",
+  "description": "Description de Les lieux correspondant aux événements",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-43-39",
+  "moment-de-modification": "2016-03-06-02-05-24",
+  "nom": "Les lieux correspondant aux événements",
+  "nom-folder": "les-lieux-correspondant-aux-evenements",
+  "nom-machine": "terme-2016-02-29-04-43-39-87404341193",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The places corresponding to the  events"
+    ],
+    "fr": [
+      "Les lieux correspondant aux événements"
+    ]
+  }
+}

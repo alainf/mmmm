@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-43-58-87274742325",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Yi/",
+  "description": "Description de Yi",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ii",
+  "ISO-639-2": "iii",
+  "ISO-639-3": "iii",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-43-58",
+  "moment-de-modification": "2016-02-04-04-45-05",
+  "nom": "Yi",
+  "nom-folder": "Yi",
+  "nom-machine": "terme-2016-02-04-04-43-58-87274742325",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Yi_(langue)",
+  "nomLangues": {
+    "en": [
+      "Sichuan yi"
+    ],
+    "ar": [
+      "يي"
+    ],
+    "es": [
+      "Yi"
+    ],
+    "fr": [
+      "Yi"
+    ],
+    "it": [
+      "Yi"
+    ],
+    "ru": [
+      "Носу"
+    ]
+  }
+}

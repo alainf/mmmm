@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228271",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-du-changement-(gestion)/Gestionnaires-du-changement/",
+  "description": "Description de Gestionnaires du changement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2014,
+  "identifiant-drupal-parent": 2008,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestionnaires du changement",
+  "nom-folder": "Gestionnaires-du-changement",
+  "nom-machine": "terme-2015-12-06-16-25-37-86966228271",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Change managers"
+    ],
+    "ar": [
+      "مدراء التغيير"
+    ],
+    "es": [
+      "Gerentes de cambio"
+    ],
+    "fr": [
+      "Gestionnaires du changement"
+    ],
+    "it": [
+      "Gestori del cambiamento"
+    ]
+  }
+}

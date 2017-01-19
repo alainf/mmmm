@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224302",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/Techniques-de-l'elevage/",
+  "description": "Description de Techniques de l'élevage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269019,
+  "identifiant-drupal-parent": 269001,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Techniques de l'élevage",
+  "nom-folder": "Techniques-de-l'elevage",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-31-86966224302"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Techniques for breeding"
+    ],
+    "ar": [
+      "تقنيات تربية الحيوان"
+    ],
+    "es": [
+      "Técnicas de la cría de animales"
+    ],
+    "fr": [
+      "Techniques de l'élevage"
+    ],
+    "it": [
+      "Tecniche di allevamento"
+    ]
+  }
+}

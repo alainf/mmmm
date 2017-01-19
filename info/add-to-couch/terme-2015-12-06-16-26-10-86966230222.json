@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-10-86966230222",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-des-materiaux/Metallurgie/Amiante/",
+  "description": "Description de Amiante",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472136,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-10",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Amiante",
+  "nom-folder": "Amiante",
+  "nom-machine": "terme-2015-12-06-16-26-10-86966230222",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Asbestos"
+    ],
+    "ar": [
+      "أسبست"
+    ],
+    "es": [
+      "Asbesto"
+    ],
+    "fr": [
+      "Amiante"
+    ],
+    "it": [
+      "Asbesto"
+    ]
+  }
+}

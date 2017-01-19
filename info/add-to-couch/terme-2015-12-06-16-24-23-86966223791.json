@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223791",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Chimie-agricole/",
+  "description": "Description de Chimie agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 899,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Chimie agricole",
+  "nom-folder": "Chimie-agricole",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223791"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural chemistry"
+    ],
+    "ar": [
+      "كيمياء زراعية"
+    ],
+    "es": [
+      "Química Agrícola"
+    ],
+    "fr": [
+      "Chimie agricole"
+    ],
+    "it": [
+      "chimica agricola"
+    ]
+  }
+}

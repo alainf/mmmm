@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-54-86966232894",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Socialisme/Communisme/",
+  "description": "Description de Communisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1149,
+  "identifiant-drupal-parent": 1118,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-54",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Communisme",
+  "nom-folder": "Communisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-54-86966232894"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communism"
+    ],
+    "ar": [
+      "الشيوعية"
+    ],
+    "es": [
+      "Comunismo"
+    ],
+    "fr": [
+      "Communisme"
+    ],
+    "it": [
+      "comunismo"
+    ]
+  }
+}

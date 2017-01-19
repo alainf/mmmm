@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-04-86966222653",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Humanities/Languages-and-Literature/",
+  "description": "Description de Languages and literature",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369041,
+  "identifiant-drupal-parent": 369029,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-04",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Languages and literature",
+  "nom-folder": "Languages-and-Literature",
+  "nom-machine": "terme-2015-12-06-16-24-04-86966222653",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Languages and literature"
+    ]
+  }
+}

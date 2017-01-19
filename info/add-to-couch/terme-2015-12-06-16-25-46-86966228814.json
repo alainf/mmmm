@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228814",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Enjeux-de-la-gestion-des-ress-humaines/",
+  "description": "Description de Enjeux de la gestion des ressources humaines",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2115,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Enjeux de la gestion des ressources humaines",
+  "nom-folder": "Enjeux-de-la-gestion-des-ress-humaines",
+  "nom-machine": "terme-2015-12-06-16-25-46-86966228814",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Human resource management issues"
+    ],
+    "ar": [
+      "قضايا المتعلقة بإدارة الموارد البشرية"
+    ],
+    "es": [
+      "Cuestiones de gestión de recursos humanos"
+    ],
+    "fr": [
+      "Enjeux de la gestion des ressources humaines"
+    ],
+    "it": [
+      "Problemi di gestione delle risorse umane"
+    ]
+  }
+}

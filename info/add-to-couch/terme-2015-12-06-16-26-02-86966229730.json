@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229730",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Discours-publicitaire/",
+  "description": "Description de Discours publicitaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2093,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Discours publicitaire",
+  "nom-folder": "Discours-publicitaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-02-86966229730"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Advertising discourse"
+    ],
+    "ar": [
+      "خطابات إعلانية"
+    ],
+    "es": [
+      "Discurso publicitario"
+    ],
+    "fr": [
+      "Discours publicitaire"
+    ],
+    "it": [
+      "discorso pubblicitario"
+    ]
+  }
+}

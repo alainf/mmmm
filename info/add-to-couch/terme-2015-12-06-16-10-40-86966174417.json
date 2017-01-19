@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174417",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Afghan/",
+  "description": "Description de Afghan",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382375,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Afghan",
+  "nom-folder": "Afghan",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174417",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pashto"
+    ],
+    "ar": [
+      "بشتوية"
+    ],
+    "es": [
+      "Pastún"
+    ],
+    "fr": [
+      "Afghan"
+    ],
+    "it": [
+      "Pashtu"
+    ],
+    "ru": [
+      "Пушту"
+    ]
+  }
+}

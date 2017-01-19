@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-23-28-86966220519",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/roles/client-potentiel/",
+  "description": "Description de Client potentiel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-28",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Client potentiel",
+  "nom-folder": "client-potentiel",
+  "nom-machine": "terme-2015-12-06-16-23-28-86966220519",
+  "sous-type": "roles",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Potential client"
+    ],
+    "ar": [
+      "زبون محتمل"
+    ],
+    "es": [
+      "Cliente potencial"
+    ],
+    "fr": [
+      "Client potentiel"
+    ],
+    "it": [
+      "Cliente potenziale"
+    ]
+  }
+}

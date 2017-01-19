@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227408",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Organisations-economiques-regionales/zone-de-libre-echange/",
+  "description": "Description de Zone de libre-échange",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1816,
+  "identifiant-drupal-parent": 1812,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Zone de libre-échange",
+  "nom-folder": "zone-de-libre-echange",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-23-86966227408"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Free trade zone"
+    ],
+    "ar": [
+      "منطقة التجارة الحرة"
+    ],
+    "es": [
+      "Zona de libre comercio"
+    ],
+    "fr": [
+      "Zone de libre-échange"
+    ],
+    "it": [
+      "Zona di commercio libero"
+    ]
+  }
+}

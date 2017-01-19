@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228390",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/Transport-aerien-(fret)/",
+  "description": "Description de Transport aérien (fret)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272295,
+  "identifiant-drupal-parent": 2037,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Transport aérien (fret)",
+  "nom-folder": "Transport-aerien-(fret)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-39-86966228390"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cargo air transport"
+    ],
+    "ar": [
+      "النقل الجوي غير المجدولة"
+    ],
+    "es": [
+      "Transporte aéreo de carga"
+    ],
+    "fr": [
+      "Transport aérien (fret)"
+    ],
+    "it": [
+      "Trasporto aereo merci"
+    ]
+  }
+}

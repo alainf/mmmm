@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966226988",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Technologies-de-l'information-et-de-la-communication/Usage-solidaire-des-TIC/",
+  "description": "Description de Usage solidaire des TIC",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465758,
+  "identifiant-drupal-parent": 2166,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Usage solidaire des TIC",
+  "nom-folder": "Usage-solidaire-des-TIC",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-16-86966226988"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Interdependent use of communication and information technologies"
+    ],
+    "ar": [
+      "استخدام التضامن تكنولوجيا المعلومات والاتصالات"
+    ],
+    "es": [
+      "Uso solidario de las tecnologías de la información y de la comunicación"
+    ],
+    "fr": [
+      "Usage solidaire des TIC"
+    ],
+    "it": [
+      "uso solidale delle tecnologie dell'informazione e della comunicazione"
+    ]
+  }
+}

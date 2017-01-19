@@ -1,0 +1,27 @@
+{
+  "_id": "terme-2015-12-06-16-24-17-86966223441",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Agriculture-sylviculture-et-peche/Culture-et-prod-animale,-Chasse,-etc/",
+  "description": "Description de Culture et production animale, chasse et services annexes",
+  "enfants": [
+    "terme-2015-12-06-16-24-17-86966223444",
+    "terme-2015-12-06-16-24-17-86966223447",
+    "terme-2015-12-06-16-24-17-86966223450",
+    "terme-2015-12-06-16-24-17-86966223453"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-17",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Culture et production animale, chasse et services annexes",
+  "nom-folder": "Culture-et-prod-animale,-Chasse,-etc",
+  "nom-machine": "terme-2015-12-06-16-24-17-86966223441",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Culture et production animale, chasse et services annexes"
+    ]
+  }
+}

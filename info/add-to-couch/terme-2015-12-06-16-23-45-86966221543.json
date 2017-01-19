@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221543",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Associations-communautaires/",
+  "description": "Description de Associations communautaires",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1683,
+  "identifiant-drupal-parent": 1665,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Associations communautaires",
+  "nom-folder": "Associations-communautaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-45-86966221543"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Community associations"
+    ],
+    "ar": [
+      "الرابطات المجتمعية"
+    ],
+    "es": [
+      "Asociaciones comunitarias"
+    ],
+    "fr": [
+      "Associations communautaires"
+    ],
+    "it": [
+      "Associazioni di comunità"
+    ],
+    "ru": [
+      "общинных ассоциаций"
+    ]
+  }
+}

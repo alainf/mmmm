@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228114",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-connaissances/",
+  "description": "Description de Gestion des connaissances",
+  "enfants": [
+    "terme-2015-12-06-16-25-35-86966228117"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271404,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion des connaissances",
+  "nom-folder": "Gestion-des-connaissances",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-35-86966228114"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Knowledge Management"
+    ],
+    "ar": [
+      "إدارة المعارف"
+    ],
+    "es": [
+      "Gestión del conocimiento"
+    ],
+    "fr": [
+      "Gestion des connaissances"
+    ],
+    "it": [
+      "gestione della conoscenza"
+    ]
+  }
+}

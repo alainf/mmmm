@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229131",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Comptabilite-nationale-et-dev-durable/",
+  "description": "Description de Comptabilité nationale et développement durable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270967,
+  "identifiant-drupal-parent": 270940,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptabilité nationale et développement durable",
+  "nom-folder": "Comptabilite-nationale-et-dev-durable",
+  "nom-machine": "terme-2015-12-06-16-25-52-86966229131",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National Accounting and Sustainable Development"
+    ],
+    "ar": [
+      "محاسبة وطنية و تنمية مستدامة"
+    ],
+    "es": [
+      "Contabilidad Nacional y Desarrollo Sostenible"
+    ],
+    "fr": [
+      "Comptabilité nationale et développement durable"
+    ],
+    "it": [
+      "Contabilità nazionale e sviluppo sostenibile"
+    ]
+  }
+}

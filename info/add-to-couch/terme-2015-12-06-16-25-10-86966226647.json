@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226647",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Analyse-et-indexation/",
+  "description": "Description de Analyse et indexation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1559,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Analyse et indexation",
+  "nom-folder": "Analyse-et-indexation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-10-86966226647"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Analysis and indexing"
+    ],
+    "ar": [
+      "التحليل والفهرسة"
+    ],
+    "es": [
+      "Análisis e indexación"
+    ],
+    "fr": [
+      "Analyse et indexation"
+    ],
+    "it": [
+      "Analisi e indicizzazione"
+    ]
+  }
+}

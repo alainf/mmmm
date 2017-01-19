@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227184",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Marche-du-travail/Normes-du-travail/",
+  "description": "Description de Normes du travail",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472252,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Normes du travail",
+  "nom-folder": "Normes-du-travail",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227184"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Labor standards"
+    ],
+    "ar": [
+      "معايير العمل"
+    ],
+    "es": [
+      "Normas laborales"
+    ],
+    "fr": [
+      "Normes du travail"
+    ],
+    "it": [
+      "Norme di lavoro"
+    ]
+  }
+}

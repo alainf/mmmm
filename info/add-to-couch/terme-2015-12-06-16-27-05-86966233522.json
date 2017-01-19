@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233522",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Resistance-sociale-(sociologie)/",
+  "description": "Description de Résistance sociale (sociologie)",
+  "enfants": [
+    "terme-2015-12-06-16-27-05-86966233524"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471365,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Résistance sociale (sociologie)",
+  "nom-folder": "Resistance-sociale-(sociologie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-05-86966233522"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social resistance (sociology)"
+    ],
+    "ar": [
+      "المقاومة الاجتماعية-علم الاجتماع"
+    ],
+    "es": [
+      "Resistencia social (sociología)"
+    ],
+    "fr": [
+      "Résistance sociale (sociologie)"
+    ],
+    "it": [
+      "Resistenza sociale (sociologia)"
+    ]
+  }
+}

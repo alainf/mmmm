@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-50-86966225402",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-civil/Droit-des-biens/",
+  "description": "Description de Droit des biens",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269118,
+  "identifiant-drupal-parent": 269114,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-50",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit des biens",
+  "nom-folder": "Droit-des-biens",
+  "nom-machine": "terme-2015-12-06-16-24-50-86966225402",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Property law"
+    ],
+    "ar": [
+      "قانون الملكيات"
+    ],
+    "es": [
+      "Derechos reales"
+    ],
+    "fr": [
+      "Droit des biens"
+    ],
+    "it": [
+      "Diritto dei beni"
+    ]
+  }
+}

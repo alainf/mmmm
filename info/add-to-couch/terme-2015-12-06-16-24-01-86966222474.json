@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-01-86966222474",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Electrical-and-Electronic-Engineering/Antennas-and-Propagation/",
+  "description": "Description de Antennas and propagation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368979,
+  "identifiant-drupal-parent": 368977,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-24-01",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Antennas and propagation",
+  "nom-folder": "Antennas-and-Propagation",
+  "nom-machine": "terme-2015-12-06-16-24-01-86966222474",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Antennas and propagation"
+    ]
+  }
+}

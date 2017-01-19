@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227678",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/Gestion-des-stocks/Production-sur-stock/",
+  "description": "Description de Production sur stock",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1864,
+  "identifiant-drupal-parent": 1857,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Production sur stock",
+  "nom-folder": "Production-sur-stock",
+  "nom-machine": "terme-2015-12-06-16-25-27-86966227678",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Build to stock"
+    ],
+    "ar": [
+      "الإنتاج ضد المخزون"
+    ],
+    "es": [
+      "Producción para inventario"
+    ],
+    "fr": [
+      "Production sur stock"
+    ],
+    "it": [
+      "Produzione per il magazzino"
+    ]
+  }
+}

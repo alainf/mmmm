@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-18-86966223533",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Elevage-de-vaches-laitieres/",
+  "description": "Description de Élevage de vaches laitières",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-18",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Élevage de vaches laitières",
+  "nom-folder": "Elevage-de-vaches-laitieres",
+  "nom-machine": "terme-2015-12-06-16-24-18-86966223533",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Élevage de vaches laitières"
+    ]
+  }
+}

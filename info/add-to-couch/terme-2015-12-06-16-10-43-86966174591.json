@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-43-86966174591",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Inuktitut/",
+  "description": "Description de Inuktitut",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317615,
+  "ISO-639-1": "iu",
+  "ISO-639-2": "iku",
+  "ISO-639-3": "iku",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-43",
+  "moment-de-modification": "2016-02-04-04-51-28",
+  "nom": "Inuktitut",
+  "nom-folder": "Inuktitut",
+  "nom-machine": "terme-2015-12-06-16-10-43-86966174591",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Inuktitut",
+  "nomLangues": {
+    "en": [
+      "Inuktitut"
+    ],
+    "ar": [
+      "إنكتيتوتية"
+    ],
+    "es": [
+      "Inuktitut"
+    ],
+    "fr": [
+      "Inuktitut"
+    ],
+    "it": [
+      "Inuktitut"
+    ],
+    "ru": [
+      "Инуктитут"
+    ]
+  }
+}

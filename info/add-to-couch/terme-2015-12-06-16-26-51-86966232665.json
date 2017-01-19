@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-51-86966232665",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Actualites-politiques/Printemps-arabe/",
+  "description": "Description de Printemps arabe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472034,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-51",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Printemps arabe",
+  "nom-folder": "Printemps-arabe",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-51-86966232665"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arab Spring"
+    ],
+    "ar": [
+      "الربيع العربي"
+    ],
+    "es": [
+      "Primavera árabe"
+    ],
+    "fr": [
+      "Printemps arabe"
+    ],
+    "it": [
+      "primavera araba"
+    ]
+  }
+}

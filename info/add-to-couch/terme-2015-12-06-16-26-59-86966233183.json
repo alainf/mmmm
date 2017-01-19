@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233183",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-sociales-critiques/Psychanalyse-du-discours/",
+  "description": "Description de Psychanalyse du discours",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472176,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Psychanalyse du discours",
+  "nom-folder": "Psychanalyse-du-discours",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233183"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Psychoanalysis of discourse"
+    ],
+    "ar": [
+      "التحليل النفسي للخطاب"
+    ],
+    "es": [
+      "Psicoanálisis del discurso"
+    ],
+    "fr": [
+      "Psychanalyse du discours"
+    ],
+    "it": [
+      "psicoanalisi del discorso"
+    ]
+  }
+}

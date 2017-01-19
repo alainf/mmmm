@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227300",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-materiel,-fournitures-photographiques/",
+  "description": "Description de Commerce de gros de matériel et fournitures photographiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451123,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros de matériel et fournitures photographiques",
+  "nom-folder": "C-de-g-materiel,-fournitures-photographiques",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227300",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of photographic equipment and supplies"
+    ],
+    "ar": [
+      "تجارة بالجملة في معدات التصوير واللوازم"
+    ],
+    "es": [
+      "Comercio mayorista de equipos fotográficos y suministros"
+    ],
+    "fr": [
+      "Commerce de gros de matériel et fournitures photographiques"
+    ],
+    "it": [
+      "Commercio all'ingrosso di forniture e attrezzature fotografiche"
+    ]
+  }
+}

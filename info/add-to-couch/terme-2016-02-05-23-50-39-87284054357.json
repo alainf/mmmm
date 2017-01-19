@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2016-02-05-23-50-39-87284054357",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/Chapitre-de-livre/",
+  "description": "Description de Chapitre de livre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2016-02-05-23-50-39",
+  "moment-de-modification": "2016-02-05-23-55-26",
+  "nom": "Chapitre de livre",
+  "nom-folder": "chapitre-de-livre",
+  "nom-machine": "terme-2016-02-05-23-50-39-87284054357",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Book chapter"
+    ],
+    "ar": [
+      "(كتب) باب"
+    ],
+    "es": [
+      "Capítulo de libro"
+    ],
+    "fr": [
+      "Chapitre de livre"
+    ],
+    "it": [
+      "Capitolo di libro"
+    ]
+  }
+}

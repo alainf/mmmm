@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229707",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Agences-publicitaires/",
+  "description": "Description de Agences publicitaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2085,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Agences publicitaires",
+  "nom-folder": "Agences-publicitaires",
+  "nom-machine": "terme-2015-12-06-16-26-01-86966229707",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Advertising agencies"
+    ],
+    "ar": [
+      "وكالات الإعلان"
+    ],
+    "es": [
+      "Agencias de publicidad"
+    ],
+    "fr": [
+      "Agences publicitaires"
+    ],
+    "it": [
+      "Agenzie di pubblicità"
+    ]
+  }
+}

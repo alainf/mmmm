@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-57-86966222265",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Computer-and-Infomation-Science/Systems-and-Control-Theory/",
+  "description": "Description de Systems and control theory",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368909,
+  "identifiant-drupal-parent": 368888,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-23-57",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Systems and control theory",
+  "nom-folder": "Systems-and-Control-Theory",
+  "nom-machine": "terme-2015-12-06-16-23-57-86966222265",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Systems and control theory"
+    ]
+  }
+}

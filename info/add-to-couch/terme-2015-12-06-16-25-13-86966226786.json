@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226786",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Critique-des-medias/Manipulation-de-l'information/",
+  "description": "Description de Manipulation de l'information",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471927,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Manipulation de l'information",
+  "nom-folder": "Manipulation-de-l'information",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226786"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Manipulation of information"
+    ],
+    "ar": [
+      "التلاعب بالمعلومات"
+    ],
+    "es": [
+      "Manipulación de la información"
+    ],
+    "fr": [
+      "Manipulation de l'information"
+    ],
+    "it": [
+      "Manipolazione delle informazioni"
+    ]
+  }
+}

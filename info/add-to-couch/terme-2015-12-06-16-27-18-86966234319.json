@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234319",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/musee/",
+  "description": "Description de Musée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369396,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Musée",
+  "nom-folder": "musee",
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234319",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Museum"
+    ],
+    "es": [
+      "Museo"
+    ],
+    "fr": [
+      "Musée"
+    ],
+    "it": [
+      "Museo"
+    ]
+  }
+}

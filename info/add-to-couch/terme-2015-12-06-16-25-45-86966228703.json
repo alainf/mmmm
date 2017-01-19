@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-45-86966228703",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Veille-strategique/Veille-societale/",
+  "description": "Description de Veille sociétale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469925,
+  "identifiant-drupal-parent": 2168,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-45",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Veille sociétale",
+  "nom-folder": "Veille-societale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-45-86966228703"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Societal monitoring"
+    ],
+    "ar": [
+      "الاجتماعية"
+    ],
+    "es": [
+      "Vigilia societal"
+    ],
+    "fr": [
+      "Veille sociétale"
+    ],
+    "it": [
+      "Monitoraggio delle società"
+    ]
+  }
+}

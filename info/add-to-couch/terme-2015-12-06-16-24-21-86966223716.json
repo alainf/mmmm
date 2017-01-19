@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-21-86966223716",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Social-Science-Humanities/Management-Organization-Studies/",
+  "description": "Description de Études organisationnelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368192,
+  "identifiant-drupal-parent": 368147,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-21",
+  "moment-de-modification": "2015-01-04-02-27-32",
+  "nom": "Études organisationnelles",
+  "nom-folder": "Management-Organization-Studies",
+  "nom-machine": "terme-2015-12-06-16-24-21-86966223716",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management organization studies"
+    ],
+    "fr": [
+      "Études organisationnelles"
+    ]
+  }
+}

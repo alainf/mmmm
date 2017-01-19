@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220719",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industrie-nucleaire/",
+  "description": "Description de Industrie nucléaire",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270579,
+  "identifiant-drupal-parent": 270556,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Industrie nucléaire",
+  "nom-folder": "Industrie-nucleaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220719"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Nuclear industry"
+    ],
+    "ar": [
+      "الصناعة النووية"
+    ],
+    "es": [
+      "Industria nuclear"
+    ],
+    "fr": [
+      "Industrie nucléaire"
+    ],
+    "it": [
+      "Industria nucleare"
+    ]
+  }
+}

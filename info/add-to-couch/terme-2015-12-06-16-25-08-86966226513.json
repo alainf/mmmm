@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226513",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ecologie/",
+  "description": "Description de Écologie",
+  "enfants": [
+    "terme-2015-12-06-16-25-08-86966226517",
+    "terme-2015-12-06-16-25-08-86966226526",
+    "terme-2015-12-06-16-25-08-86966226537",
+    "terme-2015-12-06-16-25-09-86966226540"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270869,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Écologie",
+  "nom-folder": "Ecologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226513"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecology"
+    ],
+    "ar": [
+      "علم البيئة"
+    ],
+    "es": [
+      "Ecología"
+    ],
+    "fr": [
+      "Écologie"
+    ],
+    "it": [
+      "Ecologia"
+    ]
+  }
+}

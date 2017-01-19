@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-26-18-86966230688",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astronomie/",
+  "description": "Description de Astronomie",
+  "enfants": [
+    "terme-2015-12-06-16-26-18-86966230691",
+    "terme-2015-12-06-16-26-18-86966230694",
+    "terme-2015-12-06-16-26-18-86966230697",
+    "terme-2015-12-06-16-26-18-86966230699",
+    "terme-2015-12-06-16-26-18-86966230702",
+    "terme-2015-12-06-16-26-18-86966230705",
+    "terme-2015-12-06-16-26-18-86966230707",
+    "terme-2015-12-06-16-26-18-86966230710",
+    "terme-2015-12-06-16-26-18-86966230713",
+    "terme-2015-12-06-16-26-18-86966230716",
+    "terme-2015-12-06-16-26-18-86966230719",
+    "terme-2015-12-06-16-26-18-86966230722",
+    "terme-2015-12-06-16-26-18-86966230725"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270765,
+  "identifiant-drupal-parent": 270764,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-18",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Astronomie",
+  "nom-folder": "Astronomie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-18-86966230688"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Astronomy"
+    ],
+    "ar": [
+      "علم الفلك"
+    ],
+    "es": [
+      "Astronomía"
+    ],
+    "fr": [
+      "Astronomie"
+    ],
+    "it": [
+      "astronomia"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221337",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Agenda/Agenda-scientifique/",
+  "description": "Description de Agenda scientifique",
+  "enfants": [
+    "terme-2015-12-06-16-23-42-86966221340",
+    "terme-2015-12-06-16-23-42-86966221343",
+    "terme-2015-12-06-16-23-42-86966221346"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1705,
+  "identifiant-drupal-parent": 1670,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Agenda scientifique",
+  "nom-folder": "Agenda-scientifique",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221337"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scientific agenda"
+    ],
+    "ar": [
+      "جدول الأعمال العلمية"
+    ],
+    "es": [
+      "Agenda científico"
+    ],
+    "fr": [
+      "Agenda scientifique"
+    ],
+    "it": [
+      "Agenda scientifica"
+    ]
+  }
+}

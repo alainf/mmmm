@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-23-28-86966220531",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/roles/developpeur/developpeur-Drupal/",
+  "description": "Description de Developpeur drupal",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-28",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Developpeur drupal",
+  "nom-folder": "developpeur-Drupal",
+  "nom-machine": "terme-2015-12-06-16-23-28-86966220531",
+  "sous-type": "roles",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Drupal developer"
+    ],
+    "ar": [
+      "دروبال المطور"
+    ],
+    "es": [
+      "Desarrollador drupal"
+    ],
+    "fr": [
+      "Developpeur drupal"
+    ],
+    "it": [
+      "Sviluppatore drupal"
+    ]
+  }
+}

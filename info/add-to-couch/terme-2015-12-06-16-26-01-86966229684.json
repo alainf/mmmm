@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229684",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-medical/",
+  "description": "Description de Marketing médical",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451001,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing médical",
+  "nom-folder": "Marketing-medical",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229684"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medical marketing"
+    ],
+    "ar": [
+      "التسويق الطبي"
+    ],
+    "es": [
+      "Mercadotecnia médica"
+    ],
+    "fr": [
+      "Marketing médical"
+    ],
+    "it": [
+      "Mercatistica medicale"
+    ]
+  }
+}

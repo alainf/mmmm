@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233449",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Culture-en-sociologie/Socialisation-culturelle/",
+  "description": "Description de Socialisation culturelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272211,
+  "identifiant-drupal-parent": 1252,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Socialisation culturelle",
+  "nom-folder": "Socialisation-culturelle",
+  "nom-machine": "terme-2015-12-06-16-27-04-86966233449",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural socialization"
+    ],
+    "ar": [
+      "التنشئة الاجتماعية الثقافية"
+    ],
+    "es": [
+      "Socialización Cultural"
+    ],
+    "fr": [
+      "Socialisation culturelle"
+    ],
+    "it": [
+      "Socializzazione culturale"
+    ]
+  }
+}

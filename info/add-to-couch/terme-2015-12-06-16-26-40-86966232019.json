@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-40-86966232019",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-culturelle/Mythe/",
+  "description": "Description de Mythe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451253,
+  "identifiant-drupal-parent": 1010,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-40",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Mythe",
+  "nom-folder": "Mythe",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-40-86966232019"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Myth"
+    ],
+    "ar": [
+      "اسطورة"
+    ],
+    "es": [
+      "Mito"
+    ],
+    "fr": [
+      "Mythe"
+    ],
+    "it": [
+      "mito"
+    ]
+  }
+}

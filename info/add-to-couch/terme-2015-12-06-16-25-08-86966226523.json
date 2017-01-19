@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226523",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ecologie/Desastres-ecologiques/Maree-noire/",
+  "description": "Description de Marée noire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272418,
+  "identifiant-drupal-parent": 272416,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Marée noire",
+  "nom-folder": "Maree-noire",
+  "nom-machine": "terme-2015-12-06-16-25-08-86966226523",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oil slick"
+    ],
+    "ar": [
+      "تسرب نفطي"
+    ],
+    "es": [
+      "Derrame de petróleo"
+    ],
+    "fr": [
+      "Marée noire"
+    ],
+    "it": [
+      "Chiazza di petrolio"
+    ]
+  }
+}

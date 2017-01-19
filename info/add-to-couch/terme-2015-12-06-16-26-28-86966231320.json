@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-28-86966231320",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Processus-medical/Physiopathologie/",
+  "description": "Description de Physiopathologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1407,
+  "identifiant-drupal-parent": 1402,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-28",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Physiopathologie",
+  "nom-folder": "Physiopathologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-28-86966231320"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pathophysiology"
+    ],
+    "ar": [
+      "فزيولوجيا مرضية"
+    ],
+    "es": [
+      "Fisiopatología"
+    ],
+    "fr": [
+      "Physiopathologie"
+    ],
+    "it": [
+      "fisiopatologia"
+    ]
+  }
+}

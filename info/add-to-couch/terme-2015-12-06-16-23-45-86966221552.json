@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221552",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Contre-culture/",
+  "description": "Description de Contre-culture",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270628,
+  "identifiant-drupal-parent": 1665,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Contre-culture",
+  "nom-folder": "Contre-culture",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-45-86966221552"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Counterculture"
+    ],
+    "ar": [
+      "ثقافة مضادة"
+    ],
+    "es": [
+      "Contracultura"
+    ],
+    "fr": [
+      "Contre-culture"
+    ],
+    "it": [
+      "Controcultura"
+    ]
+  }
+}

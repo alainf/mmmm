@@ -1,0 +1,60 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232735",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/",
+  "description": "Description de Idéologies politiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-52-86966232738",
+    "terme-2015-12-06-16-26-52-86966232741",
+    "terme-2015-12-06-16-26-52-86966232761",
+    "terme-2015-12-06-16-26-52-86966232764",
+    "terme-2015-12-06-16-26-52-86966232767",
+    "terme-2015-12-06-16-26-52-86966232769",
+    "terme-2015-12-06-16-26-52-86966232772",
+    "terme-2015-12-06-16-26-52-86966232776",
+    "terme-2015-12-06-16-26-53-86966232792",
+    "terme-2015-12-06-16-26-53-86966232807",
+    "terme-2015-12-06-16-26-53-86966232810",
+    "terme-2015-12-06-16-26-53-86966232813",
+    "terme-2015-12-06-16-26-53-86966232816",
+    "terme-2015-12-06-16-26-53-86966232818",
+    "terme-2015-12-06-16-26-53-86966232836",
+    "terme-2015-12-06-16-26-54-86966232840",
+    "terme-2015-12-06-16-26-54-86966232880",
+    "terme-2015-12-06-16-26-54-86966232882",
+    "terme-2015-12-06-16-26-54-86966232885",
+    "terme-2015-12-06-16-26-54-86966232888",
+    "terme-2015-12-06-16-26-55-86966232923"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1105,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Idéologies politiques",
+  "nom-folder": "Ideologies-politiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232735"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political Ideologies"
+    ],
+    "ar": [
+      "إيديولوجيات السياسية"
+    ],
+    "es": [
+      "Ideologías políticas"
+    ],
+    "fr": [
+      "Idéologies politiques"
+    ],
+    "it": [
+      "Ideologie politiche"
+    ]
+  }
+}

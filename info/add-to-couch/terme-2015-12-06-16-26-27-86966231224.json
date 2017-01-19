@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231224",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-des-religions-(histoire)/",
+  "description": "Description de Histoire des religions (histoire)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 985,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire des religions (histoire)",
+  "nom-folder": "Histoire-des-religions-(histoire)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-27-86966231224"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of religions (history)"
+    ],
+    "ar": [
+      "تاريخ الأديان (التاريخ)"
+    ],
+    "es": [
+      "Historia de las religiones (historia)"
+    ],
+    "fr": [
+      "Histoire des religions (histoire)"
+    ],
+    "it": [
+      "Storia delle religioni (storia)"
+    ]
+  }
+}

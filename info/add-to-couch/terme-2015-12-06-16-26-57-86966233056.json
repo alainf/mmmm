@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233056",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Politique-culturelle/",
+  "description": "Description de Politique culturelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472318,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Politique culturelle",
+  "nom-folder": "Politique-culturelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-57-86966233056"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural policy"
+    ],
+    "ar": [
+      "السياسة الثقافية"
+    ],
+    "es": [
+      "Política cultural"
+    ],
+    "fr": [
+      "Politique culturelle"
+    ],
+    "it": [
+      "politica culturale"
+    ]
+  }
+}

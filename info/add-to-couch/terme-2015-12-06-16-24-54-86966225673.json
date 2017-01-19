@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225673",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Couts-environnementaux/",
+  "custom-about": "terme-2015-12-06-16-24-54-86966225673",
+  "description": "Description de Coûts environnementaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472134,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-12-13-20-35-52",
+  "nom": "Coûts environnementaux",
+  "nom-folder": "Couts-environnementaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225673"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environmental costs"
+    ],
+    "ar": [
+      "تكاليف بيئية"
+    ],
+    "es": [
+      "Costos ambientales"
+    ],
+    "fr": [
+      "Coûts environnementaux"
+    ],
+    "it": [
+      "Costi ambientali"
+    ]
+  }
+}

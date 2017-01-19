@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-21-86966234471",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/image/",
+  "description": "Description de Image",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317558,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-21",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Image",
+  "nom-folder": "image",
+  "nom-machine": "terme-2015-12-06-16-27-21-86966234471",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Image"
+    ],
+    "es": [
+      "Imagen"
+    ],
+    "fr": [
+      "Image"
+    ],
+    "it": [
+      "Immagine"
+    ]
+  }
+}

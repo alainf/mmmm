@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-54-86966232854",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Nationalisme/Independantisme/",
+  "description": "Description de Indépendantisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1139,
+  "identifiant-drupal-parent": 1117,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Indépendantisme",
+  "nom-folder": "Independantisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-54-86966232854"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Separatism"
+    ],
+    "ar": [
+      "إنفصالية"
+    ],
+    "es": [
+      "Separatismo"
+    ],
+    "fr": [
+      "Indépendantisme"
+    ],
+    "it": [
+      "Indipendentismo"
+    ]
+  }
+}

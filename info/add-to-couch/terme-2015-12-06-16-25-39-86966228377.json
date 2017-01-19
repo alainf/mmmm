@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228377",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/",
+  "description": "Description de Logistique",
+  "enfants": [
+    "terme-2015-12-06-16-25-39-86966228381",
+    "terme-2015-12-06-16-25-39-86966228384",
+    "terme-2015-12-06-16-25-39-86966228387",
+    "terme-2015-12-06-16-25-40-86966228428",
+    "terme-2015-12-06-16-25-40-86966228446",
+    "terme-2015-12-06-16-25-40-86966228450",
+    "terme-2015-12-06-16-25-40-86966228452"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2035,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Logistique",
+  "nom-folder": "Logistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-39-86966228377"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Logistics"
+    ],
+    "ar": [
+      "لوجستية"
+    ],
+    "es": [
+      "Logística"
+    ],
+    "fr": [
+      "Logistique"
+    ],
+    "it": [
+      "logistica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-42-86966224966",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litterature-byzantine/",
+  "description": "Description de Littérature byzantine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466956,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-42",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littérature byzantine",
+  "nom-folder": "Litterature-byzantine",
+  "nom-machine": "terme-2015-12-06-16-24-42-86966224966",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Byzantine literature"
+    ],
+    "ar": [
+      "أدب البيزنطي"
+    ],
+    "es": [
+      "Literatura bizantina"
+    ],
+    "fr": [
+      "Littérature byzantine"
+    ],
+    "it": [
+      "Letteratura bizantina"
+    ]
+  }
+}

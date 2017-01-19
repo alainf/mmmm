@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233086",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-internationale/Accords-de-paix/",
+  "description": "Description de Accords de paix",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472096,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Accords de paix",
+  "nom-folder": "Accords-de-paix",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-58-86966233086"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Peace agreements"
+    ],
+    "ar": [
+      "اتفاقيَات السَّلام"
+    ],
+    "es": [
+      "Acuerdos de paz"
+    ],
+    "fr": [
+      "Accords de paix"
+    ],
+    "it": [
+      "accordi di pace"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-04-86966229848",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Conception-de-materiel/",
+  "description": "Description de Conception de matériel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272249,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Conception de matériel",
+  "nom-folder": "Conception-de-materiel",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-04-86966229848"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Hardware design"
+    ],
+    "ar": [
+      "تصميم المعدات"
+    ],
+    "es": [
+      "Diseño de equipo"
+    ],
+    "fr": [
+      "Conception de matériel"
+    ],
+    "it": [
+      "Progettazione di strumenti"
+    ]
+  }
+}

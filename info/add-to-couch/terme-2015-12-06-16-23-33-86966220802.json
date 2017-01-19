@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220802",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/L'entreprise-et-la-democratie/",
+  "description": "Description de L'entreprise et la démocratie",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270481,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "L'entreprise et la démocratie",
+  "nom-folder": "L'entreprise-et-la-democratie",
+  "nom-machine": "terme-2015-12-06-16-23-33-86966220802",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The enterprise and democracy"
+    ],
+    "ar": [
+      "المؤسسة والديمقراطية"
+    ],
+    "es": [
+      "La empresa y la democracia"
+    ],
+    "fr": [
+      "L'entreprise et la démocratie"
+    ],
+    "it": [
+      "L'impresa e la democrazia"
+    ],
+    "ru": [
+      "Предприятие и демократия"
+    ]
+  }
+}

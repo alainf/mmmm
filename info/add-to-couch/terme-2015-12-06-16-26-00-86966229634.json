@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229634",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing,-contexte-economique,-sociopolitique/",
+  "description": "Description de Marketing et contexte économique et sociopolitique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2067,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing et contexte économique et sociopolitique",
+  "nom-folder": "Marketing,-contexte-economique,-sociopolitique",
+  "nom-machine": "terme-2015-12-06-16-26-00-86966229634",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Marketing and economic and socio-political context"
+    ],
+    "ar": [
+      "التسويق و السياق الإقتصادي و الإجتماعية-السياسية"
+    ],
+    "es": [
+      "Marketing y contexto económico y socio-político"
+    ],
+    "fr": [
+      "Marketing et contexte économique et sociopolitique"
+    ],
+    "it": [
+      "Marketing, contesto economico e socio-politico"
+    ]
+  }
+}

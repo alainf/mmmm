@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226247",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/Terminologie/",
+  "description": "Description de Terminologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451414,
+  "identifiant-drupal-parent": 270393,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Terminologie",
+  "nom-folder": "Terminologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226247"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Terminology"
+    ],
+    "ar": [
+      "اصطلاح"
+    ],
+    "es": [
+      "Terminología"
+    ],
+    "fr": [
+      "Terminologie"
+    ],
+    "it": [
+      "terminologia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229520",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Culture-organisationnelle/Reconnaissance-et-vie-ethique/",
+  "description": "Description de Reconnaissance et vie éthique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472187,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Reconnaissance et vie éthique",
+  "nom-folder": "Reconnaissance-et-vie-ethique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229520"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Recognition and ethical life"
+    ],
+    "ar": [
+      "الاعتراف والحياة الأخلاقية"
+    ],
+    "es": [
+      "Reconocimiento y vida ética"
+    ],
+    "fr": [
+      "Reconnaissance et vie éthique"
+    ],
+    "it": [
+      "Riconoscimento e vita etica"
+    ]
+  }
+}

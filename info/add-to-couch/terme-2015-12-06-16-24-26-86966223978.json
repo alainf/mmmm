@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966223978",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Pisciculture/",
+  "description": "Description de Pisciculture",
+  "enfants": [
+    "terme-2015-12-06-16-24-26-86966223981",
+    "terme-2015-12-06-16-24-26-86966223984",
+    "terme-2015-12-06-16-24-26-86966223987",
+    "terme-2015-12-06-16-24-26-86966223990"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 934,
+  "identifiant-drupal-parent": 924,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Pisciculture",
+  "nom-folder": "Pisciculture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-26-86966223978"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fish farming"
+    ],
+    "ar": [
+      "مزرعة سمكية"
+    ],
+    "es": [
+      "Piscicultura"
+    ],
+    "fr": [
+      "Pisciculture"
+    ],
+    "it": [
+      "Itticoltura"
+    ]
+  }
+}

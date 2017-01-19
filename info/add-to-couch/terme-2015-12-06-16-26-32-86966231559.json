@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-32-86966231559",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-de-la-biologie/",
+  "description": "Description de Philosophie de la biologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455603,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-32",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie de la biologie",
+  "nom-folder": "Philosophie-de-la-biologie",
+  "nom-machine": "terme-2015-12-06-16-26-32-86966231559",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of biology"
+    ],
+    "ar": [
+      "فلسفة علم الأحياء"
+    ],
+    "es": [
+      "Filosofía de la biología"
+    ],
+    "fr": [
+      "Philosophie de la biologie"
+    ],
+    "it": [
+      "Filosofia della biologia"
+    ]
+  }
+}

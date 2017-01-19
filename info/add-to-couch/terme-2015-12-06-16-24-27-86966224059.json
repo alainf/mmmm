@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224059",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Entretien-botanique/",
+  "description": "Description de Entretien botanique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268988,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Entretien botanique",
+  "nom-folder": "Entretien-botanique",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224059",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Botanical maintenance"
+    ],
+    "ar": [
+      "صيانة النباتية"
+    ],
+    "es": [
+      "Mantenimiento botánico"
+    ],
+    "fr": [
+      "Entretien botanique"
+    ],
+    "it": [
+      "Manutenzione botanica"
+    ]
+  }
+}

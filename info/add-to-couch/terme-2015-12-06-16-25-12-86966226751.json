@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226751",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-marketing/Consommation,-commercialisation-et-publicite/",
+  "description": "Description de Consommation, commercialisation et publicité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455645,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Consommation, commercialisation et publicité",
+  "nom-folder": "Consommation,-commercialisation-et-publicite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226751"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Consuming, merchandising and advertising"
+    ],
+    "ar": [
+      "استهلاك، تسليع و إشهار"
+    ],
+    "es": [
+      "Consumo, mercantilización y publicidad"
+    ],
+    "fr": [
+      "Consommation, commercialisation et publicité"
+    ],
+    "it": [
+      "Consumo, commercializzazione e pubblicità"
+    ]
+  }
+}

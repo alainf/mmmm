@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227268",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-d'articles-de-toilette/",
+  "description": "Commerce de gros d'articles de toilette",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451128,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros d’articles de toilette",
+  "nom-folder": "C-de-g-d'articles-de-toilette",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227268",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of toiletries"
+    ],
+    "ar": [
+      "تجارة بالجملة لمواد العناية الشخصية"
+    ],
+    "es": [
+      "Comercio mayorista de artículos de cuidado personal"
+    ],
+    "fr": [
+      "Commerce de gros d’articles de toilette"
+    ],
+    "it": [
+      "Commercio all'ingrosso di articoli di toiletteria"
+    ]
+  }
+}

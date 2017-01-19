@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-50-86966221856",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Geociencias.-Medio-ambiente/Generalidades/",
+  "description": "Description de Generalidades",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380854,
+  "identifiant-drupal-parent": 380836,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-50",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Generalidades",
+  "nom-folder": "Generalidades",
+  "nom-machine": "terme-2015-12-06-16-23-50-86966221856",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Generalidades"
+    ]
+  }
+}

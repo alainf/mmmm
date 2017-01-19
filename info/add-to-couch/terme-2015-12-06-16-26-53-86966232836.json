@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232836",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/National-anarchisme/",
+  "description": "Description de National-anarchisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1116,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "National-anarchisme",
+  "nom-folder": "National-anarchisme",
+  "nom-machine": "terme-2015-12-06-16-26-53-86966232836",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National-anarchism"
+    ],
+    "ar": [
+      "الوطنية-الأناركية"
+    ],
+    "es": [
+      "Nacional - Anarquismo"
+    ],
+    "fr": [
+      "National-anarchisme"
+    ],
+    "it": [
+      "Nazional-anarchismo"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-42-86966228572",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-des-petites-et-moyennes-industries/",
+  "description": "Description de Gestion des petites et moyennes industries",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2195,
+  "identifiant-drupal-parent": 2189,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-42",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des petites et moyennes industries",
+  "nom-folder": "Gestion-des-petites-et-moyennes-industries",
+  "nom-machine": "terme-2015-12-06-16-25-42-86966228572",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Small and Medium-size Industries Management"
+    ],
+    "ar": [
+      "إدارة الصناعات الصغيرة والمتوسطة"
+    ],
+    "es": [
+      "Gestión de las pequeñas y medianas industrias"
+    ],
+    "fr": [
+      "Gestion des petites et moyennes industries"
+    ],
+    "it": [
+      "Gestione di piccole e medie industrie"
+    ]
+  }
+}

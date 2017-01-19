@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228475",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Transport-et-entreposage/Veloroutes/",
+  "description": "Description de Véloroutes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272371,
+  "identifiant-drupal-parent": 272266,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Véloroutes",
+  "nom-folder": "Veloroutes",
+  "nom-machine": "terme-2015-12-06-16-25-41-86966228475",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bikeway"
+    ],
+    "ar": [
+      "مسار للدراجات الهوائية"
+    ],
+    "es": [
+      "Ciclovías"
+    ],
+    "fr": [
+      "Véloroutes"
+    ],
+    "it": [
+      "Ciclopista"
+    ]
+  }
+}

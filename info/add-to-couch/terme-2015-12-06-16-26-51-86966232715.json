@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-51-86966232715",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Construction-d'espaces-politiques-supra-nationaux/",
+  "description": "Construction d'espaces politiques supra-nationaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472237,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-51",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Construction d’espaces politiques supra-nationaux",
+  "nom-folder": "Construction-d'espaces-politiques-supra-nationaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-51-86966232715"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Building supra-national political spaces"
+    ],
+    "ar": [
+      "بناء مساحات السياسية فوق وطنية"
+    ],
+    "es": [
+      "Construcción de espacios políticos supranacionales"
+    ],
+    "fr": [
+      "Construction d’espaces politiques supra-nationaux"
+    ],
+    "it": [
+      "Costruzione di spazi politici sovranazionali"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-50-86966225411",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-civil/Droit-des-successions/",
+  "description": "Description de Droit des successions",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269119,
+  "identifiant-drupal-parent": 269114,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-50",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit des successions",
+  "nom-folder": "Droit-des-successions",
+  "nom-machine": "terme-2015-12-06-16-24-50-86966225411",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Succession Law"
+    ],
+    "ar": [
+      "قانون الخلافات"
+    ],
+    "es": [
+      "Derecho de sucesiones"
+    ],
+    "fr": [
+      "Droit des successions"
+    ],
+    "it": [
+      "Diritto di successione"
+    ]
+  }
+}

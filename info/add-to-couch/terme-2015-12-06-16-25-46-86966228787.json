@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228787",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Methodes-de-recherche-en-comportement-organisationnel/",
+  "description": "Description de Méthodes de recherche en comportement organisationnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2176,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Méthodes de recherche en comportement organisationnel",
+  "nom-folder": "Methodes-de-recherche-en-comportement-organisationnel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-46-86966228787"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research methods in organizational behavior"
+    ],
+    "ar": [
+      "مناهج البحث في السلوك التنظيمي"
+    ],
+    "es": [
+      "Métodos de Investigación en Comportamiento Organizacional"
+    ],
+    "fr": [
+      "Méthodes de recherche en comportement organisationnel"
+    ],
+    "it": [
+      "Metodi di investigazione nel comportamento organizzativo"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232219",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Rites/",
+  "description": "Description de Rites",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1031,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Rites",
+  "nom-folder": "Rites",
+  "nom-machine": "terme-2015-12-06-16-26-43-86966232219",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rites"
+    ],
+    "ar": [
+      "الطقوس"
+    ],
+    "es": [
+      "Ritos"
+    ],
+    "fr": [
+      "Rites"
+    ],
+    "it": [
+      "Riti"
+    ]
+  }
+}

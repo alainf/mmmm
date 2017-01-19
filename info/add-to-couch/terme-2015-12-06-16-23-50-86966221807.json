@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-23-50-86966221807",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Economia-y-empresa/",
+  "description": "Description de Economia y empresa",
+  "enfants": [
+    "terme-2015-12-06-16-23-50-86966221810",
+    "terme-2015-12-06-16-23-50-86966221813",
+    "terme-2015-12-06-16-23-50-86966221816",
+    "terme-2015-12-06-16-23-50-86966221819",
+    "terme-2015-12-06-16-23-50-86966221822",
+    "terme-2015-12-06-16-23-50-86966221825"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380841,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-50",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Economia y empresa",
+  "nom-folder": "Economia-y-empresa",
+  "nom-machine": "terme-2015-12-06-16-23-50-86966221807",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "voir": [
+    "terme-2015-12-06-16-24-54-86966225669"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Economia y empresa"
+    ]
+  }
+}

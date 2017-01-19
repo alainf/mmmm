@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-50-86966221816",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Economia-y-empresa/Finanzas-y-contabilidad/",
+  "description": "Description de Finanzas y contabilidad",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380929,
+  "identifiant-drupal-parent": 380841,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-50",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Finanzas y contabilidad",
+  "nom-folder": "Finanzas-y-contabilidad",
+  "nom-machine": "terme-2015-12-06-16-23-50-86966221816",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Finanzas y contabilidad"
+    ]
+  }
+}

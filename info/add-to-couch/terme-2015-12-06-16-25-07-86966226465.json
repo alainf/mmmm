@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226465",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Bioprocedes/",
+  "description": "Description de Bioprocédés",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472375,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Bioprocédés",
+  "nom-folder": "Bioprocedes",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226465"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bioprocesses"
+    ],
+    "ar": [
+      "أساليب حيوية"
+    ],
+    "es": [
+      "Bioprocesos"
+    ],
+    "fr": [
+      "Bioprocédés"
+    ],
+    "it": [
+      "Bioprocessi"
+    ]
+  }
+}

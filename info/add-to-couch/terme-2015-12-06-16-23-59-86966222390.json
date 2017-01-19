@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-59-86966222390",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Economics/Public-Policy-Sciences/",
+  "description": "Description de Public policy sciences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368950,
+  "identifiant-drupal-parent": 368932,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-23-59",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Public policy sciences",
+  "nom-folder": "Public-Policy-Sciences",
+  "nom-machine": "terme-2015-12-06-16-23-59-86966222390",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Public policy sciences"
+    ]
+  }
+}

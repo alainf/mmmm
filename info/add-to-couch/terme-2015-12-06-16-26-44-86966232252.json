@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232252",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Ethologie-(sociale)/Comportement-Homme-animal/",
+  "description": "Description de Comportement Homme-animal",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1051,
+  "identifiant-drupal-parent": 997,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Comportement Homme-animal",
+  "nom-folder": "Comportement-Homme-animal",
+  "nom-machine": "terme-2015-12-06-16-26-44-86966232252",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Human-animal behavior"
+    ],
+    "ar": [
+      "سلوك الانسان-الحيوان"
+    ],
+    "es": [
+      "Comportamiento humano-animal"
+    ],
+    "fr": [
+      "Comportement Homme-animal"
+    ],
+    "it": [
+      "Comportamento umano-animale"
+    ]
+  }
+}

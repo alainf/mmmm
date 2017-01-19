@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174872",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/licences/Domaine-publique/",
+  "description": "Domaine publique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Domaine public",
+  "nom-folder": "Domaine-publique",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174872",
+  "sous-type": "licences",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public domain"
+    ],
+    "ar": [
+      "ملكية عامة"
+    ],
+    "es": [
+      "Dominio público"
+    ],
+    "fr": [
+      "Domaine public"
+    ],
+    "it": [
+      "Pubblico dominio"
+    ]
+  }
+}

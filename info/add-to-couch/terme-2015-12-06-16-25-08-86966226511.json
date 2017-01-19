@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226511",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Dynamique-fluviale/",
+  "description": "Description de Dynamique fluviale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270868,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Dynamique fluviale",
+  "nom-folder": "Dynamique-fluviale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226511"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fluvial processes"
+    ],
+    "ar": [
+      "دينامية النهرية"
+    ],
+    "es": [
+      "Dinámica fluvial"
+    ],
+    "fr": [
+      "Dynamique fluviale"
+    ],
+    "it": [
+      "dinamica fluviale"
+    ]
+  }
+}

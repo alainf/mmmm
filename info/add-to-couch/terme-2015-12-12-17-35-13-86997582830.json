@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2015-12-12-17-35-13-86997582830",
+  "breadcrumb": "taxonomies/formats/Excel/",
+  "description": "Description de Excel",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-12-17-35-13",
+  "nom": "Excel",
+  "nom-folder": "Excel",
+  "nom-machine": "terme-2015-12-12-17-35-13-86997582830",
+  "sous-type": "formats",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Excel"
+    ],
+    "ar": [
+      " إكسل"
+    ],
+    "es": [
+      "Excel"
+    ],
+    "fr": [
+      "Excel"
+    ],
+    "it": [
+      "Excel"
+    ]
+  }
+}

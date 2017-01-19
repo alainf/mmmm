@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223849",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Ingenierie-et-mecanique-agricoles/Systemes-d'irrigation/Systemes-gravitaires/",
+  "description": "Description de Systèmes gravitaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472357,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Systèmes gravitaires",
+  "nom-folder": "Systemes-gravitaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223849"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Gravitational systems"
+    ],
+    "ar": [
+      "نظم الجاذبية"
+    ],
+    "es": [
+      "Sistemas gravitatorios"
+    ],
+    "fr": [
+      "Systèmes gravitaires"
+    ],
+    "it": [
+      "Sistemi gravitazionali"
+    ]
+  }
+}

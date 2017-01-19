@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174646",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Mandarin/",
+  "description": "Description de Mandarin",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369327,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Mandarin",
+  "nom-folder": "Mandarin",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174646",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mandarin"
+    ],
+    "ar": [
+      "ماندراين الصينية"
+    ],
+    "es": [
+      "Mandarín"
+    ],
+    "fr": [
+      "Mandarin"
+    ],
+    "it": [
+      "Mandarino"
+    ],
+    "ru": [
+      "Севернокитайский"
+    ]
+  }
+}

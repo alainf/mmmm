@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221110",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Affaires,-economie-et-finances-personnelles/",
+  "description": "Description de Affaires, économie et finances personnelles",
+  "enfants": [
+    "terme-2015-12-06-16-23-38-86966221114",
+    "terme-2015-12-06-16-23-38-86966221116",
+    "terme-2015-12-06-16-23-38-86966221119",
+    "terme-2015-12-06-16-23-38-86966221122",
+    "terme-2015-12-06-16-23-38-86966221125",
+    "terme-2015-12-06-16-23-38-86966221128",
+    "terme-2015-12-06-16-23-38-86966221131"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270643,
+  "identifiant-drupal-parent": 270470,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Affaires, économie et finances personnelles",
+  "nom-folder": "Affaires,-economie-et-finances-personnelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221110"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business, economics and personal finance"
+    ],
+    "ar": [
+      "الأعمال والاقتصاد والتمويل الشخصي"
+    ],
+    "es": [
+      "Negocios, economía y finanzas personales"
+    ],
+    "fr": [
+      "Affaires, économie et finances personnelles"
+    ],
+    "it": [
+      "Affari, economia e finanza personale"
+    ],
+    "ru": [
+      "Бизнеса, экономики и личных финансов"
+    ]
+  }
+}

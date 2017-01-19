@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220929",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Industrie-manufacturiere/Industrie-chimique/",
+  "description": "Description de Industrie chimique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270595,
+  "identifiant-drupal-parent": 270582,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Industrie chimique",
+  "nom-folder": "Industrie-chimique",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220929"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chemical industry"
+    ],
+    "ar": [
+      "صناعة كيميائية"
+    ],
+    "es": [
+      "Industria química"
+    ],
+    "fr": [
+      "Industrie chimique"
+    ],
+    "it": [
+      "Chimica industriale"
+    ],
+    "ru": [
+      "Химическая промышленность"
+    ]
+  }
+}

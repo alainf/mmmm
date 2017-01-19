@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227291",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-jouets,-articles-de-passe-temps/",
+  "description": "Commerce de gros de jouets et d'articles de passe-temps",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451125,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros de jouets et d’articles de passe-temps",
+  "nom-folder": "C-de-g-jouets,-articles-de-passe-temps",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227291",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of toys and hobby articles"
+    ],
+    "ar": [
+      "تجارة بالجملة للعب الأطفال و سلع التّسلية"
+    ],
+    "es": [
+      "Comercio mayorista de juguetes y artículos de afición"
+    ],
+    "fr": [
+      "Commerce de gros de jouets et d’articles de passe-temps"
+    ],
+    "it": [
+      "Commercio all'ingrosso di giocattoli e articoli di passatempo"
+    ]
+  }
+}

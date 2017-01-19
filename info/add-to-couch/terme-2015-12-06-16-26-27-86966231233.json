@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231233",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-des-sciences/",
+  "description": "Description de Histoire des sciences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 986,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire des sciences",
+  "nom-folder": "Histoire-des-sciences",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-27-86966231233"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of Science"
+    ],
+    "ar": [
+      "تاريخ العلوم"
+    ],
+    "es": [
+      "Historia de las ciencias"
+    ],
+    "fr": [
+      "Histoire des sciences"
+    ],
+    "it": [
+      "Storia delle scienze"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229613",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Etudes-de-marche/",
+  "description": "Description de Études de marché",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472126,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Études de marché",
+  "nom-folder": "Etudes-de-marche",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-00-86966229613"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Market research"
+    ],
+    "ar": [
+      "أبحاث السوق"
+    ],
+    "es": [
+      "Estudios de mercado"
+    ],
+    "fr": [
+      "Études de marché"
+    ],
+    "it": [
+      "Studi di mercato"
+    ]
+  }
+}

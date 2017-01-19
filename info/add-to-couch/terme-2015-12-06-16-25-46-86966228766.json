@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228766",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Contrat-psychologique/",
+  "description": "Description de Contrat psychologique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2172,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Contrat psychologique",
+  "nom-folder": "Contrat-psychologique",
+  "nom-machine": "terme-2015-12-06-16-25-46-86966228766",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Psychological contract"
+    ],
+    "ar": [
+      "عقد نفسي"
+    ],
+    "es": [
+      "Contrato psicológico"
+    ],
+    "fr": [
+      "Contrat psychologique"
+    ],
+    "it": [
+      "Contratto psicologico"
+    ]
+  }
+}

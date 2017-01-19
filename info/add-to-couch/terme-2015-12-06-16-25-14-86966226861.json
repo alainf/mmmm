@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-14-86966226861",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Genres-journalistiques/Article-de-presse/",
+  "description": "Description de Article de presse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272310,
+  "identifiant-drupal-parent": 272308,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-14",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Article de presse",
+  "nom-folder": "Article-de-presse",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-14-86966226861"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "News article"
+    ],
+    "ar": [
+      "مقال صحفي"
+    ],
+    "es": [
+      "Artículo de prensa"
+    ],
+    "fr": [
+      "Article de presse"
+    ],
+    "it": [
+      "Articolo di stampa"
+    ]
+  }
+}

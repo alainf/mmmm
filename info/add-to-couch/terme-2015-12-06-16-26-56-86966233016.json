@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966233016",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernement/Societes-parapubliques/institutions-publiques,-organisations-politiques/Stagnation-institutionnelle/",
+  "description": "Description de Stagnation institutionnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472181,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Stagnation institutionnelle",
+  "nom-folder": "Stagnation-institutionnelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966233016"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Institutional stagnation"
+    ],
+    "ar": [
+      "الركود المؤسسية"
+    ],
+    "es": [
+      "Estancamiento institucional"
+    ],
+    "fr": [
+      "Stagnation institutionnelle"
+    ],
+    "it": [
+      "stagnazione istituzionale"
+    ]
+  }
+}

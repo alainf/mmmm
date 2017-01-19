@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-14-86966223290",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Psychology/Health-Psychology/Behavioral-Medicine/",
+  "description": "Description de Behavioral medicine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369256,
+  "identifiant-drupal-parent": 369241,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-14",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Behavioral medicine",
+  "nom-folder": "Behavioral-Medicine",
+  "nom-machine": "terme-2015-12-06-16-24-14-86966223290",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Behavioral medicine"
+    ]
+  }
+}

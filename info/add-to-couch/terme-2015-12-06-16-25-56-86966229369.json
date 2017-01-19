@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-25-56-86966229369",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Economie-des-organisations/",
+  "description": "Description de Économie des organisations",
+  "enfants": [
+    "terme-2015-12-06-16-25-56-86966229372",
+    "terme-2015-12-06-16-25-56-86966229375",
+    "terme-2015-12-06-16-25-56-86966229378",
+    "terme-2015-12-06-16-25-56-86966229381",
+    "terme-2015-12-06-16-25-56-86966229384",
+    "terme-2015-12-06-16-25-56-86966229386",
+    "terme-2015-12-06-16-25-56-86966229389",
+    "terme-2015-12-06-16-25-56-86966229392",
+    "terme-2015-12-06-16-25-56-86966229395",
+    "terme-2015-12-06-16-25-56-86966229398",
+    "terme-2015-12-06-16-25-56-86966229401"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2261,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-56",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Économie des organisations",
+  "nom-folder": "Economie-des-organisations",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-56-86966229369"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of organizations"
+    ],
+    "ar": [
+      "الاقتصاد المنظمات"
+    ],
+    "es": [
+      "Economía de las organizaciones"
+    ],
+    "fr": [
+      "Économie des organisations"
+    ],
+    "it": [
+      "Economia delle organizzazioni"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227674",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/Gestion-des-stocks/Production-juste-a-temps/",
+  "description": "Description de Production juste à temps",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1863,
+  "identifiant-drupal-parent": 1857,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Production juste à temps",
+  "nom-folder": "Production-juste-a-temps",
+  "nom-machine": "terme-2015-12-06-16-25-27-86966227674",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Just in Time Production"
+    ],
+    "ar": [
+      "في الوقت المناسب"
+    ],
+    "es": [
+      "Producción justo a tiempo"
+    ],
+    "fr": [
+      "Production juste à temps"
+    ],
+    "it": [
+      "Produzione JIT (appena in tempo)"
+    ]
+  }
+}

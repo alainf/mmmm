@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233464",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Education/Education-et-enseignement/",
+  "description": "Description de Éducation et enseignement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455654,
+  "identifiant-drupal-parent": 1255,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Éducation et enseignement",
+  "nom-folder": "Education-et-enseignement",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-04-86966233464"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Education and teaching"
+    ],
+    "ar": [
+      "التعليم والتدريس"
+    ],
+    "es": [
+      "Educación y enseñanza"
+    ],
+    "fr": [
+      "Éducation et enseignement"
+    ],
+    "it": [
+      "Educazione e insegnamento"
+    ]
+  }
+}

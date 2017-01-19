@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966232963",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Elections/Mode-de-scrutin/",
+  "description": "Description de Mode de scrutin",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472114,
+  "identifiant-drupal-parent": 1160,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Mode de scrutin",
+  "nom-folder": "Mode-de-scrutin",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966232963"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Balloting method"
+    ],
+    "ar": [
+      "طريقة التصويت"
+    ],
+    "es": [
+      "Modo de votación"
+    ],
+    "fr": [
+      "Mode de scrutin"
+    ],
+    "it": [
+      "Sistema di voto"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174641",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Malgache/",
+  "description": "Description de Malgache",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317623,
+  "ISO-639-1": "mg",
+  "ISO-639-2": "mlg",
+  "ISO-639-3": "mlg",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2016-02-04-05-23-01",
+  "nom": "Malgache",
+  "nom-folder": "Malgache",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174641",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Malgache",
+  "nomLangues": {
+    "en": [
+      "Malagasy"
+    ],
+    "ar": [
+      "ملغاشية"
+    ],
+    "es": [
+      "Malgache"
+    ],
+    "fr": [
+      "Malgache"
+    ],
+    "it": [
+      "Malgascio"
+    ],
+    "ru": [
+      "Малагасийский"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-26-51-86966232704",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Conflits,-droits-humains-et-impunite/Terrorisme/Cyberterrorisme/",
+  "description": "Description de Cyberterrorisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451304,
+  "identifiant-drupal-parent": 451300,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-51",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Cyberterrorisme",
+  "nom-folder": "Cyberterrorisme",
+  "nom-machine": "terme-2015-12-06-16-26-51-86966232704",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cyberterrorism"
+    ],
+    "ar": [
+      "إرهاب إلكتروني"
+    ],
+    "es": [
+      "Ciberterrorismo"
+    ],
+    "fr": [
+      "Cyberterrorisme"
+    ],
+    "it": [
+      "Cyberterrorismo"
+    ],
+    "ru": [
+      "Ciberterrorismo"
+    ]
+  }
+}

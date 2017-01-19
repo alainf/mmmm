@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-45-86966225116",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Procede-de-fabrication-en-peinture/Bombe-aerosol/",
+  "description": "Description de Bombe aérosol",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467010,
+  "identifiant-drupal-parent": 467006,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-45",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Bombe aérosol",
+  "nom-folder": "Bombe-aerosol",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-45-86966225116"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aerosol spray"
+    ],
+    "ar": [
+      "القنبلة الهباء الجوى"
+    ],
+    "es": [
+      "Pulverizador"
+    ],
+    "fr": [
+      "Bombe aérosol"
+    ],
+    "it": [
+      "Bomboletta aerosol"
+    ]
+  }
+}

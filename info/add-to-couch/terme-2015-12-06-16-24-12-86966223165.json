@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-12-86966223165",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Philosophy/Philosophy-of-Medicine/",
+  "description": "Description de Philosophy of medicine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369216,
+  "identifiant-drupal-parent": 369203,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Philosophy of medicine",
+  "nom-folder": "Philosophy-of-Medicine",
+  "nom-machine": "terme-2015-12-06-16-24-12-86966223165",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Philosophy of medicine"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223942",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Conchyliculture/Pectiniculture/",
+  "description": "Description de Pectiniculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269056,
+  "identifiant-drupal-parent": 927,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Pectiniculture",
+  "nom-folder": "Pectiniculture",
+  "nom-machine": "terme-2015-12-06-16-24-25-86966223942",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pecten farming"
+    ],
+    "ar": [
+      "ثقافة التقوقع"
+    ],
+    "es": [
+      "Cultivo de pectínidos"
+    ],
+    "fr": [
+      "Pectiniculture"
+    ],
+    "it": [
+      "Coltivazione di capesante"
+    ]
+  }
+}

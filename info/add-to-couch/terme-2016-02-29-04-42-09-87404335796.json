@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-42-09-87404335796",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/lieu-de-l-ecriture/lieu-de-la-narration/lieu-embematique/le-lac-sacacomie/",
+  "description": "Description de Le lac sacacomie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-42-09",
+  "moment-de-modification": "2016-02-29-04-42-46",
+  "nom": "Le lac sacacomie",
+  "nom-folder": "le-lac-sacacomie",
+  "nom-machine": "terme-2016-02-29-04-42-09-87404335796",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lake sacacomie"
+    ],
+    "fr": [
+      "Le lac sacacomie"
+    ]
+  }
+}

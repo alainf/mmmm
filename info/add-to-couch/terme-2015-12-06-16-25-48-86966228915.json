@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-48-86966228915",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Organisation-du-travail/Coordination/",
+  "description": "Description de Coordination",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471957,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-48",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Coordination",
+  "nom-folder": "Coordination",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-48-86966228915"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Coordination"
+    ],
+    "ar": [
+      "تنسيق"
+    ],
+    "es": [
+      "Coordinación"
+    ],
+    "fr": [
+      "Coordination"
+    ],
+    "it": [
+      "coordinazione"
+    ]
+  }
+}

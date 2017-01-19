@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227043",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Techniques-documentaires/",
+  "description": "Description de Techniques documentaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451287,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Techniques documentaires",
+  "nom-folder": "Techniques-documentaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227043"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Documentary techniques"
+    ],
+    "ar": [
+      "التقنيات الوثائقية"
+    ],
+    "es": [
+      "Técnicas documentales"
+    ],
+    "fr": [
+      "Techniques documentaires"
+    ],
+    "it": [
+      "tecniche documentarie"
+    ]
+  }
+}

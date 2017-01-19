@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-14-86966230465",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Inegalites-et-pauvrete/",
+  "description": "Description de Inégalités et pauvreté",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455661,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-14",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Inégalités et pauvreté",
+  "nom-folder": "Inegalites-et-pauvrete",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-14-86966230465"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Inequality and poverty"
+    ],
+    "ar": [
+      "عدم المساواة والفقر"
+    ],
+    "es": [
+      "Desigualdad y pobreza"
+    ],
+    "fr": [
+      "Inégalités et pauvreté"
+    ],
+    "it": [
+      "Disuguaglianza e povertà"
+    ]
+  }
+}

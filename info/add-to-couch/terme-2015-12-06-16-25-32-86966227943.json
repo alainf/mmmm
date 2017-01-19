@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227943",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Conduite-de-projet/",
+  "description": "Description de Conduite de projet",
+  "enfants": [
+    "terme-2015-12-06-16-25-32-86966227945",
+    "terme-2015-12-06-16-25-32-86966227948",
+    "terme-2015-12-06-16-25-32-86966227951",
+    "terme-2015-12-06-16-25-32-86966227955",
+    "terme-2015-12-06-16-25-32-86966227958"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1951,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Conduite de projet",
+  "nom-folder": "Conduite-de-projet",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-32-86966227943"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Project leadership"
+    ],
+    "ar": [
+      "مشروع القيادة"
+    ],
+    "es": [
+      "Liderazgo de Proyectos"
+    ],
+    "fr": [
+      "Conduite de projet"
+    ],
+    "it": [
+      "conduzione di progetto"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224079",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Horticulture/Horticulture-maraichere/",
+  "description": "Description de Horticulture maraîchère",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 252577,
+  "identifiant-drupal-parent": 252576,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Horticulture maraîchère",
+  "nom-folder": "Horticulture-maraichere",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224079",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Vegetable production"
+    ],
+    "ar": [
+      "بستنة الخضرة"
+    ],
+    "es": [
+      "Horticultura hortense"
+    ],
+    "fr": [
+      "Horticulture maraîchère"
+    ],
+    "it": [
+      "Coltivazione di ortaggi (Orticoltura intensiva)"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-21-86966223671",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Social-Science-Humanities/Anthropology-Archaeology/",
+  "description": "Description de Archéologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368176,
+  "identifiant-drupal-parent": 368147,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-21",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Archéologie",
+  "nom-folder": "Anthropology-Archaeology",
+  "nom-machine": "terme-2015-12-06-16-24-21-86966223671",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anthropology archaeology"
+    ],
+    "fr": [
+      "Archéologie"
+    ]
+  }
+}

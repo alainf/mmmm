@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-09-86966233775",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Politique-de-la-ville/",
+  "description": "Description de Politique de la ville",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467128,
+  "identifiant-drupal-parent": 467095,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Politique de la ville",
+  "nom-folder": "Politique-de-la-ville",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-09-86966233775"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban policy and planning"
+    ],
+    "ar": [
+      "السياسات الحضرية والتخطيط"
+    ],
+    "es": [
+      "Política urbana y planificación"
+    ],
+    "fr": [
+      "Politique de la ville"
+    ],
+    "it": [
+      "politica urbana e pianificazione"
+    ]
+  }
+}

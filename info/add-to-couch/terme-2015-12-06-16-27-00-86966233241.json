@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233241",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-des-corps/",
+  "description": "Description de Sociologie des corps",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1207,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie des corps",
+  "nom-folder": "Sociologie-des-corps",
+  "nom-machine": "terme-2015-12-06-16-27-00-86966233241",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of the body"
+    ],
+    "ar": [
+      "علم اجتماع الجسم"
+    ],
+    "es": [
+      "Sociología del Cuerpo"
+    ],
+    "fr": [
+      "Sociologie des corps"
+    ],
+    "it": [
+      "Sociologia del corpo"
+    ]
+  }
+}

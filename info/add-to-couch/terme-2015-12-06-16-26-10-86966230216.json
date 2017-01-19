@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-10-86966230216",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-des-materiaux/Matieres-de-synthese/",
+  "description": "Description de Matières de synthèse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270813,
+  "identifiant-drupal-parent": 887,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-10",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Matières de synthèse",
+  "nom-folder": "Matieres-de-synthese",
+  "nom-machine": "terme-2015-12-06-16-26-10-86966230216",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Synthetic materials"
+    ],
+    "ar": [
+      "المواد الإصطناعية"
+    ],
+    "es": [
+      "Materiales sintéticos"
+    ],
+    "fr": [
+      "Matières de synthèse"
+    ],
+    "it": [
+      "Materiali di sintesi"
+    ]
+  }
+}

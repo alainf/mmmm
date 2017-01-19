@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-21-86966230861",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Toxicologie-(chimie)/",
+  "description": "Description de Toxicologie (chimie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270454,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-21",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Toxicologie (chimie)",
+  "nom-folder": "Toxicologie-(chimie)",
+  "nom-machine": "terme-2015-12-06-16-26-21-86966230861",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Toxicology (chemistry)"
+    ],
+    "ar": [
+      "علم السموم (الكيمياء)"
+    ],
+    "es": [
+      "Toxicología (química)"
+    ],
+    "fr": [
+      "Toxicologie (chimie)"
+    ],
+    "it": [
+      "Tossicologia (chimica)"
+    ]
+  }
+}

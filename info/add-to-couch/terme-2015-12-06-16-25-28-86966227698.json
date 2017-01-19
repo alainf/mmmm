@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227698",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Outils-de-gestion-de-la-production/",
+  "description": "Description de Outils de gestion de la production",
+  "enfants": [
+    "terme-2015-12-06-16-25-28-86966227700",
+    "terme-2015-12-06-16-25-28-86966227703"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1870,
+  "identifiant-drupal-parent": 1837,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Outils de gestion de la production",
+  "nom-folder": "Outils-de-gestion-de-la-production",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227698"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Production Management Tools"
+    ],
+    "ar": [
+      "أدوات إدارة الإنتاج"
+    ],
+    "es": [
+      "Herramientas de gestión de la producción"
+    ],
+    "fr": [
+      "Outils de gestion de la production"
+    ],
+    "it": [
+      "strumenti di gestione della produzione"
+    ]
+  }
+}

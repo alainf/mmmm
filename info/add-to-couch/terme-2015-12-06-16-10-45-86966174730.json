@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-45-86966174730",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Persan/",
+  "description": "Description de Persan",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317642,
+  "ISO-639-1": "fa",
+  "ISO-639-2": "per/fas",
+  "ISO-639-3": "fas",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-45",
+  "moment-de-modification": "2016-02-04-04-10-52",
+  "nom": "Persan",
+  "nom-folder": "Persan",
+  "nom-machine": "terme-2015-12-06-16-10-45-86966174730",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Persan",
+  "nomLangues": {
+    "en": [
+      "Persian"
+    ],
+    "ar": [
+      "فارسية"
+    ],
+    "es": [
+      "Persa"
+    ],
+    "fr": [
+      "Persan"
+    ],
+    "it": [
+      "Persiano"
+    ],
+    "ru": [
+      "Персидский"
+    ]
+  }
+}

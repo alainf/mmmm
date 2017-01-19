@@ -1,0 +1,24 @@
+{
+  "_id": "terme-2015-12-06-16-24-13-86966223208",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Physics/Fluid-Mechanics/",
+  "description": "Description de Fluid mechanics",
+  "enfants": [
+    "terme-2015-12-06-16-24-13-86966223211"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-13",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Fluid mechanics",
+  "nom-folder": "Fluid-Mechanics",
+  "nom-machine": "terme-2015-12-06-16-24-13-86966223208",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Fluid mechanics"
+    ]
+  }
+}

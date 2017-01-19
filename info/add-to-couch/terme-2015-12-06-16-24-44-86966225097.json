@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225097",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/",
+  "description": "Description de Peinture",
+  "enfants": [
+    "terme-2015-12-06-16-24-45-86966225100",
+    "terme-2015-12-06-16-24-45-86966225103",
+    "terme-2015-12-06-16-24-45-86966225106",
+    "terme-2015-12-06-16-24-45-86966225136",
+    "terme-2015-12-06-16-24-45-86966225139",
+    "terme-2015-12-06-16-24-46-86966225173"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467003,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Peinture",
+  "nom-folder": "Peinture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-44-86966225097"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Painting"
+    ],
+    "ar": [
+      "تصوير زيتي"
+    ],
+    "es": [
+      "Pintura"
+    ],
+    "fr": [
+      "Peinture"
+    ],
+    "it": [
+      "pittura"
+    ]
+  }
+}

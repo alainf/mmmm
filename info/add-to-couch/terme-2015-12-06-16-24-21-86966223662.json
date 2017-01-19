@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-21-86966223662",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Materials-Science-Engineering/Engineering-Computing/",
+  "description": "Description de Informatique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368174,
+  "identifiant-drupal-parent": 368146,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-21",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Informatique",
+  "nom-folder": "Engineering-Computing",
+  "nom-machine": "terme-2015-12-06-16-24-21-86966223662",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Engineering computing"
+    ],
+    "fr": [
+      "Informatique"
+    ]
+  }
+}

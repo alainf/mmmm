@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-03-28-04-87274469083",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Bihari/",
+  "description": "Code de langue collectif pour le bhodjpouri, le magahi et le maÃ¯thili",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "bh",
+  "ISO-639-2": "bih",
+  "ISO-639-3": "--",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-28-04",
+  "moment-de-modification": "2016-02-04-03-30-37",
+  "nom": "Bihari",
+  "nom-folder": "Bihari",
+  "nom-machine": "terme-2016-02-04-03-28-04-87274469083",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Bihari",
+  "nomLangues": {
+    "en": [
+      "Bihari"
+    ],
+    "ar": [
+      "البهارية"
+    ],
+    "es": [
+      "Bihari"
+    ],
+    "fr": [
+      "Bihari"
+    ],
+    "it": [
+      "Bihari"
+    ],
+    "ru": [
+      "Бихарские"
+    ]
+  }
+}

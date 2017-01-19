@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226618",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Regulation-de-l'environnement/",
+  "description": "Description de Régulation de l'environnement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472254,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Régulation de l'environnement",
+  "nom-folder": "Regulation-de-l'environnement",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-10-86966226618"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environmental regulation"
+    ],
+    "ar": [
+      "التنظيم البيئي"
+    ],
+    "es": [
+      "Regulación ambiental"
+    ],
+    "fr": [
+      "Régulation de l'environnement"
+    ],
+    "it": [
+      "Regolazione ambientale"
+    ]
+  }
+}

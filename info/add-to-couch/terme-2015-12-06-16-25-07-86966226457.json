@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226457",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Biodegradation/",
+  "description": "Description de Biodégradation",
+  "enfants": [
+    "terme-2015-12-06-16-25-07-86966226460"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270864,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Biodégradation",
+  "nom-folder": "Biodegradation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226457"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biodegradation"
+    ],
+    "ar": [
+      "تحلل حيوي"
+    ],
+    "es": [
+      "Biodegradación"
+    ],
+    "fr": [
+      "Biodégradation"
+    ],
+    "it": [
+      "Biodegradazione"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227120",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Immobilier/Publications-sur-l'immobilier/",
+  "description": "Description de Publications sur l'immobilier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455415,
+  "identifiant-drupal-parent": 272225,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Publications sur l'immobilier",
+  "nom-folder": "Publications-sur-l'immobilier",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227120"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Real estate publications"
+    ],
+    "ar": [
+      "المنشورات المتعلقة بالعقارات"
+    ],
+    "es": [
+      "Publicaciones sobre bienes raices"
+    ],
+    "fr": [
+      "Publications sur l'immobilier"
+    ],
+    "it": [
+      "Pubblicazioni sugli immobili"
+    ]
+  }
+}

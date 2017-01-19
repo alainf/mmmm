@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234063",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/multimedia/multimedia-cinema/",
+  "description": "multimédia cinéma",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369464,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Cinéma (multimédia)",
+  "nom-folder": "multimedia-cinema",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234063",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Movie"
+    ],
+    "es": [
+      "Cinema multimedia"
+    ],
+    "fr": [
+      "Cinéma (multimédia)"
+    ],
+    "it": [
+      "Cinema multimediale"
+    ]
+  }
+}

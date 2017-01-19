@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-43-86966174589",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Inuinnaqtun/",
+  "description": "Description de Inuinnaqtun",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317614,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-43",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Inuinnaqtun",
+  "nom-folder": "Inuinnaqtun",
+  "nom-machine": "terme-2015-12-06-16-10-43-86966174589",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Inuinnaqtun"
+    ],
+    "es": [
+      "Inuinnaqtun"
+    ],
+    "fr": [
+      "Inuinnaqtun"
+    ],
+    "it": [
+      "Inuinnaqtun"
+    ],
+    "ru": [
+      "Инуиннактун"
+    ]
+  }
+}

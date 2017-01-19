@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232730",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Groupes-d'interet/",
+  "description": "Description de Groupes d'intérêt",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451298,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Groupes d'intérêt",
+  "nom-folder": "Groupes-d'interet",
+  "nom-machine": "terme-2015-12-06-16-26-52-86966232730",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Interest Groups"
+    ],
+    "ar": [
+      "مجموعات المصلحة"
+    ],
+    "es": [
+      "Grupos de interés"
+    ],
+    "fr": [
+      "Groupes d'intérêt"
+    ],
+    "it": [
+      "Gruppi di interesse"
+    ]
+  }
+}

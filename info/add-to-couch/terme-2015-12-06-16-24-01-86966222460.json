@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-01-86966222460",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Education/Technology-and-Design-Education/",
+  "description": "Description de Technology and design education",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368974,
+  "identifiant-drupal-parent": 368955,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-24-01",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Technology and design education",
+  "nom-folder": "Technology-and-Design-Education",
+  "nom-machine": "terme-2015-12-06-16-24-01-86966222460",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Technology and design education"
+    ]
+  }
+}

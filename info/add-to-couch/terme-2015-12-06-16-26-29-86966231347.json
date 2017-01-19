@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-29-86966231347",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Sante-et-bien-etre/Sante-socio-environnementale/",
+  "description": "Description de Santé socio-environnementale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472334,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-29",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Santé socio-environnementale",
+  "nom-folder": "Sante-socio-environnementale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-29-86966231347"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Socio-environmental health"
+    ],
+    "ar": [
+      "الصحة الاجتماعية والبيئية"
+    ],
+    "es": [
+      "Salud socioambiental"
+    ],
+    "fr": [
+      "Santé socio-environnementale"
+    ],
+    "it": [
+      "Salute socio-ambientale"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-25-86966231157",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire-des-sciences-humaines/",
+  "description": "Description de Histoire des sciences humaines",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 944,
+  "identifiant-drupal-parent": 890,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-25",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Histoire des sciences humaines",
+  "nom-folder": "Histoire-des-sciences-humaines",
+  "nom-machine": "terme-2015-12-06-16-26-25-86966231157",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of the Humanities"
+    ],
+    "ar": [
+      "تاريخ العلوم الإنسانية"
+    ],
+    "es": [
+      "Historia de las humanidades"
+    ],
+    "fr": [
+      "Histoire des sciences humaines"
+    ],
+    "it": [
+      "Storia degli studi umanistici"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226199",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/Histoire-de-la-linguistique/",
+  "description": "Description de Histoire de la linguistique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270394,
+  "identifiant-drupal-parent": 270393,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Histoire de la linguistique",
+  "nom-folder": "Histoire-de-la-linguistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-03-86966226199"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of linguistics"
+    ],
+    "ar": [
+      "تاريخ اللغويات"
+    ],
+    "es": [
+      "Historia de la lingüistica"
+    ],
+    "fr": [
+      "Histoire de la linguistique"
+    ],
+    "it": [
+      "storia della linguistica"
+    ]
+  }
+}

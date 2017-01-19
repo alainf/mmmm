@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966224005",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Autres-cultures-agricoles/Culture-de-la-canne-a-sucre/",
+  "description": "Description de Culture de la canne à sucre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451059,
+  "identifiant-drupal-parent": 451056,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture de la canne à sucre",
+  "nom-folder": "Culture-de-la-canne-a-sucre",
+  "nom-machine": "terme-2015-12-06-16-24-26-86966224005",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sugarcane cultivation"
+    ],
+    "ar": [
+      "زراعة القصب السكر"
+    ],
+    "es": [
+      "Cultivo de caña de azucar"
+    ],
+    "fr": [
+      "Culture de la canne à sucre"
+    ],
+    "it": [
+      "Coltivazione della canna da zucchero"
+    ]
+  }
+}

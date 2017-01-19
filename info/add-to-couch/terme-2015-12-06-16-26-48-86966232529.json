@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232529",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Culture-(themes)/",
+  "description": "Description de Culture (thèmes)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1076,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Culture (thèmes)",
+  "nom-folder": "Culture-(themes)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-48-86966232529"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Culture (themes)"
+    ],
+    "ar": [
+      "ثقافة (الموضوعات)"
+    ],
+    "es": [
+      "Cultura (temas)"
+    ],
+    "fr": [
+      "Culture (thèmes)"
+    ],
+    "it": [
+      "Cultura (temi)"
+    ]
+  }
+}

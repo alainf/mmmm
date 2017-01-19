@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227187",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Marches-des-assurances/",
+  "description": "Description de Marchés des assurances",
+  "enfants": [
+    "terme-2015-12-06-16-25-19-86966227190"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472128,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marchés des assurances",
+  "nom-folder": "Marches-des-assurances",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227187"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Insurance markets"
+    ],
+    "ar": [
+      "أسواق التأمينات"
+    ],
+    "es": [
+      "Mercados de seguros"
+    ],
+    "fr": [
+      "Marchés des assurances"
+    ],
+    "it": [
+      "Mercati delle assicurazioni"
+    ]
+  }
+}

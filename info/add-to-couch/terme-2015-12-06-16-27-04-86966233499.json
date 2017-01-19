@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233499",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Minorites-(sciences-politiques)/",
+  "description": "Description de Minorités (sciences politiques)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 470183,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Minorités (sciences politiques)",
+  "nom-folder": "Minorites-(sciences-politiques)",
+  "nom-machine": "terme-2015-12-06-16-27-04-86966233499",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Minority group"
+    ],
+    "ar": [
+      "الاقليات (العلوم السياسية)"
+    ],
+    "es": [
+      "Minoría (ciencia política)"
+    ],
+    "fr": [
+      "Minorités (sciences politiques)"
+    ],
+    "it": [
+      "Minoranze (scienze politiche)"
+    ]
+  }
+}

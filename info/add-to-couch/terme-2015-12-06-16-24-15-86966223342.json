@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-24-15-86966223342",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Social-Sciences-(category)/",
+  "description": "Description de Social sciences (category)",
+  "enfants": [
+    "terme-2015-12-06-16-24-15-86966223345",
+    "terme-2015-12-06-16-24-15-86966223348",
+    "terme-2015-12-06-16-24-15-86966223351",
+    "terme-2015-12-06-16-24-15-86966223354",
+    "terme-2015-12-06-16-24-15-86966223356",
+    "terme-2015-12-06-16-24-15-86966223359",
+    "terme-2015-12-06-16-24-16-86966223362",
+    "terme-2015-12-06-16-24-16-86966223365",
+    "terme-2015-12-06-16-24-16-86966223368",
+    "terme-2015-12-06-16-24-16-86966223371",
+    "terme-2015-12-06-16-24-16-86966223374",
+    "terme-2015-12-06-16-24-16-86966223377",
+    "terme-2015-12-06-16-24-16-86966223379",
+    "terme-2015-12-06-16-24-16-86966223382",
+    "terme-2015-12-06-16-24-16-86966223385",
+    "terme-2015-12-06-16-24-16-86966223388",
+    "terme-2015-12-06-16-24-16-86966223390",
+    "terme-2015-12-06-16-24-16-86966223393",
+    "terme-2015-12-06-16-24-16-86966223396"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369274,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-15",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Social sciences (category)",
+  "nom-folder": "Social-Sciences-(category)",
+  "nom-machine": "terme-2015-12-06-16-24-15-86966223342",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Social sciences (category)"
+    ]
+  }
+}

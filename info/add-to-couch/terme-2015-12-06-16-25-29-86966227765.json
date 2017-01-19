@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227765",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/Gestion-de-donnees-et-documents-d'archives/ISO-15489/",
+  "description": "Description de ISO 15489 Gestion des documents d'archives",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1900,
+  "identifiant-drupal-parent": 1898,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 15489 Gestion des documents d'archives",
+  "nom-folder": "ISO-15489",
+  "nom-machine": "terme-2015-12-06-16-25-29-86966227765",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 15489 Records management"
+    ],
+    "ar": [
+      "إدارة الوثائق الأرشيفية ISO 15489"
+    ],
+    "es": [
+      "ISO 15489 Gestión de archivos"
+    ],
+    "fr": [
+      "ISO 15489 Gestion des documents d'archives"
+    ],
+    "it": [
+      "Iso 15489 gestione di archivi"
+    ]
+  }
+}

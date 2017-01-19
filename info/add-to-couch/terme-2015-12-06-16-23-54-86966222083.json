@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-23-54-86966222083",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Business-Administration/",
+  "description": "Description de Business administration",
+  "enfants": [
+    "terme-2015-12-06-16-23-54-86966222086",
+    "terme-2015-12-06-16-23-54-86966222090",
+    "terme-2015-12-06-16-23-54-86966222092",
+    "terme-2015-12-06-16-23-54-86966222095",
+    "terme-2015-12-06-16-23-54-86966222098",
+    "terme-2015-12-06-16-23-55-86966222101",
+    "terme-2015-12-06-16-23-55-86966222104",
+    "terme-2015-12-06-16-23-55-86966222107",
+    "terme-2015-12-06-16-23-55-86966222110",
+    "terme-2015-12-06-16-23-55-86966222113",
+    "terme-2015-12-06-16-23-55-86966222116",
+    "terme-2015-12-06-16-23-55-86966222118",
+    "terme-2015-12-06-16-23-55-86966222122",
+    "terme-2015-12-06-16-23-55-86966222124",
+    "terme-2015-12-06-16-23-55-86966222128",
+    "terme-2015-12-06-16-23-55-86966222130",
+    "terme-2015-12-06-16-23-55-86966222133",
+    "terme-2015-12-06-16-23-55-86966222136",
+    "terme-2015-12-06-16-23-55-86966222139",
+    "terme-2015-12-06-16-23-55-86966222142",
+    "terme-2015-12-06-16-23-55-86966222145"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368846,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-54",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Business administration",
+  "nom-folder": "Business-Administration",
+  "nom-machine": "terme-2015-12-06-16-23-54-86966222083",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Business administration"
+    ]
+  }
+}

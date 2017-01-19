@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966223987",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Pisciculture/Maladies-du-poisson/",
+  "description": "Description de Maladies du poisson",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269069,
+  "identifiant-drupal-parent": 934,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Maladies du poisson",
+  "nom-folder": "Maladies-du-poisson",
+  "nom-machine": "terme-2015-12-06-16-24-26-86966223987",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fish diseases"
+    ],
+    "ar": [
+      "أمراض الأسماك"
+    ],
+    "es": [
+      "Enfermedades de los peces"
+    ],
+    "fr": [
+      "Maladies du poisson"
+    ],
+    "it": [
+      "Malattie dei pesci"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232732",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Histoire-des-sciences-politiques/",
+  "description": "Description de Histoire des sciences politiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1104,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Histoire des sciences politiques",
+  "nom-folder": "Histoire-des-sciences-politiques",
+  "nom-machine": "terme-2015-12-06-16-26-52-86966232732",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of Political Science"
+    ],
+    "ar": [
+      "تاريخ العلوم السياسية"
+    ],
+    "es": [
+      "Historia de las Ciencias Políticas"
+    ],
+    "fr": [
+      "Histoire des sciences politiques"
+    ],
+    "it": [
+      "Storia di scienze politiche"
+    ]
+  }
+}

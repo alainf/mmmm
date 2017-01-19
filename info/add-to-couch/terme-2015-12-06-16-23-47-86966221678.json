@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-23-47-86966221678",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Arte/",
+  "description": "Description de Arte",
+  "enfants": [
+    "terme-2015-12-06-16-23-48-86966221682",
+    "terme-2015-12-06-16-23-48-86966221684",
+    "terme-2015-12-06-16-23-48-86966221687",
+    "terme-2015-12-06-16-23-48-86966221690"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380846,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-47",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Arte",
+  "nom-folder": "Arte",
+  "nom-machine": "terme-2015-12-06-16-23-47-86966221678",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Arte"
+    ]
+  }
+}

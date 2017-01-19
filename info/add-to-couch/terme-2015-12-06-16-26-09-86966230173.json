@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230173",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Petrologie/Extraction-de-petrole/",
+  "description": "Description de Extraction de pétrole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451062,
+  "identifiant-drupal-parent": 270829,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de pétrole",
+  "nom-folder": "Extraction-de-petrole",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230173"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oil extraction"
+    ],
+    "ar": [
+      "إستخراج النفط"
+    ],
+    "es": [
+      "Extracción de petróleo"
+    ],
+    "fr": [
+      "Extraction de pétrole"
+    ],
+    "it": [
+      "Estrazione di petrolio"
+    ]
+  }
+}

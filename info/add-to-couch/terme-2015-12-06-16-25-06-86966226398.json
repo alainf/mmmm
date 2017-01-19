@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226398",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Methodes-de-recherche-en-sciences-de-l'education/",
+  "description": "Description de Méthodes de recherche en sciences de l'éducation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451293,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Méthodes de recherche en sciences de l'éducation",
+  "nom-folder": "Methodes-de-recherche-en-sciences-de-l'education",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226398"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research Methods in Educational Sciences"
+    ],
+    "ar": [
+      "مناهج البحث في علوم التربية"
+    ],
+    "es": [
+      "Métodos de Investigación en Ciencias de la Educación"
+    ],
+    "fr": [
+      "Méthodes de recherche en sciences de l'éducation"
+    ],
+    "it": [
+      "Metodi d'investigazione in scienze della educazione"
+    ]
+  }
+}

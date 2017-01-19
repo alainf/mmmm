@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233657",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Amenagement-du-territoire/",
+  "description": "Description de Aménagement du territoire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467097,
+  "identifiant-drupal-parent": 467096,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Aménagement du territoire",
+  "nom-folder": "Amenagement-du-territoire",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233657"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Land use planning"
+    ],
+    "ar": [
+      "تهيئة الاراضي"
+    ],
+    "es": [
+      "Ordenación del territorio"
+    ],
+    "fr": [
+      "Aménagement du territoire"
+    ],
+    "it": [
+      "Pianificazione territoriale"
+    ]
+  }
+}

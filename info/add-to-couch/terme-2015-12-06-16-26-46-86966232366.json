@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232366",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-du-discours/Ecologie-du-discours/",
+  "description": "Description de Écologie du discours",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472172,
+  "identifiant-drupal-parent": 1224,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Écologie du discours",
+  "nom-folder": "Ecologie-du-discours",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232366"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecology of discourse"
+    ],
+    "ar": [
+      "الإيكولوجيا للخطاب"
+    ],
+    "es": [
+      "Ecología del discurso"
+    ],
+    "fr": [
+      "Écologie du discours"
+    ],
+    "it": [
+      "Ecologia del discorso"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "terme-2015-12-24-10-08-39-87058183163",
+  "breadcrumb": "taxonomies/types-de-ressource/fil-RSS/item-RSS/",
+  "description": "Description de Item",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-24-10-08-39",
+  "nom": "Item",
+  "nom-folder": "item-RSS",
+  "nom-machine": "terme-2015-12-24-10-08-39-87058183163",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Item"
+    ],
+    "es": [
+      "Item"
+    ],
+    "fr": [
+      "Item"
+    ],
+    "it": [
+      "Item"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-32-86966231557",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-de-l'esprit/",
+  "description": "Description de Philosophie de l'esprit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455605,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-32",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie de l'esprit",
+  "nom-folder": "Philosophie-de-l'esprit",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-32-86966231557"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of Mind"
+    ],
+    "ar": [
+      "فلسفة العقل"
+    ],
+    "es": [
+      "Filosofía de la mente"
+    ],
+    "fr": [
+      "Philosophie de l'esprit"
+    ],
+    "it": [
+      "Filosofia della mente"
+    ]
+  }
+}

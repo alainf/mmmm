@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224391",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Architecture/Disciplines-de-l'architecture/",
+  "description": "Description de Disciplines de l'architecture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466827,
+  "identifiant-drupal-parent": 466817,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Disciplines de l'architecture",
+  "nom-folder": "Disciplines-de-l'architecture",
+  "nom-machine": "terme-2015-12-06-16-24-33-86966224391",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Disciplines of architecture"
+    ],
+    "ar": [
+      "فروع الهندسة المعمارية"
+    ],
+    "es": [
+      "Disciplinas de la arquitectura"
+    ],
+    "fr": [
+      "Disciplines de l'architecture"
+    ],
+    "it": [
+      "Discipline della architettura"
+    ]
+  }
+}

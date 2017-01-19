@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233677",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Economie-de-l'energie/",
+  "description": "Description de Économie de l'énergie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 468544,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Économie de l'énergie",
+  "nom-folder": "Economie-de-l'energie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233677"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy Economics"
+    ],
+    "ar": [
+      "اقتصاديات الطاقة"
+    ],
+    "es": [
+      "Economía de la energía"
+    ],
+    "fr": [
+      "Économie de l'énergie"
+    ],
+    "it": [
+      "Economia dell'energia"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-52-86966221939",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Arts-and-literature/Literature/",
+  "description": "Description de Literature",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368795,
+  "identifiant-drupal-parent": 368788,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-52",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Literature",
+  "nom-folder": "Literature",
+  "nom-machine": "terme-2015-12-06-16-23-52-86966221939",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Literature"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227071",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Controle-de-gestion/",
+  "description": "Description de Contrôle de gestion",
+  "enfants": [
+    "terme-2015-12-06-16-25-17-86966227074",
+    "terme-2015-12-06-16-25-17-86966227077",
+    "terme-2015-12-06-16-25-18-86966227080",
+    "terme-2015-12-06-16-25-18-86966227083",
+    "terme-2015-12-06-16-25-18-86966227086",
+    "terme-2015-12-06-16-25-18-86966227089"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272223,
+  "identifiant-drupal-parent": 272222,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Contrôle de gestion",
+  "nom-folder": "Controle-de-gestion",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227071"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management control"
+    ],
+    "ar": [
+      "الرقابة التدبير"
+    ],
+    "es": [
+      "Control de gestión"
+    ],
+    "fr": [
+      "Contrôle de gestion"
+    ],
+    "it": [
+      "Controllo di gestione"
+    ]
+  }
+}

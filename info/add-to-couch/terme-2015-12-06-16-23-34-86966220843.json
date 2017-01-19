@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220843",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Entreprise-et-management/",
+  "description": "Description de Entreprise et management",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270492,
+  "identifiant-drupal-parent": 270482,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Entreprise et management",
+  "nom-folder": "Entreprise-et-management",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220843"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Entreprise and management"
+    ],
+    "ar": [
+      "الشركة والإدارة"
+    ],
+    "es": [
+      "La empresa y la gestión"
+    ],
+    "fr": [
+      "Entreprise et management"
+    ],
+    "it": [
+      "L'azienda e la gestione"
+    ],
+    "ru": [
+      "Бизнес и менеджмент"
+    ]
+  }
+}

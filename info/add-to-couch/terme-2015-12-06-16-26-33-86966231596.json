@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231596",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-economique/Liberte/",
+  "description": "Description de Liberté",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451236,
+  "identifiant-drupal-parent": 451175,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Liberté",
+  "nom-folder": "Liberte",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-33-86966231596"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Freedom"
+    ],
+    "ar": [
+      "الحرية"
+    ],
+    "es": [
+      "Libertad"
+    ],
+    "fr": [
+      "Liberté"
+    ],
+    "it": [
+      "Libertà"
+    ]
+  }
+}

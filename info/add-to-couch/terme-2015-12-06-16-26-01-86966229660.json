@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229660",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-direct,-gestion-relation-client/",
+  "description": "Description de Marketing direct et gestion de la relation client",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2064,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing direct et gestion de la relation client",
+  "nom-folder": "Marketing-direct,-gestion-relation-client",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229660"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Direct marketing and customer relationship management"
+    ],
+    "ar": [
+      "التسويق المباشر و إدارة علاقة الزبون"
+    ],
+    "es": [
+      "Marketing directo y gestión de la relación con los clientes"
+    ],
+    "fr": [
+      "Marketing direct et gestion de la relation client"
+    ],
+    "it": [
+      "Marketing diretto e gestione delle relazioni con i clienti"
+    ]
+  }
+}

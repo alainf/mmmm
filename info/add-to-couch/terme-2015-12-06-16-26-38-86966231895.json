@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231895",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Agnosticisme/",
+  "description": "Description de Agnosticisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269511,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Agnosticisme",
+  "nom-folder": "Agnosticisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-38-86966231895"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agnosticism"
+    ],
+    "ar": [
+      "الاأدرية"
+    ],
+    "es": [
+      "Agnosticismo"
+    ],
+    "fr": [
+      "Agnosticisme"
+    ],
+    "it": [
+      "agnosticismo"
+    ]
+  }
+}

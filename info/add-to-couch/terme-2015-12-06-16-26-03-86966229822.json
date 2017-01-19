@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229822",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Operation-des-reseaux/Optimisation-stochastique/",
+  "description": "Description de Optimisation stochastique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472311,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Optimisation stochastique",
+  "nom-folder": "Optimisation-stochastique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-03-86966229822"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Stochastic optimization"
+    ],
+    "ar": [
+      "الأمثل مؤشر ستوكاستيك"
+    ],
+    "es": [
+      "Optimización estocástica"
+    ],
+    "fr": [
+      "Optimisation stochastique"
+    ],
+    "it": [
+      "ottimizzazione stocastica"
+    ]
+  }
+}

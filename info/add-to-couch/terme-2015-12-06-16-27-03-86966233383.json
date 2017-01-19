@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-03-86966233383",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Perspectives-methodologiques-en-sociologie/Structuro-fonctionnalisme-(sociologie)/Marxisme-structurel/Materialisme-et-materialisme-historique/",
+  "description": "Description de Matérialisme et matérialisme historique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1046,
+  "identifiant-drupal-parent": 471947,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-03",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Matérialisme et matérialisme historique",
+  "nom-folder": "Materialisme-et-materialisme-historique",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-03-86966233383"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Materialism and Historical Materialism"
+    ],
+    "ar": [
+      "المادية، المادية التاريخية"
+    ],
+    "es": [
+      "Materialismo y materialismo histórico"
+    ],
+    "fr": [
+      "Matérialisme et matérialisme historique"
+    ],
+    "it": [
+      "Materialismo e materialismo storico"
+    ]
+  }
+}

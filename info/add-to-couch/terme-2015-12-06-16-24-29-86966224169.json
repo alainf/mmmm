@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224169",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Economie-de-la-peche/",
+  "description": "Description de Économie de la pêche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269085,
+  "identifiant-drupal-parent": 939,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Économie de la pêche",
+  "nom-folder": "Economie-de-la-peche",
+  "nom-machine": "terme-2015-12-06-16-24-29-86966224169",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fishing economics"
+    ],
+    "ar": [
+      "اقتصاديات صيد الأسماك"
+    ],
+    "es": [
+      "Economía de la pesca"
+    ],
+    "fr": [
+      "Économie de la pêche"
+    ],
+    "it": [
+      "Economia della pesca"
+    ]
+  }
+}

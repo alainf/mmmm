@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-02-86966233357",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Perspectives-methodologiques-en-sociologie/Fonctionnalisme-(sociologie)/",
+  "description": "Description de Fonctionnalisme (sociologie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1243,
+  "identifiant-drupal-parent": 1191,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-02",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Fonctionnalisme (sociologie)",
+  "nom-folder": "Fonctionnalisme-(sociologie)",
+  "nom-machine": "terme-2015-12-06-16-27-02-86966233357",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Functionalism (sociology)"
+    ],
+    "ar": [
+      "وظائفية بنيوية (علم الاجتماع)"
+    ],
+    "es": [
+      "Funcionalismo (sociología)"
+    ],
+    "fr": [
+      "Fonctionnalisme (sociologie)"
+    ],
+    "it": [
+      "Funzionalismo (sociologia)"
+    ]
+  }
+}

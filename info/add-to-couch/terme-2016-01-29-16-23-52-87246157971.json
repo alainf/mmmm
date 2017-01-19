@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-01-29-16-23-52-87246157971",
+  "breadcrumb": "taxonomies/langues//Nicois/",
+  "description": "Description de Niçois",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-01-29-16-23-52",
+  "moment-de-modification": "2016-01-29-16-26-20",
+  "nom": "Niçois",
+  "nom-folder": "Nicois",
+  "nom-machine": "terme-2016-01-29-16-23-52-87246157971",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Niçard"
+    ],
+    "es": [
+      "Nizardo"
+    ],
+    "fr": [
+      "Niçois"
+    ],
+    "it": [
+      "Nizzardo"
+    ]
+  }
+}

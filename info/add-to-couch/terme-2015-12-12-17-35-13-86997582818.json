@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-12-17-35-13-86997582818",
+  "breadcrumb": "taxonomies/formats/aucun/",
+  "description": "Description de Aucun",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-12-17-35-13",
+  "nom": "Aucun",
+  "nom-folder": "aucun",
+  "nom-machine": "terme-2015-12-12-17-35-13-86997582818",
+  "sous-type": "formats",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "None"
+    ],
+    "ar": [
+      "لا شيء"
+    ],
+    "es": [
+      "Ninguno"
+    ],
+    "fr": [
+      "Aucun"
+    ],
+    "it": [
+      "Nessuno"
+    ],
+    "ru": [
+      "никто"
+    ]
+  }
+}

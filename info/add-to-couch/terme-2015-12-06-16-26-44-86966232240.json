@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232240",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Criminologie/Prisons-et-incarceration/",
+  "description": "Description de Prisons et incarcération",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451803,
+  "identifiant-drupal-parent": 995,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Prisons et incarcération",
+  "nom-folder": "Prisons-et-incarceration",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-44-86966232240"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Prisons and imprisonment"
+    ],
+    "ar": [
+      "السجون والاحتجاز"
+    ],
+    "es": [
+      "Cárceles y encarcelamiento"
+    ],
+    "fr": [
+      "Prisons et incarcération"
+    ],
+    "it": [
+      "Prigioni e incarcerazione"
+    ]
+  }
+}

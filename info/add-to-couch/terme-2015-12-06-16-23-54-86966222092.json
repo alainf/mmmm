@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-54-86966222092",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Business-Administration/Banks-and-Banking/",
+  "description": "Description de Banks and banking",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368849,
+  "identifiant-drupal-parent": 368846,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-54",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Banks and banking",
+  "nom-folder": "Banks-and-Banking",
+  "nom-machine": "terme-2015-12-06-16-23-54-86966222092",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Banks and banking"
+    ]
+  }
+}

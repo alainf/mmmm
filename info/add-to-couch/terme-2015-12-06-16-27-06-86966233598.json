@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233598",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Sociologie-et-comportements/",
+  "description": "Description de Sociologie et comportements",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1194,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Sociologie et comportements",
+  "nom-folder": "Sociologie-et-comportements",
+  "nom-machine": "terme-2015-12-06-16-27-06-86966233598",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology and behaviors"
+    ],
+    "ar": [
+      "علم الاجتماع والسلوكيات"
+    ],
+    "es": [
+      "Sociología y comportamientos"
+    ],
+    "fr": [
+      "Sociologie et comportements"
+    ],
+    "it": [
+      "Sociologia e comportamenti"
+    ]
+  }
+}

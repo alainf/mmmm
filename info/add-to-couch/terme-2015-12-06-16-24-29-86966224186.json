@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224186",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Peche-en-bateau/Palangrotte/",
+  "description": "Description de Palangrotte",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269076,
+  "identifiant-drupal-parent": 269075,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Palangrotte",
+  "nom-folder": "Palangrotte",
+  "nom-machine": "terme-2015-12-06-16-24-29-86966224186",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Long lining"
+    ],
+    "ar": [
+      "صيد بالخيوط الطويلة"
+    ],
+    "es": [
+      "Pesca con palangre"
+    ],
+    "fr": [
+      "Palangrotte"
+    ],
+    "it": [
+      "Palangaro"
+    ]
+  }
+}

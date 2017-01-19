@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226165",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Langues/Langue-anglaise/",
+  "description": "Description de Langue anglaise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270404,
+  "identifiant-drupal-parent": 270402,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Langue anglaise",
+  "nom-folder": "Langue-anglaise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-02-86966226165"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "English language"
+    ],
+    "ar": [
+      "اللغة الإنجليزية"
+    ],
+    "es": [
+      "Idioma inglés"
+    ],
+    "fr": [
+      "Langue anglaise"
+    ],
+    "it": [
+      "lingua inglese"
+    ]
+  }
+}

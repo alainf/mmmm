@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233458",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Education/",
+  "description": "Description de Éducation",
+  "enfants": [
+    "terme-2015-12-06-16-27-04-86966233461",
+    "terme-2015-12-06-16-27-04-86966233464",
+    "terme-2015-12-06-16-27-04-86966233467"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1255,
+  "identifiant-drupal-parent": 1193,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Éducation",
+  "nom-folder": "Education",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-04-86966233458"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Education"
+    ],
+    "ar": [
+      "تعليم"
+    ],
+    "es": [
+      "Educación"
+    ],
+    "fr": [
+      "Éducation"
+    ],
+    "it": [
+      "Educazione"
+    ]
+  }
+}

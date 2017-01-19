@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227718",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Progiciels-de-gestion-integre/ERP/",
+  "description": "ERP",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1875,
+  "identifiant-drupal-parent": 1874,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Planification des ressources de l'entreprise (ERP)",
+  "nom-folder": "ERP",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227718"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Enterprise resource planning"
+    ],
+    "ar": [
+      "تخطيط موارد المؤسسة"
+    ],
+    "es": [
+      "Planificación de recursos empresariales"
+    ],
+    "fr": [
+      "Planification des ressources de l'entreprise (ERP)"
+    ],
+    "it": [
+      "pianificazione delle risorse d'impresa"
+    ]
+  }
+}

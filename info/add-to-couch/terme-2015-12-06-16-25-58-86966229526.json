@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229526",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Etudes-urbaines-et-touristiques/",
+  "description": "Description de Études urbaines et touristiques",
+  "enfants": [
+    "terme-2015-12-06-16-25-58-86966229530",
+    "terme-2015-12-06-16-25-58-86966229536",
+    "terme-2015-12-06-16-25-58-86966229539"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2181,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Études urbaines et touristiques",
+  "nom-folder": "Etudes-urbaines-et-touristiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229526"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban studies and tourism"
+    ],
+    "ar": [
+      "الدراسات الحضرية والسياحة"
+    ],
+    "es": [
+      "Estudios Urbanos y Turísticos"
+    ],
+    "fr": [
+      "Études urbaines et touristiques"
+    ],
+    "it": [
+      "Studi urbani e turistici"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-35-86966231704",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/maltraitance-des-enfants/",
+  "description": "Description de Maltraitance des enfants",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455608,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-35",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Maltraitance des enfants",
+  "nom-folder": "maltraitance-des-enfants",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-35-86966231704"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Child abuse"
+    ],
+    "ar": [
+      "الاعتداء على الأطفال"
+    ],
+    "es": [
+      "Maltrato infantil"
+    ],
+    "fr": [
+      "Maltraitance des enfants"
+    ],
+    "it": [
+      "Maltrattamenti sui minori"
+    ]
+  }
+}

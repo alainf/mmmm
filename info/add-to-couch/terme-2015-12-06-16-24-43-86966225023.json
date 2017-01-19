@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-43-86966225023",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litteratures-des-langues-hamitiques/",
+  "description": "Description de Littératures des langues hamitiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466980,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-43",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littératures des langues hamitiques",
+  "nom-folder": "Litteratures-des-langues-hamitiques",
+  "nom-machine": "terme-2015-12-06-16-24-43-86966225023",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Hamitic languages Literature"
+    ],
+    "ar": [
+      "أداب لغات حامي"
+    ],
+    "es": [
+      "Literatura de las Lenguas camito-semíticas"
+    ],
+    "fr": [
+      "Littératures des langues hamitiques"
+    ],
+    "it": [
+      "Letterature delle lingue camitiche"
+    ]
+  }
+}

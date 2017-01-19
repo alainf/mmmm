@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226381",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Formation-dans-l'entreprise/",
+  "description": "Description de Formation dans l'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465743,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Formation dans l'entreprise",
+  "nom-folder": "Formation-dans-l'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226381"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "On the job training"
+    ],
+    "ar": [
+      "تدريب في شركة"
+    ],
+    "es": [
+      "Capacitación en la empresa"
+    ],
+    "fr": [
+      "Formation dans l'entreprise"
+    ],
+    "it": [
+      "formazione sul lavoro"
+    ]
+  }
+}

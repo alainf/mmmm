@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174549",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Georgien/",
+  "description": "Description de Géorgien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382367,
+  "ISO-639-1": "ka",
+  "ISO-639-2": "geo/kat",
+  "ISO-639-3": "kat",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2016-02-04-04-57-57",
+  "nom": "Géorgien",
+  "nom-folder": "Georgien",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174549",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9orgien",
+  "nomLangues": {
+    "en": [
+      "Georgian"
+    ],
+    "ar": [
+      "جورجية"
+    ],
+    "es": [
+      "Georgiano"
+    ],
+    "fr": [
+      "Géorgien"
+    ],
+    "it": [
+      "Georgiano"
+    ],
+    "ru": [
+      "Грузинский"
+    ]
+  }
+}

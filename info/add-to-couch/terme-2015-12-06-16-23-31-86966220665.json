@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220665",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Formes-d'organisations/Franchises/",
+  "description": "Description de Franchises",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270545,
+  "identifiant-drupal-parent": 270512,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Franchises",
+  "nom-folder": "Franchises",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220665"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Franchises"
+    ],
+    "ar": [
+      "الامتيازات"
+    ],
+    "es": [
+      "Franquicias"
+    ],
+    "fr": [
+      "Franchises"
+    ],
+    "it": [
+      "Franchigie"
+    ]
+  }
+}

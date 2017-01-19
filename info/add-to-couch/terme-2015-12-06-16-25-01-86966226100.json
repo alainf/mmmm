@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226100",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Internet-(informatique)/Reseaux-sociaux/",
+  "description": "Description de Réseaux sociaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272425,
+  "identifiant-drupal-parent": 270357,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Réseaux sociaux",
+  "nom-folder": "Reseaux-sociaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-01-86966226100"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social networks"
+    ],
+    "ar": [
+      "الشبكات الاجتماعية"
+    ],
+    "es": [
+      "Redes sociales"
+    ],
+    "fr": [
+      "Réseaux sociaux"
+    ],
+    "it": [
+      "Reti sociali"
+    ]
+  }
+}

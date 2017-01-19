@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-19-86966223562",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Services-de-soutien-a-l-exploitation-forestiere/",
+  "description": "Description de Services de soutien à l'exploitation forestière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Services de soutien à l'exploitation forestière",
+  "nom-folder": "Services-de-soutien-a-l-exploitation-forestiere",
+  "nom-machine": "terme-2015-12-06-16-24-19-86966223562",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Services de soutien à l'exploitation forestière"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-45-86966225156",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Techniques-de-la-peinture/Peinture-en-transparence/",
+  "description": "Peinture en transparence",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467024,
+  "identifiant-drupal-parent": 467018,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-45",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Glacis (peinture)",
+  "nom-folder": "Peinture-en-transparence",
+  "nom-machine": "terme-2015-12-06-16-24-45-86966225156",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Glaze (painting technique)"
+    ],
+    "ar": [
+      "الصقيل"
+    ],
+    "es": [
+      "Veladura"
+    ],
+    "fr": [
+      "Glacis (peinture)"
+    ],
+    "it": [
+      "Velatura"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-18-86966230731",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astrophysique-(l'univers)/asterosismologie/",
+  "description": "Description de Astérosismologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270784,
+  "identifiant-drupal-parent": 270777,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-18",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Astérosismologie",
+  "nom-folder": "asterosismologie",
+  "nom-machine": "terme-2015-12-06-16-26-18-86966230731",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Asteroseismology"
+    ],
+    "ar": [
+      "علم زلازل الكواكب"
+    ],
+    "es": [
+      "Asterosismología"
+    ],
+    "fr": [
+      "Astérosismologie"
+    ],
+    "it": [
+      "Astrosismologia"
+    ]
+  }
+}

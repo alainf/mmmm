@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-41-86966224908",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Industrie-creative/Jeux-video/",
+  "description": "Description de Jeux vidéo",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471924,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-41",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Jeux vidéo",
+  "nom-folder": "Jeux-video",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-41-86966224908"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Video games"
+    ],
+    "ar": [
+      "ألعاب الفيديو"
+    ],
+    "es": [
+      "Videojuego"
+    ],
+    "fr": [
+      "Jeux vidéo"
+    ],
+    "it": [
+      "Videogiochi"
+    ]
+  }
+}

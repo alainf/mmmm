@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230509",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Developpement-economique/Politiques-d'aide-au-developpement/",
+  "description": "Description de Politiques d'aide au développement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472284,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Politiques d'aide au développement",
+  "nom-folder": "Politiques-d'aide-au-developpement",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230509"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Development assistance policies"
+    ],
+    "ar": [
+      "سياسات المعونة الإنمائية"
+    ],
+    "es": [
+      "Políticas de ayuda al desarrollo"
+    ],
+    "fr": [
+      "Politiques d'aide au développement"
+    ],
+    "it": [
+      "Politiche di aiuto allo sviluppo"
+    ]
+  }
+}

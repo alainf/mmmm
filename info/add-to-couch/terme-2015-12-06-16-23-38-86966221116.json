@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221116",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Affaires,-economie-et-finances-personnelles/Economie/",
+  "description": "Description de Économie",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270675,
+  "identifiant-drupal-parent": 270643,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Économie",
+  "nom-folder": "Economie",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221116"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economy"
+    ],
+    "ar": [
+      "الاقتصاد"
+    ],
+    "es": [
+      "Economía"
+    ],
+    "fr": [
+      "Économie"
+    ],
+    "it": [
+      "Economia"
+    ]
+  }
+}

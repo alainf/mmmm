@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227433",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Theories-du-commerce-international/Rendements-d'echelle-croissants-et-effets-reseaux/",
+  "description": "Description de Rendements d'échelle croissants et effets réseaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1824,
+  "identifiant-drupal-parent": 1817,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Rendements d'échelle croissants et effets réseaux",
+  "nom-folder": "Rendements-d'echelle-croissants-et-effets-reseaux",
+  "nom-machine": "terme-2015-12-06-16-25-23-86966227433",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Increasing returns to scale and network effects"
+    ],
+    "ar": [
+      "زيادة العوائد لشبكات النطاق والآثار"
+    ],
+    "es": [
+      "Rendimientos crecientes a escala y efectos de redes"
+    ],
+    "fr": [
+      "Rendements d'échelle croissants et effets réseaux"
+    ],
+    "it": [
+      "Rendimenti crescenti di scala ed effetti di rete"
+    ]
+  }
+}

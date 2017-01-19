@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232112",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie_-theorie-et-methodologie/",
+  "description": "Description de Anthropologie: théorie et méthodologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455698,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie: théorie et méthodologie",
+  "nom-folder": "Anthropologie_-theorie-et-methodologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-41-86966232112"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anthropology: Theory & Methodology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا: نظرية ومنهجية"
+    ],
+    "es": [
+      "Antropología: Teoría y Metodología"
+    ],
+    "fr": [
+      "Anthropologie: théorie et méthodologie"
+    ],
+    "it": [
+      "Antropologia: teoria e metodologia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224062",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Especes-de-plantes/",
+  "description": "Description de Espèces de plantes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268987,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Espèces de plantes",
+  "nom-folder": "Especes-de-plantes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-27-86966224062"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Plant species"
+    ],
+    "ar": [
+      "أنواع النباتات"
+    ],
+    "es": [
+      "Especies de plantas"
+    ],
+    "fr": [
+      "Espèces de plantes"
+    ],
+    "it": [
+      "Specie di piante"
+    ]
+  }
+}

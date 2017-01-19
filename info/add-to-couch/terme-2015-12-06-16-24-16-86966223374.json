@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-16-86966223374",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Social-Sciences-(category)/Methodology-of-Social-Sciences/",
+  "description": "Description de Methodology of social sciences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369285,
+  "identifiant-drupal-parent": 369274,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-16",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Methodology of social sciences",
+  "nom-folder": "Methodology-of-Social-Sciences",
+  "nom-machine": "terme-2015-12-06-16-24-16-86966223374",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Methodology of social sciences"
+    ]
+  }
+}

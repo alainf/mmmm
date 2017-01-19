@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221378",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Emplois/Instituts-de-recherche/",
+  "description": "Description de Instituts de recherche",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1732,
+  "identifiant-drupal-parent": 1672,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Instituts de recherche",
+  "nom-folder": "Instituts-de-recherche",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221378"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research institutes"
+    ],
+    "ar": [
+      "معاهد البحوث"
+    ],
+    "es": [
+      "Institutos de investigación"
+    ],
+    "fr": [
+      "Instituts de recherche"
+    ],
+    "it": [
+      "Istituti di ricerca"
+    ]
+  }
+}

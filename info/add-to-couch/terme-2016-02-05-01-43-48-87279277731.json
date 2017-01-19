@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2016-02-05-01-43-48-87279277731",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Avec-quoi-ecrire/Inclure-des-elements-visuels/Contribuer-a-la-verisimilitude/",
+  "description": "Description de Contribuer à la vérisimilitude",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-43-48",
+  "moment-de-modification": "2016-02-05-01-49-08",
+  "nom": "Contribuer à la vérisimilitude",
+  "nom-folder": "Contribuer-a-la-verisimilitude",
+  "nom-machine": "terme-2016-02-05-01-43-48-87279277731",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Contribute to verisimilitude"
+    ],
+    "ar": [
+      "المساهمة في شىء محتمل"
+    ],
+    "es": [
+      "Contribuir a la verosimilitud"
+    ],
+    "fr": [
+      "Contribuer à la vérisimilitude"
+    ],
+    "it": [
+      "Contribuire alla verosimiglianza"
+    ]
+  }
+}

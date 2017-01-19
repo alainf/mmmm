@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-16-40-87275076018",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Slovene/",
+  "description": "Description de Slovène",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "sl",
+  "ISO-639-2": "slv",
+  "ISO-639-3": "slv",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-16-40",
+  "moment-de-modification": "2016-02-04-06-17-13",
+  "nom": "Slovène",
+  "nom-folder": "Slovene",
+  "nom-machine": "terme-2016-02-04-06-16-40-87275076018",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Slov%C3%A8ne",
+  "nomLangues": {
+    "en": [
+      "Slovene"
+    ],
+    "ar": [
+      "سلوفينية"
+    ],
+    "es": [
+      "Esloveno"
+    ],
+    "fr": [
+      "Slovène"
+    ],
+    "it": [
+      "Sloveno"
+    ],
+    "ru": [
+      "Словенский"
+    ]
+  }
+}

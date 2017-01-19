@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-00-86966222414",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Education/Counseling/",
+  "description": "Description de Counseling",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368958,
+  "identifiant-drupal-parent": 368955,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-24-00",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Counseling",
+  "nom-folder": "Counseling",
+  "nom-machine": "terme-2015-12-06-16-24-00-86966222414",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Counseling"
+    ]
+  }
+}

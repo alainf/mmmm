@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225854",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/",
+  "description": "Description de Finances publiques (finance)",
+  "enfants": [
+    "terme-2015-12-06-16-24-57-86966225857",
+    "terme-2015-12-06-16-24-57-86966225860",
+    "terme-2015-12-06-16-24-57-86966225863",
+    "terme-2015-12-06-16-24-57-86966225866",
+    "terme-2015-12-06-16-24-57-86966225869",
+    "terme-2015-12-06-16-24-58-86966225880"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271339,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Finances publiques (finance)",
+  "nom-folder": "Finances-publiques-(finance)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225854"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public Finance"
+    ],
+    "ar": [
+      "مالية العامة (المالية)"
+    ],
+    "es": [
+      "Finanzas Públicas (finanzas)"
+    ],
+    "fr": [
+      "Finances publiques (finance)"
+    ],
+    "it": [
+      "finanze pubbliche (finanze)"
+    ]
+  }
+}

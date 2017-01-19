@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225731",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Globalisation-des-institutions/Cadres-superieurs-et-think-tanks/",
+  "description": "Description de Cadres supérieurs et think tanks",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455673,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Cadres supérieurs et think tanks",
+  "nom-folder": "Cadres-superieurs-et-think-tanks",
+  "nom-machine": "terme-2015-12-06-16-24-55-86966225731",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Senior management and think tanks"
+    ],
+    "ar": [
+      "الإطارات العليا ومراكز البحوث"
+    ],
+    "es": [
+      "máximos ejecutivos y grupos de reflexión"
+    ],
+    "fr": [
+      "Cadres supérieurs et think tanks"
+    ],
+    "it": [
+      "Quadri dirigenti e serbatoi di pensiero"
+    ]
+  }
+}

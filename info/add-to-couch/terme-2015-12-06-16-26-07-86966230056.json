@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-26-07-86966230056",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/",
+  "description": "Description de Minéralogie",
+  "enfants": [
+    "terme-2015-12-06-16-26-07-86966230059",
+    "terme-2015-12-06-16-26-07-86966230062",
+    "terme-2015-12-06-16-26-07-86966230065",
+    "terme-2015-12-06-16-26-07-86966230074",
+    "terme-2015-12-06-16-26-08-86966230099",
+    "terme-2015-12-06-16-26-09-86966230152"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270826,
+  "identifiant-drupal-parent": 886,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-07",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Minéralogie",
+  "nom-folder": "Mineralogie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-07-86966230056"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mineralogy"
+    ],
+    "ar": [
+      "علم المعادن"
+    ],
+    "es": [
+      "Mineralogía"
+    ],
+    "fr": [
+      "Minéralogie"
+    ],
+    "it": [
+      "Mineralogia"
+    ]
+  }
+}

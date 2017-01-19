@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-46-86966221612",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Styles-de-vie/Sorties/",
+  "description": "Description de Sorties",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270709,
+  "identifiant-drupal-parent": 270707,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-46",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Sorties",
+  "nom-folder": "Sorties",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-46-86966221612"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Going out"
+    ],
+    "ar": [
+      "طلعة جوية"
+    ],
+    "es": [
+      "Salidas"
+    ],
+    "fr": [
+      "Sorties"
+    ],
+    "it": [
+      "Uscite"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220917",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Industrie-financiere/Assurances/",
+  "description": "Description de Assurances",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270566,
+  "identifiant-drupal-parent": 270564,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Assurances",
+  "nom-folder": "Assurances",
+  "nom-machine": "terme-2015-12-06-16-23-35-86966220917",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Insurance"
+    ],
+    "ar": [
+      "التامين"
+    ],
+    "es": [
+      "Contrato de seguro"
+    ],
+    "fr": [
+      "Assurances"
+    ],
+    "it": [
+      "Assicurazione"
+    ],
+    "ru": [
+      "Страхование"
+    ]
+  }
+}

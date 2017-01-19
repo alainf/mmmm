@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230664",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Controverses-scientifiques-et-techniques/",
+  "description": "Description de Controverses scientifiques et techniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472020,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Controverses scientifiques et techniques",
+  "nom-folder": "Controverses-scientifiques-et-techniques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230664"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scientific and technical controversies"
+    ],
+    "ar": [
+      "منازعات العلمية والتقنية"
+    ],
+    "es": [
+      "Controversias científicas y técnicas"
+    ],
+    "fr": [
+      "Controverses scientifiques et techniques"
+    ],
+    "it": [
+      "Controversie scientifiche e tecniche"
+    ]
+  }
+}

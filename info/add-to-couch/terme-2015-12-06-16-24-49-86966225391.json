@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225391",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/",
+  "description": "Description de Droit privé",
+  "enfants": [
+    "terme-2015-12-06-16-24-49-86966225394",
+    "terme-2015-12-06-16-24-50-86966225414",
+    "terme-2015-12-06-16-24-50-86966225450",
+    "terme-2015-12-06-16-24-51-86966225462"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269113,
+  "identifiant-drupal-parent": 269096,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit privé",
+  "nom-folder": "Droit-prive",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-49-86966225391"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Private law"
+    ],
+    "ar": [
+      "قانون الخاص"
+    ],
+    "es": [
+      "Derecho privado"
+    ],
+    "fr": [
+      "Droit privé"
+    ],
+    "it": [
+      "Diritto privato"
+    ]
+  }
+}

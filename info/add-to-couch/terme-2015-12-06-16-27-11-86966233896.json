@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-11-86966233896",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/bibliographique/",
+  "description": "Description de Bibliographique",
+  "enfants": [
+    "terme-2015-12-06-16-27-11-86966233899",
+    "terme-2015-12-06-16-27-11-86966233901"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369426,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-11",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Bibliographique",
+  "nom-folder": "bibliographique",
+  "nom-machine": "terme-2015-12-06-16-27-11-86966233896",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bibliographic"
+    ],
+    "es": [
+      "Bibliográfico"
+    ],
+    "fr": [
+      "Bibliographique"
+    ],
+    "it": [
+      "Bibliografico"
+    ]
+  }
+}

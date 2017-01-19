@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220869",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Processus-industriels/Etudes/",
+  "description": "Description de Études",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270587,
+  "identifiant-drupal-parent": 270584,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Études",
+  "nom-folder": "Etudes",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220869"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Studies"
+    ],
+    "ar": [
+      "دراسات"
+    ],
+    "es": [
+      "Estudios"
+    ],
+    "fr": [
+      "Études"
+    ],
+    "it": [
+      "Studi"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-26-24-86966231053",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-physique/",
+  "description": "Description de Géographie physique",
+  "enfants": [
+    "terme-2015-12-06-16-26-24-86966231055",
+    "terme-2015-12-06-16-26-24-86966231058",
+    "terme-2015-12-06-16-26-24-86966231064",
+    "terme-2015-12-06-16-26-24-86966231067",
+    "terme-2015-12-06-16-26-24-86966231070",
+    "terme-2015-12-06-16-26-24-86966231073"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 953,
+  "identifiant-drupal-parent": 946,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-24",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Géographie physique",
+  "nom-folder": "Geographie-physique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-24-86966231053"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Physical Geography"
+    ],
+    "ar": [
+      "جغرافيا فيزيائية"
+    ],
+    "es": [
+      "Geografía física"
+    ],
+    "fr": [
+      "Géographie physique"
+    ],
+    "it": [
+      "Geografia fisica"
+    ]
+  }
+}

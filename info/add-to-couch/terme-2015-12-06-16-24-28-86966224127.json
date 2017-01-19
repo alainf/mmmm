@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224127",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Foresterie/Ingenierie-forestiere/",
+  "description": "Description de Ingénierie forestière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268991,
+  "identifiant-drupal-parent": 938,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Ingénierie forestière",
+  "nom-folder": "Ingenierie-forestiere",
+  "nom-machine": "terme-2015-12-06-16-24-28-86966224127",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Forest engineering"
+    ],
+    "ar": [
+      "هندسة الغابات"
+    ],
+    "es": [
+      "Ingeniería forestal"
+    ],
+    "fr": [
+      "Ingénierie forestière"
+    ],
+    "it": [
+      "Ingegneria forestale"
+    ]
+  }
+}

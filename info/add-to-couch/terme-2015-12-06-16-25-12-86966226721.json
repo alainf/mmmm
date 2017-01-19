@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226721",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-de-masse/NTIC/",
+  "description": "Description de Nouvelles technologies de l'information et de la communication",
+  "enfants": [
+    "terme-2015-12-06-16-25-12-86966226725",
+    "terme-2015-12-06-16-25-12-86966226728",
+    "terme-2015-12-06-16-25-12-86966226730",
+    "terme-2015-12-06-16-25-12-86966226734"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272185,
+  "identifiant-drupal-parent": 272180,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Nouvelles technologies de l'information et de la communication",
+  "nom-folder": "NTIC",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226721"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "New information and communications technologies"
+    ],
+    "ar": [
+      "التكنولوجيات الجديدة في المعلومات والإتصالات"
+    ],
+    "es": [
+      "Nuevas tecnologías de la información y la comunicación"
+    ],
+    "fr": [
+      "Nouvelles technologies de l'information et de la communication"
+    ],
+    "it": [
+      "Nuove tecnologie dell'informazione e della comunicazione"
+    ]
+  }
+}

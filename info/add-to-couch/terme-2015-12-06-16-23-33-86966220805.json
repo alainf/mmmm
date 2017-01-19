@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220805",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/L'entreprise-et-la-mondialisation/",
+  "description": "Description de L'entreprise et la mondialisation",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270477,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "L'entreprise et la mondialisation",
+  "nom-folder": "L'entreprise-et-la-mondialisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-33-86966220805"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Enterprise and globalization"
+    ],
+    "ar": [
+      "الشركة والعولمة"
+    ],
+    "es": [
+      "La empresa y la globalización"
+    ],
+    "fr": [
+      "L'entreprise et la mondialisation"
+    ],
+    "it": [
+      "La società e la globalizzazione"
+    ],
+    "ru": [
+      "Предприятие и глобализация"
+    ]
+  }
+}

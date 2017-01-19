@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226604",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Rechauffement-climatique/Recherche-polaire/",
+  "description": "Description de Recherche polaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471989,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Recherche polaire",
+  "nom-folder": "Recherche-polaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-10-86966226604"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Polar research"
+    ],
+    "ar": [
+      "البحوث القطبية"
+    ],
+    "es": [
+      "Investigación polar"
+    ],
+    "fr": [
+      "Recherche polaire"
+    ],
+    "it": [
+      "ricerca polare"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223807",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Ecologie-agricole/",
+  "description": "Description de Écologie agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 904,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Écologie agricole",
+  "nom-folder": "Ecologie-agricole",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223807"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural ecology"
+    ],
+    "ar": [
+      "الإيكولوجيا الزراعية"
+    ],
+    "es": [
+      "Agroecología"
+    ],
+    "fr": [
+      "Écologie agricole"
+    ],
+    "it": [
+      "Agroecologia"
+    ]
+  }
+}

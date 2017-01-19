@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-24-30-86966224234",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/",
+  "description": "Description de Élevage (zootechnie)",
+  "enfants": [
+    "terme-2015-12-06-16-24-30-86966224237",
+    "terme-2015-12-06-16-24-30-86966224240",
+    "terme-2015-12-06-16-24-30-86966224243",
+    "terme-2015-12-06-16-24-30-86966224245",
+    "terme-2015-12-06-16-24-30-86966224249",
+    "terme-2015-12-06-16-24-30-86966224252",
+    "terme-2015-12-06-16-24-30-86966224255",
+    "terme-2015-12-06-16-24-31-86966224302"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269001,
+  "identifiant-drupal-parent": 940,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-30",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Élevage (zootechnie)",
+  "nom-folder": "Elevage-(zootechnie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-30-86966224234"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Animal husbandry"
+    ],
+    "ar": [
+      "تربية الحيوان"
+    ],
+    "es": [
+      "Ganadería (zootecnia)"
+    ],
+    "fr": [
+      "Élevage (zootechnie)"
+    ],
+    "it": [
+      "Allevamento (zootecnia)"
+    ]
+  }
+}

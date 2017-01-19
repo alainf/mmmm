@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232641",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Actualites-politiques/Guerre-et-politique/",
+  "description": "Description de Guerre et politique",
+  "enfants": [
+    "terme-2015-12-06-16-26-50-86966232644",
+    "terme-2015-12-06-16-26-50-86966232647",
+    "terme-2015-12-06-16-26-50-86966232650",
+    "terme-2015-12-06-16-26-50-86966232656",
+    "terme-2015-12-06-16-26-50-86966232659"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472057,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Guerre et politique",
+  "nom-folder": "Guerre-et-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232641"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "War and politics"
+    ],
+    "ar": [
+      "حرب و سياسة"
+    ],
+    "es": [
+      "Guerra y política"
+    ],
+    "fr": [
+      "Guerre et politique"
+    ],
+    "it": [
+      "Guerra e politica"
+    ]
+  }
+}

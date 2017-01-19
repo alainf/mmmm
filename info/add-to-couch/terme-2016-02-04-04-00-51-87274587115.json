@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-00-51-87274587115",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Dzongkha/",
+  "description": "Description de Dzongkha",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "dz",
+  "ISO-639-2": "dzo",
+  "ISO-639-3": "dzo",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-00-51",
+  "moment-de-modification": "2016-02-04-04-02-19",
+  "nom": "Dzongkha",
+  "nom-folder": "Dzongkha",
+  "nom-machine": "terme-2016-02-04-04-00-51-87274587115",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Dzongkha/wiki/Dzongkha",
+  "nomLangues": {
+    "en": [
+      "Dzongkha"
+    ],
+    "ar": [
+      "دزونكا"
+    ],
+    "es": [
+      "Dzongkha"
+    ],
+    "fr": [
+      "Dzongkha"
+    ],
+    "it": [
+      "Dzongkha"
+    ],
+    "ru": [
+      "Дзонг-кэ"
+    ]
+  }
+}

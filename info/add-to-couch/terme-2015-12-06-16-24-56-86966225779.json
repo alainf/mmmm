@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225779",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Philosophie-de-l'economie/",
+  "description": "Description de Philosophie de l'économie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472055,
+  "identifiant-drupal-parent": 1254,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Philosophie de l'économie",
+  "nom-folder": "Philosophie-de-l'economie",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225779"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of economics"
+    ],
+    "ar": [
+      "فلسفة الاقتصاد"
+    ],
+    "es": [
+      "Filosofía de la economía"
+    ],
+    "fr": [
+      "Philosophie de l'économie"
+    ],
+    "it": [
+      "Filosofia dell'economia"
+    ]
+  }
+}

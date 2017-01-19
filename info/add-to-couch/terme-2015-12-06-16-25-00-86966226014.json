@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226014",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Informatique-libre/",
+  "description": "Description de Informatique libre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 452484,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Informatique libre",
+  "nom-folder": "Informatique-libre",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-00-86966226014"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Free software"
+    ],
+    "ar": [
+      "برمجيات حرة"
+    ],
+    "es": [
+      "Software libre"
+    ],
+    "fr": [
+      "Informatique libre"
+    ],
+    "it": [
+      "Software libero"
+    ]
+  }
+}

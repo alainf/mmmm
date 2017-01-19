@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-23-55-86966222148",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Chemistry/",
+  "description": "Description de Chemistry",
+  "enfants": [
+    "terme-2015-12-06-16-23-55-86966222151",
+    "terme-2015-12-06-16-23-55-86966222154",
+    "terme-2015-12-06-16-23-55-86966222157",
+    "terme-2015-12-06-16-23-56-86966222160",
+    "terme-2015-12-06-16-23-56-86966222162",
+    "terme-2015-12-06-16-23-56-86966222165",
+    "terme-2015-12-06-16-23-56-86966222168",
+    "terme-2015-12-06-16-23-56-86966222170",
+    "terme-2015-12-06-16-23-56-86966222173",
+    "terme-2015-12-06-16-23-56-86966222176",
+    "terme-2015-12-06-16-23-56-86966222179",
+    "terme-2015-12-06-16-23-56-86966222182",
+    "terme-2015-12-06-16-23-56-86966222185",
+    "terme-2015-12-06-16-23-56-86966222188",
+    "terme-2015-12-06-16-23-56-86966222191",
+    "terme-2015-12-06-16-23-56-86966222194",
+    "terme-2015-12-06-16-23-56-86966222197",
+    "terme-2015-12-06-16-23-56-86966222200",
+    "terme-2015-12-06-16-23-56-86966222202"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368868,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-55",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Chemistry",
+  "nom-folder": "Chemistry",
+  "nom-machine": "terme-2015-12-06-16-23-55-86966222148",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Chemistry"
+    ]
+  }
+}

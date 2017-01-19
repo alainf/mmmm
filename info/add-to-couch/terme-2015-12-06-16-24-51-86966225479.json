@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-51-86966225479",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-public/Droit-de-l'education/",
+  "description": "Description de Droit de l'éducation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269105,
+  "identifiant-drupal-parent": 269097,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-51",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit de l'éducation",
+  "nom-folder": "Droit-de-l'education",
+  "nom-machine": "terme-2015-12-06-16-24-51-86966225479",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Education Law"
+    ],
+    "ar": [
+      "قانون التعليم"
+    ],
+    "es": [
+      "Derecho de la Educación"
+    ],
+    "fr": [
+      "Droit de l'éducation"
+    ],
+    "it": [
+      "Diritto dell'educazione"
+    ]
+  }
+}

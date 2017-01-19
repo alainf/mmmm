@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226426",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Recherche-academique/Recherche-scientifique/",
+  "description": "Description de Recherche scientifique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455682,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Recherche scientifique",
+  "nom-folder": "Recherche-scientifique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226426"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scientific research"
+    ],
+    "ar": [
+      "منهج علمي"
+    ],
+    "es": [
+      "Investigación científica"
+    ],
+    "fr": [
+      "Recherche scientifique"
+    ],
+    "it": [
+      "ricerca scientifica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230934",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-vie/Biologie/Exobiologie/",
+  "description": "Description de Exobiologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270780,
+  "identifiant-drupal-parent": 270762,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Exobiologie",
+  "nom-folder": "Exobiologie",
+  "nom-machine": "terme-2015-12-06-16-26-22-86966230934",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Exobiology"
+    ],
+    "ar": [
+      "علم الأحياء الخارجي"
+    ],
+    "es": [
+      "Exobiología"
+    ],
+    "fr": [
+      "Exobiologie"
+    ],
+    "it": [
+      "Esobiologia"
+    ]
+  }
+}

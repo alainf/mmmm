@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-26-34-86966231652",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Communication-non-verbale/",
+  "description": "Description de Communication non-verbale",
+  "enfants": [
+    "terme-2015-12-06-16-26-34-86966231656",
+    "terme-2015-12-06-16-26-34-86966231659",
+    "terme-2015-12-06-16-26-34-86966231662",
+    "terme-2015-12-06-16-26-34-86966231664",
+    "terme-2015-12-06-16-26-34-86966231667"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469442,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-34",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Communication non-verbale",
+  "nom-folder": "Communication-non-verbale",
+  "nom-machine": "terme-2015-12-06-16-26-34-86966231652",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Nonverbal communication"
+    ],
+    "ar": [
+      "الإتصال غير اللفظي"
+    ],
+    "es": [
+      "Comunicación no verbal"
+    ],
+    "fr": [
+      "Communication non-verbale"
+    ],
+    "it": [
+      "Comunicazione non verbale"
+    ]
+  }
+}

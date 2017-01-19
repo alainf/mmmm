@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-46-86966221579",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Litterature/",
+  "description": "Description de Littérature",
+  "enfants": [
+    "terme-2015-12-06-16-23-46-86966221582"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270604,
+  "identifiant-drupal-parent": 1665,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-46",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Littérature",
+  "nom-folder": "Litterature",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-46-86966221579"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Literature"
+    ],
+    "ar": [
+      "أدب"
+    ],
+    "es": [
+      "Literatura"
+    ],
+    "fr": [
+      "Littérature"
+    ],
+    "it": [
+      "Letteratura"
+    ]
+  }
+}

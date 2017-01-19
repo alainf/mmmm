@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-30-86966231414",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-pratique/Anesthesiologie-reanimation/",
+  "description": "Description de Anesthésiologie-réanimation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1419,
+  "identifiant-drupal-parent": 1414,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-30",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Anesthésiologie-réanimation",
+  "nom-folder": "Anesthesiologie-reanimation",
+  "nom-machine": "terme-2015-12-06-16-26-30-86966231414",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anesthesiology-resuscitation"
+    ],
+    "ar": [
+      "علم التخدير و الإنعاش"
+    ],
+    "es": [
+      "Anestesiología-reanimación"
+    ],
+    "fr": [
+      "Anesthésiologie-réanimation"
+    ],
+    "it": [
+      "Anestesiologia-rianimazione"
+    ]
+  }
+}

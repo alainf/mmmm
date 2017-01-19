@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966224007",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Autres-cultures-agricoles/Culture-du-coton/",
+  "description": "Description de Culture du coton",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451058,
+  "identifiant-drupal-parent": 451056,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture du coton",
+  "nom-folder": "Culture-du-coton",
+  "nom-machine": "terme-2015-12-06-16-24-26-86966224007",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cotton farming"
+    ],
+    "ar": [
+      "زراعة القطن"
+    ],
+    "es": [
+      "Cultivo de algodón"
+    ],
+    "fr": [
+      "Culture du coton"
+    ],
+    "it": [
+      "Coltivazione del cotone"
+    ]
+  }
+}

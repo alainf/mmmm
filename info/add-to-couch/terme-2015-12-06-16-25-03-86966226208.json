@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226208",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/Linguistique-comparee/",
+  "description": "Description de Linguistique comparée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270396,
+  "identifiant-drupal-parent": 270393,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Linguistique comparée",
+  "nom-folder": "Linguistique-comparee",
+  "nom-machine": "terme-2015-12-06-16-25-03-86966226208",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Historical linguistics"
+    ],
+    "ar": [
+      "لسانيات مقارناتية"
+    ],
+    "es": [
+      "Lingüística histórica"
+    ],
+    "fr": [
+      "Linguistique comparée"
+    ],
+    "it": [
+      "Linguistica storica"
+    ]
+  }
+}

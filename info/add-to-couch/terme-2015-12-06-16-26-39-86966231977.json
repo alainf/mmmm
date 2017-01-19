@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231977",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Sciences-des-religions/",
+  "description": "Description de Sciences des religions",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466777,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Sciences des religions",
+  "nom-folder": "Sciences-des-religions",
+  "nom-machine": "terme-2015-12-06-16-26-39-86966231977",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Religious studies"
+    ],
+    "ar": [
+      "علوم الدين"
+    ],
+    "es": [
+      "Ciencias de la religión"
+    ],
+    "fr": [
+      "Sciences des religions"
+    ],
+    "it": [
+      "Scienze delle religioni"
+    ],
+    "ru": []
+  }
+}

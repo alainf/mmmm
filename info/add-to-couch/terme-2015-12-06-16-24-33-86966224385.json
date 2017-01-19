@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224385",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Architecture/Classification-des-constructions/",
+  "description": "Description de Classification des constructions",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466825,
+  "identifiant-drupal-parent": 466817,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Classification des constructions",
+  "nom-folder": "Classification-des-constructions",
+  "nom-machine": "terme-2015-12-06-16-24-33-86966224385",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Classification of buildings"
+    ],
+    "ar": [
+      "تصنيف المنشاءات"
+    ],
+    "es": [
+      "Clasificación de las construcciones"
+    ],
+    "fr": [
+      "Classification des constructions"
+    ],
+    "it": [
+      "Classificazione delle costruzioni"
+    ]
+  }
+}

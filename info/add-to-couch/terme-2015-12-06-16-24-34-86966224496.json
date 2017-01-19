@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-34-86966224496",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-et-culture/",
+  "description": "Description de Arts et culture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466870,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-34",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Arts et culture",
+  "nom-folder": "Arts-et-culture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-34-86966224496"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arts and culture"
+    ],
+    "ar": [
+      "فنون والثقافة"
+    ],
+    "es": [
+      "Artes y cultura"
+    ],
+    "fr": [
+      "Arts et culture"
+    ],
+    "it": [
+      "Arti e cultura"
+    ]
+  }
+}

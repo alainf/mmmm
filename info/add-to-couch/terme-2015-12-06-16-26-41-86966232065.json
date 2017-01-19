@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232065",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-des-pratiques-corporelles/Scarification-(corporelle)/",
+  "description": "Description de Scarification (corporelle)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272209,
+  "identifiant-drupal-parent": 272207,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Scarification (corporelle)",
+  "nom-folder": "Scarification-(corporelle)",
+  "nom-machine": "terme-2015-12-06-16-26-41-86966232065",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scarification (body)"
+    ],
+    "ar": [
+      "تشريط (الجسم)"
+    ],
+    "es": [
+      "Escarificación (cuerpo)"
+    ],
+    "fr": [
+      "Scarification (corporelle)"
+    ],
+    "it": [
+      "Scarificazione (corpo)"
+    ]
+  }
+}

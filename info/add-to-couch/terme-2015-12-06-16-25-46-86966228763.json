@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228763",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Besoins-et-comportements/",
+  "description": "Description de Besoins et comportements",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2171,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Besoins et comportements",
+  "nom-folder": "Besoins-et-comportements",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-46-86966228763"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Needs and behaviors"
+    ],
+    "ar": [
+      "الاحتياجات والسلوكيات"
+    ],
+    "es": [
+      "Necesidades y comportamientos"
+    ],
+    "fr": [
+      "Besoins et comportements"
+    ],
+    "it": [
+      "bisogni e comportamenti"
+    ]
+  }
+}

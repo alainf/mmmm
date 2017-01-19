@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229741",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Image-d'entreprise/",
+  "description": "Description de Image d'entreprise",
+  "enfants": [
+    "terme-2015-12-06-16-26-02-86966229744"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2096,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Image d'entreprise",
+  "nom-folder": "Image-d'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-02-86966229741"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate image"
+    ],
+    "ar": [
+      "صورة الشركة"
+    ],
+    "es": [
+      "Imagen corporativa"
+    ],
+    "fr": [
+      "Image d'entreprise"
+    ],
+    "it": [
+      "immagine corporativa"
+    ]
+  }
+}

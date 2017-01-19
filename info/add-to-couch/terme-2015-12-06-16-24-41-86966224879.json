@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-41-86966224879",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Histoire-de-l'art/Chine-ancienne/",
+  "description": "Description de Chine ancienne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269155,
+  "identifiant-drupal-parent": 982,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-41",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Chine ancienne",
+  "nom-folder": "Chine-ancienne",
+  "nom-machine": "terme-2015-12-06-16-24-41-86966224879",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ancient China"
+    ],
+    "ar": [
+      "الصين القديمة"
+    ],
+    "es": [
+      "China antigua"
+    ],
+    "fr": [
+      "Chine ancienne"
+    ],
+    "it": [
+      "Cina antica"
+    ]
+  }
+}

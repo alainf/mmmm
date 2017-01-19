@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226574",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Pecheries/",
+  "description": "Description de Pêcheries",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270873,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Pêcheries",
+  "nom-folder": "Pecheries",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226574"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fisheries"
+    ],
+    "ar": [
+      "مسمكة"
+    ],
+    "es": [
+      "Pesquería"
+    ],
+    "fr": [
+      "Pêcheries"
+    ],
+    "it": [
+      "Pescherie"
+    ]
+  }
+}

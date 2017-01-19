@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-26-86966227608",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Gestion-de-l'approvisionnement/Restauration/Qualite-de-l'alimentation/",
+  "description": "Description de Qualité de l'alimentation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272367,
+  "identifiant-drupal-parent": 272415,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-26",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Qualité de l'alimentation",
+  "nom-folder": "Qualite-de-l'alimentation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-26-86966227608"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Food quality"
+    ],
+    "ar": [
+      "نوعية التغذية"
+    ],
+    "es": [
+      "Calidad de la alimentación"
+    ],
+    "fr": [
+      "Qualité de l'alimentation"
+    ],
+    "it": [
+      "Qualità del cibo"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228354",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Tresorerie-de-l'entreprise/",
+  "description": "Description de Trésorerie de l'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2034,
+  "identifiant-drupal-parent": 2017,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Trésorerie de l'entreprise",
+  "nom-folder": "Tresorerie-de-l'entreprise",
+  "nom-machine": "terme-2015-12-06-16-25-39-86966228354",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cash management"
+    ],
+    "ar": [
+      "خزانة شركة"
+    ],
+    "es": [
+      "Tesorería de la empresa"
+    ],
+    "fr": [
+      "Trésorerie de l'entreprise"
+    ],
+    "it": [
+      "Cassa aziendale"
+    ]
+  }
+}

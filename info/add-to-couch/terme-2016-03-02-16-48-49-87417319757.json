@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2016-03-02-16-48-49-87417319757",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Anglais-simplifie/",
+  "description": "Description de Anglais technique simplifié",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2016-03-02-16-48-49",
+  "moment-de-modification": "2016-03-02-16-52-25",
+  "nom": "Anglais technique simplifié",
+  "nom-folder": "Anglais-simplifie",
+  "nom-machine": "terme-2016-03-02-16-48-49-87417319757",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Simplified english"
+    ],
+    "ar": [
+      "الإنجليزية بسيطة"
+    ],
+    "es": [
+      "Inglés simple"
+    ],
+    "fr": [
+      "Anglais technique simplifié"
+    ],
+    "it": [
+      "Inglese semplificato"
+    ],
+    "ru": [
+      "упрощенный английский"
+    ]
+  }
+}

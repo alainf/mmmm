@@ -1,0 +1,53 @@
+{
+  "_id": "terme-2015-12-06-16-26-29-86966231363",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-organes/",
+  "description": "Spécialités de la médecine, par organes",
+  "enfants": [
+    "terme-2015-12-06-16-26-29-86966231366",
+    "terme-2015-12-06-16-26-29-86966231369",
+    "terme-2015-12-06-16-26-29-86966231372",
+    "terme-2015-12-06-16-26-29-86966231375",
+    "terme-2015-12-06-16-26-29-86966231379",
+    "terme-2015-12-06-16-26-29-86966231381",
+    "terme-2015-12-06-16-26-29-86966231384",
+    "terme-2015-12-06-16-26-29-86966231387",
+    "terme-2015-12-06-16-26-29-86966231390",
+    "terme-2015-12-06-16-26-29-86966231393",
+    "terme-2015-12-06-16-26-29-86966231395",
+    "terme-2015-12-06-16-26-29-86966231398",
+    "terme-2015-12-06-16-26-30-86966231401",
+    "terme-2015-12-06-16-26-30-86966231404"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1437,
+  "identifiant-drupal-parent": 1413,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-29",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Spécialités de la médecine par organes",
+  "nom-folder": "Specialites-de-la-medecine,-par-organes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-29-86966231363"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medical specialties by organs"
+    ],
+    "ar": [
+      "تخصصات الطب، بالهيئات"
+    ],
+    "es": [
+      "Especialidades médicas por órganos"
+    ],
+    "fr": [
+      "Spécialités de la médecine par organes"
+    ],
+    "it": [
+      "Specialità mediche per organi"
+    ]
+  }
+}

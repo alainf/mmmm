@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232089",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-medicale/",
+  "description": "Description de Anthropologie médicale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455697,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie médicale",
+  "nom-folder": "Anthropologie-medicale",
+  "nom-machine": "terme-2015-12-06-16-26-41-86966232089",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medical Anthropology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا الطبية"
+    ],
+    "es": [
+      "Antropología médica"
+    ],
+    "fr": [
+      "Anthropologie médicale"
+    ],
+    "it": [
+      "Antropologia medica"
+    ]
+  }
+}

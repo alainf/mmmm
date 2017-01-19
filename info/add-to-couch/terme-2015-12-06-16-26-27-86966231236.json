@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231236",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-des-techniques/",
+  "description": "Description de Histoire des techniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451330,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire des techniques",
+  "nom-folder": "Histoire-des-techniques",
+  "nom-machine": "terme-2015-12-06-16-26-27-86966231236",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of techniques"
+    ],
+    "ar": [
+      "تاريخ التقنيات"
+    ],
+    "es": [
+      "Historia de las técnicas"
+    ],
+    "fr": [
+      "Histoire des techniques"
+    ],
+    "it": [
+      "Storia delle tecniche"
+    ]
+  }
+}

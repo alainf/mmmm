@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-24-41-87274888896",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Maori-de-Nouvelle-Zelande/",
+  "description": "Description de Maori",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "mi",
+  "ISO-639-2": "mao/mri",
+  "ISO-639-3": "mri",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-24-41",
+  "moment-de-modification": "2016-02-04-05-27-12",
+  "nom": "Maori",
+  "nom-folder": "Maori-de-Nouvelle-Zelande",
+  "nom-machine": "terme-2016-02-04-05-24-41-87274888896",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Maori_de_Nouvelle-Z%C3%A9lande",
+  "nomLangues": {
+    "en": [
+      "Maori"
+    ],
+    "ar": [
+      "ماورية"
+    ],
+    "es": [
+      "Maori"
+    ],
+    "fr": [
+      "Maori"
+    ],
+    "it": [
+      "Māori"
+    ],
+    "ru": [
+      "Маори"
+    ]
+  }
+}

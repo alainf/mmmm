@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232443",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Redaction-de-these/These_-preparation/",
+  "description": "Description de Thèse: préparation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472063,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Thèse: préparation",
+  "nom-folder": "These_-preparation",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232443"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Thesis: preparation"
+    ],
+    "ar": [
+      "إعداد أطروحة"
+    ],
+    "es": [
+      "Tesis: preparación"
+    ],
+    "fr": [
+      "Thèse: préparation"
+    ],
+    "it": [
+      "Tesi: preparazione"
+    ]
+  }
+}

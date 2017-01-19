@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-07-86966230077",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-metalliques/Extraction-de-minerais-d'or-et-d'argent/",
+  "description": "Extraction de minerais d'or et d'argent",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451070,
+  "identifiant-drupal-parent": 451068,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-07",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de minerais d’or et d’argent",
+  "nom-folder": "Extraction-de-minerais-d'or-et-d'argent",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-07-86966230077"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Silver and gold ore mining"
+    ],
+    "ar": [
+      "إستخراج خامات الذهب والفضة"
+    ],
+    "es": [
+      "Extracción de minerales de oro y de plata"
+    ],
+    "fr": [
+      "Extraction de minerais d’or et d’argent"
+    ],
+    "it": [
+      "Estrazione di minerali di oro e argento"
+    ]
+  }
+}

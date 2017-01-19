@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-54-86966232848",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Nationalisme/Communautarisme-identitaire/",
+  "description": "Description de Communautarisme identitaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1137,
+  "identifiant-drupal-parent": 1117,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Communautarisme identitaire",
+  "nom-folder": "Communautarisme-identitaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-54-86966232848"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Identity communitarianism"
+    ],
+    "ar": [
+      "الطائفية الهوية"
+    ],
+    "es": [
+      "Comunitarismo identitario"
+    ],
+    "fr": [
+      "Communautarisme identitaire"
+    ],
+    "it": [
+      "comunitarismo identitario"
+    ]
+  }
+}

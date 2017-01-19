@@ -1,0 +1,65 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230758",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/",
+  "description": "Description de Sciences chimiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-19-86966230761",
+    "terme-2015-12-06-16-26-19-86966230763",
+    "terme-2015-12-06-16-26-19-86966230766",
+    "terme-2015-12-06-16-26-19-86966230769",
+    "terme-2015-12-06-16-26-19-86966230772",
+    "terme-2015-12-06-16-26-19-86966230775",
+    "terme-2015-12-06-16-26-19-86966230778",
+    "terme-2015-12-06-16-26-19-86966230781",
+    "terme-2015-12-06-16-26-19-86966230784",
+    "terme-2015-12-06-16-26-19-86966230787",
+    "terme-2015-12-06-16-26-19-86966230790",
+    "terme-2015-12-06-16-26-19-86966230793",
+    "terme-2015-12-06-16-26-19-86966230796",
+    "terme-2015-12-06-16-26-20-86966230801",
+    "terme-2015-12-06-16-26-20-86966230804",
+    "terme-2015-12-06-16-26-20-86966230807",
+    "terme-2015-12-06-16-26-20-86966230810",
+    "terme-2015-12-06-16-26-20-86966230815",
+    "terme-2015-12-06-16-26-20-86966230818",
+    "terme-2015-12-06-16-26-20-86966230821",
+    "terme-2015-12-06-16-26-20-86966230823",
+    "terme-2015-12-06-16-26-20-86966230827",
+    "terme-2015-12-06-16-26-20-86966230858",
+    "terme-2015-12-06-16-26-21-86966230861",
+    "terme-2016-02-04-00-00-00-86966230813",
+    "terme-2016-02-04-00-01-00-86966230813"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270431,
+  "identifiant-drupal-parent": 270430,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Sciences chimiques",
+  "nom-folder": "Sciences-chimiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-19-86966230758"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chemical science"
+    ],
+    "ar": [
+      "العلوم كيمياء"
+    ],
+    "es": [
+      "Ciencias químicas"
+    ],
+    "fr": [
+      "Sciences chimiques"
+    ],
+    "it": [
+      "Scienze chimiche"
+    ]
+  }
+}

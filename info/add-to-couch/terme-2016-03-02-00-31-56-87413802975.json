@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-03-02-00-31-56-87413802975",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/qui-ecrit/",
+  "description": "Description de Qui écrit",
+  "enfants": [
+    "terme-2016-03-02-00-32-46-87413805998",
+    "terme-2016-03-02-00-41-30-87413837430",
+    "terme-2016-03-02-01-23-59-87413990392"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-00-31-56",
+  "moment-de-modification": "2016-03-02-00-32-40",
+  "nom": "Qui écrit",
+  "nom-folder": "qui-ecrit",
+  "nom-machine": "terme-2016-03-02-00-31-56-87413802975",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Who is writing"
+    ],
+    "fr": [
+      "Qui écrit"
+    ]
+  }
+}

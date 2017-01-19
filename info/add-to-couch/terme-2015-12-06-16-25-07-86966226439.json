@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226439",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Strategies-d'enseignement-et-d'apprentissage/",
+  "description": "Description de Stratégies d'enseignement et d'apprentissage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270860,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Stratégies d'enseignement et d'apprentissage",
+  "nom-folder": "Strategies-d'enseignement-et-d'apprentissage",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226439"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching and learning strategies"
+    ],
+    "ar": [
+      "استراتيجيات التدريس والتعلم"
+    ],
+    "es": [
+      "Estrategias de enseñanza y aprendizaje"
+    ],
+    "fr": [
+      "Stratégies d'enseignement et d'apprentissage"
+    ],
+    "it": [
+      "Strategie per l'insegnamento e l'apprendimento"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228802",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Valeurs-et-comportement-organisationnel/",
+  "description": "Description de Valeurs et comportement organisationnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2112,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Valeurs et comportement organisationnel",
+  "nom-folder": "Valeurs-et-comportement-organisationnel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-46-86966228802"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Values and organizational behaviour"
+    ],
+    "ar": [
+      "القيم والسلوك التنظيمي"
+    ],
+    "es": [
+      "Valores y comportamiento organizacional"
+    ],
+    "fr": [
+      "Valeurs et comportement organisationnel"
+    ],
+    "it": [
+      "valori e comportamento organizzativo"
+    ]
+  }
+}

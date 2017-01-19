@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-11-86966230293",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-de-l'innovation/Innovation-sociale/",
+  "description": "Description de Innovation sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472099,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-11",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Innovation sociale",
+  "nom-folder": "Innovation-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-11-86966230293"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social innovation"
+    ],
+    "ar": [
+      "إبتكار إجتماعي"
+    ],
+    "es": [
+      "Innovación social"
+    ],
+    "fr": [
+      "Innovation sociale"
+    ],
+    "it": [
+      "innovazione sociale"
+    ]
+  }
+}

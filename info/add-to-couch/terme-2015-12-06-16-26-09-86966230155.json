@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230155",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Oceanographie-(terre)/",
+  "description": "Description de Océanographie (terre)",
+  "enfants": [
+    "terme-2015-12-06-16-26-09-86966230158"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270827,
+  "identifiant-drupal-parent": 886,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Océanographie (terre)",
+  "nom-folder": "Oceanographie-(terre)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230155"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oceanography (earth)"
+    ],
+    "ar": [
+      "علم المحيطات (الأرض)"
+    ],
+    "es": [
+      "Oceanografía (Tierra)"
+    ],
+    "fr": [
+      "Océanographie (terre)"
+    ],
+    "it": [
+      "Oceanografia (terra)"
+    ]
+  }
+}

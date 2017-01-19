@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174401",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/ONG/",
+  "description": "Description de ONG",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "ONG",
+  "nom-folder": "ONG",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174401",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "NGO"
+    ],
+    "ar": [
+      "منظمة غير حكومية"
+    ],
+    "es": [
+      "ONG"
+    ],
+    "fr": [
+      "ONG"
+    ],
+    "it": [
+      "ONG"
+    ]
+  }
+}

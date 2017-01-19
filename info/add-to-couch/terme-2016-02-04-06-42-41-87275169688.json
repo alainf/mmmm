@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-42-41-87275169688",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tswana/",
+  "description": "Description de Tswana",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "tn",
+  "ISO-639-2": "tsn",
+  "ISO-639-3": "tsn",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-42-41",
+  "moment-de-modification": "2016-02-04-06-43-16",
+  "nom": "Tswana",
+  "nom-folder": "Tswana",
+  "nom-machine": "terme-2016-02-04-06-42-41-87275169688",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tswana",
+  "nomLangues": {
+    "en": [
+      "Tswana"
+    ],
+    "ar": [
+      "تسوانية"
+    ],
+    "es": [
+      "Setsuana"
+    ],
+    "fr": [
+      "Tswana"
+    ],
+    "it": [
+      "Tswana"
+    ],
+    "ru": [
+      "Тсвана"
+    ]
+  }
+}

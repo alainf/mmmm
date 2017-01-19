@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220800",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/L'entreprise-et-la-corruption/",
+  "description": "Description de L'entreprise et la corruption",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270476,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "L'entreprise et la corruption",
+  "nom-folder": "L'entreprise-et-la-corruption",
+  "nom-machine": "terme-2015-12-06-16-23-33-86966220800",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The enterprise and corruption"
+    ],
+    "ar": [
+      "الأعمال والفساد"
+    ],
+    "es": [
+      "La empresa y la corrupción"
+    ],
+    "fr": [
+      "L'entreprise et la corruption"
+    ],
+    "it": [
+      "La società e la corruzione"
+    ],
+    "ru": [
+      "Компании и коррупции"
+    ]
+  }
+}

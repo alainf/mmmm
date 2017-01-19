@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-20-86966227259",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-d'accessoires-de-maison/",
+  "description": "Commerce de gros d'accessoires de maison",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451120,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-20",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros d’accessoires de maison",
+  "nom-folder": "C-de-g-d'accessoires-de-maison",
+  "nom-machine": "terme-2015-12-06-16-25-20-86966227259",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of home accessories"
+    ],
+    "ar": [
+      "تجارة بالجملة للوازم المنزل"
+    ],
+    "es": [
+      "Comercio mayorista de accesorios de casa"
+    ],
+    "fr": [
+      "Commerce de gros d’accessoires de maison"
+    ],
+    "it": [
+      "Commercio all'ingrosso di accessori per la casa"
+    ]
+  }
+}

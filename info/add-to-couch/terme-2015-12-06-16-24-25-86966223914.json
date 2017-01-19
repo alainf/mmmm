@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223914",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Conchyliculture/Mytiliculture/Bouchots/",
+  "description": "Description de Bouchots",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269046,
+  "identifiant-drupal-parent": 269045,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Bouchots",
+  "nom-folder": "Bouchots",
+  "nom-machine": "terme-2015-12-06-16-24-25-86966223914",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mussel beds"
+    ],
+    "ar": [
+      "حامل الأصداف"
+    ],
+    "es": [
+      "Colonias de mejillones"
+    ],
+    "fr": [
+      "Bouchots"
+    ],
+    "it": [
+      "Allevamento di mitili"
+    ]
+  }
+}

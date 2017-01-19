@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-02-86966222534",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Engineering/Chemical-Engineering/",
+  "description": "Description de Chemical engineering",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369000,
+  "identifiant-drupal-parent": 368996,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-02",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Chemical engineering",
+  "nom-folder": "Chemical-Engineering",
+  "nom-machine": "terme-2015-12-06-16-24-02-86966222534",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Chemical engineering"
+    ]
+  }
+}

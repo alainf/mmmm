@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233660",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Amenagement-numerique/",
+  "description": "Description de Aménagement numérique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467098,
+  "identifiant-drupal-parent": 467096,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Aménagement numérique",
+  "nom-folder": "Amenagement-numerique",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233660"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Digital planning"
+    ],
+    "ar": [
+      "التهيئة الرقمية"
+    ],
+    "es": [
+      "Planeamiento digital"
+    ],
+    "fr": [
+      "Aménagement numérique"
+    ],
+    "it": [
+      "Pianificazione digitale"
+    ]
+  }
+}

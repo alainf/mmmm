@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221517",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-visuels/Peinture/",
+  "description": "Description de Peinture",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270622,
+  "identifiant-drupal-parent": 270609,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Peinture",
+  "nom-folder": "Peinture",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-45-86966221517"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Painting"
+    ],
+    "ar": [
+      "تصوير - فنون تشكيلية"
+    ],
+    "es": [
+      "Pintura"
+    ],
+    "fr": [
+      "Peinture"
+    ],
+    "it": [
+      "Pittura"
+    ],
+    "ru": [
+      "Живопись"
+    ]
+  }
+}

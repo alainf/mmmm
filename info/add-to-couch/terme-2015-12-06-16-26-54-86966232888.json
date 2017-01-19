@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-26-54-86966232888",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Socialisme/",
+  "description": "Description de Socialisme",
+  "enfants": [
+    "terme-2015-12-06-16-26-54-86966232891",
+    "terme-2015-12-06-16-26-54-86966232894",
+    "terme-2015-12-06-16-26-54-86966232897",
+    "terme-2015-12-06-16-26-55-86966232900",
+    "terme-2015-12-06-16-26-55-86966232903",
+    "terme-2015-12-06-16-26-55-86966232906",
+    "terme-2015-12-06-16-26-55-86966232909",
+    "terme-2015-12-06-16-26-55-86966232911",
+    "terme-2015-12-06-16-26-55-86966232914",
+    "terme-2015-12-06-16-26-55-86966232917",
+    "terme-2015-12-06-16-26-55-86966232921"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1118,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-54",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Socialisme",
+  "nom-folder": "Socialisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-54-86966232888"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Socialism"
+    ],
+    "ar": [
+      "اشتراكية"
+    ],
+    "es": [
+      "Socialismo"
+    ],
+    "fr": [
+      "Socialisme"
+    ],
+    "it": [
+      "socialismo"
+    ]
+  }
+}

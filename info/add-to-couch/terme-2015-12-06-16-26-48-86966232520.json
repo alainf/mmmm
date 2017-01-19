@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232520",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Conformisme/",
+  "description": "Description de Conformisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1073,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Conformisme",
+  "nom-folder": "Conformisme",
+  "nom-machine": "terme-2015-12-06-16-26-48-86966232520",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conformism"
+    ],
+    "ar": [
+      "الانسياق"
+    ],
+    "es": [
+      "Conformismo"
+    ],
+    "fr": [
+      "Conformisme"
+    ],
+    "it": [
+      "Conformismo"
+    ]
+  }
+}

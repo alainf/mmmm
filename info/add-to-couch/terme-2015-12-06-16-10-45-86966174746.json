@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-45-86966174746",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Polonais/",
+  "description": "Description de Polonais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317646,
+  "ISO-639-1": "pl",
+  "ISO-639-2": "pol",
+  "ISO-639-3": "pol",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-45",
+  "moment-de-modification": "2016-02-04-05-55-15",
+  "nom": "Polonais",
+  "nom-folder": "Polonais",
+  "nom-machine": "terme-2015-12-06-16-10-45-86966174746",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Polonais",
+  "nomLangues": {
+    "en": [
+      "Polish"
+    ],
+    "ar": [
+      "بولندية"
+    ],
+    "es": [
+      "Polaco"
+    ],
+    "fr": [
+      "Polonais"
+    ],
+    "it": [
+      "Polacco"
+    ],
+    "ru": [
+      "Польский"
+    ]
+  }
+}

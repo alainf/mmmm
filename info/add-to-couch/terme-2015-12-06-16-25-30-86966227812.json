@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227812",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-TS16949/",
+  "description": "Description de ISO/TS16949 qualité appliquée au marché de l'automobile",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1909,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO/TS16949 qualité appliquée au marché de l'automobile",
+  "nom-folder": "ISO-TS16949",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-30-86966227812"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Quality management systems—Particular requirements for the application of ISO 9001:2008 for automotive production and relevant service part organizations"
+    ],
+    "ar": [
+      "ISO/TS16949 جودة مطبقة لأسواق السيارات"
+    ],
+    "es": [
+      "ISO 9001:2008 Sistemas de gestión de la calidad - Requisitos particulares aplicables - organizaciones de servicios relacionados con la producción de automóviles"
+    ],
+    "fr": [
+      "ISO/TS16949 qualité appliquée au marché de l'automobile"
+    ],
+    "it": [
+      "Sistemi di gestione della qualità : requisiti particolari per l'applicazione della norma iso 9001: 2008 per la produzione automobilistica e parti di ricambio nell'industria"
+    ]
+  }
+}

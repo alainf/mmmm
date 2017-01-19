@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221390",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Financement/",
+  "description": "Description de Financement",
+  "enfants": [
+    "terme-2015-12-06-16-23-43-86966221393",
+    "terme-2015-12-06-16-23-43-86966221395",
+    "terme-2015-12-06-16-23-43-86966221401",
+    "terme-2015-12-06-16-23-43-86966221404"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1674,
+  "identifiant-drupal-parent": 270469,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Financement",
+  "nom-folder": "Financement",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221390"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Funding"
+    ],
+    "ar": [
+      "تمويل"
+    ],
+    "es": [
+      "Financiación"
+    ],
+    "fr": [
+      "Financement"
+    ],
+    "it": [
+      "Finanziamento"
+    ],
+    "ru": [
+      "Финансирование"
+    ]
+  }
+}

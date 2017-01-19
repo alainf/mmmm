@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-24-34-86966224479",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-decoratifs/",
+  "description": "Description de Arts décoratifs",
+  "enfants": [
+    "terme-2015-12-06-16-24-34-86966224482",
+    "terme-2015-12-06-16-24-34-86966224485",
+    "terme-2015-12-06-16-24-34-86966224488",
+    "terme-2015-12-06-16-24-34-86966224490",
+    "terme-2015-12-06-16-24-34-86966224493"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466864,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-34",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Arts décoratifs",
+  "nom-folder": "Arts-decoratifs",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-34-86966224479"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Decorative arts"
+    ],
+    "ar": [
+      "فنون الزخرفية"
+    ],
+    "es": [
+      "Artes decorativas"
+    ],
+    "fr": [
+      "Arts décoratifs"
+    ],
+    "it": [
+      "Arti decorative"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232285",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Genealogie/Genealogie-ascendante/",
+  "description": "Description de Généalogie ascendante",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271412,
+  "identifiant-drupal-parent": 271411,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Généalogie ascendante",
+  "nom-folder": "Genealogie-ascendante",
+  "nom-machine": "terme-2015-12-06-16-26-44-86966232285",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ascending genealogy"
+    ],
+    "ar": [
+      "علم الأنساب تصاعدي"
+    ],
+    "es": [
+      "Genealogía ascendente"
+    ],
+    "fr": [
+      "Généalogie ascendante"
+    ],
+    "it": [
+      "Genealogia ascendente"
+    ]
+  }
+}

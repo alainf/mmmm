@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-41-40-87275166040",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tagalog/",
+  "description": "Description de Tagalog",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "tl",
+  "ISO-639-2": "tgl",
+  "ISO-639-3": "tgl",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-41-40",
+  "moment-de-modification": "2016-02-04-06-42-36",
+  "nom": "Tagalog",
+  "nom-folder": "Tagalog",
+  "nom-machine": "terme-2016-02-04-06-41-40-87275166040",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tagalog",
+  "nomLangues": {
+    "en": [
+      "Tagalog"
+    ],
+    "ar": [
+      "تاغالوغية"
+    ],
+    "es": [
+      "Tagalo"
+    ],
+    "fr": [
+      "Tagalog"
+    ],
+    "it": [
+      "Tagalog"
+    ],
+    "ru": [
+      "Тагальский"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230552",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Fiscalite-et-droit-fiscal/Droit-penal-fiscal/",
+  "description": "Description de Droit pénal fiscal",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272258,
+  "identifiant-drupal-parent": 272236,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Droit pénal fiscal",
+  "nom-folder": "Droit-penal-fiscal",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230552"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fiscal criminal law"
+    ],
+    "ar": [
+      "قانون الجنائي الضريبي"
+    ],
+    "es": [
+      "Derecho penal fiscal"
+    ],
+    "fr": [
+      "Droit pénal fiscal"
+    ],
+    "it": [
+      "Diritto penale fiscale"
+    ]
+  }
+}

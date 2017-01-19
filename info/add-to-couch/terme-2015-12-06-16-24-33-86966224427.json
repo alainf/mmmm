@@ -1,0 +1,56 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224427",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Art-moderne/",
+  "description": "Description de Art moderne",
+  "enfants": [
+    "terme-2015-12-06-16-24-33-86966224429",
+    "terme-2015-12-06-16-24-33-86966224432",
+    "terme-2015-12-06-16-24-33-86966224435",
+    "terme-2015-12-06-16-24-33-86966224438",
+    "terme-2015-12-06-16-24-34-86966224441",
+    "terme-2015-12-06-16-24-34-86966224443",
+    "terme-2015-12-06-16-24-34-86966224446",
+    "terme-2015-12-06-16-24-34-86966224449",
+    "terme-2015-12-06-16-24-34-86966224451",
+    "terme-2015-12-06-16-24-34-86966224454",
+    "terme-2015-12-06-16-24-34-86966224457",
+    "terme-2015-12-06-16-24-34-86966224460",
+    "terme-2015-12-06-16-24-34-86966224462",
+    "terme-2015-12-06-16-24-34-86966224465",
+    "terme-2015-12-06-16-24-34-86966224468",
+    "terme-2015-12-06-16-24-34-86966224471",
+    "terme-2015-12-06-16-24-34-86966224474"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466845,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Art moderne",
+  "nom-folder": "Art-moderne",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-33-86966224427"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Modern art"
+    ],
+    "ar": [
+      "الفن الحديث"
+    ],
+    "es": [
+      "Arte Moderno"
+    ],
+    "fr": [
+      "Art moderne"
+    ],
+    "it": [
+      "arte moderna"
+    ]
+  }
+}

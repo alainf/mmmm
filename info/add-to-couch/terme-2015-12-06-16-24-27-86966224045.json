@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224045",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Cereales/Culture-du-soja/",
+  "description": "Description de Culture du soja",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451045,
+  "identifiant-drupal-parent": 937,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture du soja",
+  "nom-folder": "Culture-du-soja",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224045",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Soybean cultivation"
+    ],
+    "ar": [
+      "زراعة فول الصويا"
+    ],
+    "es": [
+      "Cultivo de soja"
+    ],
+    "fr": [
+      "Culture du soja"
+    ],
+    "it": [
+      "Coltivazione di soia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228781",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Etudes-de-groupe/",
+  "description": "Description de Études de groupe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466719,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Études de groupe",
+  "nom-folder": "Etudes-de-groupe",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-46-86966228781"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Group Studies"
+    ],
+    "ar": [
+      "دراسات مجموعة"
+    ],
+    "es": [
+      "Estudios de grupo"
+    ],
+    "fr": [
+      "Études de groupe"
+    ],
+    "it": [
+      "Studi di gruppo"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-17-86966234225",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/association/association-etudiante/",
+  "description": "Description de Association etudiante",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369504,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-17",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Association etudiante",
+  "nom-folder": "association-etudiante",
+  "nom-machine": "terme-2015-12-06-16-27-17-86966234225",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Student association"
+    ],
+    "es": [
+      "Asociación estudiantil"
+    ],
+    "fr": [
+      "Association etudiante"
+    ],
+    "it": [
+      "Associazione studentesca"
+    ]
+  }
+}

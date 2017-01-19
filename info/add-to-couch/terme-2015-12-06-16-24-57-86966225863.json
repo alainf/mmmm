@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225863",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Equilibre-budgetaire/",
+  "description": "Description de Équilibre budgétaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271357,
+  "identifiant-drupal-parent": 271339,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Équilibre budgétaire",
+  "nom-folder": "Equilibre-budgetaire",
+  "nom-machine": "terme-2015-12-06-16-24-57-86966225863",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Balanced budget"
+    ],
+    "ar": [
+      "ميزانية متوازنة"
+    ],
+    "es": [
+      "Presupuesto equilibrado"
+    ],
+    "fr": [
+      "Équilibre budgétaire"
+    ],
+    "it": [
+      "Equilibrio di bilancio"
+    ]
+  }
+}

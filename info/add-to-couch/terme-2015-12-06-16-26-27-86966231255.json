@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231255",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-politique-(objets)/",
+  "description": "Description de Histoire politique (objets)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 991,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire politique (objets)",
+  "nom-folder": "Histoire-politique-(objets)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-27-86966231255"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political history"
+    ],
+    "ar": [
+      "تاريخ السياسي (الأشياء)"
+    ],
+    "es": [
+      "Historia política (objetos)"
+    ],
+    "fr": [
+      "Histoire politique (objets)"
+    ],
+    "it": [
+      "storia politica (oggetti)"
+    ]
+  }
+}

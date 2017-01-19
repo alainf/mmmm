@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232267",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Ethologie-(sociale)/Theories-en-ethologie/Ethologie-du-comportement/",
+  "description": "Description de Éthologie du comportement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1053,
+  "identifiant-drupal-parent": 1052,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Éthologie du comportement",
+  "nom-folder": "Ethologie-du-comportement",
+  "nom-machine": "terme-2015-12-06-16-26-44-86966232267",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Behavioral ethology"
+    ],
+    "ar": [
+      "إيثولوجيا تصرف"
+    ],
+    "es": [
+      "Etología del comportamiento"
+    ],
+    "fr": [
+      "Éthologie du comportement"
+    ],
+    "it": [
+      "Etologia del comportamento"
+    ]
+  }
+}

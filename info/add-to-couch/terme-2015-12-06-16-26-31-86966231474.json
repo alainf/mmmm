@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-31-86966231474",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-type-de-patients/Medecine-des-gens-de-mer/",
+  "description": "Description de Médecine des gens de mer",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1436,
+  "identifiant-drupal-parent": 1428,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-31",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Médecine des gens de mer",
+  "nom-folder": "Medecine-des-gens-de-mer",
+  "nom-machine": "terme-2015-12-06-16-26-31-86966231474",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Seafarer Medicine"
+    ],
+    "ar": [
+      "طب البحارة"
+    ],
+    "es": [
+      "Medicina de gente de mar"
+    ],
+    "fr": [
+      "Médecine des gens de mer"
+    ],
+    "it": [
+      "Medicina per la gente di mare"
+    ]
+  }
+}

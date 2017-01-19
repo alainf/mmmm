@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224420",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Art-et-therapies/",
+  "description": "Description de Art et thérapies",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466843,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Art et thérapies",
+  "nom-folder": "Art-et-therapies",
+  "nom-machine": "terme-2015-12-06-16-24-33-86966224420",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Art and therapies"
+    ],
+    "ar": [
+      "الفن و العلاجات"
+    ],
+    "es": [
+      "Arte y terapias"
+    ],
+    "fr": [
+      "Art et thérapies"
+    ],
+    "it": [
+      "Arte e terapie"
+    ]
+  }
+}

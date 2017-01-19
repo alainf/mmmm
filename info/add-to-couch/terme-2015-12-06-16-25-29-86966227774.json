@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227774",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-10006/",
+  "description": "Description de ISO 10006 Directives pour la gestion de la qualité appliquée aux projets",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1903,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 10006 Directives pour la gestion de la qualité appliquée aux projets",
+  "nom-folder": "ISO-10006",
+  "nom-machine": "terme-2015-12-06-16-25-29-86966227774",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 10006 Guidelines for quality management in projects"
+    ],
+    "ar": [
+      "مبادئ توجيهية لإدارة الجودة التطبيقية في المشاريع ISO 10006"
+    ],
+    "es": [
+      "ISO 10006 Directrices para la calidad en gestión de proyectos"
+    ],
+    "fr": [
+      "ISO 10006 Directives pour la gestion de la qualité appliquée aux projets"
+    ],
+    "it": [
+      "Iso 10006 linee guida per la qualità nella gestione dei progetti"
+    ]
+  }
+}

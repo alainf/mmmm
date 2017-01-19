@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-42-86966224941",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litt-langues-austronesiennes,-australasiennes-etc/",
+  "description": "Description de Littérature des langues austronésiennes et australasiennes, malayo-polynésiennes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466960,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-42",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littérature des langues austronésiennes et australasiennes, malayo-polynésiennes",
+  "nom-folder": "Litt-langues-austronesiennes,-australasiennes-etc",
+  "nom-machine": "terme-2015-12-06-16-24-42-86966224941",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Literature of Austronesian and Australasian, Malayo-Polynesian languages"
+    ],
+    "ar": [
+      "أدب لغات أسترونيزية و أسترالاسية، ملايو-بولينيزية"
+    ],
+    "es": [
+      "Literatura de Austronesia y Australasia, lenguas malaya-polinesías"
+    ],
+    "fr": [
+      "Littérature des langues austronésiennes et australasiennes, malayo-polynésiennes"
+    ],
+    "it": [
+      "Letteratura delle lingue Austronesiane, Australiane aborigene e maleo-polinesiane"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-53-86966225596",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Immigration-et-citoyennete/",
+  "description": "Description de Immigration et citoyenneté",
+  "enfants": [
+    "terme-2015-12-06-16-24-53-86966225598"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269150,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-53",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Immigration et citoyenneté",
+  "nom-folder": "Immigration-et-citoyennete",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-53-86966225596"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Immigration and Citizenship"
+    ],
+    "ar": [
+      "هجرة ومواطنة"
+    ],
+    "es": [
+      "Inmigración y ciudadanía"
+    ],
+    "fr": [
+      "Immigration et citoyenneté"
+    ],
+    "it": [
+      "Immigrazione e cittadinanza"
+    ]
+  }
+}

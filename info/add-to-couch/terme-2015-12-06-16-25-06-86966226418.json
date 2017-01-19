@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226418",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Psychologie-cognitive-(education)/",
+  "description": "Description de Psychologie cognitive (éducation)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270861,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Psychologie cognitive (éducation)",
+  "nom-folder": "Psychologie-cognitive-(education)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226418"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cognitive Psychology (education)"
+    ],
+    "ar": [
+      "علم النفس المعرفي (علم النفس)"
+    ],
+    "es": [
+      "Psicología Cognitiva (educación)"
+    ],
+    "fr": [
+      "Psychologie cognitive (éducation)"
+    ],
+    "it": [
+      "Psicologia cognitiva (educazione)"
+    ]
+  }
+}

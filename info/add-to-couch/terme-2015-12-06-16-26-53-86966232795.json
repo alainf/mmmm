@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232795",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Ecologisme/Bioregionalisme/",
+  "description": "Description de Biorégionalisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1127,
+  "identifiant-drupal-parent": 1114,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Biorégionalisme",
+  "nom-folder": "Bioregionalisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-53-86966232795"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bioregionalism"
+    ],
+    "ar": [
+      "إقليم حيوي"
+    ],
+    "es": [
+      "Biorregionalismo"
+    ],
+    "fr": [
+      "Biorégionalisme"
+    ],
+    "it": [
+      "Bioregionalismo"
+    ]
+  }
+}

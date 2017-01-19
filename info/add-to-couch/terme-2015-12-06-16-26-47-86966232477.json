@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232477",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Critiques-de-la-psychologie-sociale/",
+  "description": "Description de Critiques de la psychologie sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1059,
+  "identifiant-drupal-parent": 1002,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Critiques de la psychologie sociale",
+  "nom-folder": "Critiques-de-la-psychologie-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232477"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social Psychology Criticism"
+    ],
+    "ar": [
+      "انتقادات علم النفس الاجتماعى"
+    ],
+    "es": [
+      "Crítica de la psicología social"
+    ],
+    "fr": [
+      "Critiques de la psychologie sociale"
+    ],
+    "it": [
+      "critica della psicologia sociale"
+    ]
+  }
+}

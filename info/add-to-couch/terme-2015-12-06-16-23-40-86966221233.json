@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221233",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/Hockey/",
+  "description": "Description de Hockey",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270683,
+  "identifiant-drupal-parent": 270649,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Hockey",
+  "nom-folder": "Hockey",
+  "nom-machine": "terme-2015-12-06-16-23-40-86966221233",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Hockey"
+    ],
+    "ar": [
+      "الهوكي"
+    ],
+    "es": [
+      "Hockey"
+    ],
+    "fr": [
+      "Hockey"
+    ],
+    "it": [
+      "Hockey"
+    ]
+  }
+}

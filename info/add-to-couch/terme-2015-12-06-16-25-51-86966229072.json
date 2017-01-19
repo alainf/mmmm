@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229072",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-analytique/Methodes-de-comptabilite-analytique/Methode-George-Perrin/",
+  "description": "Description de Méthode George Perrin",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270987,
+  "identifiant-drupal-parent": 270982,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Méthode George Perrin",
+  "nom-folder": "Methode-George-Perrin",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229072",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "George Perrin method"
+    ],
+    "ar": [
+      "طريقة جورج بيرين"
+    ],
+    "es": [
+      "Método George Perrin"
+    ],
+    "fr": [
+      "Méthode George Perrin"
+    ],
+    "it": [
+      "Metodo George Perrin"
+    ]
+  }
+}

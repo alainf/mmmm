@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174563",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Hebreu/",
+  "description": "Description de Hébreu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317608,
+  "ISO-639-1": "he",
+  "ISO-639-2": "heb",
+  "ISO-639-3": "heb",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2016-02-04-04-30-31",
+  "nom": "Hébreu",
+  "nom-folder": "Hebreu",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174563",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/H%C3%A9breu",
+  "nomLangues": {
+    "en": [
+      "Hebrew"
+    ],
+    "ar": [
+      "عبرية"
+    ],
+    "es": [
+      "Hebreo"
+    ],
+    "fr": [
+      "Hébreu"
+    ],
+    "it": [
+      "Ebraico"
+    ],
+    "ru": [
+      "Иврит"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-24-01-86966222468",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Electrical-and-Electronic-Engineering/",
+  "description": "Description de Electrical and electronic engineering",
+  "enfants": [
+    "terme-2015-12-06-16-24-01-86966222471",
+    "terme-2015-12-06-16-24-01-86966222474",
+    "terme-2015-12-06-16-24-01-86966222477",
+    "terme-2015-12-06-16-24-01-86966222479",
+    "terme-2015-12-06-16-24-01-86966222483",
+    "terme-2015-12-06-16-24-01-86966222485",
+    "terme-2015-12-06-16-24-01-86966222488",
+    "terme-2015-12-06-16-24-01-86966222491",
+    "terme-2015-12-06-16-24-01-86966222494",
+    "terme-2015-12-06-16-24-01-86966222497",
+    "terme-2015-12-06-16-24-01-86966222500",
+    "terme-2015-12-06-16-24-01-86966222503",
+    "terme-2015-12-06-16-24-01-86966222505",
+    "terme-2015-12-06-16-24-01-86966222509",
+    "terme-2015-12-06-16-24-01-86966222511",
+    "terme-2015-12-06-16-24-01-86966222515",
+    "terme-2015-12-06-16-24-01-86966222517",
+    "terme-2015-12-06-16-24-02-86966222520"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368977,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-24-01",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Electrical and electronic engineering",
+  "nom-folder": "Electrical-and-Electronic-Engineering",
+  "nom-machine": "terme-2015-12-06-16-24-01-86966222468",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Electrical and electronic engineering"
+    ]
+  }
+}

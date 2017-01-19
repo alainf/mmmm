@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226058",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/Traitement-automatique-du-langage-naturel/Notation-de-dissertation-automatisee/",
+  "description": "Description de Notation de dissertation automatisée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472519,
+  "identifiant-drupal-parent": 472500,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Notation de dissertation automatisée",
+  "nom-folder": "Notation-de-dissertation-automatisee",
+  "nom-machine": "terme-2015-12-06-16-25-00-86966226058",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Automated essay scoring"
+    ],
+    "ar": [
+      "تقدير البحث الآلي"
+    ],
+    "es": [
+      "Notación automatisada de ensayos"
+    ],
+    "fr": [
+      "Notation de dissertation automatisée"
+    ],
+    "it": [
+      "Notazione di tesi automatizzata"
+    ]
+  }
+}

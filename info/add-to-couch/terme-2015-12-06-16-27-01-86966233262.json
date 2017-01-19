@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233262",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-du-developpement/",
+  "description": "Description de Sociologie du développement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1214,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie du développement",
+  "nom-folder": "Sociologie-du-developpement",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-01-86966233262"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of development"
+    ],
+    "ar": [
+      "علم الاجتماع التنمية"
+    ],
+    "es": [
+      "Sociología del desarrollo"
+    ],
+    "fr": [
+      "Sociologie du développement"
+    ],
+    "it": [
+      "Sociologia dello sviluppo"
+    ]
+  }
+}

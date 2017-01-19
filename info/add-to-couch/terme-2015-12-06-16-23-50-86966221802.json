@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-50-86966221802",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Ciencias-sociales/Politica/",
+  "description": "Description de Politica",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380901,
+  "identifiant-drupal-parent": 380843,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-50",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Politica",
+  "nom-folder": "Politica",
+  "nom-machine": "terme-2015-12-06-16-23-50-86966221802",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Politica"
+    ]
+  }
+}

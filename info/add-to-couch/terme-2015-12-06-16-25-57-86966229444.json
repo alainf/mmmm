@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-57-86966229444",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theorie-critique/",
+  "description": "Description de Théorie critique",
+  "enfants": [
+    "terme-2015-12-06-16-25-57-86966229447"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2277,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-57",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théorie critique",
+  "nom-folder": "Theorie-critique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-57-86966229444"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Critical Theory"
+    ],
+    "ar": [
+      "النظرية الحرجة"
+    ],
+    "es": [
+      "Teoría crítica"
+    ],
+    "fr": [
+      "Théorie critique"
+    ],
+    "it": [
+      "Teoria critica"
+    ]
+  }
+}

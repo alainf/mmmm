@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-49-86966232577",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Prejuges/",
+  "description": "Description de Préjugés",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1094,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-49",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Préjugés",
+  "nom-folder": "Prejuges",
+  "nom-machine": "terme-2015-12-06-16-26-49-86966232577",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Prejudices"
+    ],
+    "ar": [
+      "تحامل"
+    ],
+    "es": [
+      "Prejuicios"
+    ],
+    "fr": [
+      "Préjugés"
+    ],
+    "it": [
+      "Pregiudizi"
+    ]
+  }
+}

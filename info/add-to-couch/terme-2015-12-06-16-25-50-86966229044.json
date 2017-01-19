@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229044",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Normes-et-principes-de-la-comptabilite/Principes-comptables/",
+  "description": "Description de Principes comptables",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271281,
+  "identifiant-drupal-parent": 271275,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Principes comptables",
+  "nom-folder": "Principes-comptables",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-50-86966229044"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Accounting principles"
+    ],
+    "ar": [
+      "مبادئ المحاسبة"
+    ],
+    "es": [
+      "Principios de Contabilidad"
+    ],
+    "fr": [
+      "Principes comptables"
+    ],
+    "it": [
+      "principi contabili"
+    ]
+  }
+}

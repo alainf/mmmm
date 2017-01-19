@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220931",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Industrie-manufacturiere/Industrie-textile/",
+  "description": "Description de Industrie textile",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270594,
+  "identifiant-drupal-parent": 270582,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Industrie textile",
+  "nom-folder": "Industrie-textile",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220931"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Textile industry"
+    ],
+    "ar": [
+      "صناعة المنسوجات"
+    ],
+    "es": [
+      "Industria textil"
+    ],
+    "fr": [
+      "Industrie textile"
+    ],
+    "it": [
+      "Industria tessile"
+    ]
+  }
+}

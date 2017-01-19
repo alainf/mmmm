@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230152",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Redevances-minieres/",
+  "description": "Description de Redevances minières",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472131,
+  "identifiant-drupal-parent": 270826,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Redevances minières",
+  "nom-folder": "Redevances-minieres",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230152"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mining royalties"
+    ],
+    "ar": [
+      "الإتاوات التعدين"
+    ],
+    "es": [
+      "Regalías mineras"
+    ],
+    "fr": [
+      "Redevances minières"
+    ],
+    "it": [
+      "Diritti di sfruttamento minerari"
+    ]
+  }
+}

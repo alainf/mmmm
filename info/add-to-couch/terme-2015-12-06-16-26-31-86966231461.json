@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-26-31-86966231461",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-type-de-patients/",
+  "description": "Spécialités de la médecine, par type de patients",
+  "enfants": [
+    "terme-2015-12-06-16-26-31-86966231464",
+    "terme-2015-12-06-16-26-31-86966231467",
+    "terme-2015-12-06-16-26-31-86966231470",
+    "terme-2015-12-06-16-26-31-86966231474",
+    "terme-2015-12-06-16-26-31-86966231476",
+    "terme-2015-12-06-16-26-31-86966231479",
+    "terme-2015-12-06-16-26-31-86966231482",
+    "terme-2015-12-06-16-26-31-86966231486"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1428,
+  "identifiant-drupal-parent": 1413,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-31",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Spécialités de la médecine par type de patients",
+  "nom-folder": "Specialites-de-la-medecine,-par-type-de-patients",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-31-86966231461"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medical specialties by patient type"
+    ],
+    "ar": [
+      "تخصصات الطب، بنوع من المرضى"
+    ],
+    "es": [
+      "Especialidades médicas por tipo de pacientes"
+    ],
+    "fr": [
+      "Spécialités de la médecine par type de patients"
+    ],
+    "it": [
+      "Specialità mediche per tipo di pazienti"
+    ]
+  }
+}

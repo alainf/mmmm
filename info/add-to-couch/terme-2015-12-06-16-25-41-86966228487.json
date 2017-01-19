@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228487",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/",
+  "description": "Description de Management par secteurs d'activités",
+  "enfants": [
+    "terme-2015-12-06-16-25-41-86966228491",
+    "terme-2015-12-06-16-25-41-86966228493",
+    "terme-2015-12-06-16-25-42-86966228522",
+    "terme-2015-12-06-16-25-42-86966228548",
+    "terme-2015-12-06-16-25-42-86966228570",
+    "terme-2015-12-06-16-25-42-86966228572",
+    "terme-2015-12-06-16-25-42-86966228575",
+    "terme-2015-12-06-16-25-42-86966228579",
+    "terme-2015-12-06-16-25-43-86966228582",
+    "terme-2015-12-06-16-25-43-86966228591",
+    "terme-2015-12-06-16-25-43-86966228595"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2189,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Management par secteurs d'activités",
+  "nom-folder": "Management-par-secteurs-d'activites",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-41-86966228487"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management by sectors of activity"
+    ],
+    "ar": [
+      "الإدارة حسب قطاعات الأنشطة"
+    ],
+    "es": [
+      "Gestión de empresas por sectores de actividades"
+    ],
+    "fr": [
+      "Management par secteurs d'activités"
+    ],
+    "it": [
+      "Gestione per settori di attività"
+    ]
+  }
+}

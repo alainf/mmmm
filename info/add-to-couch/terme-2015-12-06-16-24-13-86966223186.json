@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-24-13-86966223186",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Physics/",
+  "description": "Description de Physics",
+  "enfants": [
+    "terme-2015-12-06-16-24-13-86966223190",
+    "terme-2015-12-06-16-24-13-86966223192",
+    "terme-2015-12-06-16-24-13-86966223195",
+    "terme-2015-12-06-16-24-13-86966223198",
+    "terme-2015-12-06-16-24-13-86966223202",
+    "terme-2015-12-06-16-24-13-86966223205",
+    "terme-2015-12-06-16-24-13-86966223208",
+    "terme-2015-12-06-16-24-13-86966223214",
+    "terme-2015-12-06-16-24-13-86966223216",
+    "terme-2015-12-06-16-24-13-86966223219",
+    "terme-2015-12-06-16-24-13-86966223221",
+    "terme-2015-12-06-16-24-13-86966223224",
+    "terme-2015-12-06-16-24-13-86966223228",
+    "terme-2015-12-06-16-24-13-86966223230",
+    "terme-2015-12-06-16-24-13-86966223233",
+    "terme-2015-12-06-16-24-13-86966223236",
+    "terme-2015-12-06-16-24-13-86966223239"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369223,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-13",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Physics",
+  "nom-folder": "Physics",
+  "nom-machine": "terme-2015-12-06-16-24-13-86966223186",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Physics"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232276",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Etudes-des-sciences-et-de-la-societe/",
+  "description": "Description de Études des sciences et de la société",
+  "enfants": [
+    "terme-2015-12-06-16-26-44-86966232279"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466711,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Études des sciences et de la société",
+  "nom-folder": "Etudes-des-sciences-et-de-la-societe",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-44-86966232276"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Science & Society Studies"
+    ],
+    "ar": [
+      "دراسات العلوم والمجتمع"
+    ],
+    "es": [
+      "Estudios de la ciencia y la sociedad"
+    ],
+    "fr": [
+      "Études des sciences et de la société"
+    ],
+    "it": [
+      "Studi di scienza e della società"
+    ]
+  }
+}

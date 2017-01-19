@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-17-86966230649",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Theories-en-sciences-economiques/Theorie-des-crises-economiques/",
+  "description": "Description de Théorie des crises économiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451224,
+  "identifiant-drupal-parent": 1485,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-17",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Théorie des crises économiques",
+  "nom-folder": "Theorie-des-crises-economiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-17-86966230649"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theory of economic crises"
+    ],
+    "ar": [
+      "نظرية الأزمات الاقتصادية"
+    ],
+    "es": [
+      "Teoría de las crisis económicas"
+    ],
+    "fr": [
+      "Théorie des crises économiques"
+    ],
+    "it": [
+      "Teoria delle crisi economiche"
+    ]
+  }
+}

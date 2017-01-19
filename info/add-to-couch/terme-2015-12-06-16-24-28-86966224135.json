@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224135",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Foresterie/Sylviculture/Balivage/",
+  "description": "Description de Balivage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268994,
+  "identifiant-drupal-parent": 268993,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Balivage",
+  "nom-folder": "Balivage",
+  "nom-machine": "terme-2015-12-06-16-24-28-86966224135",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sapling selection"
+    ],
+    "ar": [
+      "إزالة الأعشاب الظارة"
+    ],
+    "es": [
+      "Resalvia"
+    ],
+    "fr": [
+      "Balivage"
+    ],
+    "it": [
+      "Selezione degli megliori alberi"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-28-86966231339",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Sante-et-bien-etre/Sante-des-femmes-et-droits-reproductifs/",
+  "description": "Description de Santé des femmes et droits reproductifs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455684,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-28",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Santé des femmes et droits reproductifs",
+  "nom-folder": "Sante-des-femmes-et-droits-reproductifs",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-28-86966231339"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Womens' health and reproductive rights"
+    ],
+    "ar": [
+      "صحة المرأة والحقوق الإنجابية"
+    ],
+    "es": [
+      "Salud de la mujer y derechos reproductivos"
+    ],
+    "fr": [
+      "Santé des femmes et droits reproductifs"
+    ],
+    "it": [
+      "Salute della donna e diritti riproduttivi"
+    ]
+  }
+}

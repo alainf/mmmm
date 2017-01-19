@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227635",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Methodes-en-gestion-de-la-production/Lecons-apprises/",
+  "description": "Description de Leçons apprises",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472273,
+  "identifiant-drupal-parent": 1846,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Leçons apprises",
+  "nom-folder": "Lecons-apprises",
+  "nom-machine": "terme-2015-12-06-16-25-27-86966227635",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lessons learned"
+    ],
+    "ar": [
+      "الدروس المستفادة"
+    ],
+    "es": [
+      "Lecciones aprendidas"
+    ],
+    "fr": [
+      "Leçons apprises"
+    ],
+    "it": [
+      "Lezioni apprese"
+    ]
+  }
+}

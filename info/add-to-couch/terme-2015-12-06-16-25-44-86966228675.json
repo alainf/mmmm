@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-44-86966228675",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Veille-strategique/Veille-creative/",
+  "description": "Description de Veille créative",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469922,
+  "identifiant-drupal-parent": 2168,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-44",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Veille créative",
+  "nom-folder": "Veille-creative",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-44-86966228675"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Creative watch"
+    ],
+    "ar": [
+      "عشية الإبداعية"
+    ],
+    "es": [
+      "Inteligencia creativa"
+    ],
+    "fr": [
+      "Veille créative"
+    ],
+    "it": [
+      "Intelligenza creativa"
+    ]
+  }
+}

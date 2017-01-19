@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-20-86966234433",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/catalogue/catalogue-de-bibliotheque/",
+  "description": "Description de Catalogue de bibliotheque",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369405,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-20",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Catalogue de bibliotheque",
+  "nom-folder": "catalogue-de-bibliotheque",
+  "nom-machine": "terme-2015-12-06-16-27-20-86966234433",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Library catalogue"
+    ],
+    "es": [
+      "Catálogo de biblioteca"
+    ],
+    "fr": [
+      "Catalogue de bibliotheque"
+    ],
+    "it": [
+      "Catalogo di biblioteca"
+    ]
+  }
+}

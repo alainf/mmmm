@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224070",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Horticulture/",
+  "description": "Description de Horticulture",
+  "enfants": [
+    "terme-2015-12-06-16-24-27-86966224074",
+    "terme-2015-12-06-16-24-27-86966224076",
+    "terme-2015-12-06-16-24-27-86966224079",
+    "terme-2015-12-06-16-24-28-86966224082",
+    "terme-2015-12-06-16-24-28-86966224085"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 252576,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Horticulture",
+  "nom-folder": "Horticulture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-27-86966224070"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Horticulture"
+    ],
+    "ar": [
+      "بستنة"
+    ],
+    "es": [
+      "Horticultura"
+    ],
+    "fr": [
+      "Horticulture"
+    ],
+    "it": [
+      "orticoltura"
+    ]
+  }
+}

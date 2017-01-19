@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225094",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musique/Sociologie-de-la-musique/",
+  "description": "Description de Sociologie de la musique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467002,
+  "identifiant-drupal-parent": 466993,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Sociologie de la musique",
+  "nom-folder": "Sociologie-de-la-musique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-44-86966225094"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociomusicology"
+    ],
+    "ar": [
+      "علم الاجتماع الموسيقى"
+    ],
+    "es": [
+      "Sociología de la música"
+    ],
+    "fr": [
+      "Sociologie de la musique"
+    ],
+    "it": [
+      "Sociologia della musica"
+    ]
+  }
+}

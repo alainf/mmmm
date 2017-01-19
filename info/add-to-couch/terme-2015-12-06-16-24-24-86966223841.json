@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223841",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Ingenierie-et-mecanique-agricoles/Agrosystemes/Ingenierie-agricole/",
+  "description": "Description de Ingénierie agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472363,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Ingénierie agricole",
+  "nom-folder": "Ingenierie-agricole",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223841"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural engineering"
+    ],
+    "ar": [
+      "هندسة الزراعية"
+    ],
+    "es": [
+      "Ingeniería agrícola"
+    ],
+    "fr": [
+      "Ingénierie agricole"
+    ],
+    "it": [
+      "Ingegneria agricola"
+    ]
+  }
+}

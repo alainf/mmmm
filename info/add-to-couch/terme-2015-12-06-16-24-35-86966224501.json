@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224501",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/",
+  "description": "Description de Arts plastiques",
+  "enfants": [
+    "terme-2015-12-06-16-24-35-86966224504"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472019,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Arts plastiques",
+  "nom-folder": "Arts-plastiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-35-86966224501"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Plastic arts"
+    ],
+    "ar": [
+      "فنون البلستكية"
+    ],
+    "es": [
+      "Artes plásticas"
+    ],
+    "fr": [
+      "Arts plastiques"
+    ],
+    "it": [
+      "arti plastiche"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-11-86966223065",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Medicine/Occupational-Therapy/",
+  "description": "Description de Occupational therapy",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369181,
+  "identifiant-drupal-parent": 369132,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-11",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Occupational therapy",
+  "nom-folder": "Occupational-Therapy",
+  "nom-machine": "terme-2015-12-06-16-24-11-86966223065",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Occupational therapy"
+    ]
+  }
+}

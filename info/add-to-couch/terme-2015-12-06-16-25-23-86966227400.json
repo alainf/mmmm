@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227400",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Organisations-economiques-regionales/Marche-commun/",
+  "description": "Description de Marché commun",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1813,
+  "identifiant-drupal-parent": 1812,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Marché commun",
+  "nom-folder": "Marche-commun",
+  "nom-machine": "terme-2015-12-06-16-25-23-86966227400",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Common Market"
+    ],
+    "ar": [
+      "السوق المشتركة"
+    ],
+    "es": [
+      "Mercado común"
+    ],
+    "fr": [
+      "Marché commun"
+    ],
+    "it": [
+      "Mercato comune"
+    ]
+  }
+}

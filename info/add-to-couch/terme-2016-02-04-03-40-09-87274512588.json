@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-03-40-09-87274512588",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tchetchene/",
+  "description": "Description de Tchétchène",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ce",
+  "ISO-639-2": "che",
+  "ISO-639-3": "che",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-40-09",
+  "moment-de-modification": "2016-02-04-03-41-28",
+  "nom": "Tchétchène",
+  "nom-folder": "Tchetchene",
+  "nom-machine": "terme-2016-02-04-03-40-09-87274512588",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tch%C3%A9tch%C3%A8ne",
+  "nomLangues": {
+    "en": [
+      "Chechen"
+    ],
+    "ar": [
+      "شيشانية"
+    ],
+    "es": [
+      "Checheno"
+    ],
+    "fr": [
+      "Tchétchène"
+    ],
+    "it": [
+      "Ceceno"
+    ],
+    "ru": [
+      "Чеченский"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233062",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Politique-linguistique/",
+  "description": "Description de Politique linguistique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471944,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Politique linguistique",
+  "nom-folder": "Politique-linguistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-57-86966233062"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Linguistic policy"
+    ],
+    "ar": [
+      "السياسة اللغوية"
+    ],
+    "es": [
+      "Política lingüística"
+    ],
+    "fr": [
+      "Politique linguistique"
+    ],
+    "it": [
+      "politica linguistica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228105",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-agences-de-notation/",
+  "description": "Description de Gestion des agences de notation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451191,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion des agences de notation",
+  "nom-folder": "Gestion-des-agences-de-notation",
+  "nom-machine": "terme-2015-12-06-16-25-35-86966228105",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Credit rating agency management"
+    ],
+    "ar": [
+      "إدارة وكالات التصنيف الإئتمان"
+    ],
+    "es": [
+      "Gestión de agencias de calificación de credito"
+    ],
+    "fr": [
+      "Gestion des agences de notation"
+    ],
+    "it": [
+      "Gestione delle agenzie per la valutazione dei crediti"
+    ]
+  }
+}

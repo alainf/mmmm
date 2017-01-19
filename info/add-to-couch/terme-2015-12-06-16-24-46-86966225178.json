@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-24-46-86966225178",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Photographie/",
+  "description": "Description de Photographie",
+  "enfants": [
+    "terme-2015-12-06-16-24-46-86966225181",
+    "terme-2015-12-06-16-24-46-86966225184",
+    "terme-2015-12-06-16-24-46-86966225187",
+    "terme-2015-12-06-16-24-46-86966225190"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467032,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-46",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Photographie",
+  "nom-folder": "Photographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-46-86966225178"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Photography"
+    ],
+    "ar": [
+      "تصوير"
+    ],
+    "es": [
+      "Fotografía"
+    ],
+    "fr": [
+      "Photographie"
+    ],
+    "it": [
+      "fotografia"
+    ]
+  }
+}

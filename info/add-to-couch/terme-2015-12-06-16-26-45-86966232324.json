@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232324",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Comites-de-lecture/",
+  "description": "Description de Comité de lecture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472107,
+  "identifiant-drupal-parent": 472064,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Comité de lecture",
+  "nom-folder": "Comites-de-lecture",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232324"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Paper review board"
+    ],
+    "ar": [
+      "لجنة القراءة"
+    ],
+    "es": [
+      "Revisión por pares"
+    ],
+    "fr": [
+      "Comité de lecture"
+    ],
+    "it": [
+      "Comitato consultativo"
+    ]
+  }
+}

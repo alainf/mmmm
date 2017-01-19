@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221401",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Financement/Financement-de-la-recherche/",
+  "description": "Description de Financement de la recherche",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469086,
+  "identifiant-drupal-parent": 1674,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Financement de la recherche",
+  "nom-folder": "Financement-de-la-recherche",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221401"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research funding"
+    ],
+    "ar": [
+      "تمويل البحوث"
+    ],
+    "es": [
+      "Financiación de la investigación"
+    ],
+    "fr": [
+      "Financement de la recherche"
+    ],
+    "it": [
+      "Finanziamento della ricerca"
+    ],
+    "ru": [
+      "Исследования, финансирование"
+    ]
+  }
+}

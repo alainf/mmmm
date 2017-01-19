@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224030",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Cereales/Culture-de-plantes-oleagineuses/",
+  "description": "Description de Culture de plantes oléagineuses",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451046,
+  "identifiant-drupal-parent": 937,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture de plantes oléagineuses",
+  "nom-folder": "Culture-de-plantes-oleagineuses",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224030",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oilseed cultivation"
+    ],
+    "ar": [
+      "زراعة البذور الزيتونية"
+    ],
+    "es": [
+      "Cultivos oleaginosos"
+    ],
+    "fr": [
+      "Culture de plantes oléagineuses"
+    ],
+    "it": [
+      "Coltivazione di piante oleose"
+    ]
+  }
+}

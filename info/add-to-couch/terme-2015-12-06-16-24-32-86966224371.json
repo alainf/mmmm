@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224371",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Architecture/Architecture-hausmannienne/",
+  "description": "Description de Architecture hausmannienne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467094,
+  "identifiant-drupal-parent": 466817,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Architecture hausmannienne",
+  "nom-folder": "Architecture-hausmannienne",
+  "nom-machine": "terme-2015-12-06-16-24-32-86966224371",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Haussmannian architecture"
+    ],
+    "ar": [
+      "تصميم هاوسمانيني"
+    ],
+    "es": [
+      "Arquitectura haussmaniana"
+    ],
+    "fr": [
+      "Architecture hausmannienne"
+    ],
+    "it": [
+      "Architettura hausmanniana"
+    ]
+  }
+}

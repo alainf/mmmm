@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-24-00-87275102422",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Sotho-du-Sud/",
+  "description": "Description de Sotho du Sud",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "st",
+  "ISO-639-2": "sot",
+  "ISO-639-3": "sot",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-24-00",
+  "moment-de-modification": "2016-02-04-06-24-57",
+  "nom": "Sotho du Sud",
+  "nom-folder": "Sotho-du-Sud",
+  "nom-machine": "terme-2016-02-04-06-24-00-87275102422",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Sotho_du_Sud",
+  "nomLangues": {
+    "en": [
+      "Sotho"
+    ],
+    "ar": [
+      "سوتية"
+    ],
+    "es": [
+      "Sesotho"
+    ],
+    "fr": [
+      "Sotho du Sud"
+    ],
+    "it": [
+      "Sotho del Sud"
+    ],
+    "ru": [
+      "Сесото"
+    ]
+  }
+}

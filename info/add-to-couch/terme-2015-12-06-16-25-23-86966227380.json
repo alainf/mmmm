@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227380",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Commerce-exterieur/",
+  "description": "Description de Commerce extérieur",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1807,
+  "identifiant-drupal-parent": 1802,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce extérieur",
+  "nom-folder": "Commerce-exterieur",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-23-86966227380"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Foreign Trade"
+    ],
+    "ar": [
+      "تجارة خارجية"
+    ],
+    "es": [
+      "Comercio exterior"
+    ],
+    "fr": [
+      "Commerce extérieur"
+    ],
+    "it": [
+      "Commercio estero"
+    ]
+  }
+}

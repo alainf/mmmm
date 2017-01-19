@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-06-28-87275039317",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Sanskrit/",
+  "description": "Description de Sanskrit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "sa",
+  "ISO-639-2": "san",
+  "ISO-639-3": "san",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-06-28",
+  "moment-de-modification": "2016-02-04-06-07-03",
+  "nom": "Sanskrit",
+  "nom-folder": "Sanskrit",
+  "nom-machine": "terme-2016-02-04-06-06-28-87275039317",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Sanskrit",
+  "nomLangues": {
+    "en": [
+      "Sanskrit"
+    ],
+    "ar": [
+      "سنسكريتية"
+    ],
+    "es": [
+      "Sánscrito"
+    ],
+    "fr": [
+      "Sanskrit"
+    ],
+    "it": [
+      "Sanscrito"
+    ],
+    "ru": [
+      "Санскрит"
+    ]
+  }
+}

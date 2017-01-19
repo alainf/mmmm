@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-46-86966225165",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Techniques-de-la-peinture/Peinture-par-irisation/",
+  "description": "Description de Peinture par irisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467027,
+  "identifiant-drupal-parent": 467018,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-46",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Peinture par irisation",
+  "nom-folder": "Peinture-par-irisation",
+  "nom-machine": "terme-2015-12-06-16-24-46-86966225165",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Iridescence painting"
+    ],
+    "ar": [
+      "التقزح اللوني اللوحة"
+    ],
+    "es": [
+      "Pintura con iridiscencia"
+    ],
+    "fr": [
+      "Peinture par irisation"
+    ],
+    "it": [
+      "Pittura con iridescenza"
+    ]
+  }
+}

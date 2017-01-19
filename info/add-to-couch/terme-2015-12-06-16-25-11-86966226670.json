@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226670",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Bibliotheconomie/Bibliographies/",
+  "description": "Description de Bibliographies",
+  "enfants": [
+    "terme-2015-12-06-16-25-11-86966226673",
+    "terme-2015-12-06-16-25-11-86966226676",
+    "terme-2015-12-06-16-25-11-86966226678",
+    "terme-2015-12-06-16-25-11-86966226681",
+    "terme-2015-12-06-16-25-11-86966226684",
+    "terme-2015-12-06-16-25-11-86966226687",
+    "terme-2015-12-06-16-25-11-86966226690"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272296,
+  "identifiant-drupal-parent": 1562,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Bibliographies",
+  "nom-folder": "Bibliographies",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-11-86966226670"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bibliography"
+    ],
+    "ar": [
+      "الببليوغرافيات"
+    ],
+    "es": [
+      "Bibliografías"
+    ],
+    "fr": [
+      "Bibliographies"
+    ],
+    "it": [
+      "Bibliografie"
+    ]
+  }
+}

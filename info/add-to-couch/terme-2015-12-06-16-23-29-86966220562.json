@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-23-29-86966220562",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/roles/infrastructure/",
+  "description": "Description de Infrastructure",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-29",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Infrastructure",
+  "nom-folder": "infrastructure",
+  "nom-machine": "terme-2015-12-06-16-23-29-86966220562",
+  "sous-type": "roles",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Infrastructure"
+    ],
+    "ar": [
+      "بنية التحتية"
+    ],
+    "es": [
+      "Infraestructura"
+    ],
+    "fr": [
+      "Infrastructure"
+    ],
+    "it": [
+      "Infrastruttura"
+    ]
+  }
+}

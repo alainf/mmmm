@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-13-86966233980",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/lancement-de-campagne-publicitaire/",
+  "description": "Description de Lancement de campagne publicitaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 378882,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Lancement de campagne publicitaire",
+  "nom-folder": "lancement-de-campagne-publicitaire",
+  "nom-machine": "terme-2015-12-06-16-27-13-86966233980",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Advertising campaign launch"
+    ],
+    "es": [
+      "Lanzamiento de campaña publicitaria"
+    ],
+    "fr": [
+      "Lancement de campagne publicitaire"
+    ],
+    "it": [
+      "Lancio di campagna pubblicitaria"
+    ]
+  }
+}

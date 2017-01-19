@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-13-86966223190",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Physics/Atomic-and-Molecular-Physics/",
+  "description": "Description de Atomic and molecular physics",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369224,
+  "identifiant-drupal-parent": 369223,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-13",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Atomic and molecular physics",
+  "nom-folder": "Atomic-and-Molecular-Physics",
+  "nom-machine": "terme-2015-12-06-16-24-13-86966223190",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Atomic and molecular physics"
+    ]
+  }
+}

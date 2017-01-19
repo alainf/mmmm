@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-49-86966221758",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Ciencias-juridicas/",
+  "description": "Description de Ciencias juridicas",
+  "enfants": [
+    "terme-2015-12-06-16-23-49-86966221761",
+    "terme-2015-12-06-16-23-49-86966221764",
+    "terme-2015-12-06-16-23-49-86966221767",
+    "terme-2015-12-06-16-23-49-86966221770",
+    "terme-2015-12-06-16-23-49-86966221773",
+    "terme-2015-12-06-16-23-49-86966221776",
+    "terme-2015-12-06-16-23-49-86966221778",
+    "terme-2015-12-06-16-23-49-86966221781",
+    "terme-2015-12-06-16-23-49-86966221784",
+    "terme-2015-12-06-16-23-49-86966221787"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380842,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-49",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Ciencias juridicas",
+  "nom-folder": "Ciencias-juridicas",
+  "nom-machine": "terme-2015-12-06-16-23-49-86966221758",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Ciencias juridicas"
+    ]
+  }
+}

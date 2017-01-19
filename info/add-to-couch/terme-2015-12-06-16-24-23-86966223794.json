@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223794",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Conservation-agricole/",
+  "description": "Description de Conservation agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 900,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Conservation agricole",
+  "nom-folder": "Conservation-agricole",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223794"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural conservation"
+    ],
+    "ar": [
+      "المحافظة الزراعية"
+    ],
+    "es": [
+      "Conservación agrícola"
+    ],
+    "fr": [
+      "Conservation agricole"
+    ],
+    "it": [
+      "conservazione agricola"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-25-86966231145",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Russie-et-Europe-de-l'Est/",
+  "description": "Russie et Europe de l'Est",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455683,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-25",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Russie et Europe de l’Est",
+  "nom-folder": "Russie-et-Europe-de-l'Est",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-25-86966231145"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Russia and Eastern Europe"
+    ],
+    "ar": [
+      "روسيا وأوروبا الشرقية"
+    ],
+    "es": [
+      "Rusia y Europa del Este"
+    ],
+    "fr": [
+      "Russie et Europe de l’Est"
+    ],
+    "it": [
+      "Russia ed Europa dell'Est"
+    ]
+  }
+}

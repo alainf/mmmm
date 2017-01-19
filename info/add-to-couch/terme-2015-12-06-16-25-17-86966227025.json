@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227025",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Reseaux-de-bibliotheques/",
+  "description": "Description de Réseaux de bibliothèques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1565,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Réseaux de bibliothèques",
+  "nom-folder": "Reseaux-de-bibliotheques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227025"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Library Network"
+    ],
+    "ar": [
+      "شبكات المكتبات"
+    ],
+    "es": [
+      "Redes de bibliotecas"
+    ],
+    "fr": [
+      "Réseaux de bibliothèques"
+    ],
+    "it": [
+      "Reti di biblioteche"
+    ]
+  }
+}

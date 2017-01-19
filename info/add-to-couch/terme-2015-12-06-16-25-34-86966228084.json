@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228084",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Phases-de-projets/",
+  "description": "Description de Phases de projets",
+  "enfants": [
+    "terme-2015-12-06-16-25-34-86966228087",
+    "terme-2015-12-06-16-25-34-86966228089",
+    "terme-2015-12-06-16-25-34-86966228093"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1983,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Phases de projets",
+  "nom-folder": "Phases-de-projets",
+  "nom-machine": "terme-2015-12-06-16-25-34-86966228084",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Project phases"
+    ],
+    "ar": [
+      "مراحل المشاريع"
+    ],
+    "es": [
+      "Fases de proyectos"
+    ],
+    "fr": [
+      "Phases de projets"
+    ],
+    "it": [
+      "Fasi di progetti"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227672",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/Gestion-des-stocks/Production-a-la-demande/",
+  "description": "Description de Production à la demande",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1862,
+  "identifiant-drupal-parent": 1857,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Production à la demande",
+  "nom-folder": "Production-a-la-demande",
+  "nom-machine": "terme-2015-12-06-16-25-27-86966227672",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Make to order"
+    ],
+    "ar": [
+      "الإنتاج بناء على الطلب"
+    ],
+    "es": [
+      "Producción bajo pedido"
+    ],
+    "fr": [
+      "Production à la demande"
+    ],
+    "it": [
+      "Produzione su commessa"
+    ]
+  }
+}

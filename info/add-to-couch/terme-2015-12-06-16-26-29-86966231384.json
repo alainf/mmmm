@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-29-86966231384",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-organes/Hepato-gastro-enterologie/",
+  "description": "Description de Hépato-gastro-entérologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1468,
+  "identifiant-drupal-parent": 1437,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-29",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Hépato-gastro-entérologie",
+  "nom-folder": "Hepato-gastro-enterologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-29-86966231384"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Hepato-Gastroenterology"
+    ],
+    "ar": [
+      "طب الأمراض الكبدية و الجهاز الهضمي"
+    ],
+    "es": [
+      "Gastroenterología hepática"
+    ],
+    "fr": [
+      "Hépato-gastro-entérologie"
+    ],
+    "it": [
+      "Gastroenterologia epatica"
+    ]
+  }
+}

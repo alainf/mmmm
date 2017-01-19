@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-11-86966223110",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Medicine/Respiratory-and-Pulmonary/",
+  "description": "Description de Respiratory and pulmonary",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369197,
+  "identifiant-drupal-parent": 369132,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-11",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Respiratory and pulmonary",
+  "nom-folder": "Respiratory-and-Pulmonary",
+  "nom-machine": "terme-2015-12-06-16-24-11-86966223110",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Respiratory and pulmonary"
+    ]
+  }
+}

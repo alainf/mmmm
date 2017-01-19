@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2016-02-29-04-51-38-87404369913",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/pourquoi-ecrire/",
+  "description": "Description de Pourquoi écrire",
+  "enfants": [
+    "terme-2016-02-29-04-52-23-87404372613",
+    "terme-2016-02-29-04-55-40-87404384457"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-51-38",
+  "moment-de-modification": "2016-02-29-04-52-12",
+  "nom": "Pourquoi écrire",
+  "nom-folder": "pourquoi-ecrire",
+  "nom-machine": "terme-2016-02-29-04-51-38-87404369913",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Why write"
+    ],
+    "fr": [
+      "Pourquoi écrire"
+    ]
+  }
+}

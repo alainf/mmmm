@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231903",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Autres-religions/",
+  "description": "Description de Autres religions",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466756,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Autres religions",
+  "nom-folder": "Autres-religions",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-38-86966231903"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Other religions"
+    ],
+    "ar": [
+      "ديانات الأخرى"
+    ],
+    "es": [
+      "Otras religiones"
+    ],
+    "fr": [
+      "Autres religions"
+    ],
+    "it": [
+      "altre religioni"
+    ]
+  }
+}

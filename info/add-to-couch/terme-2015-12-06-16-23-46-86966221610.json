@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-46-86966221610",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Styles-de-vie/Rites-et-celebrations/",
+  "description": "Description de Rites et célébrations",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270712,
+  "identifiant-drupal-parent": 270707,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-46",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Rites et célébrations",
+  "nom-folder": "Rites-et-celebrations",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-46-86966221610"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rituals and celebrations"
+    ],
+    "ar": [
+      "الطقوس والاحتفالات"
+    ],
+    "es": [
+      "Rituales y celebraciones"
+    ],
+    "fr": [
+      "Rites et célébrations"
+    ],
+    "it": [
+      "Rituali e celebrazioni"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223931",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Conchyliculture/Ostreiculture/",
+  "description": "Description de Ostréiculture",
+  "enfants": [
+    "terme-2015-12-06-16-24-25-86966223934",
+    "terme-2015-12-06-16-24-25-86966223937",
+    "terme-2015-12-06-16-24-25-86966223939"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269052,
+  "identifiant-drupal-parent": 927,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Ostréiculture",
+  "nom-folder": "Ostreiculture",
+  "nom-machine": "terme-2015-12-06-16-24-25-86966223931",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oyster Farming"
+    ],
+    "ar": [
+      "استزراع المحار"
+    ],
+    "es": [
+      "Ostricultura"
+    ],
+    "fr": [
+      "Ostréiculture"
+    ],
+    "it": [
+      "Ostricoltura"
+    ]
+  }
+}

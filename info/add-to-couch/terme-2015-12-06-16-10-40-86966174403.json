@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174403",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/organisation-internationale/",
+  "description": "Description de Organisation internationale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Organisation internationale",
+  "nom-folder": "organisation-internationale",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174403",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International organization"
+    ],
+    "ar": [
+      "منظمة دولية"
+    ],
+    "es": [
+      "Organización internacional"
+    ],
+    "fr": [
+      "Organisation internationale"
+    ],
+    "it": [
+      "Organizzazione internazionale"
+    ],
+    "ru": [
+      "Международная организация"
+    ]
+  }
+}

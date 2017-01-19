@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225809",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Disciplines-de-la-finance/",
+  "description": "Description de Disciplines de la finance",
+  "enfants": [
+    "terme-2015-12-06-16-24-56-86966225811",
+    "terme-2015-12-06-16-24-56-86966225815",
+    "terme-2015-12-06-16-24-56-86966225817",
+    "terme-2015-12-06-16-24-57-86966225821",
+    "terme-2015-12-06-16-24-57-86966225823",
+    "terme-2015-12-06-16-24-57-86966225826",
+    "terme-2015-12-06-16-24-57-86966225829"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271365,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Disciplines de la finance",
+  "nom-folder": "Disciplines-de-la-finance",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225809"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Disciplines of finance"
+    ],
+    "ar": [
+      "فروع المالية"
+    ],
+    "es": [
+      "Disciplinas financieras"
+    ],
+    "fr": [
+      "Disciplines de la finance"
+    ],
+    "it": [
+      "Discipline della finanza"
+    ]
+  }
+}

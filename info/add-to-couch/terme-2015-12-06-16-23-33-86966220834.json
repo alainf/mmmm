@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220834",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Communications,-marketing,-gestion-de-la-marque/",
+  "description": "Description de Communications, marketing, gestion de la marque",
+  "enfants": [
+    "terme-2015-12-06-16-23-33-86966220838"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270485,
+  "identifiant-drupal-parent": 270482,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Communications, marketing, gestion de la marque",
+  "nom-folder": "Communications,-marketing,-gestion-de-la-marque",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-33-86966220834"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communications, marketing, branding"
+    ],
+    "ar": [
+      "الاتصالات والتسويق و  تعزيز العلامة التجارية"
+    ],
+    "es": [
+      "Las comunicaciones, la comercialización, la promoción de marca"
+    ],
+    "fr": [
+      "Communications, marketing, gestion de la marque"
+    ],
+    "it": [
+      "Comunicazione, marketing e promozione del marchio"
+    ],
+    "ru": [
+      "Связи, маркетингу и продвижению торговой марки"
+    ]
+  }
+}

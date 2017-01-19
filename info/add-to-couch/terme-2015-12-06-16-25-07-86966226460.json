@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226460",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Biodegradation/Cycle-du-carbone/",
+  "description": "Description de Cycle du carbone",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472212,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Cycle du carbone",
+  "nom-folder": "Cycle-du-carbone",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226460"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Carbon cycle"
+    ],
+    "ar": [
+      "دورة الكربون"
+    ],
+    "es": [
+      "Ciclo del carbón"
+    ],
+    "fr": [
+      "Cycle du carbone"
+    ],
+    "it": [
+      "ciclo del carbonio"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228493",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-agricole-(secteurs)/",
+  "description": "Description de Gestion agricole (secteurs)",
+  "enfants": [
+    "terme-2015-12-06-16-25-41-86966228497",
+    "terme-2015-12-06-16-25-41-86966228500",
+    "terme-2015-12-06-16-25-41-86966228503",
+    "terme-2015-12-06-16-25-41-86966228506",
+    "terme-2015-12-06-16-25-41-86966228509",
+    "terme-2015-12-06-16-25-41-86966228513",
+    "terme-2015-12-06-16-25-41-86966228516",
+    "terme-2015-12-06-16-25-41-86966228519"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2190,
+  "identifiant-drupal-parent": 2189,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion agricole (secteurs)",
+  "nom-folder": "Gestion-agricole-(secteurs)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-41-86966228493"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Farm Management (industry sector)"
+    ],
+    "ar": [
+      "إدارة المزرعة (قطاعات)"
+    ],
+    "es": [
+      "Gestión Agraria (sectores)"
+    ],
+    "fr": [
+      "Gestion agricole (secteurs)"
+    ],
+    "it": [
+      "Gestione agraria (settori)"
+    ]
+  }
+}

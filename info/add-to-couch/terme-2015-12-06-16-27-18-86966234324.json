@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234324",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/organisation/",
+  "description": "Description de Organisation",
+  "enfants": [
+    "terme-2015-12-06-16-27-18-86966234327",
+    "terme-2015-12-06-16-27-18-86966234330"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317551,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Organisation",
+  "nom-folder": "organisation",
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234324",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organization"
+    ],
+    "es": [
+      "Organización"
+    ],
+    "fr": [
+      "Organisation"
+    ],
+    "it": [
+      "Organizzazione"
+    ]
+  }
+}

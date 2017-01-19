@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232482",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Methodes-de-recherche-en-psychologie-sociale/",
+  "description": "Description de Méthodes de recherche en psychologie sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1061,
+  "identifiant-drupal-parent": 1002,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Méthodes de recherche en psychologie sociale",
+  "nom-folder": "Methodes-de-recherche-en-psychologie-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-48-86966232482"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research Methods in Social Psychology"
+    ],
+    "ar": [
+      "مناهج البحث في علم النفس الإجتماعي"
+    ],
+    "es": [
+      "Métodos de investigación en psicología social"
+    ],
+    "fr": [
+      "Méthodes de recherche en psychologie sociale"
+    ],
+    "it": [
+      "Metodi d'investigazione in psicologia sociale"
+    ]
+  }
+}

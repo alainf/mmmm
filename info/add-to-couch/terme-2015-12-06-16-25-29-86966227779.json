@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227779",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-26000/",
+  "description": "Description de ISO 26000 Responsabilité sociale des entreprises",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1905,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 26000 Responsabilité sociale des entreprises",
+  "nom-folder": "ISO-26000",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-29-86966227779"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 26000 Corporate social responsibility"
+    ],
+    "ar": [
+      "ISO 26000 المسؤولية الإجتماعية للشركات"
+    ],
+    "es": [
+      "ISO 26000 responsabilidad social corporativa"
+    ],
+    "fr": [
+      "ISO 26000 Responsabilité sociale des entreprises"
+    ],
+    "it": [
+      "Iso 26000 responsabilità sociale d'impresa"
+    ]
+  }
+}

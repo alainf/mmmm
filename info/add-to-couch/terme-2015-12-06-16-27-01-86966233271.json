@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233271",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-du-travail/Mutation-du-travail-(sociologie-du-travail)/",
+  "description": "Description de Mutation du travail (sociologie du travail)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469911,
+  "identifiant-drupal-parent": 1216,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Mutation du travail (sociologie du travail)",
+  "nom-folder": "Mutation-du-travail-(sociologie-du-travail)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-01-86966233271"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mutations of labour (sociology)"
+    ],
+    "ar": [
+      "الطفرات في العمل (علم الإجتماع في مجال العمل)"
+    ],
+    "es": [
+      "Mutaciones en el trabajo (sociología)"
+    ],
+    "fr": [
+      "Mutation du travail (sociologie du travail)"
+    ],
+    "it": [
+      "Mutazioni nel lavoro (sociologia)"
+    ]
+  }
+}

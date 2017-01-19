@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230966",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Enseignement-en-sciences-humaines/",
+  "description": "Description de Enseignement en sciences humaines",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 941,
+  "identifiant-drupal-parent": 890,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Enseignement en sciences humaines",
+  "nom-folder": "Enseignement-en-sciences-humaines",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230966"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching humanities"
+    ],
+    "ar": [
+      "تدريس علوم الإنسانية"
+    ],
+    "es": [
+      "Eseñanza en Humanidades"
+    ],
+    "fr": [
+      "Enseignement en sciences humaines"
+    ],
+    "it": [
+      "insegnamento nelle studi umanistici"
+    ]
+  }
+}

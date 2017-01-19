@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-26-86966231218",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-des-femmes/",
+  "description": "Description de Histoire des femmes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 983,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-26",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire des femmes",
+  "nom-folder": "Histoire-des-femmes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-26-86966231218"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Women's History"
+    ],
+    "ar": [
+      "تاريخ المرأة"
+    ],
+    "es": [
+      "Historia de las Mujeres"
+    ],
+    "fr": [
+      "Histoire des femmes"
+    ],
+    "it": [
+      "Storia delle donne"
+    ]
+  }
+}

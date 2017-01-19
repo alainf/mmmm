@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229199",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-publique/",
+  "description": "Description de Comptabilité publique",
+  "enfants": [
+    "terme-2015-12-06-16-25-53-86966229202",
+    "terme-2015-12-06-16-25-53-86966229205",
+    "terme-2015-12-06-16-25-53-86966229208",
+    "terme-2015-12-06-16-25-53-86966229212"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270935,
+  "identifiant-drupal-parent": 270934,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptabilité publique",
+  "nom-folder": "Comptabilite-publique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-53-86966229199"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Governmental accounting"
+    ],
+    "ar": [
+      "المحاسبة العمومية"
+    ],
+    "es": [
+      "Contabilidad presupuestaria"
+    ],
+    "fr": [
+      "Comptabilité publique"
+    ],
+    "it": [
+      "Contabilità pubblica"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221467",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Recherches/Sites-de-reference/Lexiques-et-dictionnaires/",
+  "description": "Description de Lexiques et dictionnaires",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270536,
+  "identifiant-drupal-parent": 1769,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Lexiques et dictionnaires",
+  "nom-folder": "Lexiques-et-dictionnaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221467"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lexicons & dictionnaries"
+    ],
+    "ar": [
+      "مفردات والقواميس"
+    ],
+    "es": [
+      "Léxicos y diccionarios"
+    ],
+    "fr": [
+      "Lexiques et dictionnaires"
+    ],
+    "it": [
+      "Lessici e dizionari"
+    ],
+    "ru": [
+      "Лексика и словари"
+    ]
+  }
+}

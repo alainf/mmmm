@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-24-02-86966222576",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Environmental-Sciences/",
+  "description": "Description de Environmental sciences",
+  "enfants": [
+    "terme-2015-12-06-16-24-03-86966222580",
+    "terme-2015-12-06-16-24-03-86966222582",
+    "terme-2015-12-06-16-24-03-86966222586",
+    "terme-2015-12-06-16-24-03-86966222589",
+    "terme-2015-12-06-16-24-03-86966222592",
+    "terme-2015-12-06-16-24-03-86966222594",
+    "terme-2015-12-06-16-24-03-86966222599",
+    "terme-2015-12-06-16-24-03-86966222602",
+    "terme-2015-12-06-16-24-03-86966222604",
+    "terme-2015-12-06-16-24-03-86966222608",
+    "terme-2015-12-06-16-24-03-86966222610",
+    "terme-2015-12-06-16-24-03-86966222614",
+    "terme-2015-12-06-16-24-03-86966222616"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369015,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-02",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Environmental sciences",
+  "nom-folder": "Environmental-Sciences",
+  "nom-machine": "terme-2015-12-06-16-24-02-86966222576",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Environmental sciences"
+    ]
+  }
+}

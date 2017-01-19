@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227958",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Conduite-de-projet/Etape-de-production/",
+  "description": "Description de Étape de production",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1956,
+  "identifiant-drupal-parent": 1951,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Étape de production",
+  "nom-folder": "Etape-de-production",
+  "nom-machine": "terme-2015-12-06-16-25-32-86966227958",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Production stage"
+    ],
+    "ar": [
+      "مرحلة من مراحل الإنتاج"
+    ],
+    "es": [
+      "Etapa de producción"
+    ],
+    "fr": [
+      "Étape de production"
+    ],
+    "it": [
+      "Fase di produzione"
+    ]
+  }
+}

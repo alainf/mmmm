@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-57-86966222237",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Computer-and-Infomation-Science/Information-Science/",
+  "description": "Description de Information science",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368899,
+  "identifiant-drupal-parent": 368888,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-57",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Information science",
+  "nom-folder": "Information-Science",
+  "nom-machine": "terme-2015-12-06-16-23-57-86966222237",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Information science"
+    ]
+  }
+}

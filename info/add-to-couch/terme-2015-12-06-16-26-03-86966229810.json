@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229810",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Variables-de-l'environnement-marketing/",
+  "description": "Description de Variables de l'environnement marketing",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2082,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Variables de l'environnement marketing",
+  "nom-folder": "Variables-de-l'environnement-marketing",
+  "nom-machine": "terme-2015-12-06-16-26-03-86966229810",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Marketing environment variables"
+    ],
+    "ar": [
+      "متغيرات التسويقية البيئة"
+    ],
+    "es": [
+      "Variables en el entorno marketing"
+    ],
+    "fr": [
+      "Variables de l'environnement marketing"
+    ],
+    "it": [
+      "Variabili dell'ambiente marketing"
+    ],
+    "ru": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232104",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-sociale/",
+  "description": "Description de Anthropologie sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1022,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie sociale",
+  "nom-folder": "Anthropologie-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-41-86966232104"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social Anthropology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا الاجتماعية"
+    ],
+    "es": [
+      "Antropología social"
+    ],
+    "fr": [
+      "Anthropologie sociale"
+    ],
+    "it": [
+      "antropologia sociale"
+    ]
+  }
+}

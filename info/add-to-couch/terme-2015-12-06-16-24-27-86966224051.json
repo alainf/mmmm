@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224051",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Culture-de-fruits-et-de-noix/Culture-d'agrumes/",
+  "description": "Description de Culture d'agrumes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451055,
+  "identifiant-drupal-parent": 451053,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture d'agrumes",
+  "nom-folder": "Culture-d'agrumes",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224051",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Citrus crop"
+    ],
+    "ar": [
+      "زراعة الحمضيات"
+    ],
+    "es": [
+      "Cultivo de cítricos"
+    ],
+    "fr": [
+      "Culture d'agrumes"
+    ],
+    "it": [
+      "Coltivazione di agrumi"
+    ]
+  }
+}

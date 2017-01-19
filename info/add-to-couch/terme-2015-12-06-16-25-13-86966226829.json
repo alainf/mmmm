@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226829",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Agence-de-presse/",
+  "description": "Description de Agence de presse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270738,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Agence de presse",
+  "nom-folder": "Agence-de-presse",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226829"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Press agency"
+    ],
+    "ar": [
+      "وكالة أنباء"
+    ],
+    "es": [
+      "Agencia de prensa"
+    ],
+    "fr": [
+      "Agence de presse"
+    ],
+    "it": [
+      "Agenzia di stampa"
+    ]
+  }
+}

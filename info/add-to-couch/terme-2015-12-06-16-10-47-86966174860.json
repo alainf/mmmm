@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174860",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/licences/Creative-Commons/CC-by-nc-sa/",
+  "description": "Description de Cc by nc sa",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Cc by nc sa",
+  "nom-folder": "CC-by-nc-sa",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174860",
+  "sous-type": "licences",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cc by nc sa"
+    ],
+    "ar": [
+      "CC by nc sa"
+    ],
+    "es": [
+      "Cc by nc sa"
+    ],
+    "fr": [
+      "Cc by nc sa"
+    ],
+    "it": [
+      "Cc by nc sa"
+    ],
+    "ru": [
+      "CC by nc sa"
+    ]
+  }
+}

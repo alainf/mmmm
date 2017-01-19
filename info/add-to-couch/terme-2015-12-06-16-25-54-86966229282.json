@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229282",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Strategie-d'entreprise-(CSR)/Management-strategique/",
+  "description": "Description de Management stratégique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2244,
+  "identifiant-drupal-parent": 2239,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Management stratégique",
+  "nom-folder": "Management-strategique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229282"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Strategic Management"
+    ],
+    "ar": [
+      "إدارة إستراتيجية"
+    ],
+    "es": [
+      "Gestión estratégica"
+    ],
+    "fr": [
+      "Management stratégique"
+    ],
+    "it": [
+      "Gestione strategica"
+    ]
+  }
+}

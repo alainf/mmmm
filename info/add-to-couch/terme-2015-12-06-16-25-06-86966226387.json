@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226387",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Formation-par-competences/",
+  "description": "Description de Formation par compétences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270862,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Formation par compétences",
+  "nom-folder": "Formation-par-competences",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226387"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Competency-based training"
+    ],
+    "ar": [
+      "تدريب القائم على الكفاءات"
+    ],
+    "es": [
+      "Formación basada en competencias"
+    ],
+    "fr": [
+      "Formation par compétences"
+    ],
+    "it": [
+      "Formazione basata sulle competenze"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2016-02-29-04-38-40-87404323236",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/lieu-de-l-ecriture/lieu-de-la-narration/lieu-embematique/",
+  "description": "Description de Lieu embématique",
+  "enfants": [
+    "terme-2016-02-29-04-40-39-87404330365",
+    "terme-2016-02-29-04-42-09-87404335796"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-38-40",
+  "moment-de-modification": "2016-02-29-04-39-31",
+  "nom": "Lieu embématique",
+  "nom-folder": "lieu-embematique",
+  "nom-machine": "terme-2016-02-29-04-38-40-87404323236",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Lieu embématique"
+    ]
+  }
+}

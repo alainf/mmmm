@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230144",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/Extraction-de-schiste/",
+  "description": "Description de Extraction de schiste",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451091,
+  "identifiant-drupal-parent": 451077,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de schiste",
+  "nom-folder": "Extraction-de-schiste",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230144"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Shale mining"
+    ],
+    "ar": [
+      "إستخراج الشست"
+    ],
+    "es": [
+      "Minería de esquisto"
+    ],
+    "fr": [
+      "Extraction de schiste"
+    ],
+    "it": [
+      "Estrazione di scisto"
+    ]
+  }
+}

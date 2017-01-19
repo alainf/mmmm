@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233230",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-de-l'education-(champs)/",
+  "description": "Description de Sociologie de l'éducation (champs)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1203,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie de l'éducation (champs)",
+  "nom-folder": "Sociologie-de-l'education-(champs)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-00-86966233230"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of Education (fields)"
+    ],
+    "ar": [
+      "علم اجتماع التعليم (الحقول)"
+    ],
+    "es": [
+      "Sociología de la Educación (campos)"
+    ],
+    "fr": [
+      "Sociologie de l'éducation (champs)"
+    ],
+    "it": [
+      "Sociologia dell'educazione (campi)"
+    ]
+  }
+}

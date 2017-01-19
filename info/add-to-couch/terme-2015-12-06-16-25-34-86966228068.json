@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228068",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Outils-de-gestion-de-projets/",
+  "description": "Description de Outils de gestion de projets",
+  "enfants": [
+    "terme-2015-12-06-16-25-34-86966228072",
+    "terme-2015-12-06-16-25-34-86966228074",
+    "terme-2015-12-06-16-25-34-86966228077"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472272,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Outils de gestion de projets",
+  "nom-folder": "Outils-de-gestion-de-projets",
+  "nom-machine": "terme-2015-12-06-16-25-34-86966228068",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Project management tools"
+    ],
+    "ar": [
+      "أدوات إدارة المشاريع"
+    ],
+    "es": [
+      "Herramientas de gestión de proyectos"
+    ],
+    "fr": [
+      "Outils de gestion de projets"
+    ],
+    "it": [
+      "Strumenti di gestione di  progetti"
+    ]
+  }
+}

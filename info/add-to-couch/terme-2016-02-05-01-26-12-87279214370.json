@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-05-01-26-12-87279214370",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Temps-de-l-ecriture/",
+  "description": "Description de Temps de l'écriture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-26-12",
+  "moment-de-modification": "2016-02-05-01-26-56",
+  "nom": "Temps de l'écriture",
+  "nom-folder": "Temps-de-l-ecriture",
+  "nom-machine": "terme-2016-02-05-01-26-12-87279214370",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Times of writing"
+    ],
+    "es": [
+      "Tiempos de la escritura"
+    ],
+    "fr": [
+      "Temps de l'écriture"
+    ],
+    "it": [
+      "Tempi della scrittura"
+    ]
+  }
+}

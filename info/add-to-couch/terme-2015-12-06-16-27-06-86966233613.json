@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233613",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Travail-social/Handicaps/",
+  "description": "Description de Handicaps",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472207,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Handicaps",
+  "nom-folder": "Handicaps",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-06-86966233613"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Handicaps"
+    ],
+    "ar": [
+      "الإعاقات"
+    ],
+    "es": [
+      "Discapacidad"
+    ],
+    "fr": [
+      "Handicaps"
+    ],
+    "it": [
+      "disabilità"
+    ]
+  }
+}

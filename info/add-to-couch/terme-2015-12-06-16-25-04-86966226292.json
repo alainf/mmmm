@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226292",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Politique/Syndicalisme/Travail,-syndicalisme-et-mouvement-ouvrier/",
+  "description": "Description de Travail, syndicalisme et mouvement ouvrier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455690,
+  "identifiant-drupal-parent": 1293,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Travail, syndicalisme et mouvement ouvrier",
+  "nom-folder": "Travail,-syndicalisme-et-mouvement-ouvrier",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226292"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Work, tradeunionism and labour movement"
+    ],
+    "ar": [
+      "العمل، الحركة النقابية والحركة العمالية"
+    ],
+    "es": [
+      "Trabajo, sindicalismo y movimiento obrero"
+    ],
+    "fr": [
+      "Travail, syndicalisme et mouvement ouvrier"
+    ],
+    "it": [
+      "Lavoro, sindacalismo e movimento operaio"
+    ]
+  }
+}

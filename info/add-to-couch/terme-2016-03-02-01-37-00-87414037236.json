@@ -1,0 +1,22 @@
+{
+  "_id": "terme-2016-03-02-01-37-00-87414037236",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/temps-de-l-ecriture/moment-de-la-narration/l-auteur-est-toujours-present/",
+  "description": "Description de L'auteur est toujours présent",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-37-00",
+  "moment-de-modification": "2016-03-02-01-38-22",
+  "nom": "L'auteur est toujours présent",
+  "nom-folder": "l-auteur-est-toujours-present",
+  "nom-machine": "terme-2016-03-02-01-37-00-87414037236",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "L'auteur est toujours présent"
+    ]
+  }
+}

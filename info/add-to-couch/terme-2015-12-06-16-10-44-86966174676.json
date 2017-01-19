@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174676",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Naskapi/",
+  "description": "Description de Naskapi",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380449,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Naskapi",
+  "nom-folder": "Naskapi",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174676",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Naskapi"
+    ],
+    "es": [
+      "Naskapi"
+    ],
+    "fr": [
+      "Naskapi"
+    ],
+    "it": [
+      "Naskapi"
+    ],
+    "ru": [
+      "Наскапи"
+    ]
+  }
+}

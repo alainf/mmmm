@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-24-03-86966222619",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Humanities/",
+  "description": "Description de Humanities",
+  "enfants": [
+    "terme-2015-12-06-16-24-03-86966222622",
+    "terme-2015-12-06-16-24-03-86966222625",
+    "terme-2015-12-06-16-24-03-86966222628",
+    "terme-2015-12-06-16-24-03-86966222630",
+    "terme-2015-12-06-16-24-03-86966222633",
+    "terme-2015-12-06-16-24-03-86966222636",
+    "terme-2015-12-06-16-24-03-86966222639",
+    "terme-2015-12-06-16-24-04-86966222642",
+    "terme-2015-12-06-16-24-04-86966222645",
+    "terme-2015-12-06-16-24-04-86966222648",
+    "terme-2015-12-06-16-24-04-86966222651",
+    "terme-2015-12-06-16-24-04-86966222653",
+    "terme-2015-12-06-16-24-04-86966222656",
+    "terme-2015-12-06-16-24-04-86966222659",
+    "terme-2015-12-06-16-24-04-86966222662",
+    "terme-2015-12-06-16-24-04-86966222665",
+    "terme-2015-12-06-16-24-04-86966222668",
+    "terme-2015-12-06-16-24-04-86966222670"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369029,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-03",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Humanities",
+  "nom-folder": "Humanities",
+  "nom-machine": "terme-2015-12-06-16-24-03-86966222619",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Humanities"
+    ]
+  }
+}

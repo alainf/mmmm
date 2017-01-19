@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-09-25-87274833936",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Cachemiri/",
+  "description": "Description de Cachemiri",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ks",
+  "ISO-639-2": "kas",
+  "ISO-639-3": "kas",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-09-25",
+  "moment-de-modification": "2016-02-04-05-10-15",
+  "nom": "Cachemiri",
+  "nom-folder": "Cachemiri",
+  "nom-machine": "terme-2016-02-04-05-09-25-87274833936",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Cachemiri",
+  "nomLangues": {
+    "en": [
+      "Kashmiri"
+    ],
+    "ar": [
+      "كشميرية"
+    ],
+    "es": [
+      "Cachemir"
+    ],
+    "fr": [
+      "Cachemiri"
+    ],
+    "it": [
+      "Kashmiri"
+    ],
+    "ru": [
+      "Кашмирский"
+    ]
+  }
+}

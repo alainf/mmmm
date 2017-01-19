@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227657",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/Gestion-des-flux-de-travail/",
+  "description": "Description de Gestion des flux de travail",
+  "enfants": [
+    "terme-2015-12-06-16-25-27-86966227660",
+    "terme-2015-12-06-16-25-27-86966227662",
+    "terme-2015-12-06-16-25-27-86966227666"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1856,
+  "identifiant-drupal-parent": 1854,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion des flux de travail",
+  "nom-folder": "Gestion-des-flux-de-travail",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-27-86966227657"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Workflow management"
+    ],
+    "ar": [
+      "إدارة دفق العمل"
+    ],
+    "es": [
+      "Gestión de los flujos de trabajo"
+    ],
+    "fr": [
+      "Gestion des flux de travail"
+    ],
+    "it": [
+      "Gestione degli flussi di lavoro"
+    ]
+  }
+}

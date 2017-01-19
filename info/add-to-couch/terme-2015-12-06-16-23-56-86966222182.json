@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-56-86966222182",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Chemistry/Nuclear-Magnetic-Resonance/",
+  "description": "Description de Nuclear magnetic resonance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368880,
+  "identifiant-drupal-parent": 368868,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-56",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Nuclear magnetic resonance",
+  "nom-folder": "Nuclear-Magnetic-Resonance",
+  "nom-machine": "terme-2015-12-06-16-23-56-86966222182",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Nuclear magnetic resonance"
+    ]
+  }
+}

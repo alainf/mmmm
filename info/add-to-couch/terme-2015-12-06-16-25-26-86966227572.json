@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-26-86966227572",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-diversite-(gestion)/Gestion-de-la-diversite-culturelle/Premieres-Nations/",
+  "description": "Description de Premières Nations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270735,
+  "identifiant-drupal-parent": 1836,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-26",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Premières Nations",
+  "nom-folder": "Premieres-Nations",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-26-86966227572"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "First Nations"
+    ],
+    "ar": [
+      "الأمم الأولى (كندا)"
+    ],
+    "es": [
+      "Primeras Naciones de Canadá"
+    ],
+    "fr": [
+      "Premières Nations"
+    ],
+    "it": [
+      "Prime nazioni (Canada)"
+    ]
+  }
+}

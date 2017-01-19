@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-09-86966233751",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Logement,-transports-et-ecologie-urbaine/",
+  "description": "Description de Logement, transports et écologie urbaine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467123,
+  "identifiant-drupal-parent": 467095,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Logement, transports et écologie urbaine",
+  "nom-folder": "Logement,-transports-et-ecologie-urbaine",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-09-86966233751"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Housing, transportation and urban ecology"
+    ],
+    "ar": [
+      "سكن ونقل وإيكولوجيا الحضرية"
+    ],
+    "es": [
+      "Vivienda, transporte y ecología urbana"
+    ],
+    "fr": [
+      "Logement, transports et écologie urbaine"
+    ],
+    "it": [
+      "Alloggio, trasporto ed ecologia urbana"
+    ]
+  }
+}

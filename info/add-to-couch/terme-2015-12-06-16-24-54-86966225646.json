@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225646",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Relations-internationales/Aide-internationale/",
+  "description": "Description de Aide internationale",
+  "enfants": [
+    "terme-2015-12-06-16-24-54-86966225649"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472303,
+  "identifiant-drupal-parent": 269148,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Aide internationale",
+  "nom-folder": "Aide-internationale",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225646"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International aid"
+    ],
+    "ar": [
+      "المساعدات الدولية"
+    ],
+    "es": [
+      "Ayuda internacional"
+    ],
+    "fr": [
+      "Aide internationale"
+    ],
+    "it": [
+      "aiuto internazionale"
+    ]
+  }
+}

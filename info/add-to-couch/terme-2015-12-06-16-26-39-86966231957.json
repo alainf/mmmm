@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231957",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Religion-et-societe/Franc-maconnerie/",
+  "description": "Description de Franc-maçonnerie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466770,
+  "identifiant-drupal-parent": 466768,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Franc-maçonnerie",
+  "nom-folder": "Franc-maconnerie",
+  "nom-machine": "terme-2015-12-06-16-26-39-86966231957",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Freemasonry"
+    ],
+    "ar": [
+      "ماسونية"
+    ],
+    "es": [
+      "Francomasonería"
+    ],
+    "fr": [
+      "Franc-maçonnerie"
+    ],
+    "it": [
+      "Massoneria"
+    ]
+  }
+}

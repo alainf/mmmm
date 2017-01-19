@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227828",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/Amelioration-continue-ou-Kaizen/",
+  "description": "Description de Amélioration continue ou Kaizen",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1914,
+  "identifiant-drupal-parent": 1910,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Amélioration continue ou Kaizen",
+  "nom-folder": "Amelioration-continue-ou-Kaizen",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227828",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Kaizen or Continuous Improvement"
+    ],
+    "ar": [
+      "حُسن الاستمرار أو كايز"
+    ],
+    "es": [
+      "Mejora continua o Kaizen"
+    ],
+    "fr": [
+      "Amélioration continue ou Kaizen"
+    ],
+    "it": [
+      "Kaizen o miglioramento continuo"
+    ]
+  }
+}

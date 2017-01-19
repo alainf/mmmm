@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221322",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Voyage/",
+  "description": "Description de Voyage",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270644,
+  "identifiant-drupal-parent": 270470,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Voyage",
+  "nom-folder": "Voyage",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221322"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Travel"
+    ],
+    "ar": [
+      "سفر"
+    ],
+    "es": [
+      "Viaje"
+    ],
+    "fr": [
+      "Voyage"
+    ],
+    "it": [
+      "Viaggio"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223833",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Ingenierie-et-mecanique-agricoles/",
+  "description": "Description de Ingénierie et mécanique agricoles",
+  "enfants": [
+    "terme-2015-12-06-16-24-23-86966223835",
+    "terme-2015-12-06-16-24-23-86966223838",
+    "terme-2015-12-06-16-24-24-86966223844",
+    "terme-2015-12-06-16-24-24-86966223846"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 898,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Ingénierie et mécanique agricoles",
+  "nom-folder": "Ingenierie-et-mecanique-agricoles",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223833"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Farm machinery and farm engineering"
+    ],
+    "ar": [
+      "هندسة و الآلات الزراعية"
+    ],
+    "es": [
+      "Maquinaria e ingeniería agrícolas"
+    ],
+    "fr": [
+      "Ingénierie et mécanique agricoles"
+    ],
+    "it": [
+      "Ingegneria agricola e macchine agricole"
+    ]
+  }
+}

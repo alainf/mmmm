@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-26-51-86966232680",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Conflits,-droits-humains-et-impunite/",
+  "description": "Description de Conflits, droits humains et impunité",
+  "enfants": [
+    "terme-2015-12-06-16-26-51-86966232683",
+    "terme-2015-12-06-16-26-51-86966232686",
+    "terme-2015-12-06-16-26-51-86966232688",
+    "terme-2015-12-06-16-26-51-86966232691",
+    "terme-2015-12-06-16-26-51-86966232694",
+    "terme-2015-12-06-16-26-51-86966232697",
+    "terme-2015-12-06-16-26-51-86966232700"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455644,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-51",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Conflits, droits humains et impunité",
+  "nom-folder": "Conflits,-droits-humains-et-impunite",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-51-86966232680"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conflicts, human rights and impunity"
+    ],
+    "ar": [
+      "الصراعات وحقوق الإنسان والإفلات من العقاب"
+    ],
+    "es": [
+      "Conflictos, derechos humanos e impunidad"
+    ],
+    "fr": [
+      "Conflits, droits humains et impunité"
+    ],
+    "it": [
+      "Conflitti, diritti umani e impunità"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223957",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Elevage-des-crustaces/Astaciculture/Mycose-des-oeufs/",
+  "description": "Description de Mycose des oeufs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269062,
+  "identifiant-drupal-parent": 269060,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Mycose des oeufs",
+  "nom-folder": "Mycose-des-oeufs",
+  "nom-machine": "terme-2015-12-06-16-24-25-86966223957",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Egg fungus"
+    ],
+    "ar": [
+      "عدوى فطرية البيض"
+    ],
+    "es": [
+      "Micosis de los huevos"
+    ],
+    "fr": [
+      "Mycose des oeufs"
+    ],
+    "it": [
+      "Micosi delle uova"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-09-86966233748",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Gestion-urbaine-(urbanisme)/",
+  "description": "Description de Gestion urbaine (urbanisme)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467121,
+  "identifiant-drupal-parent": 467095,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Gestion urbaine (urbanisme)",
+  "nom-folder": "Gestion-urbaine-(urbanisme)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-09-86966233748"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban Management"
+    ],
+    "ar": [
+      "إدارة الحضرية (الحضرية)"
+    ],
+    "es": [
+      "Gestión Urbana"
+    ],
+    "fr": [
+      "Gestion urbaine (urbanisme)"
+    ],
+    "it": [
+      "gestione urbana (urbanistica)"
+    ]
+  }
+}

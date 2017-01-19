@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232106",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-urbaine/",
+  "description": "Description de Anthropologie urbaine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270365,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie urbaine",
+  "nom-folder": "Anthropologie-urbaine",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-41-86966232106"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban anthropology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا الحضرية"
+    ],
+    "es": [
+      "Antropología urbana"
+    ],
+    "fr": [
+      "Anthropologie urbaine"
+    ],
+    "it": [
+      "antropologia urbana"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-59-86966233146",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Resistance-sociale-(sciences-politiques)/Memoire-des-luttes/",
+  "description": "Description de Mémoire des luttes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455667,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-59",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Mémoire des luttes",
+  "nom-folder": "Memoire-des-luttes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-59-86966233146"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Memory of struggles"
+    ],
+    "ar": [
+      "ذكرى النضالات"
+    ],
+    "es": [
+      "Memoria de las luchas"
+    ],
+    "fr": [
+      "Mémoire des luttes"
+    ],
+    "it": [
+      "Memoria delle lotte"
+    ]
+  }
+}

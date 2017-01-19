@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224549",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Typologies-des-sculptures/",
+  "description": "Description de Typologies des sculptures",
+  "enfants": [
+    "terme-2015-12-06-16-24-35-86966224551",
+    "terme-2015-12-06-16-24-35-86966224554",
+    "terme-2015-12-06-16-24-35-86966224557",
+    "terme-2015-12-06-16-24-36-86966224560",
+    "terme-2015-12-06-16-24-36-86966224563"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467053,
+  "identifiant-drupal-parent": 467037,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Typologies des sculptures",
+  "nom-folder": "Typologies-des-sculptures",
+  "nom-machine": "terme-2015-12-06-16-24-35-86966224549",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Typologies of sculpture"
+    ],
+    "ar": [
+      "أنواع من التماثيل"
+    ],
+    "es": [
+      "Tipologías de las esculturas"
+    ],
+    "fr": [
+      "Typologies des sculptures"
+    ],
+    "it": [
+      "Tipi di scultura"
+    ]
+  }
+}

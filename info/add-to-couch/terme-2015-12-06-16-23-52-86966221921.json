@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-52-86966221921",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Arts-and-literature/Architecture/",
+  "description": "Description de Architecture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368789,
+  "identifiant-drupal-parent": 368788,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-52",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Architecture",
+  "nom-folder": "Architecture",
+  "nom-machine": "terme-2015-12-06-16-23-52-86966221921",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Architecture"
+    ]
+  }
+}

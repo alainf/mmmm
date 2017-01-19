@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226300",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Changement-en-education/",
+  "description": "Description de Changement en éducation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270842,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Changement en éducation",
+  "nom-folder": "Changement-en-education",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226300"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Change in education"
+    ],
+    "ar": [
+      "تغيير في التعليم"
+    ],
+    "es": [
+      "Cambio en la educación"
+    ],
+    "fr": [
+      "Changement en éducation"
+    ],
+    "it": [
+      "Cambiamento nell'educazione"
+    ]
+  }
+}

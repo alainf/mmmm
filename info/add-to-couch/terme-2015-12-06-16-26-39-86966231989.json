@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231989",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Theories-en-sciences-humaines/",
+  "description": "Description de Théories en sciences humaines",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 945,
+  "identifiant-drupal-parent": 890,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Théories en sciences humaines",
+  "nom-folder": "Theories-en-sciences-humaines",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-39-86966231989"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories in Humanities"
+    ],
+    "ar": [
+      "نظريات في العلوم الإنسانية"
+    ],
+    "es": [
+      "Teorías en humanidades"
+    ],
+    "fr": [
+      "Théories en sciences humaines"
+    ],
+    "it": [
+      "Teorie in scienze umane"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966220981",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Debats/Les-intellectuels/",
+  "description": "Description de Les intellectuels",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1721,
+  "identifiant-drupal-parent": 1671,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Les intellectuels",
+  "nom-folder": "Les-intellectuels",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966220981"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intellectuals"
+    ],
+    "ar": [
+      "ان المثقفين"
+    ],
+    "es": [
+      "Los intelectuales"
+    ],
+    "fr": [
+      "Les intellectuels"
+    ],
+    "it": [
+      "Gli intellettuali"
+    ]
+  }
+}

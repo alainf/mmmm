@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229314",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie-d'entreprise/Strategies-concurrentielles/Etalonnage-competitif---Benchmarking/",
+  "description": "Description de Étalonnage compétitif - Benchmarking",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471358,
+  "identifiant-drupal-parent": 451221,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Étalonnage compétitif - Benchmarking",
+  "nom-folder": "Etalonnage-competitif---Benchmarking",
+  "nom-machine": "terme-2015-12-06-16-25-55-86966229314",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Benchmarking"
+    ],
+    "ar": [
+      "المعايرة التنافسية"
+    ],
+    "es": [
+      "Evaluación comparativa"
+    ],
+    "fr": [
+      "Étalonnage compétitif - Benchmarking"
+    ],
+    "it": [
+      "Analisi comparativa"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-42-86966232139",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Courants-anthropologiques/Anthropologie-dynamique/",
+  "description": "Description de Anthropologie dynamique",
+  "enfants": [
+    "terme-2015-12-06-16-26-42-86966232142"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1034,
+  "identifiant-drupal-parent": 1025,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-42",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie dynamique",
+  "nom-folder": "Anthropologie-dynamique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-42-86966232139"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Dynamic anthropology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا الدينامية"
+    ],
+    "es": [
+      "Antropología dinámica"
+    ],
+    "fr": [
+      "Anthropologie dynamique"
+    ],
+    "it": [
+      "antropologia dinamica"
+    ]
+  }
+}

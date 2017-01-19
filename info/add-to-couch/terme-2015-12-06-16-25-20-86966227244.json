@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-20-86966227244",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce-international-(gestion)/",
+  "description": "Description de Commerce international (gestion)",
+  "enfants": [
+    "terme-2015-12-06-16-25-20-86966227247"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1833,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-20",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Commerce international (gestion)",
+  "nom-folder": "Commerce-international-(gestion)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-20-86966227244"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International Trade (management)"
+    ],
+    "ar": [
+      "تجارة دولية (تسير الادارة)"
+    ],
+    "es": [
+      "Comercio internacional (gestión)"
+    ],
+    "fr": [
+      "Commerce international (gestion)"
+    ],
+    "it": [
+      "commercio esterno (gestione)"
+    ]
+  }
+}

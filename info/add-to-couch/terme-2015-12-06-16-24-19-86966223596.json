@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-19-86966223596",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Health-Sciences/Geriatrics/",
+  "description": "Description de Gériatrie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368153,
+  "identifiant-drupal-parent": 368144,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-19",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Gériatrie",
+  "nom-folder": "Geriatrics",
+  "nom-machine": "terme-2015-12-06-16-24-19-86966223596",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Geriatrics"
+    ],
+    "fr": [
+      "Gériatrie"
+    ]
+  }
+}

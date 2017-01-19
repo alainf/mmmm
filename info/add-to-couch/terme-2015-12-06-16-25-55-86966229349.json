@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229349",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Critique-radicale-feministe/",
+  "description": "Description de Critique radicale féministe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2255,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Critique radicale féministe",
+  "nom-folder": "Critique-radicale-feministe",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-55-86966229349"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Radical feminist critique"
+    ],
+    "ar": [
+      "نقد نسوي متطرف"
+    ],
+    "es": [
+      "Crítica feminista radical"
+    ],
+    "fr": [
+      "Critique radicale féministe"
+    ],
+    "it": [
+      "Critica femminista radicale"
+    ]
+  }
+}

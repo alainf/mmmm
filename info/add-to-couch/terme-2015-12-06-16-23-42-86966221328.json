@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221328",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Actualites-des-universites/",
+  "description": "Description de Actualités des universités",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1669,
+  "identifiant-drupal-parent": 270469,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Actualités des universités",
+  "nom-folder": "Actualites-des-universites",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221328"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "University news"
+    ],
+    "ar": [
+      "الاخبار الجامعات"
+    ],
+    "es": [
+      "Actualidades de las universidades"
+    ],
+    "fr": [
+      "Actualités des universités"
+    ],
+    "it": [
+      "Attualità delle università"
+    ]
+  }
+}

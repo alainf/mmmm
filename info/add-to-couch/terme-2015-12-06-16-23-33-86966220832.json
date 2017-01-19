@@ -1,0 +1,53 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220832",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/",
+  "description": "Description de L'environnement interne de l'entreprise",
+  "enfants": [
+    "terme-2015-12-06-16-23-33-86966220834",
+    "terme-2015-12-06-16-23-34-86966220840",
+    "terme-2015-12-06-16-23-34-86966220843",
+    "terme-2015-12-06-16-23-34-86966220846",
+    "terme-2015-12-06-16-23-34-86966220849",
+    "terme-2015-12-06-16-23-34-86966220851",
+    "terme-2015-12-06-16-23-34-86966220855",
+    "terme-2015-12-06-16-23-34-86966220858",
+    "terme-2015-12-06-16-23-34-86966220893",
+    "terme-2015-12-06-16-23-34-86966220895",
+    "terme-2015-12-06-16-23-34-86966220899"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270482,
+  "identifiant-drupal-parent": 270471,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "L'environnement interne de l'entreprise",
+  "nom-folder": "L'environnement-interne-de-l'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-33-86966220832"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environnement interne de l'entreprise"
+    ],
+    "ar": [
+      "البيئة الداخلية للشركة"
+    ],
+    "es": [
+      "Entorno interno de la empresa"
+    ],
+    "fr": [
+      "L'environnement interne de l'entreprise"
+    ],
+    "it": [
+      "L'ambiente interno della società"
+    ],
+    "ru": [
+      "Внутренняя среда компании"
+    ]
+  }
+}

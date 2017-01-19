@@ -1,0 +1,57 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231993",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/",
+  "description": "Description de Sciences sociales",
+  "enfants": [
+    "terme-2015-12-06-16-26-39-86966231997",
+    "terme-2015-12-06-16-26-43-86966232228",
+    "terme-2015-12-06-16-26-43-86966232230",
+    "terme-2015-12-06-16-26-44-86966232243",
+    "terme-2015-12-06-16-26-44-86966232246",
+    "terme-2015-12-06-16-26-44-86966232276",
+    "terme-2015-12-06-16-26-44-86966232281",
+    "terme-2015-12-06-16-26-44-86966232299",
+    "terme-2015-12-06-16-26-45-86966232302",
+    "terme-2015-12-06-16-26-45-86966232304",
+    "terme-2015-12-06-16-26-45-86966232307",
+    "terme-2015-12-06-16-26-47-86966232458",
+    "terme-2015-12-06-16-26-47-86966232473",
+    "terme-2015-12-06-16-26-50-86966232601",
+    "terme-2015-12-06-16-26-50-86966232603",
+    "terme-2015-12-06-16-26-59-86966233151",
+    "terme-2015-12-06-16-26-59-86966233192",
+    "terme-2015-12-06-16-27-06-86966233610"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 891,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Sciences sociales",
+  "nom-folder": "Sciences-sociales",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-39-86966231993"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social Sciences"
+    ],
+    "ar": [
+      "العلوم الإجتماعية"
+    ],
+    "es": [
+      "Ciencias sociales"
+    ],
+    "fr": [
+      "Sciences sociales"
+    ],
+    "it": [
+      "scienze sociali"
+    ]
+  }
+}

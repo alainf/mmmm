@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224518",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Techniques-de-la-sculpture/",
+  "description": "Description de Techniques de la sculpture",
+  "enfants": [
+    "terme-2015-12-06-16-24-35-86966224521",
+    "terme-2015-12-06-16-24-35-86966224524",
+    "terme-2015-12-06-16-24-35-86966224543",
+    "terme-2015-12-06-16-24-35-86966224546"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467042,
+  "identifiant-drupal-parent": 467037,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Techniques de la sculpture",
+  "nom-folder": "Techniques-de-la-sculpture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-35-86966224518"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Techniques of sculpture"
+    ],
+    "ar": [
+      "تقنيات في النحت"
+    ],
+    "es": [
+      "Técnicas de la escultura"
+    ],
+    "fr": [
+      "Techniques de la sculpture"
+    ],
+    "it": [
+      "Tecniche della scultura"
+    ]
+  }
+}

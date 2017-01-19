@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228481",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-interculturel/Intelligence-culturelle/",
+  "description": "Description de Intelligence culturelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471900,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Intelligence culturelle",
+  "nom-folder": "Intelligence-culturelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-41-86966228481"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural intelligence"
+    ],
+    "ar": [
+      "ذكاء ثقافي"
+    ],
+    "es": [
+      "Inteligencia cultural"
+    ],
+    "fr": [
+      "Intelligence culturelle"
+    ],
+    "it": [
+      "Intelligenza culturale"
+    ]
+  }
+}

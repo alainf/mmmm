@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226757",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-politique/",
+  "description": "Description de Communication politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451800,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Communication politique",
+  "nom-folder": "Communication-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226757"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political communication"
+    ],
+    "ar": [
+      "الإتصال سياسي"
+    ],
+    "es": [
+      "Comunicación política"
+    ],
+    "fr": [
+      "Communication politique"
+    ],
+    "it": [
+      "comunicazione politica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-37-86966224632",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Genres-theatraux/Theatre-experimental/",
+  "description": "Description de Théâtre expérimental",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467077,
+  "identifiant-drupal-parent": 467063,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-37",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Théâtre expérimental",
+  "nom-folder": "Theatre-experimental",
+  "nom-machine": "terme-2015-12-06-16-24-37-86966224632",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Experimental theatre"
+    ],
+    "ar": [
+      "مسرح تجريبي"
+    ],
+    "es": [
+      "Teatro experimental"
+    ],
+    "fr": [
+      "Théâtre expérimental"
+    ],
+    "it": [
+      "Teatro sperimentale"
+    ]
+  }
+}

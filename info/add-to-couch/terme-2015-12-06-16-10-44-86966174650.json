@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174650",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Maya-yucateque/",
+  "description": "Description de Maya yucatèque",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317627,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Maya yucatèque",
+  "nom-folder": "Maya-yucateque",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174650",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Maya"
+    ],
+    "ar": [
+      "المايا اليوكاتية"
+    ],
+    "es": [
+      "Maya"
+    ],
+    "fr": [
+      "Maya yucatèque"
+    ],
+    "it": [
+      "Maya"
+    ],
+    "ru": [
+      "Юкатекский"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230961",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/",
+  "description": "Description de Sciences humaines",
+  "enfants": [
+    "terme-2015-12-06-16-26-22-86966230966",
+    "terme-2015-12-06-16-26-22-86966230968",
+    "terme-2015-12-06-16-26-25-86966231157",
+    "terme-2015-12-06-16-26-26-86966231160",
+    "terme-2015-12-06-16-26-27-86966231270",
+    "terme-2015-12-06-16-26-31-86966231492",
+    "terme-2015-12-06-16-26-31-86966231495",
+    "terme-2015-12-06-16-26-39-86966231989"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 890,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Sciences humaines",
+  "nom-folder": "Sciences-humaines",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230961"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Humanities"
+    ],
+    "ar": [
+      "العلوم الإنسانية"
+    ],
+    "es": [
+      "Humanidades"
+    ],
+    "fr": [
+      "Sciences humaines"
+    ],
+    "it": [
+      "studi umanistici"
+    ]
+  }
+}

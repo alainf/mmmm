@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230176",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Photogrammetrie-de-teledetection/",
+  "description": "Description de Photogrammétrie de télédétection",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270833,
+  "identifiant-drupal-parent": 886,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Photogrammétrie de télédétection",
+  "nom-folder": "Photogrammetrie-de-teledetection",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230176"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Remote Sensing Photogrammetry"
+    ],
+    "ar": [
+      "التصويري الاستشعار عن بعد"
+    ],
+    "es": [
+      "Fotogrametría de Teledetección"
+    ],
+    "fr": [
+      "Photogrammétrie de télédétection"
+    ],
+    "it": [
+      "Fotogrammetria da telerilevamento"
+    ]
+  }
+}

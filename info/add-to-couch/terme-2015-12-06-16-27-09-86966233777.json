@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-09-86966233777",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Sociologie-urbaine/",
+  "description": "Description de Sociologie urbaine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467129,
+  "identifiant-drupal-parent": 467095,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-09",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Sociologie urbaine",
+  "nom-folder": "Sociologie-urbaine",
+  "nom-machine": "terme-2015-12-06-16-27-09-86966233777",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban sociology"
+    ],
+    "ar": [
+      "علم الاجتماع المدينة"
+    ],
+    "es": [
+      "Sociología urbana"
+    ],
+    "fr": [
+      "Sociologie urbaine"
+    ],
+    "it": [
+      "Sociologia urbana"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-53-11-87274775480",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Javanais/",
+  "description": "Description de Javanais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "jv",
+  "ISO-639-2": "jav",
+  "ISO-639-3": "jav",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-53-11",
+  "moment-de-modification": "2016-02-04-04-53-50",
+  "nom": "Javanais",
+  "nom-folder": "Javanais",
+  "nom-machine": "terme-2016-02-04-04-53-11-87274775480",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Javanais",
+  "nomLangues": {
+    "en": [
+      "Javanese"
+    ],
+    "ar": [
+      "جاوية"
+    ],
+    "es": [
+      "Javanés"
+    ],
+    "fr": [
+      "Javanais"
+    ],
+    "it": [
+      "Giavanese"
+    ],
+    "ru": [
+      "Яванский"
+    ]
+  }
+}

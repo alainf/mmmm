@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-45-86966225136",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Representation-en-peinture/",
+  "description": "Description de Représentation en peinture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467017,
+  "identifiant-drupal-parent": 467003,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-45",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Représentation en peinture",
+  "nom-folder": "Representation-en-peinture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-45-86966225136"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Representation in painting"
+    ],
+    "ar": [
+      "التمثيل فى الطلاء"
+    ],
+    "es": [
+      "Representación en pintura"
+    ],
+    "fr": [
+      "Représentation en peinture"
+    ],
+    "it": [
+      "Rappresentazione nella pittura"
+    ]
+  }
+}

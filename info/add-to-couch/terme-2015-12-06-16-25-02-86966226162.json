@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226162",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Langues/Didactique/",
+  "description": "Description de Didactique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451227,
+  "identifiant-drupal-parent": 270402,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Didactique",
+  "nom-folder": "Didactique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-02-86966226162"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Didactic method"
+    ],
+    "ar": [
+      "ديداكتيك"
+    ],
+    "es": [
+      "Didáctica"
+    ],
+    "fr": [
+      "Didactique"
+    ],
+    "it": [
+      "Didattica"
+    ]
+  }
+}

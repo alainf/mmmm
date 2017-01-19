@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227479",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Communication-et-motivation/",
+  "description": "Description de Communication et motivation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2144,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Communication et motivation",
+  "nom-folder": "Communication-et-motivation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227479"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication and motivation"
+    ],
+    "ar": [
+      "الإتصال و التحفيز"
+    ],
+    "es": [
+      "Comunicación y motivación"
+    ],
+    "fr": [
+      "Communication et motivation"
+    ],
+    "it": [
+      "comunicazione e motivazione"
+    ]
+  }
+}

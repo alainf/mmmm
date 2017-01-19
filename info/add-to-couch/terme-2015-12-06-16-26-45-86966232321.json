@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232321",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Collecte-de-donnees/",
+  "description": "Description de Collecte de données",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472105,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Collecte de données",
+  "nom-folder": "Collecte-de-donnees",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232321"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Data collection"
+    ],
+    "ar": [
+      "جمع البيانات"
+    ],
+    "es": [
+      "Colección de datos"
+    ],
+    "fr": [
+      "Collecte de données"
+    ],
+    "it": [
+      "Raccolta di dati"
+    ]
+  }
+}

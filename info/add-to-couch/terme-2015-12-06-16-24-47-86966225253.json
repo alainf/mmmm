@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225253",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-chinoises/",
+  "description": "Description de Études chinoises",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466797,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études chinoises",
+  "nom-folder": "Etudes-chinoises",
+  "nom-machine": "terme-2015-12-06-16-24-47-86966225253",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chinese studies"
+    ],
+    "ar": [
+      "الدراسات الصينية"
+    ],
+    "es": [
+      "Estudios chinos"
+    ],
+    "fr": [
+      "Études chinoises"
+    ],
+    "it": [
+      "Studi cinesi"
+    ]
+  }
+}

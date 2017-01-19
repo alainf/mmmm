@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229758",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Publicite-en-ligne/",
+  "description": "Description de Publicité en ligne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2099,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Publicité en ligne",
+  "nom-folder": "Publicite-en-ligne",
+  "nom-machine": "terme-2015-12-06-16-26-02-86966229758",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Online Advertising"
+    ],
+    "ar": [
+      "الاعلان على شبكة الانترنت"
+    ],
+    "es": [
+      "Publicidad en línea"
+    ],
+    "fr": [
+      "Publicité en ligne"
+    ],
+    "it": [
+      "Pubblicità in linea"
+    ]
+  }
+}

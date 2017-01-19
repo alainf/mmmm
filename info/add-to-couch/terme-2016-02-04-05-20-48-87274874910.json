@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-05-20-48-87274874910",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Luba-katanga/",
+  "description": "Description de Luba-katanga",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "lu",
+  "ISO-639-2": "lub",
+  "ISO-639-3": "lub",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-20-48",
+  "moment-de-modification": "2016-02-04-05-21-29",
+  "nom": "Luba-katanga",
+  "nom-folder": "Luba-katanga",
+  "nom-machine": "terme-2016-02-04-05-20-48-87274874910",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Luba-katanga",
+  "nomLangues": {
+    "en": [
+      "Luba-katanga"
+    ],
+    "es": [
+      "Kiluba"
+    ],
+    "fr": [
+      "Luba-katanga"
+    ],
+    "it": [
+      "Kiluba"
+    ],
+    "ru": [
+      "Луба-катанга"
+    ]
+  }
+}

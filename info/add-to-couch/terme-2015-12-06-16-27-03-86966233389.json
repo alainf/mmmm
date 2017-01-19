@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-03-86966233389",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Population/",
+  "description": "Description de Population",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272174,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-03",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Population",
+  "nom-folder": "Population",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-03-86966233389"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Population"
+    ],
+    "ar": [
+      "السكان"
+    ],
+    "es": [
+      "Población"
+    ],
+    "fr": [
+      "Population"
+    ],
+    "it": [
+      "popolazione"
+    ]
+  }
+}

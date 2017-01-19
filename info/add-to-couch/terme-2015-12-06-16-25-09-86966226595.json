@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226595",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Qualite-de-l'air/",
+  "description": "Description de Qualité de l'air",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272383,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Qualité de l'air",
+  "nom-folder": "Qualite-de-l'air",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226595"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Air Quality"
+    ],
+    "ar": [
+      "نوعية الهواء"
+    ],
+    "es": [
+      "Calidad del aire"
+    ],
+    "fr": [
+      "Qualité de l'air"
+    ],
+    "it": [
+      "Qualità dell'aria"
+    ]
+  }
+}

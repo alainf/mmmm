@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-03-25-18-87274459104",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Bachkir/",
+  "description": "Description de Bachkir",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ba",
+  "ISO-639-2": "bak",
+  "ISO-639-3": "bak",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-25-18",
+  "moment-de-modification": "2016-02-04-03-26-06",
+  "nom": "Bachkir",
+  "nom-folder": "Bachkir",
+  "nom-machine": "terme-2016-02-04-03-25-18-87274459104",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Bachkir",
+  "nomLangues": {
+    "en": [
+      "Bashkir"
+    ],
+    "ar": [
+      "باشقير"
+    ],
+    "es": [
+      "Baskir"
+    ],
+    "fr": [
+      "Bachkir"
+    ],
+    "it": [
+      "Baschiro"
+    ],
+    "ru": [
+      "Башкирский"
+    ]
+  }
+}

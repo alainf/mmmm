@@ -1,0 +1,51 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224583",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/",
+  "description": "Description de Théâtre (art)",
+  "enfants": [
+    "terme-2015-12-06-16-24-36-86966224587",
+    "terme-2015-12-06-16-24-36-86966224589",
+    "terme-2015-12-06-16-24-36-86966224592",
+    "terme-2015-12-06-16-24-37-86966224656",
+    "terme-2015-12-06-16-24-37-86966224658",
+    "terme-2015-12-06-16-24-37-86966224661",
+    "terme-2015-12-06-16-24-37-86966224664",
+    "terme-2015-12-06-16-24-37-86966224667",
+    "terme-2015-12-06-16-24-37-86966224670",
+    "terme-2015-12-06-16-24-37-86966224672",
+    "terme-2015-12-06-16-24-37-86966224675",
+    "terme-2015-12-06-16-24-37-86966224678"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467060,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Théâtre (art)",
+  "nom-folder": "Theatre-(art)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-36-86966224583"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theatre (art)"
+    ],
+    "ar": [
+      "مسرح"
+    ],
+    "es": [
+      "Teatro (arte)"
+    ],
+    "fr": [
+      "Théâtre (art)"
+    ],
+    "it": [
+      "Teatro (arte)"
+    ]
+  }
+}

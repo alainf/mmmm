@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-10-86966223021",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Medicine/Infectious-Diseases/",
+  "description": "Description de Infectious diseases",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369166,
+  "identifiant-drupal-parent": 369132,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-10",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Infectious diseases",
+  "nom-folder": "Infectious-Diseases",
+  "nom-machine": "terme-2015-12-06-16-24-10-86966223021",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Infectious diseases"
+    ]
+  }
+}

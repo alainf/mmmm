@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174869",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/licences/Creative-Commons/CC-by/",
+  "description": "Description de Cc by",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Cc by",
+  "nom-folder": "CC-by",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174869",
+  "sous-type": "licences",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cc by"
+    ],
+    "ar": [
+      "CC by"
+    ],
+    "es": [
+      "Cc by"
+    ],
+    "fr": [
+      "Cc by"
+    ],
+    "it": [
+      "Cc by"
+    ],
+    "ru": [
+      "CC by"
+    ]
+  }
+}

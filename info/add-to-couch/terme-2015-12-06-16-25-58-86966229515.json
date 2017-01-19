@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229515",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Culture-organisationnelle/Reconnaissance-et-construction-de-l'identite/",
+  "description": "Reconnaissance et construction de l'identité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472184,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Reconnaissance et construction de l’identité",
+  "nom-folder": "Reconnaissance-et-construction-de-l'identite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229515"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Identity recognition and construction"
+    ],
+    "ar": [
+      "الاعتراف بالهوية والبناء"
+    ],
+    "es": [
+      "Reconocimiento y construcción de la identidad"
+    ],
+    "fr": [
+      "Reconnaissance et construction de l’identité"
+    ],
+    "it": [
+      "Riconoscimento e costruzione dell'identità"
+    ]
+  }
+}

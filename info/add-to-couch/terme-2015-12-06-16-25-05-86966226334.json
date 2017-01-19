@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226334",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Education-sexuelle/",
+  "description": "Description de Éducation sexuelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451290,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Éducation sexuelle",
+  "nom-folder": "Education-sexuelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226334"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sex education"
+    ],
+    "ar": [
+      "التربية الجنسية"
+    ],
+    "es": [
+      "Educación Sexual"
+    ],
+    "fr": [
+      "Éducation sexuelle"
+    ],
+    "it": [
+      "Educazione sessuale"
+    ]
+  }
+}

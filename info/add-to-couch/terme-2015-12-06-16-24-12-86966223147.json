@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-12-86966223147",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Philosophy/Phenomenology/",
+  "description": "Description de Phenomenology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369210,
+  "identifiant-drupal-parent": 369203,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Phenomenology",
+  "nom-folder": "Phenomenology",
+  "nom-machine": "terme-2015-12-06-16-24-12-86966223147",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Phenomenology"
+    ]
+  }
+}

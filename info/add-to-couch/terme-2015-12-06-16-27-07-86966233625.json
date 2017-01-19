@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233625",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sport/Histoire-des-sports/",
+  "description": "Description de Histoire des sports",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270911,
+  "identifiant-drupal-parent": 892,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Histoire des sports",
+  "nom-folder": "Histoire-des-sports",
+  "nom-machine": "terme-2015-12-06-16-27-07-86966233625",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of sports"
+    ],
+    "ar": [
+      "تاريخ الرياضات"
+    ],
+    "es": [
+      "Historia del deporte"
+    ],
+    "fr": [
+      "Histoire des sports"
+    ],
+    "it": [
+      "Storia dello sport"
+    ]
+  }
+}

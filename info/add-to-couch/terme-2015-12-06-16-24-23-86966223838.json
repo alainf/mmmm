@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223838",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Ingenierie-et-mecanique-agricoles/Agrosystemes/",
+  "description": "Description de Agrosystèmes",
+  "enfants": [
+    "terme-2015-12-06-16-24-24-86966223841"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472361,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Agrosystèmes",
+  "nom-folder": "Agrosystemes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223838"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agrosystems"
+    ],
+    "ar": [
+      "النظم الزراعية"
+    ],
+    "es": [
+      "Agrosistemas"
+    ],
+    "fr": [
+      "Agrosystèmes"
+    ],
+    "it": [
+      "Agrosistemi"
+    ]
+  }
+}

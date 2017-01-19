@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-12-17-35-13-86997582822",
+  "breadcrumb": "taxonomies/formats/texte/",
+  "description": "Description de Texte",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-12-17-35-13",
+  "nom": "Texte",
+  "nom-folder": "texte",
+  "nom-machine": "terme-2015-12-12-17-35-13-86997582822",
+  "sous-type": "formats",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Text"
+    ],
+    "ar": [
+      "نص"
+    ],
+    "es": [
+      "Texto"
+    ],
+    "fr": [
+      "Texte"
+    ],
+    "it": [
+      "Testo"
+    ],
+    "ru": [
+      "текст"
+    ]
+  }
+}

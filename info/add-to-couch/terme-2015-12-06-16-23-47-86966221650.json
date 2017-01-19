@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-23-47-86966221650",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sites/Psycho-Education/",
+  "description": "Psycho Éducation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-47",
+  "moment-de-modification": "2015-10-11-14-23-53",
+  "nom": "Psycho éducation",
+  "nom-folder": "Psycho-Education",
+  "nom-machine": "terme-2015-12-06-16-23-47-86966221650",
+  "sous-type": "sites",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Psychoeducation"
+    ],
+    "ar": [
+      "تربية نفسية"
+    ],
+    "es": [
+      "Psicoeducación"
+    ],
+    "fr": [
+      "Psycho éducation"
+    ],
+    "it": [
+      "Psicoeducazione"
+    ],
+    "ru": [
+      "психообразование"
+    ]
+  }
+}

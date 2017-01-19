@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226626",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Sciences-aquatiques/",
+  "description": "Description de Sciences aquatiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272334,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Sciences aquatiques",
+  "nom-folder": "Sciences-aquatiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-10-86966226626"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aquatic Science"
+    ],
+    "ar": [
+      "العلوم المائية"
+    ],
+    "es": [
+      "Ciencias acuáticas"
+    ],
+    "fr": [
+      "Sciences aquatiques"
+    ],
+    "it": [
+      "Scienze acquatiche"
+    ]
+  }
+}

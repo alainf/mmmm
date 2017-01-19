@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220913",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Industrie-financiere/",
+  "description": "Description de Industrie financière",
+  "enfants": [
+    "terme-2015-12-06-16-23-35-86966220917",
+    "terme-2015-12-06-16-23-35-86966220920",
+    "terme-2015-12-06-16-23-35-86966220923"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270564,
+  "identifiant-drupal-parent": 270557,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Industrie financière",
+  "nom-folder": "Industrie-financiere",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220913"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial services"
+    ],
+    "ar": [
+      "خدمات مالية"
+    ],
+    "es": [
+      "Servicios financieros"
+    ],
+    "fr": [
+      "Industrie financière"
+    ],
+    "it": [
+      "Servizi finanziari"
+    ],
+    "ru": [
+      "Финансовые услуги"
+    ]
+  }
+}

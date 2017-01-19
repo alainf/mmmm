@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233116",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Resistance-sociale-(sciences-politiques)/",
+  "description": "Description de Résistance sociale (sciences politiques)",
+  "enfants": [
+    "terme-2015-12-06-16-26-58-86966233119",
+    "terme-2015-12-06-16-26-58-86966233122",
+    "terme-2015-12-06-16-26-58-86966233125",
+    "terme-2015-12-06-16-26-58-86966233128",
+    "terme-2015-12-06-16-26-58-86966233130",
+    "terme-2015-12-06-16-26-58-86966233133",
+    "terme-2015-12-06-16-26-58-86966233136",
+    "terme-2015-12-06-16-26-59-86966233140",
+    "terme-2015-12-06-16-26-59-86966233142",
+    "terme-2015-12-06-16-26-59-86966233146"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471366,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Résistance sociale (sciences politiques)",
+  "nom-folder": "Resistance-sociale-(sciences-politiques)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-58-86966233116"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social resistance (political science)"
+    ],
+    "ar": [
+      "المقاومة الاجتماعية-العلوم السياسية"
+    ],
+    "es": [
+      "Resistencia social (ciencias políticas)"
+    ],
+    "fr": [
+      "Résistance sociale (sciences politiques)"
+    ],
+    "it": [
+      "Resistenza sociale (scienze politiche)"
+    ]
+  }
+}

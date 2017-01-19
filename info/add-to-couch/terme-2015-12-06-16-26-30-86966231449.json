@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-30-86966231449",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-pratique/Pharmacie/Industrie-pharmaceutique/",
+  "description": "Description de Industrie pharmaceutique",
+  "enfants": [
+    "terme-2015-12-06-16-26-30-86966231453"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 450999,
+  "identifiant-drupal-parent": 1426,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-30",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Industrie pharmaceutique",
+  "nom-folder": "Industrie-pharmaceutique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-30-86966231449"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pharmaceutical industry"
+    ],
+    "ar": [
+      "صناعة الدواء"
+    ],
+    "es": [
+      "Industria farmacéutica"
+    ],
+    "fr": [
+      "Industrie pharmaceutique"
+    ],
+    "it": [
+      "industria farmaceutica"
+    ]
+  }
+}

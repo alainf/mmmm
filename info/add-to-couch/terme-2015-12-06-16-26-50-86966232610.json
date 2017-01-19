@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232610",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Acteurs-politiques/Carriere-politique/",
+  "description": "Description de Carrière politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472118,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Carrière politique",
+  "nom-folder": "Carriere-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232610"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political career"
+    ],
+    "ar": [
+      "مهنة السياسية"
+    ],
+    "es": [
+      "Carrera política"
+    ],
+    "fr": [
+      "Carrière politique"
+    ],
+    "it": [
+      "Carriera politica"
+    ]
+  }
+}

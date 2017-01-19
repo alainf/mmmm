@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230592",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Objets-de-recherche-en-sciences-economiques/",
+  "description": "Description de Objets de recherche en sciences économiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1488,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Objets de recherche en sciences économiques",
+  "nom-folder": "Objets-de-recherche-en-sciences-economiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230592"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Objects of research in economics"
+    ],
+    "ar": [
+      "كائنات من البحوث في الاقتصاد"
+    ],
+    "es": [
+      "Objetos de investigación en economía"
+    ],
+    "fr": [
+      "Objets de recherche en sciences économiques"
+    ],
+    "it": [
+      "Oggetti d'investigazione nell’economia"
+    ]
+  }
+}

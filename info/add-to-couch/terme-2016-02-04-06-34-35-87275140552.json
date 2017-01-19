@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-34-35-87275140552",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Telugu/",
+  "description": "Description de Télougou",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "te",
+  "ISO-639-2": "tel",
+  "ISO-639-3": "tel",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-34-35",
+  "moment-de-modification": "2016-02-04-06-36-03",
+  "nom": "Télougou",
+  "nom-folder": "Telugu",
+  "nom-machine": "terme-2016-02-04-06-34-35-87275140552",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/T%C3%A9lougou",
+  "nomLangues": {
+    "en": [
+      "Telugu"
+    ],
+    "ar": [
+      "تيلوغوية"
+    ],
+    "es": [
+      "Télugu"
+    ],
+    "fr": [
+      "Télougou"
+    ],
+    "it": [
+      "Telugu"
+    ],
+    "ru": [
+      "Телугу"
+    ]
+  }
+}

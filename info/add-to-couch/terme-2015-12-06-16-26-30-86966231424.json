@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-30-86966231424",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-pratique/Education-de-la-sante/",
+  "description": "Éducation de la santé",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1417,
+  "identifiant-drupal-parent": 1414,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-30",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Éducation à la santé",
+  "nom-folder": "Education-de-la-sante",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-30-86966231424"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health Education"
+    ],
+    "ar": [
+      "التعليم الصحي"
+    ],
+    "es": [
+      "Educación a la salud"
+    ],
+    "fr": [
+      "Éducation à la santé"
+    ],
+    "it": [
+      "Educazione sanitaria"
+    ]
+  }
+}

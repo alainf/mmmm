@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228329",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Immobilisation-financiere/",
+  "description": "Description de Immobilisation financière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2027,
+  "identifiant-drupal-parent": 2017,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Immobilisation financière",
+  "nom-folder": "Immobilisation-financiere",
+  "nom-machine": "terme-2015-12-06-16-25-38-86966228329",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial asset"
+    ],
+    "ar": [
+      "أصول مالية"
+    ],
+    "es": [
+      "Activo financiero"
+    ],
+    "fr": [
+      "Immobilisation financière"
+    ],
+    "it": [
+      "Immobilizzazione finanziaria"
+    ],
+    "ru": []
+  }
+}

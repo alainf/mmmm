@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-51-86966232674",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Comportement-electoral/",
+  "description": "Description de Comportement électoral",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472115,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-51",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Comportement électoral",
+  "nom-folder": "Comportement-electoral",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-51-86966232674"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Electoral behaviour"
+    ],
+    "ar": [
+      "السلوك الانتخابي"
+    ],
+    "es": [
+      "Comportamiento electoral"
+    ],
+    "fr": [
+      "Comportement électoral"
+    ],
+    "it": [
+      "Comportamento elettorale"
+    ]
+  }
+}

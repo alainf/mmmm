@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224572",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-visuels/Serigraphie/",
+  "description": "Description de Sérigraphie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466937,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Sérigraphie",
+  "nom-folder": "Serigraphie",
+  "nom-machine": "terme-2015-12-06-16-24-36-86966224572",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Silk screen printing"
+    ],
+    "ar": [
+      "طباعة الشاشة الحريرية"
+    ],
+    "es": [
+      "Serigrafía"
+    ],
+    "fr": [
+      "Sérigraphie"
+    ],
+    "it": [
+      "Serigrafia"
+    ]
+  }
+}

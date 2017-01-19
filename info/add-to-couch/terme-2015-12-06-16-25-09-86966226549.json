@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226549",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Energies-alternatives/Energie-solaire-(alternative)/",
+  "description": "Description de Énergie solaire (alternative)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272404,
+  "identifiant-drupal-parent": 270879,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Énergie solaire (alternative)",
+  "nom-folder": "Energie-solaire-(alternative)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226549"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Solar Energy (alternative)"
+    ],
+    "ar": [
+      "الطاقة الشمسية (البديل)"
+    ],
+    "es": [
+      "Energía solar (alternativa)"
+    ],
+    "fr": [
+      "Énergie solaire (alternative)"
+    ],
+    "it": [
+      "Energia solare (alternativa)"
+    ]
+  }
+}

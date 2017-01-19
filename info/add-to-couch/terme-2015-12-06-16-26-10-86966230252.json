@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-10-86966230252",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Actualites-economiques/",
+  "description": "Description de Actualités économiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1481,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-10",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Actualités économiques",
+  "nom-folder": "Actualites-economiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-10-86966230252"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic news"
+    ],
+    "ar": [
+      "الأخبار الاقتصادية"
+    ],
+    "es": [
+      "Actualidad económica"
+    ],
+    "fr": [
+      "Actualités économiques"
+    ],
+    "it": [
+      "Notizie economiche"
+    ]
+  }
+}

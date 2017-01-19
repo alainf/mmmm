@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-50-52-87274983174",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Ossetian/",
+  "description": "Description de Ossetian",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "os",
+  "ISO-639-2": "oss",
+  "ISO-639-3": "oss",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-50-52",
+  "moment-de-modification": "2016-02-04-05-52-28",
+  "nom": "Ossetian",
+  "nom-folder": "Ossetian",
+  "nom-machine": "terme-2016-02-04-05-50-52-87274983174",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Oss%C3%A8te",
+  "nomLangues": {
+    "en": [
+      "Ossetian"
+    ],
+    "ar": [
+      "أوسيتية"
+    ],
+    "es": [
+      "Osetio"
+    ],
+    "fr": [
+      "Ossetian"
+    ],
+    "it": [
+      "Osseto"
+    ],
+    "ru": [
+      "Осетинский"
+    ]
+  }
+}

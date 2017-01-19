@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226117",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Ordinateur-portable/",
+  "description": "Description de Ordinateur portable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455581,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Ordinateur portable",
+  "nom-folder": "Ordinateur-portable",
+  "nom-machine": "terme-2015-12-06-16-25-01-86966226117",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Laptop"
+    ],
+    "ar": [
+      "حاسوب محمول"
+    ],
+    "es": [
+      "Computadora portátil"
+    ],
+    "fr": [
+      "Ordinateur portable"
+    ],
+    "it": [
+      "Computer portatile"
+    ]
+  }
+}

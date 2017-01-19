@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223829",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Histoire-de-l'agriculture/",
+  "description": "Description de Histoire de l'agriculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 911,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Histoire de l'agriculture",
+  "nom-folder": "Histoire-de-l'agriculture",
+  "nom-machine": "terme-2015-12-06-16-24-23-86966223829",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of agriculture"
+    ],
+    "ar": [
+      "تاريخ الزراعة"
+    ],
+    "es": [
+      "Historia de la agricultura"
+    ],
+    "fr": [
+      "Histoire de l'agriculture"
+    ],
+    "it": [
+      "Storia dell'agricoltura"
+    ]
+  }
+}

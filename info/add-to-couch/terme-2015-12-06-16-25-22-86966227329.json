@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-22-86966227329",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-electronique/Commerce-electronique-entreprises-particuliers/",
+  "description": "Description de Commerce électronique entreprises particuliers",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1790,
+  "identifiant-drupal-parent": 1787,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-22",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce électronique entreprises particuliers",
+  "nom-folder": "Commerce-electronique-entreprises-particuliers",
+  "nom-machine": "terme-2015-12-06-16-25-22-86966227329",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "B2C e-commerce"
+    ],
+    "ar": [
+      "التجارة الإلكترونية بين الشركات والأفراد"
+    ],
+    "es": [
+      "Comercio electrónico de empresas a particulares"
+    ],
+    "fr": [
+      "Commerce électronique entreprises particuliers"
+    ],
+    "it": [
+      "B2C commercio elettronico aziendale a consumatore"
+    ]
+  }
+}

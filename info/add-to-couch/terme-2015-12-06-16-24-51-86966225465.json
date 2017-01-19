@@ -1,0 +1,54 @@
+{
+  "_id": "terme-2015-12-06-16-24-51-86966225465",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-public/",
+  "description": "Description de Droit public",
+  "enfants": [
+    "terme-2015-12-06-16-24-51-86966225468",
+    "terme-2015-12-06-16-24-51-86966225470",
+    "terme-2015-12-06-16-24-51-86966225473",
+    "terme-2015-12-06-16-24-51-86966225479",
+    "terme-2015-12-06-16-24-51-86966225482",
+    "terme-2015-12-06-16-24-51-86966225484",
+    "terme-2015-12-06-16-24-51-86966225487",
+    "terme-2015-12-06-16-24-51-86966225490",
+    "terme-2015-12-06-16-24-51-86966225493",
+    "terme-2015-12-06-16-24-51-86966225495",
+    "terme-2015-12-06-16-24-51-86966225498",
+    "terme-2015-12-06-16-24-51-86966225501",
+    "terme-2015-12-06-16-24-51-86966225504",
+    "terme-2015-12-06-16-24-51-86966225507",
+    "terme-2015-12-06-16-24-51-86966225510"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269097,
+  "identifiant-drupal-parent": 269096,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-51",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Droit public",
+  "nom-folder": "Droit-public",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-51-86966225465"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public law"
+    ],
+    "ar": [
+      "قانون العام"
+    ],
+    "es": [
+      "Derecho público"
+    ],
+    "fr": [
+      "Droit public"
+    ],
+    "it": [
+      "diritto pubblico"
+    ]
+  }
+}

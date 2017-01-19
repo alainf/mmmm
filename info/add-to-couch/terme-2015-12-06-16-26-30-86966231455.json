@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-30-86966231455",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-pratique/Radiologie-(medecine)/",
+  "description": "Description de Radiologie (médecine)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1427,
+  "identifiant-drupal-parent": 1414,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-30",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Radiologie (médecine)",
+  "nom-folder": "Radiologie-(medecine)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-30-86966231455"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Radiology (medicine)"
+    ],
+    "ar": [
+      "الأشعة (الطب)"
+    ],
+    "es": [
+      "Radiología (Medicina)"
+    ],
+    "fr": [
+      "Radiologie (médecine)"
+    ],
+    "it": [
+      "Radiologia (medicina)"
+    ]
+  }
+}

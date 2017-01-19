@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230537",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Economie-sociale/",
+  "description": "Description de Économie sociale",
+  "enfants": [
+    "terme-2015-12-06-16-26-15-86966230540"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272024,
+  "identifiant-drupal-parent": 888,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie sociale",
+  "nom-folder": "Economie-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230537"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social economics"
+    ],
+    "ar": [
+      "الاقتصاد الاجتماعي"
+    ],
+    "es": [
+      "Economía social"
+    ],
+    "fr": [
+      "Économie sociale"
+    ],
+    "it": [
+      "Economia sociale"
+    ]
+  }
+}

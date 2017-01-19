@@ -1,0 +1,62 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220770",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/",
+  "description": "Description de L'environnement externe de l'entreprise",
+  "enfants": [
+    "terme-2015-12-06-16-23-32-86966220774",
+    "terme-2015-12-06-16-23-32-86966220776",
+    "terme-2015-12-06-16-23-32-86966220779",
+    "terme-2015-12-06-16-23-33-86966220782",
+    "terme-2015-12-06-16-23-33-86966220785",
+    "terme-2015-12-06-16-23-33-86966220789",
+    "terme-2015-12-06-16-23-33-86966220792",
+    "terme-2015-12-06-16-23-33-86966220794",
+    "terme-2015-12-06-16-23-33-86966220797",
+    "terme-2015-12-06-16-23-33-86966220800",
+    "terme-2015-12-06-16-23-33-86966220802",
+    "terme-2015-12-06-16-23-33-86966220805",
+    "terme-2015-12-06-16-23-33-86966220808",
+    "terme-2015-12-06-16-23-33-86966220811",
+    "terme-2015-12-06-16-23-33-86966220814",
+    "terme-2015-12-06-16-23-33-86966220817",
+    "terme-2015-12-06-16-23-33-86966220820",
+    "terme-2015-12-06-16-23-33-86966220822",
+    "terme-2015-12-06-16-23-33-86966220826",
+    "terme-2015-12-06-16-23-33-86966220828"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270483,
+  "identifiant-drupal-parent": 270471,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "L'environnement externe de l'entreprise",
+  "nom-folder": "L'environnement-externe-de-l'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220770"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "External business environment"
+    ],
+    "ar": [
+      "بيئة الأعمال الخارجية"
+    ],
+    "es": [
+      "Entorno externo de la  empresa"
+    ],
+    "fr": [
+      "L'environnement externe de l'entreprise"
+    ],
+    "it": [
+      "Ambiente esterno dell'impresa"
+    ],
+    "ru": [
+      "Внешняя среда бизнеса"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231245",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-intellectuelle/",
+  "description": "Description de Histoire intellectuelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 988,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire intellectuelle",
+  "nom-folder": "Histoire-intellectuelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-27-86966231245"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intellectual history"
+    ],
+    "ar": [
+      "تاريخ الفكري"
+    ],
+    "es": [
+      "Historia Intelectual"
+    ],
+    "fr": [
+      "Histoire intellectuelle"
+    ],
+    "it": [
+      "storia intellettuale"
+    ]
+  }
+}

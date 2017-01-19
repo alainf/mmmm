@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229747",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Metiers-de-la-publicite/",
+  "description": "Description de Métiers de la publicité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2098,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Métiers de la publicité",
+  "nom-folder": "Metiers-de-la-publicite",
+  "nom-machine": "terme-2015-12-06-16-26-02-86966229747",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Advertising occupations"
+    ],
+    "ar": [
+      "مهن الإعلان"
+    ],
+    "es": [
+      "Profesiones de la publicidad"
+    ],
+    "fr": [
+      "Métiers de la publicité"
+    ],
+    "it": [
+      "Occupazioni della pubblicità"
+    ]
+  }
+}

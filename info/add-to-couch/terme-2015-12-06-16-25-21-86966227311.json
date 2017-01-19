@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227311",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-tabac/",
+  "description": "Description de Commerce de gros de tabac",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451116,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros de tabac",
+  "nom-folder": "C-de-g-tabac",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227311",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale tobacco trade"
+    ],
+    "ar": [
+      "تجارة بالجملة لالتبغ"
+    ],
+    "es": [
+      "Comercio mayorista de tabaco"
+    ],
+    "fr": [
+      "Commerce de gros de tabac"
+    ],
+    "it": [
+      "Commercio all'ingrosso di tabacco"
+    ]
+  }
+}

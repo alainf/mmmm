@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174577",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Huron-wendat/",
+  "description": "Huron-wendat",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317610,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Wendat",
+  "nom-folder": "Huron-wendat",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174577",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wendat"
+    ],
+    "ar": [
+      "قبائل هورون"
+    ],
+    "es": [
+      "Wendat"
+    ],
+    "fr": [
+      "Wendat"
+    ],
+    "it": [
+      "Wendat"
+    ]
+  }
+}

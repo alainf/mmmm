@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-30-86966231404",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-organes/Oto-rhino-Laryngologie/",
+  "description": "Description de Oto-rhino-laryngologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1476,
+  "identifiant-drupal-parent": 1437,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-30",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Oto-rhino-laryngologie",
+  "nom-folder": "Oto-rhino-Laryngologie",
+  "nom-machine": "terme-2015-12-06-16-26-30-86966231404",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Otolaryngology ORL"
+    ],
+    "ar": [
+      "طب الأنف والأذن والحنجرة"
+    ],
+    "es": [
+      "Otorrinolaringología"
+    ],
+    "fr": [
+      "Oto-rhino-laryngologie"
+    ],
+    "it": [
+      "Otorinolaringoiatria"
+    ]
+  }
+}

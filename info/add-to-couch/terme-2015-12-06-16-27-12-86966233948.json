@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-12-86966233948",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/activite-de-financement/",
+  "description": "Description de Activité de financement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 378962,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Activité de financement",
+  "nom-folder": "activite-de-financement",
+  "nom-machine": "terme-2015-12-06-16-27-12-86966233948",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fundraiser"
+    ],
+    "es": [
+      "Recaudación de fondos"
+    ],
+    "fr": [
+      "Activité de financement"
+    ],
+    "it": [
+      "Raccolta fondi"
+    ]
+  }
+}

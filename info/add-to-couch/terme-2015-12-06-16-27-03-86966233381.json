@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-27-03-86966233381",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Perspectives-methodologiques-en-sociologie/Structuro-fonctionnalisme-(sociologie)/Marxisme-structurel/",
+  "description": "Description de Marxisme structurel",
+  "enfants": [
+    "terme-2015-12-06-16-27-03-86966233383"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471947,
+  "identifiant-drupal-parent": 1250,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-03",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Marxisme structurel",
+  "nom-folder": "Marxisme-structurel",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-03-86966233381"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Structural Marxism"
+    ],
+    "ar": [
+      "الماركسية البنيوية"
+    ],
+    "es": [
+      "Marxismo estructural"
+    ],
+    "fr": [
+      "Marxisme structurel"
+    ],
+    "it": [
+      "Marxismo strutturale"
+    ]
+  }
+}

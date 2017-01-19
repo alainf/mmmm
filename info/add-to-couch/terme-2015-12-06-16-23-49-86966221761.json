@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-49-86966221761",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Ciencias-juridicas/Dcho-administrativo/",
+  "description": "Description de Dcho administrativo",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380936,
+  "identifiant-drupal-parent": 380842,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-49",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Dcho administrativo",
+  "nom-folder": "Dcho-administrativo",
+  "nom-machine": "terme-2015-12-06-16-23-49-86966221761",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Dcho administrativo"
+    ]
+  }
+}

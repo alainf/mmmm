@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232238",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Criminologie/Police-et-securite/",
+  "description": "Description de Police et sécurité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451400,
+  "identifiant-drupal-parent": 995,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Police et sécurité",
+  "nom-folder": "Police-et-securite",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232238"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Police and security"
+    ],
+    "ar": [
+      "الشرطة والأمن"
+    ],
+    "es": [
+      "Policía y seguridad"
+    ],
+    "fr": [
+      "Police et sécurité"
+    ],
+    "it": [
+      "Polizia e sicurezza"
+    ]
+  }
+}

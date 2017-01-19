@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225931",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Fonds-d'obligations/",
+  "description": "Fonds d'obligations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451156,
+  "identifiant-drupal-parent": 451151,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Fonds d’obligations",
+  "nom-folder": "Fonds-d'obligations",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225931"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bond funds"
+    ],
+    "ar": [
+      "صناديق السندات"
+    ],
+    "es": [
+      "Fondos de bonos"
+    ],
+    "fr": [
+      "Fonds d’obligations"
+    ],
+    "it": [
+      "fondo obbligazionario"
+    ]
+  }
+}

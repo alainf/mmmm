@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227466",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Gestion-de-la-distribution/",
+  "description": "Description de Gestion de la distribution",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1831,
+  "identifiant-drupal-parent": 1785,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Gestion de la distribution",
+  "nom-folder": "Gestion-de-la-distribution",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227466"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Distribution management"
+    ],
+    "ar": [
+      "إدارة التوزيع"
+    ],
+    "es": [
+      "Gestión de la distribución"
+    ],
+    "fr": [
+      "Gestion de la distribution"
+    ],
+    "it": [
+      "Gestione della distribuzione"
+    ]
+  }
+}

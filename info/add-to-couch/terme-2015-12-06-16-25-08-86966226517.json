@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226517",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ecologie/Desastres-ecologiques/",
+  "description": "Description de Désastres écologiques",
+  "enfants": [
+    "terme-2015-12-06-16-25-08-86966226520",
+    "terme-2015-12-06-16-25-08-86966226523"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272416,
+  "identifiant-drupal-parent": 270869,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Désastres écologiques",
+  "nom-folder": "Desastres-ecologiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226517"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecological disasters"
+    ],
+    "ar": [
+      "الكوارث الإيكولوجية"
+    ],
+    "es": [
+      "Desastres ecológicos"
+    ],
+    "fr": [
+      "Désastres écologiques"
+    ],
+    "it": [
+      "Disastri ecologici"
+    ]
+  }
+}

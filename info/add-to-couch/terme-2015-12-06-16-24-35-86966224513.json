@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224513",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Histoire-de-la-sculpture/",
+  "description": "Description de Histoire de la sculpture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467040,
+  "identifiant-drupal-parent": 467037,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Histoire de la sculpture",
+  "nom-folder": "Histoire-de-la-sculpture",
+  "nom-machine": "terme-2015-12-06-16-24-35-86966224513",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of sculpture"
+    ],
+    "ar": [
+      "تاريخ فن النحت"
+    ],
+    "es": [
+      "Historia de la escultura"
+    ],
+    "fr": [
+      "Histoire de la sculpture"
+    ],
+    "it": [
+      "Storia della scultura"
+    ]
+  }
+}

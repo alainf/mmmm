@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-23-47-86966221644",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sites/PhD-en-Communication/",
+  "description": "Description de Phd en communication",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-47",
+  "moment-de-modification": "2015-10-11-14-22-32",
+  "nom": "Phd en communication",
+  "nom-folder": "PhD-en-Communication",
+  "nom-machine": "terme-2015-12-06-16-23-47-86966221644",
+  "sous-type": "sites",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication"
+    ],
+    "ar": [
+      "اتصال"
+    ],
+    "es": [
+      "Comunicación"
+    ],
+    "fr": [
+      "Phd en communication"
+    ],
+    "it": [
+      "Communicazione"
+    ],
+    "ru": [
+      "коммуникация"
+    ]
+  }
+}

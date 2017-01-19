@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-24-06-86966222765",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Linguistics/",
+  "description": "Description de Linguistics",
+  "enfants": [
+    "terme-2015-12-06-16-24-06-86966222768",
+    "terme-2015-12-06-16-24-06-86966222771",
+    "terme-2015-12-06-16-24-06-86966222773",
+    "terme-2015-12-06-16-24-06-86966222776",
+    "terme-2015-12-06-16-24-06-86966222779",
+    "terme-2015-12-06-16-24-06-86966222782",
+    "terme-2015-12-06-16-24-06-86966222785",
+    "terme-2015-12-06-16-24-06-86966222788",
+    "terme-2015-12-06-16-24-06-86966222791",
+    "terme-2015-12-06-16-24-06-86966222794",
+    "terme-2015-12-06-16-24-06-86966222797",
+    "terme-2015-12-06-16-24-06-86966222800",
+    "terme-2015-12-06-16-24-06-86966222803",
+    "terme-2015-12-06-16-24-06-86966222805"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369077,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-06",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Linguistics",
+  "nom-folder": "Linguistics",
+  "nom-machine": "terme-2015-12-06-16-24-06-86966222765",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Linguistics"
+    ]
+  }
+}

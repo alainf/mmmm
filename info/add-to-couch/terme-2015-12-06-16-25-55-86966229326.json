@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229326",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Analyse-politique/",
+  "description": "Description de Analyse politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2248,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Analyse politique",
+  "nom-folder": "Analyse-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-55-86966229326"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political analysis"
+    ],
+    "ar": [
+      "تحليل سياسي"
+    ],
+    "es": [
+      "Análisis político"
+    ],
+    "fr": [
+      "Analyse politique"
+    ],
+    "it": [
+      "analisi politica"
+    ]
+  }
+}

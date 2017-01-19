@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-16-86966223405",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Sports-and-Recreation/Fitness,-Training-and-Injury/",
+  "description": "Description de Fitness, training and injury",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369296,
+  "identifiant-drupal-parent": 369294,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-16",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Fitness, training and injury",
+  "nom-folder": "Fitness,-Training-and-Injury",
+  "nom-machine": "terme-2015-12-06-16-24-16-86966223405",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Fitness, training and injury"
+    ]
+  }
+}

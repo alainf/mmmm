@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2016-02-05-01-27-25-87279218732",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Avec-quoi-ecrire/Etablir-des-balises-stylistiques/",
+  "description": "Description de Établir des balises stylistiques",
+  "enfants": [
+    "terme-2016-02-05-01-39-45-87279263142"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-27-25",
+  "moment-de-modification": "2016-02-05-01-31-18",
+  "nom": "Établir des balises stylistiques",
+  "nom-folder": "Etablir-des-balises-stylistiques",
+  "nom-machine": "terme-2016-02-05-01-27-25-87279218732",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Establish stylistic markers"
+    ],
+    "es": [
+      "Establecer marcadores estilísticos"
+    ],
+    "fr": [
+      "Établir des balises stylistiques"
+    ],
+    "it": [
+      "Stabilire dei marcatori stilistici"
+    ]
+  }
+}

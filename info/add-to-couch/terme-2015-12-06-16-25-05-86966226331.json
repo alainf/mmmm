@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226331",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Education-interculturelle/",
+  "description": "Description de Éducation interculturelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451291,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Éducation interculturelle",
+  "nom-folder": "Education-interculturelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226331"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intercultural education"
+    ],
+    "ar": [
+      "التعليم المشترك بين الثقافات"
+    ],
+    "es": [
+      "Educación intercultural"
+    ],
+    "fr": [
+      "Éducation interculturelle"
+    ],
+    "it": [
+      "Educazione interculturale"
+    ]
+  }
+}

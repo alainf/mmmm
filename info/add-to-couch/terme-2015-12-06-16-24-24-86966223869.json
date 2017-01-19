@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223869",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Metiers-de-l'agriculture/",
+  "description": "Description de Métiers de l'agriculture",
+  "enfants": [
+    "terme-2015-12-06-16-24-24-86966223872"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 917,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Métiers de l'agriculture",
+  "nom-folder": "Metiers-de-l'agriculture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223869"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural occupations"
+    ],
+    "ar": [
+      "مهن الزراعة"
+    ],
+    "es": [
+      "Oficios de la agricultura"
+    ],
+    "fr": [
+      "Métiers de l'agriculture"
+    ],
+    "it": [
+      "Mestieri dell'agricultura"
+    ]
+  }
+}

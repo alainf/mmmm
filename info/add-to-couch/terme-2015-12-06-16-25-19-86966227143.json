@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227143",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Industries-culturelles/",
+  "description": "Description de Industries culturelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471864,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Industries culturelles",
+  "nom-folder": "Industries-culturelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227143"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural industries"
+    ],
+    "ar": [
+      "الصناعات الثقافية"
+    ],
+    "es": [
+      "Industrias culturales"
+    ],
+    "fr": [
+      "Industries culturelles"
+    ],
+    "it": [
+      "industrie culturali"
+    ]
+  }
+}

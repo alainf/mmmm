@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226182",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Langues/Langues-germaniques/",
+  "description": "Description de Langues germaniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270406,
+  "identifiant-drupal-parent": 270402,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Langues germaniques",
+  "nom-folder": "Langues-germaniques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-03-86966226182"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Germanic languages"
+    ],
+    "ar": [
+      "لغات الجرمانية"
+    ],
+    "es": [
+      "Lenguas germánicas"
+    ],
+    "fr": [
+      "Langues germaniques"
+    ],
+    "it": [
+      "lingue germaniche"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230749",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astrophysique-(l'univers)/Planetologie/",
+  "description": "Description de Planétologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270779,
+  "identifiant-drupal-parent": 270777,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Planétologie",
+  "nom-folder": "Planetologie",
+  "nom-machine": "terme-2015-12-06-16-26-19-86966230749",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Planetology"
+    ],
+    "ar": [
+      "علم الكواكب"
+    ],
+    "es": [
+      "Planetología"
+    ],
+    "fr": [
+      "Planétologie"
+    ],
+    "it": [
+      "Planetologia"
+    ]
+  }
+}

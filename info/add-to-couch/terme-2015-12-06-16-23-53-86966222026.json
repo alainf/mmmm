@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-53-86966222026",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Biological-Sciences/Food-Science-and-Technology/",
+  "description": "Description de Food science and technology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368825,
+  "identifiant-drupal-parent": 368810,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-53",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Food science and technology",
+  "nom-folder": "Food-Science-and-Technology",
+  "nom-machine": "terme-2015-12-06-16-23-53-86966222026",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Food science and technology"
+    ]
+  }
+}

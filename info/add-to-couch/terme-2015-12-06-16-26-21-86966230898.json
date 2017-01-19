@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-21-86966230898",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-physiques/Physique-de-la-matiere-condensee/",
+  "description": "Description de Physique de la matière condensée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270462,
+  "identifiant-drupal-parent": 270456,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-21",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Physique de la matière condensée",
+  "nom-folder": "Physique-de-la-matiere-condensee",
+  "nom-machine": "terme-2015-12-06-16-26-21-86966230898",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Condensed matter physics"
+    ],
+    "ar": [
+      "فيزياء المواد المكثفة"
+    ],
+    "es": [
+      "Física de la materia condensada"
+    ],
+    "fr": [
+      "Physique de la matière condensée"
+    ],
+    "it": [
+      "Fisica della materia condensata"
+    ]
+  }
+}

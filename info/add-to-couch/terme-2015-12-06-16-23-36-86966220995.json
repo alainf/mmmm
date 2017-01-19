@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966220995",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Debats/Premieres-nations/",
+  "description": "Description de Premières nations",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1726,
+  "identifiant-drupal-parent": 1671,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Premières nations",
+  "nom-folder": "Premieres-nations",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966220995"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "First nations"
+    ],
+    "ar": [
+      "الأمم الأولى (كندا)"
+    ],
+    "es": [
+      "Primeras naciones de canadá"
+    ],
+    "fr": [
+      "Premières nations"
+    ],
+    "it": [
+      "Prime nazioni"
+    ]
+  }
+}

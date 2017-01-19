@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233107",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Regimes-politiques/Oligarchie/",
+  "description": "Description de Oligarchie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1182,
+  "identifiant-drupal-parent": 1107,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Oligarchie",
+  "nom-folder": "Oligarchie",
+  "nom-machine": "terme-2015-12-06-16-26-58-86966233107",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oligarchy"
+    ],
+    "ar": [
+      "الأوليغاركية"
+    ],
+    "es": [
+      "Oligarquía"
+    ],
+    "fr": [
+      "Oligarchie"
+    ],
+    "it": [
+      "Oligarchia"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-15-86966223301",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Psychology/Miscellaneous-(Psychology)/",
+  "description": "Description de Miscellaneous (psychology)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369260,
+  "identifiant-drupal-parent": 369241,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-15",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Miscellaneous (psychology)",
+  "nom-folder": "Miscellaneous-(Psychology)",
+  "nom-machine": "terme-2015-12-06-16-24-15-86966223301",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Miscellaneous (psychology)"
+    ]
+  }
+}

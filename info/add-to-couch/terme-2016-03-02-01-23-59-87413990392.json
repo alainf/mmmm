@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-03-02-01-23-59-87413990392",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/qui-ecrit/qui-est-le-narrateur/",
+  "description": "Description de Qui est le narrateur",
+  "enfants": [
+    "terme-2016-03-02-01-24-34-87413992492"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-23-59",
+  "moment-de-modification": "2016-03-02-01-28-19",
+  "nom": "Qui est le narrateur",
+  "nom-folder": "qui-est-le-narrateur",
+  "nom-machine": "terme-2016-03-02-01-23-59-87413990392",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Qui est le narrateur"
+    ]
+  }
+}

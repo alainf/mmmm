@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230787",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Chimie-de-l'atmosphere/",
+  "description": "Description de Chimie de l'atmosphère",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270444,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Chimie de l'atmosphère",
+  "nom-folder": "Chimie-de-l'atmosphere",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-19-86966230787"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Atmospheric Chemistry"
+    ],
+    "ar": [
+      "كيمياء الغلاف الجوي"
+    ],
+    "es": [
+      "Química de la atmósfera"
+    ],
+    "fr": [
+      "Chimie de l'atmosphère"
+    ],
+    "it": [
+      "Chimica atmosferica"
+    ]
+  }
+}

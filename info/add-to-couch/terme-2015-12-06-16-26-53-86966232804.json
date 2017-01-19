@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232804",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Ecologisme/Politique-ecologique/",
+  "description": "Description de Politique écologique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1130,
+  "identifiant-drupal-parent": 1114,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Politique écologique",
+  "nom-folder": "Politique-ecologique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-53-86966232804"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Green politics"
+    ],
+    "ar": [
+      "السياسة البيئية"
+    ],
+    "es": [
+      "Política ecológica"
+    ],
+    "fr": [
+      "Politique écologique"
+    ],
+    "it": [
+      "Politica ecologica"
+    ]
+  }
+}

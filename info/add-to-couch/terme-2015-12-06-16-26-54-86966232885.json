@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-54-86966232885",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Sionisme/",
+  "description": "Description de Sionisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451299,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Sionisme",
+  "nom-folder": "Sionisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-54-86966232885"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Zionism"
+    ],
+    "ar": [
+      "صهيونية"
+    ],
+    "es": [
+      "Sionismo"
+    ],
+    "fr": [
+      "Sionisme"
+    ],
+    "it": [
+      "sionismo"
+    ]
+  }
+}

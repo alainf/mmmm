@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221131",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Affaires,-economie-et-finances-personnelles/Vos-finances/",
+  "description": "Description de Vos finances",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270676,
+  "identifiant-drupal-parent": 270643,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Vos finances",
+  "nom-folder": "Vos-finances",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221131"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Your finances"
+    ],
+    "ar": [
+      "أموالك"
+    ],
+    "es": [
+      "Sus finanzas"
+    ],
+    "fr": [
+      "Vos finances"
+    ],
+    "it": [
+      "Le vostre finanze"
+    ]
+  }
+}

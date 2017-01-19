@@ -1,0 +1,56 @@
+{
+  "_id": "terme-2015-12-06-16-26-08-86966230099",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/",
+  "description": "Description de Extraction de minerais non métalliques",
+  "enfants": [
+    "terme-2015-12-06-16-26-08-86966230102",
+    "terme-2015-12-06-16-26-08-86966230105",
+    "terme-2015-12-06-16-26-08-86966230108",
+    "terme-2015-12-06-16-26-08-86966230111",
+    "terme-2015-12-06-16-26-08-86966230114",
+    "terme-2015-12-06-16-26-08-86966230117",
+    "terme-2015-12-06-16-26-08-86966230120",
+    "terme-2015-12-06-16-26-08-86966230123",
+    "terme-2015-12-06-16-26-08-86966230126",
+    "terme-2015-12-06-16-26-08-86966230129",
+    "terme-2015-12-06-16-26-08-86966230132",
+    "terme-2015-12-06-16-26-08-86966230135",
+    "terme-2015-12-06-16-26-08-86966230138",
+    "terme-2015-12-06-16-26-09-86966230141",
+    "terme-2015-12-06-16-26-09-86966230144",
+    "terme-2015-12-06-16-26-09-86966230147",
+    "terme-2015-12-06-16-26-09-86966230149"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451077,
+  "identifiant-drupal-parent": 270826,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de minerais non métalliques",
+  "nom-folder": "Extraction-de-minerais-non-metalliques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-08-86966230099"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Non-metallic mineral extraction"
+    ],
+    "ar": [
+      "إستخراج خامات غير الفلزية"
+    ],
+    "es": [
+      "Extracción de menas no metálicas"
+    ],
+    "fr": [
+      "Extraction de minerais non métalliques"
+    ],
+    "it": [
+      "Estrazione di minerali non metallici"
+    ]
+  }
+}

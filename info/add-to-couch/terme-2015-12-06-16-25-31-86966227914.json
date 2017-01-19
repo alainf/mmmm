@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-31-86966227914",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Analyse-avantages-couts/",
+  "description": "Description de Analyse avantages-coûts",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1944,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-31",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Analyse avantages-coûts",
+  "nom-folder": "Analyse-avantages-couts",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-31-86966227914"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cost-Benefit Analysis"
+    ],
+    "ar": [
+      "تحليل الإمتيازات-التكاليف"
+    ],
+    "es": [
+      "Análisis de coste-beneficio"
+    ],
+    "fr": [
+      "Analyse avantages-coûts"
+    ],
+    "it": [
+      "Analisi costi-benefici"
+    ]
+  }
+}

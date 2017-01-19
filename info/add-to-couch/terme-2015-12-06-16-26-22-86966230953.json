@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230953",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-vie/Systematique/",
+  "description": "Description de Systématique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271428,
+  "identifiant-drupal-parent": 270761,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Systématique",
+  "nom-folder": "Systematique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230953"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Systematics"
+    ],
+    "ar": [
+      "منهجي"
+    ],
+    "es": [
+      "Sistemática"
+    ],
+    "fr": [
+      "Systématique"
+    ],
+    "it": [
+      "Sistematica"
+    ]
+  }
+}

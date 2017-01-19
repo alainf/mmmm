@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233259",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-des-sciences/",
+  "description": "Description de Sociologie des sciences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1213,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie des sciences",
+  "nom-folder": "Sociologie-des-sciences",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-00-86966233259"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of Science"
+    ],
+    "ar": [
+      "علم الاجتماع العلوم"
+    ],
+    "es": [
+      "Sociología de las ciencias"
+    ],
+    "fr": [
+      "Sociologie des sciences"
+    ],
+    "it": [
+      "Sociologia delle scienze"
+    ]
+  }
+}

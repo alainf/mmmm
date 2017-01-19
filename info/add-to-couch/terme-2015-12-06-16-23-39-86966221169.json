@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221169",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/La-science/",
+  "description": "Description de La science",
+  "enfants": [
+    "terme-2015-12-06-16-23-39-86966221172",
+    "terme-2015-12-06-16-23-39-86966221175"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270702,
+  "identifiant-drupal-parent": 270650,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "La science",
+  "nom-folder": "La-science",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221169"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Science"
+    ],
+    "ar": [
+      "العلم"
+    ],
+    "es": [
+      "La ciencia"
+    ],
+    "fr": [
+      "La science"
+    ],
+    "it": [
+      "La scienza"
+    ]
+  }
+}

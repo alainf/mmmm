@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-23-57-86966222268",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Earth-Sciences/",
+  "description": "Description de Earth sciences",
+  "enfants": [
+    "terme-2015-12-06-16-23-57-86966222271",
+    "terme-2015-12-06-16-23-57-86966222274",
+    "terme-2015-12-06-16-23-57-86966222277",
+    "terme-2015-12-06-16-23-58-86966222280",
+    "terme-2015-12-06-16-23-58-86966222283",
+    "terme-2015-12-06-16-23-58-86966222286",
+    "terme-2015-12-06-16-23-58-86966222289",
+    "terme-2015-12-06-16-23-58-86966222292",
+    "terme-2015-12-06-16-23-58-86966222294",
+    "terme-2015-12-06-16-23-58-86966222297",
+    "terme-2015-12-06-16-23-58-86966222300",
+    "terme-2015-12-06-16-23-58-86966222302",
+    "terme-2015-12-06-16-23-58-86966222306",
+    "terme-2015-12-06-16-23-58-86966222308",
+    "terme-2015-12-06-16-23-58-86966222311",
+    "terme-2015-12-06-16-23-58-86966222314",
+    "terme-2015-12-06-16-23-58-86966222317",
+    "terme-2015-12-06-16-23-58-86966222323",
+    "terme-2015-12-06-16-23-58-86966222326",
+    "terme-2015-12-06-16-23-58-86966222332",
+    "terme-2015-12-06-16-23-58-86966222335"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368910,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-23-57",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Earth sciences",
+  "nom-folder": "Earth-Sciences",
+  "nom-machine": "terme-2015-12-06-16-23-57-86966222268",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Earth sciences"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966221009",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Mobilisation-sociale/",
+  "description": "Description de Mobilisation sociale",
+  "enfants": [
+    "terme-2015-12-06-16-23-36-86966221012",
+    "terme-2015-12-06-16-23-36-86966221015",
+    "terme-2015-12-06-16-23-36-86966221018",
+    "terme-2015-12-06-16-23-37-86966221020",
+    "terme-2015-12-06-16-23-37-86966221023",
+    "terme-2015-12-06-16-23-37-86966221025",
+    "terme-2015-12-06-16-23-37-86966221028",
+    "terme-2015-12-06-16-23-37-86966221031",
+    "terme-2015-12-06-16-23-37-86966221034",
+    "terme-2015-12-06-16-23-37-86966221036",
+    "terme-2015-12-06-16-23-37-86966221040",
+    "terme-2015-12-06-16-23-37-86966221043",
+    "terme-2015-12-06-16-23-37-86966221045",
+    "terme-2015-12-06-16-23-37-86966221048",
+    "terme-2015-12-06-16-23-37-86966221051"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1667,
+  "identifiant-drupal-parent": 1718,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Mobilisation sociale",
+  "nom-folder": "Mobilisation-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966221009"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social mobilization"
+    ],
+    "ar": [
+      "التعبئة الاجتماعية"
+    ],
+    "es": [
+      "La movilización social"
+    ],
+    "fr": [
+      "Mobilisation sociale"
+    ],
+    "it": [
+      "Mobilitazione sociale"
+    ],
+    "ru": [
+      "Социальная мобилизация"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228268",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-du-changement-(gestion)/Gestion-du-changement-en-economie-d'entreprise/Gains-de-productivite/",
+  "description": "Description de Gains de productivité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472182,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gains de productivité",
+  "nom-folder": "Gains-de-productivite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-37-86966228268"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Productivity gains"
+    ],
+    "ar": [
+      "مكاسب الإنتاجية"
+    ],
+    "es": [
+      "Ganancias de productividad"
+    ],
+    "fr": [
+      "Gains de productivité"
+    ],
+    "it": [
+      "Incremento di produttività"
+    ]
+  }
+}

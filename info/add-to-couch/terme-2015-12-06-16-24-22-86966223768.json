@@ -1,0 +1,66 @@
+{
+  "_id": "terme-2015-12-06-16-24-22-86966223768",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/",
+  "description": "Description de Agriculture généralités",
+  "enfants": [
+    "terme-2015-12-06-16-24-23-86966223788",
+    "terme-2015-12-06-16-24-23-86966223791",
+    "terme-2015-12-06-16-24-23-86966223794",
+    "terme-2015-12-06-16-24-23-86966223797",
+    "terme-2015-12-06-16-24-23-86966223800",
+    "terme-2015-12-06-16-24-23-86966223805",
+    "terme-2015-12-06-16-24-23-86966223807",
+    "terme-2015-12-06-16-24-23-86966223810",
+    "terme-2015-12-06-16-24-23-86966223813",
+    "terme-2015-12-06-16-24-23-86966223815",
+    "terme-2015-12-06-16-24-23-86966223824",
+    "terme-2015-12-06-16-24-23-86966223827",
+    "terme-2015-12-06-16-24-23-86966223829",
+    "terme-2015-12-06-16-24-23-86966223833",
+    "terme-2015-12-06-16-24-24-86966223852",
+    "terme-2015-12-06-16-24-24-86966223855",
+    "terme-2015-12-06-16-24-24-86966223858",
+    "terme-2015-12-06-16-24-24-86966223861",
+    "terme-2015-12-06-16-24-24-86966223866",
+    "terme-2015-12-06-16-24-24-86966223869",
+    "terme-2015-12-06-16-24-24-86966223875",
+    "terme-2015-12-06-16-24-24-86966223877",
+    "terme-2015-12-06-16-24-24-86966223880",
+    "terme-2015-12-06-16-24-24-86966223888",
+    "terme-2015-12-06-16-24-24-86966223891",
+    "terme-2015-12-06-16-24-24-86966223894",
+    "terme-2016-04-14-03-04-49-87637049345"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 895,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-22",
+  "moment-de-modification": "2016-02-13-19-49-52",
+  "nom": "Agriculture généralités",
+  "nom-folder": "Agriculture-generalites",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-22-86966223768"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agriculture general"
+    ],
+    "ar": [
+      "عمومية الزراعة"
+    ],
+    "es": [
+      "Agricultura generalidades"
+    ],
+    "fr": [
+      "Agriculture généralités"
+    ],
+    "it": [
+      "Agricoltura generalità"
+    ]
+  }
+}

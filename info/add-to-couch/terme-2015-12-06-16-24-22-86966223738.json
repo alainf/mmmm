@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-22-86966223738",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Social-Science-Humanities/Regional-Studies/",
+  "description": "Description de Études régionales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368200,
+  "identifiant-drupal-parent": 368147,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-22",
+  "moment-de-modification": "2015-01-04-02-27-32",
+  "nom": "Études régionales",
+  "nom-folder": "Regional-Studies",
+  "nom-machine": "terme-2015-12-06-16-24-22-86966223738",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Regional studies"
+    ],
+    "fr": [
+      "Études régionales"
+    ]
+  }
+}

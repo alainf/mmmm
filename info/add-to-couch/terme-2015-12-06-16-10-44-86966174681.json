@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174681",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Neerlandais/",
+  "description": "Description de Néerlandais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317634,
+  "ISO-639-1": "nl",
+  "ISO-639-2": "dut/nld",
+  "ISO-639-3": "nld",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2016-02-04-05-41-00",
+  "nom": "Néerlandais",
+  "nom-folder": "Neerlandais",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174681",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/N%C3%A9erlandais",
+  "nomLangues": {
+    "en": [
+      "Dutch"
+    ],
+    "ar": [
+      "هولندية"
+    ],
+    "es": [
+      "Neerlandés"
+    ],
+    "fr": [
+      "Néerlandais"
+    ],
+    "it": [
+      "Neerlandese"
+    ],
+    "ru": [
+      "Нидерландский"
+    ]
+  }
+}

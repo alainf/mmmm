@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233077",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Souverainete/",
+  "description": "Description de Souveraineté",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1176,
+  "identifiant-drupal-parent": 1106,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Souveraineté",
+  "nom-folder": "Souverainete",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-57-86966233077"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sovereignty"
+    ],
+    "ar": [
+      "سيادة"
+    ],
+    "es": [
+      "Soberanía"
+    ],
+    "fr": [
+      "Souveraineté"
+    ],
+    "it": [
+      "Sovranità"
+    ]
+  }
+}

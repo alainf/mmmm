@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174547",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Gallois/",
+  "description": "Description de Gallois",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317605,
+  "ISO-639-1": "cy",
+  "ISO-639-2": "wel/cym",
+  "ISO-639-3": "cym",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2016-02-04-03-49-28",
+  "nom": "Gallois",
+  "nom-folder": "Gallois",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174547",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Gallois",
+  "nomLangues": {
+    "en": [
+      "Welsh"
+    ],
+    "ar": [
+      "ويلزية"
+    ],
+    "es": [
+      "Galés"
+    ],
+    "fr": [
+      "Gallois"
+    ],
+    "it": [
+      "Gallese"
+    ],
+    "ru": [
+      "Валлийский"
+    ]
+  }
+}

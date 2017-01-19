@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233699",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Hydraulique/",
+  "description": "Description de Hydraulique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467106,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Hydraulique",
+  "nom-folder": "Hydraulique",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-08-86966233699"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Hydraulics"
+    ],
+    "ar": [
+      "هيدروليكي"
+    ],
+    "es": [
+      "Hidráulica"
+    ],
+    "fr": [
+      "Hydraulique"
+    ],
+    "it": [
+      "Idraulica"
+    ]
+  }
+}

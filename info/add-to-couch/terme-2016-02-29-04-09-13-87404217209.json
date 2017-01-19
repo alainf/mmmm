@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-09-13-87404217209",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/avec-quoi-ecrire/inclure-des-elements-visuels/contribuer-a-la-verisimilitude/",
+  "description": "Description de Contribuer à la vérisimilitude",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-09-13",
+  "moment-de-modification": "2016-02-29-04-10-17",
+  "nom": "Contribuer à la vérisimilitude",
+  "nom-folder": "contribuer-a-la-verisimilitude",
+  "nom-machine": "terme-2016-02-29-04-09-13-87404217209",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Contribute to the verisimilitude"
+    ],
+    "fr": [
+      "Contribuer à la vérisimilitude"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231614",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Rhetorique-(philosophie)/",
+  "description": "Description de Rhétorique (philosophie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272187,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Rhétorique (philosophie)",
+  "nom-folder": "Rhetorique-(philosophie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-33-86966231614"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rhetorics (philosophy)"
+    ],
+    "ar": [
+      "بلاغة (فلسفة)"
+    ],
+    "es": [
+      "Retórica (filosofía)"
+    ],
+    "fr": [
+      "Rhétorique (philosophie)"
+    ],
+    "it": [
+      "Retorica (filosofia)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229116",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-generale-(types)/Documents-comptables/Documents-de-synthese/Compte-rendu-(documentaire)/",
+  "description": "Description de Compte rendu (documentaire)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270979,
+  "identifiant-drupal-parent": 270974,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Compte rendu (documentaire)",
+  "nom-folder": "Compte-rendu-(documentaire)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-51-86966229116"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reporting"
+    ],
+    "ar": [
+      "تقرير"
+    ],
+    "es": [
+      "Informe documental"
+    ],
+    "fr": [
+      "Compte rendu (documentaire)"
+    ],
+    "it": [
+      "Relazione documentaria"
+    ]
+  }
+}

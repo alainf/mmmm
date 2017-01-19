@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226629",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Teledetection-de-l'environnement/",
+  "description": "Description de Télédétection de l'environnement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270870,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Télédétection de l'environnement",
+  "nom-folder": "Teledetection-de-l'environnement",
+  "nom-machine": "terme-2015-12-06-16-25-10-86966226629",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environmental Remote Sensing"
+    ],
+    "ar": [
+      "الاستشعار البيئي عن بعد"
+    ],
+    "es": [
+      "Teledetección Ambiental"
+    ],
+    "fr": [
+      "Télédétection de l'environnement"
+    ],
+    "it": [
+      "Telerilevamento dell'ambiente"
+    ]
+  }
+}

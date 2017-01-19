@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224121",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Foresterie/Exploitation-forestiere/",
+  "description": "Description de Exploitation forestière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268999,
+  "identifiant-drupal-parent": 938,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Exploitation forestière",
+  "nom-folder": "Exploitation-forestiere",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-28-86966224121"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Logging"
+    ],
+    "ar": [
+      "إستغلال الغابوي"
+    ],
+    "es": [
+      "Explotación forestal"
+    ],
+    "fr": [
+      "Exploitation forestière"
+    ],
+    "it": [
+      "Lavorazione boschiva"
+    ]
+  }
+}

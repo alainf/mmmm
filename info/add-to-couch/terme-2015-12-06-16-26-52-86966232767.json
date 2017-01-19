@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232767",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Capitalisme-et-neoliberalisme/",
+  "description": "Capitalisme et néolibéralisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455642,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Capitalism and néolibéralisme",
+  "nom-folder": "Capitalisme-et-neoliberalisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232767"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Capitalism et neo-liberalism"
+    ],
+    "ar": [
+      "الرأسمالية والليبرالية الجديدة"
+    ],
+    "es": [
+      "Capitalismo y neoliberalismo"
+    ],
+    "fr": [
+      "Capitalism and néolibéralisme"
+    ],
+    "it": [
+      "Capitalismo e neoliberismo"
+    ]
+  }
+}

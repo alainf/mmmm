@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226734",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-de-masse/NTIC/Usages-des-nouvelles-technologies/",
+  "description": "Description de Usages des nouvelles technologies",
+  "enfants": [
+    "terme-2015-12-06-16-25-12-86966226736"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272433,
+  "identifiant-drupal-parent": 272185,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Usages des nouvelles technologies",
+  "nom-folder": "Usages-des-nouvelles-technologies",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226734"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Uses of new technologies"
+    ],
+    "ar": [
+      "استخدام التكنولوجيات الجديدة"
+    ],
+    "es": [
+      "Usos de las nuevas tecnologías"
+    ],
+    "fr": [
+      "Usages des nouvelles technologies"
+    ],
+    "it": [
+      "usi delle nuove tecnologie"
+    ]
+  }
+}

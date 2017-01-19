@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220747",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industries-transformatives/Electrometallurgie/",
+  "description": "Description de Électrométallurgie",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471609,
+  "identifiant-drupal-parent": 471607,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Électrométallurgie",
+  "nom-folder": "Electrometallurgie",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220747"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Electrometallurgy"
+    ],
+    "ar": [
+      "اليكتروميتالورجي"
+    ],
+    "es": [
+      "Electrometalurgia"
+    ],
+    "fr": [
+      "Électrométallurgie"
+    ],
+    "it": [
+      "Elettrometallurgia"
+    ],
+    "ru": [
+      "Электрометаллургия"
+    ]
+  }
+}

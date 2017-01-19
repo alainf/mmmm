@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225743",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Modes-de-gouvernement-et-de-legitimation/",
+  "description": "Description de Modes de gouvernement et de légitimation des Etats démocratiques",
+  "enfants": [
+    "terme-2015-12-06-16-24-55-86966225745"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472239,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Modes de gouvernement et de légitimation des Etats démocratiques",
+  "nom-folder": "Modes-de-gouvernement-et-de-legitimation",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225743"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Modes of government and legitimization of democratic States"
+    ],
+    "ar": [
+      "أنماط حكومة و إضفاء الشرعية على الدول الديمقراطية"
+    ],
+    "es": [
+      "Modos de gobierno y de legitimación de los Estados democráticos"
+    ],
+    "fr": [
+      "Modes de gouvernement et de légitimation des Etats démocratiques"
+    ],
+    "it": [
+      "Modalità di governo e legittimazione degli stati democratici"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229533",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Etudes-urbaines-et-touristiques/Collectivites-territoriales/Patrimoine-rural/",
+  "description": "Description de Patrimoine rural",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472044,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Patrimoine rural",
+  "nom-folder": "Patrimoine-rural",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229533"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rural heritage"
+    ],
+    "ar": [
+      "التراث الريفي"
+    ],
+    "es": [
+      "Patrimonio rural"
+    ],
+    "fr": [
+      "Patrimoine rural"
+    ],
+    "it": [
+      "patrimonio rurale"
+    ]
+  }
+}

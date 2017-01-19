@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-23-29-86966220544",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/roles/employe/",
+  "description": "Description de Employé",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-29",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Employé",
+  "nom-folder": "employe",
+  "nom-machine": "terme-2015-12-06-16-23-29-86966220544",
+  "sous-type": "roles",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Employees"
+    ],
+    "ar": [
+      "عامل"
+    ],
+    "es": [
+      "Empleados"
+    ],
+    "fr": [
+      "Employé"
+    ],
+    "it": [
+      "Impiegati"
+    ]
+  }
+}

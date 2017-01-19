@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-25-86966227506",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Entreprise-et-medias/",
+  "description": "Description de Entreprise et médias",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2155,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-25",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Entreprise et médias",
+  "nom-folder": "Entreprise-et-medias",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-25-86966227506"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business and medias"
+    ],
+    "ar": [
+      "مقاولة و وسائل الإعلام"
+    ],
+    "es": [
+      "Empresas y Medios de Comunicación"
+    ],
+    "fr": [
+      "Entreprise et médias"
+    ],
+    "it": [
+      "Imprese e mezzi di comunicazione"
+    ]
+  }
+}

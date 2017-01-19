@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-25-14-86966226858",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Genres-journalistiques/",
+  "description": "Description de Genres journalistiques",
+  "enfants": [
+    "terme-2015-12-06-16-25-14-86966226861",
+    "terme-2015-12-06-16-25-14-86966226865",
+    "terme-2015-12-06-16-25-14-86966226867",
+    "terme-2015-12-06-16-25-14-86966226870",
+    "terme-2015-12-06-16-25-14-86966226873",
+    "terme-2015-12-06-16-25-14-86966226876",
+    "terme-2015-12-06-16-25-14-86966226879",
+    "terme-2015-12-06-16-25-14-86966226881",
+    "terme-2015-12-06-16-25-14-86966226884",
+    "terme-2015-12-06-16-25-14-86966226887",
+    "terme-2015-12-06-16-25-14-86966226894"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272308,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-14",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Genres journalistiques",
+  "nom-folder": "Genres-journalistiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-14-86966226858"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Journalistic genres"
+    ],
+    "ar": [
+      "الأنواع الصحفية"
+    ],
+    "es": [
+      "Géneros periodísticos"
+    ],
+    "fr": [
+      "Genres journalistiques"
+    ],
+    "it": [
+      "generi giornalistici"
+    ]
+  }
+}

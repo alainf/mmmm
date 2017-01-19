@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226371",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Enseignement-superieur---Universites/Programmes-de-maitrise/",
+  "description": "Description de Programmes de maîtrise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472047,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Programmes de maîtrise",
+  "nom-folder": "Programmes-de-maitrise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226371"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Master's degree programs"
+    ],
+    "ar": [
+      "برامج الماجستير"
+    ],
+    "es": [
+      "Programas de maestría"
+    ],
+    "fr": [
+      "Programmes de maîtrise"
+    ],
+    "it": [
+      "Laurea magistrale"
+    ]
+  }
+}

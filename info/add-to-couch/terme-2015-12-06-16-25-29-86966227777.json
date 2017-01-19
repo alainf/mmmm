@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227777",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-15189/",
+  "description": "Description de ISO 15189 système de gestion de la qualité appliquées aux laboratoires de biologie médicale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1904,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 15189 système de gestion de la qualité appliquées aux laboratoires de biologie médicale",
+  "nom-folder": "ISO-15189",
+  "nom-machine": "terme-2015-12-06-16-25-29-86966227777",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 15189 quality management system requirements particular to medical laboratories"
+    ],
+    "ar": [
+      "ISO 15189 نظام ادارة الجودة التطبيقية في المختبرات البيولوجية الطبية"
+    ],
+    "es": [
+      "15189 requisitos del sistema de gestión de calidad en los laboratorios médicos privados"
+    ],
+    "fr": [
+      "ISO 15189 système de gestion de la qualité appliquées aux laboratoires de biologie médicale"
+    ],
+    "it": [
+      "Iso 15189 requisiti del sistema di gestione delle qualità  più specifici per laboratori medici"
+    ]
+  }
+}

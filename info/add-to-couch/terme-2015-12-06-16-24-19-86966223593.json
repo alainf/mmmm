@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-19-86966223593",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Health-Sciences/Endocrinology-Metabolism/",
+  "description": "Description de Métabolisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368152,
+  "identifiant-drupal-parent": 368144,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-19",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Métabolisme",
+  "nom-folder": "Endocrinology-Metabolism",
+  "nom-machine": "terme-2015-12-06-16-24-19-86966223593",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Endocrinology metabolism"
+    ],
+    "fr": [
+      "Métabolisme"
+    ]
+  }
+}

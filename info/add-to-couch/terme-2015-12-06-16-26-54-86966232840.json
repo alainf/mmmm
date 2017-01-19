@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-26-54-86966232840",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Nationalisme/",
+  "description": "Description de Nationalisme",
+  "enfants": [
+    "terme-2015-12-06-16-26-54-86966232843",
+    "terme-2015-12-06-16-26-54-86966232845",
+    "terme-2015-12-06-16-26-54-86966232848",
+    "terme-2015-12-06-16-26-54-86966232851",
+    "terme-2015-12-06-16-26-54-86966232854",
+    "terme-2015-12-06-16-26-54-86966232857",
+    "terme-2015-12-06-16-26-54-86966232860",
+    "terme-2015-12-06-16-26-54-86966232862",
+    "terme-2015-12-06-16-26-54-86966232865",
+    "terme-2015-12-06-16-26-54-86966232868",
+    "terme-2015-12-06-16-26-54-86966232870",
+    "terme-2015-12-06-16-26-54-86966232873",
+    "terme-2015-12-06-16-26-54-86966232877"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1117,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Nationalisme",
+  "nom-folder": "Nationalisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-54-86966232840"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Nationalism"
+    ],
+    "ar": [
+      "الوطنية"
+    ],
+    "es": [
+      "Nacionalismo"
+    ],
+    "fr": [
+      "Nationalisme"
+    ],
+    "it": [
+      "Nazionalismo"
+    ]
+  }
+}

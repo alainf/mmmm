@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-31-86966227899",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/Simulation-stochastique/",
+  "description": "Description de Simulation stochastique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472310,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-31",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Simulation stochastique",
+  "nom-folder": "Simulation-stochastique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-31-86966227899"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Stochastic simulation"
+    ],
+    "ar": [
+      "المحاكاة العشوائية"
+    ],
+    "es": [
+      "Simulación Estocástica"
+    ],
+    "fr": [
+      "Simulation stochastique"
+    ],
+    "it": [
+      "simulazione stocastica"
+    ]
+  }
+}

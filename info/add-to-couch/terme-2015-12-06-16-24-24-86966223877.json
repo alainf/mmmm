@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223877",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Production-vegetale/",
+  "description": "Description de Production végétale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471930,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Production végétale",
+  "nom-folder": "Production-vegetale",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223877"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Plant production"
+    ],
+    "ar": [
+      "الإنتاج النباتي"
+    ],
+    "es": [
+      "Producción vegetal"
+    ],
+    "fr": [
+      "Production végétale"
+    ],
+    "it": [
+      "Produzione vegetale"
+    ]
+  }
+}

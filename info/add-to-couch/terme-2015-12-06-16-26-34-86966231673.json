@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-34-86966231673",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Comportements/",
+  "description": "Description de Comportements",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270373,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-34",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Comportements",
+  "nom-folder": "Comportements",
+  "nom-machine": "terme-2015-12-06-16-26-34-86966231673",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Behavior"
+    ],
+    "ar": [
+      "السلوكيات"
+    ],
+    "es": [
+      "Comportamientos"
+    ],
+    "fr": [
+      "Comportements"
+    ],
+    "it": [
+      "Comportamenti"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225367",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Nations-autochtones/",
+  "description": "Description de Nations autochtones",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455672,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Nations autochtones",
+  "nom-folder": "Nations-autochtones",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-49-86966225367"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aboriginal nations"
+    ],
+    "ar": [
+      "الأمم الأصلية"
+    ],
+    "es": [
+      "Naciones indígenas"
+    ],
+    "fr": [
+      "Nations autochtones"
+    ],
+    "it": [
+      "Popoli indigeni"
+    ]
+  }
+}

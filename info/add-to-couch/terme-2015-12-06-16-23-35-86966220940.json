@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220940",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Ressources-naturelles/",
+  "description": "Description de Ressources naturelles",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270572,
+  "identifiant-drupal-parent": 270557,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Ressources naturelles",
+  "nom-folder": "Ressources-naturelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220940"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Natural resources"
+    ],
+    "ar": [
+      "الموارد الطبيعية"
+    ],
+    "es": [
+      "Recursos naturales"
+    ],
+    "fr": [
+      "Ressources naturelles"
+    ],
+    "it": [
+      "Risorse naturali"
+    ]
+  }
+}

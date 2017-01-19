@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224532",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Techniques-de-la-sculpture/Materiaux-de-sculpture/Materiaux-d'origine-animale/",
+  "description": "Description de Matériaux d'origine animale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467047,
+  "identifiant-drupal-parent": 467044,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Matériaux d'origine animale",
+  "nom-folder": "Materiaux-d'origine-animale",
+  "nom-machine": "terme-2015-12-06-16-24-35-86966224532",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Materials of animal origin"
+    ],
+    "ar": [
+      "مواد من أصل حيواني"
+    ],
+    "es": [
+      "Materiales de origen animal"
+    ],
+    "fr": [
+      "Matériaux d'origine animale"
+    ],
+    "it": [
+      "Materiali di origine animale"
+    ]
+  }
+}

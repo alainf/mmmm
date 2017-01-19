@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-22-86966227358",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-equitable/",
+  "description": "Description de Commerce équitable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1799,
+  "identifiant-drupal-parent": 1785,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-22",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce équitable",
+  "nom-folder": "Commerce-equitable",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-22-86966227358"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fair Trade"
+    ],
+    "ar": [
+      "تجارة عادلة"
+    ],
+    "es": [
+      "Comercio justo"
+    ],
+    "fr": [
+      "Commerce équitable"
+    ],
+    "it": [
+      "Commercio equo"
+    ]
+  }
+}

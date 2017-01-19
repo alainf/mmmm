@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224608",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Genres-theatraux/Drame-(theatre)/",
+  "description": "Description de Drame (théâtre)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467068,
+  "identifiant-drupal-parent": 467063,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Drame (théâtre)",
+  "nom-folder": "Drame-(theatre)",
+  "nom-machine": "terme-2015-12-06-16-24-36-86966224608",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Drama"
+    ],
+    "ar": [
+      "دراما (فن مسرحي)"
+    ],
+    "es": [
+      "Drama"
+    ],
+    "fr": [
+      "Drame (théâtre)"
+    ],
+    "it": [
+      "Dramma (teatro)"
+    ]
+  }
+}

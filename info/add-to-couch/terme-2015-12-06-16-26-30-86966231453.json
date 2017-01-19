@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-30-86966231453",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-pratique/Pharmacie/Industrie-pharmaceutique/Medicament-generique/",
+  "description": "Description de Médicament générique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451000,
+  "identifiant-drupal-parent": 450999,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-30",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Médicament générique",
+  "nom-folder": "Medicament-generique",
+  "nom-machine": "terme-2015-12-06-16-26-30-86966231453",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Generic drug"
+    ],
+    "ar": [
+      "دواء بديل"
+    ],
+    "es": [
+      "Medicamento genérico"
+    ],
+    "fr": [
+      "Médicament générique"
+    ],
+    "it": [
+      "Farmaco generico"
+    ]
+  }
+}

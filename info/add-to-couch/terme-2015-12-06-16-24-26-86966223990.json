@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966223990",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Pisciculture/Tri-des-alevins/",
+  "description": "Description de Tri des alevins",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269067,
+  "identifiant-drupal-parent": 934,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Tri des alevins",
+  "nom-folder": "Tri-des-alevins",
+  "nom-machine": "terme-2015-12-06-16-24-26-86966223990",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fry selection"
+    ],
+    "ar": [
+      "اختيار السمكى"
+    ],
+    "es": [
+      "Selección de alevines"
+    ],
+    "fr": [
+      "Tri des alevins"
+    ],
+    "it": [
+      "Selezione degli avannotti"
+    ]
+  }
+}

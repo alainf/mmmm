@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966232984",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernance-democratique/Secret-d'etat/",
+  "description": "Description de Secret d'État",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472230,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Secret d'État",
+  "nom-folder": "Secret-d'etat",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966232984"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Government secrecy"
+    ],
+    "ar": [
+      "الحكومة السرية"
+    ],
+    "es": [
+      "Secreto de Estado"
+    ],
+    "fr": [
+      "Secret d'État"
+    ],
+    "it": [
+      "Segreto di stato"
+    ]
+  }
+}

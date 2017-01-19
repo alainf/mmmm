@@ -1,0 +1,22 @@
+{
+  "_id": "terme-2016-03-02-01-33-07-87414023262",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/temps-de-l-ecriture/moment-de-la-redaction/",
+  "description": "Description de Moment de la rédaction",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-33-07",
+  "moment-de-modification": "2016-03-02-01-33-31",
+  "nom": "Moment de la rédaction",
+  "nom-folder": "moment-de-la-redaction",
+  "nom-machine": "terme-2016-03-02-01-33-07-87414023262",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Moment de la rédaction"
+    ]
+  }
+}

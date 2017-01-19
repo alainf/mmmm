@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227138",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Banques/Transferts-d'argent/",
+  "description": "Description de Transferts d'argent",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472346,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Transferts d'argent",
+  "nom-folder": "Transferts-d'argent",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227138"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Money transfers"
+    ],
+    "ar": [
+      "نقل الاموال"
+    ],
+    "es": [
+      "Transferencia de dinero"
+    ],
+    "fr": [
+      "Transferts d'argent"
+    ],
+    "it": [
+      "trasferimenti di denaro"
+    ]
+  }
+}

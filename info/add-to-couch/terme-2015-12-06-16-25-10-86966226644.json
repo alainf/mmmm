@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226644",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Administration-des-bibliotheques/",
+  "description": "Administration des bibliothèques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1558,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Administration de bibliothèques",
+  "nom-folder": "Administration-des-bibliotheques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-10-86966226644"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Library Administration"
+    ],
+    "ar": [
+      "إدارة المكتبات"
+    ],
+    "es": [
+      "Administración de bibliotecas"
+    ],
+    "fr": [
+      "Administration de bibliothèques"
+    ],
+    "it": [
+      "Amministrazione di biblioteche"
+    ]
+  }
+}

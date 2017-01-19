@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232372",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-du-discours/Rhetorique-(discours)/",
+  "description": "Description de Rhétorique (discours)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272189,
+  "identifiant-drupal-parent": 1224,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Rhétorique (discours)",
+  "nom-folder": "Rhetorique-(discours)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232372"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rhetoric (discourse)"
+    ],
+    "ar": [
+      "البلاغة - خطب"
+    ],
+    "es": [
+      "Retórica (discurso)"
+    ],
+    "fr": [
+      "Rhétorique (discours)"
+    ],
+    "it": [
+      "Retorica (discorso)"
+    ]
+  }
+}

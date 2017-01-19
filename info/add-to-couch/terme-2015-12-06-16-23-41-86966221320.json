@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-41-86966221320",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Place-du-marche/Recherche-d'emplois/",
+  "description": "Description de Recherche d'emplois",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270714,
+  "identifiant-drupal-parent": 270651,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-41",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Recherche d'emplois",
+  "nom-folder": "Recherche-d'emplois",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-41-86966221320"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Search for jobs"
+    ],
+    "ar": [
+      "البحث عن وظيفة"
+    ],
+    "es": [
+      "Búsqueda de empleos"
+    ],
+    "fr": [
+      "Recherche d'emplois"
+    ],
+    "it": [
+      "Ricerca di lavoro"
+    ],
+    "ru": [
+      "Поиск заданий"
+    ]
+  }
+}

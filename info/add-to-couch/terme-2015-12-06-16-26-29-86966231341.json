@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-29-86966231341",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Sante-et-bien-etre/Sante-et-services-sociaux/",
+  "description": "Description de Santé et services sociaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455685,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-29",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Santé et services sociaux",
+  "nom-folder": "Sante-et-services-sociaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-29-86966231341"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health and social services"
+    ],
+    "ar": [
+      "الصحة والخدمات الاجتماعية"
+    ],
+    "es": [
+      "Salud y Servicios Sociales"
+    ],
+    "fr": [
+      "Santé et services sociaux"
+    ],
+    "it": [
+      "Salute e servizi sociali"
+    ]
+  }
+}

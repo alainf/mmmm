@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226290",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Politique/Syndicalisme/Syndicalisme-etudiant/",
+  "description": "Description de Syndicalisme étudiant",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455633,
+  "identifiant-drupal-parent": 1293,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Syndicalisme étudiant",
+  "nom-folder": "Syndicalisme-etudiant",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226290"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Students' union"
+    ],
+    "ar": [
+      "طالب الاتحاد"
+    ],
+    "es": [
+      "Consejo estudiantil"
+    ],
+    "fr": [
+      "Syndicalisme étudiant"
+    ],
+    "it": [
+      "Sindacalismo studentesco"
+    ]
+  }
+}

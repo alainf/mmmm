@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223894",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Voyages-et-missions-agricoles/",
+  "description": "Description de Voyages et missions agricoles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 923,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Voyages et missions agricoles",
+  "nom-folder": "Voyages-et-missions-agricoles",
+  "nom-machine": "terme-2015-12-06-16-24-24-86966223894",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural missions and travel"
+    ],
+    "ar": [
+      "السفر والبعثات الزراعية"
+    ],
+    "es": [
+      "Viajes y misiones agrícolas"
+    ],
+    "fr": [
+      "Voyages et missions agricoles"
+    ],
+    "it": [
+      "Viaggi e missioni agricole"
+    ]
+  }
+}

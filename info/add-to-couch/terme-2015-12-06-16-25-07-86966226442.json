@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226442",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Systemes-educatifs/",
+  "description": "Description de Systèmes éducatifs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471456,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Systèmes éducatifs",
+  "nom-folder": "Systemes-educatifs",
+  "nom-machine": "terme-2015-12-06-16-25-07-86966226442",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Education systems"
+    ],
+    "ar": [
+      "نظم التعليم"
+    ],
+    "es": [
+      "Sistemas de educación"
+    ],
+    "fr": [
+      "Systèmes éducatifs"
+    ],
+    "it": [
+      "Sistemi educativi"
+    ]
+  }
+}

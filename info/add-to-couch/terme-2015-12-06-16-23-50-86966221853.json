@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-23-50-86966221853",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Geociencias.-Medio-ambiente/",
+  "description": "Description de Geociencias. Medio ambiente",
+  "enfants": [
+    "terme-2015-12-06-16-23-50-86966221856",
+    "terme-2015-12-06-16-23-50-86966221859",
+    "terme-2015-12-06-16-23-51-86966221862",
+    "terme-2015-12-06-16-23-51-86966221865"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380836,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-50",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Geociencias. Medio ambiente",
+  "nom-folder": "Geociencias.-Medio-ambiente",
+  "nom-machine": "terme-2015-12-06-16-23-50-86966221853",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Geociencias. Medio ambiente"
+    ]
+  }
+}

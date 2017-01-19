@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229738",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Femmes-et-publicite/",
+  "description": "Description de Femmes et publicité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2095,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Femmes et publicité",
+  "nom-folder": "Femmes-et-publicite",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-02-86966229738"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Women and advertising"
+    ],
+    "ar": [
+      "نساء و الإعلان"
+    ],
+    "es": [
+      "Mujeres y publicidad"
+    ],
+    "fr": [
+      "Femmes et publicité"
+    ],
+    "it": [
+      "Donne e pubblicità"
+    ]
+  }
+}

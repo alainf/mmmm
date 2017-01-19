@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-18-86966230697",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astronomie/Astronomie-des-rayons-X/",
+  "description": "Astronomie des rayons X",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270775,
+  "identifiant-drupal-parent": 270765,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-18",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Astronomie en rayons X",
+  "nom-folder": "Astronomie-des-rayons-X",
+  "nom-machine": "terme-2015-12-06-16-26-18-86966230697",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Xray astronomy"
+    ],
+    "ar": [
+      "علم الفلك لأشعة سينية"
+    ],
+    "es": [
+      "Astronomía de rayos X"
+    ],
+    "fr": [
+      "Astronomie en rayons X"
+    ],
+    "it": [
+      "Astronomia a raggi x"
+    ]
+  }
+}

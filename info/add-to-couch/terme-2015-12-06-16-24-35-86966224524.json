@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224524",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Techniques-de-la-sculpture/Materiaux-de-sculpture/",
+  "description": "Description de Matériaux de sculpture",
+  "enfants": [
+    "terme-2015-12-06-16-24-35-86966224527",
+    "terme-2015-12-06-16-24-35-86966224529",
+    "terme-2015-12-06-16-24-35-86966224532",
+    "terme-2015-12-06-16-24-35-86966224535",
+    "terme-2015-12-06-16-24-35-86966224538",
+    "terme-2015-12-06-16-24-35-86966224540"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467044,
+  "identifiant-drupal-parent": 467042,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Matériaux de sculpture",
+  "nom-folder": "Materiaux-de-sculpture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-35-86966224524"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sculpture materials"
+    ],
+    "ar": [
+      "مواد للنحت"
+    ],
+    "es": [
+      "Materiales de escultura"
+    ],
+    "fr": [
+      "Matériaux de sculpture"
+    ],
+    "it": [
+      "Materiali di scultura"
+    ]
+  }
+}

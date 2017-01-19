@@ -1,0 +1,59 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228291",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/",
+  "description": "Description de Gestion financière ou finance d'entreprise",
+  "enfants": [
+    "terme-2015-12-06-16-25-38-86966228294",
+    "terme-2015-12-06-16-25-38-86966228297",
+    "terme-2015-12-06-16-25-38-86966228300",
+    "terme-2015-12-06-16-25-38-86966228303",
+    "terme-2015-12-06-16-25-38-86966228306",
+    "terme-2015-12-06-16-25-38-86966228309",
+    "terme-2015-12-06-16-25-38-86966228312",
+    "terme-2015-12-06-16-25-38-86966228315",
+    "terme-2015-12-06-16-25-38-86966228318",
+    "terme-2015-12-06-16-25-38-86966228321",
+    "terme-2015-12-06-16-25-38-86966228324",
+    "terme-2015-12-06-16-25-38-86966228326",
+    "terme-2015-12-06-16-25-38-86966228329",
+    "terme-2015-12-06-16-25-38-86966228332",
+    "terme-2015-12-06-16-25-38-86966228336",
+    "terme-2015-12-06-16-25-38-86966228339",
+    "terme-2015-12-06-16-25-39-86966228345",
+    "terme-2015-12-06-16-25-39-86966228349",
+    "terme-2015-12-06-16-25-39-86966228352",
+    "terme-2015-12-06-16-25-39-86966228354"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2017,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion financière ou finance d'entreprise",
+  "nom-folder": "Gestion-financiere-ou-finance-d'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-38-86966228291"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial management or corporate finance"
+    ],
+    "ar": [
+      "إدارة المالية أو تمويل الشركات"
+    ],
+    "es": [
+      "Gestión financiera o finanzas corporativas"
+    ],
+    "fr": [
+      "Gestion financière ou finance d'entreprise"
+    ],
+    "it": [
+      "Gestione finanziaria o finanza dell'impresa"
+    ]
+  }
+}

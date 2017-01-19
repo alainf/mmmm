@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174530",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Flamand-oriental/",
+  "description": "Description de Flamand oriental",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380794,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Flamand oriental",
+  "nom-folder": "Flamand-oriental",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174530",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "East flemish"
+    ],
+    "ar": [
+      "الفلمنية الشرقية"
+    ],
+    "es": [
+      "Flamenco oriental"
+    ],
+    "fr": [
+      "Flamand oriental"
+    ],
+    "it": [
+      "Fiammingo orientale"
+    ],
+    "ru": [
+      "Восточнофламандский"
+    ]
+  }
+}

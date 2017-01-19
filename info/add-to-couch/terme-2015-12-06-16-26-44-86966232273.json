@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232273",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Ethologie-(sociale)/Theories-en-ethologie/Mecanisme/",
+  "description": "Description de Mécanisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1058,
+  "identifiant-drupal-parent": 1052,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Mécanisme",
+  "nom-folder": "Mecanisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-44-86966232273"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mechanism"
+    ],
+    "ar": [
+      "آلية"
+    ],
+    "es": [
+      "Mecanismo"
+    ],
+    "fr": [
+      "Mécanisme"
+    ],
+    "it": [
+      "Meccanismo"
+    ]
+  }
+}

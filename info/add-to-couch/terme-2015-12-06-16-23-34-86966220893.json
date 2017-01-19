@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220893",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Recherche-et-developpement/",
+  "description": "Description de Recherche et développement",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270521,
+  "identifiant-drupal-parent": 270482,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Recherche et développement",
+  "nom-folder": "Recherche-et-developpement",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220893"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research and development"
+    ],
+    "ar": [
+      "بحث وتطوير"
+    ],
+    "es": [
+      "Investigación y desarrollo"
+    ],
+    "fr": [
+      "Recherche et développement"
+    ],
+    "it": [
+      "Ricerca e sviluppo"
+    ],
+    "ru": [
+      "Исследование и разработка"
+    ]
+  }
+}

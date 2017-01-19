@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227791",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-banques-et-services-financiers/",
+  "description": "Description de ISO banques et services financiers",
+  "enfants": [
+    "terme-2015-12-06-16-25-29-86966227794",
+    "terme-2015-12-06-16-25-29-86966227797",
+    "terme-2015-12-06-16-25-30-86966227800",
+    "terme-2015-12-06-16-25-30-86966227803",
+    "terme-2015-12-06-16-25-30-86966227806",
+    "terme-2015-12-06-16-25-30-86966227809"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1891,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO banques et services financiers",
+  "nom-folder": "ISO-banques-et-services-financiers",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-29-86966227791"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO - Banks and Financial Services"
+    ],
+    "ar": [
+      "ISO أبناك والخدمات المالية"
+    ],
+    "es": [
+      "ISO bancos y servicios financieros"
+    ],
+    "fr": [
+      "ISO banques et services financiers"
+    ],
+    "it": [
+      "ISO – Banche e servizi finanziari"
+    ]
+  }
+}

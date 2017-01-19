@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229280",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Strategie-d'entreprise-(CSR)/Harmonisation-des-services/",
+  "description": "Description de Harmonisation des services",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2243,
+  "identifiant-drupal-parent": 2239,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Harmonisation des services",
+  "nom-folder": "Harmonisation-des-services",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229280"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Service alignment"
+    ],
+    "ar": [
+      "المواءمة بين الخدمات"
+    ],
+    "es": [
+      "Armonización de los servicios"
+    ],
+    "fr": [
+      "Harmonisation des services"
+    ],
+    "it": [
+      "Armonizzazione dei servizi"
+    ]
+  }
+}

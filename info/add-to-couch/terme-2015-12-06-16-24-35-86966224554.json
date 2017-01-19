@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224554",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Typologies-des-sculptures/Sculpture-de-la-Renaissance/",
+  "description": "Description de Sculpture de la Renaissance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467055,
+  "identifiant-drupal-parent": 467053,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Sculpture de la Renaissance",
+  "nom-folder": "Sculpture-de-la-Renaissance",
+  "nom-machine": "terme-2015-12-06-16-24-35-86966224554",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Renaissance sculpture"
+    ],
+    "ar": [
+      "النحت في عصر النهضة"
+    ],
+    "es": [
+      "Escultura del Renacimiento"
+    ],
+    "fr": [
+      "Sculpture de la Renaissance"
+    ],
+    "it": [
+      "Scultura del Rinascimento"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224317",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/Anesthesiologie/",
+  "description": "Description de Anesthésiologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269044,
+  "identifiant-drupal-parent": 269028,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Anesthésiologie",
+  "nom-folder": "Anesthesiologie",
+  "nom-machine": "terme-2015-12-06-16-24-31-86966224317",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anesthesiology"
+    ],
+    "ar": [
+      "علم التخدير"
+    ],
+    "es": [
+      "Anesteseología"
+    ],
+    "fr": [
+      "Anesthésiologie"
+    ],
+    "it": [
+      "Anestesiologia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232769",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Colonialisme/",
+  "description": "Description de Colonialisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270721,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Colonialisme",
+  "nom-folder": "Colonialisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232769"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Colonialism"
+    ],
+    "ar": [
+      "إستعمارية"
+    ],
+    "es": [
+      "Colonialismo"
+    ],
+    "fr": [
+      "Colonialisme"
+    ],
+    "it": [
+      "Colonialismo"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231933",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Laicite,-religions-et-politique/",
+  "description": "Laà¯cité, religions et politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466763,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Laïcité, religions et politique",
+  "nom-folder": "Laicite,-religions-et-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-38-86966231933"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Secularism, religions and politics"
+    ],
+    "ar": [
+      "علمانية ، أديان و سياسة"
+    ],
+    "es": [
+      "Secularismo, religiones y política"
+    ],
+    "fr": [
+      "Laïcité, religions et politique"
+    ],
+    "it": [
+      "Laicità, religioni e politica"
+    ]
+  }
+}

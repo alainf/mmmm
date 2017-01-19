@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232624",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Acteurs-politiques/Organisations-non-gouvernementales/",
+  "description": "Description de Organisations non gouvernementales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1109,
+  "identifiant-drupal-parent": 1101,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Organisations non gouvernementales",
+  "nom-folder": "Organisations-non-gouvernementales",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232624"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Non-governmental organizations"
+    ],
+    "ar": [
+      "المنظمات غير الحكومية"
+    ],
+    "es": [
+      "Organizaciones no gubernamentales"
+    ],
+    "fr": [
+      "Organisations non gouvernementales"
+    ],
+    "it": [
+      "Organizzazioni non governative"
+    ]
+  }
+}

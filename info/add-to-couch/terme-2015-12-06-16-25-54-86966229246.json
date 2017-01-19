@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229246",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Criteres-de-la-resp-sociale-et-env-des-entreprises/Criteres-sociaux/",
+  "description": "Description de Critères sociaux",
+  "enfants": [
+    "terme-2015-12-06-16-25-54-86966229249"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2235,
+  "identifiant-drupal-parent": 2231,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Critères sociaux",
+  "nom-folder": "Criteres-sociaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-54-86966229246"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social criteria"
+    ],
+    "ar": [
+      "معايير إجتماعية"
+    ],
+    "es": [
+      "Criterios sociales"
+    ],
+    "fr": [
+      "Critères sociaux"
+    ],
+    "it": [
+      "Criteri sociali"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226272",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Politique/Politique-canadienne/",
+  "description": "Description de Politique canadienne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455676,
+  "identifiant-drupal-parent": 1258,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Politique canadienne",
+  "nom-folder": "Politique-canadienne",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226272"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Canadian politics"
+    ],
+    "ar": [
+      "السياسة الكندية"
+    ],
+    "es": [
+      "Política canadiense"
+    ],
+    "fr": [
+      "Politique canadienne"
+    ],
+    "it": [
+      "Politica canadese"
+    ]
+  }
+}

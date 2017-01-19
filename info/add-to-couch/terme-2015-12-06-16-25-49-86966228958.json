@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-49-86966228958",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Reseaux-techniques/",
+  "description": "Description de Réseaux techniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471958,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-49",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Réseaux techniques",
+  "nom-folder": "Reseaux-techniques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-49-86966228958"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Technical networks"
+    ],
+    "ar": [
+      "الشبكات التقنية"
+    ],
+    "es": [
+      "Redes técnicas"
+    ],
+    "fr": [
+      "Réseaux techniques"
+    ],
+    "it": [
+      "Reti tecniche"
+    ]
+  }
+}

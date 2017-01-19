@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225974",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Produits-derives/Contrat-a-terme/",
+  "description": "Description de Contrat à terme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451708,
+  "identifiant-drupal-parent": 452221,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Contrat à terme",
+  "nom-folder": "Contrat-a-terme",
+  "nom-machine": "terme-2015-12-06-16-24-59-86966225974",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Futures"
+    ],
+    "ar": [
+      "عقد آجل"
+    ],
+    "es": [
+      "Contrato de futuros"
+    ],
+    "fr": [
+      "Contrat à terme"
+    ],
+    "it": [
+      "Contratto a termine"
+    ]
+  }
+}

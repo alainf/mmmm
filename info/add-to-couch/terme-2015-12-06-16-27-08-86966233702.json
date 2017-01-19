@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233702",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Industrie-de-l'energie/",
+  "description": "Description de Industrie de l'énergie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467107,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Industrie de l'énergie",
+  "nom-folder": "Industrie-de-l'energie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-08-86966233702"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy industry"
+    ],
+    "ar": [
+      "صناعة الطاقة"
+    ],
+    "es": [
+      "Industria de la energía"
+    ],
+    "fr": [
+      "Industrie de l'énergie"
+    ],
+    "it": [
+      "Industria dell'energia"
+    ]
+  }
+}

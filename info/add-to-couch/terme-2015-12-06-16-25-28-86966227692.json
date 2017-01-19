@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227692",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/Methodes-de-planification/Production-optimisee/",
+  "description": "Description de Technique de production optimisée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1869,
+  "identifiant-drupal-parent": 1858,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Technique de production optimisée",
+  "nom-folder": "Production-optimisee",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227692"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Optimized Production Techniques"
+    ],
+    "ar": [
+      "تكنولوجيا الإنتاج الأمثل"
+    ],
+    "es": [
+      "Técnica de producción optimizada"
+    ],
+    "fr": [
+      "Technique de production optimisée"
+    ],
+    "it": [
+      "Tecniche della produzione ottimizzata"
+    ]
+  }
+}

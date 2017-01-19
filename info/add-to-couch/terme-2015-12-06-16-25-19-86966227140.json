@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227140",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Genie-civil/",
+  "description": "Description de Génie civil",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472383,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Génie civil",
+  "nom-folder": "Genie-civil",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227140"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Civil engineering"
+    ],
+    "ar": [
+      "هندسة مدنية"
+    ],
+    "es": [
+      "Ingeniería civil"
+    ],
+    "fr": [
+      "Génie civil"
+    ],
+    "it": [
+      "Ingegneria civile"
+    ]
+  }
+}

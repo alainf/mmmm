@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233593",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Sociologie-economique-des-territoires/Dynamique-territoriale/",
+  "description": "Description de Dynamique territoriale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472347,
+  "identifiant-drupal-parent": 472352,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Dynamique territoriale",
+  "nom-folder": "Dynamique-territoriale",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-06-86966233593"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Territorial dynamics"
+    ],
+    "ar": [
+      "ديناميات الإقليمية"
+    ],
+    "es": [
+      "Dinámica territorial"
+    ],
+    "fr": [
+      "Dynamique territoriale"
+    ],
+    "it": [
+      "dinamica territoriale"
+    ]
+  }
+}

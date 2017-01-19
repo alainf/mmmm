@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226046",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/Traitement-automatique-du-langage-naturel/Expansion-de-requete/",
+  "description": "Description de Expansion de requête",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472505,
+  "identifiant-drupal-parent": 472500,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Expansion de requête",
+  "nom-folder": "Expansion-de-requete",
+  "nom-machine": "terme-2015-12-06-16-25-00-86966226046",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Query expansion"
+    ],
+    "ar": [
+      "توسيع الإستعلام"
+    ],
+    "es": [
+      "Expansión de consultas"
+    ],
+    "fr": [
+      "Expansion de requête"
+    ],
+    "it": [
+      "Espansione di richiesta"
+    ]
+  }
+}

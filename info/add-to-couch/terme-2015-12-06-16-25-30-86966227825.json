@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227825",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/AMDEC/",
+  "description": "Description de Analyse des Modes de Défaillance, de leurs Effets et de leur Criticité ou AMDEC",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1916,
+  "identifiant-drupal-parent": 1910,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Analyse des Modes de Défaillance, de leurs Effets et de leur Criticité ou AMDEC",
+  "nom-folder": "AMDEC",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227825",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Failure mode effects and criticality analysis AMDEC"
+    ],
+    "ar": [
+      "تحليل لأوضاع الفشل، والآثار والحرجية أو"
+    ],
+    "es": [
+      "Análisis modal de fallos y efectos y su criticidad AMFEC"
+    ],
+    "fr": [
+      "Analyse des Modes de Défaillance, de leurs Effets et de leur Criticité ou AMDEC"
+    ],
+    "it": [
+      "AMDEC Metodo di analisi dei modi e degli effetti del guasto e la sua criticità"
+    ]
+  }
+}

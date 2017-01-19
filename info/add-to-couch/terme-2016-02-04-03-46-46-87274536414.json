@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-03-46-46-87274536414",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Vieux-slave/",
+  "description": "Description de Vieux-slave",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "cu",
+  "ISO-639-2": "chu",
+  "ISO-639-3": "chu",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-46-46",
+  "moment-de-modification": "2016-02-04-03-47-26",
+  "nom": "Vieux-slave",
+  "nom-folder": "Vieux-slave",
+  "nom-machine": "terme-2016-02-04-03-46-46-87274536414",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Vieux-slave",
+  "nomLangues": {
+    "en": [
+      "Old church slavonic"
+    ],
+    "es": [
+      "Antiguo eslavo eclesiástico"
+    ],
+    "fr": [
+      "Vieux-slave"
+    ],
+    "it": [
+      "Slavo ecclesiastico antico"
+    ],
+    "ru": [
+      "Старославянский"
+    ]
+  }
+}

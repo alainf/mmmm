@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-59-86966229579",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Choix-de-la-marque-et-son-conditionnement/",
+  "description": "Description de Choix de la marque et son conditionnement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2048,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-25-59",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Choix de la marque et son conditionnement",
+  "nom-folder": "Choix-de-la-marque-et-son-conditionnement",
+  "nom-machine": "terme-2015-12-06-16-25-59-86966229579",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Choice of brand and packaging"
+    ],
+    "ar": [
+      "اختيار العلامة التجارية و تهيئتها"
+    ],
+    "es": [
+      "Elección de la marca y su acondicionamiento"
+    ],
+    "fr": [
+      "Choix de la marque et son conditionnement"
+    ],
+    "it": [
+      "Scelta del marchio e il suo condizionamento"
+    ]
+  }
+}

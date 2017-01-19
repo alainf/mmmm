@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229128",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Comptabilite-nationale,-indicateurs-macro/",
+  "description": "Description de Comptabilité nationale et indicateurs macroéconomiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270944,
+  "identifiant-drupal-parent": 270940,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptabilité nationale et indicateurs macroéconomiques",
+  "nom-folder": "Comptabilite-nationale,-indicateurs-macro",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-52-86966229128"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National accounting and macroeconomic indicators"
+    ],
+    "ar": [
+      "محاسبة وطنية ومؤشرات الاقتصاد الشامل"
+    ],
+    "es": [
+      "Contabilidad nacional e indicadores macroeconómicos"
+    ],
+    "fr": [
+      "Comptabilité nationale et indicateurs macroéconomiques"
+    ],
+    "it": [
+      "Contabilità nazionale ed indicatori macroeconomici"
+    ]
+  }
+}

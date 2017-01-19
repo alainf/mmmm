@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229482",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theorie-du-conflit/",
+  "description": "Description de Théorie du conflit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2281,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théorie du conflit",
+  "nom-folder": "Theorie-du-conflit",
+  "nom-machine": "terme-2015-12-06-16-25-58-86966229482",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conflict Theory"
+    ],
+    "ar": [
+      "نظرية الصراع"
+    ],
+    "es": [
+      "Teoría del conflicto"
+    ],
+    "fr": [
+      "Théorie du conflit"
+    ],
+    "it": [
+      "Teoria del conflitto"
+    ]
+  }
+}

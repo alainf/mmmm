@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229151",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Comptes-integres/",
+  "description": "Description de Comptes intégrés",
+  "enfants": [
+    "terme-2015-12-06-16-25-52-86966229154",
+    "terme-2015-12-06-16-25-52-86966229163"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270950,
+  "identifiant-drupal-parent": 270940,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptes intégrés",
+  "nom-folder": "Comptes-integres",
+  "nom-machine": "terme-2015-12-06-16-25-52-86966229151",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Integrated accounts"
+    ],
+    "ar": [
+      "حسابات المتكاملة"
+    ],
+    "es": [
+      "Cuentas integradas"
+    ],
+    "fr": [
+      "Comptes intégrés"
+    ],
+    "it": [
+      "Conti integrati"
+    ]
+  }
+}

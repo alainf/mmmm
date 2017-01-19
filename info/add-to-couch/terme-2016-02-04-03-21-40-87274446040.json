@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-03-21-40-87274446040",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Avar/",
+  "description": "Description de Avar",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "av",
+  "ISO-639-2": "ava",
+  "ISO-639-3": "ava",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-03-21-40",
+  "moment-de-modification": "2016-02-04-03-22-19",
+  "nom": "Avar",
+  "nom-folder": "Avar",
+  "nom-machine": "terme-2016-02-04-03-21-40-87274446040",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Avar",
+  "nomLangues": {
+    "en": [
+      "Avaric"
+    ],
+    "ar": [
+      "أوارية"
+    ],
+    "es": [
+      "Avar"
+    ],
+    "fr": [
+      "Avar"
+    ],
+    "it": [
+      "Avaro"
+    ],
+    "ru": [
+      "Аварский"
+    ]
+  }
+}

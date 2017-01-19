@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220899",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Syndicalisme/",
+  "description": "Description de Syndicalisme",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471829,
+  "identifiant-drupal-parent": 270482,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Syndicalisme",
+  "nom-folder": "Syndicalisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220899"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Syndicalism"
+    ],
+    "ar": [
+      "الحركة النقابية"
+    ],
+    "es": [
+      "Movimiento sindical"
+    ],
+    "fr": [
+      "Syndicalisme"
+    ],
+    "it": [
+      "Movimento sindacale"
+    ]
+  }
+}

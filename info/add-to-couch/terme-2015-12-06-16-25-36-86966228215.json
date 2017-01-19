@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-36-86966228215",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-systemes-d'information/Gestion-de-la-relation-client/",
+  "description": "Description de Gestion de la relation client",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1997,
+  "identifiant-drupal-parent": 1992,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-36",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion de la relation client",
+  "nom-folder": "Gestion-de-la-relation-client",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-36-86966228215"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Customer Relationship Management"
+    ],
+    "ar": [
+      "إدارة علاقة الزبون"
+    ],
+    "es": [
+      "Administración basada en la relación con los clientes"
+    ],
+    "fr": [
+      "Gestion de la relation client"
+    ],
+    "it": [
+      "Gestione delle relazioni con i clienti"
+    ]
+  }
+}

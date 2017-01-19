@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223780",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Agriculture-et-environnement/Pollution-de-l'air/",
+  "description": "Description de Pollution de l'air",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268974,
+  "identifiant-drupal-parent": 896,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Pollution de l'air",
+  "nom-folder": "Pollution-de-l'air",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223780"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Air pollution"
+    ],
+    "ar": [
+      "تلوث الهواء"
+    ],
+    "es": [
+      "Contaminación del aire"
+    ],
+    "fr": [
+      "Pollution de l'air"
+    ],
+    "it": [
+      "inquinamento atmosferico"
+    ]
+  }
+}

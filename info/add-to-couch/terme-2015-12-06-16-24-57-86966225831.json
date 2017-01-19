@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225831",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finance-de-marche/",
+  "description": "Description de Finance de marché",
+  "enfants": [
+    "terme-2015-12-06-16-24-57-86966225834",
+    "terme-2015-12-06-16-24-57-86966225837",
+    "terme-2015-12-06-16-24-57-86966225840",
+    "terme-2015-12-06-16-24-57-86966225843",
+    "terme-2015-12-06-16-24-57-86966225845",
+    "terme-2015-12-06-16-24-57-86966225849",
+    "terme-2015-12-06-16-24-57-86966225851"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271332,
+  "identifiant-drupal-parent": 271320,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Finance de marché",
+  "nom-folder": "Finance-de-marche",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225831"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial market"
+    ],
+    "ar": [
+      "مالية السوق"
+    ],
+    "es": [
+      "Finanzas de mercado"
+    ],
+    "fr": [
+      "Finance de marché"
+    ],
+    "it": [
+      "Finanze di mercato"
+    ]
+  }
+}

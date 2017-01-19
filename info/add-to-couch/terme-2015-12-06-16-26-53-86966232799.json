@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232799",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Ecologisme/Eco-syndicalisme/",
+  "description": "Description de Éco-syndicalisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1128,
+  "identifiant-drupal-parent": 1114,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Éco-syndicalisme",
+  "nom-folder": "Eco-syndicalisme",
+  "nom-machine": "terme-2015-12-06-16-26-53-86966232799",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Green unionism"
+    ],
+    "ar": [
+      "نقابية"
+    ],
+    "es": [
+      "Sindicalismo verde"
+    ],
+    "fr": [
+      "Éco-syndicalisme"
+    ],
+    "it": [
+      "Sindacalismo verde"
+    ]
+  }
+}

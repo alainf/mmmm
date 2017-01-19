@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224415",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Art-contemporain/Art-africain-contemporain/",
+  "description": "Description de Art africain contemporain",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472340,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Art africain contemporain",
+  "nom-folder": "Art-africain-contemporain",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-33-86966224415"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Contemporary african art"
+    ],
+    "ar": [
+      "فنون الافريقية المعاصرة"
+    ],
+    "es": [
+      "Arte africano contemporanéo"
+    ],
+    "fr": [
+      "Art africain contemporain"
+    ],
+    "it": [
+      "arte africana contemporanea"
+    ]
+  }
+}

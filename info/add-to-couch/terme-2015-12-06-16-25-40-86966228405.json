@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-40-86966228405",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/Transport-ferroviaire/",
+  "description": "Description de Transport ferroviaire",
+  "enfants": [
+    "terme-2015-12-06-16-25-40-86966228408",
+    "terme-2015-12-06-16-25-40-86966228412"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272291,
+  "identifiant-drupal-parent": 2037,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-40",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Transport ferroviaire",
+  "nom-folder": "Transport-ferroviaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-40-86966228405"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rail transport"
+    ],
+    "ar": [
+      "النقل بالسكك الحديدية"
+    ],
+    "es": [
+      "Transporte ferroviario"
+    ],
+    "fr": [
+      "Transport ferroviaire"
+    ],
+    "it": [
+      "trasporto ferroviario"
+    ]
+  }
+}

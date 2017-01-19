@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231587",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-du-langage/",
+  "description": "Description de Philosophie du langage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451245,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie du langage",
+  "nom-folder": "Philosophie-du-langage",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-33-86966231587"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy of Language"
+    ],
+    "ar": [
+      "فلسفة اللغة"
+    ],
+    "es": [
+      "Filosofía del lenguaje"
+    ],
+    "fr": [
+      "Philosophie du langage"
+    ],
+    "it": [
+      "filosofia del linguaggio"
+    ]
+  }
+}

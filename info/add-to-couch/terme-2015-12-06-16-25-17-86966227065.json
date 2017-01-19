@@ -1,0 +1,54 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227065",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/",
+  "description": "Description de Administration des affaires",
+  "enfants": [
+    "terme-2015-12-06-16-25-17-86966227068",
+    "terme-2015-12-06-16-25-17-86966227071",
+    "terme-2015-12-06-16-25-18-86966227092",
+    "terme-2015-12-06-16-25-18-86966227097",
+    "terme-2015-12-06-16-25-18-86966227103",
+    "terme-2015-12-06-16-25-18-86966227106",
+    "terme-2015-12-06-16-25-18-86966227125",
+    "terme-2015-12-06-16-25-19-86966227175",
+    "terme-2015-12-06-16-25-19-86966227178",
+    "terme-2015-12-06-16-25-19-86966227181",
+    "terme-2015-12-06-16-25-19-86966227187",
+    "terme-2015-12-06-16-25-19-86966227193",
+    "terme-2015-12-06-16-25-19-86966227196",
+    "terme-2015-12-06-16-25-19-86966227199",
+    "terme-2015-12-06-16-25-20-86966227202"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272222,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Administration des affaires",
+  "nom-folder": "Administration-des-affaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227065"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business administration"
+    ],
+    "ar": [
+      "إدارة الأعمال"
+    ],
+    "es": [
+      "Administración de empresas|Administración de Negocios"
+    ],
+    "fr": [
+      "Administration des affaires"
+    ],
+    "it": [
+      "Amministrazione aziendale"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-25-86966227517",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Histoire-de-la-communication-d'entreprise/",
+  "description": "Description de Histoire de la communication d'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2158,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-25",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Histoire de la communication d'entreprise",
+  "nom-folder": "Histoire-de-la-communication-d'entreprise",
+  "nom-machine": "terme-2015-12-06-16-25-25-86966227517",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of Corporate Communications"
+    ],
+    "ar": [
+      "تاريخ الإتصالات المؤسسية"
+    ],
+    "es": [
+      "Historia de la comunicación corporativa"
+    ],
+    "fr": [
+      "Histoire de la communication d'entreprise"
+    ],
+    "it": [
+      "Storia della comunicazione aziendale"
+    ]
+  }
+}

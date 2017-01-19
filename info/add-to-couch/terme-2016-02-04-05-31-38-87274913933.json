@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-31-38-87274913933",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Marathi/",
+  "description": "Description de Marathi",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "mr",
+  "ISO-639-2": "mar",
+  "ISO-639-3": "mar",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-31-38",
+  "moment-de-modification": "2016-02-04-05-32-13",
+  "nom": "Marathi",
+  "nom-folder": "Marathi",
+  "nom-machine": "terme-2016-02-04-05-31-38-87274913933",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Marathi_(langue)",
+  "nomLangues": {
+    "en": [
+      "Marathi"
+    ],
+    "ar": [
+      "مراثية"
+    ],
+    "es": [
+      "Marathi"
+    ],
+    "fr": [
+      "Marathi"
+    ],
+    "it": [
+      "Marathi"
+    ],
+    "ru": [
+      "Маратхи"
+    ]
+  }
+}

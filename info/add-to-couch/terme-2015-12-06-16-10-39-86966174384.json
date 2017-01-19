@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-39-86966174384",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/aucun/",
+  "description": "Description de Aucun",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-39",
+  "moment-de-modification": "2015-12-20-05-35-10",
+  "nom": "Aucun",
+  "nom-folder": "aucun",
+  "nom-machine": "terme-2015-12-06-16-10-39-86966174384",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "None"
+    ],
+    "ar": [
+      "لا شيء"
+    ],
+    "es": [
+      "Ninguno"
+    ],
+    "fr": [
+      "Aucun"
+    ],
+    "it": [
+      "Nessuno"
+    ]
+  }
+}

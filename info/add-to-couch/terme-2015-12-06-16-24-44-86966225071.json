@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225071",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musique/Industrie-de-la-musique/",
+  "description": "Description de Industrie de la musique",
+  "enfants": [
+    "terme-2015-12-06-16-24-44-86966225074",
+    "terme-2015-12-06-16-24-44-86966225077",
+    "terme-2015-12-06-16-24-44-86966225080",
+    "terme-2015-12-06-16-24-44-86966225082",
+    "terme-2015-12-06-16-24-44-86966225086"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466994,
+  "identifiant-drupal-parent": 466993,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Industrie de la musique",
+  "nom-folder": "Industrie-de-la-musique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-44-86966225071"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Music industry"
+    ],
+    "ar": [
+      "صناعة الموسيقى"
+    ],
+    "es": [
+      "Industria de la música"
+    ],
+    "fr": [
+      "Industrie de la musique"
+    ],
+    "it": [
+      "industria della musica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-18-86966230702",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astronomie/Astronomie-galactique/",
+  "description": "Description de Astronomie galactique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270768,
+  "identifiant-drupal-parent": 270765,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-18",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Astronomie galactique",
+  "nom-folder": "Astronomie-galactique",
+  "nom-machine": "terme-2015-12-06-16-26-18-86966230702",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Galactic astronomy"
+    ],
+    "ar": [
+      "علم الفلك المجرة"
+    ],
+    "es": [
+      "Astronomía galáctica"
+    ],
+    "fr": [
+      "Astronomie galactique"
+    ],
+    "it": [
+      "Astronomia galattica"
+    ]
+  }
+}

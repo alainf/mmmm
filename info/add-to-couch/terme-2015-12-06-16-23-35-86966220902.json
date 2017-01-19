@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220902",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/",
+  "description": "Description de Secteurs industriels",
+  "enfants": [
+    "terme-2015-12-06-16-23-35-86966220905",
+    "terme-2015-12-06-16-23-35-86966220908",
+    "terme-2015-12-06-16-23-35-86966220911",
+    "terme-2015-12-06-16-23-35-86966220913",
+    "terme-2015-12-06-16-23-35-86966220925",
+    "terme-2015-12-06-16-23-35-86966220935",
+    "terme-2015-12-06-16-23-35-86966220937",
+    "terme-2015-12-06-16-23-35-86966220940",
+    "terme-2015-12-06-16-23-35-86966220943"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270557,
+  "identifiant-drupal-parent": 270471,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Secteurs industriels",
+  "nom-folder": "Secteurs-industriels",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220902"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial sectors"
+    ],
+    "ar": [
+      "القطاعات الصناعية"
+    ],
+    "es": [
+      "Sectores industriales"
+    ],
+    "fr": [
+      "Secteurs industriels"
+    ],
+    "it": [
+      "Settori industriali"
+    ]
+  }
+}

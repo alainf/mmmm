@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221067",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Politique/Actions-pour-la-democratie-dans-le-monde/",
+  "description": "Description de Actions pour la démocratie dans le monde",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1686,
+  "identifiant-drupal-parent": 1666,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Actions pour la démocratie dans le monde",
+  "nom-folder": "Actions-pour-la-democratie-dans-le-monde",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221067"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Actions for world democracy"
+    ],
+    "ar": [
+      "العمل من أجل الديمقراطية في العالم"
+    ],
+    "es": [
+      "Acciones para la democracia en el mundo"
+    ],
+    "fr": [
+      "Actions pour la démocratie dans le monde"
+    ],
+    "it": [
+      "Azioni per la democrazia nel mondo"
+    ],
+    "ru": [
+      "Действия для демократии в мире"
+    ]
+  }
+}

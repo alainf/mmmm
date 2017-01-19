@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-13-86966223219",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Physics/Nuclear-Energy/",
+  "description": "Description de Nuclear energy",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369233,
+  "identifiant-drupal-parent": 369223,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-13",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Nuclear energy",
+  "nom-folder": "Nuclear-Energy",
+  "nom-machine": "terme-2015-12-06-16-24-13-86966223219",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Nuclear energy"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224732",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Techniques-cinematographiques/Techniques-de-projection/",
+  "description": "Description de Techniques de projection",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466892,
+  "identifiant-drupal-parent": 466889,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Techniques de projection",
+  "nom-folder": "Techniques-de-projection",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224732"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Projection techniques"
+    ],
+    "ar": [
+      "تقنيات الإسقاط"
+    ],
+    "es": [
+      "Técnicas de proyección"
+    ],
+    "fr": [
+      "Techniques de projection"
+    ],
+    "it": [
+      "tecniche di proiezione"
+    ]
+  }
+}

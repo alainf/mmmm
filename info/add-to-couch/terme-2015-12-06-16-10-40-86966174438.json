@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174438",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Arapaho/",
+  "description": "Description de Arapaho",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317576,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Arapaho",
+  "nom-folder": "Arapaho",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174438",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arapaho"
+    ],
+    "ar": [
+      "أرباهو"
+    ],
+    "es": [
+      "Arapaho"
+    ],
+    "fr": [
+      "Arapaho"
+    ],
+    "it": [
+      "Arapaho"
+    ],
+    "ru": [
+      "Арапахо"
+    ]
+  }
+}

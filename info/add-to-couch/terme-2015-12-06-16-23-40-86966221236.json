@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221236",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/Jai-Alai/",
+  "description": "Description de Jai-alai",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270686,
+  "identifiant-drupal-parent": 270649,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Jai-alai",
+  "nom-folder": "Jai-Alai",
+  "nom-machine": "terme-2015-12-06-16-23-40-86966221236",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Jai alai"
+    ],
+    "ar": [
+      "جاي الآي"
+    ],
+    "es": [
+      "Cesta punta"
+    ],
+    "fr": [
+      "Jai-alai"
+    ],
+    "it": [
+      "Jai alai"
+    ]
+  }
+}

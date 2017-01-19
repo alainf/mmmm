@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-03-86966222608",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Environmental-Sciences/Fisheries/",
+  "description": "Description de Fisheries",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369025,
+  "identifiant-drupal-parent": 369015,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-03",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Fisheries",
+  "nom-folder": "Fisheries",
+  "nom-machine": "terme-2015-12-06-16-24-03-86966222608",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Fisheries"
+    ]
+  }
+}

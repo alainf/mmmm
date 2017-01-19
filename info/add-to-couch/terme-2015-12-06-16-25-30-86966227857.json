@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227857",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/Gestion-de-la-qualite-totale/",
+  "description": "Description de Gestion de la qualité totale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1941,
+  "identifiant-drupal-parent": 1910,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion de la qualité totale",
+  "nom-folder": "Gestion-de-la-qualite-totale",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227857",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Total Quality Management TQM"
+    ],
+    "ar": [
+      "إدارة الجودة الشاملة"
+    ],
+    "es": [
+      "Gestión de la calidad total"
+    ],
+    "fr": [
+      "Gestion de la qualité totale"
+    ],
+    "it": [
+      "Gestione della qualità totale"
+    ]
+  }
+}

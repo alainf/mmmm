@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234301",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/groupe/groupe-de-recherche/",
+  "description": "Description de Groupe de recherche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368137,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Groupe de recherche",
+  "nom-folder": "groupe-de-recherche",
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234301",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research group"
+    ],
+    "es": [
+      "Grupo de investigación"
+    ],
+    "fr": [
+      "Groupe de recherche"
+    ],
+    "it": [
+      "Gruppo di ricerca"
+    ]
+  }
+}

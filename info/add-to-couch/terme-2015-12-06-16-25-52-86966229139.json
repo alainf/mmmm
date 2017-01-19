@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229139",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Comptes-d'operations-courantes/Compte-d'exploitation/",
+  "description": "Description de Compte d'exploitation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270953,
+  "identifiant-drupal-parent": 270951,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Compte d'exploitation",
+  "nom-folder": "Compte-d'exploitation",
+  "nom-machine": "terme-2015-12-06-16-25-52-86966229139",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Generation of income account"
+    ],
+    "ar": [
+      "حساب الإستغلال"
+    ],
+    "es": [
+      "Cuenta de explotación"
+    ],
+    "fr": [
+      "Compte d'exploitation"
+    ],
+    "it": [
+      "Conto della generazione dei redditi primari"
+    ]
+  }
+}

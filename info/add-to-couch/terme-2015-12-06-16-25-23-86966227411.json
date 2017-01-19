@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227411",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Theories-du-commerce-international/",
+  "description": "Description de Théories du commerce international",
+  "enfants": [
+    "terme-2015-12-06-16-25-23-86966227415",
+    "terme-2015-12-06-16-25-23-86966227417",
+    "terme-2015-12-06-16-25-23-86966227421",
+    "terme-2015-12-06-16-25-23-86966227424",
+    "terme-2015-12-06-16-25-23-86966227427",
+    "terme-2015-12-06-16-25-23-86966227429",
+    "terme-2015-12-06-16-25-23-86966227433",
+    "terme-2015-12-06-16-25-23-86966227435",
+    "terme-2015-12-06-16-25-23-86966227439",
+    "terme-2015-12-06-16-25-24-86966227441",
+    "terme-2015-12-06-16-25-24-86966227444"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1817,
+  "identifiant-drupal-parent": 1802,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Théories du commerce international",
+  "nom-folder": "Theories-du-commerce-international",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-23-86966227411"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories of international trade"
+    ],
+    "ar": [
+      "نظريات التجارة الدولية"
+    ],
+    "es": [
+      "Teorías del Comercio Internacional"
+    ],
+    "fr": [
+      "Théories du commerce international"
+    ],
+    "it": [
+      "Teorie del commercio internazionale"
+    ]
+  }
+}

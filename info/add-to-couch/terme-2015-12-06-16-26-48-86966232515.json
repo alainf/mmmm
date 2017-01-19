@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232515",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Comportement-non-verbal/",
+  "description": "Description de Comportement non-verbal",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1071,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Comportement non-verbal",
+  "nom-folder": "Comportement-non-verbal",
+  "nom-machine": "terme-2015-12-06-16-26-48-86966232515",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Non-verbal Behavior"
+    ],
+    "ar": [
+      "السلوك غير اللفظي"
+    ],
+    "es": [
+      "Comportamiento no verbal"
+    ],
+    "fr": [
+      "Comportement non-verbal"
+    ],
+    "it": [
+      "Comportamento non verbale"
+    ]
+  }
+}

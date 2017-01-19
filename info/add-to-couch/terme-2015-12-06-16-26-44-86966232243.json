@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232243",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Demographie/",
+  "description": "Description de Démographie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 996,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Démographie",
+  "nom-folder": "Demographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-44-86966232243"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Demography"
+    ],
+    "ar": [
+      "ديموغرافيا"
+    ],
+    "es": [
+      "Demografía"
+    ],
+    "fr": [
+      "Démographie"
+    ],
+    "it": [
+      "Demografia"
+    ]
+  }
+}

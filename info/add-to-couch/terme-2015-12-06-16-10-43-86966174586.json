@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-43-86966174586",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Interlingua/",
+  "description": "Description de Interlingua",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317613,
+  "ISO-639-1": "ia",
+  "ISO-639-2": "ina",
+  "ISO-639-3": "ina",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-43",
+  "moment-de-modification": "2016-02-04-04-40-13",
+  "nom": "Interlingua",
+  "nom-folder": "Interlingua",
+  "nom-machine": "terme-2015-12-06-16-10-43-86966174586",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Interlingua_(IALA)",
+  "nomLangues": {
+    "en": [
+      "Interlingua"
+    ],
+    "ar": [
+      "إنترلنغوا"
+    ],
+    "es": [
+      "Interlingua"
+    ],
+    "fr": [
+      "Interlingua"
+    ],
+    "it": [
+      "Interlingua"
+    ],
+    "ru": [
+      "Интерлингва"
+    ]
+  }
+}

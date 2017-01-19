@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224286",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/Reproduction-animale/Grenouilles/",
+  "description": "Description de Grenouilles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269012,
+  "identifiant-drupal-parent": 269002,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Grenouilles",
+  "nom-folder": "Grenouilles",
+  "nom-machine": "terme-2015-12-06-16-24-31-86966224286",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Frogs"
+    ],
+    "ar": [
+      "ضفادع"
+    ],
+    "es": [
+      "Ranas"
+    ],
+    "fr": [
+      "Grenouilles"
+    ],
+    "it": [
+      "Rane"
+    ]
+  }
+}

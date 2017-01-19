@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-02-86966233354",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Perspectives-methodologiques-en-sociologie/Evolutionnisme-social/",
+  "description": "Description de Évolutionnisme social",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1242,
+  "identifiant-drupal-parent": 1191,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-02",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Évolutionnisme social",
+  "nom-folder": "Evolutionnisme-social",
+  "nom-machine": "terme-2015-12-06-16-27-02-86966233354",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social evolutionism"
+    ],
+    "ar": [
+      "مذهب التطور الاجتماعي"
+    ],
+    "es": [
+      "Evolucionismo social"
+    ],
+    "fr": [
+      "Évolutionnisme social"
+    ],
+    "it": [
+      "Evoluzionismo sociale"
+    ]
+  }
+}

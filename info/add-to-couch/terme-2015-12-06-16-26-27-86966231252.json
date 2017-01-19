@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231252",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-militaire/",
+  "description": "Description de Histoire militaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 990,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire militaire",
+  "nom-folder": "Histoire-militaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-27-86966231252"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Military History"
+    ],
+    "ar": [
+      "تاريخ العسكري"
+    ],
+    "es": [
+      "Historia Militar"
+    ],
+    "fr": [
+      "Histoire militaire"
+    ],
+    "it": [
+      "storia militare"
+    ]
+  }
+}

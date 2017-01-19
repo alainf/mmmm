@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232721",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Decentralisation/",
+  "description": "Description de Décentralisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451296,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Décentralisation",
+  "nom-folder": "Decentralisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232721"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Decentralization"
+    ],
+    "ar": [
+      "لامركزية"
+    ],
+    "es": [
+      "Descentralización"
+    ],
+    "fr": [
+      "Décentralisation"
+    ],
+    "it": [
+      "Decentralizzazione"
+    ]
+  }
+}

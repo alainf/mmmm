@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-41-86966221317",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Place-du-marche/Immobilier-residentiel-et-commercial/",
+  "description": "Description de Immobilier résidentiel et commercial",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270713,
+  "identifiant-drupal-parent": 270651,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-41",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Immobilier résidentiel et commercial",
+  "nom-folder": "Immobilier-residentiel-et-commercial",
+  "nom-machine": "terme-2015-12-06-16-23-41-86966221317",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Residential and commercial real estate"
+    ],
+    "ar": [
+      "العقارية السكنية والتجارية"
+    ],
+    "es": [
+      "Bienes raíces residenciales y comerciales"
+    ],
+    "fr": [
+      "Immobilier résidentiel et commercial"
+    ],
+    "it": [
+      "Immobili residenziali e commerciali"
+    ]
+  }
+}

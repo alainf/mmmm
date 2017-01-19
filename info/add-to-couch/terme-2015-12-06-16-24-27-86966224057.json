@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224057",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Economie-botanique/",
+  "description": "Description de Économie botanique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 252582,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Économie botanique",
+  "nom-folder": "Economie-botanique",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224057",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic botany"
+    ],
+    "ar": [
+      "علم النبات الاقتصادي"
+    ],
+    "es": [
+      "Economía botánica"
+    ],
+    "fr": [
+      "Économie botanique"
+    ],
+    "it": [
+      "Economia botanica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-51-86966225501",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-public/Droit-lie-aux-entreprises-publiques/",
+  "description": "Description de Droit lié aux entreprises publiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269107,
+  "identifiant-drupal-parent": 269097,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-51",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droit lié aux entreprises publiques",
+  "nom-folder": "Droit-lie-aux-entreprises-publiques",
+  "nom-machine": "terme-2015-12-06-16-24-51-86966225501",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public Company Related Law"
+    ],
+    "ar": [
+      "قانون المتعلق بالشركات العوام"
+    ],
+    "es": [
+      "Derecho relativo a las empresas públicas"
+    ],
+    "fr": [
+      "Droit lié aux entreprises publiques"
+    ],
+    "it": [
+      "Diritto relativo alle società pubbliche"
+    ]
+  }
+}

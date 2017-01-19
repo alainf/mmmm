@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-15-86966226909",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Journalisme-en-ligne/",
+  "description": "Description de Journalisme en ligne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272319,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-15",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Journalisme en ligne",
+  "nom-folder": "Journalisme-en-ligne",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-15-86966226909"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Online journalism"
+    ],
+    "ar": [
+      "صحافة على الإنترنت"
+    ],
+    "es": [
+      "Periodismo en línea"
+    ],
+    "fr": [
+      "Journalisme en ligne"
+    ],
+    "it": [
+      "Giornalismo online"
+    ]
+  }
+}

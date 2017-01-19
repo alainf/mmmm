@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225250",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-caribeennes/",
+  "description": "Description de Études caribéennes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466796,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études caribéennes",
+  "nom-folder": "Etudes-caribeennes",
+  "nom-machine": "terme-2015-12-06-16-24-47-86966225250",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Caribbean studies"
+    ],
+    "ar": [
+      "دراسات البحر الكاريبي"
+    ],
+    "es": [
+      "Estudios caribeños"
+    ],
+    "fr": [
+      "Études caribéennes"
+    ],
+    "it": [
+      "Studi caraibici"
+    ]
+  }
+}

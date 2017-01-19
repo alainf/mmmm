@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228478",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-interculturel/",
+  "description": "Description de Management interculturel",
+  "enfants": [
+    "terme-2015-12-06-16-25-41-86966228481",
+    "terme-2015-12-06-16-25-41-86966228484"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2045,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Management interculturel",
+  "nom-folder": "Management-interculturel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-41-86966228478"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intercultural management"
+    ],
+    "ar": [
+      "الإدارة بين الثقافات"
+    ],
+    "es": [
+      "Gestión intercultural"
+    ],
+    "fr": [
+      "Management interculturel"
+    ],
+    "it": [
+      "gestione interculturale"
+    ]
+  }
+}

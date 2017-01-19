@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174452",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Aymara/",
+  "description": "Description de Aymara",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317580,
+  "ISO-639-1": "ay",
+  "ISO-639-2": "aym",
+  "ISO-639-3": "aym",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2016-02-04-03-24-12",
+  "nom": "Aymara",
+  "nom-folder": "Aymara",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174452",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Aymara_(langue)",
+  "nomLangues": {
+    "en": [
+      "Aymara"
+    ],
+    "ar": [
+      "أيمارا"
+    ],
+    "es": [
+      "Aimara"
+    ],
+    "fr": [
+      "Aymara"
+    ],
+    "it": [
+      "Aymara"
+    ],
+    "ru": [
+      "Аймара"
+    ]
+  }
+}

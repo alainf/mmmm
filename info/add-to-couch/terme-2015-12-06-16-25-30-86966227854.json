@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227854",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/Diagramme-KJ/",
+  "description": "Diagramme KJ",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1924,
+  "identifiant-drupal-parent": 1910,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Diagramme KJ (affinités)",
+  "nom-folder": "Diagramme-KJ",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227854",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "KJ Diagram (Affinity)"
+    ],
+    "ar": [
+      "مخطط تقاربي"
+    ],
+    "es": [
+      "Diagrama KJ (afinidades)"
+    ],
+    "fr": [
+      "Diagramme KJ (affinités)"
+    ],
+    "it": [
+      "Diagramma KJ (affinità)"
+    ]
+  }
+}

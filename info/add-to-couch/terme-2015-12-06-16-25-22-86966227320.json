@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-22-86966227320",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-electronique/Aspects-juridiques-du-commerce-electronique/",
+  "description": "Description de Aspects juridiques du commerce électronique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1788,
+  "identifiant-drupal-parent": 1787,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-22",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Aspects juridiques du commerce électronique",
+  "nom-folder": "Aspects-juridiques-du-commerce-electronique",
+  "nom-machine": "terme-2015-12-06-16-25-22-86966227320",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Legal aspects of electronic commerce"
+    ],
+    "ar": [
+      "جوانب القانونية للتجارة الإلكترونية"
+    ],
+    "es": [
+      "Aspectos jurídicos del comercio electrónico"
+    ],
+    "fr": [
+      "Aspects juridiques du commerce électronique"
+    ],
+    "it": [
+      "Aspetti giuridici del commercio elettronico"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229816",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/",
+  "description": "Description de Technologie",
+  "enfants": [
+    "terme-2015-12-06-16-26-03-86966229819",
+    "terme-2015-12-06-16-26-03-86966229827",
+    "terme-2015-12-06-16-26-03-86966229832",
+    "terme-2015-12-06-16-26-04-86966229841",
+    "terme-2015-12-06-16-26-06-86966229987"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 893,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Technologie",
+  "nom-folder": "Technologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-03-86966229816"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Technology"
+    ],
+    "ar": [
+      "التكنولوجيا"
+    ],
+    "es": [
+      "Tecnología"
+    ],
+    "fr": [
+      "Technologie"
+    ],
+    "it": [
+      "Tecnologia"
+    ]
+  }
+}

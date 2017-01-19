@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231242",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-et-philosophie-de-la-physique-moderne/",
+  "description": "Description de Histoire et philosophie de la physique moderne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471913,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire et philosophie de la physique moderne",
+  "nom-folder": "Histoire-et-philosophie-de-la-physique-moderne",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-27-86966231242"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History and philosophy of modern physics"
+    ],
+    "ar": [
+      "تاريخ و فلسفة الفيزياء الحديثة"
+    ],
+    "es": [
+      "Historia y filosofía de la física moderna"
+    ],
+    "fr": [
+      "Histoire et philosophie de la physique moderne"
+    ],
+    "it": [
+      "Storia e Filosofia della Fisica Moderna"
+    ]
+  }
+}

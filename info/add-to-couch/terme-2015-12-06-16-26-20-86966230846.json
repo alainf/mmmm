@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230846",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Fabrication-de-produits-chimiques/Fabrication-de-chlore/",
+  "description": "Description de Fabrication de chlore",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451105,
+  "identifiant-drupal-parent": 451099,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Fabrication de chlore",
+  "nom-folder": "Fabrication-de-chlore",
+  "nom-machine": "terme-2015-12-06-16-26-20-86966230846",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chlorine production"
+    ],
+    "ar": [
+      "تصنيع الكلور"
+    ],
+    "es": [
+      "Fabricación de cloro"
+    ],
+    "fr": [
+      "Fabrication de chlore"
+    ],
+    "it": [
+      "Fabbricazione di cloro"
+    ]
+  }
+}

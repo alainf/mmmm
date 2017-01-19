@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-31-86966227888",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/Remue-meninges/",
+  "description": "Description de Remue-méninges",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1918,
+  "identifiant-drupal-parent": 1910,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-31",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Remue-méninges",
+  "nom-folder": "Remue-meninges",
+  "nom-machine": "terme-2015-12-06-16-25-31-86966227888",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Brainstorming"
+    ],
+    "ar": [
+      "عصف ذهني"
+    ],
+    "es": [
+      "Lluvia de ideas"
+    ],
+    "fr": [
+      "Remue-méninges"
+    ],
+    "it": [
+      "Brainstorming"
+    ]
+  }
+}

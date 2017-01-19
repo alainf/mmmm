@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966233007",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernement/Services-publics---Administrations-publiques/",
+  "description": "Description de Services publics - Administrations publiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465716,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Services publics - Administrations publiques",
+  "nom-folder": "Services-publics---Administrations-publiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966233007"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public services - Public administrations"
+    ],
+    "ar": [
+      "الخدمات العامة-الحكومة العامة"
+    ],
+    "es": [
+      "Servicios públicos - administraciones públicas"
+    ],
+    "fr": [
+      "Services publics - Administrations publiques"
+    ],
+    "it": [
+      "servizi pubblici – amministrazioni pubbliche"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227637",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Methodes-en-gestion-de-la-production/Methode-KANBAN-(Toyotisme)/",
+  "description": "Description de Méthode KANBAN (Toyotisme)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1850,
+  "identifiant-drupal-parent": 1846,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Méthode KANBAN (Toyotisme)",
+  "nom-folder": "Methode-KANBAN-(Toyotisme)",
+  "nom-machine": "terme-2015-12-06-16-25-27-86966227637",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Toyota Production System (Kanban)"
+    ],
+    "ar": [
+      "طريقة كانبان - نظام إنتاج تويوتا"
+    ],
+    "es": [
+      "Kanban - Sistema de producción Toyota"
+    ],
+    "fr": [
+      "Méthode KANBAN (Toyotisme)"
+    ],
+    "it": [
+      "Kanban – sistema di produzione Toyota"
+    ]
+  }
+}

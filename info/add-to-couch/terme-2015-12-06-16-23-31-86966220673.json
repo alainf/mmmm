@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220673",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Formes-d'organisations/Organisations-non-gouvernementales/",
+  "description": "Description de Organisations non-gouvernementales",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270514,
+  "identifiant-drupal-parent": 270512,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Organisations non-gouvernementales",
+  "nom-folder": "Organisations-non-gouvernementales",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220673"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Non-governmental organizations"
+    ],
+    "ar": [
+      "منظمة غير حكومية"
+    ],
+    "es": [
+      "Organizaciones no gubernamentales"
+    ],
+    "fr": [
+      "Organisations non-gouvernementales"
+    ],
+    "it": [
+      "Organizzazione non governativa"
+    ],
+    "ru": [
+      "Общественное объединение"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-20-86966223618",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Health-Sciences/Pediatrics/",
+  "description": "Description de Pédiatrie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368161,
+  "identifiant-drupal-parent": 368144,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-20",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Pédiatrie",
+  "nom-folder": "Pediatrics",
+  "nom-machine": "terme-2015-12-06-16-24-20-86966223618",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pediatrics"
+    ],
+    "fr": [
+      "Pédiatrie"
+    ]
+  }
+}

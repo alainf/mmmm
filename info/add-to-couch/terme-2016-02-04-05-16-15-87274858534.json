@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-05-16-15-87274858534",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Ganda/",
+  "description": "Description de Luganda",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "lg",
+  "ISO-639-2": "lug",
+  "ISO-639-3": "lug",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-16-15",
+  "moment-de-modification": "2016-02-04-05-16-53",
+  "nom": "Luganda",
+  "nom-folder": "Ganda",
+  "nom-machine": "terme-2016-02-04-05-16-15-87274858534",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Luganda",
+  "nomLangues": {
+    "en": [
+      "Luganda"
+    ],
+    "es": [
+      "Luganda"
+    ],
+    "fr": [
+      "Luganda"
+    ],
+    "it": [
+      "Luganda"
+    ],
+    "ru": [
+      "Луганда"
+    ]
+  }
+}

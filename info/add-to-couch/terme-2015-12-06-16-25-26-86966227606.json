@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-26-86966227606",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Gestion-de-l'approvisionnement/Restauration/",
+  "description": "Description de Restauration",
+  "enfants": [
+    "terme-2015-12-06-16-25-26-86966227608"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272415,
+  "identifiant-drupal-parent": 452220,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-26",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Restauration",
+  "nom-folder": "Restauration",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-26-86966227606"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Restaurant and food services"
+    ],
+    "ar": [
+      "تموين"
+    ],
+    "es": [
+      "Catering"
+    ],
+    "fr": [
+      "Restauration"
+    ],
+    "it": [
+      "ristorazione"
+    ]
+  }
+}

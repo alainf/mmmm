@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234060",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/multimedia/",
+  "description": "Description de Multimédia",
+  "enfants": [
+    "terme-2015-12-06-16-27-14-86966234063",
+    "terme-2015-12-06-16-27-14-86966234066",
+    "terme-2015-12-06-16-27-14-86966234069",
+    "terme-2015-12-06-16-27-14-86966234071"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369463,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Multimédia",
+  "nom-folder": "multimedia",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234060",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Multimedia"
+    ],
+    "es": [
+      "Multimedia"
+    ],
+    "fr": [
+      "Multimédia"
+    ],
+    "it": [
+      "Multimediale"
+    ]
+  }
+}

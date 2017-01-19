@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232606",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Acteurs-politiques/",
+  "description": "Violence",
+  "enfants": [
+    "terme-2015-12-06-16-26-50-86966232610",
+    "terme-2015-12-06-16-26-50-86966232612",
+    "terme-2015-12-06-16-26-50-86966232615",
+    "terme-2015-12-06-16-26-50-86966232618",
+    "terme-2015-12-06-16-26-50-86966232621",
+    "terme-2015-12-06-16-26-50-86966232624",
+    "terme-2015-12-06-16-26-50-86966232626",
+    "terme-2015-12-06-16-26-50-86966232629",
+    "terme-2015-12-06-16-26-50-86966232632"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272176,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Violence (politique)",
+  "nom-folder": "Acteurs-politiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232606"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Violence (politics)"
+    ],
+    "ar": [
+      "العنف"
+    ],
+    "es": [
+      "Violencia (política)"
+    ],
+    "fr": [
+      "Violence (politique)"
+    ],
+    "it": [
+      "Violenza (politica)"
+    ]
+  }
+}

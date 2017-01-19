@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224700",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Femmes-et-cinema/",
+  "description": "Description de Femmes et cinéma",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466881,
+  "identifiant-drupal-parent": 466876,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Femmes et cinéma",
+  "nom-folder": "Femmes-et-cinema",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224700"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Women and cinema"
+    ],
+    "ar": [
+      "نساء و السينما"
+    ],
+    "es": [
+      "Las mujeres y el cine"
+    ],
+    "fr": [
+      "Femmes et cinéma"
+    ],
+    "it": [
+      "Donne e cinema"
+    ]
+  }
+}

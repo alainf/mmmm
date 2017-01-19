@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-26-08-86966230132",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/Extraction-de-minerais-refractaires/",
+  "description": "Description de Extraction de minerais réfractaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451088,
+  "identifiant-drupal-parent": 451077,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de minerais réfractaires",
+  "nom-folder": "Extraction-de-minerais-refractaires",
+  "nom-machine": "terme-2015-12-06-16-26-08-86966230132",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Refractory minerals mining and quarrying"
+    ],
+    "ar": [
+      "إستخراج المعادن المقاومة للحرارة"
+    ],
+    "es": [
+      "Extracción de minerales refractarios"
+    ],
+    "fr": [
+      "Extraction de minerais réfractaires"
+    ],
+    "it": [
+      "Estrazione di minerali refrattari"
+    ],
+    "ru": []
+  }
+}

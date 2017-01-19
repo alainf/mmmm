@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-54-86966232851",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Nationalisme/Ethnocentrisme/",
+  "description": "Description de Ethnocentrisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1138,
+  "identifiant-drupal-parent": 1117,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Ethnocentrisme",
+  "nom-folder": "Ethnocentrisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-54-86966232851"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ethnocentrism"
+    ],
+    "ar": [
+      "نزعة عرقية"
+    ],
+    "es": [
+      "Etnocentrismo"
+    ],
+    "fr": [
+      "Ethnocentrisme"
+    ],
+    "it": [
+      "Etnocentrismo"
+    ]
+  }
+}

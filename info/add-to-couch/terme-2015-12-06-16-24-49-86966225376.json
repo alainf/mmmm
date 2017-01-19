@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225376",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Politiques-culturelles/Developpement-interculturel/",
+  "description": "Description de Développement interculturel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471968,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Développement interculturel",
+  "nom-folder": "Developpement-interculturel",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-49-86966225376"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intercultural development"
+    ],
+    "ar": [
+      "التنمية بين الثقافات"
+    ],
+    "es": [
+      "Desarrollo intercultural"
+    ],
+    "fr": [
+      "Développement interculturel"
+    ],
+    "it": [
+      "Sviluppo interculturale"
+    ]
+  }
+}

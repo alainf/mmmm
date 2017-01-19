@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-47-18-87275186283",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Twi/",
+  "description": "Description de Twi",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "tw",
+  "ISO-639-2": "twi",
+  "ISO-639-3": "twi",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-47-18",
+  "moment-de-modification": "2016-02-04-06-47-53",
+  "nom": "Twi",
+  "nom-folder": "Twi",
+  "nom-machine": "terme-2016-02-04-06-47-18-87275186283",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Twi",
+  "nomLangues": {
+    "en": [
+      "Twi"
+    ],
+    "ar": [
+      "توي"
+    ],
+    "es": [
+      "Twi"
+    ],
+    "fr": [
+      "Twi"
+    ],
+    "it": [
+      "Twi"
+    ],
+    "ru": [
+      "Чви"
+    ]
+  }
+}

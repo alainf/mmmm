@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228156",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-ressources-humaines/Mobilite-professionnelle/",
+  "description": "Description de Mobilité professionnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471953,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Mobilité professionnelle",
+  "nom-folder": "Mobilite-professionnelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-35-86966228156"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Professional mobility"
+    ],
+    "ar": [
+      "تنقل مهني"
+    ],
+    "es": [
+      "Movilidad profesional"
+    ],
+    "fr": [
+      "Mobilité professionnelle"
+    ],
+    "it": [
+      "Mobilità professionale"
+    ]
+  }
+}

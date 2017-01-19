@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-34-86966224493",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-decoratifs/Mobilier/",
+  "description": "Description de Mobilier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466869,
+  "identifiant-drupal-parent": 466864,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-34",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Mobilier",
+  "nom-folder": "Mobilier",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-34-86966224493"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Furniture"
+    ],
+    "ar": [
+      "أثاث"
+    ],
+    "es": [
+      "Mobiliario"
+    ],
+    "fr": [
+      "Mobilier"
+    ],
+    "it": [
+      "Arredo"
+    ]
+  }
+}

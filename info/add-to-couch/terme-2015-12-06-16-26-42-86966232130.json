@@ -1,0 +1,55 @@
+{
+  "_id": "terme-2015-12-06-16-26-42-86966232130",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Courants-anthropologiques/",
+  "description": "Description de Courants anthropologiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-42-86966232133",
+    "terme-2015-12-06-16-26-42-86966232136",
+    "terme-2015-12-06-16-26-42-86966232139",
+    "terme-2015-12-06-16-26-42-86966232144",
+    "terme-2015-12-06-16-26-42-86966232147",
+    "terme-2015-12-06-16-26-42-86966232150",
+    "terme-2015-12-06-16-26-42-86966232153",
+    "terme-2015-12-06-16-26-42-86966232156",
+    "terme-2015-12-06-16-26-42-86966232159",
+    "terme-2015-12-06-16-26-42-86966232162",
+    "terme-2015-12-06-16-26-42-86966232165",
+    "terme-2015-12-06-16-26-42-86966232168",
+    "terme-2015-12-06-16-26-42-86966232170",
+    "terme-2015-12-06-16-26-42-86966232173",
+    "terme-2015-12-06-16-26-42-86966232176",
+    "terme-2015-12-06-16-26-42-86966232179"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1025,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-42",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Courants anthropologiques",
+  "nom-folder": "Courants-anthropologiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-42-86966232130"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anthropological currents"
+    ],
+    "ar": [
+      "تيارات الأنثروبولوجية"
+    ],
+    "es": [
+      "Corrientes antropológicas"
+    ],
+    "fr": [
+      "Courants anthropologiques"
+    ],
+    "it": [
+      "correnti antropologiche"
+    ]
+  }
+}

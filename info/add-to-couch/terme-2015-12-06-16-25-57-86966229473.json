@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-57-86966229473",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theorie-des-parties-prenantes/",
+  "description": "Description de Théorie des parties prenantes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2283,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-57",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théorie des parties prenantes",
+  "nom-folder": "Theorie-des-parties-prenantes",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-57-86966229473"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Stakeholder Theory"
+    ],
+    "ar": [
+      "نظرية أصحاب المصلحة"
+    ],
+    "es": [
+      "Teoría de los stakeholders (interesados)"
+    ],
+    "fr": [
+      "Théorie des parties prenantes"
+    ],
+    "it": [
+      "Teoria dei portatori di interessi (stakeholders)"
+    ]
+  }
+}

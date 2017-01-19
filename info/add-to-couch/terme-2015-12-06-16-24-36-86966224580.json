@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224580",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Danse/",
+  "description": "Description de Danse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466895,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Danse",
+  "nom-folder": "Danse",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-36-86966224580"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Dance"
+    ],
+    "ar": [
+      "رقص"
+    ],
+    "es": [
+      "Danza"
+    ],
+    "fr": [
+      "Danse"
+    ],
+    "it": [
+      "danza"
+    ]
+  }
+}

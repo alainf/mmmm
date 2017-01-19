@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224266",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/Reproduction-animale/Autres-volailles/",
+  "description": "Description de Autres volailles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269011,
+  "identifiant-drupal-parent": 269002,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Autres volailles",
+  "nom-folder": "Autres-volailles",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-31-86966224266"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Other poultry"
+    ],
+    "ar": [
+      "دواجن الأخرى"
+    ],
+    "es": [
+      "Otras aves de corral"
+    ],
+    "fr": [
+      "Autres volailles"
+    ],
+    "it": [
+      "Altri volatili"
+    ]
+  }
+}

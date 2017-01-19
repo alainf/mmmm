@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231918",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Etudes-bibliques/",
+  "description": "Description de Études bibliques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466699,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Études bibliques",
+  "nom-folder": "Etudes-bibliques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-38-86966231918"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biblical Studies"
+    ],
+    "ar": [
+      "دراسات الكتاب المقدس"
+    ],
+    "es": [
+      "Estudios biblicos"
+    ],
+    "fr": [
+      "Études bibliques"
+    ],
+    "it": [
+      "Studi biblici"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-21-86966234468",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/forum-numerique/",
+  "description": "Description de Forum numérique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369411,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-21",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Forum numérique",
+  "nom-folder": "forum-numerique",
+  "nom-machine": "terme-2015-12-06-16-27-21-86966234468",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Digital forum"
+    ],
+    "es": [
+      "Foro digital"
+    ],
+    "fr": [
+      "Forum numérique"
+    ],
+    "it": [
+      "Forum digitale"
+    ]
+  }
+}

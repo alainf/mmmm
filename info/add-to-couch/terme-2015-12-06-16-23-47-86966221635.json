@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-23-47-86966221635",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sites/myCulture/",
+  "description": "Description de Myculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-47",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Myculture",
+  "nom-folder": "myCulture",
+  "nom-machine": "terme-2015-12-06-16-23-47-86966221635",
+  "sous-type": "sites",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Culture"
+    ],
+    "ar": [
+      "ثقافة"
+    ],
+    "es": [
+      "Cultura"
+    ],
+    "fr": [
+      "Myculture"
+    ],
+    "it": [
+      "Cultura"
+    ],
+    "ru": [
+      "Культура"
+    ]
+  }
+}

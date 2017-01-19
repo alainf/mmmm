@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966227980",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-de-la-prise-de-decisions/",
+  "description": "Description de Gestion de la prise de décisions",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471941,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion de la prise de décisions",
+  "nom-folder": "Gestion-de-la-prise-de-decisions",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-33-86966227980"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Decision making management"
+    ],
+    "ar": [
+      "إدارة صنع القرارات"
+    ],
+    "es": [
+      "Gestión de toma de decisiones"
+    ],
+    "fr": [
+      "Gestion de la prise de décisions"
+    ],
+    "it": [
+      "Gestione del processo decisionale"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225264",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/Etudes-feministes/",
+  "description": "Description de Études féministes",
+  "enfants": [
+    "terme-2015-12-06-16-24-47-86966225267",
+    "terme-2015-12-06-16-24-47-86966225270"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466800,
+  "identifiant-drupal-parent": 466798,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études féministes",
+  "nom-folder": "Etudes-feministes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-47-86966225264"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Women's studies"
+    ],
+    "ar": [
+      "الدراسات النسائية"
+    ],
+    "es": [
+      "Estudios feministas"
+    ],
+    "fr": [
+      "Études féministes"
+    ],
+    "it": [
+      "Studi femministi"
+    ]
+  }
+}

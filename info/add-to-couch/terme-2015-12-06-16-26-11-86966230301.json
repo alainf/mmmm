@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-11-86966230301",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-de-la-culture/Capital-culturel/",
+  "description": "Description de Capital culturel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272424,
+  "identifiant-drupal-parent": 1502,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-11",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Capital culturel",
+  "nom-folder": "Capital-culturel",
+  "nom-machine": "terme-2015-12-06-16-26-11-86966230301",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural capital"
+    ],
+    "ar": [
+      "رأس مال الثقافي"
+    ],
+    "es": [
+      "Capital cultural"
+    ],
+    "fr": [
+      "Capital culturel"
+    ],
+    "it": [
+      "Capitale culturale"
+    ]
+  }
+}

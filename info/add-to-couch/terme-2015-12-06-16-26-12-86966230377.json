@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230377",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-du-sport/",
+  "description": "Description de Économie du sport",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1506,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie du sport",
+  "nom-folder": "Economie-du-sport",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-12-86966230377"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of sports"
+    ],
+    "ar": [
+      "الاقتصاد الالعاب الرياضية"
+    ],
+    "es": [
+      "Economía del deporte"
+    ],
+    "fr": [
+      "Économie du sport"
+    ],
+    "it": [
+      "Economia dello sport"
+    ]
+  }
+}

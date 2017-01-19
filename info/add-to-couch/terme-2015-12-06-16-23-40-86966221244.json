@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221244",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/Jeux/Championnats nationaux/",
+  "description": "Description de Championnats nationaux",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270691,
+  "identifiant-drupal-parent": 270689,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Championnats nationaux",
+  "nom-folder": "Championnats nationaux",
+  "nom-machine": "terme-2015-12-06-16-23-40-86966221244",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National championships"
+    ],
+    "ar": [
+      "البطولة الوطنية"
+    ],
+    "es": [
+      "Campeonatos nacionales"
+    ],
+    "fr": [
+      "Championnats nationaux"
+    ],
+    "it": [
+      "Campionati nazionali"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-29-03-58-45-87404179544",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/avec-quoi-ecrire/",
+  "description": "Description de Avec quoi écrire",
+  "enfants": [
+    "terme-2016-02-29-04-00-21-87404185271",
+    "terme-2016-02-29-04-08-19-87404213955",
+    "terme-2016-02-29-04-10-51-87404223077"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-03-58-45",
+  "moment-de-modification": "2016-02-29-04-07-06",
+  "nom": "Avec quoi écrire",
+  "nom-folder": "avec-quoi-ecrire",
+  "nom-machine": "terme-2016-02-29-03-58-45-87404179544",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "What to write with"
+    ],
+    "fr": [
+      "Avec quoi écrire"
+    ]
+  }
+}

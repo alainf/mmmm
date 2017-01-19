@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223785",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Agriculture-et-environnement/Pollution-des-sols/",
+  "description": "Description de Pollution des sols",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268973,
+  "identifiant-drupal-parent": 896,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Pollution des sols",
+  "nom-folder": "Pollution-des-sols",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223785"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Soil contamination"
+    ],
+    "ar": [
+      "تلوث التربة"
+    ],
+    "es": [
+      "Contaminación del suelo"
+    ],
+    "fr": [
+      "Pollution des sols"
+    ],
+    "it": [
+      "contaminazione del suolo"
+    ]
+  }
+}

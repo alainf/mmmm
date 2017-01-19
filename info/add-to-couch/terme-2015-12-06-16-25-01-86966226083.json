@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226083",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/Traitement-automatique-du-langage-naturel/Traitement-de-la-parole/",
+  "description": "Description de Traitement de la parole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472511,
+  "identifiant-drupal-parent": 472500,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Traitement de la parole",
+  "nom-folder": "Traitement-de-la-parole",
+  "nom-machine": "terme-2015-12-06-16-25-01-86966226083",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Speech processing"
+    ],
+    "ar": [
+      "معالجة الكلام"
+    ],
+    "es": [
+      "Procesamiento digital de voz"
+    ],
+    "fr": [
+      "Traitement de la parole"
+    ],
+    "it": [
+      "Procedimento di codificazione della parola"
+    ]
+  }
+}

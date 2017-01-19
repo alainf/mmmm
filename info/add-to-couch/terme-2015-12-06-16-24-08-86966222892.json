@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-08-86966222892",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Mathematics/Foundations,-Sets-and-Categories/",
+  "description": "Description de Foundations, sets and categories",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369121,
+  "identifiant-drupal-parent": 369116,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-08",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Foundations, sets and categories",
+  "nom-folder": "Foundations,-Sets-and-Categories",
+  "nom-machine": "terme-2015-12-06-16-24-08-86966222892",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Foundations, sets and categories"
+    ]
+  }
+}

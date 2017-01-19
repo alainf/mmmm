@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229107",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-generale-(types)/Documents-comptables/Documents-de-synthese/Balance-generale-des-comptes/",
+  "description": "Description de Balance générale des comptes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270975,
+  "identifiant-drupal-parent": 270974,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Balance générale des comptes",
+  "nom-folder": "Balance-generale-des-comptes",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229107",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Trial balance"
+    ],
+    "ar": [
+      "ميزان العان لحسابات"
+    ],
+    "es": [
+      "Balance de comprobación"
+    ],
+    "fr": [
+      "Balance générale des comptes"
+    ],
+    "it": [
+      "Bilancio di verifica"
+    ]
+  }
+}

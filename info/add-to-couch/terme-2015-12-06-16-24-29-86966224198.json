@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224198",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Peche-maritime-et-fluviale/",
+  "description": "Description de Pêche maritime et fluviale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269071,
+  "identifiant-drupal-parent": 939,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Pêche maritime et fluviale",
+  "nom-folder": "Peche-maritime-et-fluviale",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-29-86966224198"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sea and river fishing"
+    ],
+    "ar": [
+      "البحر والنهر الصيد"
+    ],
+    "es": [
+      "esca marítima y fluvial"
+    ],
+    "fr": [
+      "Pêche maritime et fluviale"
+    ],
+    "it": [
+      "Pesca marittima e fluviale"
+    ]
+  }
+}

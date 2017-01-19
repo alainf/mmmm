@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-20-86966234448",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/eBook/",
+  "description": "Description de Ebook",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369331,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-20",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Ebook",
+  "nom-folder": "eBook",
+  "nom-machine": "terme-2015-12-06-16-27-20-86966234448",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ebook"
+    ],
+    "es": [
+      "Libro electrónico"
+    ],
+    "fr": [
+      "Ebook"
+    ],
+    "it": [
+      "Libro elettronico"
+    ]
+  }
+}

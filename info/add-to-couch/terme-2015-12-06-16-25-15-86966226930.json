@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-15-86966226930",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Reseaux-d'information/",
+  "description": "Description de Réseaux d'information",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472316,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-15",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Réseaux d'information",
+  "nom-folder": "Reseaux-d'information",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-15-86966226930"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Information networks"
+    ],
+    "ar": [
+      "شبكات المعلومات"
+    ],
+    "es": [
+      "Redes de Información"
+    ],
+    "fr": [
+      "Réseaux d'information"
+    ],
+    "it": [
+      "Reti d'informazione"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221063",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Politique/Actions-contre-la-corruption/",
+  "description": "Description de Actions contre la corruption",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1685,
+  "identifiant-drupal-parent": 1666,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Actions contre la corruption",
+  "nom-folder": "Actions-contre-la-corruption",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221063"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Actions against corruption"
+    ],
+    "ar": [
+      "العمل ضد الفساد"
+    ],
+    "es": [
+      "Medidas contra la corrupción"
+    ],
+    "fr": [
+      "Actions contre la corruption"
+    ],
+    "it": [
+      "Azioni contro la corruzione"
+    ],
+    "ru": [
+      "Действия против коррупции"
+    ]
+  }
+}

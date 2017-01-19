@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226298",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Andragogie/",
+  "description": "Description de Andragogie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466725,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Andragogie",
+  "nom-folder": "Andragogie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226298"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Andragogy"
+    ],
+    "ar": [
+      "أندراغوجيا"
+    ],
+    "es": [
+      "Andragogía"
+    ],
+    "fr": [
+      "Andragogie"
+    ],
+    "it": [
+      "andragogia"
+    ]
+  }
+}

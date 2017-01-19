@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-25-86966231119",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Histoire-de-la-geographie/",
+  "description": "Description de Histoire de la géographie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 947,
+  "identifiant-drupal-parent": 942,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-25",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Histoire de la géographie",
+  "nom-folder": "Histoire-de-la-geographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-25-86966231119"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Histry of Geography"
+    ],
+    "ar": [
+      "تاريخ الجغرافيا"
+    ],
+    "es": [
+      "Historia de la geografía"
+    ],
+    "fr": [
+      "Histoire de la géographie"
+    ],
+    "it": [
+      "Storia della geografia"
+    ]
+  }
+}

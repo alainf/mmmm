@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-23-30-86966220625",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/roles/visiteur/",
+  "description": "Description de Visiteur",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-30",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Visiteur",
+  "nom-folder": "visiteur",
+  "nom-machine": "terme-2015-12-06-16-23-30-86966220625",
+  "sous-type": "roles",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Visitor"
+    ],
+    "ar": [
+      "زائر"
+    ],
+    "es": [
+      "Visitante"
+    ],
+    "fr": [
+      "Visiteur"
+    ],
+    "it": [
+      "Visitatore"
+    ]
+  }
+}

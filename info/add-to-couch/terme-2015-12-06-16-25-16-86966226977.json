@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966226977",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Technologies-de-l'information-et-de-la-communication/Moteur-de-recherche/",
+  "description": "Description de Moteur de recherche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465768,
+  "identifiant-drupal-parent": 2166,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Moteur de recherche",
+  "nom-folder": "Moteur-de-recherche",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-16-86966226977"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Search Engine"
+    ],
+    "ar": [
+      "محرك بحث"
+    ],
+    "es": [
+      "Motor de búsqueda"
+    ],
+    "fr": [
+      "Moteur de recherche"
+    ],
+    "it": [
+      "motore di ricerca"
+    ]
+  }
+}

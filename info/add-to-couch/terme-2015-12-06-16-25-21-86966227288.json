@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227288",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-de-produits-petroliers/",
+  "description": "Description de Commerce de gros de produits pétroliers",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451113,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros de produits pétroliers",
+  "nom-folder": "C-de-g-de-produits-petroliers",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227288",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of oil products"
+    ],
+    "ar": [
+      "تجارة بالجملة المنتجات النفطية"
+    ],
+    "es": [
+      "Comercio mayorista de productos del petroleo"
+    ],
+    "fr": [
+      "Commerce de gros de produits pétroliers"
+    ],
+    "it": [
+      "Commercio all'ingrosso di prodotti petroliferi"
+    ]
+  }
+}

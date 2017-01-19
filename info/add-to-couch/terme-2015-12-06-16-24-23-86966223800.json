@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223800",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Cultures-subtropicales/",
+  "description": "Description de Cultures subtropicales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471932,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Cultures subtropicales",
+  "nom-folder": "Cultures-subtropicales",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223800"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Subtropical cultures"
+    ],
+    "ar": [
+      "المحاصيل شبه الاستوائية"
+    ],
+    "es": [
+      "Cultivos subtropicales"
+    ],
+    "fr": [
+      "Cultures subtropicales"
+    ],
+    "it": [
+      "Coltivazioni subtropicali"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233232",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-de-la-connaissance/",
+  "description": "Description de Sociologie de la connaissance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1204,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie de la connaissance",
+  "nom-folder": "Sociologie-de-la-connaissance",
+  "nom-machine": "terme-2015-12-06-16-27-00-86966233232",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of knowledge"
+    ],
+    "ar": [
+      "علم اجتماع المعرفة"
+    ],
+    "es": [
+      "Sociología del conocimiento"
+    ],
+    "fr": [
+      "Sociologie de la connaissance"
+    ],
+    "it": [
+      "Sociologia della conoscenza"
+    ]
+  }
+}

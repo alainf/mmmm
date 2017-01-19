@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-24-59-87275105961",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Soundanais/",
+  "description": "Description de Soundanais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "su",
+  "ISO-639-2": "sun",
+  "ISO-639-3": "sun",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-24-59",
+  "moment-de-modification": "2016-02-04-06-25-53",
+  "nom": "Soundanais",
+  "nom-folder": "Soundanais",
+  "nom-machine": "terme-2016-02-04-06-24-59-87275105961",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Soundanais",
+  "nomLangues": {
+    "en": [
+      "Sundanese"
+    ],
+    "ar": [
+      "سوندية"
+    ],
+    "es": [
+      "Sondanés"
+    ],
+    "fr": [
+      "Soundanais"
+    ],
+    "it": [
+      "Sundanese"
+    ],
+    "ru": [
+      "Сунданский"
+    ]
+  }
+}

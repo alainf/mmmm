@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-16-86966234206",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/who's-who/",
+  "description": "Description de Who's who",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369503,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-16",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Who's who",
+  "nom-folder": "who's-who",
+  "nom-machine": "terme-2015-12-06-16-27-16-86966234206",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Who’s who"
+    ],
+    "es": [
+      "Quién es quién"
+    ],
+    "fr": [
+      "Who's who"
+    ],
+    "it": [
+      "Who's who"
+    ]
+  }
+}

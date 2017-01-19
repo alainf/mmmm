@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-37-86966224675",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Theatre-romantique/",
+  "description": "Description de Théâtre romantique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467091,
+  "identifiant-drupal-parent": 467060,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-37",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Théâtre romantique",
+  "nom-folder": "Theatre-romantique",
+  "nom-machine": "terme-2015-12-06-16-24-37-86966224675",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Romantic theatre"
+    ],
+    "ar": [
+      "مسرح الرومانسية"
+    ],
+    "es": [
+      "Teatro romántico"
+    ],
+    "fr": [
+      "Théâtre romantique"
+    ],
+    "it": [
+      "Dramma romantico"
+    ]
+  }
+}

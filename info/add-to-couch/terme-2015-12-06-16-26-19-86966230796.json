@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230796",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Chimie-industrielle/",
+  "description": "Description de Chimie industrielle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270449,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Chimie industrielle",
+  "nom-folder": "Chimie-industrielle",
+  "nom-machine": "terme-2015-12-06-16-26-19-86966230796",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chemical industry"
+    ],
+    "ar": [
+      "الكيمياء الصناعية"
+    ],
+    "es": [
+      "Industria química"
+    ],
+    "fr": [
+      "Chimie industrielle"
+    ],
+    "it": [
+      "Industria chimica"
+    ]
+  }
+}

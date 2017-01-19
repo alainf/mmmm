@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227732",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Audits/",
+  "description": "Description de Audits",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1880,
+  "identifiant-drupal-parent": 1877,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Audits",
+  "nom-folder": "Audits",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227732"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Audits"
+    ],
+    "ar": [
+      "تدقيقات"
+    ],
+    "es": [
+      "Auditoría"
+    ],
+    "fr": [
+      "Audits"
+    ],
+    "it": [
+      "verifiche"
+    ]
+  }
+}

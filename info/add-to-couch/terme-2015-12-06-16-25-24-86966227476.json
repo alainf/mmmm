@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227476",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Communication-et-gestion-de-la-diversite/",
+  "description": "Description de Communication et gestion de la diversité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2143,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Communication et gestion de la diversité",
+  "nom-folder": "Communication-et-gestion-de-la-diversite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227476"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication and diversity management"
+    ],
+    "ar": [
+      "الإتصال و إدارة التنوع"
+    ],
+    "es": [
+      "Comunicación y gestión de la diversidad"
+    ],
+    "fr": [
+      "Communication et gestion de la diversité"
+    ],
+    "it": [
+      "Comunicazione e gestione della diversità"
+    ]
+  }
+}

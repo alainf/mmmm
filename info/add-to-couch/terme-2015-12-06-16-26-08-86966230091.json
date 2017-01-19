@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-08-86966230091",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-metalliques/Extraction-de-minerais-de-plomb/",
+  "description": "Description de Extraction de minerais de plomb",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451073,
+  "identifiant-drupal-parent": 451068,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de minerais de plomb",
+  "nom-folder": "Extraction-de-minerais-de-plomb",
+  "nom-machine": "terme-2015-12-06-16-26-08-86966230091",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lead mining"
+    ],
+    "ar": [
+      "إستخراج خامات الرصاص"
+    ],
+    "es": [
+      "Minería de mena de plomo"
+    ],
+    "fr": [
+      "Extraction de minerais de plomb"
+    ],
+    "it": [
+      "Estrazione di minerali di piombo"
+    ]
+  }
+}

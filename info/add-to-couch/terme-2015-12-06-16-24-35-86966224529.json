@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224529",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Techniques-de-la-sculpture/Materiaux-de-sculpture/Ciment-(sculpture)/",
+  "description": "Description de Ciment (sculpture)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467046,
+  "identifiant-drupal-parent": 467044,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Ciment (sculpture)",
+  "nom-folder": "Ciment-(sculpture)",
+  "nom-machine": "terme-2015-12-06-16-24-35-86966224529",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cement"
+    ],
+    "ar": [
+      "إسمنت (نحت)"
+    ],
+    "es": [
+      "Cemento"
+    ],
+    "fr": [
+      "Ciment (sculpture)"
+    ],
+    "it": [
+      "Cemento (scultura)"
+    ]
+  }
+}

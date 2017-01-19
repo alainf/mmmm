@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221537",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-vivants/Mime/",
+  "description": "Description de Mime",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270624,
+  "identifiant-drupal-parent": 270606,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Mime",
+  "nom-folder": "Mime",
+  "nom-machine": "terme-2015-12-06-16-23-45-86966221537",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mime"
+    ],
+    "ar": [
+      "تمثيل صامت"
+    ],
+    "es": [
+      "Mímo"
+    ],
+    "fr": [
+      "Mime"
+    ],
+    "it": [
+      "Mimo"
+    ]
+  }
+}

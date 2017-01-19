@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174533",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Francais-cadien/",
+  "description": "Description de Français cadien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317603,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Français cadien",
+  "nom-folder": "Francais-cadien",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174533",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cajun french"
+    ],
+    "ar": [
+      "الفرنسية الكاجون"
+    ],
+    "es": [
+      "Francés cajún"
+    ],
+    "fr": [
+      "Français cadien"
+    ],
+    "it": [
+      "Francese cajun"
+    ],
+    "ru": [
+      "Кажунский французского"
+    ]
+  }
+}

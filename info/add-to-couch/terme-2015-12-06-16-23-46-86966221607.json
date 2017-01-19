@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-46-86966221607",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Styles-de-vie/Restaurants-et-plaisirs-de-la-table/",
+  "description": "Description de Restaurants et plaisirs de la table",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270710,
+  "identifiant-drupal-parent": 270707,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-46",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Restaurants et plaisirs de la table",
+  "nom-folder": "Restaurants-et-plaisirs-de-la-table",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-46-86966221607"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Restaurants and cuisine"
+    ],
+    "ar": [
+      "المطاعم ويثلج الطهي"
+    ],
+    "es": [
+      "Restaurantes y placeres de la mesa"
+    ],
+    "fr": [
+      "Restaurants et plaisirs de la table"
+    ],
+    "it": [
+      "Ristoranti e piaceri della tavola"
+    ],
+    "ru": [
+      "Рестораны и кулинарные наслаждения"
+    ]
+  }
+}

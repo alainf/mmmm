@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-23-41-86966221314",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Place-du-marche/",
+  "description": "Description de Place du marché",
+  "enfants": [
+    "terme-2015-12-06-16-23-41-86966221317",
+    "terme-2015-12-06-16-23-41-86966221320"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270651,
+  "identifiant-drupal-parent": 270470,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-41",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Place du marché",
+  "nom-folder": "Place-du-marche",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-41-86966221314"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Marketplace"
+    ],
+    "ar": [
+      "سوق"
+    ],
+    "es": [
+      "Plaza de mercado"
+    ],
+    "fr": [
+      "Place du marché"
+    ],
+    "it": [
+      "Piazza del mercato"
+    ],
+    "ru": [
+      "базарная площадь"
+    ]
+  }
+}

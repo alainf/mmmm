@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174829",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Wolof/",
+  "description": "Description de Wolof",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317669,
+  "ISO-639-1": "wo",
+  "ISO-639-2": "wol",
+  "ISO-639-3": "wol",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2016-02-04-06-59-04",
+  "nom": "Wolof",
+  "nom-folder": "Wolof",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174829",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Wolof_(langue)",
+  "nomLangues": {
+    "en": [
+      "Wolof"
+    ],
+    "ar": [
+      "ولوفية"
+    ],
+    "es": [
+      "Wolof"
+    ],
+    "fr": [
+      "Wolof"
+    ],
+    "it": [
+      "Wolof"
+    ],
+    "ru": [
+      "Волоф"
+    ]
+  }
+}

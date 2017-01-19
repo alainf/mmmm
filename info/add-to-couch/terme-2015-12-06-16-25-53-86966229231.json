@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229231",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Analyse-strategique-(responsabilites)/",
+  "description": "Description de Analyse stratégique (responsabilités)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2230,
+  "identifiant-drupal-parent": 2140,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Analyse stratégique (responsabilités)",
+  "nom-folder": "Analyse-strategique-(responsabilites)",
+  "nom-machine": "terme-2015-12-06-16-25-53-86966229231",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Strategic Analysis (responsibilities)"
+    ],
+    "ar": [
+      "تحليل الإستراتيجي (مسؤوليات)"
+    ],
+    "es": [
+      "Análisis estratégico (responsabilidades)"
+    ],
+    "fr": [
+      "Analyse stratégique (responsabilités)"
+    ],
+    "it": [
+      "Analisi strategica (responsabilità)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226219",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/Neurolinguistique/",
+  "description": "Description de Neurolinguistique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467164,
+  "identifiant-drupal-parent": 270393,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Neurolinguistique",
+  "nom-folder": "Neurolinguistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-03-86966226219"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Neurolinguistics"
+    ],
+    "ar": [
+      "لغويات عصبية"
+    ],
+    "es": [
+      "Neurolingüística"
+    ],
+    "fr": [
+      "Neurolinguistique"
+    ],
+    "it": [
+      "neurolinguistica"
+    ]
+  }
+}

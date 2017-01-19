@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229101",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-generale-(types)/Documents-comptables/Documents-de-synthese/",
+  "description": "Description de Documents de synthèse",
+  "enfants": [
+    "terme-2015-12-06-16-25-51-86966229104",
+    "terme-2015-12-06-16-25-51-86966229107",
+    "terme-2015-12-06-16-25-51-86966229110",
+    "terme-2015-12-06-16-25-51-86966229113",
+    "terme-2015-12-06-16-25-51-86966229116"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270974,
+  "identifiant-drupal-parent": 270970,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Documents de synthèse",
+  "nom-folder": "Documents-de-synthese",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-51-86966229101"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Summary documents"
+    ],
+    "ar": [
+      "وثائق تركبية"
+    ],
+    "es": [
+      "Documentos de síntesis"
+    ],
+    "fr": [
+      "Documents de synthèse"
+    ],
+    "it": [
+      "Documenti di sintesi"
+    ]
+  }
+}

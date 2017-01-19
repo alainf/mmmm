@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232772",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Colonisation/",
+  "description": "Description de Colonisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272339,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Colonisation",
+  "nom-folder": "Colonisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232772"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Colonisation"
+    ],
+    "ar": [
+      "إستعمار"
+    ],
+    "es": [
+      "Colonización"
+    ],
+    "fr": [
+      "Colonisation"
+    ],
+    "it": [
+      "colonizzazione"
+    ]
+  }
+}

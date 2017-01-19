@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228516",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-agricole-(secteurs)/Gestion-des-risques-agricoles/",
+  "description": "Description de Gestion des risques agricoles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2205,
+  "identifiant-drupal-parent": 2190,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des risques agricoles",
+  "nom-folder": "Gestion-des-risques-agricoles",
+  "nom-machine": "terme-2015-12-06-16-25-41-86966228516",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural risk management"
+    ],
+    "ar": [
+      "إدارة المخاطر الزراعية"
+    ],
+    "es": [
+      "Gestión de riesgos agrícolas"
+    ],
+    "fr": [
+      "Gestion des risques agricoles"
+    ],
+    "it": [
+      "Gestione dei rischi agricoli"
+    ]
+  }
+}

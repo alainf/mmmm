@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230141",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/Extraction-de-sable/",
+  "description": "Description de Extraction de sable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451083,
+  "identifiant-drupal-parent": 451077,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de sable",
+  "nom-folder": "Extraction-de-sable",
+  "nom-machine": "terme-2015-12-06-16-26-09-86966230141",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sand mining"
+    ],
+    "ar": [
+      "إستخراج الرمل"
+    ],
+    "es": [
+      "Minería de arena"
+    ],
+    "fr": [
+      "Extraction de sable"
+    ],
+    "it": [
+      "Estrazione di sabbia"
+    ]
+  }
+}

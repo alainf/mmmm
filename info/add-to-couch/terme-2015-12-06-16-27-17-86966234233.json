@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-27-17-86966234233",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/centre/",
+  "description": "Description de Centre",
+  "enfants": [
+    "terme-2015-12-06-16-27-17-86966234237"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369340,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-17",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Centre",
+  "nom-folder": "centre",
+  "nom-machine": "terme-2015-12-06-16-27-17-86966234233",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Center"
+    ],
+    "es": [
+      "Centro"
+    ],
+    "fr": [
+      "Centre"
+    ],
+    "it": [
+      "Centro"
+    ]
+  }
+}

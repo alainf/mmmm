@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-00-22-87274801322",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Kikuyu/",
+  "description": "Description de Kikuyu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ki",
+  "ISO-639-2": "kik",
+  "ISO-639-3": "kik",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-00-22",
+  "moment-de-modification": "2016-02-04-05-01-07",
+  "nom": "Kikuyu",
+  "nom-folder": "Kikuyu",
+  "nom-machine": "terme-2016-02-04-05-00-22-87274801322",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Kikuyu_(langue)",
+  "nomLangues": {
+    "en": [
+      "Kikuyu"
+    ],
+    "ar": [
+      "كيكويو"
+    ],
+    "es": [
+      "Kikuyu"
+    ],
+    "fr": [
+      "Kikuyu"
+    ],
+    "it": [
+      "Gikuyu"
+    ],
+    "ru": [
+      "Кикуйю"
+    ]
+  }
+}

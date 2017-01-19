@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230149",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/Extraction-de-tourbe/",
+  "description": "Description de Extraction de tourbe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451098,
+  "identifiant-drupal-parent": 451077,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de tourbe",
+  "nom-folder": "Extraction-de-tourbe",
+  "nom-machine": "terme-2015-12-06-16-26-09-86966230149",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Peat extraction"
+    ],
+    "ar": [
+      "إستخراج الخث"
+    ],
+    "es": [
+      "Extracción de turba"
+    ],
+    "fr": [
+      "Extraction de tourbe"
+    ],
+    "it": [
+      "Estrazione di torba"
+    ]
+  }
+}

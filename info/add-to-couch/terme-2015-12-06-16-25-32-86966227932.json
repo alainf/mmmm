@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227932",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Chef-de-projet/",
+  "description": "Description de Chef de projet",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1947,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Chef de projet",
+  "nom-folder": "Chef-de-projet",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-32-86966227932"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Project manager"
+    ],
+    "ar": [
+      "رئيس المشروع"
+    ],
+    "es": [
+      "Jefe de proyecto"
+    ],
+    "fr": [
+      "Chef de projet"
+    ],
+    "it": [
+      "Direttore del progetto"
+    ]
+  }
+}

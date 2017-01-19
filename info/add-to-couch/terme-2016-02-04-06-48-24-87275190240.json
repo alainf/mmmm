@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-48-24-87275190240",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tahitien/",
+  "description": "Description de Tahitien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ty",
+  "ISO-639-2": "tah",
+  "ISO-639-3": "tah",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-48-24",
+  "moment-de-modification": "2016-02-04-06-49-19",
+  "nom": "Tahitien",
+  "nom-folder": "Tahitien",
+  "nom-machine": "terme-2016-02-04-06-48-24-87275190240",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tahitien",
+  "nomLangues": {
+    "en": [
+      "Tahitian"
+    ],
+    "ar": [
+      "تاهيتية"
+    ],
+    "es": [
+      "Tahitiano"
+    ],
+    "fr": [
+      "Tahitien"
+    ],
+    "it": [
+      "Tahitiano"
+    ],
+    "ru": [
+      "Таитянский"
+    ]
+  }
+}

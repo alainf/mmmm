@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-08-86966230097",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-metalliques/Extraction-tous-autres-minerais-metalliques/",
+  "description": "Description de Extraction de tous les autres minerais métalliques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451076,
+  "identifiant-drupal-parent": 451068,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de tous les autres minerais métalliques",
+  "nom-folder": "Extraction-tous-autres-minerais-metalliques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-08-86966230097"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Extraction of all other metallic ores"
+    ],
+    "ar": [
+      "إستخراج جميع الخامات المعدنية"
+    ],
+    "es": [
+      "Extracción de todos los demás minerales metálicos"
+    ],
+    "fr": [
+      "Extraction de tous les autres minerais métalliques"
+    ],
+    "it": [
+      "Estrazione di tutti gli altri minerali metallici"
+    ]
+  }
+}

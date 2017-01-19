@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232929",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Organisations-internationales-(sciences)/Societes-scientifiques/",
+  "description": "Description de Sociétés scientifiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472154,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Sociétés scientifiques",
+  "nom-folder": "Societes-scientifiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-55-86966232929"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scientific societies"
+    ],
+    "ar": [
+      "الجمعيات العلمية"
+    ],
+    "es": [
+      "Sociedades Científicas"
+    ],
+    "fr": [
+      "Sociétés scientifiques"
+    ],
+    "it": [
+      "Società scientifiche"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-31-86966231507",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Ethique/",
+  "description": "Description de Éthique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1081,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-31",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Éthique",
+  "nom-folder": "Ethique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-31-86966231507"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ethics"
+    ],
+    "ar": [
+      "أخلاقيات"
+    ],
+    "es": [
+      "Ética"
+    ],
+    "fr": [
+      "Éthique"
+    ],
+    "it": [
+      "Etica"
+    ]
+  }
+}

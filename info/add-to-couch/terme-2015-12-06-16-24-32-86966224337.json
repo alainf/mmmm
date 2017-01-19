@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224337",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/Medecine-interne/",
+  "description": "Description de Médecine interne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269032,
+  "identifiant-drupal-parent": 269028,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Médecine interne",
+  "nom-folder": "Medecine-interne",
+  "nom-machine": "terme-2015-12-06-16-24-32-86966224337",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Internal medicine"
+    ],
+    "ar": [
+      "طب الداخلى"
+    ],
+    "es": [
+      "Medicina interna"
+    ],
+    "fr": [
+      "Médecine interne"
+    ],
+    "it": [
+      "Medicina interna"
+    ]
+  }
+}

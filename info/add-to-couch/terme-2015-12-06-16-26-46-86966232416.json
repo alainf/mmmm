@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232416",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Recherche-qualitative/",
+  "description": "Description de Recherche qualitative",
+  "enfants": [
+    "terme-2015-12-06-16-26-46-86966232419",
+    "terme-2015-12-06-16-26-47-86966232422",
+    "terme-2015-12-06-16-26-47-86966232425"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472245,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Recherche qualitative",
+  "nom-folder": "Recherche-qualitative",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232416"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Qualitative research"
+    ],
+    "ar": [
+      "بحث نوعي"
+    ],
+    "es": [
+      "Investigación cualitativa"
+    ],
+    "fr": [
+      "Recherche qualitative"
+    ],
+    "it": [
+      "ricerca qualitativa"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224163",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/",
+  "description": "Description de Pêche",
+  "enfants": [
+    "terme-2015-12-06-16-24-29-86966224166",
+    "terme-2015-12-06-16-24-29-86966224169",
+    "terme-2015-12-06-16-24-29-86966224172",
+    "terme-2015-12-06-16-24-29-86966224175",
+    "terme-2015-12-06-16-24-29-86966224178",
+    "terme-2015-12-06-16-24-29-86966224180",
+    "terme-2015-12-06-16-24-29-86966224184",
+    "terme-2015-12-06-16-24-29-86966224195",
+    "terme-2015-12-06-16-24-29-86966224198",
+    "terme-2015-12-06-16-24-30-86966224200",
+    "terme-2015-12-06-16-24-30-86966224203",
+    "terme-2015-12-06-16-24-30-86966224209",
+    "terme-2015-12-06-16-24-30-86966224223"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 939,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Pêche",
+  "nom-folder": "Peche",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-29-86966224163"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fishing"
+    ],
+    "ar": [
+      "صيد السمك"
+    ],
+    "es": [
+      "Pesca"
+    ],
+    "fr": [
+      "Pêche"
+    ],
+    "it": [
+      "Pesca"
+    ]
+  }
+}

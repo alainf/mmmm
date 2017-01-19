@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-50-86966229018",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Metiers-de-la-comptabilite/Controleur-de-gestion/",
+  "description": "Description de Contrôleur de gestion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271295,
+  "identifiant-drupal-parent": 271290,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-50",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Contrôleur de gestion",
+  "nom-folder": "Controleur-de-gestion",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-50-86966229018"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management controller"
+    ],
+    "ar": [
+      "مراقب التسير"
+    ],
+    "es": [
+      "Controlador de gestión"
+    ],
+    "fr": [
+      "Contrôleur de gestion"
+    ],
+    "it": [
+      "Controllore di gestione"
+    ]
+  }
+}

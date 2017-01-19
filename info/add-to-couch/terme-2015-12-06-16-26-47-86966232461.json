@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232461",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Polemologie/Bombes-teleguidees-et-intelligentes/",
+  "description": "Description de Bombes téléguidées/intelligentes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472236,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Bombes téléguidées/intelligentes",
+  "nom-folder": "Bombes-teleguidees-et-intelligentes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232461"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Smart/remote-controlled bombs"
+    ],
+    "ar": [
+      "القنابل المتحكم فيها عن بعد / الذكية"
+    ],
+    "es": [
+      "Bombas inteligentes / a control remoto"
+    ],
+    "fr": [
+      "Bombes téléguidées/intelligentes"
+    ],
+    "it": [
+      "Bombe senza equipaggio/intelligenti"
+    ]
+  }
+}

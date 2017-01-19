@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232932",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Organisations-internationales-(sciences)/Transfert-de-connaissances/",
+  "description": "Description de Transfert de connaissances",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471933,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Transfert de connaissances",
+  "nom-folder": "Transfert-de-connaissances",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-55-86966232932"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Knowledge transfer"
+    ],
+    "ar": [
+      "نقل المعرفة"
+    ],
+    "es": [
+      "Transferencia de conocimientos"
+    ],
+    "fr": [
+      "Transfert de connaissances"
+    ],
+    "it": [
+      "Trasferimento di conoscenza"
+    ]
+  }
+}

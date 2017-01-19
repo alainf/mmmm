@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-28-86966231326",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Processus-medical/Psychologie-du-patient/",
+  "description": "Description de Psychologie du patient",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1412,
+  "identifiant-drupal-parent": 1402,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-28",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Psychologie du patient",
+  "nom-folder": "Psychologie-du-patient",
+  "nom-machine": "terme-2015-12-06-16-26-28-86966231326",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Patient Psychology"
+    ],
+    "ar": [
+      "علم النفس المريض"
+    ],
+    "es": [
+      "Psicología del paciente"
+    ],
+    "fr": [
+      "Psychologie du patient"
+    ],
+    "it": [
+      "Psicologia del paziente"
+    ]
+  }
+}

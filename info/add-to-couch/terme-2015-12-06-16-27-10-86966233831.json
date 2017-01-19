@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-27-10-86966233831",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Zoologie/Herpetologie/",
+  "description": "Description de Herpétologie",
+  "enfants": [
+    "terme-2015-12-06-16-27-10-86966233834",
+    "terme-2015-12-06-16-27-10-86966233837"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271424,
+  "identifiant-drupal-parent": 271417,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-10",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Herpétologie",
+  "nom-folder": "Herpetologie",
+  "nom-machine": "terme-2015-12-06-16-27-10-86966233831",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Herpetology"
+    ],
+    "ar": [
+      "علم الزواحف والبرمائيات"
+    ],
+    "es": [
+      "Herpetología"
+    ],
+    "fr": [
+      "Herpétologie"
+    ],
+    "it": [
+      "Erpetologia"
+    ]
+  }
+}

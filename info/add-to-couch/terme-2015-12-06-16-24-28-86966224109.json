@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224109",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Conservation-des-ressources-naturelles/",
+  "description": "Description de Conservation des ressources naturelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 901,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Conservation des ressources naturelles",
+  "nom-folder": "Conservation-des-ressources-naturelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-28-86966224109"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Natural resources conservation"
+    ],
+    "ar": [
+      "المحافظة على الموارد الطبيعية"
+    ],
+    "es": [
+      "Conservación de los recursos naturales"
+    ],
+    "fr": [
+      "Conservation des ressources naturelles"
+    ],
+    "it": [
+      "Conservazione delle risorse naturali"
+    ]
+  }
+}

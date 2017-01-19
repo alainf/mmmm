@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227648",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Ordonnancement/",
+  "description": "Description de Ordonnancement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1853,
+  "identifiant-drupal-parent": 1837,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Ordonnancement",
+  "nom-folder": "Ordonnancement",
+  "nom-machine": "terme-2015-12-06-16-25-27-86966227648",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scheduling"
+    ],
+    "ar": [
+      "جدولة"
+    ],
+    "es": [
+      "Programación"
+    ],
+    "fr": [
+      "Ordonnancement"
+    ],
+    "it": [
+      "Programmazione"
+    ]
+  }
+}

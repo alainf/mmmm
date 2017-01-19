@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2015-12-12-17-35-13-86997582826",
+  "breadcrumb": "taxonomies/formats/PDF/",
+  "description": "Description de Pdf",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-12-17-35-13",
+  "nom": "Pdf",
+  "nom-folder": "PDF",
+  "nom-machine": "terme-2015-12-12-17-35-13-86997582826",
+  "sous-type": "formats",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pdf"
+    ],
+    "ar": [
+      "نسق المستندات المنقولة"
+    ],
+    "es": [
+      "Pdf"
+    ],
+    "fr": [
+      "Pdf"
+    ],
+    "it": [
+      "Pdf"
+    ]
+  }
+}

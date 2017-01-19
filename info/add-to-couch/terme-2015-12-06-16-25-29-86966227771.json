@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227771",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/Gestion-de-donnees-et-documents-d'archives/ISO-9660/",
+  "description": "Description de ISO 9660 Système de fichiers pour CD-ROM",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1901,
+  "identifiant-drupal-parent": 1898,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 9660 Système de fichiers pour CD-ROM",
+  "nom-folder": "ISO-9660",
+  "nom-machine": "terme-2015-12-06-16-25-29-86966227771",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 9660 File system for CD-ROM"
+    ],
+    "ar": [
+      "ISO 9660 نظام الملفات للقرص المدمج"
+    ],
+    "es": [
+      "ISO 9660 sistema de archivos de CD-ROM"
+    ],
+    "fr": [
+      "ISO 9660 Système de fichiers pour CD-ROM"
+    ],
+    "it": [
+      "Iso 9660 sistema di archivi per cd-rom"
+    ]
+  }
+}

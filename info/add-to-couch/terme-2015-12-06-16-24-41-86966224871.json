@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-41-86966224871",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Gravure/Techniques-de-la-gravure/Monotype/",
+  "description": "Description de Monotype",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466936,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-41",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Monotype",
+  "nom-folder": "Monotype",
+  "nom-machine": "terme-2015-12-06-16-24-41-86966224871",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Monotyping"
+    ],
+    "ar": [
+      "مادة منضدة"
+    ],
+    "es": [
+      "Monotipo"
+    ],
+    "fr": [
+      "Monotype"
+    ],
+    "it": [
+      "Monotipo"
+    ]
+  }
+}

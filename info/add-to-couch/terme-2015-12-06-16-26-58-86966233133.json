@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233133",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Resistance-sociale-(sciences-politiques)/Liberte-d'expression/",
+  "description": "Description de Liberté d'expression",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472194,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Liberté d'expression",
+  "nom-folder": "Liberte-d'expression",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-58-86966233133"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Freedom of expression"
+    ],
+    "ar": [
+      "حرية التعبير"
+    ],
+    "es": [
+      "Libertad de expresión"
+    ],
+    "fr": [
+      "Liberté d'expression"
+    ],
+    "it": [
+      "Libertà d'espressione"
+    ]
+  }
+}

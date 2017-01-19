@@ -1,0 +1,45 @@
+{
+  "_id": "terme-2015-12-06-16-25-59-86966229585",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Commandite/",
+  "description": "Description de Commandite",
+  "enfants": [
+    "terme-2015-12-06-16-25-59-86966229588",
+    "terme-2015-12-06-16-25-59-86966229591",
+    "terme-2015-12-06-16-25-59-86966229593",
+    "terme-2015-12-06-16-25-59-86966229596",
+    "terme-2015-12-06-16-25-59-86966229599",
+    "terme-2015-12-06-16-26-00-86966229602"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2050,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-25-59",
+  "moment-de-modification": "2016-03-11-06-39-33",
+  "nom": "Commandite",
+  "nom-folder": "Commandite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-59-86966229585"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sponsorship"
+    ],
+    "ar": [
+      "رعاية"
+    ],
+    "es": [
+      "Patrocinio"
+    ],
+    "fr": [
+      "Commandite"
+    ],
+    "it": [
+      "Sponsorizzazione"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232375",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-du-discours/Semiotique/",
+  "description": "Description de Sémiotique",
+  "enfants": [
+    "terme-2015-12-06-16-26-46-86966232378"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472142,
+  "identifiant-drupal-parent": 1224,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sémiotique",
+  "nom-folder": "Semiotique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232375"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Semiotics"
+    ],
+    "ar": [
+      "السيميائية"
+    ],
+    "es": [
+      "Semiótica"
+    ],
+    "fr": [
+      "Sémiotique"
+    ],
+    "it": [
+      "Semiotica"
+    ]
+  }
+}

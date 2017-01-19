@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229511",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Culture-organisationnelle/Apprentissage-organisationnel/",
+  "description": "Description de Apprentissage organisationnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471972,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Apprentissage organisationnel",
+  "nom-folder": "Apprentissage-organisationnel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229511"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organisational learning"
+    ],
+    "ar": [
+      "التعلم التنظيمي"
+    ],
+    "es": [
+      "Aprendizaje organizacional"
+    ],
+    "fr": [
+      "Apprentissage organisationnel"
+    ],
+    "it": [
+      "apprendimento organizzativo"
+    ]
+  }
+}

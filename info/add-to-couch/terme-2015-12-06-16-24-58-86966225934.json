@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225934",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Fonds-de-placement-a-capital-variable/",
+  "description": "Description de Fonds de placement à capital variable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451152,
+  "identifiant-drupal-parent": 451151,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Fonds de placement à capital variable",
+  "nom-folder": "Fonds-de-placement-a-capital-variable",
+  "nom-machine": "terme-2015-12-06-16-24-58-86966225934",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Open-end collective investment scheme"
+    ],
+    "ar": [
+      "صناديق الاستثمار مع رأس المال متغير"
+    ],
+    "es": [
+      "Fondo de inversión de capital variable"
+    ],
+    "fr": [
+      "Fonds de placement à capital variable"
+    ],
+    "it": [
+      "Fondo di investimento a capitale variabile"
+    ],
+    "ru": []
+  }
+}

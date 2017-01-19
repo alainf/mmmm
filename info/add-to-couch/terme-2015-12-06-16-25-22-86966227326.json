@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-22-86966227326",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-electronique/Commerce-electronique-entreprises-entreprises/Enchere-en-temps-reel/",
+  "description": "Description de Enchère en temps réel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472421,
+  "identifiant-drupal-parent": 1789,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-22",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Enchère en temps réel",
+  "nom-folder": "Enchere-en-temps-reel",
+  "nom-machine": "terme-2015-12-06-16-25-22-86966227326",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Real Time Bidding"
+    ],
+    "ar": [
+      "المزايدة في الوقت المباشر"
+    ],
+    "es": [
+      "Subasta en tiempo real"
+    ],
+    "fr": [
+      "Enchère en temps réel"
+    ],
+    "it": [
+      "Asta in tempo reale"
+    ]
+  }
+}

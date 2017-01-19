@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-36-86966228202",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-systemes-d'information/Categories-de-systemes-d'information/",
+  "description": "Description de Catégories de systèmes d'information",
+  "enfants": [
+    "terme-2015-12-06-16-25-36-86966228205",
+    "terme-2015-12-06-16-25-36-86966228208"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1994,
+  "identifiant-drupal-parent": 1992,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-36",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Catégories de systèmes d'information",
+  "nom-folder": "Categories-de-systemes-d'information",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-36-86966228202"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Information systems categories"
+    ],
+    "ar": [
+      "فئات نظم المعلومات"
+    ],
+    "es": [
+      "Categorías de sistemas de información"
+    ],
+    "fr": [
+      "Catégories de systèmes d'information"
+    ],
+    "it": [
+      "Categorie di sistemi di informazione"
+    ]
+  }
+}

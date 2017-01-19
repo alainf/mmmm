@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-40-86966228412",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/Transport-ferroviaire/Transport-ferroviaire-de-voyageurs/",
+  "description": "Description de Transport ferroviaire de voyageurs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451135,
+  "identifiant-drupal-parent": 272291,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-40",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Transport ferroviaire de voyageurs",
+  "nom-folder": "Transport-ferroviaire-de-voyageurs",
+  "nom-machine": "terme-2015-12-06-16-25-40-86966228412",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rail passenger transport"
+    ],
+    "ar": [
+      "نقل المسافرين بالسكك الحديدية"
+    ],
+    "es": [
+      "Transporte de pasajeros por ferrocarril"
+    ],
+    "fr": [
+      "Transport ferroviaire de voyageurs"
+    ],
+    "it": [
+      "Trasporto ferroviario di passeggeri"
+    ]
+  }
+}

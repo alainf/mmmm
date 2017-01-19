@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220668",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Formes-d'organisations/Grandes-entreprises/",
+  "description": "Description de Grandes entreprises",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": null,
+  "identifiant-drupal-parent": 270512,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Grandes entreprises",
+  "nom-folder": "Grandes-entreprises",
+  "nom-machine": "terme-2015-12-06-16-23-31-86966220668",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Large corporations"
+    ],
+    "ar": [
+      "الشركات الكبيرة"
+    ],
+    "es": [
+      "Grandes empresas"
+    ],
+    "fr": [
+      "Grandes entreprises"
+    ],
+    "it": [
+      "Grandi aziende"
+    ],
+    "ru": [
+      "Большие корпорации"
+    ]
+  }
+}

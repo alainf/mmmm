@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230170",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Petrologie/Extraction-de-gaz/",
+  "description": "Description de Extraction de gaz",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451063,
+  "identifiant-drupal-parent": 270829,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de gaz",
+  "nom-folder": "Extraction-de-gaz",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230170"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Gas extraction"
+    ],
+    "ar": [
+      "إستخراج الغاز"
+    ],
+    "es": [
+      "Extracción de gas"
+    ],
+    "fr": [
+      "Extraction de gaz"
+    ],
+    "it": [
+      "estrazione di gas"
+    ]
+  }
+}

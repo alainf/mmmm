@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232471",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Polemologie/Guerres-climatiques/",
+  "description": "Description de Guerres climatiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471994,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Guerres climatiques",
+  "nom-folder": "Guerres-climatiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232471"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Climate wars"
+    ],
+    "ar": [
+      "حروب مناخية"
+    ],
+    "es": [
+      "Guerras climáticas"
+    ],
+    "fr": [
+      "Guerres climatiques"
+    ],
+    "it": [
+      "guerre climatiche"
+    ]
+  }
+}

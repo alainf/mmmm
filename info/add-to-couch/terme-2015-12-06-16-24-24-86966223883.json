@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223883",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Sciences-des-sols/Edaphologie/",
+  "description": "Edaphologie",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268977,
+  "identifiant-drupal-parent": 919,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Édaphologie",
+  "nom-folder": "Edaphologie",
+  "nom-machine": "terme-2015-12-06-16-24-24-86966223883",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Edaphology"
+    ],
+    "ar": [
+      "علم تأثير التربة"
+    ],
+    "es": [
+      "Edafología"
+    ],
+    "fr": [
+      "Édaphologie"
+    ],
+    "it": [
+      "Edafologia"
+    ]
+  }
+}

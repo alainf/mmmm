@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224718",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Sociologie-du-cinema/",
+  "description": "Description de Sociologie du cinéma",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466888,
+  "identifiant-drupal-parent": 466876,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Sociologie du cinéma",
+  "nom-folder": "Sociologie-du-cinema",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224718"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of the cinema"
+    ],
+    "ar": [
+      "علم الاجتماع الخاص السينما"
+    ],
+    "es": [
+      "Sociología del cine"
+    ],
+    "fr": [
+      "Sociologie du cinéma"
+    ],
+    "it": [
+      "Sociologia del cinema"
+    ]
+  }
+}

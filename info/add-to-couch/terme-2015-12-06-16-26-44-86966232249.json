@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232249",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Ethologie-(sociale)/Comportement-animalier-(ethologie)/",
+  "description": "Description de Comportement animalier (éthologie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1050,
+  "identifiant-drupal-parent": 997,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Comportement animalier (éthologie)",
+  "nom-folder": "Comportement-animalier-(ethologie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-44-86966232249"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Animal Behavior"
+    ],
+    "ar": [
+      "سلوك الحيوان (إيثولوجيا)"
+    ],
+    "es": [
+      "Comportamiento animal (Etología)"
+    ],
+    "fr": [
+      "Comportement animalier (éthologie)"
+    ],
+    "it": [
+      "Comportamento animale (etologia)"
+    ]
+  }
+}

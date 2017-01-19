@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-14-86966230497",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Developpement-economique/Perspective-du-Sud/",
+  "description": "Description de Perspective du Sud",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471977,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-14",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Perspective du Sud",
+  "nom-folder": "Perspective-du-Sud",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-14-86966230497"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Perspective of the South"
+    ],
+    "ar": [
+      "منظور الجنوبية"
+    ],
+    "es": [
+      "Perspectiva del Sur"
+    ],
+    "fr": [
+      "Perspective du Sud"
+    ],
+    "it": [
+      "Prospettiva del Sud"
+    ]
+  }
+}

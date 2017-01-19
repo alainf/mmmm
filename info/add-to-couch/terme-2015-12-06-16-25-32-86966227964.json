@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227964",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Decoupage-en-activites-WBS/",
+  "description": "Description de Découpage en activités WBS",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1957,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Découpage en activités WBS",
+  "nom-folder": "Decoupage-en-activites-WBS",
+  "nom-machine": "terme-2015-12-06-16-25-32-86966227964",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Work breakdown structure"
+    ],
+    "ar": [
+      "تقطيع في الأنشطة"
+    ],
+    "es": [
+      "Estructura de desglose del trabajo"
+    ],
+    "fr": [
+      "Découpage en activités WBS"
+    ],
+    "it": [
+      "Struttura di scomposizione del lavoro (WBS)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232359",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-du-discours/Analyse-du-discours-numerique/",
+  "description": "Description de Analyse du discours numérique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472171,
+  "identifiant-drupal-parent": 1224,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Analyse du discours numérique",
+  "nom-folder": "Analyse-du-discours-numerique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232359"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Digital discourse analysis"
+    ],
+    "ar": [
+      "تحليل الخطاب العددية"
+    ],
+    "es": [
+      "Análisis del discurso numérico"
+    ],
+    "fr": [
+      "Analyse du discours numérique"
+    ],
+    "it": [
+      "Analisi del discorso digitale"
+    ]
+  }
+}

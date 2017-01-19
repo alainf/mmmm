@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-39-86966224784",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Dessin/Dessin-d'art/",
+  "description": "Description de Dessin d'art",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466912,
+  "identifiant-drupal-parent": 466909,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-39",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Dessin d'art",
+  "nom-folder": "Dessin-d'art",
+  "nom-machine": "terme-2015-12-06-16-24-39-86966224784",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Artistic drawing"
+    ],
+    "ar": [
+      "رسم الفني"
+    ],
+    "es": [
+      "Dibujo de arte"
+    ],
+    "fr": [
+      "Dessin d'art"
+    ],
+    "it": [
+      "Disegno artistico"
+    ]
+  }
+}

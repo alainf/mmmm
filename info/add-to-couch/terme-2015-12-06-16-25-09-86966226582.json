@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226582",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Pollution/Deversements/",
+  "description": "Description de Déversements",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472132,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Déversements",
+  "nom-folder": "Deversements",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226582"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Spills"
+    ],
+    "ar": [
+      "انسكابات"
+    ],
+    "es": [
+      "Derrames"
+    ],
+    "fr": [
+      "Déversements"
+    ],
+    "it": [
+      "Fuoriuscite"
+    ]
+  }
+}

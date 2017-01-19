@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229316",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Syndicats-et-entreprises/",
+  "description": "Description de Syndicats et entreprises",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2245,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Syndicats et entreprises",
+  "nom-folder": "Syndicats-et-entreprises",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-55-86966229316"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Unions and Corporations"
+    ],
+    "ar": [
+      "الاتحادات والشركات"
+    ],
+    "es": [
+      "Sindicatos y empresas"
+    ],
+    "fr": [
+      "Syndicats et entreprises"
+    ],
+    "it": [
+      "Sindacati e imprese"
+    ]
+  }
+}

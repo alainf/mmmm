@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-24-30-86966224209",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Reglementation-de-la-peche/",
+  "description": "Description de Réglementation de la pêche",
+  "enfants": [
+    "terme-2015-12-06-16-24-30-86966224212",
+    "terme-2015-12-06-16-24-30-86966224215",
+    "terme-2015-12-06-16-24-30-86966224218",
+    "terme-2015-12-06-16-24-30-86966224220"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269080,
+  "identifiant-drupal-parent": 939,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-30",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Réglementation de la pêche",
+  "nom-folder": "Reglementation-de-la-peche",
+  "nom-machine": "terme-2015-12-06-16-24-30-86966224209",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fishing regulations"
+    ],
+    "ar": [
+      "أنظمة الصيد"
+    ],
+    "es": [
+      "Reglamentación de la pesca"
+    ],
+    "fr": [
+      "Réglementation de la pêche"
+    ],
+    "it": [
+      "Regolamentazione della pesca"
+    ]
+  }
+}

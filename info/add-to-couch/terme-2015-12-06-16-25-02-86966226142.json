@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226142",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Systemes-d'exploitation/",
+  "description": "Description de Systèmes d'exploitation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455583,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Systèmes d'exploitation",
+  "nom-folder": "Systemes-d'exploitation",
+  "nom-machine": "terme-2015-12-06-16-25-02-86966226142",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Operating Systems"
+    ],
+    "ar": [
+      "نظام تشغيل"
+    ],
+    "es": [
+      "Sistemas operativos"
+    ],
+    "fr": [
+      "Systèmes d'exploitation"
+    ],
+    "it": [
+      "Sistemi operativi"
+    ]
+  }
+}

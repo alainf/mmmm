@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-25-86966231133",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Outils-et-techniques-en-geographie/Photographie-aerienne-(outils)/",
+  "description": "Description de Photographie aérienne (outils)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 972,
+  "identifiant-drupal-parent": 948,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-25",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Photographie aérienne (outils)",
+  "nom-folder": "Photographie-aerienne-(outils)",
+  "nom-machine": "terme-2015-12-06-16-26-25-86966231133",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aerial photography"
+    ],
+    "ar": [
+      "تصوير جوي (معدات)"
+    ],
+    "es": [
+      "Fotografía aérea (herramientas)"
+    ],
+    "fr": [
+      "Photographie aérienne (outils)"
+    ],
+    "it": [
+      "Fotografia aerea (attrezzature)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233206",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Doctrine-sociale/",
+  "description": "Description de Doctrine sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1199,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Doctrine sociale",
+  "nom-folder": "Doctrine-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-00-86966233206"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social Doctrine"
+    ],
+    "ar": [
+      "مذهب إجتماعية"
+    ],
+    "es": [
+      "Doctrina Social"
+    ],
+    "fr": [
+      "Doctrine sociale"
+    ],
+    "it": [
+      "dottrina sociale"
+    ]
+  }
+}

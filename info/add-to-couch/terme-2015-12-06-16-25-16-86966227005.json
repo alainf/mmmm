@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966227005",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Gestion-des-centres-de-documentation/",
+  "description": "Description de Gestion des centres de documentation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465752,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Gestion des centres de documentation",
+  "nom-folder": "Gestion-des-centres-de-documentation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-16-86966227005"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management of documentation centers"
+    ],
+    "ar": [
+      "إدارة مراكز التوثيق"
+    ],
+    "es": [
+      "Gestión de centros de documentación"
+    ],
+    "fr": [
+      "Gestion des centres de documentation"
+    ],
+    "it": [
+      "Gestione di centri di documentazione"
+    ]
+  }
+}

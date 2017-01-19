@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229766",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Support-de-communication-publicitaire/",
+  "description": "Description de Support de communication publicitaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2104,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Support de communication publicitaire",
+  "nom-folder": "Support-de-communication-publicitaire",
+  "nom-machine": "terme-2015-12-06-16-26-02-86966229766",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Advertising communications media"
+    ],
+    "ar": [
+      "الإعلان عن الدعم"
+    ],
+    "es": [
+      "Soporte de comunicación publicitaria"
+    ],
+    "fr": [
+      "Support de communication publicitaire"
+    ],
+    "it": [
+      "Supporto di comunicazione pubblicitaria"
+    ]
+  }
+}

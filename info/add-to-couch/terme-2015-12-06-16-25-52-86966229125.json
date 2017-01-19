@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229125",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/",
+  "description": "Description de Comptabilité nationale",
+  "enfants": [
+    "terme-2015-12-06-16-25-52-86966229128",
+    "terme-2015-12-06-16-25-52-86966229131",
+    "terme-2015-12-06-16-25-52-86966229133",
+    "terme-2015-12-06-16-25-52-86966229151",
+    "terme-2015-12-06-16-25-52-86966229166",
+    "terme-2015-12-06-16-25-52-86966229169",
+    "terme-2015-12-06-16-25-52-86966229172",
+    "terme-2015-12-06-16-25-52-86966229176",
+    "terme-2015-12-06-16-25-52-86966229179",
+    "terme-2015-12-06-16-25-53-86966229182",
+    "terme-2015-12-06-16-25-53-86966229185",
+    "terme-2015-12-06-16-25-53-86966229187",
+    "terme-2015-12-06-16-25-53-86966229196"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270940,
+  "identifiant-drupal-parent": 270934,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptabilité nationale",
+  "nom-folder": "Comptabilite-nationale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-52-86966229125"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National accounts"
+    ],
+    "ar": [
+      "محاسبة وطنية"
+    ],
+    "es": [
+      "Cuentas nacionales"
+    ],
+    "fr": [
+      "Comptabilité nationale"
+    ],
+    "it": [
+      "Contabilità nazionale"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-09-86966233765",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Patrimoine-industriel/",
+  "description": "Description de Patrimoine industriel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472043,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-09",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Patrimoine industriel",
+  "nom-folder": "Patrimoine-industriel",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-09-86966233765"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial heritage"
+    ],
+    "ar": [
+      "التراث الصناعي"
+    ],
+    "es": [
+      "Patrimonio industrial"
+    ],
+    "fr": [
+      "Patrimoine industriel"
+    ],
+    "it": [
+      "patrimonio industriale"
+    ]
+  }
+}

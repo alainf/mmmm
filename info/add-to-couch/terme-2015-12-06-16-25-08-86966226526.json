@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226526",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ecologie/Ecologie-acoustique/",
+  "description": "Description de Écologie acoustique",
+  "enfants": [
+    "terme-2015-12-06-16-25-08-86966226529",
+    "terme-2015-12-06-16-25-08-86966226531",
+    "terme-2015-12-06-16-25-08-86966226534"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272384,
+  "identifiant-drupal-parent": 270869,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Écologie acoustique",
+  "nom-folder": "Ecologie-acoustique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226526"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Acoustic ecology"
+    ],
+    "ar": [
+      "الإيكولوجيا الصوتية"
+    ],
+    "es": [
+      "Ecología Acústica"
+    ],
+    "fr": [
+      "Écologie acoustique"
+    ],
+    "it": [
+      "Ecologia acustica"
+    ]
+  }
+}

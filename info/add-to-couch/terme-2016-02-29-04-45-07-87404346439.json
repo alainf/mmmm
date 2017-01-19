@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-29-04-45-07-87404346439",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/par-quoi-commencer/",
+  "description": "Description de Par quoi commencer",
+  "enfants": [
+    "terme-2016-02-29-04-45-51-87404349060",
+    "terme-2016-02-29-04-47-14-87404354085",
+    "terme-2016-02-29-04-48-04-87404357086"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-45-07",
+  "moment-de-modification": "2016-02-29-04-45-38",
+  "nom": "Par quoi commencer",
+  "nom-folder": "par-quoi-commencer",
+  "nom-machine": "terme-2016-02-29-04-45-07-87404346439",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "What to begin with"
+    ],
+    "fr": [
+      "Par quoi commencer"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233065",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Politiques-des-sciences/",
+  "description": "Description de Politiques des sciences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471909,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Politiques des sciences",
+  "nom-folder": "Politiques-des-sciences",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-57-86966233065"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Science policies"
+    ],
+    "ar": [
+      "سياسات العلوم"
+    ],
+    "es": [
+      "Políticas de las ciencias"
+    ],
+    "fr": [
+      "Politiques des sciences"
+    ],
+    "it": [
+      "Politiche delle scienze"
+    ]
+  }
+}

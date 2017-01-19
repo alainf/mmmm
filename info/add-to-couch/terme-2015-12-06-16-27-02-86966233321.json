@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-02-86966233321",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Paradigmes-en-sociologie/",
+  "description": "Description de Paradigmes en sociologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1189,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-02",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Paradigmes en sociologie",
+  "nom-folder": "Paradigmes-en-sociologie",
+  "nom-machine": "terme-2015-12-06-16-27-02-86966233321",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Paradigms in sociology"
+    ],
+    "ar": [
+      "صيغة حرفية في علم الاجتماع"
+    ],
+    "es": [
+      "Paradigmas en sociología"
+    ],
+    "fr": [
+      "Paradigmes en sociologie"
+    ],
+    "it": [
+      "Paradigmi nella sociologia"
+    ]
+  }
+}

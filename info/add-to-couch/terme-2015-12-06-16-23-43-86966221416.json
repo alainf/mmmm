@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221416",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Le-pouls-de-ce-reseau/Mouvement-etudiant/",
+  "description": "Description de Mouvement étudiant",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1749,
+  "identifiant-drupal-parent": 1676,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Mouvement étudiant",
+  "nom-folder": "Mouvement-etudiant",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221416"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Student movement"
+    ],
+    "ar": [
+      "الحركة الطلابية"
+    ],
+    "es": [
+      "Movimiento estudiantil"
+    ],
+    "fr": [
+      "Mouvement étudiant"
+    ],
+    "it": [
+      "Movimento studentesco"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221369",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Emplois/Chaires-de-recherche/",
+  "description": "Description de Chaires de recherche",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1729,
+  "identifiant-drupal-parent": 1672,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Chaires de recherche",
+  "nom-folder": "Chaires-de-recherche",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221369"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research chairs"
+    ],
+    "ar": [
+      "كراسي البحوث"
+    ],
+    "es": [
+      "Cátedras de investigación"
+    ],
+    "fr": [
+      "Chaires de recherche"
+    ],
+    "it": [
+      "Cattedre d’investigazione"
+    ]
+  }
+}

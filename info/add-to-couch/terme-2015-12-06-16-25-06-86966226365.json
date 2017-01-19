@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226365",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Enseignement-superieur---Universites/Conferences/",
+  "description": "Description de Conférences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471863,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Conférences",
+  "nom-folder": "Conferences",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226365"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conferences"
+    ],
+    "ar": [
+      "مؤتمرات"
+    ],
+    "es": [
+      "Conferencias"
+    ],
+    "fr": [
+      "Conférences"
+    ],
+    "it": [
+      "Conferenze"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-05-86966229944",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-nucleaire/",
+  "description": "Description de Ingénierie nucléaire",
+  "enfants": [
+    "terme-2015-12-06-16-26-05-86966229947"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270891,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-05",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Ingénierie nucléaire",
+  "nom-folder": "Ingenierie-nucleaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-05-86966229944"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Nuclear Engineering"
+    ],
+    "ar": [
+      "هندسة النووية"
+    ],
+    "es": [
+      "Ingeniería nuclear"
+    ],
+    "fr": [
+      "Ingénierie nucléaire"
+    ],
+    "it": [
+      "Ingegneria nucleare"
+    ]
+  }
+}

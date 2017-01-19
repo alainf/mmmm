@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-28-86966231295",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Medecine-clinique/",
+  "description": "Description de Médecine clinique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469765,
+  "identifiant-drupal-parent": 1399,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-28",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Médecine clinique",
+  "nom-folder": "Medecine-clinique",
+  "nom-machine": "terme-2015-12-06-16-26-28-86966231295",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Clinical medicine"
+    ],
+    "ar": [
+      "الطب السريري"
+    ],
+    "es": [
+      "Medicina clínica"
+    ],
+    "fr": [
+      "Médecine clinique"
+    ],
+    "it": [
+      "Medicina clinica"
+    ]
+  }
+}

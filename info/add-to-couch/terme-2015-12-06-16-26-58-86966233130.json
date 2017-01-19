@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-58-86966233130",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Resistance-sociale-(sciences-politiques)/Liberte-d'acces-a-la-connaissance/",
+  "description": "Description de Liberté d'accès à la connaissance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471901,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-26-58",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Liberté d'accès à la connaissance",
+  "nom-folder": "Liberte-d'acces-a-la-connaissance",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-58-86966233130"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Freedom of access to knowledge"
+    ],
+    "ar": [
+      "حرية الوصول إلى المعرفة"
+    ],
+    "es": [
+      "Libertad de acceso al conocimiento"
+    ],
+    "fr": [
+      "Liberté d'accès à la connaissance"
+    ],
+    "it": [
+      "Libertà di accesso alla conoscenza"
+    ]
+  }
+}

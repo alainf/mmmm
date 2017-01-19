@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-09-86966233783",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Territoires-montagnards/",
+  "description": "Description de Territoires montagnards",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472371,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-09",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Territoires montagnards",
+  "nom-folder": "Territoires-montagnards",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-09-86966233783"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mountain territories"
+    ],
+    "ar": [
+      "الاقاليم الجبلية"
+    ],
+    "es": [
+      "Territorios de montaña"
+    ],
+    "fr": [
+      "Territoires montagnards"
+    ],
+    "it": [
+      "territori montanari"
+    ]
+  }
+}

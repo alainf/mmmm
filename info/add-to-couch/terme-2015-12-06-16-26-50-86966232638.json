@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232638",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Actualites-politiques/",
+  "description": "Description de Actualités politiques",
+  "enfants": [
+    "terme-2015-12-06-16-26-50-86966232641",
+    "terme-2015-12-06-16-26-51-86966232662",
+    "terme-2015-12-06-16-26-51-86966232665",
+    "terme-2015-12-06-16-26-51-86966232668",
+    "terme-2015-12-06-16-26-51-86966232671"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1103,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Actualités politiques",
+  "nom-folder": "Actualites-politiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232638"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political News"
+    ],
+    "ar": [
+      "الأخبار السياسية"
+    ],
+    "es": [
+      "Actualidad política"
+    ],
+    "fr": [
+      "Actualités politiques"
+    ],
+    "it": [
+      "Notizie politiche"
+    ]
+  }
+}

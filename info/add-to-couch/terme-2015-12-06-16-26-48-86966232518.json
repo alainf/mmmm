@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232518",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Comportement-organisationnel-(themes)/",
+  "description": "Description de Comportement organisationnel (thèmes)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1072,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Comportement organisationnel (thèmes)",
+  "nom-folder": "Comportement-organisationnel-(themes)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-48-86966232518"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational behavior (subjects)"
+    ],
+    "ar": [
+      "السلوك التنظيمي (الموضوعات)"
+    ],
+    "es": [
+      "Comportamiento Organizacional (temas)"
+    ],
+    "fr": [
+      "Comportement organisationnel (thèmes)"
+    ],
+    "it": [
+      "Comportamento organizzativo (temi)"
+    ]
+  }
+}

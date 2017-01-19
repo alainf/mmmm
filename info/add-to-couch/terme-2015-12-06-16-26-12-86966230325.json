@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230325",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-de-la-qualite/",
+  "description": "Description de Économie de la qualité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451200,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie de la qualité",
+  "nom-folder": "Economie-de-la-qualite",
+  "nom-machine": "terme-2015-12-06-16-26-12-86966230325",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of quality"
+    ],
+    "ar": [
+      "اقتصاديات الجودة"
+    ],
+    "es": [
+      "Economía de la calidad"
+    ],
+    "fr": [
+      "Économie de la qualité"
+    ],
+    "it": [
+      "Economia della qualità"
+    ]
+  }
+}

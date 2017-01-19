@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226323",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Education-des-adultes/Formation-sur-mesure/",
+  "description": "Description de Formation sur mesure",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472010,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Formation sur mesure",
+  "nom-folder": "Formation-sur-mesure",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226323"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Custom training"
+    ],
+    "ar": [
+      "تدريب على مقاس"
+    ],
+    "es": [
+      "Formación personalizada"
+    ],
+    "fr": [
+      "Formation sur mesure"
+    ],
+    "it": [
+      "Formazione personalizzata"
+    ]
+  }
+}

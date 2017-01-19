@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-24-53-86966225614",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Pratiques-legales/",
+  "description": "Description de Pratiques légales",
+  "enfants": [
+    "terme-2015-12-06-16-24-53-86966225617",
+    "terme-2015-12-06-16-24-53-86966225620"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269147,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-53",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Pratiques légales",
+  "nom-folder": "Pratiques-legales",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-53-86966225614"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Legal Practices"
+    ],
+    "ar": [
+      "الممارسات القانونية"
+    ],
+    "es": [
+      "Prácticas jurídicas"
+    ],
+    "fr": [
+      "Pratiques légales"
+    ],
+    "it": [
+      "Pratiche legali"
+    ]
+  }
+}

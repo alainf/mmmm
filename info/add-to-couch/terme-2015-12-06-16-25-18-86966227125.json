@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227125",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/",
+  "description": "Description de Industrie",
+  "enfants": [
+    "terme-2015-12-06-16-25-18-86966227129",
+    "terme-2015-12-06-16-25-19-86966227140",
+    "terme-2015-12-06-16-25-19-86966227143",
+    "terme-2015-12-06-16-25-19-86966227146",
+    "terme-2015-12-06-16-25-19-86966227160",
+    "terme-2015-12-06-16-25-19-86966227163",
+    "terme-2015-12-06-16-25-19-86966227166"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455694,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Industrie",
+  "nom-folder": "Industrie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227125"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industry"
+    ],
+    "ar": [
+      "صناعة"
+    ],
+    "es": [
+      "Industria"
+    ],
+    "fr": [
+      "Industrie"
+    ],
+    "it": [
+      "industria"
+    ]
+  }
+}

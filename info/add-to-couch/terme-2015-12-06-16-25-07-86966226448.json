@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226448",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Theories-de-l'education/",
+  "description": "Description de Théories de l'éducation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270857,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Théories de l'éducation",
+  "nom-folder": "Theories-de-l'education",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226448"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories of Education"
+    ],
+    "ar": [
+      "نظريات التعليم"
+    ],
+    "es": [
+      "Teorías de la Educación"
+    ],
+    "fr": [
+      "Théories de l'éducation"
+    ],
+    "it": [
+      "Teorie dell'educazione"
+    ]
+  }
+}

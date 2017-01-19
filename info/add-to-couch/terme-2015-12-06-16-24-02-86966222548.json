@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-02-86966222548",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Engineering/Manufacturing-Technology/",
+  "description": "Description de Manufacturing technology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369005,
+  "identifiant-drupal-parent": 368996,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-02",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Manufacturing technology",
+  "nom-folder": "Manufacturing-Technology",
+  "nom-machine": "terme-2015-12-06-16-24-02-86966222548",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Manufacturing technology"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225920",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/",
+  "description": "Description de Fonds et instruments financiers",
+  "enfants": [
+    "terme-2015-12-06-16-24-58-86966225922",
+    "terme-2015-12-06-16-24-58-86966225925",
+    "terme-2015-12-06-16-24-58-86966225928",
+    "terme-2015-12-06-16-24-58-86966225931",
+    "terme-2015-12-06-16-24-58-86966225934",
+    "terme-2015-12-06-16-24-58-86966225937",
+    "terme-2015-12-06-16-24-58-86966225939",
+    "terme-2015-12-06-16-24-59-86966225942",
+    "terme-2015-12-06-16-24-59-86966225945",
+    "terme-2015-12-06-16-24-59-86966225948",
+    "terme-2015-12-06-16-24-59-86966225951"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451151,
+  "identifiant-drupal-parent": 877,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Fonds et instruments financiers",
+  "nom-folder": "Fonds-et-instruments-financiers",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225920"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Funds and other financial instruments"
+    ],
+    "ar": [
+      "الصناديق والصكوك المالية"
+    ],
+    "es": [
+      "Fondos e instrumentos financieros"
+    ],
+    "fr": [
+      "Fonds et instruments financiers"
+    ],
+    "it": [
+      "fondi e strumenti finanziari"
+    ]
+  }
+}

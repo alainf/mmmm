@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-20-86966227202",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Societes-publiques/",
+  "description": "Description de Sociétés publiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472008,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-20",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Sociétés publiques",
+  "nom-folder": "Societes-publiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-20-86966227202"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public limited companies"
+    ],
+    "ar": [
+      "شركات عامة"
+    ],
+    "es": [
+      "Sociedades anónimas"
+    ],
+    "fr": [
+      "Sociétés publiques"
+    ],
+    "it": [
+      "Società anonime"
+    ]
+  }
+}

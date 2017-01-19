@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226286",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Politique/Syndicalisme/",
+  "description": "Description de Syndicalisme",
+  "enfants": [
+    "terme-2015-12-06-16-25-04-86966226290",
+    "terme-2015-12-06-16-25-04-86966226292"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1293,
+  "identifiant-drupal-parent": 1258,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Syndicalisme",
+  "nom-folder": "Syndicalisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226286"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Syndicalism"
+    ],
+    "ar": [
+      "النقابي"
+    ],
+    "es": [
+      "Sindicalismo"
+    ],
+    "fr": [
+      "Syndicalisme"
+    ],
+    "it": [
+      "Sindacalismo"
+    ]
+  }
+}

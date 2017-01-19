@@ -1,0 +1,53 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227723",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/",
+  "description": "Description de Gestion de la qualité (gestion)",
+  "enfants": [
+    "terme-2015-12-06-16-25-28-86966227727",
+    "terme-2015-12-06-16-25-28-86966227729",
+    "terme-2015-12-06-16-25-28-86966227732",
+    "terme-2015-12-06-16-25-28-86966227735",
+    "terme-2015-12-06-16-25-28-86966227737",
+    "terme-2015-12-06-16-25-29-86966227741",
+    "terme-2015-12-06-16-25-29-86966227743",
+    "terme-2015-12-06-16-25-29-86966227746",
+    "terme-2015-12-06-16-25-29-86966227749",
+    "terme-2015-12-06-16-25-29-86966227752",
+    "terme-2015-12-06-16-25-29-86966227755",
+    "terme-2015-12-06-16-25-29-86966227757",
+    "terme-2015-12-06-16-25-30-86966227815",
+    "terme-2015-12-06-16-25-31-86966227905"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1877,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion de la qualité (gestion)",
+  "nom-folder": "Gestion-de-la-qualite-(gestion)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227723"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Quality management (management)"
+    ],
+    "ar": [
+      "إدارة الجودة (إدارة)"
+    ],
+    "es": [
+      "Gestión de la calidad (gestión)"
+    ],
+    "fr": [
+      "Gestion de la qualité (gestion)"
+    ],
+    "it": [
+      "Gestione della qualità (gestione)"
+    ]
+  }
+}

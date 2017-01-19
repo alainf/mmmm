@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233590",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Sociologie-economique-des-territoires/",
+  "description": "Description de Sociologie économique des territoires",
+  "enfants": [
+    "terme-2015-12-06-16-27-06-86966233593"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472352,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie économique des territoires",
+  "nom-folder": "Sociologie-economique-des-territoires",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-06-86966233590"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic sociology of territories"
+    ],
+    "ar": [
+      "علم الاجتماع الاقتصادي للأراضي"
+    ],
+    "es": [
+      "Sociología Económica de los territorios"
+    ],
+    "fr": [
+      "Sociologie économique des territoires"
+    ],
+    "it": [
+      "Sociologia economica degli territori"
+    ]
+  }
+}

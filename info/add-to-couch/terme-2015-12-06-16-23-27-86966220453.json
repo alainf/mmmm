@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-23-27-86966220453",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/periodes/jour/",
+  "description": "Description de Jour",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368262,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-27",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Jour",
+  "nom-folder": "jour",
+  "nom-machine": "terme-2015-12-06-16-23-27-86966220453",
+  "sous-type": "periodes",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Day"
+    ],
+    "ar": [
+      "يوم"
+    ],
+    "es": [
+      "Día"
+    ],
+    "fr": [
+      "Jour"
+    ],
+    "it": [
+      "Giorno"
+    ]
+  }
+}

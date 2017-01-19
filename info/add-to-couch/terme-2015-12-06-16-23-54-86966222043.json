@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-54-86966222043",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Biological-Sciences/Immunology/",
+  "description": "Description de Immunology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368831,
+  "identifiant-drupal-parent": 368810,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-54",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Immunology",
+  "nom-folder": "Immunology",
+  "nom-machine": "terme-2015-12-06-16-23-54-86966222043",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Immunology"
+    ]
+  }
+}

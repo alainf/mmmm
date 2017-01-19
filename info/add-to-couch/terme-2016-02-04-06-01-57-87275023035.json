@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-01-57-87275023035",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Kirundi/",
+  "description": "Description de Kirundi",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "rn",
+  "ISO-639-2": "run",
+  "ISO-639-3": "run",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-01-57",
+  "moment-de-modification": "2016-02-04-06-02-33",
+  "nom": "Kirundi",
+  "nom-folder": "Kirundi",
+  "nom-machine": "terme-2016-02-04-06-01-57-87275023035",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Kirundi",
+  "nomLangues": {
+    "en": [
+      "Kirundi"
+    ],
+    "ar": [
+      "كيروندية"
+    ],
+    "es": [
+      "Kirundi"
+    ],
+    "fr": [
+      "Kirundi"
+    ],
+    "it": [
+      "Kirundi"
+    ],
+    "ru": [
+      "Рунди"
+    ]
+  }
+}

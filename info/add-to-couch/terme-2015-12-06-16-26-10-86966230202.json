@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-10-86966230202",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-des-materiaux/Ceramique/",
+  "description": "Description de Céramique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270810,
+  "identifiant-drupal-parent": 887,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-10",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Céramique",
+  "nom-folder": "Ceramique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-10-86966230202"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ceramics"
+    ],
+    "ar": [
+      "خزف"
+    ],
+    "es": [
+      "Cerámica"
+    ],
+    "fr": [
+      "Céramique"
+    ],
+    "it": [
+      "Ceramica"
+    ]
+  }
+}

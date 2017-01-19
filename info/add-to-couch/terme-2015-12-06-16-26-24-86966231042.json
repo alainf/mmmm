@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-24-86966231042",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-humaine/Geographie-sociale/",
+  "description": "Description de Géographie sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 960,
+  "identifiant-drupal-parent": 952,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-24",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Géographie sociale",
+  "nom-folder": "Geographie-sociale",
+  "nom-machine": "terme-2015-12-06-16-26-24-86966231042",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social geography"
+    ],
+    "ar": [
+      "جغرافيا إجتماعية"
+    ],
+    "es": [
+      "Geografía social"
+    ],
+    "fr": [
+      "Géographie sociale"
+    ],
+    "it": [
+      "Geografia sociale"
+    ]
+  }
+}

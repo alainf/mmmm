@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-03-02-00-34-28-87413812121",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/qui-ecrit/l-auteur-est-un-temoin/l-auteur-se-distancie-des-evenements/l-auteur-parle-au-nom-de-son-frere-et-de-sa-soeur/",
+  "description": "Description de L'auteur parle au nom de son frère et de sa soeur",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-00-34-28",
+  "moment-de-modification": "2016-03-02-00-35-32",
+  "nom": "L'auteur parle au nom de son frère et de sa soeur",
+  "nom-folder": "l-auteur-parle-au-nom-de-son-frere-et-de-sa-soeur",
+  "nom-machine": "terme-2016-03-02-00-34-28-87413812121",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The author is speaking on behalf of his brother and sister"
+    ],
+    "fr": [
+      "L'auteur parle au nom de son frère et de sa soeur"
+    ]
+  }
+}

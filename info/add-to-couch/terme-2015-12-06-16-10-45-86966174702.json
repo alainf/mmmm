@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-10-45-86966174702",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Norvegien/Riksmal/",
+  "description": "Description de Riksmål",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380434,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-45",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Riksmål",
+  "nom-folder": "Riksmal",
+  "nom-machine": "terme-2015-12-06-16-10-45-86966174702",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Riksmål"
+    ],
+    "es": [
+      "Riksmål"
+    ],
+    "fr": [
+      "Riksmål"
+    ],
+    "it": [
+      "Riksmål"
+    ]
+  }
+}

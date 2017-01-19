@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-43-86966174598",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Islandais/",
+  "description": "Description de Islandais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317618,
+  "ISO-639-1": "is",
+  "ISO-639-2": "ice/isl",
+  "ISO-639-3": "isl",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-43",
+  "moment-de-modification": "2016-02-04-04-47-33",
+  "nom": "Islandais",
+  "nom-folder": "Islandais",
+  "nom-machine": "terme-2015-12-06-16-10-43-86966174598",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Islandais",
+  "nomLangues": {
+    "en": [
+      "Icelandic"
+    ],
+    "ar": [
+      "آيسلندية"
+    ],
+    "es": [
+      "Islandés"
+    ],
+    "fr": [
+      "Islandais"
+    ],
+    "it": [
+      "Islandese"
+    ],
+    "ru": [
+      "Исландский"
+    ]
+  }
+}

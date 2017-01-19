@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229187",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Tableaux-de-synthese/",
+  "description": "Description de Tableaux de synthèse",
+  "enfants": [
+    "terme-2015-12-06-16-25-53-86966229190",
+    "terme-2015-12-06-16-25-53-86966229193"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270963,
+  "identifiant-drupal-parent": 270940,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Tableaux de synthèse",
+  "nom-folder": "Tableaux-de-synthese",
+  "nom-machine": "terme-2015-12-06-16-25-53-86966229187",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Summary Tables"
+    ],
+    "ar": [
+      "الجداول الموجزة"
+    ],
+    "es": [
+      "Cuadros de resumen"
+    ],
+    "fr": [
+      "Tableaux de synthèse"
+    ],
+    "it": [
+      "Tabelle di sintesi"
+    ]
+  }
+}

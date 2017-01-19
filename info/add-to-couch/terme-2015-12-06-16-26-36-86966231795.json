@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-36-86966231795",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychologie-de-l'education/",
+  "description": "Description de Psychologie de l'éducation",
+  "enfants": [
+    "terme-2015-12-06-16-26-36-86966231797"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270382,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-36",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Psychologie de l'éducation",
+  "nom-folder": "Psychologie-de-l'education",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-36-86966231795"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Educational psychology"
+    ],
+    "ar": [
+      "علم النفس التربوي"
+    ],
+    "es": [
+      "Psicología educacional"
+    ],
+    "fr": [
+      "Psychologie de l'éducation"
+    ],
+    "it": [
+      "Psicologia dell'educazione"
+    ]
+  }
+}

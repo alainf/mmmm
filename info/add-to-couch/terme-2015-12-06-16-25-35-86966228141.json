@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228141",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-organismes-sans-but-lucratif/",
+  "description": "Description de Gestion des organismes sans but lucratif",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451169,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des organismes sans but lucratif",
+  "nom-folder": "Gestion-des-organismes-sans-but-lucratif",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-35-86966228141"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management of not-for-profit organizations"
+    ],
+    "ar": [
+      "إدارة مؤسسات لا تهدف إلى الربح"
+    ],
+    "es": [
+      "Gestión de los organismos sin ánimo de lucro"
+    ],
+    "fr": [
+      "Gestion des organismes sans but lucratif"
+    ],
+    "it": [
+      "Gestione delle organizzazioni non a scopo di lucro"
+    ]
+  }
+}

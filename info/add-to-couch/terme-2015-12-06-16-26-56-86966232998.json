@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966232998",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernement/Finances-publiques-(gouvernement)/",
+  "description": "Description de Finances publiques (gouvernement)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272439,
+  "identifiant-drupal-parent": 1165,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Finances publiques (gouvernement)",
+  "nom-folder": "Finances-publiques-(gouvernement)",
+  "nom-machine": "terme-2015-12-06-16-26-56-86966232998",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public Finance (government)"
+    ],
+    "ar": [
+      "مالية العامة (الحكومة)"
+    ],
+    "es": [
+      "Finanzas Públicas (Gobierno)"
+    ],
+    "fr": [
+      "Finances publiques (gouvernement)"
+    ],
+    "it": [
+      "Finanze pubbliche (governo)"
+    ]
+  }
+}

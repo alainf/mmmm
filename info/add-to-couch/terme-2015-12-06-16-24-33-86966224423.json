@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224423",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Art-feminin/",
+  "description": "Description de Art féminin",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466844,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Art féminin",
+  "nom-folder": "Art-feminin",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-33-86966224423"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Feminine art"
+    ],
+    "ar": [
+      "فن تشخيصي"
+    ],
+    "es": [
+      "Arte femenino"
+    ],
+    "fr": [
+      "Art féminin"
+    ],
+    "it": [
+      "Arte femminile"
+    ]
+  }
+}

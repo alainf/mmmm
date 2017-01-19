@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-10-86966233820",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Zoologie/Ecologie-comportementale/",
+  "description": "Description de Écologie comportementale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271421,
+  "identifiant-drupal-parent": 271417,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-10",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Écologie comportementale",
+  "nom-folder": "Ecologie-comportementale",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-10-86966233820"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Behavioral ecology"
+    ],
+    "ar": [
+      "علم البيئة السلوكي"
+    ],
+    "es": [
+      "Ecología comportamental"
+    ],
+    "fr": [
+      "Écologie comportementale"
+    ],
+    "it": [
+      "Ecologia comportamentale"
+    ]
+  }
+}

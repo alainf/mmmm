@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-04-86966222662",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Humanities/Muslim/",
+  "description": "Description de Muslim",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369044,
+  "identifiant-drupal-parent": 369029,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-04",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Muslim",
+  "nom-folder": "Muslim",
+  "nom-machine": "terme-2015-12-06-16-24-04-86966222662",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Muslim"
+    ]
+  }
+}

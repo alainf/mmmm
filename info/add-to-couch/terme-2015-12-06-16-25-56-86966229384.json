@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-56-86966229384",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Economie-des-organisations/Capital-intellectuel/",
+  "description": "Description de Capital intellectuel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472130,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-56",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Capital intellectuel",
+  "nom-folder": "Capital-intellectuel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-56-86966229384"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intellectual capital"
+    ],
+    "ar": [
+      "رأس المال الفكري"
+    ],
+    "es": [
+      "Capital intelectual"
+    ],
+    "fr": [
+      "Capital intellectuel"
+    ],
+    "it": [
+      "capitale intellettuale"
+    ]
+  }
+}

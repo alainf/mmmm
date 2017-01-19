@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233604",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Theories-de-la-sociologie/",
+  "description": "Description de Théories de la sociologie",
+  "enfants": [
+    "terme-2015-12-06-16-27-06-86966233607"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1196,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Théories de la sociologie",
+  "nom-folder": "Theories-de-la-sociologie",
+  "nom-machine": "terme-2015-12-06-16-27-06-86966233604",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories of sociology"
+    ],
+    "ar": [
+      "نظريات علم الاجتماع"
+    ],
+    "es": [
+      "Teorías de la sociología"
+    ],
+    "fr": [
+      "Théories de la sociologie"
+    ],
+    "it": [
+      "Teorie della sociologia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-03-86966233401",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Clandestinite/",
+  "description": "Description de Clandestinité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472337,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-03",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Clandestinité",
+  "nom-folder": "Clandestinite",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-03-86966233401"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Clandestinity"
+    ],
+    "ar": [
+      "السرية"
+    ],
+    "es": [
+      "Clandestinidad"
+    ],
+    "fr": [
+      "Clandestinité"
+    ],
+    "it": [
+      "Clandestinità"
+    ]
+  }
+}

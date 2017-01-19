@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224535",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Techniques-de-la-sculpture/Materiaux-de-sculpture/Materiaux-d'origine-minerale/",
+  "description": "Description de Matériaux d'origine minérale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467048,
+  "identifiant-drupal-parent": 467044,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Matériaux d'origine minérale",
+  "nom-folder": "Materiaux-d'origine-minerale",
+  "nom-machine": "terme-2015-12-06-16-24-35-86966224535",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Materials of mineral origin"
+    ],
+    "ar": [
+      "مواد من أصل معدني"
+    ],
+    "es": [
+      "Materiales de origen mineral"
+    ],
+    "fr": [
+      "Matériaux d'origine minérale"
+    ],
+    "it": [
+      "Materiali di origine minerale"
+    ]
+  }
+}

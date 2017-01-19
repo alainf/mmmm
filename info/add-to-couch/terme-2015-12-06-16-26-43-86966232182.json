@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232182",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Dynamiques-culturelles/",
+  "description": "Description de Dynamiques culturelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467968,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Dynamiques culturelles",
+  "nom-folder": "Dynamiques-culturelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232182"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural Dynamics"
+    ],
+    "ar": [
+      "ديناميات الثقافيات"
+    ],
+    "es": [
+      "Dinámicas culturales"
+    ],
+    "fr": [
+      "Dynamiques culturelles"
+    ],
+    "it": [
+      "dinamiche culturali"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-40-86966224857",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Gravure/Techniques-de-la-gravure/Gravure-manuelle-avec-mordant/",
+  "description": "Description de Gravure manuelle avec mordant",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466939,
+  "identifiant-drupal-parent": 466929,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-40",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Gravure manuelle avec mordant",
+  "nom-folder": "Gravure-manuelle-avec-mordant",
+  "nom-machine": "terme-2015-12-06-16-24-40-86966224857",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Acid etch engraving"
+    ],
+    "ar": [
+      "نقش يدوي بحمض النتريك"
+    ],
+    "es": [
+      "Grabado a mano con mordiente"
+    ],
+    "fr": [
+      "Gravure manuelle avec mordant"
+    ],
+    "it": [
+      "Incisione a mano con mordente"
+    ]
+  }
+}

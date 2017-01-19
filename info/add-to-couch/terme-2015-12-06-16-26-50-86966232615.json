@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232615",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Acteurs-politiques/Mouvement-associatif-et-communautaire/",
+  "description": "Description de Mouvement associatif et communautaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455670,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Mouvement associatif et communautaire",
+  "nom-folder": "Mouvement-associatif-et-communautaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232615"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Associative and community movement"
+    ],
+    "ar": [
+      "حركة المجتمعية و الطائفي"
+    ],
+    "es": [
+      "Movimiento asociativo y comunitario"
+    ],
+    "fr": [
+      "Mouvement associatif et communautaire"
+    ],
+    "it": [
+      "Movimento associativo e comunitario"
+    ]
+  }
+}

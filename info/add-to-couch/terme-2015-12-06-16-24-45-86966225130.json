@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-45-86966225130",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Procede-de-fabrication-en-peinture/Peinture-a-la-colle/",
+  "description": "Peinture à l'huile",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467014,
+  "identifiant-drupal-parent": 467006,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-45",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Peinture à la colle",
+  "nom-folder": "Peinture-a-la-colle",
+  "nom-machine": "terme-2015-12-06-16-24-45-86966225130",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Glue-size"
+    ],
+    "ar": [
+      "مناديل ألوان"
+    ],
+    "es": [
+      "Colores de tela"
+    ],
+    "fr": [
+      "Peinture à la colle"
+    ],
+    "it": [
+      "Pittura con fondo glue-size"
+    ]
+  }
+}

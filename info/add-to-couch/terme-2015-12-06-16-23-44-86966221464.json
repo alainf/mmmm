@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221464",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Recherches/Sites-de-reference/",
+  "description": "Description de Sites de référence",
+  "enfants": [
+    "terme-2015-12-06-16-23-44-86966221467"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1769,
+  "identifiant-drupal-parent": 1678,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Sites de référence",
+  "nom-folder": "Sites-de-reference",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221464"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reference sites"
+    ],
+    "ar": [
+      "مواقع مرجعية"
+    ],
+    "es": [
+      "Sitios de referencia"
+    ],
+    "fr": [
+      "Sites de référence"
+    ],
+    "it": [
+      "Siti di referenza"
+    ]
+  }
+}

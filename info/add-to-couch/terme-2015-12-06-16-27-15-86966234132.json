@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-15-86966234132",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/quotidien/quotidien-generaliste/",
+  "description": "Description de Quotidien generaliste",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369475,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-15",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Quotidien generaliste",
+  "nom-folder": "quotidien-generaliste",
+  "nom-machine": "terme-2015-12-06-16-27-15-86966234132",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Daily newspaper"
+    ],
+    "es": [
+      "Diario generalista"
+    ],
+    "fr": [
+      "Quotidien generaliste"
+    ],
+    "it": [
+      "Giornale generalista"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-37-86966224661",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Theatre-contemporain/",
+  "description": "Description de Théâtre contemporain",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467087,
+  "identifiant-drupal-parent": 467060,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-37",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Théâtre contemporain",
+  "nom-folder": "Theatre-contemporain",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-37-86966224661"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Contemporary theater"
+    ],
+    "ar": [
+      "المسرح المعاصر"
+    ],
+    "es": [
+      "Teatro contemporáneo"
+    ],
+    "fr": [
+      "Théâtre contemporain"
+    ],
+    "it": [
+      "Teatro contemporaneo"
+    ]
+  }
+}

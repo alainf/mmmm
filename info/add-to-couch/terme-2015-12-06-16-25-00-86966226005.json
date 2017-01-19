@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226005",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Gestion-des-dispositifs-materiels/",
+  "description": "Description de Gestion des dispositifs matériels",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270354,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Gestion des dispositifs matériels",
+  "nom-folder": "Gestion-des-dispositifs-materiels",
+  "nom-machine": "terme-2015-12-06-16-25-00-86966226005",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Hardware management"
+    ],
+    "ar": [
+      "إدارة ترتيبات الأجهزة"
+    ],
+    "es": [
+      "Gestión de dispositivos materiales"
+    ],
+    "fr": [
+      "Gestion des dispositifs matériels"
+    ],
+    "it": [
+      "Gestione della componentistica"
+    ]
+  }
+}

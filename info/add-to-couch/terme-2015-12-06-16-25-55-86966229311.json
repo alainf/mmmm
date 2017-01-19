@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-55-86966229311",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie-d'entreprise/Strategies-concurrentielles/",
+  "description": "Description de Stratégies concurrentielles",
+  "enfants": [
+    "terme-2015-12-06-16-25-55-86966229314"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451221,
+  "identifiant-drupal-parent": 2228,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-55",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Stratégies concurrentielles",
+  "nom-folder": "Strategies-concurrentielles",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-55-86966229311"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Competitive Strategies"
+    ],
+    "ar": [
+      "استراتيجيات تنافسية"
+    ],
+    "es": [
+      "Estrategias competitivas"
+    ],
+    "fr": [
+      "Stratégies concurrentielles"
+    ],
+    "it": [
+      "Strategie competitive"
+    ]
+  }
+}

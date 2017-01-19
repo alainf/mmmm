@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225261",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/Egalite-hommes-femmes/",
+  "description": "Description de Égalité hommes-femmes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466799,
+  "identifiant-drupal-parent": 466798,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Égalité hommes-femmes",
+  "nom-folder": "Egalite-hommes-femmes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-47-86966225261"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Equality between men and women"
+    ],
+    "ar": [
+      "المساواة بين الرجل و المراة"
+    ],
+    "es": [
+      "Igualdad entre hombres y mujeres"
+    ],
+    "fr": [
+      "Égalité hommes-femmes"
+    ],
+    "it": [
+      "Uguaglianza di genere"
+    ]
+  }
+}

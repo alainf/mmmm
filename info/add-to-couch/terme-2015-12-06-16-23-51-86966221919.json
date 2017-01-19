@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-51-86966221919",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Arts-and-literature/",
+  "description": "Description de Arts and literature",
+  "enfants": [
+    "terme-2015-12-06-16-23-52-86966221921",
+    "terme-2015-12-06-16-23-52-86966221924",
+    "terme-2015-12-06-16-23-52-86966221927",
+    "terme-2015-12-06-16-23-52-86966221930",
+    "terme-2015-12-06-16-23-52-86966221933",
+    "terme-2015-12-06-16-23-52-86966221936",
+    "terme-2015-12-06-16-23-52-86966221939",
+    "terme-2015-12-06-16-23-52-86966221942",
+    "terme-2015-12-06-16-23-52-86966221945",
+    "terme-2015-12-06-16-23-52-86966221948"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368788,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-51",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Arts and literature",
+  "nom-folder": "Arts-and-literature",
+  "nom-machine": "terme-2015-12-06-16-23-51-86966221919",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arts and literature"
+    ],
+    "fr": [
+      "Arts and literature"
+    ]
+  }
+}

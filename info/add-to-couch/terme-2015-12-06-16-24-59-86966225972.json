@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225972",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Produits-derives/",
+  "description": "Produits dérivés ",
+  "enfants": [
+    "terme-2015-12-06-16-24-59-86966225974"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 452221,
+  "identifiant-drupal-parent": 877,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Produits dérivés",
+  "nom-folder": "Produits-derives",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-59-86966225972"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Deritative products"
+    ],
+    "ar": [
+      "عقد اشتقاقي"
+    ],
+    "es": [
+      "Derivado financiero"
+    ],
+    "fr": [
+      "Produits dérivés"
+    ],
+    "it": [
+      "Prodotti derivati"
+    ]
+  }
+}

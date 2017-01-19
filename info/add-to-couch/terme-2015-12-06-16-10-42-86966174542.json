@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174542",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Gaelique-ecossais/",
+  "description": "Gaélique écossais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317604,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Écossais",
+  "nom-folder": "Gaelique-ecossais",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174542",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scottish gaelic"
+    ],
+    "ar": [
+      "غيلية اسكتلندية"
+    ],
+    "es": [
+      "Gaélico escocés"
+    ],
+    "fr": [
+      "Écossais"
+    ],
+    "it": [
+      "Gaelico scozzese"
+    ],
+    "ru": [
+      "Шотландский"
+    ]
+  }
+}

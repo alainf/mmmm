@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-02-86966233330",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Perspectives-de-l'analyse-sociologique/Macro-sociologie/",
+  "description": "Description de Macro-sociologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1235,
+  "identifiant-drupal-parent": 1190,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-02",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Macro-sociologie",
+  "nom-folder": "Macro-sociologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-02-86966233330"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Macro-sociology"
+    ],
+    "ar": [
+      "ماكروسوسيولوجيا"
+    ],
+    "es": [
+      "Macrosociología"
+    ],
+    "fr": [
+      "Macro-sociologie"
+    ],
+    "it": [
+      "macrosociologia"
+    ]
+  }
+}

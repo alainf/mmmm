@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-31-86966231519",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Metaphysique/",
+  "description": "Description de Métaphysique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451234,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-31",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Métaphysique",
+  "nom-folder": "Metaphysique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-31-86966231519"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Metaphysics"
+    ],
+    "ar": [
+      "ميتافيزيقا"
+    ],
+    "es": [
+      "Metafísica"
+    ],
+    "fr": [
+      "Métaphysique"
+    ],
+    "it": [
+      "Metafisica"
+    ]
+  }
+}

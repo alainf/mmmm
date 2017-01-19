@@ -1,0 +1,57 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230187",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-des-materiaux/",
+  "description": "Description de Sciences des matériaux",
+  "enfants": [
+    "terme-2015-12-06-16-26-09-86966230190",
+    "terme-2015-12-06-16-26-09-86966230193",
+    "terme-2015-12-06-16-26-09-86966230195",
+    "terme-2015-12-06-16-26-09-86966230198",
+    "terme-2015-12-06-16-26-10-86966230202",
+    "terme-2015-12-06-16-26-10-86966230204",
+    "terme-2015-12-06-16-26-10-86966230207",
+    "terme-2015-12-06-16-26-10-86966230210",
+    "terme-2015-12-06-16-26-10-86966230213",
+    "terme-2015-12-06-16-26-10-86966230216",
+    "terme-2015-12-06-16-26-10-86966230219",
+    "terme-2015-12-06-16-26-10-86966230228",
+    "terme-2015-12-06-16-26-10-86966230231",
+    "terme-2015-12-06-16-26-10-86966230234",
+    "terme-2015-12-06-16-26-10-86966230237",
+    "terme-2015-12-06-16-26-10-86966230240",
+    "terme-2015-12-06-16-26-10-86966230242",
+    "terme-2015-12-06-16-26-10-86966230246"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 887,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Sciences des matériaux",
+  "nom-folder": "Sciences-des-materiaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-09-86966230187"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Materials Sciences"
+    ],
+    "ar": [
+      "علم المواد"
+    ],
+    "es": [
+      "Ciencia de materiales"
+    ],
+    "fr": [
+      "Sciences des matériaux"
+    ],
+    "it": [
+      "Scienza dei materiali"
+    ]
+  }
+}

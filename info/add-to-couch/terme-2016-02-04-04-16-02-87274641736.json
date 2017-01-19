@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-16-02-87274641736",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Fidjien/",
+  "description": "Description de Fidjien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "fj",
+  "ISO-639-2": "fij",
+  "ISO-639-3": "fij",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-16-02",
+  "moment-de-modification": "2016-02-04-04-16-48",
+  "nom": "Fidjien",
+  "nom-folder": "Fidjien",
+  "nom-machine": "terme-2016-02-04-04-16-02-87274641736",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Fidjien",
+  "nomLangues": {
+    "en": [
+      "Fijian"
+    ],
+    "ar": [
+      "فيجية"
+    ],
+    "es": [
+      "Fiyiano"
+    ],
+    "fr": [
+      "Fidjien"
+    ],
+    "it": [
+      "Figiano"
+    ],
+    "ru": [
+      "Фиджийский"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234045",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/media-citoyen/",
+  "description": "Description de Média citoyen",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369457,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Média citoyen",
+  "nom-folder": "media-citoyen",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234045",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Citizen media"
+    ],
+    "es": [
+      "Medio ciudadano"
+    ],
+    "fr": [
+      "Média citoyen"
+    ],
+    "it": [
+      "Media cittadino"
+    ]
+  }
+}

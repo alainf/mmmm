@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226650",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Archives-et-conservation/",
+  "description": "Description de Bibliothéconomie",
+  "enfants": [
+    "terme-2015-12-06-16-25-10-86966226653",
+    "terme-2015-12-06-16-25-10-86966226656",
+    "terme-2015-12-06-16-25-10-86966226659",
+    "terme-2015-12-06-16-25-11-86966226661",
+    "terme-2015-12-06-16-25-11-86966226664"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1562,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Bibliothéconomie",
+  "nom-folder": "Archives-et-conservation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-10-86966226650"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Library science"
+    ],
+    "ar": [
+      "علم المكتبات والمعلومات"
+    ],
+    "es": [
+      "Biblioteconomía y documentación"
+    ],
+    "fr": [
+      "Bibliothéconomie"
+    ],
+    "it": [
+      "Biblioteconomia"
+    ]
+  }
+}

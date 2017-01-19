@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-42-86966232168",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Courants-anthropologiques/Evolutionnisme/",
+  "description": "Description de Évolutionnisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1044,
+  "identifiant-drupal-parent": 1025,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-42",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Évolutionnisme",
+  "nom-folder": "Evolutionnisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-42-86966232168"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Evolutionism"
+    ],
+    "ar": [
+      "التطورية بوصفها"
+    ],
+    "es": [
+      "Evolucionismo"
+    ],
+    "fr": [
+      "Évolutionnisme"
+    ],
+    "it": [
+      "Evoluzionismo"
+    ]
+  }
+}

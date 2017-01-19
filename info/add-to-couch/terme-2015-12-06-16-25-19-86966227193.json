@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227193",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Marches-des-capitaux/",
+  "description": "Description de Marchés des capitaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472127,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marchés des capitaux",
+  "nom-folder": "Marches-des-capitaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227193"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Capital markets"
+    ],
+    "ar": [
+      "أسواق رؤوس الأموال"
+    ],
+    "es": [
+      "Mercado de capitales"
+    ],
+    "fr": [
+      "Marchés des capitaux"
+    ],
+    "it": [
+      "Mercato dei capitali"
+    ]
+  }
+}

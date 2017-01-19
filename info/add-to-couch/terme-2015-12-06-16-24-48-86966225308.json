@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-48-86966225308",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-du-Maghreb/",
+  "description": "Etudes du Maghreb",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466805,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-48",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études du Maghreb",
+  "nom-folder": "Etudes-du-Maghreb",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-48-86966225308"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Maghrib Studies"
+    ],
+    "ar": [
+      "الدراسات المغرب العربي"
+    ],
+    "es": [
+      "Estudios del Maghreb"
+    ],
+    "fr": [
+      "Études du Maghreb"
+    ],
+    "it": [
+      "studi del Maghreb"
+    ]
+  }
+}

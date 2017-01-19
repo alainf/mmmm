@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226188",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Langues/Langues-vivantes/",
+  "description": "Description de Langues vivantes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451355,
+  "identifiant-drupal-parent": 270402,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Langues vivantes",
+  "nom-folder": "Langues-vivantes",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-03-86966226188"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Modern languages"
+    ],
+    "ar": [
+      "اللغـات الحيـة"
+    ],
+    "es": [
+      "Lenguas modernas"
+    ],
+    "fr": [
+      "Langues vivantes"
+    ],
+    "it": [
+      "lingue moderne"
+    ]
+  }
+}

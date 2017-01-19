@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226477",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Carburants-propres/",
+  "description": "Description de Carburants propres",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472261,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Carburants propres",
+  "nom-folder": "Carburants-propres",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226477"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Clean fuels"
+    ],
+    "ar": [
+      "الوقود النظيف"
+    ],
+    "es": [
+      "Combustible limpio"
+    ],
+    "fr": [
+      "Carburants propres"
+    ],
+    "it": [
+      "carburanti puliti"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-56-86966229409",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Humanisme-radical/",
+  "description": "Description de Humanisme radical",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2272,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-56",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Humanisme radical",
+  "nom-folder": "Humanisme-radical",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-56-86966229409"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Radical humanism"
+    ],
+    "ar": [
+      "إنسانية الراديكالية"
+    ],
+    "es": [
+      "Humanismo radical"
+    ],
+    "fr": [
+      "Humanisme radical"
+    ],
+    "it": [
+      "umanesimo radicale"
+    ]
+  }
+}

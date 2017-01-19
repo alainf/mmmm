@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-39-86966224747",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Design/Typologies-du-design/Design-graphique/",
+  "description": "Description de Design graphique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466899,
+  "identifiant-drupal-parent": 466897,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-39",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Design graphique",
+  "nom-folder": "Design-graphique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-39-86966224747"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Graphic design"
+    ],
+    "ar": [
+      "تصميم الرسومات"
+    ],
+    "es": [
+      "Diseño gráfico"
+    ],
+    "fr": [
+      "Design graphique"
+    ],
+    "it": [
+      "Progettazione grafica"
+    ]
+  }
+}

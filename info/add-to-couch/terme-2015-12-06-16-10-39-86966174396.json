@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-39-86966174396",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/entreprise/",
+  "description": "Description de Entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-39",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Entreprise",
+  "nom-folder": "entreprise",
+  "nom-machine": "terme-2015-12-06-16-10-39-86966174396",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Entreprise"
+    ],
+    "ar": [
+      "عمل تجاري"
+    ],
+    "es": [
+      "Empresa"
+    ],
+    "fr": [
+      "Entreprise"
+    ],
+    "it": [
+      "Impresa"
+    ]
+  }
+}

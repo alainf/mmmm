@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230342",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-des-inegalites/",
+  "description": "Description de Économie des inégalités",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451214,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie des inégalités",
+  "nom-folder": "Economie-des-inegalites",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-12-86966230342"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of inequality"
+    ],
+    "ar": [
+      "الاقتصاد من عدم المساواة"
+    ],
+    "es": [
+      "Economía de la desigualdad"
+    ],
+    "fr": [
+      "Économie des inégalités"
+    ],
+    "it": [
+      "Economia delle disuguaglianza"
+    ]
+  }
+}

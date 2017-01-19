@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228519",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-agricole-(secteurs)/Metier-de-conseiller-agricole/",
+  "description": "Description de Métier de conseiller agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2206,
+  "identifiant-drupal-parent": 2190,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Métier de conseiller agricole",
+  "nom-folder": "Metier-de-conseiller-agricole",
+  "nom-machine": "terme-2015-12-06-16-25-41-86966228519",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural consultant profession"
+    ],
+    "ar": [
+      "مهنة المستشار الزراعي"
+    ],
+    "es": [
+      "Asesor agrícola"
+    ],
+    "fr": [
+      "Métier de conseiller agricole"
+    ],
+    "it": [
+      "Professione di consulente agricolo"
+    ]
+  }
+}

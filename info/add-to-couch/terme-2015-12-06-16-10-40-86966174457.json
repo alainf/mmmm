@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174457",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Bambara/",
+  "description": "Description de Bambara",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317581,
+  "ISO-639-1": "bm",
+  "ISO-639-2": "bam",
+  "ISO-639-3": "bam",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2016-02-04-03-33-29",
+  "nom": "Bambara",
+  "nom-folder": "Bambara",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174457",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Bambara",
+  "nomLangues": {
+    "en": [
+      "Bambara"
+    ],
+    "ar": [
+      "بمبرية"
+    ],
+    "es": [
+      "Bambara"
+    ],
+    "fr": [
+      "Bambara"
+    ],
+    "it": [
+      "Bambara"
+    ],
+    "ru": [
+      "Бамана"
+    ]
+  }
+}

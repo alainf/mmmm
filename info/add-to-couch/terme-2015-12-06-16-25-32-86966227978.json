@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227978",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-de-crise-(gestion-de-projet)/",
+  "description": "Description de Gestion de crise (gestion de projet)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471364,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion de crise (gestion de projet)",
+  "nom-folder": "Gestion-de-crise-(gestion-de-projet)",
+  "nom-machine": "terme-2015-12-06-16-25-32-86966227978",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Crisis management (Project Management)"
+    ],
+    "ar": [
+      "إدارة الأزمات (إدارة المشاريع)"
+    ],
+    "es": [
+      "Gestión de crisis (gestión de proyectos)"
+    ],
+    "fr": [
+      "Gestion de crise (gestion de projet)"
+    ],
+    "it": [
+      "Gestione di crisi (gestione di progetto)"
+    ]
+  }
+}

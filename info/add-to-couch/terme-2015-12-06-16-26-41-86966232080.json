@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232080",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-judiciaire/",
+  "description": "Description de Anthropologie judiciaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1017,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie judiciaire",
+  "nom-folder": "Anthropologie-judiciaire",
+  "nom-machine": "terme-2015-12-06-16-26-41-86966232080",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Forensic anthropology"
+    ],
+    "ar": [
+      "أنثربولوجية الطبي الشرعي"
+    ],
+    "es": [
+      "Antropología forense"
+    ],
+    "fr": [
+      "Anthropologie judiciaire"
+    ],
+    "it": [
+      "Antropologia forense"
+    ]
+  }
+}

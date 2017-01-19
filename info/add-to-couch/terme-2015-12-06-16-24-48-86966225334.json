@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-48-86966225334",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-juives/",
+  "description": "Description de Études juives",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466809,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-48",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études juives",
+  "nom-folder": "Etudes-juives",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-48-86966225334"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Jewish studies"
+    ],
+    "ar": [
+      "الدراسات اليهودية"
+    ],
+    "es": [
+      "Estudios judíos"
+    ],
+    "fr": [
+      "Études juives"
+    ],
+    "it": [
+      "Studi ebraici"
+    ]
+  }
+}

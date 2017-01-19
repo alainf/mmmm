@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-13-86966223183",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Philosophy/Postmodernism/",
+  "description": "Description de Postmodernism",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369222,
+  "identifiant-drupal-parent": 369203,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Postmodernism",
+  "nom-folder": "Postmodernism",
+  "nom-machine": "terme-2015-12-06-16-24-13-86966223183",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Postmodernism"
+    ]
+  }
+}

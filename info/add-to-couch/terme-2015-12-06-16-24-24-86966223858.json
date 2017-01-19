@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-24-86966223858",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Meteorologie-agricole/",
+  "description": "Description de Météorologie agricole",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 914,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-24",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Météorologie agricole",
+  "nom-folder": "Meteorologie-agricole",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-24-86966223858"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural meteorology"
+    ],
+    "ar": [
+      "الأرصاد الجوية الزراعية"
+    ],
+    "es": [
+      "Meteorología Agrícola"
+    ],
+    "fr": [
+      "Météorologie agricole"
+    ],
+    "it": [
+      "Meteorologia agricola"
+    ]
+  }
+}

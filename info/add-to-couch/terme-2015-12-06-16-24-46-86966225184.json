@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-46-86966225184",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Photographie/Histoire-de-la-photographie/",
+  "description": "Description de Histoire de la photographie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467034,
+  "identifiant-drupal-parent": 467032,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-46",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Histoire de la photographie",
+  "nom-folder": "Histoire-de-la-photographie",
+  "nom-machine": "terme-2015-12-06-16-24-46-86966225184",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of photography"
+    ],
+    "ar": [
+      "تاريخ التصوير الفوتوغرافي"
+    ],
+    "es": [
+      "Historia de la fotografía"
+    ],
+    "fr": [
+      "Histoire de la photographie"
+    ],
+    "it": [
+      "Storia della fotografia"
+    ]
+  }
+}

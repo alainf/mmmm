@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221357",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Agenda/Congres-passes/",
+  "description": "Description de Congrès passés",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1710,
+  "identifiant-drupal-parent": 1670,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Congrès passés",
+  "nom-folder": "Congres-passes",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221357"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Previous conventions"
+    ],
+    "ar": [
+      "المؤتمرات السابقة"
+    ],
+    "es": [
+      "Congresos previos"
+    ],
+    "fr": [
+      "Congrès passés"
+    ],
+    "it": [
+      "Congressi precedenti"
+    ],
+    "ru": [
+      "предыдущие конвенции"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-04-86966229888",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-electrique-et-electronique/Antennes-et-propagation/",
+  "description": "Description de Antennes et propagation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270895,
+  "identifiant-drupal-parent": 270894,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Antennes et propagation",
+  "nom-folder": "Antennes-et-propagation",
+  "nom-machine": "terme-2015-12-06-16-26-04-86966229888",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Antennas and propagation"
+    ],
+    "ar": [
+      "الهوائيات والانتشار"
+    ],
+    "es": [
+      "Antenas y propagación"
+    ],
+    "fr": [
+      "Antennes et propagation"
+    ],
+    "it": [
+      "Antenne e propagazione"
+    ]
+  }
+}

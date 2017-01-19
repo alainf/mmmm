@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230835",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Fabrication-de-produits-chimiques/Fab-de-fibres,-de-filaments-artificiels,-synthetiques/",
+  "description": "Description de Fabrication de fibres et de filaments artificiels et synthétiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451109,
+  "identifiant-drupal-parent": 451099,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Fabrication de fibres et de filaments artificiels et synthétiques",
+  "nom-folder": "Fab-de-fibres,-de-filaments-artificiels,-synthetiques",
+  "nom-machine": "terme-2015-12-06-16-26-20-86966230835",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fibres and artificial and synthetic filaments manufacturing"
+    ],
+    "ar": [
+      "تصنيع الألياف و خيوط إصطناعية و تركيبية"
+    ],
+    "es": [
+      "Fabricación de fibras y de filamentos artificiales y sintéticos"
+    ],
+    "fr": [
+      "Fabrication de fibres et de filaments artificiels et synthétiques"
+    ],
+    "it": [
+      "Fabbricazione di fibre e filamenti artificiali e sintetici"
+    ]
+  }
+}

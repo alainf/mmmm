@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232512",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Cognition-sociale/",
+  "description": "Description de Cognition sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1070,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Cognition sociale",
+  "nom-folder": "Cognition-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-48-86966232512"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social cognition"
+    ],
+    "ar": [
+      "الإدراكية الإجتماعية"
+    ],
+    "es": [
+      "Cognición social"
+    ],
+    "fr": [
+      "Cognition sociale"
+    ],
+    "it": [
+      "cognizione sociale"
+    ]
+  }
+}

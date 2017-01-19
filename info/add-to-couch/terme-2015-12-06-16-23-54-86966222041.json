@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-54-86966222041",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Biological-Sciences/Ichthyology/",
+  "description": "Description de Ichthyology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368830,
+  "identifiant-drupal-parent": 368810,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-54",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Ichthyology",
+  "nom-folder": "Ichthyology",
+  "nom-machine": "terme-2015-12-06-16-23-54-86966222041",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Ichthyology"
+    ]
+  }
+}

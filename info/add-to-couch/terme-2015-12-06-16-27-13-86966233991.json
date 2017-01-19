@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-13-86966233991",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/seminaire-webinaire/",
+  "description": "Description de Séminaire webinaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 378177,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Séminaire webinaire",
+  "nom-folder": "seminaire-webinaire",
+  "nom-machine": "terme-2015-12-06-16-27-13-86966233991",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Seminar webinar"
+    ],
+    "es": [
+      "Seminario webinario"
+    ],
+    "fr": [
+      "Séminaire webinaire"
+    ],
+    "it": [
+      "Seminario webinar"
+    ]
+  }
+}

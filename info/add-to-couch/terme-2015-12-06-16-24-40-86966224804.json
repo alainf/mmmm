@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-40-86966224804",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Dessin/Histoire-du-dessin/",
+  "description": "Description de Histoire du dessin",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466916,
+  "identifiant-drupal-parent": 466909,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-40",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Histoire du dessin",
+  "nom-folder": "Histoire-du-dessin",
+  "nom-machine": "terme-2015-12-06-16-24-40-86966224804",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of drawing"
+    ],
+    "ar": [
+      "تاريخ الرسم"
+    ],
+    "es": [
+      "Historia del dibujo"
+    ],
+    "fr": [
+      "Histoire du dessin"
+    ],
+    "it": [
+      "Storia del disegno"
+    ]
+  }
+}

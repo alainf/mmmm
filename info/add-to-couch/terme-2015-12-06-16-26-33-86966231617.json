@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231617",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Scepticisme-(philosophie)/",
+  "description": "Description de Scepticisme (philosophie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451249,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Scepticisme (philosophie)",
+  "nom-folder": "Scepticisme-(philosophie)",
+  "nom-machine": "terme-2015-12-06-16-26-33-86966231617",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Skepticism (philosophy)"
+    ],
+    "ar": [
+      "الشكوك (الفلسفة)"
+    ],
+    "es": [
+      "Escepticismo (filosofía)"
+    ],
+    "fr": [
+      "Scepticisme (philosophie)"
+    ],
+    "it": [
+      "Scetticismo (filosofia)"
+    ]
+  }
+}

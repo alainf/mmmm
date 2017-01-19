@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-41-86966224882",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Histoire-de-l'art/Histoire-de-l'architecture/",
+  "description": "Description de Histoire de l'architecture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466830,
+  "identifiant-drupal-parent": 982,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-41",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Histoire de l'architecture",
+  "nom-folder": "Histoire-de-l'architecture",
+  "nom-machine": "terme-2015-12-06-16-24-41-86966224882",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of architecture"
+    ],
+    "ar": [
+      "تاريخ العمارة"
+    ],
+    "es": [
+      "Historia de la arquitectura"
+    ],
+    "fr": [
+      "Histoire de l'architecture"
+    ],
+    "it": [
+      "Storia dell'architettura"
+    ]
+  }
+}

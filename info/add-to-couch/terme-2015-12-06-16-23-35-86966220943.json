@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220943",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Services-publics/",
+  "description": "Description de Services publics",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270563,
+  "identifiant-drupal-parent": 270557,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Services publics",
+  "nom-folder": "Services-publics",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220943"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public services"
+    ],
+    "ar": [
+      "الخدمات العامة"
+    ],
+    "es": [
+      "Servicios públicos"
+    ],
+    "fr": [
+      "Services publics"
+    ],
+    "it": [
+      "Servizi pubblici"
+    ]
+  }
+}

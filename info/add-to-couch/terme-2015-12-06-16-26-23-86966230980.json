@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966230980",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Amerique-latine-et-Caraibes/",
+  "description": "Amérique latine et Caraà¯bes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455637,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Amérique latine et Caraïbes",
+  "nom-folder": "Amerique-latine-et-Caraibes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-23-86966230980"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Latin America and the Caribbean"
+    ],
+    "ar": [
+      "أمريكا اللاتينية ومنطقة البحر الكاريب"
+    ],
+    "es": [
+      "América Latina y el Caribe"
+    ],
+    "fr": [
+      "Amérique latine et Caraïbes"
+    ],
+    "it": [
+      "America latina e Caraibi"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-40-86966224821",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Dessin/Supports-de-dessin/Parois-rocheuses-(dessin)/",
+  "description": "Description de Parois rocheuses (dessin)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466922,
+  "identifiant-drupal-parent": 466919,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-40",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Parois rocheuses (dessin)",
+  "nom-folder": "Parois-rocheuses-(dessin)",
+  "nom-machine": "terme-2015-12-06-16-24-40-86966224821",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rock walls"
+    ],
+    "ar": [
+      "روك الجدران - رسم"
+    ],
+    "es": [
+      "Paredes rocosas (dibujo)"
+    ],
+    "fr": [
+      "Parois rocheuses (dessin)"
+    ],
+    "it": [
+      "Pareti rocciose (disegno)"
+    ]
+  }
+}

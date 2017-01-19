@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226817",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Industries-creatives/Medias-de-masse-(industries-creatives)/Radio-communautaire/",
+  "description": "Description de Radio communautaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471980,
+  "identifiant-drupal-parent": 466839,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Radio communautaire",
+  "nom-folder": "Radio-communautaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226817"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Community radio"
+    ],
+    "ar": [
+      "إذاعة المجتمع المحلي"
+    ],
+    "es": [
+      "Radio comunitaria"
+    ],
+    "fr": [
+      "Radio communautaire"
+    ],
+    "it": [
+      "radio comunitaria"
+    ]
+  }
+}

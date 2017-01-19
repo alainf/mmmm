@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224048",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Culture-de-fruits-et-de-noix/",
+  "description": "Description de Culture de fruits et de noix",
+  "enfants": [
+    "terme-2015-12-06-16-24-27-86966224051"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451053,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture de fruits et de noix",
+  "nom-folder": "Culture-de-fruits-et-de-noix",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-27-86966224048"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Citrus fruit cultivation"
+    ],
+    "ar": [
+      "زراعة الفواكه و المكسرات"
+    ],
+    "es": [
+      "Cultivo de frutas y nueces"
+    ],
+    "fr": [
+      "Culture de fruits et de noix"
+    ],
+    "it": [
+      "Coltivazione di frutta e noci"
+    ]
+  }
+}

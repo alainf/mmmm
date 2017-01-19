@@ -1,0 +1,57 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226028",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/Traitement-automatique-du-langage-naturel/",
+  "description": "Description de Traitement automatique du langage naturel",
+  "enfants": [
+    "terme-2015-12-06-16-25-00-86966226031",
+    "terme-2015-12-06-16-25-00-86966226034",
+    "terme-2015-12-06-16-25-00-86966226037",
+    "terme-2015-12-06-16-25-00-86966226040",
+    "terme-2015-12-06-16-25-00-86966226043",
+    "terme-2015-12-06-16-25-00-86966226046",
+    "terme-2015-12-06-16-25-00-86966226048",
+    "terme-2015-12-06-16-25-00-86966226052",
+    "terme-2015-12-06-16-25-00-86966226054",
+    "terme-2015-12-06-16-25-00-86966226058",
+    "terme-2015-12-06-16-25-01-86966226060",
+    "terme-2015-12-06-16-25-01-86966226063",
+    "terme-2015-12-06-16-25-01-86966226066",
+    "terme-2015-12-06-16-25-01-86966226069",
+    "terme-2015-12-06-16-25-01-86966226071",
+    "terme-2015-12-06-16-25-01-86966226074",
+    "terme-2015-12-06-16-25-01-86966226077",
+    "terme-2015-12-06-16-25-01-86966226079",
+    "terme-2015-12-06-16-25-01-86966226083"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472500,
+  "identifiant-drupal-parent": 270356,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Traitement automatique du langage naturel",
+  "nom-folder": "Traitement-automatique-du-langage-naturel",
+  "nom-machine": "terme-2015-12-06-16-25-00-86966226028",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Natural language processing"
+    ],
+    "ar": [
+      "معالجة اللغات الطبيعية"
+    ],
+    "es": [
+      "Procesamiento del lenguaje natural"
+    ],
+    "fr": [
+      "Traitement automatique du langage naturel"
+    ],
+    "it": [
+      "Elaborazione del linguaggio naturale"
+    ],
+    "ru": []
+  }
+}

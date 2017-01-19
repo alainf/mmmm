@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228364",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gouvernance-d'entreprise/Identite-organisationnelle/",
+  "description": "Description de Identité organisationnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472032,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Identité organisationnelle",
+  "nom-folder": "Identite-organisationnelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-39-86966228364"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organisational identity"
+    ],
+    "ar": [
+      "هوية تنظيمية"
+    ],
+    "es": [
+      "Identidad organizacional"
+    ],
+    "fr": [
+      "Identité organisationnelle"
+    ],
+    "it": [
+      "Identità organizzativa"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229271",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Strategie-d'entreprise-(CSR)/Analyse-strategique-(RSE)/",
+  "description": "Description de Analyse stratégique (RSE)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2240,
+  "identifiant-drupal-parent": 2239,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Analyse stratégique (RSE)",
+  "nom-folder": "Analyse-strategique-(RSE)",
+  "nom-machine": "terme-2015-12-06-16-25-54-86966229271",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Strategic Analysis"
+    ],
+    "ar": [
+      "تحليل الإستراتيجي (المسؤولية الإجتماية لالشركة)"
+    ],
+    "es": [
+      "Análisis estratégico (RSE)"
+    ],
+    "fr": [
+      "Analyse stratégique (RSE)"
+    ],
+    "it": [
+      "Analisi strategica (responsabilità sociale d'impresa)"
+    ]
+  }
+}

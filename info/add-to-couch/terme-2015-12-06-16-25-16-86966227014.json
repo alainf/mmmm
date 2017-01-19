@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966227014",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Info-et-comm-scientifique-et-technique/",
+  "description": "Description de Information et communication scientifique et technique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467273,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Information et communication scientifique et technique",
+  "nom-folder": "Info-et-comm-scientifique-et-technique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-16-86966227014"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Technical and scientific Communication and information"
+    ],
+    "ar": [
+      "معلومات وإتصالات علمية وتقنية"
+    ],
+    "es": [
+      "Información y comunicación científica y técnica"
+    ],
+    "fr": [
+      "Information et communication scientifique et technique"
+    ],
+    "it": [
+      "informazione e comunicazione scientifica e tecnica"
+    ]
+  }
+}

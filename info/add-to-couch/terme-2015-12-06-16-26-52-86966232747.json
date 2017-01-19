@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232747",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Anarchisme-(ideologie)/Anarchisme-socialiste/",
+  "description": "Description de Anarchisme socialiste",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1120,
+  "identifiant-drupal-parent": 1112,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Anarchisme socialiste",
+  "nom-folder": "Anarchisme-socialiste",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232747"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Socialist anarchism"
+    ],
+    "ar": [
+      "لاسلطوية اشتراكية"
+    ],
+    "es": [
+      "Anarquismo socialista"
+    ],
+    "fr": [
+      "Anarchisme socialiste"
+    ],
+    "it": [
+      "anarchismo socialista"
+    ]
+  }
+}

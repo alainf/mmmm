@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227265",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-d'articles-de-divertissement,-sport/",
+  "description": "Commerce de gros d'articles de divertissement et de sport",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451126,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros d’articles de divertissement et de sport",
+  "nom-folder": "C-de-g-d'articles-de-divertissement,-sport",
+  "nom-machine": "terme-2015-12-06-16-25-21-86966227265",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of entertainment and sports articles"
+    ],
+    "ar": [
+      "تجارة بالجملة لمواد الترفيه و الالعاب الرياضية"
+    ],
+    "es": [
+      "Comercio mayorista de artículos de deportes y entretenimiento"
+    ],
+    "fr": [
+      "Commerce de gros d’articles de divertissement et de sport"
+    ],
+    "it": [
+      "Commercio all'ingrosso di articoli di intrattenimento e sport"
+    ]
+  }
+}

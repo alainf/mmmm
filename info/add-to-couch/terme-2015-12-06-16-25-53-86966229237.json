@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229237",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Criteres-de-la-resp-sociale-et-env-des-entreprises/Criteres-de-gouvernance/",
+  "description": "Description de Critères de gouvernance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2232,
+  "identifiant-drupal-parent": 2231,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Critères de gouvernance",
+  "nom-folder": "Criteres-de-gouvernance",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-53-86966229237"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Governance standards"
+    ],
+    "ar": [
+      "معايير الحكم"
+    ],
+    "es": [
+      "Criterios de gobernanza"
+    ],
+    "fr": [
+      "Critères de gouvernance"
+    ],
+    "it": [
+      "Criteri di governance"
+    ]
+  }
+}

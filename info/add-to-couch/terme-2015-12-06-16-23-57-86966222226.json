@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-57-86966222226",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Computer-and-Infomation-Science/Design-Automation/",
+  "description": "Description de Design automation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368895,
+  "identifiant-drupal-parent": 368888,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-57",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Design automation",
+  "nom-folder": "Design-Automation",
+  "nom-machine": "terme-2015-12-06-16-23-57-86966222226",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Design automation"
+    ]
+  }
+}

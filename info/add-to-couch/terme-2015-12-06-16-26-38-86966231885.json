@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231885",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Timidite/",
+  "description": "Description de Timidité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451281,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Timidité",
+  "nom-folder": "Timidite",
+  "nom-machine": "terme-2015-12-06-16-26-38-86966231885",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Shyness"
+    ],
+    "ar": [
+      "حياء"
+    ],
+    "es": [
+      "Timidez"
+    ],
+    "fr": [
+      "Timidité"
+    ],
+    "it": [
+      "Timidezza"
+    ]
+  }
+}

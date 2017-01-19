@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225681",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Delocalisation-des-activites-bancaires/",
+  "description": "Description de Délocalisation des activités bancaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472222,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Délocalisation des activités bancaires",
+  "nom-folder": "Delocalisation-des-activites-bancaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225681"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bank operations offshoring"
+    ],
+    "ar": [
+      "إعادة الإنتشار الأنشطة البنكية"
+    ],
+    "es": [
+      "Deslocalización de actividades bancarias"
+    ],
+    "fr": [
+      "Délocalisation des activités bancaires"
+    ],
+    "it": [
+      "Delocalizzazione delle operazioni bancarie"
+    ]
+  }
+}

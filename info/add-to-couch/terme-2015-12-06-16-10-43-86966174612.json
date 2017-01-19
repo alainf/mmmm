@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-43-86966174612",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Kinyarwanda/",
+  "description": "Description de Kinyarwanda",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380431,
+  "ISO-639-1": "rw",
+  "ISO-639-2": "kin",
+  "ISO-639-3": "kin",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-43",
+  "moment-de-modification": "2016-02-04-06-05-55",
+  "nom": "Kinyarwanda",
+  "nom-folder": "Kinyarwanda",
+  "nom-machine": "terme-2015-12-06-16-10-43-86966174612",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Kinyarwanda",
+  "nomLangues": {
+    "en": [
+      "Kinyarwanda"
+    ],
+    "ar": [
+      "كينيارواندا"
+    ],
+    "es": [
+      "Kiñaruanda"
+    ],
+    "fr": [
+      "Kinyarwanda"
+    ],
+    "it": [
+      "Kinyarwanda"
+    ],
+    "ru": [
+      "Руанда"
+    ]
+  }
+}

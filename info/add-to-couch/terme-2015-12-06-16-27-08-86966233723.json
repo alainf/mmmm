@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233723",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Jardin-public/",
+  "description": "Description de Jardin public",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467113,
+  "identifiant-drupal-parent": 467096,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Jardin public",
+  "nom-folder": "Jardin-public",
+  "nom-machine": "terme-2015-12-06-16-27-08-86966233723",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban park"
+    ],
+    "ar": [
+      "حديقة عمومية"
+    ],
+    "es": [
+      "Parque urbano"
+    ],
+    "fr": [
+      "Jardin public"
+    ],
+    "it": [
+      "Parco cittadino"
+    ]
+  }
+}

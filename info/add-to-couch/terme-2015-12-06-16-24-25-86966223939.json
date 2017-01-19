@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223939",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Conchyliculture/Ostreiculture/Metissage-zootechnique/",
+  "description": "Description de Métissage zootechnique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269054,
+  "identifiant-drupal-parent": 269052,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Métissage zootechnique",
+  "nom-folder": "Metissage-zootechnique",
+  "nom-machine": "terme-2015-12-06-16-24-25-86966223939",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Zootechnical miscegenation"
+    ],
+    "ar": [
+      "أسلوب الإنتاج الحيواني بتمازج الأجناس"
+    ],
+    "es": [
+      "Mestizaje zootécnico"
+    ],
+    "fr": [
+      "Métissage zootechnique"
+    ],
+    "it": [
+      "Metissaggio zootecnico"
+    ]
+  }
+}

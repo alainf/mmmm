@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227383",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Commerce-international-et-mondialisation/",
+  "description": "Description de Commerce international et mondialisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1808,
+  "identifiant-drupal-parent": 1802,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce international et mondialisation",
+  "nom-folder": "Commerce-international-et-mondialisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-23-86966227383"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International trade and globalization"
+    ],
+    "ar": [
+      "التجارة الدولية والعولمة"
+    ],
+    "es": [
+      "Comercio internacional y globalización"
+    ],
+    "fr": [
+      "Commerce international et mondialisation"
+    ],
+    "it": [
+      "commercio esterno e globalizzazione"
+    ]
+  }
+}

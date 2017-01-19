@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-31-86966227920",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Aspects-legaux-et-administratifs/",
+  "description": "Description de Aspects légaux et administratifs en gestion de projets",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1945,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-31",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Aspects légaux et administratifs en gestion de projets",
+  "nom-folder": "Aspects-legaux-et-administratifs",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-31-86966227920"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Legal and administrative aspects of project management"
+    ],
+    "ar": [
+      "جوانب القانونية و الإدارية في إدارة المشاريع"
+    ],
+    "es": [
+      "Aspectos jurídicos y administrativos de la gestión de proyectos"
+    ],
+    "fr": [
+      "Aspects légaux et administratifs en gestion de projets"
+    ],
+    "it": [
+      "Aspetti giuridici e amministrativi della gestione di progetti"
+    ]
+  }
+}

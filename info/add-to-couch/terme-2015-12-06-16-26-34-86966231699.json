@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-34-86966231699",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Imaginaire-et-inconscient/",
+  "description": "Description de Imaginaire et inconscient",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451183,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-34",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Imaginaire et inconscient",
+  "nom-folder": "Imaginaire-et-inconscient",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-34-86966231699"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Imagination and the unconscious"
+    ],
+    "ar": [
+      "وهمي و عقل باطن"
+    ],
+    "es": [
+      "Imaginario e inconsciente"
+    ],
+    "fr": [
+      "Imaginaire et inconscient"
+    ],
+    "it": [
+      "Immaginario e inconscio"
+    ]
+  }
+}

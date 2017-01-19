@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227929",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Capital-de-risque/",
+  "description": "Description de Capital de risque",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451194,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Capital de risque",
+  "nom-folder": "Capital-de-risque",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-32-86966227929"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Venture capital"
+    ],
+    "ar": [
+      "رأس مال مضاربة"
+    ],
+    "es": [
+      "Capital riesgo"
+    ],
+    "fr": [
+      "Capital de risque"
+    ],
+    "it": [
+      "Capitale di rischio"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-25-86966231110",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Etats-Unis/",
+  "description": "Etats-Unis",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455656,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-25",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "États-Unis",
+  "nom-folder": "Etats-Unis",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-25-86966231110"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "United States"
+    ],
+    "ar": [
+      "الولايات المتحدة"
+    ],
+    "es": [
+      "Estados Unidos"
+    ],
+    "fr": [
+      "États-Unis"
+    ],
+    "it": [
+      "Stati Uniti"
+    ]
+  }
+}

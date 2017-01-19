@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-48-86966232532",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Desirabilite-sociale/",
+  "description": "Description de Désirabilité sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1077,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-48",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Désirabilité sociale",
+  "nom-folder": "Desirabilite-sociale",
+  "nom-machine": "terme-2015-12-06-16-26-48-86966232532",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social desirability"
+    ],
+    "ar": [
+      "استصواب الإاجتماعية"
+    ],
+    "es": [
+      "Deseabilidad social"
+    ],
+    "fr": [
+      "Désirabilité sociale"
+    ],
+    "it": [
+      "Desiderabilità sociale"
+    ]
+  }
+}

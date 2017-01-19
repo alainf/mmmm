@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232185",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Ethnographie/",
+  "description": "Description de Ethnographie",
+  "enfants": [
+    "terme-2015-12-06-16-26-43-86966232188",
+    "terme-2015-12-06-16-26-43-86966232191"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1026,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Ethnographie",
+  "nom-folder": "Ethnographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232185"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ethnography"
+    ],
+    "ar": [
+      "وصف الأعراق البشرية"
+    ],
+    "es": [
+      "Etnografía"
+    ],
+    "fr": [
+      "Ethnographie"
+    ],
+    "it": [
+      "Etnografia"
+    ]
+  }
+}

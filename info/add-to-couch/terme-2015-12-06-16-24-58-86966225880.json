@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225880",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Principes-des-finances-publiques/",
+  "description": "Description de Principes des finances publiques",
+  "enfants": [
+    "terme-2015-12-06-16-24-58-86966225883",
+    "terme-2015-12-06-16-24-58-86966225886",
+    "terme-2015-12-06-16-24-58-86966225889",
+    "terme-2015-12-06-16-24-58-86966225892",
+    "terme-2015-12-06-16-24-58-86966225895"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271350,
+  "identifiant-drupal-parent": 271339,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Principes des finances publiques",
+  "nom-folder": "Principes-des-finances-publiques",
+  "nom-machine": "terme-2015-12-06-16-24-58-86966225880",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Principles of public finance"
+    ],
+    "ar": [
+      "مبادئ المالية العامة"
+    ],
+    "es": [
+      "Principios de Finanzas Públicas"
+    ],
+    "fr": [
+      "Principes des finances publiques"
+    ],
+    "it": [
+      "Principi di finanze pubbliche"
+    ]
+  }
+}

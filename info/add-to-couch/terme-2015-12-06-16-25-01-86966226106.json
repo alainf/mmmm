@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226106",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Libre-d'acces/",
+  "description": "Description de Libre d'accès",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472156,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Libre d'accès",
+  "nom-folder": "Libre-d'acces",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-01-86966226106"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Free access"
+    ],
+    "ar": [
+      "الوصول الحر"
+    ],
+    "es": [
+      "Acceso libre"
+    ],
+    "fr": [
+      "Libre d'accès"
+    ],
+    "it": [
+      "Accesso libero"
+    ]
+  }
+}

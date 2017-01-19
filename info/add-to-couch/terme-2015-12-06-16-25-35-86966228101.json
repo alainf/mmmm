@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228101",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Psychologie-de-la-gestion-de-projet/",
+  "description": "Psychologie de la gestion de projet",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451276,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Psychologie en gestion de projet",
+  "nom-folder": "Psychologie-de-la-gestion-de-projet",
+  "nom-machine": "terme-2015-12-06-16-25-35-86966228101",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Psychology in project management"
+    ],
+    "ar": [
+      "مشروع إدارة علم النفس"
+    ],
+    "es": [
+      "Psicología en gestión de proyectos"
+    ],
+    "fr": [
+      "Psychologie en gestion de projet"
+    ],
+    "it": [
+      "Psicologia nella gestione di progetti"
+    ]
+  }
+}

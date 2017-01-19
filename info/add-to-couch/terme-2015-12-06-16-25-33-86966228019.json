@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966228019",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-des-projets-dans-la-sante/",
+  "description": "Description de Gestion des projets dans la santé",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1967,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des projets dans la santé",
+  "nom-folder": "Gestion-des-projets-dans-la-sante",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-33-86966228019"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management of projects in the field of health"
+    ],
+    "ar": [
+      "إدارة المشاريع في مجال الصحة"
+    ],
+    "es": [
+      "Gestión de proyectos en materia de salud"
+    ],
+    "fr": [
+      "Gestion des projets dans la santé"
+    ],
+    "it": [
+      "Gestione dei progetti nella salute"
+    ]
+  }
+}

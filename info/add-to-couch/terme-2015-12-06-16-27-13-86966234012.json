@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-13-86966234012",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/forum/",
+  "description": "Description de Forum",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369451,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-13",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Forum",
+  "nom-folder": "forum",
+  "nom-machine": "terme-2015-12-06-16-27-13-86966234012",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Forum"
+    ],
+    "es": [
+      "Foro"
+    ],
+    "fr": [
+      "Forum"
+    ],
+    "it": [
+      "Forum"
+    ]
+  }
+}

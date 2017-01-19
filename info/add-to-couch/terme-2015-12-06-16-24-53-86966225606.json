@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-53-86966225606",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Negociations-internationales/",
+  "description": "Description de Négociations internationales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272336,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-53",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Négociations internationales",
+  "nom-folder": "Negociations-internationales",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-53-86966225606"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International negociation"
+    ],
+    "ar": [
+      "المفاوضات الدولية"
+    ],
+    "es": [
+      "Negociaciones internacionales"
+    ],
+    "fr": [
+      "Négociations internationales"
+    ],
+    "it": [
+      "Negoziazioni internazionali"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-26-53-86966232818",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Liberalisme-(ideologie)/",
+  "description": "Description de Libéralisme (idéologie)",
+  "enfants": [
+    "terme-2015-12-06-16-26-53-86966232821",
+    "terme-2015-12-06-16-26-53-86966232827",
+    "terme-2015-12-06-16-26-53-86966232830",
+    "terme-2015-12-06-16-26-53-86966232833"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1115,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-53",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Libéralisme (idéologie)",
+  "nom-folder": "Liberalisme-(ideologie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-53-86966232818"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Liberalism (ideology)"
+    ],
+    "ar": [
+      "الليبرالية (ايديولوجية)"
+    ],
+    "es": [
+      "Liberalismo (ideología)"
+    ],
+    "fr": [
+      "Libéralisme (idéologie)"
+    ],
+    "it": [
+      "Liberalismo (ideologia)"
+    ]
+  }
+}

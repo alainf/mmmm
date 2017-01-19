@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221189",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Le-monde/Afrique/Le Moyen-Orient/",
+  "description": "Description de Le moyen-orient",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270667,
+  "identifiant-drupal-parent": 270664,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Le moyen-orient",
+  "nom-folder": "Le Moyen-Orient",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221189"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The middle-east"
+    ],
+    "ar": [
+      "الشرق الأوسط"
+    ],
+    "es": [
+      "El medio oriente"
+    ],
+    "fr": [
+      "Le moyen-orient"
+    ],
+    "it": [
+      "Il medio oriente"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233669",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Chaussee,-stationnement,-trottoir,-travaux-publics/",
+  "description": "Chaussée, stationnement, trottoir, travaux publics",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467100,
+  "identifiant-drupal-parent": 467096,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Chaussée, stationnement, trottoirs, travaux publics",
+  "nom-folder": "Chaussee,-stationnement,-trottoir,-travaux-publics",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-07-86966233669"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Roadway, parking, sidewalks, public works"
+    ],
+    "ar": [
+      "الطرق، مواقف للسيارات، الأرصفة، الأشغال العمومية"
+    ],
+    "es": [
+      "Carretera, estacionamiento, aceras, trabajos públicos"
+    ],
+    "fr": [
+      "Chaussée, stationnement, trottoirs, travaux publics"
+    ],
+    "it": [
+      "Carreggiata, sosta, marciapiedi, opere pubbliche"
+    ]
+  }
+}

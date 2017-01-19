@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-12-86966223168",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Philosophy/Philosophy-of-Mind/",
+  "description": "Description de Philosophy of mind",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369217,
+  "identifiant-drupal-parent": 369203,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Philosophy of mind",
+  "nom-folder": "Philosophy-of-Mind",
+  "nom-machine": "terme-2015-12-06-16-24-12-86966223168",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Philosophy of mind"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233516",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Religiosite/Religion-(religiosite)/",
+  "description": "Description de Religion (religiosité)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1297,
+  "identifiant-drupal-parent": 1259,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Religion (religiosité)",
+  "nom-folder": "Religion-(religiosite)",
+  "nom-machine": "terme-2015-12-06-16-27-05-86966233516",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Religion (religiosity)"
+    ],
+    "ar": [
+      "الدين (التدين)"
+    ],
+    "es": [
+      "Religión (religiosidad)"
+    ],
+    "fr": [
+      "Religion (religiosité)"
+    ],
+    "it": [
+      "Religione (religiosità)"
+    ]
+  }
+}

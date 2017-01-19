@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-14-86966230445",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-urbaine-(branches-de-l'economie)/",
+  "description": "Description de Économie urbaine (branches de l'économie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1549,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-14",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie urbaine (branches de l'économie)",
+  "nom-folder": "Economie-urbaine-(branches-de-l'economie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-14-86966230445"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban Economics (branches of the economy)"
+    ],
+    "ar": [
+      "الاقتصاد الحضرى (فروع الاقتصاد("
+    ],
+    "es": [
+      "Economía Urbana (ramas de la economía)"
+    ],
+    "fr": [
+      "Économie urbaine (branches de l'économie)"
+    ],
+    "it": [
+      "Economia urbana (rami della economia)"
+    ]
+  }
+}

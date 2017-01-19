@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228585",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-gouvernementale/Administration-locale/",
+  "description": "Description de Administration locale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472117,
+  "identifiant-drupal-parent": 2196,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Administration locale",
+  "nom-folder": "Administration-locale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228585"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Local administration"
+    ],
+    "ar": [
+      "إدارة محلية"
+    ],
+    "es": [
+      "Administración local"
+    ],
+    "fr": [
+      "Administration locale"
+    ],
+    "it": [
+      "amministrazione locale"
+    ]
+  }
+}

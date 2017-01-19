@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220701",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industrie-de-l'energie/",
+  "description": "Description de Industrie de l'énergie",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471606,
+  "identifiant-drupal-parent": 270556,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Industrie de l'énergie",
+  "nom-folder": "Industrie-de-l'energie",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220701"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy industry"
+    ],
+    "ar": [
+      "صناعة الطاقة"
+    ],
+    "es": [
+      "Industria de la energía"
+    ],
+    "fr": [
+      "Industrie de l'énergie"
+    ],
+    "it": [
+      "Industria energetica"
+    ],
+    "ru": [
+      "Промышленность энергии"
+    ]
+  }
+}

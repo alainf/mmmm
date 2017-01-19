@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-05-86966222723",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Law/Human-Rights/",
+  "description": "Description de Human rights",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369062,
+  "identifiant-drupal-parent": 369048,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-05",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Human rights",
+  "nom-folder": "Human-Rights",
+  "nom-machine": "terme-2015-12-06-16-24-05-86966222723",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Human rights"
+    ]
+  }
+}

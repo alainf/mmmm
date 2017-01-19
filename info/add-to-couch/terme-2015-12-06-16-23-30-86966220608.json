@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-23-30-86966220608",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/roles/post-doctorant/",
+  "description": "Description de Post doctorant",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-30",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Post doctorant",
+  "nom-folder": "post-doctorant",
+  "nom-machine": "terme-2015-12-06-16-23-30-86966220608",
+  "sous-type": "roles",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Post doctoral student"
+    ],
+    "ar": [
+      "آخر الدكتوراه"
+    ],
+    "es": [
+      "Postdoctoral"
+    ],
+    "fr": [
+      "Post doctorant"
+    ],
+    "it": [
+      "Ricercatore post-dottorale"
+    ]
+  }
+}

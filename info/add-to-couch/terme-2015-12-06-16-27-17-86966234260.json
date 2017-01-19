@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-17-86966234260",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/conseil-counselling/",
+  "description": "conseil counselling",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369343,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-17",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Conseil",
+  "nom-folder": "conseil-counselling",
+  "nom-machine": "terme-2015-12-06-16-27-17-86966234260",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Counseling"
+    ],
+    "es": [
+      "Counselling"
+    ],
+    "fr": [
+      "Conseil"
+    ],
+    "it": [
+      "Counselling"
+    ]
+  }
+}

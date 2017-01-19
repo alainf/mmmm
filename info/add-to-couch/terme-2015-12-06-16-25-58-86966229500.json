@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229500",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theories-des-systemes/",
+  "description": "Théories des systèmes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2290,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théories des systèmes (organisations)",
+  "nom-folder": "Theories-des-systemes",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229500"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Systems theory (organizations)"
+    ],
+    "ar": [
+      "نظرية الأنظمة"
+    ],
+    "es": [
+      "Teoría de sistemas (organizaciones)"
+    ],
+    "fr": [
+      "Théories des systèmes (organisations)"
+    ],
+    "it": [
+      "Teorie dei sistemi (organizzazioni)"
+    ]
+  }
+}

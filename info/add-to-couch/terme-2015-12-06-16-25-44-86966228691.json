@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-44-86966228691",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Veille-strategique/Veille-informationnelle/",
+  "description": "Description de Veille informationnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469917,
+  "identifiant-drupal-parent": 2168,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-44",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Veille informationnelle",
+  "nom-folder": "Veille-informationnelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-44-86966228691"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Information monitoring"
+    ],
+    "ar": [
+      "رصد المعلومات"
+    ],
+    "es": [
+      "Inteligencia informativa"
+    ],
+    "fr": [
+      "Veille informationnelle"
+    ],
+    "it": [
+      "Monitoraggio informativo"
+    ]
+  }
+}

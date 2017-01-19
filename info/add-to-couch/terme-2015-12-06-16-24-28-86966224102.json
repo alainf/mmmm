@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224102",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Pollinisation/",
+  "description": "Description de Pollinisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268986,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Pollinisation",
+  "nom-folder": "Pollinisation",
+  "nom-machine": "terme-2015-12-06-16-24-28-86966224102",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pollination"
+    ],
+    "ar": [
+      "تأبير"
+    ],
+    "es": [
+      "Polinización"
+    ],
+    "fr": [
+      "Pollinisation"
+    ],
+    "it": [
+      "Impollinazione"
+    ]
+  }
+}

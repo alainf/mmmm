@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233683",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Electrotechnique/",
+  "description": "Description de Électrotechnique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467103,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Électrotechnique",
+  "nom-folder": "Electrotechnique",
+  "nom-machine": "terme-2015-12-06-16-27-08-86966233683",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Electrical engineering"
+    ],
+    "ar": [
+      "هندسة كهربائية"
+    ],
+    "es": [
+      "electrotécnica"
+    ],
+    "fr": [
+      "Électrotechnique"
+    ],
+    "it": [
+      "Elettrotecnica"
+    ]
+  }
+}

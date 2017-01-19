@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232458",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Polemologie/",
+  "description": "Description de Polémologie",
+  "enfants": [
+    "terme-2015-12-06-16-26-47-86966232461",
+    "terme-2015-12-06-16-26-47-86966232464",
+    "terme-2015-12-06-16-26-47-86966232467",
+    "terme-2015-12-06-16-26-47-86966232471"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1001,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Polémologie",
+  "nom-folder": "Polemologie",
+  "nom-machine": "terme-2015-12-06-16-26-47-86966232458",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Polemology"
+    ],
+    "ar": [
+      "دراسات الحرب"
+    ],
+    "es": [
+      "Polemología"
+    ],
+    "fr": [
+      "Polémologie"
+    ],
+    "it": [
+      "Polemologia"
+    ]
+  }
+}

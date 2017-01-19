@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225748",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Mondialisation-(AGCS,-PSP,-FMI,-OMC,-BM)/",
+  "description": "Mondialisation (AGCS, PSP, FMI, OMC, BM)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455669,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Mondialisation (AGCS PSP FMI OMC BM)",
+  "nom-folder": "Mondialisation-(AGCS,-PSP,-FMI,-OMC,-BM)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225748"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Globalization (GATS SPPNA IMF WTO WB)"
+    ],
+    "ar": [
+      "(الاتفاق العام، شرطة الأمن العام، صندوق النقد الدولي، ومنظمة التجارة العالمية، البنك الدولي) عولمة"
+    ],
+    "es": [
+      "Globalización (AGCS PSP FMI OMC BM)"
+    ],
+    "fr": [
+      "Mondialisation (AGCS PSP FMI OMC BM)"
+    ],
+    "it": [
+      "Globalizzazione (AGCS PSP FMI OMC BM)"
+    ]
+  }
+}

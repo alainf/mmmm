@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224681",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Beaux-arts/",
+  "description": "Description de Beaux-arts",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471929,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Beaux-arts",
+  "nom-folder": "Beaux-arts",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224681"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fine art"
+    ],
+    "ar": [
+      "فنون جميلة"
+    ],
+    "es": [
+      "Bellas artes"
+    ],
+    "fr": [
+      "Beaux-arts"
+    ],
+    "it": [
+      "belle arti"
+    ]
+  }
+}

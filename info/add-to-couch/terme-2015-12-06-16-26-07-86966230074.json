@@ -1,0 +1,47 @@
+{
+  "_id": "terme-2015-12-06-16-26-07-86966230074",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-metalliques/",
+  "description": "Description de Extraction de minerais métalliques",
+  "enfants": [
+    "terme-2015-12-06-16-26-07-86966230077",
+    "terme-2015-12-06-16-26-07-86966230079",
+    "terme-2015-12-06-16-26-08-86966230082",
+    "terme-2015-12-06-16-26-08-86966230085",
+    "terme-2015-12-06-16-26-08-86966230088",
+    "terme-2015-12-06-16-26-08-86966230091",
+    "terme-2015-12-06-16-26-08-86966230094",
+    "terme-2015-12-06-16-26-08-86966230097"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451068,
+  "identifiant-drupal-parent": 270826,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-07",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de minerais métalliques",
+  "nom-folder": "Extraction-de-minerais-metalliques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-07-86966230074"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Metal ore mining"
+    ],
+    "ar": [
+      "إستخراج خامات الفلزية"
+    ],
+    "es": [
+      "Extracción de menas metálicas"
+    ],
+    "fr": [
+      "Extraction de minerais métalliques"
+    ],
+    "it": [
+      "Estrazione di minerali metallici"
+    ]
+  }
+}

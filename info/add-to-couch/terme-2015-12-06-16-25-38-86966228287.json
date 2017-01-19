@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228287",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-environnementale/Ecoconception/",
+  "description": "Description de Écoconception",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471555,
+  "identifiant-drupal-parent": 2016,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Écoconception",
+  "nom-folder": "Ecoconception",
+  "nom-machine": "terme-2015-12-06-16-25-38-86966228287",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecodesign"
+    ],
+    "ar": [
+      "التصميم الإيكولوجي"
+    ],
+    "es": [
+      "Ecodiseño"
+    ],
+    "fr": [
+      "Écoconception"
+    ],
+    "it": [
+      "Progettazione ecocompatibile"
+    ]
+  }
+}

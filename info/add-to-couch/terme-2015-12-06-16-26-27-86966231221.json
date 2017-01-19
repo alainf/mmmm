@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-27-86966231221",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-des-idees/",
+  "description": "Description de Histoire des idées",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 984,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-27",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire des idées",
+  "nom-folder": "Histoire-des-idees",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-27-86966231221"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of Ideas"
+    ],
+    "ar": [
+      "تاريخ الأفكار"
+    ],
+    "es": [
+      "Historia de las ideas"
+    ],
+    "fr": [
+      "Histoire des idées"
+    ],
+    "it": [
+      "Storia delle idee"
+    ]
+  }
+}

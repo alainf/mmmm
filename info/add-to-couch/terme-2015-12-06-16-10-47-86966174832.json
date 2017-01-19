@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174832",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Xhosa/",
+  "description": "Description de Xhosa",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317670,
+  "ISO-639-1": "xh",
+  "ISO-639-2": "xho",
+  "ISO-639-3": "xho",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2016-02-04-07-00-02",
+  "nom": "Xhosa",
+  "nom-folder": "Xhosa",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174832",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Xhosa_(langue)",
+  "nomLangues": {
+    "en": [
+      "Xhosa"
+    ],
+    "ar": [
+      "كوسية"
+    ],
+    "es": [
+      "Xhosa"
+    ],
+    "fr": [
+      "Xhosa"
+    ],
+    "it": [
+      "Xhosa"
+    ],
+    "ru": [
+      "Коса"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-24-49-86966225382",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/",
+  "description": "Description de Branches du droit",
+  "enfants": [
+    "terme-2015-12-06-16-24-49-86966225385",
+    "terme-2015-12-06-16-24-49-86966225391",
+    "terme-2015-12-06-16-24-51-86966225465",
+    "terme-2015-12-06-16-24-51-86966225516",
+    "terme-2015-12-06-16-24-51-86966225519",
+    "terme-2015-12-06-16-24-52-86966225535",
+    "terme-2015-12-06-16-24-52-86966225538"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269096,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-49",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Branches du droit",
+  "nom-folder": "Branches-du-droit",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-49-86966225382"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Branches of law"
+    ],
+    "ar": [
+      "فروع القانون"
+    ],
+    "es": [
+      "Ramas del derecho"
+    ],
+    "fr": [
+      "Branches du droit"
+    ],
+    "it": [
+      "rami del diritto"
+    ]
+  }
+}

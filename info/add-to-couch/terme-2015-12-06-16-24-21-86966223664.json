@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-21-86966223664",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Materials-Science-Engineering/Materials-Science/",
+  "description": "Description de Sciences des matériaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368175,
+  "identifiant-drupal-parent": 368146,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-21",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Sciences des matériaux",
+  "nom-folder": "Materials-Science",
+  "nom-machine": "terme-2015-12-06-16-24-21-86966223664",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Materials science"
+    ],
+    "fr": [
+      "Sciences des matériaux"
+    ]
+  }
+}

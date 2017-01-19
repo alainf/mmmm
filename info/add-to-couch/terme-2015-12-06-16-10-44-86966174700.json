@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174700",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Norvegien/Norvegien-nynorsk/",
+  "description": "Description de Nynorsk",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317636,
+  "ISO-639-1": "nn",
+  "ISO-639-2": "nno",
+  "ISO-639-3": "nno",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2016-02-04-05-42-15",
+  "nom": "Nynorsk",
+  "nom-folder": "Norvegien-nynorsk",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174700",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Nynorsk",
+  "nomLangues": {
+    "en": [
+      "Norwegian nynorsk"
+    ],
+    "ar": [
+      "نينوشك"
+    ],
+    "es": [
+      "Nynorsk"
+    ],
+    "fr": [
+      "Nynorsk"
+    ],
+    "it": [
+      "Nynorsk"
+    ],
+    "ru": [
+      "Новонорвежский"
+    ]
+  }
+}

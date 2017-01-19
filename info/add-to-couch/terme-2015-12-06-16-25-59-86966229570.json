@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-59-86966229570",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Analyse-du-marche-et-de-la-concurrence/",
+  "description": "Description de Analyse du marché et de la concurrence",
+  "enfants": [
+    "terme-2015-12-06-16-25-59-86966229573",
+    "terme-2015-12-06-16-25-59-86966229576"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2047,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-25-59",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Analyse du marché et de la concurrence",
+  "nom-folder": "Analyse-du-marche-et-de-la-concurrence",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-59-86966229570"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Market and competition analysis"
+    ],
+    "ar": [
+      "تحليل السوق والمنافسة"
+    ],
+    "es": [
+      "Análisis del mercado y de la competencia"
+    ],
+    "fr": [
+      "Analyse du marché et de la concurrence"
+    ],
+    "it": [
+      "Analisi del mercato e della concorrenza"
+    ]
+  }
+}

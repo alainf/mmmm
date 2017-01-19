@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-49-86966232580",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Processus-sociaux/",
+  "description": "Description de Processus sociaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1095,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-49",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Processus sociaux",
+  "nom-folder": "Processus-sociaux",
+  "nom-machine": "terme-2015-12-06-16-26-49-86966232580",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social processes"
+    ],
+    "ar": [
+      "العمليات الاجتماعية"
+    ],
+    "es": [
+      "Procesos sociales"
+    ],
+    "fr": [
+      "Processus sociaux"
+    ],
+    "it": [
+      "Processi sociali"
+    ]
+  }
+}

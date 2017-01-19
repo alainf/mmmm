@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233045",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Partis-politiques-(generalites)/",
+  "description": "Description de Partis politiques (généralités)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1171,
+  "identifiant-drupal-parent": 1106,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Partis politiques (généralités)",
+  "nom-folder": "Partis-politiques-(generalites)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-57-86966233045"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political Parties (general)"
+    ],
+    "ar": [
+      "الأحزاب السياسية (العامة)"
+    ],
+    "es": [
+      "Partidos políticos (general)"
+    ],
+    "fr": [
+      "Partis politiques (généralités)"
+    ],
+    "it": [
+      "Partiti politici (generalità)"
+    ]
+  }
+}

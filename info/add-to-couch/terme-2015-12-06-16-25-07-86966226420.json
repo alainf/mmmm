@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226420",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Recherche-academique/",
+  "description": "Description de Recherche académique",
+  "enfants": [
+    "terme-2015-12-06-16-25-07-86966226423",
+    "terme-2015-12-06-16-25-07-86966226426"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272238,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Recherche académique",
+  "nom-folder": "Recherche-academique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226420"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Academic Research"
+    ],
+    "ar": [
+      "البحث الاكاديمى"
+    ],
+    "es": [
+      "Investigación académica"
+    ],
+    "fr": [
+      "Recherche académique"
+    ],
+    "it": [
+      "Ricerca accademica"
+    ]
+  }
+}

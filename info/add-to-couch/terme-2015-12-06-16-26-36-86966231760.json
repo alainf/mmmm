@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-36-86966231760",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychanalyse/Freud/",
+  "description": "Description de Freud",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451264,
+  "identifiant-drupal-parent": 451181,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-36",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Freud",
+  "nom-folder": "Freud",
+  "nom-machine": "terme-2015-12-06-16-26-36-86966231760",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Freud"
+    ],
+    "ar": [
+      "فرويد"
+    ],
+    "es": [
+      "Freud"
+    ],
+    "fr": [
+      "Freud"
+    ],
+    "it": [
+      "Freud"
+    ]
+  }
+}

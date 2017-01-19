@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231610",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Raison/",
+  "description": "Description de Raison",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451248,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Raison",
+  "nom-folder": "Raison",
+  "nom-machine": "terme-2015-12-06-16-26-33-86966231610",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reason"
+    ],
+    "ar": [
+      "سبب"
+    ],
+    "es": [
+      "Razón"
+    ],
+    "fr": [
+      "Raison"
+    ],
+    "it": [
+      "Ragione"
+    ]
+  }
+}

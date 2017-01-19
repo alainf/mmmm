@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225643",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Relations-internationales/",
+  "description": "Description de Relations internationales",
+  "enfants": [
+    "terme-2015-12-06-16-24-54-86966225646",
+    "terme-2015-12-06-16-24-54-86966225652"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269148,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Relations internationales",
+  "nom-folder": "Relations-internationales",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225643"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International Relations"
+    ],
+    "ar": [
+      "علاقات دولية"
+    ],
+    "es": [
+      "Relaciones internacionales"
+    ],
+    "fr": [
+      "Relations internationales"
+    ],
+    "it": [
+      "relazioni internazionali"
+    ]
+  }
+}

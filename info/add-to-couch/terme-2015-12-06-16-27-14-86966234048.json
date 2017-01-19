@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234048",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/media-participatif/",
+  "description": "Description de Média participatif",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369458,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Média participatif",
+  "nom-folder": "media-participatif",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234048",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Participatory media"
+    ],
+    "es": [
+      "Medio paticipativo"
+    ],
+    "fr": [
+      "Média participatif"
+    ],
+    "it": [
+      "Media partecipativo"
+    ]
+  }
+}

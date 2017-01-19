@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229536",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Etudes-urbaines-et-touristiques/Logement/",
+  "description": "Description de Logement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272372,
+  "identifiant-drupal-parent": 2181,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Logement",
+  "nom-folder": "Logement",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229536"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Housing"
+    ],
+    "ar": [
+      "إسكان"
+    ],
+    "es": [
+      "Viviendas"
+    ],
+    "fr": [
+      "Logement"
+    ],
+    "it": [
+      "Alloggio"
+    ]
+  }
+}

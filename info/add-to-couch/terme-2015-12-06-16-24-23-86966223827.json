@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223827",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Gestion-agricole-(agriculture)/",
+  "description": "Description de Gestion agricole (agriculture)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 910,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Gestion agricole (agriculture)",
+  "nom-folder": "Gestion-agricole-(agriculture)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223827"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Farm management (agriculture)"
+    ],
+    "ar": [
+      "إدارة المزرعة (الزراعة)"
+    ],
+    "es": [
+      "Gestión agraria (agricultura)"
+    ],
+    "fr": [
+      "Gestion agricole (agriculture)"
+    ],
+    "it": [
+      "Gestione agricola (agricoltura)"
+    ]
+  }
+}

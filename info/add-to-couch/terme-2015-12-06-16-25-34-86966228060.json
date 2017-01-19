@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228060",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-par-resultats/",
+  "description": "Description de Gestion par résultats",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472283,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion par résultats",
+  "nom-folder": "Gestion-par-resultats",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-34-86966228060"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management by results"
+    ],
+    "ar": [
+      "إدارة من خلال النتائج"
+    ],
+    "es": [
+      "Gestión por resultados"
+    ],
+    "fr": [
+      "Gestion par résultats"
+    ],
+    "it": [
+      "Gestione per risultati"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-10-86966226607",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Rechauffement-climatique/Secheresse/",
+  "description": "Description de Sécheresse",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472360,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-10",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Sécheresse",
+  "nom-folder": "Secheresse",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-10-86966226607"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Droughts"
+    ],
+    "ar": [
+      "الجفاف"
+    ],
+    "es": [
+      "Sequía"
+    ],
+    "fr": [
+      "Sécheresse"
+    ],
+    "it": [
+      "Siccità"
+    ]
+  }
+}

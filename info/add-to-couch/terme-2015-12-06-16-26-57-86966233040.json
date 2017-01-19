@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233040",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Organisations-internationales-(generalites)/",
+  "description": "Description de Organisations internationales (généralités)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1170,
+  "identifiant-drupal-parent": 1106,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Organisations internationales (généralités)",
+  "nom-folder": "Organisations-internationales-(generalites)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-57-86966233040"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International Organizations (general)"
+    ],
+    "ar": [
+      "المنظمات الدولية (العامة)"
+    ],
+    "es": [
+      "Organizaciones internacionales (general)"
+    ],
+    "fr": [
+      "Organisations internationales (généralités)"
+    ],
+    "it": [
+      "Organizzazioni internazionali (generalità)"
+    ]
+  }
+}

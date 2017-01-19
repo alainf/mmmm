@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226815",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Industries-creatives/Medias-de-masse-(industries-creatives)/",
+  "description": "Description de Médias de masse (industries créatives)",
+  "enfants": [
+    "terme-2015-12-06-16-25-13-86966226817"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466839,
+  "identifiant-drupal-parent": 466834,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Médias de masse (industries créatives)",
+  "nom-folder": "Medias-de-masse-(industries-creatives)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226815"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mass media (creative industries)"
+    ],
+    "ar": [
+      "وسائل الإعلام - (الصناعات الإبداعية)"
+    ],
+    "es": [
+      "Medios de comunicación de masas (industrias creativas)"
+    ],
+    "fr": [
+      "Médias de masse (industries créatives)"
+    ],
+    "it": [
+      "Mezzi di comunicazione di massa (industrie creative)"
+    ]
+  }
+}

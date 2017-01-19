@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-46-86966225181",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Photographie/Festivals-de-photographie/",
+  "description": "Description de Festivals de photographie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467033,
+  "identifiant-drupal-parent": 467032,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-46",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Festivals de photographie",
+  "nom-folder": "Festivals-de-photographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-46-86966225181"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Festivals of photography"
+    ],
+    "ar": [
+      "مهرجانات التصوير"
+    ],
+    "es": [
+      "Festivales de fotografía"
+    ],
+    "fr": [
+      "Festivals de photographie"
+    ],
+    "it": [
+      "Festival della fotografia"
+    ]
+  }
+}

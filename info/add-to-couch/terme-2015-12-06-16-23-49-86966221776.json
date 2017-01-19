@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-49-86966221776",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Ciencias-juridicas/Dcho-internacional/",
+  "description": "Description de Dcho internacional",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380934,
+  "identifiant-drupal-parent": 380842,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-49",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Dcho internacional",
+  "nom-folder": "Dcho-internacional",
+  "nom-machine": "terme-2015-12-06-16-23-49-86966221776",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Dcho internacional"
+    ]
+  }
+}

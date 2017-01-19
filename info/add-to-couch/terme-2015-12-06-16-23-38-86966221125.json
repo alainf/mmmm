@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221125",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Affaires,-economie-et-finances-personnelles/Medias-et-publicite/",
+  "description": "Description de Médias et publicité",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270673,
+  "identifiant-drupal-parent": 270643,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Médias et publicité",
+  "nom-folder": "Medias-et-publicite",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221125"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media & publicity"
+    ],
+    "ar": [
+      "وسائل الإعلام والدعاية"
+    ],
+    "es": [
+      "Medios de comunicación y publicidad"
+    ],
+    "fr": [
+      "Médias et publicité"
+    ],
+    "it": [
+      "I Media e la pubblicità"
+    ],
+    "ru": [
+      "СМИ и реклама"
+    ]
+  }
+}

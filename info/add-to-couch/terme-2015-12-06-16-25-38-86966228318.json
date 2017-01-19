@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228318",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Evasion-fiscale/",
+  "description": "Description de Évasion fiscale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472304,
+  "identifiant-drupal-parent": 2017,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Évasion fiscale",
+  "nom-folder": "Evasion-fiscale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-38-86966228318"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tax evasion"
+    ],
+    "ar": [
+      "التهرب من دفع الضرائب"
+    ],
+    "es": [
+      "Evasión fiscal"
+    ],
+    "fr": [
+      "Évasion fiscale"
+    ],
+    "it": [
+      "Evasione fiscale"
+    ]
+  }
+}

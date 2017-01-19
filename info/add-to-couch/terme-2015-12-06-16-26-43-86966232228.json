@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232228",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Biologie-du-comportement/",
+  "description": "Description de Biologie du comportement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1303,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Biologie du comportement",
+  "nom-folder": "Biologie-du-comportement",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232228"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Behavioral biology"
+    ],
+    "ar": [
+      "علم الأحياء السلوكي"
+    ],
+    "es": [
+      "Biología del comportamiento"
+    ],
+    "fr": [
+      "Biologie du comportement"
+    ],
+    "it": [
+      "biologia comportamentale"
+    ]
+  }
+}

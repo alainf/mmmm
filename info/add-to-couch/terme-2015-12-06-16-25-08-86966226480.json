@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226480",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Chaine-alimentaire/",
+  "description": "Description de Chaîne alimentaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471931,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Chaîne alimentaire",
+  "nom-folder": "Chaine-alimentaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226480"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Food chain"
+    ],
+    "ar": [
+      "سلسلة غذائية"
+    ],
+    "es": [
+      "Cadena alimentaria"
+    ],
+    "fr": [
+      "Chaîne alimentaire"
+    ],
+    "it": [
+      "Catena alimentare"
+    ]
+  }
+}

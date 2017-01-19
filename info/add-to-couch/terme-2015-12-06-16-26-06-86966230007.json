@@ -1,0 +1,60 @@
+{
+  "_id": "terme-2015-12-06-16-26-06-86966230007",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/",
+  "description": "Description de Sciences de la terre",
+  "enfants": [
+    "terme-2015-12-06-16-26-06-86966230009",
+    "terme-2015-12-06-16-26-06-86966230013",
+    "terme-2015-12-06-16-26-06-86966230015",
+    "terme-2015-12-06-16-26-06-86966230018",
+    "terme-2015-12-06-16-26-07-86966230021",
+    "terme-2015-12-06-16-26-07-86966230023",
+    "terme-2015-12-06-16-26-07-86966230027",
+    "terme-2015-12-06-16-26-07-86966230029",
+    "terme-2015-12-06-16-26-07-86966230038",
+    "terme-2015-12-06-16-26-07-86966230041",
+    "terme-2015-12-06-16-26-07-86966230044",
+    "terme-2015-12-06-16-26-07-86966230050",
+    "terme-2015-12-06-16-26-07-86966230052",
+    "terme-2015-12-06-16-26-07-86966230056",
+    "terme-2015-12-06-16-26-09-86966230155",
+    "terme-2015-12-06-16-26-09-86966230161",
+    "terme-2015-12-06-16-26-09-86966230164",
+    "terme-2015-12-06-16-26-09-86966230176",
+    "terme-2015-12-06-16-26-09-86966230178",
+    "terme-2015-12-06-16-26-09-86966230181",
+    "terme-2015-12-06-16-26-09-86966230184"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 886,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-06",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Sciences de la terre",
+  "nom-folder": "Sciences-de-la-terre",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-06-86966230007"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Earth Sciences"
+    ],
+    "ar": [
+      "علوم الأرض"
+    ],
+    "es": [
+      "Ciencias de la Tierra"
+    ],
+    "fr": [
+      "Sciences de la terre"
+    ],
+    "it": [
+      "Scienze della terra"
+    ]
+  }
+}

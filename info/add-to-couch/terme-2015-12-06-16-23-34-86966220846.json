@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220846",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Environnement-historique/",
+  "description": "Description de Environnement historique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270494,
+  "identifiant-drupal-parent": 270482,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Environnement historique",
+  "nom-folder": "Environnement-historique",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220846"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Historic environment"
+    ],
+    "ar": [
+      "البيئة التاريخية"
+    ],
+    "es": [
+      "Entorno histórico"
+    ],
+    "fr": [
+      "Environnement historique"
+    ],
+    "it": [
+      "Ambiente storico"
+    ],
+    "ru": [
+      "исторической среды"
+    ]
+  }
+}

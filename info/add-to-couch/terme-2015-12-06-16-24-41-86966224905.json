@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-41-86966224905",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Industrie-creative/Audiovisuel/",
+  "description": "Description de Audiovisuel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471984,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-41",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Audiovisuel",
+  "nom-folder": "Audiovisuel",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-41-86966224905"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Audiovisual"
+    ],
+    "ar": [
+      "سمعي بصري"
+    ],
+    "es": [
+      "Audiovisual"
+    ],
+    "fr": [
+      "Audiovisuel"
+    ],
+    "it": [
+      "audiovisivo"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232230",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Criminologie/",
+  "description": "Description de Criminologie",
+  "enfants": [
+    "terme-2015-12-06-16-26-43-86966232233",
+    "terme-2015-12-06-16-26-43-86966232238",
+    "terme-2015-12-06-16-26-44-86966232240"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 995,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Criminologie",
+  "nom-folder": "Criminologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232230"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Criminology"
+    ],
+    "ar": [
+      "علم الجريمة"
+    ],
+    "es": [
+      "Criminología"
+    ],
+    "fr": [
+      "Criminologie"
+    ],
+    "it": [
+      "criminologia"
+    ]
+  }
+}

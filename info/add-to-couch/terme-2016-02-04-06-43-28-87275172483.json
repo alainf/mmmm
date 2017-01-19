@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-43-28-87275172483",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tongien/",
+  "description": "Description de Tongien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "to",
+  "ISO-639-2": "ton",
+  "ISO-639-3": "ton",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-43-28",
+  "moment-de-modification": "2016-02-04-06-44-15",
+  "nom": "Tongien",
+  "nom-folder": "Tongien",
+  "nom-machine": "terme-2016-02-04-06-43-28-87275172483",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tongien",
+  "nomLangues": {
+    "en": [
+      "Tongan"
+    ],
+    "ar": [
+      "التونغية"
+    ],
+    "es": [
+      "Tongano"
+    ],
+    "fr": [
+      "Tongien"
+    ],
+    "it": [
+      "Tongano"
+    ],
+    "ru": [
+      "Тонганский"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-24-53-86966225581",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Droits-de-l'Homme-(droit)/",
+  "description": "Description de Droits de l'Homme (droit)",
+  "enfants": [
+    "terme-2015-12-06-16-24-53-86966225584",
+    "terme-2015-12-06-16-24-53-86966225587"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269145,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-53",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Droits de l'Homme (droit)",
+  "nom-folder": "Droits-de-l'Homme-(droit)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-53-86966225581"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Human Rights (law)"
+    ],
+    "ar": [
+      "حقوق الإنسان (الحق)"
+    ],
+    "es": [
+      "Derechos humanos"
+    ],
+    "fr": [
+      "Droits de l'Homme (droit)"
+    ],
+    "it": [
+      "diritti umani (diritto)"
+    ]
+  }
+}

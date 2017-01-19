@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228595",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-urbaine-(secteurs)/",
+  "description": "Description de Gestion urbaine (secteurs)",
+  "enfants": [
+    "terme-2015-12-06-16-25-43-86966228598"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2198,
+  "identifiant-drupal-parent": 2189,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion urbaine (secteurs)",
+  "nom-folder": "Gestion-urbaine-(secteurs)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228595"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban Management"
+    ],
+    "ar": [
+      "إدارة الحضرية (القطاعات)"
+    ],
+    "es": [
+      "Gestión Urbana (sectores)"
+    ],
+    "fr": [
+      "Gestion urbaine (secteurs)"
+    ],
+    "it": [
+      "gestione urbana (settori)"
+    ]
+  }
+}

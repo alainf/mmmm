@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226048",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/Traitement-automatique-du-langage-naturel/Extraction-de-l'information/",
+  "description": "Description de Extraction de l'information",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472507,
+  "identifiant-drupal-parent": 472500,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Extraction de l'information",
+  "nom-folder": "Extraction-de-l'information",
+  "nom-machine": "terme-2015-12-06-16-25-00-86966226048",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Information extraction"
+    ],
+    "ar": [
+      "إستخراج المعلومات"
+    ],
+    "es": [
+      "Extracción de información"
+    ],
+    "fr": [
+      "Extraction de l'information"
+    ],
+    "it": [
+      "Estrazione d'informazione"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225837",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finance-de-marche/Marche-des-changes/",
+  "description": "Description de Marché des changes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271338,
+  "identifiant-drupal-parent": 271332,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Marché des changes",
+  "nom-folder": "Marche-des-changes",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225837"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Foreign Exchange Market"
+    ],
+    "ar": [
+      "سوق الصرف الأجنبي"
+    ],
+    "es": [
+      "Mercado de divisas"
+    ],
+    "fr": [
+      "Marché des changes"
+    ],
+    "it": [
+      "Mercato dei cambi"
+    ]
+  }
+}

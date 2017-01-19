@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221514",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-visuels/Dessin-arabesque/",
+  "description": "Description de Dessin/arabesque",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270616,
+  "identifiant-drupal-parent": 270609,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Dessin/arabesque",
+  "nom-folder": "Dessin-arabesque",
+  "nom-machine": "terme-2015-12-06-16-23-45-86966221514",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Drawing and arabesque"
+    ],
+    "ar": [
+      "رسم و زخرفة عربية"
+    ],
+    "es": [
+      "Dibujo y arabesco"
+    ],
+    "fr": [
+      "Dessin/arabesque"
+    ],
+    "it": [
+      "Disegno/arabesco"
+    ],
+    "ru": [
+      "Рисунок / арабеск"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966220967",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Debats/L'education/",
+  "description": "Description de L'éducation",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1715,
+  "identifiant-drupal-parent": 1671,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "L'éducation",
+  "nom-folder": "L'education",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966220967"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Education"
+    ],
+    "ar": [
+      "التعليم"
+    ],
+    "es": [
+      "La educación"
+    ],
+    "fr": [
+      "L'éducation"
+    ],
+    "it": [
+      "L’educazione"
+    ]
+  }
+}

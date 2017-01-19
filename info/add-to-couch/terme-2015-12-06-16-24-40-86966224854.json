@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-40-86966224854",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Gravure/Techniques-de-la-gravure/Gravure-en-relief/",
+  "description": "Description de Gravure en relief",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466938,
+  "identifiant-drupal-parent": 466929,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-40",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Gravure en relief",
+  "nom-folder": "Gravure-en-relief",
+  "nom-machine": "terme-2015-12-06-16-24-40-86966224854",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Relief print"
+    ],
+    "ar": [
+      "نقش مجسم"
+    ],
+    "es": [
+      "Grabado en relieve"
+    ],
+    "fr": [
+      "Gravure en relief"
+    ],
+    "it": [
+      "Incisione in rilievo"
+    ]
+  }
+}

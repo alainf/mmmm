@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-52-86966221977",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Astronomy-Astrophysics-Space-Science/The-Sun/",
+  "description": "Description de The sun",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368808,
+  "identifiant-drupal-parent": 368799,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-52",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "The sun",
+  "nom-folder": "The-Sun",
+  "nom-machine": "terme-2015-12-06-16-23-52-86966221977",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "The sun"
+    ]
+  }
+}

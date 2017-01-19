@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-12-23-21-08-33-88952718820",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sites/Droit/",
+  "description": "Description de Droit",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": false,
+  "mise-a-jour": "2016-12-23-21-08-33",
+  "moment-de-creation": "2016-12-23-21-08-33",
+  "moment-de-modification": "2016-12-23-21-09-14",
+  "nom": "Droit",
+  "nom-folder": "Droit",
+  "nom-machine": "terme-2016-12-23-21-08-33-88952718820",
+  "sous-type": "sites",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Law"
+    ],
+    "fr": [
+      "Droit"
+    ]
+  }
+}

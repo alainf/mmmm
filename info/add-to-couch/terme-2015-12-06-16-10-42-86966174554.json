@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-42-86966174554",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Groenlandais/",
+  "description": "Description de Groenlandais",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380799,
+  "ISO-639-1": "kl",
+  "ISO-639-2": "kal",
+  "ISO-639-3": "kal",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-42",
+  "moment-de-modification": "2016-02-04-05-04-40",
+  "nom": "Groenlandais",
+  "nom-folder": "Groenlandais",
+  "nom-machine": "terme-2015-12-06-16-10-42-86966174554",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Groenlandais",
+  "nomLangues": {
+    "en": [
+      "Greenlandic"
+    ],
+    "ar": [
+      "جرينلاندية"
+    ],
+    "es": [
+      "Groenlandés"
+    ],
+    "fr": [
+      "Groenlandais"
+    ],
+    "it": [
+      "Groenlandese"
+    ],
+    "ru": [
+      "Гренландский"
+    ]
+  }
+}

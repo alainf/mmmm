@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-56-30-87404387427",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/pourquoi-ecrire/ecrire-pour-temoigner/temoigner-d-une-realite/",
+  "description": "Description de Témoigner d'une réalité",
+  "enfants": [
+    "terme-2016-02-29-04-57-19-87404390385"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-56-30",
+  "moment-de-modification": "2016-02-29-04-57-12",
+  "nom": "Témoigner d'une réalité",
+  "nom-folder": "temoigner-d-une-realite",
+  "nom-machine": "terme-2016-02-29-04-56-30-87404387427",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reflect a reality"
+    ],
+    "fr": [
+      "Témoigner d'une réalité"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2016-03-02-01-31-47-87414018476",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/temps-de-l-ecriture/",
+  "description": "Description de Temps de l'écriture",
+  "enfants": [
+    "terme-2016-03-02-01-32-35-87414021321",
+    "terme-2016-03-02-01-33-07-87414023262"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-31-47",
+  "moment-de-modification": "2016-03-02-01-32-29",
+  "nom": "Temps de l'écriture",
+  "nom-folder": "temps-de-l-ecriture",
+  "nom-machine": "terme-2016-03-02-01-31-47-87414018476",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Temps de l'écriture"
+    ]
+  }
+}

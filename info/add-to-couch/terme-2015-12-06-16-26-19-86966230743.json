@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230743",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astrophysique-(l'univers)/Physique-du-milieu-interstellaire/",
+  "description": "Description de Physique du milieu interstellaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270785,
+  "identifiant-drupal-parent": 270777,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Physique du milieu interstellaire",
+  "nom-folder": "Physique-du-milieu-interstellaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-19-86966230743"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Interstellar medium physics"
+    ],
+    "ar": [
+      "فيزياء وسط بين نجمي"
+    ],
+    "es": [
+      "Física del medio interestelar"
+    ],
+    "fr": [
+      "Physique du milieu interstellaire"
+    ],
+    "it": [
+      "Fisica del mezzo interstellare"
+    ]
+  }
+}

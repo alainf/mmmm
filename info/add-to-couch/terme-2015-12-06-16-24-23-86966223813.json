@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223813",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Enseignement-de-l'agriculture/",
+  "description": "Description de Enseignement de l'agriculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 906,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Enseignement de l'agriculture",
+  "nom-folder": "Enseignement-de-l'agriculture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223813"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Teaching of Agriculture"
+    ],
+    "ar": [
+      "تدريس الزراعة"
+    ],
+    "es": [
+      "Enseñanza de la Agricultura"
+    ],
+    "fr": [
+      "Enseignement de l'agriculture"
+    ],
+    "it": [
+      "insegnamento dell'agricoltura"
+    ]
+  }
+}

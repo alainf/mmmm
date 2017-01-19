@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221375",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Emplois/Emplois-de-professeur(e)s/",
+  "description": "Description de Emplois de professeur(e)s",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1731,
+  "identifiant-drupal-parent": 1672,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Emplois de professeur(e)s",
+  "nom-folder": "Emplois-de-professeur(e)s",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221375"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tenures"
+    ],
+    "ar": [
+      "الوظائف استاذ"
+    ],
+    "es": [
+      "Empleo de docentes"
+    ],
+    "fr": [
+      "Emplois de professeur(e)s"
+    ],
+    "it": [
+      "Posti di lavoro d’insegnanti"
+    ]
+  }
+}

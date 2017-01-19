@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224184",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Peche-en-bateau/",
+  "description": "Description de Pêche en bateau",
+  "enfants": [
+    "terme-2015-12-06-16-24-29-86966224186",
+    "terme-2015-12-06-16-24-29-86966224189",
+    "terme-2015-12-06-16-24-29-86966224192"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269075,
+  "identifiant-drupal-parent": 939,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Pêche en bateau",
+  "nom-folder": "Peche-en-bateau",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-29-86966224184"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Boat fishing"
+    ],
+    "ar": [
+      "قارب بصيد"
+    ],
+    "es": [
+      "Pesca en barco"
+    ],
+    "fr": [
+      "Pêche en bateau"
+    ],
+    "it": [
+      "Peschereccio"
+    ]
+  }
+}

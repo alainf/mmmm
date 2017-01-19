@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226250",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Poetique/",
+  "description": "Description de Poétique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471950,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Poétique",
+  "nom-folder": "Poetique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226250"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Poetics"
+    ],
+    "ar": [
+      "شاعرية"
+    ],
+    "es": [
+      "Poética"
+    ],
+    "fr": [
+      "Poétique"
+    ],
+    "it": [
+      "Poetica"
+    ]
+  }
+}

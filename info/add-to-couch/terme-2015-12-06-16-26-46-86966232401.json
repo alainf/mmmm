@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232401",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Etude-de-cas/",
+  "description": "Description de Étude de cas",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1226,
+  "identifiant-drupal-parent": 1220,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Étude de cas",
+  "nom-folder": "Etude-de-cas",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232401"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Case Study"
+    ],
+    "ar": [
+      "دراسة الحالة"
+    ],
+    "es": [
+      "Estudio de caso"
+    ],
+    "fr": [
+      "Étude de cas"
+    ],
+    "it": [
+      "Studio di caso"
+    ]
+  }
+}

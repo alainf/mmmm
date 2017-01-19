@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-48-86966228889",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-du-recrutement/Placement-du-personnel/",
+  "description": "Description de Placement du personnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451162,
+  "identifiant-drupal-parent": 2126,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-48",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Placement du personnel",
+  "nom-folder": "Placement-du-personnel",
+  "nom-machine": "terme-2015-12-06-16-25-48-86966228889",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Personnel placement"
+    ],
+    "ar": [
+      "تنسيب الموظفين"
+    ],
+    "es": [
+      "Colocación de personal"
+    ],
+    "fr": [
+      "Placement du personnel"
+    ],
+    "it": [
+      "Collocamento del personale"
+    ]
+  }
+}

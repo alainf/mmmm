@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-42-86966224947",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litt-roumaine,-langues-romanes-orientales/",
+  "description": "Description de Littérature roumaine et de langues romanes orientales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466976,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-42",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littérature roumaine et de langues romanes orientales",
+  "nom-folder": "Litt-roumaine,-langues-romanes-orientales",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-42-86966224947"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Romanian and Eastern Romance languages literature"
+    ],
+    "ar": [
+      "أدب الروماني و اللغات الرومانية الشرقية"
+    ],
+    "es": [
+      "Literatura rumana y de lenguas romances orientales"
+    ],
+    "fr": [
+      "Littérature roumaine et de langues romanes orientales"
+    ],
+    "it": [
+      "Letteratura rumena e delle lingue romanze orientali"
+    ]
+  }
+}

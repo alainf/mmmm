@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229640",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-B2B/",
+  "description": "Description de B2B",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472083,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "B2B",
+  "nom-folder": "Marketing-B2B",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-00-86966229640"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "B2B"
+    ],
+    "ar": [
+      "أعمال لأعمال"
+    ],
+    "es": [
+      "Business-to-business"
+    ],
+    "fr": [
+      "B2B"
+    ],
+    "it": [
+      "B2B"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-00-86966226000",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Genie-logiciel/",
+  "description": "Description de Génie logiciel",
+  "enfants": [
+    "terme-2015-12-06-16-25-00-86966226003"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270355,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-00",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Génie logiciel",
+  "nom-folder": "Genie-logiciel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-00-86966226000"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Software engineering"
+    ],
+    "ar": [
+      "هندسة البرمجيات"
+    ],
+    "es": [
+      "Ingeniería de software"
+    ],
+    "fr": [
+      "Génie logiciel"
+    ],
+    "it": [
+      "Ingegneria del software"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220814",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/L'environnement-reticule/",
+  "description": "Description de L'environnement réticulé",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270499,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "L'environnement réticulé",
+  "nom-folder": "L'environnement-reticule",
+  "nom-machine": "terme-2015-12-06-16-23-33-86966220814",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Networked environment"
+    ],
+    "ar": [
+      "بيئة شبكة اتصال"
+    ],
+    "es": [
+      "El entorno reticulado"
+    ],
+    "fr": [
+      "L'environnement réticulé"
+    ],
+    "it": [
+      "Ambiente reticolato"
+    ],
+    "ru": [
+      "Сетевая окружающая среда"
+    ]
+  }
+}

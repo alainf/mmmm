@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-27-19-86966234355",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/universite/",
+  "description": "Description de Université",
+  "enfants": [
+    "terme-2015-12-06-16-27-19-86966234357"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317554,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-19",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Université",
+  "nom-folder": "universite",
+  "nom-machine": "terme-2015-12-06-16-27-19-86966234355",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "University press"
+    ],
+    "es": [
+      "Universidad"
+    ],
+    "fr": [
+      "Université"
+    ],
+    "it": [
+      "Università"
+    ]
+  }
+}

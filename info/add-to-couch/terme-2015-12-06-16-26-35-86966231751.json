@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-35-86966231751",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychanalyse/",
+  "description": "Description de Psychanalyse",
+  "enfants": [
+    "terme-2015-12-06-16-26-35-86966231754",
+    "terme-2015-12-06-16-26-35-86966231757",
+    "terme-2015-12-06-16-26-36-86966231760",
+    "terme-2015-12-06-16-26-36-86966231763",
+    "terme-2015-12-06-16-26-36-86966231766"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451181,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-35",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Psychanalyse",
+  "nom-folder": "Psychanalyse",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-35-86966231751"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Psychoanalysis"
+    ],
+    "ar": [
+      "طريقة التحليل النفسي"
+    ],
+    "es": [
+      "Psicoanálisis"
+    ],
+    "fr": [
+      "Psychanalyse"
+    ],
+    "it": [
+      "psicoanalisi"
+    ]
+  }
+}

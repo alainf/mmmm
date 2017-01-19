@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227152",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Industrie/Industries-extractives/Compagnies-minieres-et-petrolieres/Fonte/",
+  "description": "Description de Fonte",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472433,
+  "identifiant-drupal-parent": 270814,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Fonte",
+  "nom-folder": "Fonte",
+  "nom-machine": "terme-2015-12-06-16-25-19-86966227152",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cast iron"
+    ],
+    "ar": [
+      "حديد مصبوب"
+    ],
+    "es": [
+      "Fundición"
+    ],
+    "fr": [
+      "Fonte"
+    ],
+    "it": [
+      "Ghisa"
+    ]
+  }
+}

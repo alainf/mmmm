@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224707",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Metiers-du-cinema/",
+  "description": "Description de Métiers du cinéma",
+  "enfants": [
+    "terme-2015-12-06-16-24-38-86966224710",
+    "terme-2015-12-06-16-24-38-86966224713",
+    "terme-2015-12-06-16-24-38-86966224716"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466883,
+  "identifiant-drupal-parent": 466876,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Métiers du cinéma",
+  "nom-folder": "Metiers-du-cinema",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224707"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Occupations in cinema"
+    ],
+    "ar": [
+      "مهن السينما"
+    ],
+    "es": [
+      "Oficios del cine"
+    ],
+    "fr": [
+      "Métiers du cinéma"
+    ],
+    "it": [
+      "Mestieri del cinema"
+    ]
+  }
+}

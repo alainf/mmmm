@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966232981",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Gouvernance-democratique/Protection-des-lanceurs-d'alerte/",
+  "description": "Description de Protection des lanceurs d'alerte",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472192,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Protection des lanceurs d'alerte",
+  "nom-folder": "Protection-des-lanceurs-d'alerte",
+  "nom-machine": "terme-2015-12-06-16-26-56-86966232981",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Whistleblower protection"
+    ],
+    "ar": [
+      "حماية المبلغين عن المخالفات"
+    ],
+    "es": [
+      "Protección de los denunciantes"
+    ],
+    "fr": [
+      "Protection des lanceurs d'alerte"
+    ],
+    "it": [
+      "Protezione dei “soffiatori di fischietto"
+    ]
+  }
+}

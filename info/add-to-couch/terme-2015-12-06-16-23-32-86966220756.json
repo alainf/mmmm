@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220756",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Investissement/Actions/",
+  "description": "Description de Actions",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270553,
+  "identifiant-drupal-parent": null,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Actions",
+  "nom-folder": "Actions",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220756"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Shares"
+    ],
+    "ar": [
+      "سهم (تجارة)"
+    ],
+    "es": [
+      "Acciónes"
+    ],
+    "fr": [
+      "Actions"
+    ],
+    "it": [
+      "Azioni per la democrazia nel mondo"
+    ]
+  }
+}

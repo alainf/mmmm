@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-23-27-86966220479",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/periodicite/mensuelle/",
+  "description": "Description de Mensuelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-27",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Mensuelle",
+  "nom-folder": "mensuelle",
+  "nom-machine": "terme-2015-12-06-16-23-27-86966220479",
+  "sous-type": "periodicite",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Monthly"
+    ],
+    "ar": [
+      "شهريا"
+    ],
+    "es": [
+      "Mensual"
+    ],
+    "fr": [
+      "Mensuelle"
+    ],
+    "it": [
+      "Mensile"
+    ]
+  }
+}

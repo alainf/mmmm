@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-28-35-87274902950",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Malayalam/",
+  "description": "Description de Malayalam",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ml",
+  "ISO-639-2": "mal",
+  "ISO-639-3": "mal",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-28-35",
+  "moment-de-modification": "2016-02-04-05-29-11",
+  "nom": "Malayalam",
+  "nom-folder": "Malayalam",
+  "nom-machine": "terme-2016-02-04-05-28-35-87274902950",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Malayalam",
+  "nomLangues": {
+    "en": [
+      "Malayalam"
+    ],
+    "ar": [
+      "ماليالامية"
+    ],
+    "es": [
+      "Malabar"
+    ],
+    "fr": [
+      "Malayalam"
+    ],
+    "it": [
+      "Malayalam"
+    ],
+    "ru": [
+      "Малаялам"
+    ]
+  }
+}

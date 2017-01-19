@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227788",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-9004/",
+  "description": "ISO 9004 Système de gestion de la qualité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1908,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 9004 Système de gestion de la qualité - lignes directrices pour l'amélioration des performances",
+  "nom-folder": "ISO-9004",
+  "nom-machine": "terme-2015-12-06-16-25-29-86966227788",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 9004 Quality Management System - Guidelines for performance improvement"
+    ],
+    "ar": [
+      "ISO 9004 نظام إدارة الجودة-المبادئ التوجيهية لتحسين الأداء"
+    ],
+    "es": [
+      "ISO 9004 Sistemas de Gestión de la Calidad - Directrices para la mejora de los rendimientos"
+    ],
+    "fr": [
+      "ISO 9004 Système de gestion de la qualité - lignes directrices pour l'amélioration des performances"
+    ],
+    "it": [
+      "Iso 9004 sistema di controllo qualità - linee guida per il miglioramento delle prestazioni"
+    ]
+  }
+}

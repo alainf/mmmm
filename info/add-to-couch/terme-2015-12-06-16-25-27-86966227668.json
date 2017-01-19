@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-27-86966227668",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/Gestion-des-stocks/",
+  "description": "Description de Gestion des stocks",
+  "enfants": [
+    "terme-2015-12-06-16-25-27-86966227672",
+    "terme-2015-12-06-16-25-27-86966227674",
+    "terme-2015-12-06-16-25-27-86966227678"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1857,
+  "identifiant-drupal-parent": 1854,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-27",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion des stocks",
+  "nom-folder": "Gestion-des-stocks",
+  "nom-machine": "terme-2015-12-06-16-25-27-86966227668",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Inventory Management"
+    ],
+    "ar": [
+      "إدارة المخازن"
+    ],
+    "es": [
+      "Gestión de inventario"
+    ],
+    "fr": [
+      "Gestion des stocks"
+    ],
+    "it": [
+      "Gestione delle scorte"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-03-02-01-29-14-87414009279",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/quoi-ecrire/",
+  "description": "Description de Quoi écrire",
+  "enfants": [
+    "terme-2016-03-02-01-29-43-87414010988"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-29-14",
+  "moment-de-modification": "2016-03-02-01-29-40",
+  "nom": "Quoi écrire",
+  "nom-folder": "quoi-ecrire",
+  "nom-machine": "terme-2016-03-02-01-29-14-87414009279",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Quoi écrire"
+    ]
+  }
+}

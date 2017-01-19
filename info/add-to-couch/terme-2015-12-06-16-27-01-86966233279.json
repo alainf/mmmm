@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233279",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Sociologie-politique/",
+  "description": "Description de Sociologie politique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1219,
+  "identifiant-drupal-parent": 1185,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie politique",
+  "nom-folder": "Sociologie-politique",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-01-86966233279"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Political Sociology"
+    ],
+    "ar": [
+      "علم الاجتماع السياسي"
+    ],
+    "es": [
+      "Sociología política"
+    ],
+    "fr": [
+      "Sociologie politique"
+    ],
+    "it": [
+      "sociologia politica"
+    ]
+  }
+}

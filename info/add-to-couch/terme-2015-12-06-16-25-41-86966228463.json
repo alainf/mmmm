@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228463",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Transport-et-entreposage/Entreposage-general/",
+  "description": "Description de Entreposage général",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451138,
+  "identifiant-drupal-parent": 272266,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Entreposage général",
+  "nom-folder": "Entreposage-general",
+  "nom-machine": "terme-2015-12-06-16-25-41-86966228463",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "General warehousing and storage"
+    ],
+    "ar": [
+      "تخزين العام"
+    ],
+    "es": [
+      "Almacenamiento general"
+    ],
+    "fr": [
+      "Entreposage général"
+    ],
+    "it": [
+      "Stoccaggio generale"
+    ]
+  }
+}

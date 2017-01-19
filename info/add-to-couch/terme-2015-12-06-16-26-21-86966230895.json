@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-21-86966230895",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-physiques/Physique-de-l'atmosphere/",
+  "description": "Description de Physique de l'atmosphère",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270467,
+  "identifiant-drupal-parent": 270456,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-21",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Physique de l'atmosphère",
+  "nom-folder": "Physique-de-l'atmosphere",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-21-86966230895"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Atmospheric Physics"
+    ],
+    "ar": [
+      "فيزياء الغلاف الجوي"
+    ],
+    "es": [
+      "Física de la atmósfera"
+    ],
+    "fr": [
+      "Physique de l'atmosphère"
+    ],
+    "it": [
+      "Fisica dell'atmosfera"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220713",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industrie-du-transport/",
+  "description": "Description de Industrie du transport",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471741,
+  "identifiant-drupal-parent": 270556,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Industrie du transport",
+  "nom-folder": "Industrie-du-transport",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220713"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Transport industry"
+    ],
+    "ar": [
+      "صناعة النقل"
+    ],
+    "es": [
+      "Industria del transporte"
+    ],
+    "fr": [
+      "Industrie du transport"
+    ],
+    "it": [
+      "Industria del trasporto"
+    ]
+  }
+}

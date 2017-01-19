@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-13-86966230392",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-feministe/",
+  "description": "Description de Économie féministe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472166,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-13",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie féministe",
+  "nom-folder": "Economie-feministe",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-13-86966230392"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Feminist economy"
+    ],
+    "ar": [
+      "الاقتصاد النسائي"
+    ],
+    "es": [
+      "Economía feminista"
+    ],
+    "fr": [
+      "Économie féministe"
+    ],
+    "it": [
+      "Economia femminista"
+    ]
+  }
+}

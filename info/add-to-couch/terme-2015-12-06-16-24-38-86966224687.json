@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224687",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Cinema-d'animation/",
+  "description": "Description de Cinéma d'animation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466877,
+  "identifiant-drupal-parent": 466876,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Cinéma d'animation",
+  "nom-folder": "Cinema-d'animation",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224687"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Animated film"
+    ],
+    "ar": [
+      "سينما الرسوم المتحركة"
+    ],
+    "es": [
+      "Cine de animación"
+    ],
+    "fr": [
+      "Cinéma d'animation"
+    ],
+    "it": [
+      "Film d'animazione"
+    ]
+  }
+}

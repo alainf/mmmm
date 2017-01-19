@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230372",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-du-droit/",
+  "description": "Description de Économie du droit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451211,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie du droit",
+  "nom-folder": "Economie-du-droit",
+  "nom-machine": "terme-2015-12-06-16-26-12-86966230372",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of law"
+    ],
+    "ar": [
+      "الاقتصاد من القانون"
+    ],
+    "es": [
+      "Economía del derecho"
+    ],
+    "fr": [
+      "Économie du droit"
+    ],
+    "it": [
+      "Economia del diritto"
+    ]
+  }
+}

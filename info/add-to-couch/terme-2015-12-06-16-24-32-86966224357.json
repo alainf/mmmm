@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224357",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/Urgences-et-soins-critiques/",
+  "description": "Description de Urgences et soins critiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269031,
+  "identifiant-drupal-parent": 269028,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Urgences et soins critiques",
+  "nom-folder": "Urgences-et-soins-critiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-32-86966224357"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Emergency and Critical Care"
+    ],
+    "ar": [
+      "الرعاية الطارئة والحرجة"
+    ],
+    "es": [
+      "Emergencias y cuidados intensivos"
+    ],
+    "fr": [
+      "Urgences et soins critiques"
+    ],
+    "it": [
+      "Pronto soccorso e medicina critica"
+    ]
+  }
+}

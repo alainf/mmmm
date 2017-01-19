@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-26-40-86966232059",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-des-pratiques-corporelles/",
+  "description": "Anthropologie des pratiques corporelles ",
+  "enfants": [
+    "terme-2015-12-06-16-26-41-86966232062",
+    "terme-2015-12-06-16-26-41-86966232065"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272207,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-40",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie des pratiques corporelles",
+  "nom-folder": "Anthropologie-des-pratiques-corporelles",
+  "nom-machine": "terme-2015-12-06-16-26-40-86966232059",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anthropology of bodily practices"
+    ],
+    "ar": [
+      "الأنثروبولوجيا الممارسات الجسدية"
+    ],
+    "es": [
+      "Antropología de las prácticas corporales"
+    ],
+    "fr": [
+      "Anthropologie des pratiques corporelles"
+    ],
+    "it": [
+      "Antropologia delle pratiche corporee"
+    ]
+  }
+}

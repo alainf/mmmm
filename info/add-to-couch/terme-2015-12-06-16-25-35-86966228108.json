@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228108",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-agences-de-voyages/",
+  "description": "Description de Gestion des agences de voyages",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451164,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion des agences de voyages",
+  "nom-folder": "Gestion-des-agences-de-voyages",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-35-86966228108"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Travel agency management"
+    ],
+    "ar": [
+      "إدارة وكالات الأسفار"
+    ],
+    "es": [
+      "Gestión de agencias de viajes"
+    ],
+    "fr": [
+      "Gestion des agences de voyages"
+    ],
+    "it": [
+      "gestione delle agenzie di viaggi"
+    ]
+  }
+}

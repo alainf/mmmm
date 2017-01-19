@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227196",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Marches-emergents/",
+  "description": "Description de Marchés émergents",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471914,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marchés émergents",
+  "nom-folder": "Marches-emergents",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227196"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Emerging markets"
+    ],
+    "ar": [
+      "الأسواق الناشئة"
+    ],
+    "es": [
+      "Mercados emergentes"
+    ],
+    "fr": [
+      "Marchés émergents"
+    ],
+    "it": [
+      "Mercati emergenti"
+    ]
+  }
+}

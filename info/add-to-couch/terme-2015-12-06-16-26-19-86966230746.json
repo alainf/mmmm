@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230746",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astrophysique-(l'univers)/Physique-galactique/",
+  "description": "Description de Physique galactique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270786,
+  "identifiant-drupal-parent": 270777,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Physique galactique",
+  "nom-folder": "Physique-galactique",
+  "nom-machine": "terme-2015-12-06-16-26-19-86966230746",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Galactic physics"
+    ],
+    "ar": [
+      "الفيزياء المجرة"
+    ],
+    "es": [
+      "Física Galáctica"
+    ],
+    "fr": [
+      "Physique galactique"
+    ],
+    "it": [
+      "Fisica galattica"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-58-07-87404393265",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/pourquoi-ecrire/ecrire-pour-temoigner/temoigner-d-une-realite/raconter-son-enfance/raconter-des-faits-vecus-extraordinaires/",
+  "description": "Description de Raconter des faits vécus extraordinaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-58-07",
+  "moment-de-modification": "2016-02-29-04-59-17",
+  "nom": "Raconter des faits vécus extraordinaires",
+  "nom-folder": "raconter-des-faits-vecus-extraordinaires",
+  "nom-machine": "terme-2016-02-29-04-58-07-87404393265",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Telling true extraordinary stories"
+    ],
+    "fr": [
+      "Raconter des faits vécus extraordinaires"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226120",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Progiciel-de-gestion-integre-(informatique)/",
+  "description": "Description de Progiciel de gestion intégré (informatique)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270360,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Progiciel de gestion intégré (informatique)",
+  "nom-folder": "Progiciel-de-gestion-integre-(informatique)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-01-86966226120"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Enterprise resource planning (computation)"
+    ],
+    "ar": [
+      "تخطيط موارد المؤسسات (الحوسبة)"
+    ],
+    "es": [
+      "Programa informático de gestión integrado (informática)"
+    ],
+    "fr": [
+      "Progiciel de gestion intégré (informatique)"
+    ],
+    "it": [
+      "Software applicativo di pianificazione delle risorse d'impresa"
+    ]
+  }
+}

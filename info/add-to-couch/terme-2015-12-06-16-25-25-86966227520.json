@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-25-86966227520",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Internet-(entreprises)/",
+  "description": "Description de Internet (entreprises)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2159,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-25",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Internet (entreprises)",
+  "nom-folder": "Internet-(entreprises)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-25-86966227520"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Internet (businesses)"
+    ],
+    "ar": [
+      "الانترنت (المؤسسات)"
+    ],
+    "es": [
+      "Internet (Negocios)"
+    ],
+    "fr": [
+      "Internet (entreprises)"
+    ],
+    "it": [
+      "Internet (aziendale)"
+    ]
+  }
+}

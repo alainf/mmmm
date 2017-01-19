@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-39-86966221172",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/La-science/Environnement, ecologie, developpement durable/",
+  "description": "Description de Environnement, écologie, développement durable",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270703,
+  "identifiant-drupal-parent": 270702,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-39",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Environnement, écologie, développement durable",
+  "nom-folder": "Environnement, ecologie, developpement durable",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-39-86966221172"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environment, ecology, sustainable development"
+    ],
+    "ar": [
+      "البيئة، علم البيئة، التنمية المستدامة"
+    ],
+    "es": [
+      "Medio ambiente, ecología, desarrollo sostenible"
+    ],
+    "fr": [
+      "Environnement, écologie, développement durable"
+    ],
+    "it": [
+      "Ambiente, ecologia, sviluppo sostenibile"
+    ],
+    "ru": [
+      "Окружающей среды, экологии, устойчивого развития"
+    ]
+  }
+}

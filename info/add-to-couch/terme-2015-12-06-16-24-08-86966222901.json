@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-08-86966222901",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Mathematics/Information-Theory-(math)/",
+  "description": "Description de Information theory (math.)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369124,
+  "identifiant-drupal-parent": 369116,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-08",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Information theory (math.)",
+  "nom-folder": "Information-Theory-(math)",
+  "nom-machine": "terme-2015-12-06-16-24-08-86966222901",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Information theory (math.)"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "terme-2016-03-02-01-30-21-87414013292",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/quoi-ecrire/un-recit-d-enfance/des-aventures-reelles/",
+  "description": "Description de Des aventures réelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-30-21",
+  "moment-de-modification": "2016-03-02-01-30-43",
+  "nom": "Des aventures réelles",
+  "nom-folder": "des-aventures-reelles",
+  "nom-machine": "terme-2016-03-02-01-30-21-87414013292",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Des aventures réelles"
+    ]
+  }
+}

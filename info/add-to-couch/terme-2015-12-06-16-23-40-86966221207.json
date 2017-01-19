@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221207",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Le-monde/Le Pacifique/",
+  "description": "Description de Le Pacifique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270663,
+  "identifiant-drupal-parent": 270647,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Le Pacifique",
+  "nom-folder": "Le Pacifique",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-40-86966221207"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The Pacific"
+    ],
+    "ar": [
+      "المحيط الهادئ"
+    ],
+    "es": [
+      "El Pacífico"
+    ],
+    "fr": [
+      "Le Pacifique"
+    ],
+    "it": [
+      "Il Pacifico"
+    ]
+  }
+}

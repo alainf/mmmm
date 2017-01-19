@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-31-44-87274698286",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Hiri-motu/",
+  "description": "Description de Hiri motu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ho",
+  "ISO-639-2": "hmo",
+  "ISO-639-3": "hmo",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-31-44",
+  "moment-de-modification": "2016-02-04-04-32-20",
+  "nom": "Hiri motu",
+  "nom-folder": "Hiri-motu",
+  "nom-machine": "terme-2016-02-04-04-31-44-87274698286",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Hiri_motu",
+  "nomLangues": {
+    "en": [
+      "Hiri motu"
+    ],
+    "ar": [
+      "هيري موتو"
+    ],
+    "es": [
+      "Hiri motu"
+    ],
+    "fr": [
+      "Hiri motu"
+    ],
+    "it": [
+      "Hiri motu"
+    ],
+    "ru": [
+      "Хири-моту"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-17-86966234254",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/conference(s)/",
+  "description": "Description de Conférence(s)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369351,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-17",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Conférence(s)",
+  "nom-folder": "conference(s)",
+  "nom-machine": "terme-2015-12-06-16-27-17-86966234254",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Conference(s)"
+    ],
+    "es": [
+      "Conferencia(s)"
+    ],
+    "fr": [
+      "Conférence(s)"
+    ],
+    "it": [
+      "Conferenze"
+    ]
+  }
+}

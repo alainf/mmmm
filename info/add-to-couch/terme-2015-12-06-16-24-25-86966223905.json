@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223905",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Aquaculture-et-ecologie/",
+  "description": "Description de Aquaculture et écologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 926,
+  "identifiant-drupal-parent": 924,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Aquaculture et écologie",
+  "nom-folder": "Aquaculture-et-ecologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-25-86966223905"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Aquaculture and ecology"
+    ],
+    "ar": [
+      "تربية الأحياء المائية والبيئة"
+    ],
+    "es": [
+      "Acuicultura y ecología"
+    ],
+    "fr": [
+      "Aquaculture et écologie"
+    ],
+    "it": [
+      "Acquicoltura ed ecologia"
+    ]
+  }
+}

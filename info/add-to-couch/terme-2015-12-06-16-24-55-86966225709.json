@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225709",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Economie-du-monde-musulman/",
+  "description": "Description de Économie du monde musulman",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472048,
+  "identifiant-drupal-parent": 1254,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Économie du monde musulman",
+  "nom-folder": "Economie-du-monde-musulman",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225709"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economy of the Muslim world"
+    ],
+    "ar": [
+      "اقتصاد العالم مسلم"
+    ],
+    "es": [
+      "Economía del mundo musulmán"
+    ],
+    "fr": [
+      "Économie du monde musulman"
+    ],
+    "it": [
+      "Economia del mondo musulmano"
+    ]
+  }
+}

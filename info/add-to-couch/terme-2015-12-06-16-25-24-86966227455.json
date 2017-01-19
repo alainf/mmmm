@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227455",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Droit-commercial-(commerce)/",
+  "description": "Description de Droit commercial (commerce)",
+  "enfants": [
+    "terme-2015-12-06-16-25-24-86966227458"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1830,
+  "identifiant-drupal-parent": 1785,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Droit commercial (commerce)",
+  "nom-folder": "Droit-commercial-(commerce)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227455"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Commercial Law"
+    ],
+    "ar": [
+      "قانون تجاري (تجارة)"
+    ],
+    "es": [
+      "Derecho Comercial (Comercio)"
+    ],
+    "fr": [
+      "Droit commercial (commerce)"
+    ],
+    "it": [
+      "diritto commerciale (commercio)"
+    ]
+  }
+}

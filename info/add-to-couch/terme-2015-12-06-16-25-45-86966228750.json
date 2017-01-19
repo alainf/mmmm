@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-45-86966228750",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Communication-interne/",
+  "description": "Description de Communication interne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2109,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-45",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Communication interne",
+  "nom-folder": "Communication-interne",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-45-86966228750"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Internal communication"
+    ],
+    "ar": [
+      "الإتصال الداخلي"
+    ],
+    "es": [
+      "Comunicación interna"
+    ],
+    "fr": [
+      "Communication interne"
+    ],
+    "it": [
+      "comunicazione interna"
+    ]
+  }
+}

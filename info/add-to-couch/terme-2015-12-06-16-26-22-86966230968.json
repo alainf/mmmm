@@ -1,0 +1,59 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230968",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/",
+  "description": "Description de Géographie",
+  "enfants": [
+    "terme-2015-12-06-16-26-22-86966230971",
+    "terme-2015-12-06-16-26-22-86966230974",
+    "terme-2015-12-06-16-26-22-86966230977",
+    "terme-2015-12-06-16-26-23-86966230980",
+    "terme-2015-12-06-16-26-23-86966230983",
+    "terme-2015-12-06-16-26-23-86966230986",
+    "terme-2015-12-06-16-26-23-86966230990",
+    "terme-2015-12-06-16-26-23-86966230993",
+    "terme-2015-12-06-16-26-23-86966230996",
+    "terme-2015-12-06-16-26-23-86966230999",
+    "terme-2015-12-06-16-26-23-86966231002",
+    "terme-2015-12-06-16-26-23-86966231005",
+    "terme-2015-12-06-16-26-25-86966231110",
+    "terme-2015-12-06-16-26-25-86966231113",
+    "terme-2015-12-06-16-26-25-86966231116",
+    "terme-2015-12-06-16-26-25-86966231119",
+    "terme-2015-12-06-16-26-25-86966231121",
+    "terme-2015-12-06-16-26-25-86966231145",
+    "terme-2015-12-06-16-26-25-86966231148",
+    "terme-2015-12-06-16-26-25-86966231150"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 942,
+  "identifiant-drupal-parent": 890,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Géographie",
+  "nom-folder": "Geographie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230968"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Geography"
+    ],
+    "ar": [
+      "جغرافيا"
+    ],
+    "es": [
+      "Geografía"
+    ],
+    "fr": [
+      "Géographie"
+    ],
+    "it": [
+      "Geografia"
+    ]
+  }
+}

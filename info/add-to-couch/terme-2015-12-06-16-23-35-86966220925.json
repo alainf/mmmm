@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220925",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Industrie-manufacturiere/",
+  "description": "Description de Industrie manufacturière",
+  "enfants": [
+    "terme-2015-12-06-16-23-35-86966220929",
+    "terme-2015-12-06-16-23-35-86966220931"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270582,
+  "identifiant-drupal-parent": 270557,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Industrie manufacturière",
+  "nom-folder": "Industrie-manufacturiere",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220925"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Manufacturing industry"
+    ],
+    "ar": [
+      "الصناعة التحويلية"
+    ],
+    "es": [
+      "Industria manufacturera"
+    ],
+    "fr": [
+      "Industrie manufacturière"
+    ],
+    "it": [
+      "Industria manifatturiera"
+    ],
+    "ru": [
+      "Обрабатывающая промышленность"
+    ]
+  }
+}

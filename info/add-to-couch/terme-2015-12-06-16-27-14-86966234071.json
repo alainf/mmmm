@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234071",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/multimedia/video/",
+  "description": "Description de Vidéo",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369497,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Vidéo",
+  "nom-folder": "video",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234071",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Video"
+    ],
+    "es": [
+      "Video"
+    ],
+    "fr": [
+      "Vidéo"
+    ],
+    "it": [
+      "Video"
+    ]
+  }
+}

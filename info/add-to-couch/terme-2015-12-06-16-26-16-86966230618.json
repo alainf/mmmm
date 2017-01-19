@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230618",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Revenus/",
+  "description": "Description de Revenus",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472000,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Revenus",
+  "nom-folder": "Revenus",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230618"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Revenue"
+    ],
+    "ar": [
+      "دخل مالي"
+    ],
+    "es": [
+      "Ingresos"
+    ],
+    "fr": [
+      "Revenus"
+    ],
+    "it": [
+      "redditi"
+    ]
+  }
+}

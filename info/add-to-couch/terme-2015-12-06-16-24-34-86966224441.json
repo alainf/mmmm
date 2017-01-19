@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-34-86966224441",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Art-moderne/Art-Nouveau/",
+  "description": "Description de Art Nouveau",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466851,
+  "identifiant-drupal-parent": 466845,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-34",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Art Nouveau",
+  "nom-folder": "Art-Nouveau",
+  "nom-machine": "terme-2015-12-06-16-24-34-86966224441",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Art Nouveau"
+    ],
+    "ar": [
+      "الفن الجديد"
+    ],
+    "es": [
+      "Modernismo (arte)"
+    ],
+    "fr": [
+      "Art Nouveau"
+    ],
+    "it": [
+      "Nuova arte"
+    ]
+  }
+}

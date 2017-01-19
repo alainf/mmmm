@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228503",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-agricole-(secteurs)/Entreprises-agricoles-et-gestion-de-la-qualite/",
+  "description": "Description de Entreprises agricoles et gestion de la qualité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2201,
+  "identifiant-drupal-parent": 2190,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Entreprises agricoles et gestion de la qualité",
+  "nom-folder": "Entreprises-agricoles-et-gestion-de-la-qualite",
+  "nom-machine": "terme-2015-12-06-16-25-41-86966228503",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Farm Business and quality management"
+    ],
+    "ar": [
+      "مقاولات الزراعية وإدارة الجودة"
+    ],
+    "es": [
+      "Empresas agrícolas y gestión de calidad"
+    ],
+    "fr": [
+      "Entreprises agricoles et gestion de la qualité"
+    ],
+    "it": [
+      "Imprese agricole e gestione della qualità"
+    ]
+  }
+}

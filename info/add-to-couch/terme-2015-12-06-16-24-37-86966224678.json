@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-37-86966224678",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Vaudeville/",
+  "description": "Description de Vaudeville",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467092,
+  "identifiant-drupal-parent": 467060,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-37",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Vaudeville",
+  "nom-folder": "Vaudeville",
+  "nom-machine": "terme-2015-12-06-16-24-37-86966224678",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Vaudeville"
+    ],
+    "ar": [
+      "مسلاة"
+    ],
+    "es": [
+      "Vodevil"
+    ],
+    "fr": [
+      "Vaudeville"
+    ],
+    "it": [
+      "Vaudeville"
+    ]
+  }
+}

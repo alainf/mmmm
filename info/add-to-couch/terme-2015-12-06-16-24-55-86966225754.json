@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225754",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Mondialisation-et-territoires/Appropriation-de-l'eau/",
+  "description": "Description de Appropriation de l'eau",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472328,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Appropriation de l'eau",
+  "nom-folder": "Appropriation-de-l'eau",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225754"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Appropriation of water"
+    ],
+    "ar": [
+      "إستلاء على المياه"
+    ],
+    "es": [
+      "Apropiación del agua"
+    ],
+    "fr": [
+      "Appropriation de l'eau"
+    ],
+    "it": [
+      "appropriazione dell'acqua"
+    ]
+  }
+}

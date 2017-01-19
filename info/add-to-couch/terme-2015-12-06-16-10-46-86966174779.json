@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174779",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Slovaque/",
+  "description": "Description de Slovaque",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317657,
+  "ISO-639-1": "sk",
+  "ISO-639-2": "slo/slk",
+  "ISO-639-3": "slk",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2016-02-04-06-16-18",
+  "nom": "Slovaque",
+  "nom-folder": "Slovaque",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174779",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Slovaque",
+  "nomLangues": {
+    "en": [
+      "Slovak"
+    ],
+    "ar": [
+      "سلوفاكية"
+    ],
+    "es": [
+      "Eslovaco"
+    ],
+    "fr": [
+      "Slovaque"
+    ],
+    "it": [
+      "Slovacco"
+    ],
+    "ru": [
+      "словацкий"
+    ]
+  }
+}

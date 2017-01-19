@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-06-02-87274821760",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Kannada/",
+  "description": "Description de Kannada",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "kn",
+  "ISO-639-2": "kan",
+  "ISO-639-3": "kan",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-06-02",
+  "moment-de-modification": "2016-02-04-05-06-38",
+  "nom": "Kannada",
+  "nom-folder": "Kannada",
+  "nom-machine": "terme-2016-02-04-05-06-02-87274821760",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Kannada",
+  "nomLangues": {
+    "en": [
+      "Kannada"
+    ],
+    "ar": [
+      "كنادية"
+    ],
+    "es": [
+      "Canarés"
+    ],
+    "fr": [
+      "Kannada"
+    ],
+    "it": [
+      "Kannada"
+    ],
+    "ru": [
+      "Каннада"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174817",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Ukrainien/",
+  "description": "Description de Ukrainien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369945,
+  "ISO-639-1": "uk",
+  "ISO-639-2": "ukr",
+  "ISO-639-3": "ukr",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2016-02-04-06-51-46",
+  "nom": "Ukrainien",
+  "nom-folder": "Ukrainien",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174817",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Ukrainien",
+  "nomLangues": {
+    "en": [
+      "Ukrainian"
+    ],
+    "ar": [
+      "أوكرانية"
+    ],
+    "es": [
+      "Ucraniano"
+    ],
+    "fr": [
+      "Ukrainien"
+    ],
+    "it": [
+      "Ucraino"
+    ],
+    "ru": [
+      "Украинский"
+    ]
+  }
+}

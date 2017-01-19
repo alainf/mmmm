@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-14-86966226847",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Correspondant-de-guerre/",
+  "description": "Description de Correspondant de guerre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270733,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-14",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Correspondant de guerre",
+  "nom-folder": "Correspondant-de-guerre",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-14-86966226847"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "War correspondent"
+    ],
+    "ar": [
+      "مراسل الحرب"
+    ],
+    "es": [
+      "Corresponsal de guerra"
+    ],
+    "fr": [
+      "Correspondant de guerre"
+    ],
+    "it": [
+      "corrispondente di guerra"
+    ]
+  }
+}

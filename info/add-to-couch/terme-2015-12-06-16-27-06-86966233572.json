@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233572",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Sociologie-cognitive/",
+  "description": "Description de Sociologie cognitive",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469931,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Sociologie cognitive",
+  "nom-folder": "Sociologie-cognitive",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-06-86966233572"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cognitive sociology"
+    ],
+    "ar": [
+      "المعرفية علم الاجتماع"
+    ],
+    "es": [
+      "Sociología cognitiva"
+    ],
+    "fr": [
+      "Sociologie cognitive"
+    ],
+    "it": [
+      "sociologia cognitiva"
+    ]
+  }
+}

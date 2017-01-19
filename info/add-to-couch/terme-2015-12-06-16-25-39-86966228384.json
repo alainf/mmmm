@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228384",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-de-la-chaine-logistique/",
+  "description": "Description de Gestion de la chaîne logistique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2036,
+  "identifiant-drupal-parent": 2035,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion de la chaîne logistique",
+  "nom-folder": "Gestion-de-la-chaine-logistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-39-86966228384"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Supply chain management"
+    ],
+    "ar": [
+      "إدارة سلسلة التوريد"
+    ],
+    "es": [
+      "Gestión de la cadena logística"
+    ],
+    "fr": [
+      "Gestion de la chaîne logistique"
+    ],
+    "it": [
+      "Gestione della catena logistica"
+    ]
+  }
+}

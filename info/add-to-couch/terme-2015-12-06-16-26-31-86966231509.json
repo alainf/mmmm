@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-31-86966231509",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Heuristique-(philosophie)/",
+  "description": "Description de Heuristique (philosophie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272218,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-31",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Heuristique (philosophie)",
+  "nom-folder": "Heuristique-(philosophie)",
+  "nom-machine": "terme-2015-12-06-16-26-31-86966231509",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Heuristics (philosophy)"
+    ],
+    "ar": [
+      "حدسية جديدة (فلسفة)"
+    ],
+    "es": [
+      "Heurística (filosofía)"
+    ],
+    "fr": [
+      "Heuristique (philosophie)"
+    ],
+    "it": [
+      "Euristica (filosofia)"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-07-07-15-01-23-88075085009",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-revuesOrg/Sociologie-et-anthropologie/Sociologie/",
+  "description": "Description de Sociologie",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-07-07-15-01-23",
+  "moment-de-creation": "2016-07-07-15-01-23",
+  "moment-de-modification": "2016-07-07-15-01-50",
+  "nom": "Sociologie",
+  "nom-folder": "Sociologie",
+  "nom-machine": "terme-2016-07-07-15-01-23-88075085009",
+  "sous-type": "sujets-revuesOrg",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology"
+    ],
+    "fr": [
+      "Sociologie"
+    ]
+  }
+}

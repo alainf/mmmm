@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229663",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-du-commerce-electronique/",
+  "description": "Description de Marketing du commerce électronique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2065,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing du commerce électronique",
+  "nom-folder": "Marketing-du-commerce-electronique",
+  "nom-machine": "terme-2015-12-06-16-26-01-86966229663",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "E-Commerce marketing"
+    ],
+    "ar": [
+      "تسويق التجارة الإلكترونية"
+    ],
+    "es": [
+      "Marketing del comercio electrónico"
+    ],
+    "fr": [
+      "Marketing du commerce électronique"
+    ],
+    "it": [
+      "Marketing dell'eCommerce (Commercio elettronico)"
+    ]
+  }
+}

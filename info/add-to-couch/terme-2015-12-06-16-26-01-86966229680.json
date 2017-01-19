@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229680",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-lie-a-une-cause/",
+  "description": "Description de Marketing lié à une cause",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2075,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing lié à une cause",
+  "nom-folder": "Marketing-lie-a-une-cause",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229680"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cause Marketing"
+    ],
+    "ar": [
+      "التسويق المرتبط بسبب"
+    ],
+    "es": [
+      "Marketing ligado a una causa social"
+    ],
+    "fr": [
+      "Marketing lié à une cause"
+    ],
+    "it": [
+      "Marketing legato ad una causa sociale"
+    ]
+  }
+}

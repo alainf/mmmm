@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220728",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industries-des-technologies-de-l'information/Telecommunications/",
+  "description": "Description de Télécommunications",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270559,
+  "identifiant-drupal-parent": 270562,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Télécommunications",
+  "nom-folder": "Telecommunications",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220728"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Telecommunications"
+    ],
+    "ar": [
+      "اتصال"
+    ],
+    "es": [
+      "Telecomunicaciones"
+    ],
+    "fr": [
+      "Télécommunications"
+    ],
+    "it": [
+      "Telecomunicazioni"
+    ]
+  }
+}

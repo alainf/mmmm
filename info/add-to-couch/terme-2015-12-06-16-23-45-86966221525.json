@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221525",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-vivants/Arts-du-cirque/",
+  "description": "Description de Arts du cirque",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270623,
+  "identifiant-drupal-parent": 270606,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Arts du cirque",
+  "nom-folder": "Arts-du-cirque",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-45-86966221525"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Circus arts"
+    ],
+    "ar": [
+      "فنون السيرك"
+    ],
+    "es": [
+      "Artes circenses"
+    ],
+    "fr": [
+      "Arts du cirque"
+    ],
+    "it": [
+      "Arti circensi"
+    ],
+    "ru": [
+      "циркового искусства"
+    ]
+  }
+}

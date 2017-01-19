@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-59-35-87404398521",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/pourquoi-ecrire/ecrire-pour-temoigner/temoigner-d-une-realite/raconter-son-enfance/raconter-la-vie-de-famille-en-foret/",
+  "description": "Description de Raconter la vie de famille en forêt",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-59-35",
+  "moment-de-modification": "2016-02-29-05-00-49",
+  "nom": "Raconter la vie de famille en forêt",
+  "nom-folder": "raconter-la-vie-de-famille-en-foret",
+  "nom-machine": "terme-2016-02-29-04-59-35-87404398521",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Telling family life in the forest"
+    ],
+    "fr": [
+      "Raconter la vie de famille en forêt"
+    ]
+  }
+}

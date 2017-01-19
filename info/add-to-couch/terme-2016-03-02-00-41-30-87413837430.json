@@ -1,0 +1,22 @@
+{
+  "_id": "terme-2016-03-02-00-41-30-87413837430",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/qui-ecrit/qui-est-l-auteur/",
+  "description": "Description de Qui est l'auteur",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-00-41-30",
+  "moment-de-modification": "2016-03-02-00-42-35",
+  "nom": "Qui est l'auteur",
+  "nom-folder": "qui-est-l-auteur",
+  "nom-machine": "terme-2016-03-02-00-41-30-87413837430",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Qui est l'auteur"
+    ]
+  }
+}

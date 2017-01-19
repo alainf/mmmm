@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221343",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Agenda/Agenda-scientifique/Appels-a-contribution/",
+  "description": "Description de Appels à contribution",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270526,
+  "identifiant-drupal-parent": 1705,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Appels à contribution",
+  "nom-folder": "Appels-a-contribution",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221343"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Call for donations"
+    ],
+    "ar": [
+      "نداء للتبرع"
+    ],
+    "es": [
+      "Solicitudes de contribución"
+    ],
+    "fr": [
+      "Appels à contribution"
+    ],
+    "it": [
+      "Invito a contribuire"
+    ],
+    "ru": [
+      "Звонки для взносов"
+    ]
+  }
+}

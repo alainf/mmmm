@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-17-49-87404248161",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/comment-ecrire/faire-appel-a-ses-souvenirs/experience-de-vie/aventures-vecues/",
+  "description": "Description de Aventures vécues",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-17-49",
+  "moment-de-modification": "2016-02-29-04-18-43",
+  "nom": "Aventures vécues",
+  "nom-folder": "aventures-vecues",
+  "nom-machine": "terme-2016-02-29-04-17-49-87404248161",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Real life adventures"
+    ],
+    "fr": [
+      "Aventures vécues"
+    ]
+  }
+}

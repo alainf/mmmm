@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226771",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/",
+  "description": "Description de Études médiatiques",
+  "enfants": [
+    "terme-2015-12-06-16-25-12-86966226774",
+    "terme-2015-12-06-16-25-13-86966226780",
+    "terme-2015-12-06-16-25-13-86966226783",
+    "terme-2015-12-06-16-25-13-86966226789",
+    "terme-2015-12-06-16-25-13-86966226791",
+    "terme-2015-12-06-16-25-13-86966226794",
+    "terme-2015-12-06-16-25-13-86966226797",
+    "terme-2015-12-06-16-25-13-86966226826",
+    "terme-2015-12-06-16-25-15-86966226950"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272181,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Études médiatiques",
+  "nom-folder": "Etudes-mediatiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226771"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Media Studies"
+    ],
+    "ar": [
+      "الدراسات الإعلامية"
+    ],
+    "es": [
+      "Estudios mediáticos"
+    ],
+    "fr": [
+      "Études médiatiques"
+    ],
+    "it": [
+      "Studi mediatici"
+    ]
+  }
+}

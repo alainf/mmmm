@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221395",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Financement/Bourses/",
+  "description": "Description de Bourses",
+  "enfants": [
+    "terme-2015-12-06-16-23-43-86966221398"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1741,
+  "identifiant-drupal-parent": 1674,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Bourses",
+  "nom-folder": "Bourses",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221395"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bursaries"
+    ],
+    "ar": [
+      "المنح الدراسية"
+    ],
+    "es": [
+      "Becas"
+    ],
+    "fr": [
+      "Bourses"
+    ],
+    "it": [
+      "Borse"
+    ]
+  }
+}

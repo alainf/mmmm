@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225247",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-balkaniques/",
+  "description": "Description de Études balkaniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466795,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études balkaniques",
+  "nom-folder": "Etudes-balkaniques",
+  "nom-machine": "terme-2015-12-06-16-24-47-86966225247",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Balkan Studies"
+    ],
+    "ar": [
+      "الدراسات البلقان"
+    ],
+    "es": [
+      "Estudios balcánicos"
+    ],
+    "fr": [
+      "Études balkaniques"
+    ],
+    "it": [
+      "Studi balcanici"
+    ]
+  }
+}

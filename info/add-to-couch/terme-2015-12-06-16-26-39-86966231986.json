@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231986",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Theologie/Theologie-de-la-liberation/",
+  "description": "Description de Théologie de la libération",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466780,
+  "identifiant-drupal-parent": 466779,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Théologie de la libération",
+  "nom-folder": "Theologie-de-la-liberation",
+  "nom-machine": "terme-2015-12-06-16-26-39-86966231986",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Liberation theology"
+    ],
+    "ar": [
+      "لاهوت التحرير"
+    ],
+    "es": [
+      "Teología de la liberación"
+    ],
+    "fr": [
+      "Théologie de la libération"
+    ],
+    "it": [
+      "Teologia della liberazione"
+    ]
+  }
+}

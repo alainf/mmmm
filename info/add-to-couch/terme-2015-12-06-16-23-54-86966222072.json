@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-54-86966222072",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Biological-Sciences/Soil-Sciences/",
+  "description": "Description de Soil sciences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368842,
+  "identifiant-drupal-parent": 368810,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-54",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Soil sciences",
+  "nom-folder": "Soil-Sciences",
+  "nom-machine": "terme-2015-12-06-16-23-54-86966222072",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Soil sciences"
+    ]
+  }
+}

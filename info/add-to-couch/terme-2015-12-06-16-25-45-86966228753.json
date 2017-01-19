@@ -1,0 +1,55 @@
+{
+  "_id": "terme-2015-12-06-16-25-45-86966228753",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/",
+  "description": "Description de Comportement organisationnel",
+  "enfants": [
+    "terme-2015-12-06-16-25-45-86966228756",
+    "terme-2015-12-06-16-25-46-86966228760",
+    "terme-2015-12-06-16-25-46-86966228763",
+    "terme-2015-12-06-16-25-46-86966228766",
+    "terme-2015-12-06-16-25-46-86966228769",
+    "terme-2015-12-06-16-25-46-86966228773",
+    "terme-2015-12-06-16-25-46-86966228776",
+    "terme-2015-12-06-16-25-46-86966228778",
+    "terme-2015-12-06-16-25-46-86966228781",
+    "terme-2015-12-06-16-25-46-86966228784",
+    "terme-2015-12-06-16-25-46-86966228787",
+    "terme-2015-12-06-16-25-46-86966228790",
+    "terme-2015-12-06-16-25-46-86966228793",
+    "terme-2015-12-06-16-25-46-86966228796",
+    "terme-2015-12-06-16-25-46-86966228799",
+    "terme-2015-12-06-16-25-46-86966228802"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2110,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-45",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Comportement organisationnel",
+  "nom-folder": "Comportement-organisationnel",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-45-86966228753"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational behavior"
+    ],
+    "ar": [
+      "السلوك التنظيمي"
+    ],
+    "es": [
+      "Comportamiento Organizacional"
+    ],
+    "fr": [
+      "Comportement organisationnel"
+    ],
+    "it": [
+      "comportamento organizzativo"
+    ]
+  }
+}

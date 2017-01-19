@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-17-86966234257",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/congres/",
+  "description": "Description de Congrès",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369352,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-17",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Congrès",
+  "nom-folder": "congres",
+  "nom-machine": "terme-2015-12-06-16-27-17-86966234257",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Congress"
+    ],
+    "es": [
+      "Congreso"
+    ],
+    "fr": [
+      "Congrès"
+    ],
+    "it": [
+      "Congresso"
+    ]
+  }
+}

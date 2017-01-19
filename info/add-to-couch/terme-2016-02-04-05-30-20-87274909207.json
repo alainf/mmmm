@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-05-30-20-87274909207",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Moldave/",
+  "description": "Codes obsolete, utiliser les codes du roumain.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "mo",
+  "ISO-639-2": "mol",
+  "ISO-639-3": "mol",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-30-20",
+  "moment-de-modification": "2016-02-04-05-31-22",
+  "nom": "Moldave",
+  "nom-folder": "Moldave",
+  "nom-machine": "terme-2016-02-04-05-30-20-87274909207",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Moldave",
+  "nomLangues": {
+    "en": [
+      "Moldovan"
+    ],
+    "ar": [
+      "مولدوفية"
+    ],
+    "es": [
+      "Moldavo"
+    ],
+    "fr": [
+      "Moldave"
+    ],
+    "it": [
+      "Moldavo"
+    ]
+  }
+}

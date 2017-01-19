@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-03-86966233404",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Controle-repression-et-securite/",
+  "description": "Description de Contrôle, répression et sécurité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455646,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-03",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Contrôle, répression et sécurité",
+  "nom-folder": "Controle-repression-et-securite",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-03-86966233404"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Control, repression and security"
+    ],
+    "ar": [
+      "السيطرة و القمع والأمن"
+    ],
+    "es": [
+      "Control, represión y seguridad"
+    ],
+    "fr": [
+      "Contrôle, répression et sécurité"
+    ],
+    "it": [
+      "Controllo, repressione e sicurezza"
+    ]
+  }
+}

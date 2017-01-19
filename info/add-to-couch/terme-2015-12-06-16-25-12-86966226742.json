@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226742",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-de-masse/Propagande/",
+  "description": "Description de Propagande",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455632,
+  "identifiant-drupal-parent": 272180,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Propagande",
+  "nom-folder": "Propagande",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226742"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Propaganda"
+    ],
+    "ar": [
+      "الدعاوة"
+    ],
+    "es": [
+      "Propaganda"
+    ],
+    "fr": [
+      "Propagande"
+    ],
+    "it": [
+      "propaganda"
+    ]
+  }
+}

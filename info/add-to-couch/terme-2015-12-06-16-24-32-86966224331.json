@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224331",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/Dermatologie-(veterinaire)/",
+  "description": "Description de Dermatologie (vétérinaire)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269030,
+  "identifiant-drupal-parent": 269028,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Dermatologie (vétérinaire)",
+  "nom-folder": "Dermatologie-(veterinaire)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-32-86966224331"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Dermatology (veterinary)"
+    ],
+    "ar": [
+      "الأمراض الجلدية (طبيب بيطري)"
+    ],
+    "es": [
+      "Dermatología (veterinaria)"
+    ],
+    "fr": [
+      "Dermatologie (vétérinaire)"
+    ],
+    "it": [
+      "Dermatologia (veterinaria)"
+    ]
+  }
+}

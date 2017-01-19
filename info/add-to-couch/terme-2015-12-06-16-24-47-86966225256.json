@@ -1,0 +1,51 @@
+{
+  "_id": "terme-2015-12-06-16-24-47-86966225256",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/",
+  "description": "Description de Études de genre",
+  "enfants": [
+    "terme-2015-12-06-16-24-47-86966225258",
+    "terme-2015-12-06-16-24-47-86966225261",
+    "terme-2015-12-06-16-24-47-86966225264",
+    "terme-2015-12-06-16-24-47-86966225273",
+    "terme-2015-12-06-16-24-47-86966225276",
+    "terme-2015-12-06-16-24-47-86966225278",
+    "terme-2015-12-06-16-24-48-86966225281",
+    "terme-2015-12-06-16-24-48-86966225284",
+    "terme-2015-12-06-16-24-48-86966225287",
+    "terme-2015-12-06-16-24-48-86966225290",
+    "terme-2015-12-06-16-24-48-86966225298",
+    "terme-2015-12-06-16-24-48-86966225301"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466798,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-47",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études de genre",
+  "nom-folder": "Etudes-de-genre",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-47-86966225256"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Gender studies"
+    ],
+    "ar": [
+      "الدراسات الجنسانية"
+    ],
+    "es": [
+      "Estudios de género"
+    ],
+    "fr": [
+      "Études de genre"
+    ],
+    "it": [
+      "Studi di genere"
+    ]
+  }
+}

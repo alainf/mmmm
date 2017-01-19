@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224195",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Peche-et-environnement/",
+  "description": "Description de Pêche et environnement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269087,
+  "identifiant-drupal-parent": 939,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Pêche et environnement",
+  "nom-folder": "Peche-et-environnement",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-29-86966224195"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fishing and environment"
+    ],
+    "ar": [
+      "صيد الأسماك والبيئة"
+    ],
+    "es": [
+      "Pesca y medio ambiente"
+    ],
+    "fr": [
+      "Pêche et environnement"
+    ],
+    "it": [
+      "Pesca e ambiente"
+    ]
+  }
+}

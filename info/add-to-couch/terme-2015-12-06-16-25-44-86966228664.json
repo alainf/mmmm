@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-44-86966228664",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Veille-strategique/Intelligence-economique/Signaux-faibles/",
+  "description": "Description de Signaux faibles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471361,
+  "identifiant-drupal-parent": 451416,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-44",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Signaux faibles",
+  "nom-folder": "Signaux-faibles",
+  "nom-machine": "terme-2015-12-06-16-25-44-86966228664",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Weak signals"
+    ],
+    "ar": [
+      "اشارات ضعيفة"
+    ],
+    "es": [
+      "Señales débiles"
+    ],
+    "fr": [
+      "Signaux faibles"
+    ],
+    "it": [
+      "Segnali deboli"
+    ]
+  }
+}

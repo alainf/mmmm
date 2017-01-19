@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226693",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Bibliotheconomie/Ouvrages-de-reference/",
+  "description": "Description de Ouvrages de référence",
+  "enfants": [
+    "terme-2015-12-06-16-25-11-86966226696",
+    "terme-2015-12-06-16-25-11-86966226698"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272237,
+  "identifiant-drupal-parent": 1562,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Ouvrages de référence",
+  "nom-folder": "Ouvrages-de-reference",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-11-86966226693"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reference works"
+    ],
+    "ar": [
+      "عمل مرجعي"
+    ],
+    "es": [
+      "Obra de referencia"
+    ],
+    "fr": [
+      "Ouvrages de référence"
+    ],
+    "it": [
+      "Opere di consultazione"
+    ]
+  }
+}

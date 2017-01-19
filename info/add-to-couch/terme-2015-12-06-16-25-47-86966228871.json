@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-47-86966228871",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-du-changement-(organisations)/",
+  "description": "Description de Gestion du changement (organisations)",
+  "enfants": [
+    "terme-2015-12-06-16-25-47-86966228873",
+    "terme-2015-12-06-16-25-47-86966228876",
+    "terme-2015-12-06-16-25-47-86966228879"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2128,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-47",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion du changement (organisations)",
+  "nom-folder": "Gestion-du-changement-(organisations)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-47-86966228871"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Change management (organizations)"
+    ],
+    "ar": [
+      "إدارة التغيير (المنظمات)"
+    ],
+    "es": [
+      "Gestión del Cambio (organizaciones)"
+    ],
+    "fr": [
+      "Gestion du changement (organisations)"
+    ],
+    "it": [
+      "Gestione del cambiamento (organizzazioni)"
+    ]
+  }
+}

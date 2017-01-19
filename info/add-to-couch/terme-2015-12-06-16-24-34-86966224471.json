@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-34-86966224471",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Art-moderne/Nouvelle-Objectivite/",
+  "description": "Description de Nouvelle Objectivité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466862,
+  "identifiant-drupal-parent": 466845,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-34",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Nouvelle Objectivité",
+  "nom-folder": "Nouvelle-Objectivite",
+  "nom-machine": "terme-2015-12-06-16-24-34-86966224471",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "New Objectivity"
+    ],
+    "ar": [
+      "الموضوعية الجديدة"
+    ],
+    "es": [
+      "Nueva objetividad"
+    ],
+    "fr": [
+      "Nouvelle Objectivité"
+    ],
+    "it": [
+      "Nuova oggettività"
+    ]
+  }
+}

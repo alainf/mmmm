@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-26-86966231215",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Histoire/Objets-de-l'histoire/Histoire-des-armees/",
+  "description": "Description de Histoire des armées",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451336,
+  "identifiant-drupal-parent": 978,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-26",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire des armées",
+  "nom-folder": "Histoire-des-armees",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-26-86966231215"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of armed forces"
+    ],
+    "ar": [
+      "تاريخ الجيوش"
+    ],
+    "es": [
+      "Historia de las fuerzas armadas"
+    ],
+    "fr": [
+      "Histoire des armées"
+    ],
+    "it": [
+      "Storia delle forze armate"
+    ]
+  }
+}

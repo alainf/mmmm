@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-49-86966232574",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Pouvoir/",
+  "description": "Description de Pouvoir",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1093,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-49",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Pouvoir",
+  "nom-folder": "Pouvoir",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-49-86966232574"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Power"
+    ],
+    "ar": [
+      "نفوذ"
+    ],
+    "es": [
+      "Poder"
+    ],
+    "fr": [
+      "Pouvoir"
+    ],
+    "it": [
+      "potere"
+    ]
+  }
+}

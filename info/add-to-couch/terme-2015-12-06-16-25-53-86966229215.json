@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229215",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-simple/",
+  "description": "Description de Comptabilité simple",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271272,
+  "identifiant-drupal-parent": 270934,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptabilité simple",
+  "nom-folder": "Comptabilite-simple",
+  "nom-machine": "terme-2015-12-06-16-25-53-86966229215",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Simple Accounting"
+    ],
+    "ar": [
+      "المحاسبة بسيطة"
+    ],
+    "es": [
+      "Contabilidad simple"
+    ],
+    "fr": [
+      "Comptabilité simple"
+    ],
+    "it": [
+      "Contabilità semplice"
+    ]
+  }
+}

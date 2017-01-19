@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-41-86966224913",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Industrie-creative/Medias-sociaux/",
+  "description": "Description de Médias sociaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472155,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-41",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Médias sociaux",
+  "nom-folder": "Medias-sociaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-41-86966224913"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social media"
+    ],
+    "ar": [
+      "وسائل التواصل الإجتماعية"
+    ],
+    "es": [
+      "Medios sociales"
+    ],
+    "fr": [
+      "Médias sociaux"
+    ],
+    "it": [
+      "Media sociali"
+    ]
+  }
+}

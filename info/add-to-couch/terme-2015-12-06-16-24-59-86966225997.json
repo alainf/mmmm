@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225997",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Controle-des-systemes-informatiques/",
+  "description": "Description de Contrôle des systèmes informatiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270351,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Contrôle des systèmes informatiques",
+  "nom-folder": "Controle-des-systemes-informatiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-59-86966225997"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Computer systems control"
+    ],
+    "ar": [
+      "مراقبة أنظمة الكمبيوتر"
+    ],
+    "es": [
+      "Control de sistemas informáticos"
+    ],
+    "fr": [
+      "Contrôle des systèmes informatiques"
+    ],
+    "it": [
+      "Controllo di sistemi informatiche"
+    ]
+  }
+}

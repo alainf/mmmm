@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-23-48-86966221695",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Ciencias-basicas-y-experimentales/",
+  "description": "Description de Ciencias basicas y experimentales",
+  "enfants": [
+    "terme-2015-12-06-16-23-48-86966221698",
+    "terme-2015-12-06-16-23-48-86966221700",
+    "terme-2015-12-06-16-23-48-86966221704",
+    "terme-2015-12-06-16-23-48-86966221706",
+    "terme-2015-12-06-16-23-48-86966221710",
+    "terme-2015-12-06-16-23-48-86966221712"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380835,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-48",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Ciencias basicas y experimentales",
+  "nom-folder": "Ciencias-basicas-y-experimentales",
+  "nom-machine": "terme-2015-12-06-16-23-48-86966221695",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Ciencias basicas y experimentales"
+    ]
+  }
+}

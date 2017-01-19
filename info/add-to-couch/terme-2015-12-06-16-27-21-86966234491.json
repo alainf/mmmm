@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-21-86966234491",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/site-web/portail/portail-generaliste/",
+  "description": "Description de Portail generaliste",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369936,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-21",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Portail generaliste",
+  "nom-folder": "portail-generaliste",
+  "nom-machine": "terme-2015-12-06-16-27-21-86966234491",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Non specialized portal"
+    ],
+    "es": [
+      "Portal generalista"
+    ],
+    "fr": [
+      "Portail generaliste"
+    ],
+    "it": [
+      "Portale generalista"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221219",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/Basket-ball/",
+  "description": "Description de Basket-ball",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270699,
+  "identifiant-drupal-parent": 270649,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Basket-ball",
+  "nom-folder": "Basket-ball",
+  "nom-machine": "terme-2015-12-06-16-23-40-86966221219",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Basketball"
+    ],
+    "ar": [
+      "كرة السلة"
+    ],
+    "es": [
+      "Baloncesto"
+    ],
+    "fr": [
+      "Basket-ball"
+    ],
+    "it": [
+      "Pallacanestro"
+    ]
+  }
+}

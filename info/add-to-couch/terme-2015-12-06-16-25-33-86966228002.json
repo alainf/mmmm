@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966228002",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-de-projets-en-construction/",
+  "description": "Description de Gestion de projets en construction",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472270,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion de projets en construction",
+  "nom-folder": "Gestion-de-projets-en-construction",
+  "nom-machine": "terme-2015-12-06-16-25-33-86966228002",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Construction project management"
+    ],
+    "ar": [
+      "إدارة مشاريع البناء"
+    ],
+    "es": [
+      "Gestión de proyectos de construcción"
+    ],
+    "fr": [
+      "Gestion de projets en construction"
+    ],
+    "it": [
+      "Gestione di progetti nella costruzione"
+    ],
+    "ru": []
+  }
+}

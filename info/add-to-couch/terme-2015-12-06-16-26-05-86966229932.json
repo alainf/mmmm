@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-05-86966229932",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-electrique-et-electronique/Traitement-d'images/",
+  "description": "Description de Traitement d'images",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270902,
+  "identifiant-drupal-parent": 270894,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-05",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Traitement d'images",
+  "nom-folder": "Traitement-d'images",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-05-86966229932"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Image Processing"
+    ],
+    "ar": [
+      "معالجة الصور الرقمية"
+    ],
+    "es": [
+      "Retoque fotográfico"
+    ],
+    "fr": [
+      "Traitement d'images"
+    ],
+    "it": [
+      "Ritocco fotografico"
+    ]
+  }
+}

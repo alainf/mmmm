@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-55-86966222130",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Business-Administration/Personnel-Management/",
+  "description": "Description de Personnel management",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368862,
+  "identifiant-drupal-parent": 368846,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-55",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Personnel management",
+  "nom-folder": "Personnel-Management",
+  "nom-machine": "terme-2015-12-06-16-23-55-86966222130",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Personnel management"
+    ]
+  }
+}

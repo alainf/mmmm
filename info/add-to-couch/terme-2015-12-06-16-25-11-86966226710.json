@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226710",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-de-masse/",
+  "description": "Description de Communication de masse",
+  "enfants": [
+    "terme-2015-12-06-16-25-11-86966226713",
+    "terme-2015-12-06-16-25-11-86966226716",
+    "terme-2015-12-06-16-25-12-86966226721",
+    "terme-2015-12-06-16-25-12-86966226740",
+    "terme-2015-12-06-16-25-12-86966226742"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272180,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Communication de masse",
+  "nom-folder": "Communication-de-masse",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-11-86966226710"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mass communication"
+    ],
+    "ar": [
+      "الإتصال الجماهيري"
+    ],
+    "es": [
+      "Comunicación de masas"
+    ],
+    "fr": [
+      "Communication de masse"
+    ],
+    "it": [
+      "Comunicazioni di massa"
+    ]
+  }
+}

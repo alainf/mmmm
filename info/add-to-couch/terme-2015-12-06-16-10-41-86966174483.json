@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-41-86966174483",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Cayuga/",
+  "description": "Description de Cayuga",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317587,
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-41",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Cayuga",
+  "nom-folder": "Cayuga",
+  "nom-machine": "terme-2015-12-06-16-10-41-86966174483",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cayuga"
+    ],
+    "ar": [
+      "كيجا"
+    ],
+    "es": [
+      "Cayuga"
+    ],
+    "fr": [
+      "Cayuga"
+    ],
+    "it": [
+      "Cayuga"
+    ],
+    "ru": [
+      "Кайюга"
+    ]
+  }
+}

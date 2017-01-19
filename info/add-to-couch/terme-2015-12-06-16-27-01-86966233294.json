@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233294",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Methodes-de-recherche-en-sociologie/",
+  "description": "Description de Méthodes de recherche en sociologie",
+  "enfants": [
+    "terme-2015-12-06-16-27-01-86966233296",
+    "terme-2015-12-06-16-27-01-86966233306"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1188,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Méthodes de recherche en sociologie",
+  "nom-folder": "Methodes-de-recherche-en-sociologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-01-86966233294"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research Methods in Sociology"
+    ],
+    "ar": [
+      "مناهج البحث في علم الإجتماع"
+    ],
+    "es": [
+      "Métodos de investigación en sociología"
+    ],
+    "fr": [
+      "Méthodes de recherche en sociologie"
+    ],
+    "it": [
+      "Metodi d'investigazione in sociologia"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-00-86966222411",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Education/Comparative-Education/",
+  "description": "Description de Comparative education",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368957,
+  "identifiant-drupal-parent": 368955,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-24-00",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Comparative education",
+  "nom-folder": "Comparative-Education",
+  "nom-machine": "terme-2015-12-06-16-24-00-86966222411",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Comparative education"
+    ]
+  }
+}

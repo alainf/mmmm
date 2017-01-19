@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232233",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Criminologie/Delinquance/",
+  "description": "Description de Délinquance",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272374,
+  "identifiant-drupal-parent": 995,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Délinquance",
+  "nom-folder": "Delinquance",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232233"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Delinquency"
+    ],
+    "ar": [
+      "إنحراف"
+    ],
+    "es": [
+      "Delincuencia"
+    ],
+    "fr": [
+      "Délinquance"
+    ],
+    "it": [
+      "Delinquenza"
+    ]
+  }
+}

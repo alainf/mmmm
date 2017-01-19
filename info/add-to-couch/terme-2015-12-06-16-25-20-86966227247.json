@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-20-86966227247",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce-international-(gestion)/Commerce-des-armes/",
+  "description": "Description de Commerce des armes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472232,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-20",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Commerce des armes",
+  "nom-folder": "Commerce-des-armes",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-20-86966227247"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arms Trade"
+    ],
+    "ar": [
+      "تجارة الأسلحة"
+    ],
+    "es": [
+      "Comercio de armas"
+    ],
+    "fr": [
+      "Commerce des armes"
+    ],
+    "it": [
+      "Commercio di armi"
+    ]
+  }
+}

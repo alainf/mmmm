@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228074",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Outils-de-gestion-de-projets/Logiciels-de-gestion-de-projet/",
+  "description": "Description de Logiciels de gestion de projet",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1980,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Logiciels de gestion de projet",
+  "nom-folder": "Logiciels-de-gestion-de-projet",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-34-86966228074"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Project management software"
+    ],
+    "ar": [
+      "برمجيات إدارة المشاريع"
+    ],
+    "es": [
+      "Software de gestión de proyectos"
+    ],
+    "fr": [
+      "Logiciels de gestion de projet"
+    ],
+    "it": [
+      "software di gestione di progetti"
+    ]
+  }
+}

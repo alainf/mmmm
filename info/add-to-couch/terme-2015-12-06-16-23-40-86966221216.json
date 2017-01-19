@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221216",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Les-sports/Baseball/",
+  "description": "Description de Baseball",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270687,
+  "identifiant-drupal-parent": 270649,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Baseball",
+  "nom-folder": "Baseball",
+  "nom-machine": "terme-2015-12-06-16-23-40-86966221216",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Baseball"
+    ],
+    "ar": [
+      "كرة القاعدة"
+    ],
+    "es": [
+      "Béisbol"
+    ],
+    "fr": [
+      "Baseball"
+    ],
+    "it": [
+      "Baseball"
+    ]
+  }
+}

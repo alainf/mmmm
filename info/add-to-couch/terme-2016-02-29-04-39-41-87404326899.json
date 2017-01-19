@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-39-41-87404326899",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/lieu-de-l-ecriture/lieu-evenementiel/",
+  "description": "Description de Lieu événementiel",
+  "enfants": [
+    "terme-2016-02-29-04-43-39-87404341193"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-39-41",
+  "moment-de-modification": "2016-02-29-04-40-13",
+  "nom": "Lieu événementiel",
+  "nom-folder": "lieu-evenementiel",
+  "nom-machine": "terme-2016-02-29-04-39-41-87404326899",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Lieu événementiel"
+    ]
+  }
+}

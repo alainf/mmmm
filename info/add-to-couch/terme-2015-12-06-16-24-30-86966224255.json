@@ -1,0 +1,55 @@
+{
+  "_id": "terme-2015-12-06-16-24-30-86966224255",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Elevage-(zootechnie)/Reproduction-animale/",
+  "description": "Description de Reproduction animale",
+  "enfants": [
+    "terme-2015-12-06-16-24-30-86966224258",
+    "terme-2015-12-06-16-24-31-86966224261",
+    "terme-2015-12-06-16-24-31-86966224263",
+    "terme-2015-12-06-16-24-31-86966224266",
+    "terme-2015-12-06-16-24-31-86966224269",
+    "terme-2015-12-06-16-24-31-86966224272",
+    "terme-2015-12-06-16-24-31-86966224275",
+    "terme-2015-12-06-16-24-31-86966224277",
+    "terme-2015-12-06-16-24-31-86966224280",
+    "terme-2015-12-06-16-24-31-86966224283",
+    "terme-2015-12-06-16-24-31-86966224286",
+    "terme-2015-12-06-16-24-31-86966224289",
+    "terme-2015-12-06-16-24-31-86966224291",
+    "terme-2015-12-06-16-24-31-86966224294",
+    "terme-2015-12-06-16-24-31-86966224297",
+    "terme-2015-12-06-16-24-31-86966224300"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269002,
+  "identifiant-drupal-parent": 269001,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-30",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Reproduction animale",
+  "nom-folder": "Reproduction-animale",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-30-86966224255"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Animal Reproduction"
+    ],
+    "ar": [
+      "الاستنساخ الحيواني"
+    ],
+    "es": [
+      "Reproducción animal"
+    ],
+    "fr": [
+      "Reproduction animale"
+    ],
+    "it": [
+      "riproduzione animale"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-18-86966230716",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astronomie/Cosmologie-(astronomie)/",
+  "description": "Description de Cosmologie (astronomie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270770,
+  "identifiant-drupal-parent": 270765,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-18",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Cosmologie (astronomie)",
+  "nom-folder": "Cosmologie-(astronomie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-18-86966230716"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cosmology (Astronomy)"
+    ],
+    "ar": [
+      "علم الكون (علم الفلك)"
+    ],
+    "es": [
+      "Cosmología (Astronomía)"
+    ],
+    "fr": [
+      "Cosmologie (astronomie)"
+    ],
+    "it": [
+      "Cosmologia (astronomia)"
+    ]
+  }
+}

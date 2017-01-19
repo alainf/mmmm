@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231906",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Bouddhisme/",
+  "description": "Description de Bouddhisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466757,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Bouddhisme",
+  "nom-folder": "Bouddhisme",
+  "nom-machine": "terme-2015-12-06-16-26-38-86966231906",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Buddhism"
+    ],
+    "ar": [
+      "البوذية"
+    ],
+    "es": [
+      "Budismo"
+    ],
+    "fr": [
+      "Bouddhisme"
+    ],
+    "it": [
+      "Buddismo"
+    ]
+  }
+}

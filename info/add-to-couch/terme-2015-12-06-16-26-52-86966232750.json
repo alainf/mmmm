@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232750",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Anarchisme-(ideologie)/Anarchisme-vert/",
+  "description": "Description de Anarchisme vert",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1123,
+  "identifiant-drupal-parent": 1112,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Anarchisme vert",
+  "nom-folder": "Anarchisme-vert",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232750"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Green anarchism"
+    ],
+    "ar": [
+      "لاسلطوية الخضراء"
+    ],
+    "es": [
+      "Anarquismo verde"
+    ],
+    "fr": [
+      "Anarchisme vert"
+    ],
+    "it": [
+      "anarchismo verde"
+    ]
+  }
+}

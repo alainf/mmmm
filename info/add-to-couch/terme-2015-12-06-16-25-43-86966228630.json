@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228630",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Management-public/Politiques-publiques/",
+  "description": "Description de Politiques publiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465847,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Politiques publiques",
+  "nom-folder": "Politiques-publiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228630"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public policies"
+    ],
+    "ar": [
+      "سياسات عامة"
+    ],
+    "es": [
+      "Políticas públicas"
+    ],
+    "fr": [
+      "Politiques publiques"
+    ],
+    "it": [
+      "politiche pubbliche"
+    ]
+  }
+}

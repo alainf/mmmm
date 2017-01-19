@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226179",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Langues/Langues-afro-asiatiques/",
+  "description": "Description de Langues afro-asiatiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272332,
+  "identifiant-drupal-parent": 270402,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Langues afro-asiatiques",
+  "nom-folder": "Langues-afro-asiatiques",
+  "nom-machine": "terme-2015-12-06-16-25-02-86966226179",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Afroasiatic Languages"
+    ],
+    "ar": [
+      "لغات افريقية آسيوية"
+    ],
+    "es": [
+      "Lenguas afroasiáticas"
+    ],
+    "fr": [
+      "Langues afro-asiatiques"
+    ],
+    "it": [
+      "Lingue afro-asiatiche"
+    ]
+  }
+}

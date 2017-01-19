@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-49-86966228951",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Reseaux-de-competences/",
+  "description": "Description de Réseaux de compétences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472317,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-49",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Réseaux de compétences",
+  "nom-folder": "Reseaux-de-competences",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-49-86966228951"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Skills networks"
+    ],
+    "ar": [
+      "شبكات من المهارات"
+    ],
+    "es": [
+      "Redes de habilidades"
+    ],
+    "fr": [
+      "Réseaux de compétences"
+    ],
+    "it": [
+      "Reti di competenze"
+    ]
+  }
+}

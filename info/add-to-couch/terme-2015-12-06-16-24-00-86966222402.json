@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-00-86966222402",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Economics/Urban-Economics/",
+  "description": "Description de Urban economics",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368954,
+  "identifiant-drupal-parent": 368932,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-24-00",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Urban economics",
+  "nom-folder": "Urban-Economics",
+  "nom-machine": "terme-2015-12-06-16-24-00-86966222402",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Urban economics"
+    ]
+  }
+}

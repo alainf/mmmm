@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-57-86966229429",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Reseaux-d'acteurs-sociaux/",
+  "description": "Description de Réseaux d'acteurs sociaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2274,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-57",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Réseaux d'acteurs sociaux",
+  "nom-folder": "Reseaux-d'acteurs-sociaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-57-86966229429"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social networks"
+    ],
+    "ar": [
+      "شبكة اجتماعية"
+    ],
+    "es": [
+      "Red social"
+    ],
+    "fr": [
+      "Réseaux d'acteurs sociaux"
+    ],
+    "it": [
+      "Rete sociale"
+    ]
+  }
+}

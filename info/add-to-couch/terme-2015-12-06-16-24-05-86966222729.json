@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-05-86966222729",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Law/International-Organizations/",
+  "description": "Description de International organizations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369064,
+  "identifiant-drupal-parent": 369048,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-05",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "International organizations",
+  "nom-folder": "International-Organizations",
+  "nom-machine": "terme-2015-12-06-16-24-05-86966222729",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "International organizations"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226664",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Archives-et-conservation/Mundaneum/",
+  "description": "Description de Mundaneum",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471966,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Mundaneum",
+  "nom-folder": "Mundaneum",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-11-86966226664"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Mundaneum"
+    ],
+    "ar": [
+      "موندانيوم"
+    ],
+    "es": [
+      "Mundaneum"
+    ],
+    "fr": [
+      "Mundaneum"
+    ],
+    "it": [
+      "Mundaneum"
+    ]
+  }
+}

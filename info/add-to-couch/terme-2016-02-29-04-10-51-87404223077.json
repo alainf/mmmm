@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-10-51-87404223077",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/avec-quoi-ecrire/utiliser-un-contenu-base-sur-son-vecu/",
+  "description": "Description de Utiliser un contenu basé sur son vécu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-10-51",
+  "moment-de-modification": "2016-02-29-04-12-38",
+  "nom": "Utiliser un contenu basé sur son vécu",
+  "nom-folder": "utiliser-un-contenu-base-sur-son-vecu",
+  "nom-machine": "terme-2016-02-29-04-10-51-87404223077",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Use content based on one's experience"
+    ],
+    "fr": [
+      "Utiliser un contenu basé sur son vécu"
+    ]
+  }
+}

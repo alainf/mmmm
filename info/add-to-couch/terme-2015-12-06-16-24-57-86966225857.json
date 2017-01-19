@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225857",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Budget-public/",
+  "description": "Description de Budget public",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271356,
+  "identifiant-drupal-parent": 271339,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Budget public",
+  "nom-folder": "Budget-public",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225857"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Government budget"
+    ],
+    "ar": [
+      "الميزانية العامة"
+    ],
+    "es": [
+      "Presupuesto público"
+    ],
+    "fr": [
+      "Budget public"
+    ],
+    "it": [
+      "bilancio pubblico"
+    ]
+  }
+}

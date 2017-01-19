@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-41-86966232068",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-des-sciences/",
+  "description": "Description de Anthropologie des sciences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469663,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-41",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie des sciences",
+  "nom-folder": "Anthropologie-des-sciences",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-41-86966232068"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anthropology of science"
+    ],
+    "ar": [
+      "الانثروبولوجيا العلوم"
+    ],
+    "es": [
+      "Antropología de las ciencias"
+    ],
+    "fr": [
+      "Anthropologie des sciences"
+    ],
+    "it": [
+      "antropologia della scienza"
+    ]
+  }
+}

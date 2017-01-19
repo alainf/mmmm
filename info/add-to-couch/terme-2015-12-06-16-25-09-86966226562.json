@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226562",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Gestion-de-l'environnement/Ecotechnologies/",
+  "description": "Description de Écotechnologies",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472377,
+  "identifiant-drupal-parent": 270871,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Écotechnologies",
+  "nom-folder": "Ecotechnologies",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226562"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecotechnologies"
+    ],
+    "ar": [
+      "التكنولوجيات البيئية"
+    ],
+    "es": [
+      "Tecnologías del Medio Ambiente"
+    ],
+    "fr": [
+      "Écotechnologies"
+    ],
+    "it": [
+      "Tecnologie verdi"
+    ]
+  }
+}

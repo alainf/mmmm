@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-23-42-86966221367",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Emplois/",
+  "description": "Description de Emplois",
+  "enfants": [
+    "terme-2015-12-06-16-23-42-86966221369",
+    "terme-2015-12-06-16-23-42-86966221372",
+    "terme-2015-12-06-16-23-42-86966221375",
+    "terme-2015-12-06-16-23-42-86966221378",
+    "terme-2015-12-06-16-23-43-86966221381",
+    "terme-2015-12-06-16-23-43-86966221384",
+    "terme-2015-12-06-16-23-43-86966221387"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1672,
+  "identifiant-drupal-parent": 270469,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-42",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Emplois",
+  "nom-folder": "Emplois",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-42-86966221367"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Jobs"
+    ],
+    "ar": [
+      "الوظائف"
+    ],
+    "es": [
+      "Empleos"
+    ],
+    "fr": [
+      "Emplois"
+    ],
+    "it": [
+      "Occupazioni"
+    ]
+  }
+}

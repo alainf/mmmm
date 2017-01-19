@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-23-30-86966220646",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Acteurs-de-l'entreprise/Salaries/",
+  "description": "Description de Salariés",
+  "enfants": [
+    "terme-2015-12-06-16-23-30-86966220649",
+    "terme-2015-12-06-16-23-30-86966220653"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270510,
+  "identifiant-drupal-parent": 270506,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-30",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Salariés",
+  "nom-folder": "Salaries",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-30-86966220646"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wage labor"
+    ],
+    "ar": [
+      "القوى العاملة"
+    ],
+    "es": [
+      "Asalariados"
+    ],
+    "fr": [
+      "Salariés"
+    ],
+    "it": [
+      "Dipendenti"
+    ],
+    "ru": [
+      "рабочие"
+    ]
+  }
+}

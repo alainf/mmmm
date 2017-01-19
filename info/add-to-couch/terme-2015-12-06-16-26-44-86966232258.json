@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232258",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Ethologie-(sociale)/Theories-en-ethologie/Behaviorisme-(ethologie)/",
+  "description": "Description de Béhaviorisme (éthologie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1054,
+  "identifiant-drupal-parent": 1052,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Béhaviorisme (éthologie)",
+  "nom-folder": "Behaviorisme-(ethologie)",
+  "nom-machine": "terme-2015-12-06-16-26-44-86966232258",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Behaviorism (ethology)"
+    ],
+    "ar": [
+      "السلوكية (إيثولوجيا)"
+    ],
+    "es": [
+      "Conductismo (etología)"
+    ],
+    "fr": [
+      "Béhaviorisme (éthologie)"
+    ],
+    "it": [
+      "Comportamentismo (etologia)"
+    ]
+  }
+}

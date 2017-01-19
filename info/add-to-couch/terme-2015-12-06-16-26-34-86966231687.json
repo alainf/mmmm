@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-34-86966231687",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Fantasmes/",
+  "description": "Description de Fantasmes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451261,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-34",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Fantasmes",
+  "nom-folder": "Fantasmes",
+  "nom-machine": "terme-2015-12-06-16-26-34-86966231687",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fantasies"
+    ],
+    "ar": [
+      "أخيال"
+    ],
+    "es": [
+      "Fantasía"
+    ],
+    "fr": [
+      "Fantasmes"
+    ],
+    "it": [
+      "Fantasmi"
+    ]
+  }
+}

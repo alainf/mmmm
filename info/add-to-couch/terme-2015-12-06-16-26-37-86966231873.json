@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-37-86966231873",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Rehabilitation/",
+  "description": "Description de Réhabilitation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270390,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-37",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Réhabilitation",
+  "nom-folder": "Rehabilitation",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-37-86966231873"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rehabilitation"
+    ],
+    "ar": [
+      "إعادة تأهيل مهني"
+    ],
+    "es": [
+      "Rehabilitación"
+    ],
+    "fr": [
+      "Réhabilitation"
+    ],
+    "it": [
+      "Riabilitazione"
+    ]
+  }
+}

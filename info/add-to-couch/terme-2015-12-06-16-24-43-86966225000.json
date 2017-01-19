@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-43-86966225000",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litterature-orale-(tradition-orale)/",
+  "description": "Description de Littérature orale (tradition orale)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466972,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-43",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littérature orale (tradition orale)",
+  "nom-folder": "Litterature-orale-(tradition-orale)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-43-86966225000"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oral tradition"
+    ],
+    "ar": [
+      "أدب شفهي (التقاليد الشفهية)"
+    ],
+    "es": [
+      "Literatura oral"
+    ],
+    "fr": [
+      "Littérature orale (tradition orale)"
+    ],
+    "it": [
+      "Letteratura orale (tradizione orale)"
+    ]
+  }
+}

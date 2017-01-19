@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174454",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Azeri/",
+  "description": "Description de Azéri",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382366,
+  "ISO-639-1": "az",
+  "ISO-639-2": "aze",
+  "ISO-639-3": "aze",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2016-02-04-03-24-58",
+  "nom": "Azéri",
+  "nom-folder": "Azeri",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174454",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Az%C3%A9ri",
+  "nomLangues": {
+    "en": [
+      "Azerbaijani"
+    ],
+    "ar": [
+      "أذرية"
+    ],
+    "es": [
+      "Azerí"
+    ],
+    "fr": [
+      "Azéri"
+    ],
+    "it": [
+      "Azero"
+    ],
+    "ru": [
+      "Азербайджанский"
+    ]
+  }
+}

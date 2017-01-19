@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-49-86966232568",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Quelques-themes-etudies-par-la-psychologie-sociale/Perceptions/",
+  "description": "Description de Perceptions",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1091,
+  "identifiant-drupal-parent": 1062,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-49",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Perceptions",
+  "nom-folder": "Perceptions",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-49-86966232568"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Perceptions"
+    ],
+    "ar": [
+      "التصورات"
+    ],
+    "es": [
+      "Percepciones"
+    ],
+    "fr": [
+      "Perceptions"
+    ],
+    "it": [
+      "percezioni"
+    ]
+  }
+}

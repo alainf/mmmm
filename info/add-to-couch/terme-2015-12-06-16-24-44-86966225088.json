@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225088",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musique/Manifestations-musicales/",
+  "description": "Description de Manifestations musicales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467000,
+  "identifiant-drupal-parent": 466993,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Manifestations musicales",
+  "nom-folder": "Manifestations-musicales",
+  "nom-machine": "terme-2015-12-06-16-24-44-86966225088",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Musical events"
+    ],
+    "ar": [
+      "المناسبات الموسيقية"
+    ],
+    "es": [
+      "Manifestaciones musicales"
+    ],
+    "fr": [
+      "Manifestations musicales"
+    ],
+    "it": [
+      "Eventi musicali"
+    ]
+  }
+}

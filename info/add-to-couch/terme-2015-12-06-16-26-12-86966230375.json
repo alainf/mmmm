@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230375",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-du-risque-pays/",
+  "description": "Description de Économie du risque pays",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451212,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie du risque pays",
+  "nom-folder": "Economie-du-risque-pays",
+  "nom-machine": "terme-2015-12-06-16-26-12-86966230375",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Country risk economics"
+    ],
+    "ar": [
+      "مخاطر البلد الاقتصاد"
+    ],
+    "es": [
+      "Economía de riesgo de país"
+    ],
+    "fr": [
+      "Économie du risque pays"
+    ],
+    "it": [
+      "Economia del rischio di paese"
+    ],
+    "ru": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-40-86966232053",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-des-materiaux/",
+  "description": "Description de Anthropologie des matériaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465735,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-40",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie des matériaux",
+  "nom-folder": "Anthropologie-des-materiaux",
+  "nom-machine": "terme-2015-12-06-16-26-40-86966232053",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anthropology of materials"
+    ],
+    "ar": [
+      "الانثروبولوجيا المواد"
+    ],
+    "es": [
+      "Antropología de los materiales"
+    ],
+    "fr": [
+      "Anthropologie des matériaux"
+    ],
+    "it": [
+      "Antropologia dei materiali"
+    ]
+  }
+}

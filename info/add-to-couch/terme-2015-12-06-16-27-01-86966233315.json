@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233315",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Methodes-de-recherche-en-sociologie/Methodes-quantitatives/Sociogramme/",
+  "description": "Description de Sociogramme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1233,
+  "identifiant-drupal-parent": 1222,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Sociogramme",
+  "nom-folder": "Sociogramme",
+  "nom-machine": "terme-2015-12-06-16-27-01-86966233315",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociogram"
+    ],
+    "ar": [
+      "سوسيوجرام"
+    ],
+    "es": [
+      "Sociograma"
+    ],
+    "fr": [
+      "Sociogramme"
+    ],
+    "it": [
+      "Sociogramma"
+    ]
+  }
+}

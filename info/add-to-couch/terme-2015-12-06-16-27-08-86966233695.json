@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233695",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Gestion-de-l'energie/",
+  "description": "Description de Gestion de l'énergie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 468543,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Gestion de l'énergie",
+  "nom-folder": "Gestion-de-l'energie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-08-86966233695"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy Management"
+    ],
+    "ar": [
+      "إدارة الطاقة"
+    ],
+    "es": [
+      "Gestión de la energía"
+    ],
+    "fr": [
+      "Gestion de l'énergie"
+    ],
+    "it": [
+      "Gestione dell'energia"
+    ]
+  }
+}

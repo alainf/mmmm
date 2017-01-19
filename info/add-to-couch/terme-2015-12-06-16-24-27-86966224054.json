@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224054",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Culture-de-legumes-et-de-melons/",
+  "description": "Description de Culture de légumes et de melons",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451052,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Culture de légumes et de melons",
+  "nom-folder": "Culture-de-legumes-et-de-melons",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224054",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Vegetable and melon farming"
+    ],
+    "ar": [
+      "زراعة الخضروات و البطيخ"
+    ],
+    "es": [
+      "Cultivo de verduras y melones"
+    ],
+    "fr": [
+      "Culture de légumes et de melons"
+    ],
+    "it": [
+      "Coltivazione di ortaggi e meloni"
+    ]
+  }
+}

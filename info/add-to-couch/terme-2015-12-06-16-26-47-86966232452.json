@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232452",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Redaction-de-these/These_-supervision/",
+  "description": "Description de Thèse: supervision",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472064,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Thèse: supervision",
+  "nom-folder": "These_-supervision",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232452"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Thesis: supervision"
+    ],
+    "ar": [
+      "الإشراف على الرسائل العلمية"
+    ],
+    "es": [
+      "Supervisión de tesis"
+    ],
+    "fr": [
+      "Thèse: supervision"
+    ],
+    "it": [
+      "Tesi: supervisione"
+    ]
+  }
+}

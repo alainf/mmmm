@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174672",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Nahuatl/",
+  "description": "Description de Nahuatl",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317631,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Nahuatl",
+  "nom-folder": "Nahuatl",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174672",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Nahuatl"
+    ],
+    "ar": [
+      "ناواتل"
+    ],
+    "es": [
+      "Náhuatl"
+    ],
+    "fr": [
+      "Nahuatl"
+    ],
+    "it": [
+      "Nahuatl"
+    ],
+    "ru": [
+      "Астекские"
+    ]
+  }
+}

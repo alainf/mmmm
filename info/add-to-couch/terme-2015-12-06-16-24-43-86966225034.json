@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-24-43-86966225034",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musees/",
+  "description": "Description de Musées",
+  "enfants": [
+    "terme-2015-12-06-16-24-43-86966225037",
+    "terme-2015-12-06-16-24-44-86966225040",
+    "terme-2015-12-06-16-24-44-86966225043",
+    "terme-2015-12-06-16-24-44-86966225046",
+    "terme-2015-12-06-16-24-44-86966225048",
+    "terme-2015-12-06-16-24-44-86966225052",
+    "terme-2015-12-06-16-24-44-86966225054",
+    "terme-2015-12-06-16-24-44-86966225057",
+    "terme-2015-12-06-16-24-44-86966225059",
+    "terme-2015-12-06-16-24-44-86966225065"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466982,
+  "identifiant-drupal-parent": 466753,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-43",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Musées",
+  "nom-folder": "Musees",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-43-86966225034"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Museums"
+    ],
+    "ar": [
+      "متاحف"
+    ],
+    "es": [
+      "Museos"
+    ],
+    "fr": [
+      "Musées"
+    ],
+    "it": [
+      "Musei"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232629",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Acteurs-politiques/Politiciens/",
+  "description": "Description de Politiciens",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1111,
+  "identifiant-drupal-parent": 1101,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Politiciens",
+  "nom-folder": "Politiciens",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232629"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Politicians"
+    ],
+    "ar": [
+      "السياسيين"
+    ],
+    "es": [
+      "Políticos"
+    ],
+    "fr": [
+      "Politiciens"
+    ],
+    "it": [
+      "politici"
+    ]
+  }
+}

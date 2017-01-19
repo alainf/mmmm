@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-09-86966222967",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Medicine/Congenital-Medicine/",
+  "description": "Description de Congenital medicine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369147,
+  "identifiant-drupal-parent": 369132,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-09",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Congenital medicine",
+  "nom-folder": "Congenital-Medicine",
+  "nom-machine": "terme-2015-12-06-16-24-09-86966222967",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Congenital medicine"
+    ]
+  }
+}

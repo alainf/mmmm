@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-28-86966224106",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Technologies-botaniques/",
+  "description": "Description de Technologies botaniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 252584,
+  "identifiant-drupal-parent": 936,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-28",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Technologies botaniques",
+  "nom-folder": "Technologies-botaniques",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-28-86966224106"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Botanic technology"
+    ],
+    "ar": [
+      "تقنيات النباتية"
+    ],
+    "es": [
+      "Tecnologías botánicas"
+    ],
+    "fr": [
+      "Technologies botaniques"
+    ],
+    "it": [
+      "tecnologie botaniche"
+    ]
+  }
+}

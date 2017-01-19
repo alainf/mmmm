@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-43-86966221413",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Le-pouls-de-ce-reseau/Contributions-scientifiques-des-membres/",
+  "description": "Description de Contributions scientifiques des membres",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1748,
+  "identifiant-drupal-parent": 1676,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-43",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Contributions scientifiques des membres",
+  "nom-folder": "Contributions-scientifiques-des-membres",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-43-86966221413"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Scientific contributions by members"
+    ],
+    "ar": [
+      "إسهامات علمية من قبل الأعضاء"
+    ],
+    "es": [
+      "Contribusiones científicas de los miembros"
+    ],
+    "fr": [
+      "Contributions scientifiques des membres"
+    ],
+    "it": [
+      "Contributi scientifici dei membri"
+    ]
+  }
+}

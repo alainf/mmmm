@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2016-07-07-14-59-40-88075078853",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-revuesOrg/Sociologie-et-anthropologie/",
+  "description": "Description de Sociologie et anthropologie",
+  "enfants": [
+    "terme-2016-07-07-15-00-14-88075080893",
+    "terme-2016-07-07-15-00-53-88075083205",
+    "terme-2016-07-07-15-01-23-88075085009",
+    "terme-2016-07-07-15-01-56-88075086971"
+  ],
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-07-07-14-59-40",
+  "moment-de-creation": "2016-07-07-14-59-40",
+  "moment-de-modification": "2016-07-07-15-00-05",
+  "nom": "Sociologie et anthropologie",
+  "nom-folder": "Sociologie-et-anthropologie",
+  "nom-machine": "terme-2016-07-07-14-59-40-88075078853",
+  "sous-type": "sujets-revuesOrg",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology and anthropology"
+    ],
+    "fr": [
+      "Sociologie et anthropologie"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2015-12-06-16-23-49-86966221789",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Ciencias-sociales/",
+  "description": "Description de Ciencias sociales",
+  "enfants": [
+    "terme-2015-12-06-16-23-49-86966221793",
+    "terme-2015-12-06-16-23-49-86966221795",
+    "terme-2015-12-06-16-23-49-86966221798",
+    "terme-2015-12-06-16-23-50-86966221802",
+    "terme-2015-12-06-16-23-50-86966221804"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380843,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-49",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Ciencias sociales",
+  "nom-folder": "Ciencias-sociales",
+  "nom-machine": "terme-2015-12-06-16-23-49-86966221789",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Ciencias sociales"
+    ]
+  }
+}

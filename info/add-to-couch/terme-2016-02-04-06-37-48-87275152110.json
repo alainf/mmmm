@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-37-48-87275152110",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tigrigna/",
+  "description": "Description de Tigrigna",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ti",
+  "ISO-639-2": "tir",
+  "ISO-639-3": "tir",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-37-48",
+  "moment-de-modification": "2016-02-04-06-40-00",
+  "nom": "Tigrigna",
+  "nom-folder": "Tigrigna",
+  "nom-machine": "terme-2016-02-04-06-37-48-87275152110",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tigrigna",
+  "nomLangues": {
+    "en": [
+      "Tigrinya"
+    ],
+    "ar": [
+      "تغرينية"
+    ],
+    "es": [
+      "Tigriña"
+    ],
+    "fr": [
+      "Tigrigna"
+    ],
+    "it": [
+      "Tigrino"
+    ],
+    "ru": [
+      "Тигринья"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232290",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Genealogie/Lignee-agnatique/",
+  "description": "Description de Lignée agnatique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271414,
+  "identifiant-drupal-parent": 271411,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Lignée agnatique",
+  "nom-folder": "Lignee-agnatique",
+  "nom-machine": "terme-2015-12-06-16-26-44-86966232290",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agnatic lineage"
+    ],
+    "ar": [
+      "القرابة من جهة الذكر"
+    ],
+    "es": [
+      "Parentesco agnático"
+    ],
+    "fr": [
+      "Lignée agnatique"
+    ],
+    "it": [
+      "Lignaggio agnatico"
+    ]
+  }
+}

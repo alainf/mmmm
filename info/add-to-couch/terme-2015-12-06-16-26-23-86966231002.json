@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966231002",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Australasie/",
+  "description": "Description de Australasie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472178,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Australasie",
+  "nom-folder": "Australasie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-23-86966231002"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Australasia"
+    ],
+    "ar": [
+      "أسترالاسيا"
+    ],
+    "es": [
+      "Australasia"
+    ],
+    "fr": [
+      "Australasie"
+    ],
+    "it": [
+      "Australasia"
+    ]
+  }
+}

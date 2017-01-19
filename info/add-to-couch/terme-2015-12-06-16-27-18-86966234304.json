@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234304",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/institut/",
+  "description": "Description de Institut",
+  "enfants": [
+    "terme-2015-12-06-16-27-18-86966234307"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368136,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Institut",
+  "nom-folder": "institut",
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234304",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intstitute"
+    ],
+    "es": [
+      "Instituto"
+    ],
+    "fr": [
+      "Institut"
+    ],
+    "it": [
+      "Istituto"
+    ]
+  }
+}

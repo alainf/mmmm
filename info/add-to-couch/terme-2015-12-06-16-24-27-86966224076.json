@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224076",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Horticulture/Floriculture/",
+  "description": "Description de Floriculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 252579,
+  "identifiant-drupal-parent": 252576,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Floriculture",
+  "nom-folder": "Floriculture",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224076",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Floriculture"
+    ],
+    "ar": [
+      "زراعة الزهور"
+    ],
+    "es": [
+      "Floricultura"
+    ],
+    "fr": [
+      "Floriculture"
+    ],
+    "it": [
+      "Floricoltura"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174408",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/think-tank/",
+  "description": "think tank",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Laboratoire d'idées",
+  "nom-folder": "think-tank",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174408",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Think tank"
+    ],
+    "ar": [
+      "خلية تفكير"
+    ],
+    "es": [
+      "Tanque de pensamiento"
+    ],
+    "fr": [
+      "Laboratoire d'idées"
+    ],
+    "it": [
+      "Serbatoio di pensiero"
+    ],
+    "ru": [
+      "Аналитический центр"
+    ]
+  }
+}

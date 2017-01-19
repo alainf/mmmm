@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-22-86966223771",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Acericulture/",
+  "description": "Description de Acériculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272435,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-22",
+  "moment-de-modification": "2016-03-15-03-20-21",
+  "nom": "Acériculture",
+  "nom-folder": "Acericulture",
+  "nom-machine": "terme-2015-12-06-16-24-22-86966223771",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Maple tree farming"
+    ],
+    "ar": [
+      "زراعة القيقب"
+    ],
+    "es": [
+      "Cultivo del arce"
+    ],
+    "fr": [
+      "Acériculture"
+    ],
+    "it": [
+      "Coltura di acero"
+    ]
+  }
+}

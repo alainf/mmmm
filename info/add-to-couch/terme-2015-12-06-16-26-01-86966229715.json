@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229715",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Aspects-sociaux-de-la-publicite/",
+  "description": "Description de Aspects sociaux de la publicité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2088,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Aspects sociaux de la publicité",
+  "nom-folder": "Aspects-sociaux-de-la-publicite",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229715"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social aspects of advertising"
+    ],
+    "ar": [
+      "جوانب الاجتماعية للإشهار"
+    ],
+    "es": [
+      "Aspectos sociales de la publicidad"
+    ],
+    "fr": [
+      "Aspects sociaux de la publicité"
+    ],
+    "it": [
+      "Aspetti sociali della pubblicità"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-10-86966223056",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Medicine/Obesity/",
+  "description": "Description de Obesity",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369178,
+  "identifiant-drupal-parent": 369132,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-10",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Obesity",
+  "nom-folder": "Obesity",
+  "nom-machine": "terme-2015-12-06-16-24-10-86966223056",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Obesity"
+    ]
+  }
+}

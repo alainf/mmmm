@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-45-86966174754",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Quiche/",
+  "description": "Quiché",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317649,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-45",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "K'iche'",
+  "nom-folder": "Quiche",
+  "nom-machine": "terme-2015-12-06-16-10-45-86966174754",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "K'iche'"
+    ],
+    "es": [
+      "Quiché"
+    ],
+    "fr": [
+      "K'iche'"
+    ],
+    "it": [
+      "Quiché"
+    ],
+    "ru": [
+      "Киче"
+    ]
+  }
+}

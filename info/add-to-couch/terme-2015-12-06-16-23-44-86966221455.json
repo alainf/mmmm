@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221455",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Recherches/Recherche-documentaire/",
+  "description": "Description de Recherche documentaire",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1766,
+  "identifiant-drupal-parent": 1678,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Recherche documentaire",
+  "nom-folder": "Recherche-documentaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221455"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Documentary research"
+    ],
+    "ar": [
+      "الوثائق و بحوث"
+    ],
+    "es": [
+      "Investigación documental"
+    ],
+    "fr": [
+      "Recherche documentaire"
+    ],
+    "it": [
+      "Ricerca documentale"
+    ],
+    "ru": [
+      "При извлечении информации"
+    ]
+  }
+}

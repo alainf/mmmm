@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223934",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Conchyliculture/Ostreiculture/Captage/",
+  "description": "Description de Captage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269053,
+  "identifiant-drupal-parent": 269052,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Captage",
+  "nom-folder": "Captage",
+  "nom-machine": "terme-2015-12-06-16-24-25-86966223934",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Capture"
+    ],
+    "ar": [
+      "جمع"
+    ],
+    "es": [
+      "Captura (de agua)"
+    ],
+    "fr": [
+      "Captage"
+    ],
+    "it": [
+      "Cattura (ostriche nascenti)"
+    ]
+  }
+}

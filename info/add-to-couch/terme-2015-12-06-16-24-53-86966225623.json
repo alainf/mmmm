@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-24-53-86966225623",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Problematiques-(droits)/",
+  "description": "Description de Droit (problématiques)",
+  "enfants": [
+    "terme-2015-12-06-16-24-53-86966225626",
+    "terme-2015-12-06-16-24-53-86966225628",
+    "terme-2015-12-06-16-24-53-86966225634",
+    "terme-2015-12-06-16-24-53-86966225637"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1253,
+  "identifiant-drupal-parent": 1193,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-53",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Droit (problématiques)",
+  "nom-folder": "Problematiques-(droits)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-53-86966225623"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Law (themes)"
+    ],
+    "ar": [
+      "القانون (إشكاليات)"
+    ],
+    "es": [
+      "Derecho (problemáticas)"
+    ],
+    "fr": [
+      "Droit (problématiques)"
+    ],
+    "it": [
+      "Diritto (problematiche)"
+    ],
+    "ru": [
+      "Ø§ÙÙØ§ÙÙÙ (Ø§ÙÙØ¶Ø§ÙØ§)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224365",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Architecture/Accessibilite-et-conception-universelle/",
+  "description": "Description de Accessibilité et conception universelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466818,
+  "identifiant-drupal-parent": 466817,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Accessibilité et conception universelle",
+  "nom-folder": "Accessibilite-et-conception-universelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-32-86966224365"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Universal design and Accessibility"
+    ],
+    "ar": [
+      "المقبولية و التصميم الكوني"
+    ],
+    "es": [
+      "Diseño universal y Accesibilidad"
+    ],
+    "fr": [
+      "Accessibilité et conception universelle"
+    ],
+    "it": [
+      "Progettazione universale e accessibilità"
+    ]
+  }
+}

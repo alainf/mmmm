@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-04-86966222670",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Humanities/Theology/",
+  "description": "Description de Theology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369047,
+  "identifiant-drupal-parent": 369029,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-04",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Theology",
+  "nom-folder": "Theology",
+  "nom-machine": "terme-2015-12-06-16-24-04-86966222670",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Theology"
+    ]
+  }
+}

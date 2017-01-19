@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-40-86966232016",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-culturelle/Analyse-culturelle/",
+  "description": "Description de Analyse culturelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472242,
+  "identifiant-drupal-parent": 1010,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-40",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Analyse culturelle",
+  "nom-folder": "Analyse-culturelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-40-86966232016"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural analysis"
+    ],
+    "ar": [
+      "التحليل الثقافى"
+    ],
+    "es": [
+      "Análisis cultural"
+    ],
+    "fr": [
+      "Analyse culturelle"
+    ],
+    "it": [
+      "analisi culturale"
+    ]
+  }
+}

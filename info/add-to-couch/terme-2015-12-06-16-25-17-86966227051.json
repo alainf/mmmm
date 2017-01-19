@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227051",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Theories-de-la-communication/Enjeux-de-la-communication/",
+  "description": "Description de Enjeux de la communication",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472024,
+  "identifiant-drupal-parent": 272182,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Enjeux de la communication",
+  "nom-folder": "Enjeux-de-la-communication",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227051"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication issues"
+    ],
+    "ar": [
+      "قضايا الاتصالات"
+    ],
+    "es": [
+      "Problemas de comunicación"
+    ],
+    "fr": [
+      "Enjeux de la communication"
+    ],
+    "it": [
+      "Problemi della comunicazione"
+    ]
+  }
+}

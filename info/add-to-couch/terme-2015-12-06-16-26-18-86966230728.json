@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-26-18-86966230728",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astrophysique-(l'univers)/",
+  "description": "Description de Astrophysique (l'univers)",
+  "enfants": [
+    "terme-2015-12-06-16-26-18-86966230731",
+    "terme-2015-12-06-16-26-18-86966230735",
+    "terme-2015-12-06-16-26-18-86966230738",
+    "terme-2015-12-06-16-26-19-86966230741",
+    "terme-2015-12-06-16-26-19-86966230743",
+    "terme-2015-12-06-16-26-19-86966230746",
+    "terme-2015-12-06-16-26-19-86966230749"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270777,
+  "identifiant-drupal-parent": 270764,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-18",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Astrophysique (l'univers)",
+  "nom-folder": "Astrophysique-(l'univers)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-18-86966230728"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Astrophysics (Universe)"
+    ],
+    "ar": [
+      "الفيزياء الفلكية (الكون)"
+    ],
+    "es": [
+      "Astrofísica (Universo)"
+    ],
+    "fr": [
+      "Astrophysique (l'univers)"
+    ],
+    "it": [
+      "Astrofisica (l'universo)"
+    ]
+  }
+}

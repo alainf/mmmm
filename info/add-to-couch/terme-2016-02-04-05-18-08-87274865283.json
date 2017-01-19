@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-18-08-87274865283",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Lingala/",
+  "description": "Description de Lingala",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ln",
+  "ISO-639-2": "lin",
+  "ISO-639-3": "lin",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-18-08",
+  "moment-de-modification": "2016-02-04-05-18-40",
+  "nom": "Lingala",
+  "nom-folder": "Lingala",
+  "nom-machine": "terme-2016-02-04-05-18-08-87274865283",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Lingala",
+  "nomLangues": {
+    "en": [
+      "Lingala"
+    ],
+    "ar": [
+      "لينغالا"
+    ],
+    "es": [
+      "Lingala"
+    ],
+    "fr": [
+      "Lingala"
+    ],
+    "it": [
+      "Lingala"
+    ],
+    "ru": [
+      "Лингала"
+    ]
+  }
+}

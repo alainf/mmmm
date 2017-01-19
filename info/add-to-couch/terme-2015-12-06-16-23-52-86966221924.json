@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-52-86966221924",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Arts-and-literature/Art-History/",
+  "description": "Description de Art history",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368790,
+  "identifiant-drupal-parent": 368788,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-52",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Art history",
+  "nom-folder": "Art-History",
+  "nom-machine": "terme-2015-12-06-16-23-52-86966221924",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Art history"
+    ]
+  }
+}

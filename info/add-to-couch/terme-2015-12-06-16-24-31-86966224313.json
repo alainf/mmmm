@@ -1,0 +1,55 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224313",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/",
+  "description": "Description de Soins vétérinaires",
+  "enfants": [
+    "terme-2015-12-06-16-24-31-86966224317",
+    "terme-2015-12-06-16-24-31-86966224319",
+    "terme-2015-12-06-16-24-32-86966224322",
+    "terme-2015-12-06-16-24-32-86966224325",
+    "terme-2015-12-06-16-24-32-86966224327",
+    "terme-2015-12-06-16-24-32-86966224331",
+    "terme-2015-12-06-16-24-32-86966224333",
+    "terme-2015-12-06-16-24-32-86966224337",
+    "terme-2015-12-06-16-24-32-86966224340",
+    "terme-2015-12-06-16-24-32-86966224342",
+    "terme-2015-12-06-16-24-32-86966224345",
+    "terme-2015-12-06-16-24-32-86966224348",
+    "terme-2015-12-06-16-24-32-86966224350",
+    "terme-2015-12-06-16-24-32-86966224354",
+    "terme-2015-12-06-16-24-32-86966224357",
+    "terme-2015-12-06-16-24-32-86966224360"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269028,
+  "identifiant-drupal-parent": 940,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Soins vétérinaires",
+  "nom-folder": "Soins-veterinaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-31-86966224313"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Veterinary care"
+    ],
+    "ar": [
+      "الرعاية البيطرية"
+    ],
+    "es": [
+      "Atención veterinaria"
+    ],
+    "fr": [
+      "Soins vétérinaires"
+    ],
+    "it": [
+      "Cure veterinarie"
+    ]
+  }
+}

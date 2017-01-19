@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226086",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-collective/",
+  "description": "Description de Intelligence collective",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472006,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Intelligence collective",
+  "nom-folder": "Intelligence-collective",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-01-86966226086"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Collective intelligence"
+    ],
+    "ar": [
+      "ذكاء جماعي"
+    ],
+    "es": [
+      "Inteligencia colectiva"
+    ],
+    "fr": [
+      "Intelligence collective"
+    ],
+    "it": [
+      "Intelligenza collettiva"
+    ]
+  }
+}

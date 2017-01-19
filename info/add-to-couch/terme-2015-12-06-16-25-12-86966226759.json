@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226759",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communications-culturelles/",
+  "description": "Description de Communications culturelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272186,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Communications culturelles",
+  "nom-folder": "Communications-culturelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226759"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural communication"
+    ],
+    "ar": [
+      "الاتصالات الثقافية"
+    ],
+    "es": [
+      "Comunicación cultural"
+    ],
+    "fr": [
+      "Communications culturelles"
+    ],
+    "it": [
+      "Comunicazione culturale"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225942",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Fonds-equilibres---fonds-de-reparition-d'actifs/",
+  "description": "Fonds équilibrés / fonds de répartition d'actifs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451158,
+  "identifiant-drupal-parent": 451151,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Fonds équilibrés / fonds de répartition d’actifs",
+  "nom-folder": "Fonds-equilibres---fonds-de-reparition-d'actifs",
+  "nom-machine": "terme-2015-12-06-16-24-59-86966225942",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Balanced funds/ asset allocation funds"
+    ],
+    "ar": [
+      "صناديق المتوازنة / صناديق توزيع الأسهم"
+    ],
+    "es": [
+      "Fondos equilibrados / fondos de repartición de activos"
+    ],
+    "fr": [
+      "Fonds équilibrés / fonds de répartition d’actifs"
+    ],
+    "it": [
+      "Fondo bilanciato / fondo di allocazione degli investimenti"
+    ]
+  }
+}

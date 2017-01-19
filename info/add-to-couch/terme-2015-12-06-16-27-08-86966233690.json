@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233690",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Energie-solaire/",
+  "description": "Description de Énergie solaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467105,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Énergie solaire",
+  "nom-folder": "Energie-solaire",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-08-86966233690"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Solar energy"
+    ],
+    "ar": [
+      "طاقة شمسية"
+    ],
+    "es": [
+      "Energía solar"
+    ],
+    "fr": [
+      "Énergie solaire"
+    ],
+    "it": [
+      "Energia solare"
+    ]
+  }
+}

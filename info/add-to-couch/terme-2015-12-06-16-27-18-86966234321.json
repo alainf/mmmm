@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-18-86966234321",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/ordre-professionnel/",
+  "description": "Description de Ordre professionnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369397,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-18",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Ordre professionnel",
+  "nom-folder": "ordre-professionnel",
+  "nom-machine": "terme-2015-12-06-16-27-18-86966234321",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Professional body"
+    ],
+    "es": [
+      "Orden profesional"
+    ],
+    "fr": [
+      "Ordre professionnel"
+    ],
+    "it": [
+      "Ordine professionale"
+    ]
+  }
+}

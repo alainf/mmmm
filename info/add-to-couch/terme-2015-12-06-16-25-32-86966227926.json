@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227926",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Bureaux-de-projets-et-performance-org/",
+  "description": "Description de Bureaux de projets et performance organisationnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1946,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Bureaux de projets et performance organisationnelle",
+  "nom-folder": "Bureaux-de-projets-et-performance-org",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-32-86966227926"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Project bureaus and organizational performance"
+    ],
+    "ar": [
+      "مكاتب المشاريع والأداء التنظيمي"
+    ],
+    "es": [
+      "Oficinas de proyectos y rendimiento organizacional"
+    ],
+    "fr": [
+      "Bureaux de projets et performance organisationnelle"
+    ],
+    "it": [
+      "Uffici progetti e prestazioni organizzative"
+    ]
+  }
+}

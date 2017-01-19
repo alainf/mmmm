@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232479",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Psychologie-sociale-(sciences-sociales)/Fondements-de-la-psychologie-sociale/",
+  "description": "Description de Fondements de la psychologie sociale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1060,
+  "identifiant-drupal-parent": 1002,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Fondements de la psychologie sociale",
+  "nom-folder": "Fondements-de-la-psychologie-sociale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232479"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Foundations of Social Psychology"
+    ],
+    "ar": [
+      "أسس علم النفس الإجتماعي"
+    ],
+    "es": [
+      "Fundamentos de la psicología social"
+    ],
+    "fr": [
+      "Fondements de la psychologie sociale"
+    ],
+    "it": [
+      "Fondamenti della psicologia sociale"
+    ]
+  }
+}

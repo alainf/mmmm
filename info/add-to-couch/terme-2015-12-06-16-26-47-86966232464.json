@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-47-86966232464",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Polemologie/Complexe-militaro-industriel/",
+  "description": "Description de Complexe militaro-industriel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472298,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-47",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Complexe militaro-industriel",
+  "nom-folder": "Complexe-militaro-industriel",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-47-86966232464"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Military-industrial complex"
+    ],
+    "ar": [
+      "مجمع الصناعية-العسكرية"
+    ],
+    "es": [
+      "Complejo industrial-militar"
+    ],
+    "fr": [
+      "Complexe militaro-industriel"
+    ],
+    "it": [
+      "complesso militare-industriale"
+    ]
+  }
+}

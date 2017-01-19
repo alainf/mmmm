@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-27-21-86966234485",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/site-web/page-web/",
+  "description": "Description de Page web",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317563,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-21",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Page web",
+  "nom-folder": "page-web",
+  "nom-machine": "terme-2015-12-06-16-27-21-86966234485",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Web page"
+    ],
+    "ar": [
+      "صفحة على الإنترنت"
+    ],
+    "es": [
+      "Página web"
+    ],
+    "fr": [
+      "Page web"
+    ],
+    "it": [
+      "Pagina web"
+    ]
+  }
+}

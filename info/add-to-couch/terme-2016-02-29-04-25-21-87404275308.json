@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-25-21-87404275308",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/ecrire-a-qui/ecrire-pour-conquerir-un-public/",
+  "description": "Description de Écrire pour conquérir un public",
+  "enfants": [
+    "terme-2016-02-29-04-32-35-87404301338"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-25-21",
+  "moment-de-modification": "2016-02-29-04-26-03",
+  "nom": "Écrire pour conquérir un public",
+  "nom-folder": "ecrire-pour-conquerir-un-public",
+  "nom-machine": "terme-2016-02-29-04-25-21-87404275308",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Write to capture an audience"
+    ],
+    "fr": [
+      "Écrire pour conquérir un public"
+    ]
+  }
+}

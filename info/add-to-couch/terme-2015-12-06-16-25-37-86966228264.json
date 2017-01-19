@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228264",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-du-changement-(gestion)/Gestion-du-changement-en-economie-d'entreprise/",
+  "description": "Gestion du changement en économie d'entreprise",
+  "enfants": [
+    "terme-2015-12-06-16-25-37-86966228268"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2009,
+  "identifiant-drupal-parent": 2008,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion du changement en affaires",
+  "nom-folder": "Gestion-du-changement-en-economie-d'entreprise",
+  "nom-machine": "terme-2015-12-06-16-25-37-86966228264",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business change management"
+    ],
+    "ar": [
+      "إدارة التغيير في الأعمال"
+    ],
+    "es": [
+      "Gestión del cambio empresarial"
+    ],
+    "fr": [
+      "Gestion du changement en affaires"
+    ],
+    "it": [
+      "Gestione del cambiamento negli affari"
+    ]
+  }
+}

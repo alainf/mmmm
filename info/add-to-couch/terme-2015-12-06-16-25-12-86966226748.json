@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-12-86966226748",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-marketing/Business-to-business-(Internet)/",
+  "description": "Description de Business to business (Internet)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472082,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-12",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Business to business (Internet)",
+  "nom-folder": "Business-to-business-(Internet)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-12-86966226748"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "B to B"
+    ],
+    "ar": [
+      "أعمال لأعمال – الشبكة العنكبوتية"
+    ],
+    "es": [
+      "Business-to-business"
+    ],
+    "fr": [
+      "Business to business (Internet)"
+    ],
+    "it": [
+      "B2B (commercio tra aziende)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228282",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-du-temps-(gestion)/",
+  "description": "Description de Gestion du temps (gestion)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2182,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion du temps (gestion)",
+  "nom-folder": "Gestion-du-temps-(gestion)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-38-86966228282"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Time Management"
+    ],
+    "ar": [
+      "إدارة الوقت (إدارة)"
+    ],
+    "es": [
+      "Gestión del tiempo (Gestión)"
+    ],
+    "fr": [
+      "Gestion du temps (gestion)"
+    ],
+    "it": [
+      "gestione del tempo (gestione)"
+    ]
+  }
+}

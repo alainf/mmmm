@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224735",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Techniques-cinematographiques/Travail-de-laboratoire/",
+  "description": "Description de Travail de laboratoire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466894,
+  "identifiant-drupal-parent": 466889,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Travail de laboratoire",
+  "nom-folder": "Travail-de-laboratoire",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224735"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Laboratory work"
+    ],
+    "ar": [
+      "العمل المخبري"
+    ],
+    "es": [
+      "Trabajo en laboratorio"
+    ],
+    "fr": [
+      "Travail de laboratoire"
+    ],
+    "it": [
+      "Lavoro di laboratorio"
+    ]
+  }
+}

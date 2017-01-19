@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-35-86966228125",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-entreprises-familiales/",
+  "description": "Description de Gestion des entreprises familiales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451216,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-35",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion des entreprises familiales",
+  "nom-folder": "Gestion-des-entreprises-familiales",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-35-86966228125"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Family Business Management"
+    ],
+    "ar": [
+      "إدارة الشركات العائلية"
+    ],
+    "es": [
+      "Gestión de empresas familiares"
+    ],
+    "fr": [
+      "Gestion des entreprises familiales"
+    ],
+    "it": [
+      "Gestione delle imprese familiari"
+    ]
+  }
+}

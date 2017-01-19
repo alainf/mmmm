@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-10-86966233808",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Villes-et-villages/",
+  "description": "Description de Villes et villages",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472095,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-10",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Villes et villages",
+  "nom-folder": "Villes-et-villages",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-10-86966233808"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Towns and villages"
+    ],
+    "ar": [
+      "المدن والقرى"
+    ],
+    "es": [
+      "Ciudades y pueblos"
+    ],
+    "fr": [
+      "Villes et villages"
+    ],
+    "it": [
+      "Città e villaggi"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-33-86966227998",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Gestion-de-projets-d'innovation-technologique/",
+  "description": "Description de Gestion de projets d'innovation technologique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1962,
+  "identifiant-drupal-parent": 1943,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-33",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Gestion de projets d'innovation technologique",
+  "nom-folder": "Gestion-de-projets-d'innovation-technologique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-33-86966227998"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Technical innovation project management"
+    ],
+    "ar": [
+      "إدارة مشاريع الابتكار التكنولوجي"
+    ],
+    "es": [
+      "Gestión de proyectos de innovación tecnológica"
+    ],
+    "fr": [
+      "Gestion de projets d'innovation technologique"
+    ],
+    "it": [
+      "Gestione di progetti d’innovazione tecnologica"
+    ]
+  }
+}

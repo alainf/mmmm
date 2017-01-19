@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221023",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Mobilisation-sociale/Droits-des-immigres/",
+  "description": "Description de Droits des immigrés",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1696,
+  "identifiant-drupal-parent": 1667,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Droits des immigrés",
+  "nom-folder": "Droits-des-immigres",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221023"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Immigrants rights"
+    ],
+    "ar": [
+      "حقوق المهاجرين"
+    ],
+    "es": [
+      "Derechos de los inmigrantes"
+    ],
+    "fr": [
+      "Droits des immigrés"
+    ],
+    "it": [
+      "Diritti degli immigrati"
+    ]
+  }
+}

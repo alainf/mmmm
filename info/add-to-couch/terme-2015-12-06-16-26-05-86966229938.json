@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-05-86966229938",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-industrielle/",
+  "description": "Description de Ingénierie industrielle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270889,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-05",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Ingénierie industrielle",
+  "nom-folder": "Ingenierie-industrielle",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-05-86966229938"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial Engineering"
+    ],
+    "ar": [
+      "هندسة الصناعية"
+    ],
+    "es": [
+      "Ingeniería industrial"
+    ],
+    "fr": [
+      "Ingénierie industrielle"
+    ],
+    "it": [
+      "Ingegneria industriale"
+    ]
+  }
+}

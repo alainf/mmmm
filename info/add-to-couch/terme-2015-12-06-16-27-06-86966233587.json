@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233587",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Sociologie-de-la-religion/",
+  "description": "Description de Sociologie de la religion",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467166,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Sociologie de la religion",
+  "nom-folder": "Sociologie-de-la-religion",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-06-86966233587"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of religion"
+    ],
+    "ar": [
+      "علم اجتماع الدين"
+    ],
+    "es": [
+      "Sociología de la religión"
+    ],
+    "fr": [
+      "Sociologie de la religion"
+    ],
+    "it": [
+      "sociologia della religione"
+    ]
+  }
+}

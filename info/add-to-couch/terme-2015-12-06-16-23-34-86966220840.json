@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220840",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Culture-d'entreprise/",
+  "description": "Description de Culture d'entreprise",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270600,
+  "identifiant-drupal-parent": 270482,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Culture d'entreprise",
+  "nom-folder": "Culture-d'entreprise",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220840"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational culture"
+    ],
+    "ar": [
+      "الثقافة التنظيمية"
+    ],
+    "es": [
+      "Cultura organizacional"
+    ],
+    "fr": [
+      "Culture d'entreprise"
+    ],
+    "it": [
+      "Cultura aziendale"
+    ],
+    "ru": [
+      "Корпоративная культура"
+    ]
+  }
+}

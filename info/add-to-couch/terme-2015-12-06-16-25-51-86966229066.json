@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229066",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-analytique/Methodes-de-comptabilite-analytique/Methode-des-couts-standards/",
+  "description": "Description de Méthode des coûts standards",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270986,
+  "identifiant-drupal-parent": 270982,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Méthode des coûts standards",
+  "nom-folder": "Methode-des-couts-standards",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229066",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Standard costs method"
+    ],
+    "ar": [
+      "طريقة التكاليف القياسية"
+    ],
+    "es": [
+      "Método de costos estándar"
+    ],
+    "fr": [
+      "Méthode des coûts standards"
+    ],
+    "it": [
+      "Metodo dei costi standard"
+    ]
+  }
+}

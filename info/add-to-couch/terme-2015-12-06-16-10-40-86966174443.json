@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174443",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Armenien/",
+  "description": "Description de Arménien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380942,
+  "ISO-639-1": "hy",
+  "ISO-639-2": "arm/hye",
+  "ISO-639-3": "hye",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2016-02-04-04-36-17",
+  "nom": "Arménien",
+  "nom-folder": "Armenien",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174443",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Arm%C3%A9nien",
+  "nomLangues": {
+    "en": [
+      "Armenian"
+    ],
+    "ar": [
+      "أرمنية"
+    ],
+    "es": [
+      "Armenio"
+    ],
+    "fr": [
+      "Arménien"
+    ],
+    "it": [
+      "Armeno"
+    ],
+    "ru": [
+      "Армянский"
+    ]
+  }
+}

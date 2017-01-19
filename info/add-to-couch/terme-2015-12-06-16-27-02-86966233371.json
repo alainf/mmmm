@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-02-86966233371",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Perspectives-methodologiques-en-sociologie/Sociologie-des-organisations-(perspectives)/",
+  "description": "Description de Sociologie des organisations (perspectives)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1248,
+  "identifiant-drupal-parent": 1191,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-02",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Sociologie des organisations (perspectives)",
+  "nom-folder": "Sociologie-des-organisations-(perspectives)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-02-86966233371"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational sociology (perspectives)"
+    ],
+    "ar": [
+      "علم اجتماع المنظمات (وجهات نظر)"
+    ],
+    "es": [
+      "Sociología de las Organizaciones (Perspectivas)"
+    ],
+    "fr": [
+      "Sociologie des organisations (perspectives)"
+    ],
+    "it": [
+      "Sociologia delle organizzazioni (prospettive)"
+    ]
+  }
+}

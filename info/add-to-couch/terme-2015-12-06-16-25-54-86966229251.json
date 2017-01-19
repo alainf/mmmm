@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-54-86966229251",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Criteres-de-la-resp-sociale-et-env-des-entreprises/Normalisation-de-la-resp-sociale-et-env-des-entreprises/",
+  "description": "Description de Normalisation de la responsabilité sociale et environnementale des entreprises",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2236,
+  "identifiant-drupal-parent": 2231,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-54",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Normalisation de la responsabilité sociale et environnementale des entreprises",
+  "nom-folder": "Normalisation-de-la-resp-sociale-et-env-des-entreprises",
+  "nom-machine": "terme-2015-12-06-16-25-54-86966229251",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Standardization of corporate environmental and social responsibility"
+    ],
+    "ar": [
+      "توحيد المسؤولية الإجتماعية والبيئية لشركات"
+    ],
+    "es": [
+      "Normalización de la responsabilidad ambiental y social empresarial"
+    ],
+    "fr": [
+      "Normalisation de la responsabilité sociale et environnementale des entreprises"
+    ],
+    "it": [
+      "Normalizzazione della responsabilità sociale, ambientale delle imprese"
+    ],
+    "ru": []
+  }
+}

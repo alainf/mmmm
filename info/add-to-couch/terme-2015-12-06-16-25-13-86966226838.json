@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226838",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Audiences/",
+  "description": "Description de Audiences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471704,
+  "identifiant-drupal-parent": 270725,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Audiences",
+  "nom-folder": "Audiences",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226838"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Audiences"
+    ],
+    "ar": [
+      "جلسات استماع"
+    ],
+    "es": [
+      "Audiencias"
+    ],
+    "fr": [
+      "Audiences"
+    ],
+    "it": [
+      "Audience (ascolto)"
+    ]
+  }
+}

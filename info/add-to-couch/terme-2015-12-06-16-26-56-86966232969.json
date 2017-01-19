@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-56-86966232969",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Geopolitique-(politique)/",
+  "description": "Description de Géopolitique (politique)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1162,
+  "identifiant-drupal-parent": 1106,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-56",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Géopolitique (politique)",
+  "nom-folder": "Geopolitique-(politique)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-56-86966232969"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Geopolitics (politics)"
+    ],
+    "ar": [
+      "الجغرافيا السياسية (السياسة)"
+    ],
+    "es": [
+      "Geopolítica (política)"
+    ],
+    "fr": [
+      "Géopolitique (politique)"
+    ],
+    "it": [
+      "Geopolitica (politica)"
+    ]
+  }
+}

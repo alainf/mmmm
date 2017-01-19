@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223835",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Ingenierie-et-mecanique-agricoles/Agroequipements/",
+  "description": "Description de Agroéquipements",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472378,
+  "identifiant-drupal-parent": 348,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Agroéquipements",
+  "nom-folder": "Agroequipements",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223835"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural equipment"
+    ],
+    "ar": [
+      "المعدات الزراعية"
+    ],
+    "es": [
+      "Maquinaria agrícola"
+    ],
+    "fr": [
+      "Agroéquipements"
+    ],
+    "it": [
+      "Attrezzature agricole"
+    ]
+  }
+}

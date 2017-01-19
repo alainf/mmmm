@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226589",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Protection-de-l'environnement/Contamination-chimique/",
+  "description": "Description de Contamination chimique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472365,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Contamination chimique",
+  "nom-folder": "Contamination-chimique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226589"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chemical contamination"
+    ],
+    "ar": [
+      "التلوث الكيميائي"
+    ],
+    "es": [
+      "Contaminación química"
+    ],
+    "fr": [
+      "Contamination chimique"
+    ],
+    "it": [
+      "contaminazione chimica"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229069",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-analytique/Methodes-de-comptabilite-analytique/Methode-du-direct-costing/",
+  "description": "Méthode du direct costing",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270985,
+  "identifiant-drupal-parent": 270982,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Méthode du prix de revient direct",
+  "nom-folder": "Methode-du-direct-costing",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229069",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Direct costing method"
+    ],
+    "ar": [
+      "طريقة حساب التكاليف المباشرة"
+    ],
+    "es": [
+      "Método de costeo directo"
+    ],
+    "fr": [
+      "Méthode du prix de revient direct"
+    ],
+    "it": [
+      "Metodo dei costi diretti"
+    ]
+  }
+}

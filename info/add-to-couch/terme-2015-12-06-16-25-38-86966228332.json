@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-38-86966228332",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Liquidite-de-l'entreprise/",
+  "description": "Description de Liquidité de l'entreprise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2028,
+  "identifiant-drupal-parent": 2017,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-38",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Liquidité de l'entreprise",
+  "nom-folder": "Liquidite-de-l'entreprise",
+  "nom-machine": "terme-2015-12-06-16-25-38-86966228332",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate liquidity"
+    ],
+    "ar": [
+      "سيولة للشركة"
+    ],
+    "es": [
+      "Liquidez de la empresa"
+    ],
+    "fr": [
+      "Liquidité de l'entreprise"
+    ],
+    "it": [
+      "Liquidità aziendale"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-20-86966234430",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-ressource/catalogue/catalogue-d'editeur/",
+  "description": "Description de Catalogue d'editeur",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369403,
+  "mise-a-jour": "2016-05-09-16-46-43",
+  "moment-de-creation": "2015-12-06-16-27-20",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Catalogue d'editeur",
+  "nom-folder": "catalogue-d'editeur",
+  "nom-machine": "terme-2015-12-06-16-27-20-86966234430",
+  "sous-type": "types-de-ressource",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Publisher’s catalogue"
+    ],
+    "es": [
+      "Catálogo de editorial"
+    ],
+    "fr": [
+      "Catalogue d'editeur"
+    ],
+    "it": [
+      "Catalogo di casa editrice"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-46-86966225162",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Techniques-de-la-peinture/Peinture-par-brossage/",
+  "description": "Description de Peinture par brossage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467026,
+  "identifiant-drupal-parent": 467018,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-46",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Peinture par brossage",
+  "nom-folder": "Peinture-par-brossage",
+  "nom-machine": "terme-2015-12-06-16-24-46-86966225162",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Drybrush"
+    ],
+    "ar": [
+      "الفرشاة الجافة"
+    ],
+    "es": [
+      "Pincel seco"
+    ],
+    "fr": [
+      "Peinture par brossage"
+    ],
+    "it": [
+      "Pittura a pennello asciutto"
+    ]
+  }
+}

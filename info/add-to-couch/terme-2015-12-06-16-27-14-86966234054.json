@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234054",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/methodologie/",
+  "description": "Description de Méthodologie",
+  "enfants": [
+    "terme-2015-12-06-16-27-14-86966234057"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369461,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Méthodologie",
+  "nom-folder": "methodologie",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234054",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Methodology"
+    ],
+    "es": [
+      "Metodología"
+    ],
+    "fr": [
+      "Méthodologie"
+    ],
+    "it": [
+      "Metodologia"
+    ]
+  }
+}

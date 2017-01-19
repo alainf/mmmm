@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220768",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Investissement/Les-marches/",
+  "description": "Description de Les marchés",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270554,
+  "identifiant-drupal-parent": 270550,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Les marchés",
+  "nom-folder": "Les-marches",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220768"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "The markets"
+    ],
+    "ar": [
+      "الاسواق"
+    ],
+    "es": [
+      "Los mercados"
+    ],
+    "fr": [
+      "Les marchés"
+    ],
+    "it": [
+      "I mercati"
+    ]
+  }
+}

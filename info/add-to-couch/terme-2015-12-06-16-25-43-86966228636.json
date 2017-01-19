@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-43-86966228636",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Principaux-auteurs-en-Management/",
+  "description": "Description de Principaux auteurs en Management",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2187,
+  "identifiant-drupal-parent": 2183,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-43",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Principaux auteurs en Management",
+  "nom-folder": "Principaux-auteurs-en-Management",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-43-86966228636"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Key authors in management science"
+    ],
+    "ar": [
+      "المؤلفين الرئيسيين في إدارة العلوم"
+    ],
+    "es": [
+      "Autores principales en Ciencias de Gestión"
+    ],
+    "fr": [
+      "Principaux auteurs en Management"
+    ],
+    "it": [
+      "Autori principali di scienze della gestione"
+    ]
+  }
+}

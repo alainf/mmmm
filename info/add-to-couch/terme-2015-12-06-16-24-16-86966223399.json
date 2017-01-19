@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-24-16-86966223399",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Sports-and-Recreation/",
+  "description": "Description de Tourisme",
+  "enfants": [
+    "terme-2015-12-06-16-24-16-86966223402",
+    "terme-2015-12-06-16-24-16-86966223405",
+    "terme-2015-12-06-16-24-16-86966223408",
+    "terme-2015-12-06-16-24-16-86966223411",
+    "terme-2015-12-06-16-24-16-86966223414",
+    "terme-2015-12-06-16-24-16-86966223417",
+    "terme-2015-12-06-16-24-16-86966223419",
+    "terme-2015-12-06-16-24-17-86966223422",
+    "terme-2015-12-06-16-24-17-86966223425",
+    "terme-2015-12-06-16-24-17-86966223427"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-02",
+  "moment-de-creation": "2015-12-06-16-24-16",
+  "moment-de-modification": "2015-10-04-05-11-11",
+  "nom": "Tourisme",
+  "nom-folder": "Sports-and-Recreation",
+  "nom-machine": "terme-2015-12-06-16-24-16-86966223399",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tourism"
+    ],
+    "fr": [
+      "Tourisme"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2016-02-29-04-57-19-87404390385",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/pourquoi-ecrire/ecrire-pour-temoigner/temoigner-d-une-realite/raconter-son-enfance/",
+  "description": "Description de Raconter son enfance",
+  "enfants": [
+    "terme-2016-02-29-04-58-07-87404393265",
+    "terme-2016-02-29-04-59-35-87404398521"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-57-19",
+  "moment-de-modification": "2016-02-29-04-58-00",
+  "nom": "Raconter son enfance",
+  "nom-folder": "raconter-son-enfance",
+  "nom-machine": "terme-2016-02-29-04-57-19-87404390385",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Telling one's childhood"
+    ],
+    "fr": [
+      "Raconter son enfance"
+    ]
+  }
+}

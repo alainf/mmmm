@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-00-86966233218",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Epistemologie/Epistemologie-constructiviste/",
+  "description": "Description de Épistémologie constructiviste",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451230,
+  "identifiant-drupal-parent": 1201,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-00",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Épistémologie constructiviste",
+  "nom-folder": "Epistemologie-constructiviste",
+  "nom-machine": "terme-2015-12-06-16-27-00-86966233218",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Constructivist epistemology"
+    ],
+    "ar": [
+      "البنائية المعرفية"
+    ],
+    "es": [
+      "Epistemología constructivista"
+    ],
+    "fr": [
+      "Épistémologie constructiviste"
+    ],
+    "it": [
+      "Epistemologia costruttivista"
+    ]
+  }
+}

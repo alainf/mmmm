@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225666",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Theories-du-droit/",
+  "description": "Description de Théories du droit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269095,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Théories du droit",
+  "nom-folder": "Theories-du-droit",
+  "nom-machine": "terme-2015-12-06-16-24-54-86966225666",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories of law"
+    ],
+    "ar": [
+      "نظريات القانون"
+    ],
+    "es": [
+      "Théories del derecho"
+    ],
+    "fr": [
+      "Théories du droit"
+    ],
+    "it": [
+      "Teorie del diritto"
+    ]
+  }
+}

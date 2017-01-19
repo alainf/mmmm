@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220817",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/L'interet-public/",
+  "description": "Description de L'intérêt public",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270504,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "L'intérêt public",
+  "nom-folder": "L'interet-public",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-33-86966220817"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public interest"
+    ],
+    "ar": [
+      "المصلحة العامة"
+    ],
+    "es": [
+      "El interés público"
+    ],
+    "fr": [
+      "L'intérêt public"
+    ],
+    "it": [
+      "L’interesse pubblico"
+    ]
+  }
+}

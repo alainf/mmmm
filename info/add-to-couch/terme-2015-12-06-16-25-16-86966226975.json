@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966226975",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Technologies-de-l'information-et-de-la-communication/lecture-en-continu/",
+  "description": "Description de Lecture en continu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272432,
+  "identifiant-drupal-parent": 2166,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Lecture en continu",
+  "nom-folder": "lecture-en-continu",
+  "nom-machine": "terme-2015-12-06-16-25-16-86966226975",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Streaming"
+    ],
+    "ar": [
+      "البث الحي"
+    ],
+    "es": [
+      "lectura en continuo"
+    ],
+    "fr": [
+      "Lecture en continu"
+    ],
+    "it": [
+      "Lettura in continuo"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227458",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Droit-commercial-(commerce)/Propriete-intellectuelle-(commerciale)/",
+  "description": "Description de Propriété intellectuelle (commerciale)",
+  "enfants": [
+    "terme-2015-12-06-16-25-24-86966227461",
+    "terme-2015-12-06-16-25-24-86966227463"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 3432,
+  "identifiant-drupal-parent": 1830,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Propriété intellectuelle (commerciale)",
+  "nom-folder": "Propriete-intellectuelle-(commerciale)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227458"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intellectual property (comercial)"
+    ],
+    "ar": [
+      "الملكية الفكرية (التجارية)"
+    ],
+    "es": [
+      "Propiedad intelectual (comercial)"
+    ],
+    "fr": [
+      "Propriété intellectuelle (commerciale)"
+    ],
+    "it": [
+      "Proprietà intellettuale (commerciale)"
+    ]
+  }
+}

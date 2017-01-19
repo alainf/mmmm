@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226137",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Stockage-d'information/",
+  "description": "Description de Stockage d'information",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270363,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Stockage d'information",
+  "nom-folder": "Stockage-d'information",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-02-86966226137"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Computer data storage"
+    ],
+    "ar": [
+      "تخزين بيانات الكمبيوتر"
+    ],
+    "es": [
+      "Almacenamiento de información"
+    ],
+    "fr": [
+      "Stockage d'information"
+    ],
+    "it": [
+      "Immagazzinamento dell'informazione"
+    ]
+  }
+}

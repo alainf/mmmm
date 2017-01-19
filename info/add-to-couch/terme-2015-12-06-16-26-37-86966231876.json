@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-37-86966231876",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Resilience/",
+  "description": "Description de Résilience",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451279,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-37",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Résilience",
+  "nom-folder": "Resilience",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-37-86966231876"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Resilience"
+    ],
+    "ar": [
+      "رجوعية"
+    ],
+    "es": [
+      "Resiliencia"
+    ],
+    "fr": [
+      "Résilience"
+    ],
+    "it": [
+      "Resilienza"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-14-86966234086",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/periodique/periodique-specialise-(magazine)/",
+  "description": "Description de Périodique spécialisé (magazine)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369470,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-14",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Périodique spécialisé (magazine)",
+  "nom-folder": "periodique-specialise-(magazine)",
+  "nom-machine": "terme-2015-12-06-16-27-14-86966234086",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Specialized magazine"
+    ],
+    "es": [
+      "Magazín especializado"
+    ],
+    "fr": [
+      "Périodique spécialisé (magazine)"
+    ],
+    "it": [
+      "Rivista specializzata"
+    ]
+  }
+}

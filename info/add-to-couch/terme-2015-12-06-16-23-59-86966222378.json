@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-59-86966222378",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Economics/Miscellaneous-(Economics)/",
+  "description": "Description de Miscellaneous (economics)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368946,
+  "identifiant-drupal-parent": 368932,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-23-59",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Miscellaneous (economics)",
+  "nom-folder": "Miscellaneous-(Economics)",
+  "nom-machine": "terme-2015-12-06-16-23-59-86966222378",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Miscellaneous (economics)"
+    ]
+  }
+}

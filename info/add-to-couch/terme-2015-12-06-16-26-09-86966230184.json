@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-09-86966230184",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Volcanologie/",
+  "description": "Description de Volcanologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270838,
+  "identifiant-drupal-parent": 886,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-09",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Volcanologie",
+  "nom-folder": "Volcanologie",
+  "nom-machine": "terme-2015-12-06-16-26-09-86966230184",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Volcanology"
+    ],
+    "ar": [
+      "علم البراكين"
+    ],
+    "es": [
+      "Vulcanología"
+    ],
+    "fr": [
+      "Volcanologie"
+    ],
+    "it": [
+      "Vulcanologia"
+    ]
+  }
+}

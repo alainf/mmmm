@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-42-86966224955",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litterature-amerindienne/",
+  "description": "Description de Littérature amérindienne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466952,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-42",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littérature amérindienne",
+  "nom-folder": "Litterature-amerindienne",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-42-86966224955"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Native american literature"
+    ],
+    "ar": [
+      "الأدب الأمريكي الأصلي"
+    ],
+    "es": [
+      "Literatura indígena"
+    ],
+    "fr": [
+      "Littérature amérindienne"
+    ],
+    "it": [
+      "Letteratura americana nativa"
+    ]
+  }
+}

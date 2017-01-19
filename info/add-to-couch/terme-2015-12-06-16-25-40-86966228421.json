@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-40-86966228421",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/Transport-par-pipeline/",
+  "description": "Description de Transport par pipeline",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451136,
+  "identifiant-drupal-parent": 2037,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-40",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Transport par pipeline",
+  "nom-folder": "Transport-par-pipeline",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-40-86966228421"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pipeline transport"
+    ],
+    "ar": [
+      "نقل بخطوط الأنابيب"
+    ],
+    "es": [
+      "Transporte por tubería"
+    ],
+    "fr": [
+      "Transport par pipeline"
+    ],
+    "it": [
+      "trasporti mediante condotte"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2016-02-05-01-05-18-87279139120",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/",
+  "description": "Sie de Cogitae",
+  "enfants": [
+    "terme-2016-02-05-01-11-29-87279161389",
+    "terme-2016-02-05-01-13-33-87279168826",
+    "terme-2016-02-05-01-15-37-87279176261",
+    "terme-2016-02-05-01-17-44-87279183883",
+    "terme-2016-02-05-01-19-48-87279191302",
+    "terme-2016-02-05-01-21-48-87279198480",
+    "terme-2016-02-05-01-23-33-87279204812",
+    "terme-2016-02-05-01-24-28-87279208103",
+    "terme-2016-02-05-01-26-12-87279214370"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-05-18",
+  "moment-de-modification": "2016-02-05-01-06-16",
+  "nom": "Ontologie des genres littéraires",
+  "nom-folder": "Ontologie-des-genres-litteraires",
+  "nom-machine": "terme-2016-02-05-01-05-18-87279139120",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "literary genre ontology"
+    ],
+    "es": [
+      "ontología de géneros literatios"
+    ],
+    "fr": [
+      "Ontologie des genres littéraires"
+    ],
+    "it": [
+      "Ontologia dei generi letterali"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227498",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Communication-produit/",
+  "description": "Description de Communication produit",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2152,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Communication produit",
+  "nom-folder": "Communication-produit",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227498"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Product communication"
+    ],
+    "ar": [
+      "الإتصال المنتوج"
+    ],
+    "es": [
+      "Comunicación de Producto"
+    ],
+    "fr": [
+      "Communication produit"
+    ],
+    "it": [
+      "comunicazione di prodotto"
+    ]
+  }
+}

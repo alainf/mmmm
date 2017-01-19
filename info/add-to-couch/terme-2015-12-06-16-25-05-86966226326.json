@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226326",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Education-des-adultes/Methodes-de-recherche-et-evaluation/",
+  "description": "Description de Méthodes de recherche et évaluation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466710,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Méthodes de recherche et évaluation",
+  "nom-folder": "Methodes-de-recherche-et-evaluation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226326"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research Methods & Evaluation"
+    ],
+    "ar": [
+      "أساليب البحث والتقييم"
+    ],
+    "es": [
+      "Métodos de investigación y evaluación"
+    ],
+    "fr": [
+      "Méthodes de recherche et évaluation"
+    ],
+    "it": [
+      "Metodi d'investigazione e valutazione"
+    ]
+  }
+}

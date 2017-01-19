@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226423",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Recherche-academique/Production-du-savoir/",
+  "description": "Description de Production du savoir",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472349,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Production du savoir",
+  "nom-folder": "Production-du-savoir",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226423"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Production of knowledge"
+    ],
+    "ar": [
+      "إنتاج المعرفة"
+    ],
+    "es": [
+      "Producción del saber"
+    ],
+    "fr": [
+      "Production du savoir"
+    ],
+    "it": [
+      "produzione della conoscenza"
+    ]
+  }
+}

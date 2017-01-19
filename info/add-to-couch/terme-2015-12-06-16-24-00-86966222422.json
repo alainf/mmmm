@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-00-86966222422",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Education/Educational-Administration/",
+  "description": "Description de Educational administration",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368961,
+  "identifiant-drupal-parent": 368955,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-24-00",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Educational administration",
+  "nom-folder": "Educational-Administration",
+  "nom-machine": "terme-2015-12-06-16-24-00-86966222422",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Educational administration"
+    ]
+  }
+}

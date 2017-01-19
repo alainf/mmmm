@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231601",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/philosophie-moderne/",
+  "description": "Description de Philosophie moderne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469934,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie moderne",
+  "nom-folder": "philosophie-moderne",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-33-86966231601"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Modern philosophy"
+    ],
+    "ar": [
+      "فلسفة حديثة"
+    ],
+    "es": [
+      "Filosofía moderna"
+    ],
+    "fr": [
+      "Philosophie moderne"
+    ],
+    "it": [
+      "filosofia moderna"
+    ]
+  }
+}

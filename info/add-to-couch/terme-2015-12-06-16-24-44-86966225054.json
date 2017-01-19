@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225054",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musees/Histoire-de-la-museologie/",
+  "description": "Description de Histoire de la muséologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466989,
+  "identifiant-drupal-parent": 466982,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Histoire de la muséologie",
+  "nom-folder": "Histoire-de-la-museologie",
+  "nom-machine": "terme-2015-12-06-16-24-44-86966225054",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of museology"
+    ],
+    "ar": [
+      "تاريخ علم المتاحف"
+    ],
+    "es": [
+      "Historia de la museología"
+    ],
+    "fr": [
+      "Histoire de la muséologie"
+    ],
+    "it": [
+      "Storia della museologia"
+    ]
+  }
+}

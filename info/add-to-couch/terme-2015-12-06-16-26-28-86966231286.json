@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-26-28-86966231286",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Epidemiologie/",
+  "description": "Description de Épidémiologie",
+  "enfants": [
+    "terme-2015-12-06-16-26-28-86966231288"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469400,
+  "identifiant-drupal-parent": 1399,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-28",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Épidémiologie",
+  "nom-folder": "Epidemiologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-28-86966231286"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Epidemiology"
+    ],
+    "ar": [
+      "وبائيات"
+    ],
+    "es": [
+      "Epidemiología"
+    ],
+    "fr": [
+      "Épidémiologie"
+    ],
+    "it": [
+      "Epidemiologia"
+    ]
+  }
+}

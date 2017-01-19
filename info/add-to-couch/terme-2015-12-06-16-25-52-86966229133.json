@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229133",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Comptes-d'operations-courantes/",
+  "description": "Description de Comptes d'opérations courantes",
+  "enfants": [
+    "terme-2015-12-06-16-25-52-86966229137",
+    "terme-2015-12-06-16-25-52-86966229139",
+    "terme-2015-12-06-16-25-52-86966229142",
+    "terme-2015-12-06-16-25-52-86966229145",
+    "terme-2015-12-06-16-25-52-86966229148"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270951,
+  "identifiant-drupal-parent": 270940,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptes d'opérations courantes",
+  "nom-folder": "Comptes-d'operations-courantes",
+  "nom-machine": "terme-2015-12-06-16-25-52-86966229133",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Current accounts"
+    ],
+    "ar": [
+      "حسابات العمليات الجارية"
+    ],
+    "es": [
+      "Cuentas de operaciones corrientes"
+    ],
+    "fr": [
+      "Comptes d'opérations courantes"
+    ],
+    "it": [
+      "Conti delle partite correnti"
+    ],
+    "ru": []
+  }
+}

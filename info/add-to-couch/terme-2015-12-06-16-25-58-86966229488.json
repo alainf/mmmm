@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229488",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theories-de-l'action/",
+  "description": "Description de Théories de l'action",
+  "enfants": [
+    "terme-2015-12-06-16-25-58-86966229491"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2286,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Théories de l'action",
+  "nom-folder": "Theories-de-l'action",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-58-86966229488"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Action theories"
+    ],
+    "ar": [
+      "نظريات عمل"
+    ],
+    "es": [
+      "Teorías de la Acción"
+    ],
+    "fr": [
+      "Théories de l'action"
+    ],
+    "it": [
+      "Teorie dell'azione"
+    ]
+  }
+}

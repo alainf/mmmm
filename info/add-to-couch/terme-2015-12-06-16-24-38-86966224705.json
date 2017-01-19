@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224705",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Histoire-du-cinema/",
+  "description": "Description de Histoire du cinéma",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466882,
+  "identifiant-drupal-parent": 466876,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Histoire du cinéma",
+  "nom-folder": "Histoire-du-cinema",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224705"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of cinema"
+    ],
+    "ar": [
+      "تاريخ السينما"
+    ],
+    "es": [
+      "Historia del cine"
+    ],
+    "fr": [
+      "Histoire du cinéma"
+    ],
+    "it": [
+      "Storia del cinema"
+    ]
+  }
+}

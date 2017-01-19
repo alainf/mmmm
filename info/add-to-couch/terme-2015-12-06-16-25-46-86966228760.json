@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228760",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Comportement-organisationnel/Attributions-causales-et-comportement-organisationnel/",
+  "description": "Description de Attributions causales et comportement organisationnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2170,
+  "identifiant-drupal-parent": 2110,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Attributions causales et comportement organisationnel",
+  "nom-folder": "Attributions-causales-et-comportement-organisationnel",
+  "nom-machine": "terme-2015-12-06-16-25-46-86966228760",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Causal attributions and organizational behavior"
+    ],
+    "ar": [
+      "منح الاسباب للاخرين والسلوك التنظيمي"
+    ],
+    "es": [
+      "Atribuciones causales y comportamiento organizacional"
+    ],
+    "fr": [
+      "Attributions causales et comportement organisationnel"
+    ],
+    "it": [
+      "Attribuzioni causali e comportamento organizzativo"
+    ]
+  }
+}

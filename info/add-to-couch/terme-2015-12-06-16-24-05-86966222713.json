@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-05-86966222713",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Law/Environmental-Law/",
+  "description": "Description de Environmental law",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369058,
+  "identifiant-drupal-parent": 369048,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-05",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Environmental law",
+  "nom-folder": "Environmental-Law",
+  "nom-machine": "terme-2015-12-06-16-24-05-86966222713",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Environmental law"
+    ]
+  }
+}

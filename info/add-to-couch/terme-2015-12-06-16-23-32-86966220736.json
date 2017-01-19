@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220736",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industries-extractives/Industrie-miniere/Extraction-miniere-artisanale/",
+  "description": "Description de Extraction minière artisanale",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270598,
+  "identifiant-drupal-parent": 270596,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Extraction minière artisanale",
+  "nom-folder": "Extraction-miniere-artisanale",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220736"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Artisanal mining"
+    ],
+    "ar": [
+      "التعدين الحرفي"
+    ],
+    "es": [
+      "Minería artesanal"
+    ],
+    "fr": [
+      "Extraction minière artisanale"
+    ],
+    "it": [
+      "Estrazione artigianale"
+    ],
+    "ru": [
+      "кустарная горная"
+    ]
+  }
+}

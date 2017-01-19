@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233692",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Fioul/",
+  "description": "Description de Fioul",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467108,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Fioul",
+  "nom-folder": "Fioul",
+  "nom-machine": "terme-2015-12-06-16-27-08-86966233692",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fuel oil"
+    ],
+    "ar": [
+      "زيت الوقود"
+    ],
+    "es": [
+      "Fuelóleo"
+    ],
+    "fr": [
+      "Fioul"
+    ],
+    "it": [
+      "Nafta"
+    ]
+  }
+}

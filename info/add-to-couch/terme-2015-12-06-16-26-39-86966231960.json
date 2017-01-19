@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231960",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Religion-et-societe/Religions-et-famille/",
+  "description": "Description de Religions et famille",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466771,
+  "identifiant-drupal-parent": 466768,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Religions et famille",
+  "nom-folder": "Religions-et-famille",
+  "nom-machine": "terme-2015-12-06-16-26-39-86966231960",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Religions and family"
+    ],
+    "ar": [
+      "الاديان والاسرة"
+    ],
+    "es": [
+      "Religiones y familia"
+    ],
+    "fr": [
+      "Religions et famille"
+    ],
+    "it": [
+      "Religioni e famiglia"
+    ],
+    "ru": []
+  }
+}

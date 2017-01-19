@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-41-86966224911",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Industrie-creative/Medias-interactifs/",
+  "description": "Description de Médias interactifs",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472145,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-41",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Médias interactifs",
+  "nom-folder": "Medias-interactifs",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-41-86966224911"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Interactive media"
+    ],
+    "ar": [
+      "وسائل الإعلام التفاعلية"
+    ],
+    "es": [
+      "Multimedia interactiva"
+    ],
+    "fr": [
+      "Médias interactifs"
+    ],
+    "it": [
+      "Mezzi di comunicazione di massa interattivi (Media)"
+    ]
+  }
+}

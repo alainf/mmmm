@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220946",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Statut-juridique/",
+  "description": "Description de Statut juridique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270523,
+  "identifiant-drupal-parent": 270471,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Statut juridique",
+  "nom-folder": "Statut-juridique",
+  "nom-machine": "terme-2015-12-06-16-23-35-86966220946",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Legal status"
+    ],
+    "ar": [
+      "الأحوال القانونى"
+    ],
+    "es": [
+      "Estatus jurídico"
+    ],
+    "fr": [
+      "Statut juridique"
+    ],
+    "it": [
+      "Status giuridico"
+    ]
+  }
+}

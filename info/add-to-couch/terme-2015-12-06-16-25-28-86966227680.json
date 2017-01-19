@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227680",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/Methodes-de-planification/",
+  "description": "Description de Méthodes de planification",
+  "enfants": [
+    "terme-2015-12-06-16-25-28-86966227684",
+    "terme-2015-12-06-16-25-28-86966227686",
+    "terme-2015-12-06-16-25-28-86966227689",
+    "terme-2015-12-06-16-25-28-86966227692",
+    "terme-2015-12-06-16-25-28-86966227695"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1858,
+  "identifiant-drupal-parent": 1854,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Méthodes de planification",
+  "nom-folder": "Methodes-de-planification",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227680"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Planning methods"
+    ],
+    "ar": [
+      "أساليب التخطيط"
+    ],
+    "es": [
+      "Métodos de planificación"
+    ],
+    "fr": [
+      "Méthodes de planification"
+    ],
+    "it": [
+      "Metodi di pianificazione"
+    ]
+  }
+}

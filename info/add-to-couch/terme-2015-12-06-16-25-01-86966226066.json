@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226066",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/Traitement-automatique-du-langage-naturel/Resolution-de-l'ambiguete-lexicale/",
+  "description": "Résolution de l'ambiguà¯té lexicale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472510,
+  "identifiant-drupal-parent": 472500,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Résolution de l'ambiguïté lexicale",
+  "nom-folder": "Resolution-de-l'ambiguete-lexicale",
+  "nom-machine": "terme-2015-12-06-16-25-01-86966226066",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Word-sense disambiguation"
+    ],
+    "ar": [
+      "فك التباس دلالة الكلمة"
+    ],
+    "es": [
+      "Desambiguación lingüística"
+    ],
+    "fr": [
+      "Résolution de l'ambiguïté lexicale"
+    ],
+    "it": [
+      "Disambiguazione linguistica"
+    ],
+    "ru": []
+  }
+}

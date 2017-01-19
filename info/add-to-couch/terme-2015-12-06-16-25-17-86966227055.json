@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227055",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/",
+  "description": "Description de Sciences de la gestion",
+  "enfants": [
+    "terme-2015-12-06-16-25-17-86966227059",
+    "terme-2015-12-06-16-25-17-86966227065",
+    "terme-2015-12-06-16-25-20-86966227205",
+    "terme-2015-12-06-16-25-58-86966229508",
+    "terme-2015-12-06-16-25-58-86966229523",
+    "terme-2015-12-06-16-25-58-86966229526",
+    "terme-2015-12-06-16-25-59-86966229567",
+    "terme-2015-12-06-16-26-03-86966229813",
+    "terme-2015-12-06-16-26-03-86966229816"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 352,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Sciences de la gestion",
+  "nom-folder": "Sciences-de-la-gestion",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227055"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Management science"
+    ],
+    "ar": [
+      "العلوم الادارية"
+    ],
+    "es": [
+      "Ciencias de la gestión"
+    ],
+    "fr": [
+      "Sciences de la gestion"
+    ],
+    "it": [
+      "scienze della gestione"
+    ]
+  }
+}

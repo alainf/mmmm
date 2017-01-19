@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-06-86966230001",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-sante/Toxicologie/",
+  "description": "Description de Toxicologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466717,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-06",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Toxicologie",
+  "nom-folder": "Toxicologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-06-86966230001"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Toxicology"
+    ],
+    "ar": [
+      "علم السموم"
+    ],
+    "es": [
+      "Toxicología"
+    ],
+    "fr": [
+      "Toxicologie"
+    ],
+    "it": [
+      "tossicologia"
+    ]
+  }
+}

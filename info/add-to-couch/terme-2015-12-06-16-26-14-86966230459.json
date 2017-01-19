@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-14-86966230459",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Geographie-economique/Monde-musulman/",
+  "description": "Description de Monde musulman",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472013,
+  "identifiant-drupal-parent": 957,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-14",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Monde musulman",
+  "nom-folder": "Monde-musulman",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-14-86966230459"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Muslim World"
+    ],
+    "ar": [
+      "العالم الإسلامي"
+    ],
+    "es": [
+      "Mundo musulmán"
+    ],
+    "fr": [
+      "Monde musulman"
+    ],
+    "it": [
+      "mondo musulmano"
+    ]
+  }
+}

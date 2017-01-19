@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-16-86966230566",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Fiscalite-et-droit-fiscal/Fiscalite-internationale/",
+  "description": "Description de Fiscalité internationale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272259,
+  "identifiant-drupal-parent": 272236,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-16",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Fiscalité internationale",
+  "nom-folder": "Fiscalite-internationale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-16-86966230566"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International Taxation"
+    ],
+    "ar": [
+      "ضرائب الدولية"
+    ],
+    "es": [
+      "Impuestos Internacionales"
+    ],
+    "fr": [
+      "Fiscalité internationale"
+    ],
+    "it": [
+      "Fiscalità internazionale"
+    ]
+  }
+}

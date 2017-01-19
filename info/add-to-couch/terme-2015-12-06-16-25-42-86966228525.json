@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-42-86966228525",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-bancaire/Banques-et-analyse-des-risques/",
+  "description": "Description de Banques et analyse des risques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2207,
+  "identifiant-drupal-parent": 2191,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-42",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Banques et analyse des risques",
+  "nom-folder": "Banques-et-analyse-des-risques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-42-86966228525"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Banks and risk analysis"
+    ],
+    "ar": [
+      "أبناك وتحليل المخاطر"
+    ],
+    "es": [
+      "Bancos y análisis de riesgos"
+    ],
+    "fr": [
+      "Banques et analyse des risques"
+    ],
+    "it": [
+      "Banche e analisi dei rischi"
+    ]
+  }
+}

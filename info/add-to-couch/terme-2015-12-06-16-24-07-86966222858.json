@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-07-86966222858",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Materials-Science-(category)/Plastics/",
+  "description": "Description de Plastics",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369109,
+  "identifiant-drupal-parent": 369100,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-07",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Plastics",
+  "nom-folder": "Plastics",
+  "nom-machine": "terme-2015-12-06-16-24-07-86966222858",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Plastics"
+    ]
+  }
+}

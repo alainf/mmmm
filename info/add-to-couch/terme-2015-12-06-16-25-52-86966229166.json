@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229166",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Enjeux-de-la-comptabilite-nationale/",
+  "description": "Description de Enjeux de la comptabilité nationale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270942,
+  "identifiant-drupal-parent": 270940,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Enjeux de la comptabilité nationale",
+  "nom-folder": "Enjeux-de-la-comptabilite-nationale",
+  "nom-machine": "terme-2015-12-06-16-25-52-86966229166",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Issues of national accounts"
+    ],
+    "ar": [
+      "قضايا المحاسبة القومية"
+    ],
+    "es": [
+      "Cuestiones relativas a las cuentas nacionales"
+    ],
+    "fr": [
+      "Enjeux de la comptabilité nationale"
+    ],
+    "it": [
+      "Sfide di contabilità nazionale"
+    ]
+  }
+}

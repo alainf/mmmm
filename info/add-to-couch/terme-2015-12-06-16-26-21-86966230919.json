@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-21-86966230919",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-physiques/Thermodynamique/",
+  "description": "Description de Thermodynamique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270756,
+  "identifiant-drupal-parent": 270456,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-21",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Thermodynamique",
+  "nom-folder": "Thermodynamique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-21-86966230919"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Thermodynamics"
+    ],
+    "ar": [
+      "الديناميكا الحرارية"
+    ],
+    "es": [
+      "Termodinámica"
+    ],
+    "fr": [
+      "Thermodynamique"
+    ],
+    "it": [
+      "termodinamica"
+    ]
+  }
+}

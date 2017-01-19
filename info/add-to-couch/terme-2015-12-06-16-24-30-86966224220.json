@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-30-86966224220",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Reglementation-de-la-peche/Reglementations-nationales-de-la-peche/",
+  "description": "Description de Réglementations nationales de la pêche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269083,
+  "identifiant-drupal-parent": 269080,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-30",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Réglementations nationales de la pêche",
+  "nom-folder": "Reglementations-nationales-de-la-peche",
+  "nom-machine": "terme-2015-12-06-16-24-30-86966224220",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "National fishing regulations"
+    ],
+    "ar": [
+      "اللوائح القطرية لمصايد الأسماك"
+    ],
+    "es": [
+      "Reglamentaciones nacionales para la pesca"
+    ],
+    "fr": [
+      "Réglementations nationales de la pêche"
+    ],
+    "it": [
+      "Regolamentazioni nazionali della pesca"
+    ]
+  }
+}

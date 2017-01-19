@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-05-15-16-87274855005",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Luxembourgeois/",
+  "description": "Description de Luxembourgeois",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "lb",
+  "ISO-639-2": "ltz",
+  "ISO-639-3": "ltz",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-15-16",
+  "moment-de-modification": "2016-02-04-05-15-56",
+  "nom": "Luxembourgeois",
+  "nom-folder": "Luxembourgeois",
+  "nom-machine": "terme-2016-02-04-05-15-16-87274855005",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Luxembourgeois",
+  "nomLangues": {
+    "en": [
+      "Luxembourgish"
+    ],
+    "ar": [
+      "لوكسمبورغية"
+    ],
+    "es": [
+      "Luxemburgués"
+    ],
+    "fr": [
+      "Luxembourgeois"
+    ],
+    "it": [
+      "Lussemburghese"
+    ],
+    "ru": [
+      "Люксембургский"
+    ]
+  }
+}

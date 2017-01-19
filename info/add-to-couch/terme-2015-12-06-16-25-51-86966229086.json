@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229086",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-generale-(types)/",
+  "description": "Description de Comptabilité générale (types)",
+  "enfants": [
+    "terme-2015-12-06-16-25-51-86966229089",
+    "terme-2015-12-06-16-25-51-86966229119",
+    "terme-2015-12-06-16-25-52-86966229122"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270968,
+  "identifiant-drupal-parent": 270934,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptabilité générale (types)",
+  "nom-folder": "Comptabilite-generale-(types)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-51-86966229086"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "General accounting"
+    ],
+    "ar": [
+      "المحاسبة العامة (أنواع)"
+    ],
+    "es": [
+      "Contabilidad General (tipos)"
+    ],
+    "fr": [
+      "Comptabilité générale (types)"
+    ],
+    "it": [
+      "Contabilità generale (tipi)"
+    ]
+  }
+}

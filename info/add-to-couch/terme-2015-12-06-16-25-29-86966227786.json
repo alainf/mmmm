@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-29-86966227786",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-9001/",
+  "description": "Description de ISO 9001 Système de management de la qualité - exigences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1907,
+  "identifiant-drupal-parent": 1890,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-29",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 9001 Système de management de la qualité - exigences",
+  "nom-folder": "ISO-9001",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-29-86966227786"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 9001 Quality Management System - Requirements"
+    ],
+    "ar": [
+      "ISO 9001 نظام إدارة الجودة - المتطلبات"
+    ],
+    "es": [
+      "ISO 9001:2008 Sistemas de gestión de la calidad - Requisitos"
+    ],
+    "fr": [
+      "ISO 9001 Système de management de la qualité - exigences"
+    ],
+    "it": [
+      "Iso 9001 sistemi di gestione qualità - requisiti"
+    ]
+  }
+}

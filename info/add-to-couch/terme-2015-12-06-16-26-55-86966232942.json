@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232942",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-comparee/",
+  "description": "Description de Politique comparée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451187,
+  "identifiant-drupal-parent": 1004,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Politique comparée",
+  "nom-folder": "Politique-comparee",
+  "nom-machine": "terme-2015-12-06-16-26-55-86966232942",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Comparative politics"
+    ],
+    "ar": [
+      "السياسة المقارنة"
+    ],
+    "es": [
+      "Política comparada"
+    ],
+    "fr": [
+      "Politique comparée"
+    ],
+    "it": [
+      "Politica comparata"
+    ]
+  }
+}

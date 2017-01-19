@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224348",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Soins-veterinaires/Oncologie/",
+  "description": "Description de Oncologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269034,
+  "identifiant-drupal-parent": 269028,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Oncologie",
+  "nom-folder": "Oncologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-32-86966224348"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Oncology"
+    ],
+    "ar": [
+      "علم الأورام"
+    ],
+    "es": [
+      "Oncología"
+    ],
+    "fr": [
+      "Oncologie"
+    ],
+    "it": [
+      "oncologia"
+    ]
+  }
+}

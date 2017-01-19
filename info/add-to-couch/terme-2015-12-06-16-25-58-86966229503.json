@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-58-86966229503",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theories-du-comportement-organisationnel/",
+  "description": "Description de Théories du comportement organisationnel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2285,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-58",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Théories du comportement organisationnel",
+  "nom-folder": "Theories-du-comportement-organisationnel",
+  "nom-machine": "terme-2015-12-06-16-25-58-86966229503",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organizational behavioral theories"
+    ],
+    "ar": [
+      "النظريات السلوكية التنظيمية"
+    ],
+    "es": [
+      "Teorías del comportamiento organizacional"
+    ],
+    "fr": [
+      "Théories du comportement organisationnel"
+    ],
+    "it": [
+      "Teorie del comportamento organizzativo"
+    ]
+  }
+}

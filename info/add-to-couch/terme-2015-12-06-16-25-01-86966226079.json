@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-01-86966226079",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Intelligence-artificielle/Traitement-automatique-du-langage-naturel/Synthese-vocale/",
+  "description": "Description de Synthèse vocale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472509,
+  "identifiant-drupal-parent": 472500,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-01",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Synthèse vocale",
+  "nom-folder": "Synthese-vocale",
+  "nom-machine": "terme-2015-12-06-16-25-01-86966226079",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Speech synthesis"
+    ],
+    "ar": [
+      "تصنيع صوتي"
+    ],
+    "es": [
+      "Síntesis de habla"
+    ],
+    "fr": [
+      "Synthèse vocale"
+    ],
+    "it": [
+      "Sintesi vocale"
+    ]
+  }
+}

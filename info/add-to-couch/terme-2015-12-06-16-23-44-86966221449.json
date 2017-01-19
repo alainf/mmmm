@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-44-86966221449",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-academique/Recherches/Periodiques-en-ligne/",
+  "description": "Description de Périodiques en ligne",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1764,
+  "identifiant-drupal-parent": 1678,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-44",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Périodiques en ligne",
+  "nom-folder": "Periodiques-en-ligne",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-44-86966221449"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Online periodicals"
+    ],
+    "ar": [
+      "الدوريات عبر الإنترنت"
+    ],
+    "es": [
+      "Periódicos en línea"
+    ],
+    "fr": [
+      "Périodiques en ligne"
+    ],
+    "it": [
+      "Periodici on-line"
+    ]
+  }
+}

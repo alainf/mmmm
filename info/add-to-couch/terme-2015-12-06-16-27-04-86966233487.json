@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233487",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Filiation/Mariage/",
+  "description": "Description de Mariage",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1284,
+  "identifiant-drupal-parent": 1256,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Mariage",
+  "nom-folder": "Mariage",
+  "nom-machine": "terme-2015-12-06-16-27-04-86966233487",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Marriage"
+    ],
+    "ar": [
+      "زواج"
+    ],
+    "es": [
+      "Matrimonio"
+    ],
+    "fr": [
+      "Mariage"
+    ],
+    "it": [
+      "Matrimonio"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-13-86966230435",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-presentielle/",
+  "description": "Description de Économie présentielle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1495,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-13",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie présentielle",
+  "nom-folder": "Economie-presentielle",
+  "nom-machine": "terme-2015-12-06-16-26-13-86966230435",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "In-place economy"
+    ],
+    "ar": [
+      "الاقتصاد القائم على وجود"
+    ],
+    "es": [
+      "Economía presencial"
+    ],
+    "fr": [
+      "Économie présentielle"
+    ],
+    "it": [
+      "Economia presenziale"
+    ]
+  }
+}

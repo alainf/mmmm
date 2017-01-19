@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-37-86966221025",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Mobilisation-sociale/Droits-des-lesbiennes,-gais-etc/",
+  "description": "Questions relatives aux minorités sexuelles diverses",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1699,
+  "identifiant-drupal-parent": 1667,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-37",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Droits des lesbiennes, gais, bisexuels, transgenres",
+  "nom-folder": "Droits-des-lesbiennes,-gais-etc",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-37-86966221025"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Lgbt - lesbian, gay, bisexual, and transgender"
+    ],
+    "ar": [
+      "إل جي بي تي - المثليات والمثليون والمزدوجون جنسيا والمتحولون"
+    ],
+    "es": [
+      "Lgbt -  lesbianas, gais, bisexuales y personas transgénero"
+    ],
+    "fr": [
+      "Droits des lesbiennes, gais, bisexuels, transgenres"
+    ],
+    "it": [
+      "Lgbt -  lesbiche, gay, bisessuali e transgender"
+    ],
+    "ru": [
+      "ЛГБТ - лесбиянок, геев, бисексуалов  и трансгендеров"
+    ]
+  }
+}

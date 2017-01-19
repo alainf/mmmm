@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-33-86966231605",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-morale/",
+  "description": "Description de Philosophie morale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272342,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-33",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie morale",
+  "nom-folder": "Philosophie-morale",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-33-86966231605"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Moral Philosophy"
+    ],
+    "ar": [
+      "الفلسفة الأخلاقية"
+    ],
+    "es": [
+      "Filosofía moral"
+    ],
+    "fr": [
+      "Philosophie morale"
+    ],
+    "it": [
+      "filosofia morale"
+    ]
+  }
+}

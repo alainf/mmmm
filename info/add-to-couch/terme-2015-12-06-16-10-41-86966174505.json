@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-41-86966174505",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Creole-haitien/",
+  "description": "Description de Créole haïtien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317592,
+  "ISO-639-1": "ht",
+  "ISO-639-2": "hat",
+  "ISO-639-3": "hat",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-41",
+  "moment-de-modification": "2016-02-04-04-34-29",
+  "nom": "Créole haïtien",
+  "nom-folder": "Creole-haitien",
+  "nom-machine": "terme-2015-12-06-16-10-41-86966174505",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Cr%C3%A9ole_ha%C3%AFtien",
+  "nomLangues": {
+    "en": [
+      "Haitian creole"
+    ],
+    "ar": [
+      "كريولية هايتية"
+    ],
+    "es": [
+      "Criollo haitiano"
+    ],
+    "fr": [
+      "Créole haïtien"
+    ],
+    "it": [
+      "Creolo haitiano"
+    ],
+    "ru": [
+      "Гаитянский креольский"
+    ]
+  }
+}

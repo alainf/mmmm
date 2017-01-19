@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-16-86966234203",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/thesaurus/",
+  "description": "Description de Thésaurus",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369501,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-16",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Thésaurus",
+  "nom-folder": "thesaurus",
+  "nom-machine": "terme-2015-12-06-16-27-16-86966234203",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Thesaurus"
+    ],
+    "ar": [
+      "مكنز"
+    ],
+    "es": [
+      "Tesauro"
+    ],
+    "fr": [
+      "Thésaurus"
+    ],
+    "it": [
+      "Tesauro"
+    ],
+    "ru": [
+      "Тезаурус"
+    ]
+  }
+}

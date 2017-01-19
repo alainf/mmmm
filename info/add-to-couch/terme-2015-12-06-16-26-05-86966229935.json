@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-05-86966229935",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Ingenierie-ferroviaire/",
+  "description": "Description de Ingénierie ferroviaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270888,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-05",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Ingénierie ferroviaire",
+  "nom-folder": "Ingenierie-ferroviaire",
+  "nom-machine": "terme-2015-12-06-16-26-05-86966229935",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Railway Engineering"
+    ],
+    "ar": [
+      "هندسة السكك الحديدية"
+    ],
+    "es": [
+      "Ingeniería ferroviaria"
+    ],
+    "fr": [
+      "Ingénierie ferroviaire"
+    ],
+    "it": [
+      "Ingegneria ferroviaria"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226474",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Biotechnologie/Biotechnologies-et-OGM/",
+  "description": "Description de Biotechnologies et OGM",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455641,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Biotechnologies et OGM",
+  "nom-folder": "Biotechnologies-et-OGM",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226474"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biotechnologies and GMO"
+    ],
+    "ar": [
+      "التكنولوجيا الحيوية والكائنات المعدلة وراثيا"
+    ],
+    "es": [
+      "Biotecnología y organismos modificados genéticamente"
+    ],
+    "fr": [
+      "Biotechnologies et OGM"
+    ],
+    "it": [
+      "biotecnologie e OGM (Organismi geneticamente modificati)"
+    ]
+  }
+}

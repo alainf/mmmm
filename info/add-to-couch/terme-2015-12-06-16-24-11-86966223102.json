@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-11-86966223102",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Medicine/Public-Health-and-Community-Medicine/",
+  "description": "Description de Public health and community medicine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369194,
+  "identifiant-drupal-parent": 369132,
+  "mise-a-jour": "2016-05-09-16-46-01",
+  "moment-de-creation": "2015-12-06-16-24-11",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Public health and community medicine",
+  "nom-folder": "Public-Health-and-Community-Medicine",
+  "nom-machine": "terme-2015-12-06-16-24-11-86966223102",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Public health and community medicine"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-50-86966221813",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Economia-y-empresa/Economia-aplicada/",
+  "description": "Description de Economia aplicada",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380928,
+  "identifiant-drupal-parent": 380841,
+  "mise-a-jour": "2016-05-09-16-45-56",
+  "moment-de-creation": "2015-12-06-16-23-50",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Economia aplicada",
+  "nom-folder": "Economia-aplicada",
+  "nom-machine": "terme-2015-12-06-16-23-50-86966221813",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Economia aplicada"
+    ]
+  }
+}

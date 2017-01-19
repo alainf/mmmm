@@ -1,0 +1,70 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227815",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/",
+  "description": "Description de Outils de la gestion de la qualité",
+  "enfants": [
+    "terme-2015-12-06-16-25-30-86966227817",
+    "terme-2015-12-06-16-25-30-86966227820",
+    "terme-2015-12-06-16-25-30-86966227823",
+    "terme-2015-12-06-16-25-30-86966227825",
+    "terme-2015-12-06-16-25-30-86966227828",
+    "terme-2015-12-06-16-25-30-86966227831",
+    "terme-2015-12-06-16-25-30-86966227834",
+    "terme-2015-12-06-16-25-30-86966227837",
+    "terme-2015-12-06-16-25-30-86966227840",
+    "terme-2015-12-06-16-25-30-86966227843",
+    "terme-2015-12-06-16-25-30-86966227845",
+    "terme-2015-12-06-16-25-30-86966227848",
+    "terme-2015-12-06-16-25-30-86966227851",
+    "terme-2015-12-06-16-25-30-86966227854",
+    "terme-2015-12-06-16-25-30-86966227857",
+    "terme-2015-12-06-16-25-31-86966227860",
+    "terme-2015-12-06-16-25-31-86966227863",
+    "terme-2015-12-06-16-25-31-86966227865",
+    "terme-2015-12-06-16-25-31-86966227868",
+    "terme-2015-12-06-16-25-31-86966227871",
+    "terme-2015-12-06-16-25-31-86966227873",
+    "terme-2015-12-06-16-25-31-86966227877",
+    "terme-2015-12-06-16-25-31-86966227879",
+    "terme-2015-12-06-16-25-31-86966227882",
+    "terme-2015-12-06-16-25-31-86966227885",
+    "terme-2015-12-06-16-25-31-86966227888",
+    "terme-2015-12-06-16-25-31-86966227891",
+    "terme-2015-12-06-16-25-31-86966227894",
+    "terme-2015-12-06-16-25-31-86966227897",
+    "terme-2015-12-06-16-25-31-86966227899",
+    "terme-2015-12-06-16-25-31-86966227902"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1910,
+  "identifiant-drupal-parent": 1877,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Outils de la gestion de la qualité",
+  "nom-folder": "Outils-de-la-gestion-de-la-qualite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-30-86966227815"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Quality management tools"
+    ],
+    "ar": [
+      "أدوات لإدارة الجودة"
+    ],
+    "es": [
+      "Herramientas para la gestión de la calidad"
+    ],
+    "fr": [
+      "Outils de la gestion de la qualité"
+    ],
+    "it": [
+      "Strumenti di gestione della qualità"
+    ]
+  }
+}

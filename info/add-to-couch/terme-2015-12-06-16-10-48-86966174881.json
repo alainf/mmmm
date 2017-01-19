@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-48-86966174881",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/licences/Libre/",
+  "description": "Description de Libre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Libre",
+  "nom-folder": "Libre",
+  "nom-machine": "terme-2015-12-06-16-10-48-86966174881",
+  "sous-type": "licences",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Free content"
+    ],
+    "ar": [
+      "محتوى حر"
+    ],
+    "es": [
+      "Contenido libre"
+    ],
+    "fr": [
+      "Libre"
+    ],
+    "it": [
+      "Contenuto libero"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-19-86966223565",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Sylviculture-et-autres-activites-forestieres/",
+  "description": "Description de Sylviculture et autres activités forestières",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Sylviculture et autres activités forestières",
+  "nom-folder": "Sylviculture-et-autres-activites-forestieres",
+  "nom-machine": "terme-2015-12-06-16-24-19-86966223565",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Sylviculture et autres activités forestières"
+    ]
+  }
+}

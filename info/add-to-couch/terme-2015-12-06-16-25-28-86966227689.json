@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-28-86966227689",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Organisation-de-la-production/Methodes-de-planification/Materiaux-(MRP-I)/",
+  "description": "Planification des besoins en matériaux MRP1 ",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1865,
+  "identifiant-drupal-parent": 1858,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-28",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Planification des besoins en matériaux MRP1",
+  "nom-folder": "Materiaux-(MRP-I)",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-28-86966227689"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Material requirements planning"
+    ],
+    "ar": [
+      "تخطيط الاحتياجات من المواد"
+    ],
+    "es": [
+      "Planificación de requisitos en materiales"
+    ],
+    "fr": [
+      "Planification des besoins en matériaux MRP1"
+    ],
+    "it": [
+      "Calcolo del fabbisogno di materiali"
+    ]
+  }
+}

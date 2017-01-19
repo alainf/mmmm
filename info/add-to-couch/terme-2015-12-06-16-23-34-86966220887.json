@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-34-86966220887",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-interne-de-l'entreprise/Processus-industriels/Productique/",
+  "description": "Description de Productique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270580,
+  "identifiant-drupal-parent": 270584,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-34",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Productique",
+  "nom-folder": "Productique",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-34-86966220887"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Industrial automation"
+    ],
+    "ar": [
+      "الأتمتة الصناعية"
+    ],
+    "es": [
+      "Automatización industrial"
+    ],
+    "fr": [
+      "Productique"
+    ],
+    "it": [
+      "Automazione industriale"
+    ],
+    "ru": [
+      "Промышленная автоматизация"
+    ]
+  }
+}

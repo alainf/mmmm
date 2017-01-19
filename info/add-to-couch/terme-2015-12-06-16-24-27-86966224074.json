@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-27-86966224074",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Botanique/Horticulture/Arboriculture/",
+  "description": "Description de Arboriculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 252578,
+  "identifiant-drupal-parent": 252576,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-27",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Arboriculture",
+  "nom-folder": "Arboriculture",
+  "nom-machine": "terme-2015-12-06-16-24-27-86966224074",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arboriculture"
+    ],
+    "ar": [
+      "تقليم الأشجار (زراعة الأشجار)"
+    ],
+    "es": [
+      "Arboricultura"
+    ],
+    "fr": [
+      "Arboriculture"
+    ],
+    "it": [
+      "Arboricoltura"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229142",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Comptes-d'operations-courantes/Compte-d'utilisation-du-revenu-disponible/",
+  "description": "Description de Compte d'utilisation du revenu disponible",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270956,
+  "identifiant-drupal-parent": 270951,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Compte d'utilisation du revenu disponible",
+  "nom-folder": "Compte-d'utilisation-du-revenu-disponible",
+  "nom-machine": "terme-2015-12-06-16-25-52-86966229142",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Use of disposable income account"
+    ],
+    "ar": [
+      "حساب المتاجرة"
+    ],
+    "es": [
+      "Cuenta de utilización de la renta disponible"
+    ],
+    "fr": [
+      "Compte d'utilisation du revenu disponible"
+    ],
+    "it": [
+      "Conto d'utilizzazione del reddito disponibile"
+    ]
+  }
+}

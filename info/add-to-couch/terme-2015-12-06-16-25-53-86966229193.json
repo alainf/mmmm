@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-53-86966229193",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Tableaux-de-synthese/Tableau-entrees-sorties-TES/",
+  "description": "Description de Tableau entrées-sorties TES",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270965,
+  "identifiant-drupal-parent": 270963,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-53",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Tableau entrées-sorties TES",
+  "nom-folder": "Tableau-entrees-sorties-TES",
+  "nom-machine": "terme-2015-12-06-16-25-53-86966229193",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Input-output table"
+    ],
+    "ar": [
+      "جدول المدخلات - المخرجات"
+    ],
+    "es": [
+      "Tabla de entradas-salidas"
+    ],
+    "fr": [
+      "Tableau entrées-sorties TES"
+    ],
+    "it": [
+      "Tabella di entrate-uscite"
+    ]
+  }
+}

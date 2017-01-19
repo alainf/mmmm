@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231930",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Kabbale/",
+  "description": "Description de Kabbale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466762,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Kabbale",
+  "nom-folder": "Kabbale",
+  "nom-machine": "terme-2015-12-06-16-26-38-86966231930",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Kabbalah"
+    ],
+    "ar": [
+      "قبالة (يهودية)"
+    ],
+    "es": [
+      "Cábala"
+    ],
+    "fr": [
+      "Kabbale"
+    ],
+    "it": [
+      "Kabbalah (cabala)"
+    ]
+  }
+}

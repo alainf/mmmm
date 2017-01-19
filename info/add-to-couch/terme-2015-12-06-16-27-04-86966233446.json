@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-04-86966233446",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Culture-en-sociologie/Rayonnement-culturel/",
+  "description": "Description de Rayonnement culturel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272215,
+  "identifiant-drupal-parent": 1252,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-04",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Rayonnement culturel",
+  "nom-folder": "Rayonnement-culturel",
+  "nom-machine": "terme-2015-12-06-16-27-04-86966233446",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cultural influence"
+    ],
+    "ar": [
+      "التأثير الثقافي"
+    ],
+    "es": [
+      "Influencia cultural"
+    ],
+    "fr": [
+      "Rayonnement culturel"
+    ],
+    "it": [
+      "Influenza culturale"
+    ]
+  }
+}

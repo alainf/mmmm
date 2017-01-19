@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233296",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Methodes-de-recherche-en-sociologie/Methodes-qualitatives-et-quantitatives/",
+  "description": "Description de Méthodes qualitatives et quantitatives",
+  "enfants": [
+    "terme-2015-12-06-16-27-01-86966233300",
+    "terme-2015-12-06-16-27-01-86966233303"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1221,
+  "identifiant-drupal-parent": 1188,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Méthodes qualitatives et quantitatives",
+  "nom-folder": "Methodes-qualitatives-et-quantitatives",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-01-86966233296"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Qualitative and quantitative methods"
+    ],
+    "ar": [
+      "الأساليب الكمية والنوعية"
+    ],
+    "es": [
+      "Métodos cualitativos y cuantitativos"
+    ],
+    "fr": [
+      "Méthodes qualitatives et quantitatives"
+    ],
+    "it": [
+      "Metodi qualitativi e quantitativi"
+    ]
+  }
+}

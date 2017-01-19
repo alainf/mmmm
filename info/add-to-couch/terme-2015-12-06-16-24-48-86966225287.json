@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-48-86966225287",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/Parite/",
+  "description": "Description de Parité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451305,
+  "identifiant-drupal-parent": 466798,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-48",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Parité",
+  "nom-folder": "Parite",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-48-86966225287"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Parity"
+    ],
+    "ar": [
+      "تكافؤ"
+    ],
+    "es": [
+      "Paridad"
+    ],
+    "fr": [
+      "Parité"
+    ],
+    "it": [
+      "Parità"
+    ]
+  }
+}

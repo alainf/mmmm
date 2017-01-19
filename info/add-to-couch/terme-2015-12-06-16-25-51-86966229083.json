@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229083",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-en-partie-double/",
+  "description": "Description de Comptabilité en partie double",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271273,
+  "identifiant-drupal-parent": 270934,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Comptabilité en partie double",
+  "nom-folder": "Comptabilite-en-partie-double",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229083",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Double entry bookkeeping"
+    ],
+    "ar": [
+      "محاسبة الأطراف المزدوجة"
+    ],
+    "es": [
+      "Contabilidad por partida doble"
+    ],
+    "fr": [
+      "Comptabilité en partie double"
+    ],
+    "it": [
+      "Contabilità in partita doppia"
+    ]
+  }
+}

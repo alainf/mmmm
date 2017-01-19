@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229095",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-generale-(types)/Documents-comptables/Documents-courants/Grand-livre/",
+  "description": "Description de Grand livre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270973,
+  "identifiant-drupal-parent": 270971,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Grand livre",
+  "nom-folder": "Grand-livre",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229095",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "General ledger"
+    ],
+    "ar": [
+      "دفتر الأستاذ العام"
+    ],
+    "es": [
+      "Libro mayor"
+    ],
+    "fr": [
+      "Grand livre"
+    ],
+    "it": [
+      "Libro mastro generale"
+    ],
+    "ru": []
+  }
+}

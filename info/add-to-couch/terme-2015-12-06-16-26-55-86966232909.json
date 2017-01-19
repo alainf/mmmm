@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232909",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Socialisme/Lutte-des-classes/",
+  "description": "Lutte des classes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471888,
+  "identifiant-drupal-parent": 1118,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Lutte de classes",
+  "nom-folder": "Lutte-des-classes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-55-86966232909"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Class struggle"
+    ],
+    "ar": [
+      "صراع الطبقات الاجتماعية"
+    ],
+    "es": [
+      "Lucha de clases"
+    ],
+    "fr": [
+      "Lutte de classes"
+    ],
+    "it": [
+      "Lotta di classe"
+    ]
+  }
+}

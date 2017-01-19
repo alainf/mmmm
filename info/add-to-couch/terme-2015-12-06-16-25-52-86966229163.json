@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229163",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Comptes-integres/Compte-de-patrimoine/",
+  "description": "Description de Compte de patrimoine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270962,
+  "identifiant-drupal-parent": 270950,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Compte de patrimoine",
+  "nom-folder": "Compte-de-patrimoine",
+  "nom-machine": "terme-2015-12-06-16-25-52-86966229163",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Balance sheets"
+    ],
+    "ar": [
+      "حساب الميزانية"
+    ],
+    "es": [
+      "Cuenta de patrimonio"
+    ],
+    "fr": [
+      "Compte de patrimoine"
+    ],
+    "it": [
+      "Conto patrimoniale"
+    ]
+  }
+}

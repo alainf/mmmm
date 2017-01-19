@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-14-86966226884",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Genres-journalistiques/Presse-economique/",
+  "description": "Description de Presse économique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465730,
+  "identifiant-drupal-parent": 272308,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-14",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Presse économique",
+  "nom-folder": "Presse-economique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-14-86966226884"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic press"
+    ],
+    "ar": [
+      "الصحافة الاقتصادية"
+    ],
+    "es": [
+      "Prensa Económica"
+    ],
+    "fr": [
+      "Presse économique"
+    ],
+    "it": [
+      "Stampa economica"
+    ]
+  }
+}

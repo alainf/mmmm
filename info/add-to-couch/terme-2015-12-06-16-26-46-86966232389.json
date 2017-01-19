@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232389",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Entretien-de-groupe/",
+  "description": "Description de Entretien de groupe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472146,
+  "identifiant-drupal-parent": 1220,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Entretien de groupe",
+  "nom-folder": "Entretien-de-groupe",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232389"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Group interview"
+    ],
+    "ar": [
+      "مقابلة بين المجموعة"
+    ],
+    "es": [
+      "Entrevista en grupo"
+    ],
+    "fr": [
+      "Entretien de groupe"
+    ],
+    "it": [
+      "intervista di gruppo"
+    ]
+  }
+}

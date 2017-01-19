@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-46-86966174815",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tzotzil/",
+  "description": "Description de Tzotzil",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317665,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-46",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Tzotzil",
+  "nom-folder": "Tzotzil",
+  "nom-machine": "terme-2015-12-06-16-10-46-86966174815",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Tzotzil"
+    ],
+    "ar": [
+      "تسوتسيل"
+    ],
+    "es": [
+      "Tzotzil"
+    ],
+    "fr": [
+      "Tzotzil"
+    ],
+    "it": [
+      "Tzotzil"
+    ],
+    "ru": [
+      "Цоциль"
+    ]
+  }
+}

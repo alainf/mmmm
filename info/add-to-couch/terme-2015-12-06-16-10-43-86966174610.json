@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-43-86966174610",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Kazakh/",
+  "description": "Description de Kazakh",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382368,
+  "ISO-639-1": "kk",
+  "ISO-639-2": "kaz",
+  "ISO-639-3": "kaz",
+  "mise-a-jour": "2016-05-09-16-45-48",
+  "moment-de-creation": "2015-12-06-16-10-43",
+  "moment-de-modification": "2016-02-04-05-03-55",
+  "nom": "Kazakh",
+  "nom-folder": "Kazakh",
+  "nom-machine": "terme-2015-12-06-16-10-43-86966174610",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Kazakh",
+  "nomLangues": {
+    "en": [
+      "Kazakh"
+    ],
+    "ar": [
+      "قازاقية"
+    ],
+    "es": [
+      "Kazajo"
+    ],
+    "fr": [
+      "Kazakh"
+    ],
+    "it": [
+      "Kazako"
+    ],
+    "ru": [
+      "Казахский"
+    ]
+  }
+}

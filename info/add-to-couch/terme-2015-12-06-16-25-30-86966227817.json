@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227817",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Outils-de-la-gestion-de-la-qualite/5-pourquoi-OU-5W/",
+  "description": "Description de 5 pourquoi OU 5W",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1911,
+  "identifiant-drupal-parent": 1910,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "5 pourquoi OU 5W",
+  "nom-folder": "5-pourquoi-OU-5W",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227817",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "5 whys"
+    ],
+    "ar": [
+      "الأسْئلة الخمسة"
+    ],
+    "es": [
+      "Cinco porqués"
+    ],
+    "fr": [
+      "5 pourquoi OU 5W"
+    ],
+    "it": [
+      "Regola delle 5W"
+    ]
+  }
+}

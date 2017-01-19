@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-36-86966220993",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/La-societe/Debats/Neo-liberalisme-(debats)/",
+  "description": "Description de Néo-libéralisme (débats)",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1725,
+  "identifiant-drupal-parent": 1671,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-36",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Néo-libéralisme (débats)",
+  "nom-folder": "Neo-liberalisme-(debats)",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-36-86966220993"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Neoliberalism"
+    ],
+    "ar": [
+      "الليبرالية الجديدة (المناقشات)"
+    ],
+    "es": [
+      "El neoliberalismo (debates)"
+    ],
+    "fr": [
+      "Néo-libéralisme (débats)"
+    ],
+    "it": [
+      "Neoliberalismo (dibattiti)"
+    ]
+  }
+}

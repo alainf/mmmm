@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227178",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Marche-de-l'energie/",
+  "description": "Description de Marché de l'énergie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472260,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marché de l'énergie",
+  "nom-folder": "Marche-de-l'energie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227178"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy market"
+    ],
+    "ar": [
+      "سوق الطاقة"
+    ],
+    "es": [
+      "Mercado de la energía"
+    ],
+    "fr": [
+      "Marché de l'énergie"
+    ],
+    "it": [
+      "Mercato dell'energia"
+    ]
+  }
+}

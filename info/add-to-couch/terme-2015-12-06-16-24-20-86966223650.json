@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-20-86966223650",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Life-Biomedical-Sciences/Neuroscience/",
+  "description": "Description de Neurosciences",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368171,
+  "identifiant-drupal-parent": 368145,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-20",
+  "moment-de-modification": "2015-01-04-02-27-32",
+  "nom": "Neurosciences",
+  "nom-folder": "Neuroscience",
+  "nom-machine": "terme-2015-12-06-16-24-20-86966223650",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Neuroscience"
+    ],
+    "fr": [
+      "Neurosciences"
+    ]
+  }
+}

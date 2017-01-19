@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233505",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Religiosite/",
+  "description": "Description de Religiosité",
+  "enfants": [
+    "terme-2015-12-06-16-27-05-86966233507",
+    "terme-2015-12-06-16-27-05-86966233510",
+    "terme-2015-12-06-16-27-05-86966233513",
+    "terme-2015-12-06-16-27-05-86966233516",
+    "terme-2015-12-06-16-27-05-86966233519"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1259,
+  "identifiant-drupal-parent": 1193,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Religiosité",
+  "nom-folder": "Religiosite",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-05-86966233505"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Religiosity"
+    ],
+    "ar": [
+      "الدينية"
+    ],
+    "es": [
+      "Religiosidad"
+    ],
+    "fr": [
+      "Religiosité"
+    ],
+    "it": [
+      "Religiosità"
+    ]
+  }
+}

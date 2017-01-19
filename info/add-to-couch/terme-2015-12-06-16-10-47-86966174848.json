@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174848",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/licences/CeCILL/",
+  "description": "Description de Cecill",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Cecill",
+  "nom-folder": "CeCILL",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174848",
+  "sous-type": "licences",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cecill"
+    ],
+    "ar": [
+      "سيسيل"
+    ],
+    "es": [
+      "Cecill"
+    ],
+    "fr": [
+      "Cecill"
+    ],
+    "it": [
+      "Cecill"
+    ]
+  }
+}

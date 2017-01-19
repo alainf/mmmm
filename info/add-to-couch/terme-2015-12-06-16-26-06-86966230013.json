@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-06-86966230013",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Geologie-economique/",
+  "description": "Description de Géologie économique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270819,
+  "identifiant-drupal-parent": 886,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-06",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Géologie économique",
+  "nom-folder": "Geologie-economique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-06-86966230013"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic geology"
+    ],
+    "ar": [
+      "جيولوجيا بنيوية"
+    ],
+    "es": [
+      "Geología Económica"
+    ],
+    "fr": [
+      "Géologie économique"
+    ],
+    "it": [
+      "Geologia economica"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2016-01-28-23-46-08-87242566088",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/formats/JSON/JSON-MM/",
+  "description": "JSON conforme + un couplet (attribut & valeur) par ligne.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-01-28-23-46-08",
+  "moment-de-modification": "2016-01-28-23-48-05",
+  "nom": "Json-mm",
+  "nom-folder": "JSON-MM",
+  "nom-machine": "terme-2016-01-28-23-46-08-87242566088",
+  "sous-type": "formats",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Json-mm"
+    ],
+    "ar": [
+      "جسون-مم"
+    ],
+    "es": [
+      "Json-mm"
+    ],
+    "fr": [
+      "Json-mm"
+    ],
+    "it": [
+      "Json-mm"
+    ]
+  }
+}

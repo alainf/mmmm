@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225986",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Informatique/Architecture-de-l'information/",
+  "description": "Description de Architecture de l'information",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270350,
+  "identifiant-drupal-parent": 879,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Architecture de l'information",
+  "nom-folder": "Architecture-de-l'information",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-59-86966225986"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Information Architecture"
+    ],
+    "ar": [
+      "تصميم المعلومات"
+    ],
+    "es": [
+      "Arquitectura de la información"
+    ],
+    "fr": [
+      "Architecture de l'information"
+    ],
+    "it": [
+      "architettura dell'informazione"
+    ]
+  }
+}

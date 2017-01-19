@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230558",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Fiscalite-et-droit-fiscal/Fiscalite-des-affaires/",
+  "description": "Description de Fiscalité des affaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272252,
+  "identifiant-drupal-parent": 272236,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Fiscalité des affaires",
+  "nom-folder": "Fiscalite-des-affaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-15-86966230558"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business taxation"
+    ],
+    "ar": [
+      "ضرائب الأعمال التجارية"
+    ],
+    "es": [
+      "Fiscalidad de las empresas"
+    ],
+    "fr": [
+      "Fiscalité des affaires"
+    ],
+    "it": [
+      "Fiscalità delle imprese"
+    ]
+  }
+}

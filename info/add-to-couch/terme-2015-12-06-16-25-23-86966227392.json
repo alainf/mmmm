@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-23-86966227392",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Droit-des-affaires-en-Afrique/",
+  "description": "Description de Droit des affaires en Afrique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471905,
+  "identifiant-drupal-parent": 1802,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-23",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Droit des affaires en Afrique",
+  "nom-folder": "Droit-des-affaires-en-Afrique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-23-86966227392"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business rights in Africa"
+    ],
+    "ar": [
+      "قانون الأعمال في أفريقيا"
+    ],
+    "es": [
+      "Derecho de los negocios en África"
+    ],
+    "fr": [
+      "Droit des affaires en Afrique"
+    ],
+    "it": [
+      "diritto degli affari in Africa"
+    ]
+  }
+}

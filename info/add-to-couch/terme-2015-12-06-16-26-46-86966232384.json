@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232384",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Entretien-biographique/",
+  "description": "Description de Entretien biographique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472147,
+  "identifiant-drupal-parent": 1220,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Entretien biographique",
+  "nom-folder": "Entretien-biographique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232384"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biographical interview"
+    ],
+    "ar": [
+      "مقابلة السيرة الذاتية"
+    ],
+    "es": [
+      "Entrevista biográfica"
+    ],
+    "fr": [
+      "Entretien biographique"
+    ],
+    "it": [
+      "intervista biografica"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174853",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/licences/Copyright/",
+  "description": "Description de Copyright",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2016-02-15-17-06-37",
+  "nom": "Copyright",
+  "nom-folder": "Copyright",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174853",
+  "sous-type": "licences",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Copyright"
+    ],
+    "ar": [
+      "حقوق التأليف والنشر"
+    ],
+    "es": [
+      "Copyright"
+    ],
+    "fr": [
+      "Copyright"
+    ],
+    "it": [
+      "Copyright"
+    ]
+  }
+}

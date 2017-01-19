@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-36-86966231775",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychologie-appliquee/",
+  "description": "Description de Psychologie appliquée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465741,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-36",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Psychologie appliquée",
+  "nom-folder": "Psychologie-appliquee",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-36-86966231775"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Applied psychology"
+    ],
+    "ar": [
+      "النفس التطبيقي"
+    ],
+    "es": [
+      "Psicología aplicada"
+    ],
+    "fr": [
+      "Psychologie appliquée"
+    ],
+    "it": [
+      "Psicologia applicata"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-41-86966221273",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/On-les-admire/",
+  "description": "Description de On les admire",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 452598,
+  "identifiant-drupal-parent": 270650,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-41",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "On les admire",
+  "nom-folder": "On-les-admire",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-41-86966221273"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "We admire them"
+    ],
+    "ar": [
+      "ونحن نعجب منهم"
+    ],
+    "es": [
+      "Los admiramos"
+    ],
+    "fr": [
+      "On les admire"
+    ],
+    "it": [
+      "Li ammiriamo"
+    ]
+  }
+}

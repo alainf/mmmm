@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-40-86966221210",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Les-nouvelles/Le-monde/Les conflits armes/",
+  "description": "Description de Les conflits armés",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270657,
+  "identifiant-drupal-parent": 270647,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-40",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Les conflits armés",
+  "nom-folder": "Les conflits armes",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-40-86966221210"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Armed conflicts"
+    ],
+    "ar": [
+      "الصراعات المسلحة"
+    ],
+    "es": [
+      "Los conflictos armados"
+    ],
+    "fr": [
+      "Les conflits armés"
+    ],
+    "it": [
+      "I conflitti armati"
+    ]
+  }
+}

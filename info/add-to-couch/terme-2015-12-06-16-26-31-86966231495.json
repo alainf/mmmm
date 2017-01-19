@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-26-31-86966231495",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/",
+  "description": "Philosophie, psychologie et religion",
+  "enfants": [
+    "terme-2015-12-06-16-26-31-86966231498",
+    "terme-2015-12-06-16-26-33-86966231633",
+    "terme-2015-12-06-16-26-38-86966231891"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 881,
+  "identifiant-drupal-parent": 890,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-31",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie psychologie et religion",
+  "nom-folder": "Philosophie,-psychologie-et-religion",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-31-86966231495"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Philosophy psychology and religion"
+    ],
+    "ar": [
+      "الفلسفة وعلم النفس والدين"
+    ],
+    "es": [
+      "Filosofía psicología y religión"
+    ],
+    "fr": [
+      "Philosophie psychologie et religion"
+    ],
+    "it": [
+      "Filosofia psicologia e religione"
+    ]
+  }
+}

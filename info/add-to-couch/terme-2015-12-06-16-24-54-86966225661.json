@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225661",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Relations-internationales/Defense-et-securite/Renseignement/",
+  "description": "Description de Renseignement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 454295,
+  "identifiant-drupal-parent": 451412,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Renseignement",
+  "nom-folder": "Renseignement",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225661"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intelligence"
+    ],
+    "ar": [
+      "تجسس"
+    ],
+    "es": [
+      "Espionaje"
+    ],
+    "fr": [
+      "Renseignement"
+    ],
+    "it": [
+      "spionaggio"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-11-86966226661",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Archives-et-conservation/Manuscrits-et-livres-rares/",
+  "description": "Manuscrits et livres rares ",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272320,
+  "identifiant-drupal-parent": 1560,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-11",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Manuscrits et livres rares",
+  "nom-folder": "Manuscrits-et-livres-rares",
+  "nom-machine": "terme-2015-12-06-16-25-11-86966226661",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Manuscripts and rare books"
+    ],
+    "ar": [
+      "مخطوطات وكتب نادرة"
+    ],
+    "es": [
+      "Manuscritos y libros raros"
+    ],
+    "fr": [
+      "Manuscrits et livres rares"
+    ],
+    "it": [
+      "Manoscritti e libri rari"
+    ]
+  }
+}

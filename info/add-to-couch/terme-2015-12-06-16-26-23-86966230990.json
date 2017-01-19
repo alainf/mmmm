@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966230990",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Arctique-et-subarctique/",
+  "description": "Description de Arctique et subarctique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471554,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Arctique et subarctique",
+  "nom-folder": "Arctique-et-subarctique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-23-86966230990"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arctic and subarctic"
+    ],
+    "ar": [
+      "القطب الشمالي وشبه القطب الشمالي"
+    ],
+    "es": [
+      "Ártico y subártico"
+    ],
+    "fr": [
+      "Arctique et subarctique"
+    ],
+    "it": [
+      "Artide e subartico"
+    ]
+  }
+}

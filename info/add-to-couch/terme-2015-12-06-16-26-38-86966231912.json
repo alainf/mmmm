@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231912",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Christianisme/",
+  "description": "Description de Christianisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466758,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Christianisme",
+  "nom-folder": "Christianisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-38-86966231912"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Christianity"
+    ],
+    "ar": [
+      "مسيحية"
+    ],
+    "es": [
+      "Cristianismo"
+    ],
+    "fr": [
+      "Christianisme"
+    ],
+    "it": [
+      "cristianesimo"
+    ]
+  }
+}

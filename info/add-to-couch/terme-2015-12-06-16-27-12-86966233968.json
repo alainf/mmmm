@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-27-12-86966233968",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/evenement/festival-pow-wow/",
+  "description": "Description de Festival pow wow",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380443,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Festival pow wow",
+  "nom-folder": "festival-pow-wow",
+  "nom-machine": "terme-2015-12-06-16-27-12-86966233968",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Festival, pow wow"
+    ],
+    "ar": [
+      "مهرجان"
+    ],
+    "es": [
+      "Festival, pow wow"
+    ],
+    "fr": [
+      "Festival pow wow"
+    ],
+    "it": [
+      "Festival, pow wow"
+    ]
+  }
+}

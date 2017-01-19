@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227097",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Ethique-des-affaires/",
+  "description": "Description de Éthique des affaires",
+  "enfants": [
+    "terme-2015-12-06-16-25-18-86966227100"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471940,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Éthique des affaires",
+  "nom-folder": "Ethique-des-affaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227097"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Business Ethics"
+    ],
+    "ar": [
+      "أخلاقيات الأعمال"
+    ],
+    "es": [
+      "Ética en los Negocios"
+    ],
+    "fr": [
+      "Éthique des affaires"
+    ],
+    "it": [
+      "Etica degli affari"
+    ]
+  }
+}

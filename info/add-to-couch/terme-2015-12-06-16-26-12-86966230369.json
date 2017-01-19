@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230369",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-du-developpement/",
+  "description": "Description de Économie du développement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451174,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie du développement",
+  "nom-folder": "Economie-du-developpement",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-12-86966230369"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of development"
+    ],
+    "ar": [
+      "اقتصاديات التنمية"
+    ],
+    "es": [
+      "Economía del Desarrollo"
+    ],
+    "fr": [
+      "Économie du développement"
+    ],
+    "it": [
+      "Economia dello sviluppo"
+    ]
+  }
+}

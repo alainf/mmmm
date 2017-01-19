@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-40-03-87275160204",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Turkmen/",
+  "description": "Description de Turkmène",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "tk",
+  "ISO-639-2": "tuk",
+  "ISO-639-3": "tuk",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-40-03",
+  "moment-de-modification": "2016-02-04-06-41-34",
+  "nom": "Turkmène",
+  "nom-folder": "Turkmen",
+  "nom-machine": "terme-2016-02-04-06-40-03-87275160204",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Turkm%C3%A8ne",
+  "nomLangues": {
+    "en": [
+      "Turkmen"
+    ],
+    "ar": [
+      "تركمانية"
+    ],
+    "es": [
+      "Turcomano"
+    ],
+    "fr": [
+      "Turkmène"
+    ],
+    "it": [
+      "Turkmeno"
+    ],
+    "ru": [
+      "Туркменский"
+    ]
+  }
+}

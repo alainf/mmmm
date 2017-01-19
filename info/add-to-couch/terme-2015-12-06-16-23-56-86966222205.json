@@ -1,0 +1,46 @@
+{
+  "_id": "terme-2015-12-06-16-23-56-86966222205",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Computer-and-Infomation-Science/",
+  "description": "Description de Computer and infomation science",
+  "enfants": [
+    "terme-2015-12-06-16-23-56-86966222208",
+    "terme-2015-12-06-16-23-56-86966222211",
+    "terme-2015-12-06-16-23-56-86966222214",
+    "terme-2015-12-06-16-23-56-86966222217",
+    "terme-2015-12-06-16-23-57-86966222220",
+    "terme-2015-12-06-16-23-57-86966222223",
+    "terme-2015-12-06-16-23-57-86966222226",
+    "terme-2015-12-06-16-23-57-86966222229",
+    "terme-2015-12-06-16-23-57-86966222232",
+    "terme-2015-12-06-16-23-57-86966222234",
+    "terme-2015-12-06-16-23-57-86966222237",
+    "terme-2015-12-06-16-23-57-86966222239",
+    "terme-2015-12-06-16-23-57-86966222243",
+    "terme-2015-12-06-16-23-57-86966222246",
+    "terme-2015-12-06-16-23-57-86966222249",
+    "terme-2015-12-06-16-23-57-86966222252",
+    "terme-2015-12-06-16-23-57-86966222254",
+    "terme-2015-12-06-16-23-57-86966222257",
+    "terme-2015-12-06-16-23-57-86966222260",
+    "terme-2015-12-06-16-23-57-86966222262",
+    "terme-2015-12-06-16-23-57-86966222265"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368888,
+  "identifiant-drupal-parent": 368787,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-56",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Computer and infomation science",
+  "nom-folder": "Computer-and-Infomation-Science",
+  "nom-machine": "terme-2015-12-06-16-23-56-86966222205",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Computer and infomation science"
+    ]
+  }
+}

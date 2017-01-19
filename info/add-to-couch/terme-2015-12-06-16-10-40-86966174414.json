@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-40-86966174414",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Abenaqui/",
+  "description": "Description de Abénaqui",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317569,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-40",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Abénaqui",
+  "nom-folder": "Abenaqui",
+  "nom-machine": "terme-2015-12-06-16-10-40-86966174414",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Abenaki"
+    ],
+    "ar": [
+      "أبناكي"
+    ],
+    "es": [
+      "Abenaki"
+    ],
+    "fr": [
+      "Abénaqui"
+    ],
+    "it": [
+      "Abenaki"
+    ],
+    "ru": [
+      "Абенаки"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-51-86966229078",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-analytique/Methodes-de-comptabilite-analytique/Methode-UVA/",
+  "description": "Méthode UVA",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270988,
+  "identifiant-drupal-parent": 270982,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-51",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Méthode Unités de valeur ajoutée UVA",
+  "nom-folder": "Methode-UVA",
+  "nom-machine": "terme-2015-12-06-16-25-51-86966229078",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Added value units method"
+    ],
+    "ar": [
+      "أسلوب محاسبة تكلفة بعد تقسيم التكاليف إلى حدات القيمة المضافة"
+    ],
+    "es": [
+      "Método de unidades de valor añadido"
+    ],
+    "fr": [
+      "Méthode Unités de valeur ajoutée UVA"
+    ],
+    "it": [
+      "Metodo delle unità di valore aggiunto"
+    ],
+    "ru": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223818",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Entretien-de-la-terre/Fertilisation/",
+  "description": "Description de Fertilisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 268978,
+  "identifiant-drupal-parent": 907,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Fertilisation",
+  "nom-folder": "Fertilisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223818"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fertilization"
+    ],
+    "ar": [
+      "تسميد"
+    ],
+    "es": [
+      "Fertilización"
+    ],
+    "fr": [
+      "Fertilisation"
+    ],
+    "it": [
+      "fertilizzazione"
+    ]
+  }
+}

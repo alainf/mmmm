@@ -1,0 +1,48 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221523",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-vivants/",
+  "description": "Description de Arts vivants",
+  "enfants": [
+    "terme-2015-12-06-16-23-45-86966221525",
+    "terme-2015-12-06-16-23-45-86966221528",
+    "terme-2015-12-06-16-23-45-86966221531",
+    "terme-2015-12-06-16-23-45-86966221534",
+    "terme-2015-12-06-16-23-45-86966221537",
+    "terme-2015-12-06-16-23-45-86966221540"
+  ],
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270606,
+  "identifiant-drupal-parent": 1665,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Arts vivants",
+  "nom-folder": "Arts-vivants",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-45-86966221523"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Performing arts"
+    ],
+    "ar": [
+      "الفنون المسرحية"
+    ],
+    "es": [
+      "Artes escénicas"
+    ],
+    "fr": [
+      "Arts vivants"
+    ],
+    "it": [
+      "Arti dello spettacolo"
+    ],
+    "ru": [
+      "Исполнительское искусство"
+    ]
+  }
+}

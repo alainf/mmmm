@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-49-86966228989",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Histoire-de-la-comptabilite/",
+  "description": "Description de Histoire de la comptabilité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270933,
+  "identifiant-drupal-parent": 270916,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-49",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Histoire de la comptabilité",
+  "nom-folder": "Histoire-de-la-comptabilite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-49-86966228989"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of accounting"
+    ],
+    "ar": [
+      "تاريخ المحاسبة"
+    ],
+    "es": [
+      "Historia de la contabilidad"
+    ],
+    "fr": [
+      "Histoire de la comptabilité"
+    ],
+    "it": [
+      "Storia della contabilità"
+    ]
+  }
+}

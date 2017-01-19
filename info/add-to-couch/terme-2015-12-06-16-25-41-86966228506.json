@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228506",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-agricole-(secteurs)/Entreprises-agricoles-et-mondialisation/",
+  "description": "Description de Entreprises agricoles et mondialisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2202,
+  "identifiant-drupal-parent": 2190,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Entreprises agricoles et mondialisation",
+  "nom-folder": "Entreprises-agricoles-et-mondialisation",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-41-86966228506"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Farm Business and Globalization"
+    ],
+    "ar": [
+      "مقاولات الزراعية و العولمة"
+    ],
+    "es": [
+      "Empresas agrícolas y globalización"
+    ],
+    "fr": [
+      "Entreprises agricoles et mondialisation"
+    ],
+    "it": [
+      "Imprese agricole e globalizzazione"
+    ]
+  }
+}

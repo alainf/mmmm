@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226803",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Industries-creatives/Economie-des-industries-creatives/",
+  "description": "Description de Économie des industries créatives",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466836,
+  "identifiant-drupal-parent": 466834,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Économie des industries créatives",
+  "nom-folder": "Economie-des-industries-creatives",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-13-86966226803"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of the creative industries"
+    ],
+    "ar": [
+      "اقتصاديات الصناعات الابداعية"
+    ],
+    "es": [
+      "Economía de las industrias creativas"
+    ],
+    "fr": [
+      "Économie des industries créatives"
+    ],
+    "it": [
+      "Economia delle industrie creative"
+    ]
+  }
+}

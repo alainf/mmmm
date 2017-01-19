@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223797",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Conservation-et-protection-du-sol/",
+  "description": "Description de Conservation et protection du sol",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 902,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Conservation et protection du sol",
+  "nom-folder": "Conservation-et-protection-du-sol",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223797"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Soil conservation and protection"
+    ],
+    "ar": [
+      "حفظ وحماية التربة"
+    ],
+    "es": [
+      "Conservación y protección del suelo"
+    ],
+    "fr": [
+      "Conservation et protection du sol"
+    ],
+    "it": [
+      "Conservazione e protezione del suolo"
+    ]
+  }
+}

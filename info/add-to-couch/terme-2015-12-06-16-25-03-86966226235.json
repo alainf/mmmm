@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226235",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/Semantique/Extraction-de-relations/",
+  "description": "Description de Extraction de relations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472520,
+  "identifiant-drupal-parent": 270400,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Extraction de relations",
+  "nom-folder": "Extraction-de-relations",
+  "nom-machine": "terme-2015-12-06-16-25-03-86966226235",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Relationship extraction"
+    ],
+    "ar": [
+      "إستخراج العلاقات"
+    ],
+    "es": [
+      "Extracción de relaciones"
+    ],
+    "fr": [
+      "Extraction de relations"
+    ],
+    "it": [
+      "Estrazione di relazioni"
+    ],
+    "ru": []
+  }
+}

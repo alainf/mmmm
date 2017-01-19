@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229602",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Commandite/Programme-d'image-corporative-integre/",
+  "description": "Description de Programme d'image corporative intégré",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272196,
+  "identifiant-drupal-parent": 2050,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Programme d'image corporative intégré",
+  "nom-folder": "Programme-d'image-corporative-integre",
+  "nom-machine": "terme-2015-12-06-16-26-00-86966229602",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Integrated corporate image program"
+    ],
+    "ar": [
+      "برنامج متكامل صورة الشركات"
+    ],
+    "es": [
+      "Programa de imagen corporativa integrado"
+    ],
+    "fr": [
+      "Programme d'image corporative intégré"
+    ],
+    "it": [
+      "Programma integrato d'immagine aziendale"
+    ]
+  }
+}

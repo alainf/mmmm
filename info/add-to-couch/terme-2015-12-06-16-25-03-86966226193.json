@@ -1,0 +1,56 @@
+{
+  "_id": "terme-2015-12-06-16-25-03-86966226193",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Linguistique/",
+  "description": "Description de Linguistique",
+  "enfants": [
+    "terme-2015-12-06-16-25-03-86966226197",
+    "terme-2015-12-06-16-25-03-86966226199",
+    "terme-2015-12-06-16-25-03-86966226202",
+    "terme-2015-12-06-16-25-03-86966226205",
+    "terme-2015-12-06-16-25-03-86966226208",
+    "terme-2015-12-06-16-25-03-86966226211",
+    "terme-2015-12-06-16-25-03-86966226214",
+    "terme-2015-12-06-16-25-03-86966226216",
+    "terme-2015-12-06-16-25-03-86966226219",
+    "terme-2015-12-06-16-25-03-86966226222",
+    "terme-2015-12-06-16-25-03-86966226225",
+    "terme-2015-12-06-16-25-03-86966226227",
+    "terme-2015-12-06-16-25-03-86966226230",
+    "terme-2015-12-06-16-25-03-86966226239",
+    "terme-2015-12-06-16-25-04-86966226241",
+    "terme-2015-12-06-16-25-04-86966226244",
+    "terme-2015-12-06-16-25-04-86966226247"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270393,
+  "identifiant-drupal-parent": 880,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-03",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Linguistique",
+  "nom-folder": "Linguistique",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-03-86966226193"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Linguistics"
+    ],
+    "ar": [
+      "لسانيات"
+    ],
+    "es": [
+      "Lingüística"
+    ],
+    "fr": [
+      "Linguistique"
+    ],
+    "it": [
+      "Linguistica"
+    ]
+  }
+}

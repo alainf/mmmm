@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-43-86966225037",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musees/Animation-en-musee/",
+  "description": "Description de Animation en musée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466983,
+  "identifiant-drupal-parent": 466982,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-43",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Animation en musée",
+  "nom-folder": "Animation-en-musee",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-43-86966225037"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Animation in museum"
+    ],
+    "ar": [
+      "التنشيط السياحي في متحف"
+    ],
+    "es": [
+      "Animación en museo"
+    ],
+    "fr": [
+      "Animation en musée"
+    ],
+    "it": [
+      "Animazione nel museo"
+    ]
+  }
+}

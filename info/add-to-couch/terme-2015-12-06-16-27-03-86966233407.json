@@ -1,0 +1,54 @@
+{
+  "_id": "terme-2015-12-06-16-27-03-86966233407",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Culture-en-sociologie/",
+  "description": "Description de Culture en sociologie",
+  "enfants": [
+    "terme-2015-12-06-16-27-03-86966233410",
+    "terme-2015-12-06-16-27-03-86966233413",
+    "terme-2015-12-06-16-27-03-86966233416",
+    "terme-2015-12-06-16-27-03-86966233419",
+    "terme-2015-12-06-16-27-03-86966233422",
+    "terme-2015-12-06-16-27-03-86966233425",
+    "terme-2015-12-06-16-27-03-86966233428",
+    "terme-2015-12-06-16-27-03-86966233431",
+    "terme-2015-12-06-16-27-03-86966233434",
+    "terme-2015-12-06-16-27-03-86966233437",
+    "terme-2015-12-06-16-27-04-86966233444",
+    "terme-2015-12-06-16-27-04-86966233446",
+    "terme-2015-12-06-16-27-04-86966233449",
+    "terme-2015-12-06-16-27-04-86966233452",
+    "terme-2015-12-06-16-27-04-86966233455"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1252,
+  "identifiant-drupal-parent": 1193,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-03",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Culture en sociologie",
+  "nom-folder": "Culture-en-sociologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-03-86966233407"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Culture in sociology"
+    ],
+    "ar": [
+      "الثقافة فِي علم الاجتماع"
+    ],
+    "es": [
+      "Cultura en sociología"
+    ],
+    "fr": [
+      "Culture en sociologie"
+    ],
+    "it": [
+      "cultura nella sociologia"
+    ]
+  }
+}

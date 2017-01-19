@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-07-86966226429",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Recherche-institutionnelle/",
+  "description": "Description de Recherche institutionnelle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465804,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-07",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Recherche institutionnelle",
+  "nom-folder": "Recherche-institutionnelle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-07-86966226429"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Institutional Research"
+    ],
+    "ar": [
+      "البحوث المؤسسية"
+    ],
+    "es": [
+      "Investigación Institucional"
+    ],
+    "fr": [
+      "Recherche institutionnelle"
+    ],
+    "it": [
+      "ricerca istituzionale"
+    ]
+  }
+}

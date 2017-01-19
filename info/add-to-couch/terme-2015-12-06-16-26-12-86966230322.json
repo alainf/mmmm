@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230322",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-de-la-publication-scientifique/",
+  "description": "Description de Économie de la publication scientifique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472164,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie de la publication scientifique",
+  "nom-folder": "Economie-de-la-publication-scientifique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-12-86966230322"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economics of scientific publication"
+    ],
+    "ar": [
+      "اقتصاد نشر العلمي"
+    ],
+    "es": [
+      "Economía de la publicación científica"
+    ],
+    "fr": [
+      "Économie de la publication scientifique"
+    ],
+    "it": [
+      "Economia della pubblicazione scientifica"
+    ]
+  }
+}

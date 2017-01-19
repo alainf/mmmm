@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-25-13-86966226821",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Industries-creatives/Theories-des-industries-creatives/",
+  "description": "Description de Théories des industries créatives",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466840,
+  "identifiant-drupal-parent": 466834,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-13",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Théories des industries créatives",
+  "nom-folder": "Theories-des-industries-creatives",
+  "nom-machine": "terme-2015-12-06-16-25-13-86966226821",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories of creative industries"
+    ],
+    "ar": [
+      "نظريات الصناعات الإبداعية"
+    ],
+    "es": [
+      "Teorías de las industrias creativas"
+    ],
+    "fr": [
+      "Théories des industries créatives"
+    ],
+    "it": [
+      "Teorie delle industrie creative"
+    ],
+    "ru": []
+  }
+}

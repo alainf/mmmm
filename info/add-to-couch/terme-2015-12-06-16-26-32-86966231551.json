@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-32-86966231551",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-critique-des-normes/",
+  "description": "Description de Philosophie critique des normes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472072,
+  "identifiant-drupal-parent": 270366,
+  "mise-a-jour": "2016-05-09-16-46-32",
+  "moment-de-creation": "2015-12-06-16-26-32",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Philosophie critique des normes",
+  "nom-folder": "Philosophie-critique-des-normes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-32-86966231551"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Critical philosophy of standards"
+    ],
+    "ar": [
+      "فلسفة حرجة من المعايير"
+    ],
+    "es": [
+      "Filosofía crítica de las normas"
+    ],
+    "fr": [
+      "Philosophie critique des normes"
+    ],
+    "it": [
+      "filosofia critica delle norme"
+    ]
+  }
+}

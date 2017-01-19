@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-52-86966229172",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-nationale/Mesure-des-flux-monetaires/",
+  "description": "Description de Mesure des flux monétaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270943,
+  "identifiant-drupal-parent": 270940,
+  "mise-a-jour": "2016-05-09-16-46-23",
+  "moment-de-creation": "2015-12-06-16-25-52",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Mesure des flux monétaires",
+  "nom-folder": "Mesure-des-flux-monetaires",
+  "nom-machine": "terme-2015-12-06-16-25-52-86966229172",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Measuring monetary flows"
+    ],
+    "ar": [
+      "تدابير للتدفقات النقدية"
+    ],
+    "es": [
+      "Medida de los flujos de efectivo"
+    ],
+    "fr": [
+      "Mesure des flux monétaires"
+    ],
+    "it": [
+      "Misurazione dei flussi monetari"
+    ]
+  }
+}

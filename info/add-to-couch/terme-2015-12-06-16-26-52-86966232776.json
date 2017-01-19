@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-52-86966232776",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Democratie-(ideologie)/",
+  "description": "Description de Démocratie (idéologie)",
+  "enfants": [
+    "terme-2015-12-06-16-26-52-86966232778",
+    "terme-2015-12-06-16-26-53-86966232781",
+    "terme-2015-12-06-16-26-53-86966232784",
+    "terme-2015-12-06-16-26-53-86966232787",
+    "terme-2015-12-06-16-26-53-86966232790"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1113,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-52",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Démocratie (idéologie)",
+  "nom-folder": "Democratie-(ideologie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-52-86966232776"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Democracy (ideology)"
+    ],
+    "ar": [
+      "ديمقراطية (إيديولوجية)"
+    ],
+    "es": [
+      "Democracia (ideología)"
+    ],
+    "fr": [
+      "Démocratie (idéologie)"
+    ],
+    "it": [
+      "Democrazia (ideologia)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227117",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Immobilier/Immobilier-d'affaires/",
+  "description": "Description de Immobilier d'affaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455411,
+  "identifiant-drupal-parent": 272225,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Immobilier d'affaires",
+  "nom-folder": "Immobilier-d'affaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227117"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Corporate real estate"
+    ],
+    "ar": [
+      "عقارات تجارية"
+    ],
+    "es": [
+      "Inmuebles corporativos"
+    ],
+    "fr": [
+      "Immobilier d'affaires"
+    ],
+    "it": [
+      "Immobiliare corporativo"
+    ]
+  }
+}

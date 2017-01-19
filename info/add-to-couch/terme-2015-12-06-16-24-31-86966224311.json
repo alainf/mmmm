@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-31-86966224311",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Zootechnie-(agriculture)/Metiers-de-la-zootechnie/",
+  "description": "Description de Métiers de la zootechnie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269026,
+  "identifiant-drupal-parent": 940,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-31",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Métiers de la zootechnie",
+  "nom-folder": "Metiers-de-la-zootechnie",
+  "nom-machine": "terme-2015-12-06-16-24-31-86966224311",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Occupations in Animal Science"
+    ],
+    "ar": [
+      "مهن علم الحيوان"
+    ],
+    "es": [
+      "Ocupaciones en ciencia animal"
+    ],
+    "fr": [
+      "Métiers de la zootechnie"
+    ],
+    "it": [
+      "mestieri della zootecnia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229666",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-du-sport/",
+  "description": "Description de Marketing du sport",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451406,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing du sport",
+  "nom-folder": "Marketing-du-sport",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-01-86966229666"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sports Marketing"
+    ],
+    "ar": [
+      "التسويق الرياضي"
+    ],
+    "es": [
+      "Patrocinio deportivo"
+    ],
+    "fr": [
+      "Marketing du sport"
+    ],
+    "it": [
+      "Marketing sportivo"
+    ]
+  }
+}

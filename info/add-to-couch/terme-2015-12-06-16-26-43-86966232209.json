@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232209",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Ethnologie/Ethnomusicologie/",
+  "description": "Description de Ethnomusicologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1028,
+  "identifiant-drupal-parent": 1027,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Ethnomusicologie",
+  "nom-folder": "Ethnomusicologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232209"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ethnomusicology"
+    ],
+    "ar": [
+      "علم الموسيقى العرقي"
+    ],
+    "es": [
+      "Etnomusicología"
+    ],
+    "fr": [
+      "Ethnomusicologie"
+    ],
+    "it": [
+      "etnomusicologia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-56-86966229392",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Economie-des-organisations/Constitution-de-trusts/",
+  "description": "Description de Constitution de trusts",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472216,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-56",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Constitution de trusts",
+  "nom-folder": "Constitution-de-trusts",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-56-86966229392"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Constitution of trusts"
+    ],
+    "ar": [
+      "دستور اتحاد إحتكارِي"
+    ],
+    "es": [
+      "Constitución de trust"
+    ],
+    "fr": [
+      "Constitution de trusts"
+    ],
+    "it": [
+      "Costituzione di trust"
+    ]
+  }
+}

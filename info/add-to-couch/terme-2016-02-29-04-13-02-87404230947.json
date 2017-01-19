@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2016-02-29-04-13-02-87404230947",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/comment-ecrire/",
+  "description": "Description de Comment écrire",
+  "enfants": [
+    "terme-2016-02-29-04-15-02-87404238131",
+    "terme-2016-02-29-04-19-49-87404255383"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-13-02",
+  "moment-de-modification": "2016-02-29-04-14-28",
+  "nom": "Comment écrire",
+  "nom-folder": "comment-ecrire",
+  "nom-machine": "terme-2016-02-29-04-13-02-87404230947",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "How to write"
+    ],
+    "fr": [
+      "Comment écrire"
+    ]
+  }
+}

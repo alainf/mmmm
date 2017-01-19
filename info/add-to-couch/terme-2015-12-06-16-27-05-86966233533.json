@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233533",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Sante-(sociologie)/Depression-(sante)/",
+  "description": "Description de Dépression (santé)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1300,
+  "identifiant-drupal-parent": 1260,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Dépression (santé)",
+  "nom-folder": "Depression-(sante)",
+  "nom-machine": "terme-2015-12-06-16-27-05-86966233533",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Depression (Health)"
+    ],
+    "ar": [
+      "الاكتئاب (الصحة)"
+    ],
+    "es": [
+      "Depresión (salud)"
+    ],
+    "fr": [
+      "Dépression (santé)"
+    ],
+    "it": [
+      "Depressione (salute)"
+    ]
+  }
+}

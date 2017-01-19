@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966223984",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Pisciculture/Elevage-de-poisson-et-environnement/",
+  "description": "Description de Élevage de poisson et environnement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269068,
+  "identifiant-drupal-parent": 934,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Élevage de poisson et environnement",
+  "nom-folder": "Elevage-de-poisson-et-environnement",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-26-86966223984"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fish farming and the environment"
+    ],
+    "ar": [
+      "تربية الأسماك والبيئة"
+    ],
+    "es": [
+      "Cultivo de peces y medio ambiente"
+    ],
+    "fr": [
+      "Élevage de poisson et environnement"
+    ],
+    "it": [
+      "Allevamento di pesce e ambiente"
+    ]
+  }
+}

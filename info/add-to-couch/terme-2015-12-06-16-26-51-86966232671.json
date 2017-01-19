@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-51-86966232671",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Actualites-politiques/Terrorisme-et-antiterrorisme/",
+  "description": "Description de Terrorisme et antiterrorisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455688,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-51",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Terrorisme et antiterrorisme",
+  "nom-folder": "Terrorisme-et-antiterrorisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-51-86966232671"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Terrorism et anti-terrorism"
+    ],
+    "ar": [
+      "الإرهاب ومكافحة الإرهاب"
+    ],
+    "es": [
+      "Terrorismo y Contraterrorismo"
+    ],
+    "fr": [
+      "Terrorisme et antiterrorisme"
+    ],
+    "it": [
+      "Terrorismo e antiterrorismo"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-08-86966230117",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Mineralogie/Extraction-de-minerais-non-metalliques/Extraction-de-granite/",
+  "description": "Description de Extraction de granite",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451079,
+  "identifiant-drupal-parent": 451077,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-08",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Extraction de granite",
+  "nom-folder": "Extraction-de-granite",
+  "nom-machine": "terme-2015-12-06-16-26-08-86966230117",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Granite mining"
+    ],
+    "ar": [
+      "إستخراج الجرانيت"
+    ],
+    "es": [
+      "Minería de granito"
+    ],
+    "fr": [
+      "Extraction de granite"
+    ],
+    "it": [
+      "Estrazione di granito"
+    ]
+  }
+}

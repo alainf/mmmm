@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-23-29-86966220571",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/roles/membre-du-CSI/",
+  "description": "Description de Membre du csi",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2015-12-06-16-23-29",
+  "moment-de-modification": "2015-01-04-02-27-55",
+  "nom": "Membre du csi",
+  "nom-folder": "membre-du-CSI",
+  "nom-machine": "terme-2015-12-06-16-23-29-86966220571",
+  "sous-type": "roles",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Csi member"
+    ],
+    "ar": [
+      "عضو في منظمة التضامن المسيحي الدولية"
+    ],
+    "es": [
+      "Miembro del csi"
+    ],
+    "fr": [
+      "Membre du csi"
+    ],
+    "it": [
+      "Membro del csi"
+    ]
+  }
+}

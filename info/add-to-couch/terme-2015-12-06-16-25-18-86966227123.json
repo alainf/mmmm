@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-18-86966227123",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Immobilier/Recherches-sur-l'immobilier/",
+  "description": "Description de Recherches sur l'immobilier",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455413,
+  "identifiant-drupal-parent": 272225,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-18",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Recherches sur l'immobilier",
+  "nom-folder": "Recherches-sur-l'immobilier",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-18-86966227123"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research on real estate"
+    ],
+    "ar": [
+      "البحث عن العقارات"
+    ],
+    "es": [
+      "Investigación en bienes inmuebles"
+    ],
+    "fr": [
+      "Recherches sur l'immobilier"
+    ],
+    "it": [
+      "Ricerche immobiliari"
+    ]
+  }
+}

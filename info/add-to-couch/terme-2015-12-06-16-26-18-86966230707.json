@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-18-86966230707",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Astronomie/Astronomie-optique/",
+  "description": "Description de Astronomie optique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270773,
+  "identifiant-drupal-parent": 270765,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-18",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Astronomie optique",
+  "nom-folder": "Astronomie-optique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-18-86966230707"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Optical Astronomy"
+    ],
+    "ar": [
+      "علم الفلك البصري"
+    ],
+    "es": [
+      "Astronomía óptica"
+    ],
+    "fr": [
+      "Astronomie optique"
+    ],
+    "it": [
+      "astronomia ottica"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_id": "terme-2015-12-06-16-25-48-86966228911",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Organisation-du-travail/",
+  "description": "Description de Organisation du travail",
+  "enfants": [
+    "terme-2015-12-06-16-25-48-86966228915",
+    "terme-2015-12-06-16-25-48-86966228918",
+    "terme-2015-12-06-16-25-48-86966228921",
+    "terme-2015-12-06-16-25-48-86966228923"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2132,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-48",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Organisation du travail",
+  "nom-folder": "Organisation-du-travail",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-48-86966228911"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organisation of work"
+    ],
+    "ar": [
+      "منظمة العمل"
+    ],
+    "es": [
+      "Organización del trabajo"
+    ],
+    "fr": [
+      "Organisation du travail"
+    ],
+    "it": [
+      "organizzazione del lavoro"
+    ]
+  }
+}

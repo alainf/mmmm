@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-26-06-86966229990",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-sante/",
+  "description": "Description de Sciences de la santé",
+  "enfants": [
+    "terme-2015-12-06-16-26-06-86966229993",
+    "terme-2015-12-06-16-26-06-86966229995",
+    "terme-2015-12-06-16-26-06-86966229998",
+    "terme-2015-12-06-16-26-06-86966230001",
+    "terme-2015-12-06-16-26-06-86966230004"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469764,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-06",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Sciences de la santé",
+  "nom-folder": "Sciences-de-la-sante",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-06-86966229990"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Healthcare science"
+    ],
+    "ar": [
+      "علوم الصحة"
+    ],
+    "es": [
+      "Ciencias de la Salud"
+    ],
+    "fr": [
+      "Sciences de la santé"
+    ],
+    "it": [
+      "Scienze della salute"
+    ]
+  }
+}

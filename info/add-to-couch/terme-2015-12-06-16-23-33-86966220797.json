@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220797",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/L'entreprise-et-l'altermondialisme/",
+  "description": "Description de L'entreprise et l'altermondialisme",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270478,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "L'entreprise et l'altermondialisme",
+  "nom-folder": "L'entreprise-et-l'altermondialisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-33-86966220797"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Enterprise and alter-globalization"
+    ],
+    "ar": [
+      "الشركة والتيرموندياليسم"
+    ],
+    "es": [
+      "La empresa y altermundialismo"
+    ],
+    "fr": [
+      "L'entreprise et l'altermondialisme"
+    ],
+    "it": [
+      "Imprese e alter-globalizzazione"
+    ],
+    "ru": [
+      "Коммерческая организация и Альтерглобализм"
+    ]
+  }
+}

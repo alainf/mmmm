@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-05-86966222707",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Law/Energy-and-Natural-Resources-Law/",
+  "description": "Description de Energy and natural resources law",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369056,
+  "identifiant-drupal-parent": 369048,
+  "mise-a-jour": "2016-05-09-16-45-59",
+  "moment-de-creation": "2015-12-06-16-24-05",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Energy and natural resources law",
+  "nom-folder": "Energy-and-Natural-Resources-Law",
+  "nom-machine": "terme-2015-12-06-16-24-05-86966222707",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Energy and natural resources law"
+    ]
+  }
+}

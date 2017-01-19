@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-37-86966231853",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Psychologie-sociale-(psychologie)/",
+  "description": "Description de Psychologie sociale (psychologie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270386,
+  "identifiant-drupal-parent": 270368,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-37",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Psychologie sociale (psychologie)",
+  "nom-folder": "Psychologie-sociale-(psychologie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-37-86966231853"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social psychology (psychology)"
+    ],
+    "ar": [
+      "علم النفس الاجتماعي (علم النفس)"
+    ],
+    "es": [
+      "Psicología Social (Psicología)"
+    ],
+    "fr": [
+      "Psychologie sociale (psychologie)"
+    ],
+    "it": [
+      "psicologia sociale (psicologia)"
+    ]
+  }
+}

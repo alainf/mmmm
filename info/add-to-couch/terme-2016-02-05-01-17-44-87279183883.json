@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-05-01-17-44-87279183883",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets//Art/Litterature/Ontologie-des-genres-litteraires/Lieu-de-l-ecriture/",
+  "description": "Description de Lieu de l'écriture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-05-01-17-44",
+  "moment-de-modification": "2016-02-05-01-18-47",
+  "nom": "Lieu de l'écriture",
+  "nom-folder": "Lieu-de-l-ecriture",
+  "nom-machine": "terme-2016-02-05-01-17-44-87279183883",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Writing site"
+    ],
+    "es": [
+      "Lugar de la escritura"
+    ],
+    "fr": [
+      "Lieu de l'écriture"
+    ],
+    "it": [
+      "Luogo della scrittura"
+    ]
+  }
+}

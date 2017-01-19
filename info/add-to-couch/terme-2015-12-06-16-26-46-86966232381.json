@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232381",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-du-discours/Stylistique/",
+  "description": "Description de Stylistique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272190,
+  "identifiant-drupal-parent": 1224,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Stylistique",
+  "nom-folder": "Stylistique",
+  "nom-machine": "terme-2015-12-06-16-26-46-86966232381",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Stylistics"
+    ],
+    "ar": [
+      "الأسلوبية"
+    ],
+    "es": [
+      "Estilística"
+    ],
+    "fr": [
+      "Stylistique"
+    ],
+    "it": [
+      "Stilistica"
+    ]
+  }
+}

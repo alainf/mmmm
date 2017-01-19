@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229776",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Recherche-en-marketing/Tendances/",
+  "description": "Description de Tendances",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471992,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Tendances",
+  "nom-folder": "Tendances",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-02-86966229776"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Trends"
+    ],
+    "ar": [
+      "الاتجاهات"
+    ],
+    "es": [
+      "Tendencias"
+    ],
+    "fr": [
+      "Tendances"
+    ],
+    "it": [
+      "tendenze"
+    ]
+  }
+}

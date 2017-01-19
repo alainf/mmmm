@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2016-01-29-16-08-44-87246103457",
+  "breadcrumb": "taxonomies/langues//Vivaro-alpin/",
+  "description": "Description de Vivaro-alpin",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-01-29-16-08-44",
+  "moment-de-modification": "2016-01-29-16-14-34",
+  "nom": "Vivaro-alpin",
+  "nom-folder": "Vivaro-alpin",
+  "nom-machine": "terme-2016-01-29-16-08-44-87246103457",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Vivaro-alpine"
+    ],
+    "es": [
+      "Vivaroalpino"
+    ],
+    "fr": [
+      "Vivaro-alpin"
+    ],
+    "it": [
+      "Vivaro-alpino"
+    ],
+    "ru": [
+      "Виваро-альпийский"
+    ]
+  }
+}

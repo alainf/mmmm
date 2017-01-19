@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966223962",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Elevage-des-crustaces/Peneiculture/",
+  "description": "Description de Pénéiculture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269065,
+  "identifiant-drupal-parent": 929,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Pénéiculture",
+  "nom-folder": "Peneiculture",
+  "nom-machine": "terme-2015-12-06-16-24-26-86966223962",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Penaeiculture"
+    ],
+    "ar": [
+      "استزراع الجمبري إمبراطوري"
+    ],
+    "es": [
+      "Cultivo de camarón imperial"
+    ],
+    "fr": [
+      "Pénéiculture"
+    ],
+    "it": [
+      "Allevamento dei gamberetti imperiali"
+    ]
+  }
+}

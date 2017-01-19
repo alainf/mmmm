@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-45-86966228709",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Privatisation-et-entreprises/",
+  "description": "Description de Privatisation et entreprises",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2222,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-45",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Privatisation et entreprises",
+  "nom-folder": "Privatisation-et-entreprises",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-45-86966228709"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Privatization and enterprise"
+    ],
+    "ar": [
+      "الخصخصة والمشاريع"
+    ],
+    "es": [
+      "Privatización y empresas"
+    ],
+    "fr": [
+      "Privatisation et entreprises"
+    ],
+    "it": [
+      "Privatizzazione e imprese"
+    ]
+  }
+}

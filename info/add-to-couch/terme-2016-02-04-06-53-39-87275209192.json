@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-53-39-87275209192",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Venda/",
+  "description": "Description de Venda",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ve",
+  "ISO-639-2": "ven",
+  "ISO-639-3": "ven",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-53-39",
+  "moment-de-modification": "2016-02-04-06-54-28",
+  "nom": "Venda",
+  "nom-folder": "Venda",
+  "nom-machine": "terme-2016-02-04-06-53-39-87275209192",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Venda_(langue)",
+  "nomLangues": {
+    "en": [
+      "Venda"
+    ],
+    "ar": [
+      "فيندية"
+    ],
+    "es": [
+      "Venda"
+    ],
+    "fr": [
+      "Venda"
+    ],
+    "it": [
+      "Venda"
+    ],
+    "ru": [
+      "Венда"
+    ]
+  }
+}

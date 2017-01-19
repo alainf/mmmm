@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-31-86966231482",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Specialites-de-la-medecine/Specialites-de-la-medecine,-par-type-de-patients/Obstetrique/",
+  "description": "Description de Obstétrique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1431,
+  "identifiant-drupal-parent": 1428,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-31",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Obstétrique",
+  "nom-folder": "Obstetrique",
+  "nom-machine": "terme-2015-12-06-16-26-31-86966231482",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Obstetrics"
+    ],
+    "ar": [
+      "طب التوليد"
+    ],
+    "es": [
+      "Obstetricia"
+    ],
+    "fr": [
+      "Obstétrique"
+    ],
+    "it": [
+      "Ostetricia"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_id": "terme-2015-12-06-16-24-32-86966224362",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Architecture/",
+  "custom-about": "terme-2015-12-06-16-24-32-86966224362",
+  "description": "Description de Architecture",
+  "enfants": [
+    "terme-2015-12-06-16-24-32-86966224365",
+    "terme-2015-12-06-16-24-32-86966224368",
+    "terme-2015-12-06-16-24-32-86966224371",
+    "terme-2015-12-06-16-24-32-86966224374",
+    "terme-2015-12-06-16-24-32-86966224377",
+    "terme-2015-12-06-16-24-32-86966224379",
+    "terme-2015-12-06-16-24-33-86966224382",
+    "terme-2015-12-06-16-24-33-86966224385",
+    "terme-2015-12-06-16-24-33-86966224388",
+    "terme-2015-12-06-16-24-33-86966224391",
+    "terme-2015-12-06-16-24-33-86966224394",
+    "terme-2015-12-06-16-24-33-86966224396",
+    "terme-2015-12-06-16-24-33-86966224399",
+    "terme-2015-12-06-16-24-33-86966224403",
+    "terme-2015-12-06-16-24-33-86966224405"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466817,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-32",
+  "moment-de-modification": "2015-12-21-11-52-28",
+  "nom": "Architecture",
+  "nom-folder": "Architecture",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-32-86966224362"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Architecture"
+    ],
+    "ar": [
+      "معماري"
+    ],
+    "es": [
+      "Arquitectura"
+    ],
+    "fr": [
+      "Architecture"
+    ],
+    "it": [
+      "architettura"
+    ]
+  }
+}

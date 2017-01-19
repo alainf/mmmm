@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-19-86966230752",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-l'univers/Theorie-du-chaos/",
+  "description": "Description de Théorie du chaos",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472005,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-19",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Théorie du chaos",
+  "nom-folder": "Theorie-du-chaos",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-19-86966230752"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Chaos theory"
+    ],
+    "ar": [
+      "نظرية الفوضى"
+    ],
+    "es": [
+      "Teoría del caos"
+    ],
+    "fr": [
+      "Théorie du chaos"
+    ],
+    "it": [
+      "Teoria del caos"
+    ]
+  }
+}

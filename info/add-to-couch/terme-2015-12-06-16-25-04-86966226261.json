@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-25-04-86966226261",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Politique/Dictature/",
+  "custom-about": "terme-2015-12-06-16-25-04-86966226261",
+  "description": "Description de Dictature",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272167,
+  "identifiant-drupal-parent": 1258,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-04",
+  "moment-de-modification": "2015-12-13-20-35-52",
+  "nom": "Dictature",
+  "nom-folder": "Dictature",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-04-86966226261"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Dictatorship"
+    ],
+    "ar": [
+      "ديكتاتورية"
+    ],
+    "es": [
+      "Dictadura"
+    ],
+    "fr": [
+      "Dictature"
+    ],
+    "it": [
+      "dittatura"
+    ]
+  }
+}

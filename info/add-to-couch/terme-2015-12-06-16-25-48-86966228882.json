@@ -1,0 +1,42 @@
+{
+  "_id": "terme-2015-12-06-16-25-48-86966228882",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-du-recrutement/",
+  "description": "Description de Gestion du recrutement",
+  "enfants": [
+    "terme-2015-12-06-16-25-48-86966228886",
+    "terme-2015-12-06-16-25-48-86966228889",
+    "terme-2015-12-06-16-25-48-86966228892"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2126,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-48",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion du recrutement",
+  "nom-folder": "Gestion-du-recrutement",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-48-86966228882"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Recruitment management"
+    ],
+    "ar": [
+      "إدارة التشغيل"
+    ],
+    "es": [
+      "Gestión del reclutamiento"
+    ],
+    "fr": [
+      "Gestion du recrutement"
+    ],
+    "it": [
+      "Gestione del reclutamento"
+    ]
+  }
+}

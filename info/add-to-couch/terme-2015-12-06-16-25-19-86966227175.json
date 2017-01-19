@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-19-86966227175",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Institutions-disciplinaires/",
+  "description": "Description de Institutions disciplinaires",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471918,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-19",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Institutions disciplinaires",
+  "nom-folder": "Institutions-disciplinaires",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-19-86966227175"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Disciplinary institutions"
+    ],
+    "ar": [
+      "مؤسسات تأديبية"
+    ],
+    "es": [
+      "Instituciones disciplinarias"
+    ],
+    "fr": [
+      "Institutions disciplinaires"
+    ],
+    "it": [
+      "Istituzioni disciplinari"
+    ]
+  }
+}

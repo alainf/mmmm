@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225091",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musique/Musicologie/",
+  "description": "Description de Musicologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467001,
+  "identifiant-drupal-parent": 466993,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Musicologie",
+  "nom-folder": "Musicologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-44-86966225091"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Musicology"
+    ],
+    "ar": [
+      "علم الموسيقى"
+    ],
+    "es": [
+      "Musicología"
+    ],
+    "fr": [
+      "Musicologie"
+    ],
+    "it": [
+      "musicologia"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "terme-2016-02-29-04-50-37-87404366221",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/par-quoi-commencer/etablir-les-grandes-lignes-du-recit/envisager-des-chapitres/",
+  "description": "Description de Envisager des chapitres",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-50-37",
+  "moment-de-modification": "2016-02-29-04-51-16",
+  "nom": "Envisager des chapitres",
+  "nom-folder": "envisager-des-chapitres",
+  "nom-machine": "terme-2016-02-29-04-50-37-87404366221",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Consider chapters"
+    ],
+    "fr": [
+      "Envisager des chapitres"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-00-86966229654",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Marketing-des-services-de-transport/",
+  "description": "Description de Marketing des services de transport",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2063,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-00",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Marketing des services de transport",
+  "nom-folder": "Marketing-des-services-de-transport",
+  "nom-machine": "terme-2015-12-06-16-26-00-86966229654",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Transportation services marketing"
+    ],
+    "ar": [
+      "تسويق خدمات النقل"
+    ],
+    "es": [
+      "Marketing de Servicios de Transporte"
+    ],
+    "fr": [
+      "Marketing des services de transport"
+    ],
+    "it": [
+      "Commercializzazione dei servizi di trasporto"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-06-86966229995",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-sante/Sexologie/",
+  "description": "Description de Sexologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469994,
+  "identifiant-drupal-parent": 469764,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-06",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Sexologie",
+  "nom-folder": "Sexologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-06-86966229995"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sexology"
+    ],
+    "ar": [
+      "علم الجنس"
+    ],
+    "es": [
+      "Sexología"
+    ],
+    "fr": [
+      "Sexologie"
+    ],
+    "it": [
+      "sessuologia"
+    ]
+  }
+}

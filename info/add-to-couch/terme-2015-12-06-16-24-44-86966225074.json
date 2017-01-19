@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225074",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musique/Industrie-de-la-musique/Autres-industries-de-l'enregistrement-sonore/",
+  "description": "Autres industries de l'enregistrement sonore",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466995,
+  "identifiant-drupal-parent": 466994,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Autres industries de l’enregistrement sonore",
+  "nom-folder": "Autres-industries-de-l'enregistrement-sonore",
+  "nom-machine": "terme-2015-12-06-16-24-44-86966225074",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Other sound recording industries"
+    ],
+    "ar": [
+      "صناعات تسجيل الصوت الأخرى"
+    ],
+    "es": [
+      "Otras industrias de grabación de sonido"
+    ],
+    "fr": [
+      "Autres industries de l’enregistrement sonore"
+    ],
+    "it": [
+      "Altre industrie di registrazione del suono"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-05-86966233540",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Sante-(sociologie)/Sante-dans-les-sciences-sociales/",
+  "description": "Description de Santé dans les sciences sociales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465727,
+  "identifiant-drupal-parent": 1260,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-05",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Santé dans les sciences sociales",
+  "nom-folder": "Sante-dans-les-sciences-sociales",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-05-86966233540"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Health in the social sciences"
+    ],
+    "ar": [
+      "الصحة فى العلوم الاجتماعية"
+    ],
+    "es": [
+      "Salud en Ciencias Sociales"
+    ],
+    "fr": [
+      "Santé dans les sciences sociales"
+    ],
+    "it": [
+      "Salute nelle scienze sociali"
+    ]
+  }
+}

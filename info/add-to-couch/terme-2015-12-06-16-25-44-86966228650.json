@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-44-86966228650",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management/Systemes-de-planification/",
+  "description": "Description de Systèmes de planification",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472312,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-44",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Systèmes de planification",
+  "nom-folder": "Systemes-de-planification",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-44-86966228650"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Planning systems"
+    ],
+    "ar": [
+      "نظم التخطيط"
+    ],
+    "es": [
+      "Sistemas de planificación"
+    ],
+    "fr": [
+      "Systèmes de planification"
+    ],
+    "it": [
+      "Sistemi di pianificazione"
+    ]
+  }
+}

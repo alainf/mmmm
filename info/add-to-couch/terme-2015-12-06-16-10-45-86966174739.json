@@ -1,0 +1,34 @@
+{
+  "_id": "terme-2015-12-06-16-10-45-86966174739",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Pied-noir/",
+  "description": "Description de Pied-noir",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317644,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-45",
+  "moment-de-modification": "2015-01-04-02-27-57",
+  "nom": "Pied-noir",
+  "nom-folder": "Pied-noir",
+  "nom-machine": "terme-2015-12-06-16-10-45-86966174739",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Blackfoot"
+    ],
+    "es": [
+      "Siksiká"
+    ],
+    "fr": [
+      "Pied-noir"
+    ],
+    "it": [
+      "Piedi neri"
+    ],
+    "ru": [
+      "Блэкфут"
+    ]
+  }
+}

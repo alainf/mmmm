@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-59-86966222345",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Economics/Cultural-Economics/",
+  "description": "Description de Cultural economics",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368934,
+  "identifiant-drupal-parent": 368932,
+  "mise-a-jour": "2016-05-09-16-45-58",
+  "moment-de-creation": "2015-12-06-16-23-59",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Cultural economics",
+  "nom-folder": "Cultural-Economics",
+  "nom-machine": "terme-2015-12-06-16-23-59-86966222345",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Cultural economics"
+    ]
+  }
+}

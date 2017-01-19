@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-44-86966174669",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Mongol/",
+  "description": "Description de Mongol",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382378,
+  "ISO-639-1": "mn",
+  "ISO-639-2": "mon",
+  "ISO-639-3": "mon",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-44",
+  "moment-de-modification": "2016-02-04-05-30-00",
+  "nom": "Mongol",
+  "nom-folder": "Mongol",
+  "nom-machine": "terme-2015-12-06-16-10-44-86966174669",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Mongol",
+  "nomLangues": {
+    "en": [
+      "Mongolian"
+    ],
+    "ar": [
+      "منغولية"
+    ],
+    "es": [
+      "Mongol"
+    ],
+    "fr": [
+      "Mongol"
+    ],
+    "it": [
+      "Mongolo"
+    ],
+    "ru": [
+      "Монгольский"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "terme-2016-03-02-01-30-59-87414015547",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/quoi-ecrire/un-recit-d-enfance/un-recit-touchant/",
+  "description": "Description de Un récit touchant",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-03-02-01-30-59",
+  "moment-de-modification": "2016-03-02-01-31-22",
+  "nom": "Un récit touchant",
+  "nom-folder": "un-recit-touchant",
+  "nom-machine": "terme-2016-03-02-01-30-59-87414015547",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Un récit touchant"
+    ]
+  }
+}

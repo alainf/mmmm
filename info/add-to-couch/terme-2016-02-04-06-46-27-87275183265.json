@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-06-46-27-87275183265",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Tatar/",
+  "description": "Description de Tatar",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "tt",
+  "ISO-639-2": "tat",
+  "ISO-639-3": "tat",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-06-46-27",
+  "moment-de-modification": "2016-02-04-06-47-15",
+  "nom": "Tatar",
+  "nom-folder": "Tatar",
+  "nom-machine": "terme-2016-02-04-06-46-27-87275183265",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Tatar",
+  "nomLangues": {
+    "en": [
+      "Tatar"
+    ],
+    "ar": [
+      "تترية"
+    ],
+    "es": [
+      "Tártaro"
+    ],
+    "fr": [
+      "Tatar"
+    ],
+    "it": [
+      "Tataro"
+    ],
+    "ru": [
+      "Татарский"
+    ]
+  }
+}

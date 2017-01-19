@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-57-86966233053",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Philosophie-politique/Rationalisme/",
+  "description": "Description de Rationalisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1288,
+  "identifiant-drupal-parent": 1172,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-57",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Rationalisme",
+  "nom-folder": "Rationalisme",
+  "nom-machine": "terme-2015-12-06-16-26-57-86966233053",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Rationalism"
+    ],
+    "ar": [
+      "عقلانية"
+    ],
+    "es": [
+      "Racionalismo"
+    ],
+    "fr": [
+      "Rationalisme"
+    ],
+    "it": [
+      "Razionalismo"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2016-01-29-15-48-17-87246029830",
+  "breadcrumb": "taxonomies/langues//Limousin/",
+  "description": "Description de Limousin",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2016-01-29-15-48-17",
+  "moment-de-modification": "2016-01-29-15-50-22",
+  "nom": "Limousin",
+  "nom-folder": "Limousin",
+  "nom-machine": "terme-2016-01-29-15-48-17-87246029830",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Limousin"
+    ],
+    "es": [
+      "Occitano limosín"
+    ],
+    "fr": [
+      "Limousin"
+    ],
+    "it": [
+      "Limosino"
+    ],
+    "ru": [
+      "Лимузенский"
+    ]
+  }
+}

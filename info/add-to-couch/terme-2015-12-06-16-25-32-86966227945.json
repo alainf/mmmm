@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227945",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Conduite-de-projet/Etape-d'observation/",
+  "description": "Description de Étape d'observation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1952,
+  "identifiant-drupal-parent": 1951,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Étape d'observation",
+  "nom-folder": "Etape-d'observation",
+  "nom-machine": "terme-2015-12-06-16-25-32-86966227945",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Observation stage"
+    ],
+    "ar": [
+      "مرحلة المراقبة"
+    ],
+    "es": [
+      "Fase de observación"
+    ],
+    "fr": [
+      "Étape d'observation"
+    ],
+    "it": [
+      "Fase d’osservazione"
+    ]
+  }
+}

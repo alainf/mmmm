@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-06-86966226409",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Pedagogie/",
+  "description": "Description de Pédagogie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451186,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-06",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Pédagogie",
+  "nom-folder": "Pedagogie",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-06-86966226409"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Pedagogy"
+    ],
+    "ar": [
+      "بيداغوجيا"
+    ],
+    "es": [
+      "Pedagogía"
+    ],
+    "fr": [
+      "Pédagogie"
+    ],
+    "it": [
+      "Pedagogia"
+    ]
+  }
+}

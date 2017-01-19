@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227484",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Communication-et-publicite/",
+  "description": "Description de Communication et publicité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2146,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Communication et publicité",
+  "nom-folder": "Communication-et-publicite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227484"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Communication and advertising"
+    ],
+    "ar": [
+      "الإتصال و الإشهار"
+    ],
+    "es": [
+      "Comunicación y Publicidad"
+    ],
+    "fr": [
+      "Communication et publicité"
+    ],
+    "it": [
+      "Comunicazione e pubblicità"
+    ]
+  }
+}

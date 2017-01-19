@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-40-86966224823",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Dessin/Supports-de-dessin/Toile-(dessin)/",
+  "description": "Description de Toile (dessin)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466923,
+  "identifiant-drupal-parent": 466919,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-40",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Toile (dessin)",
+  "nom-folder": "Toile-(dessin)",
+  "nom-machine": "terme-2015-12-06-16-24-40-86966224823",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Canvas (drawing)"
+    ],
+    "ar": [
+      "لوحة زيتية على قماش"
+    ],
+    "es": [
+      "Lienzo (dibujo)"
+    ],
+    "fr": [
+      "Toile (dessin)"
+    ],
+    "it": [
+      "Tela (disegno)"
+    ]
+  }
+}

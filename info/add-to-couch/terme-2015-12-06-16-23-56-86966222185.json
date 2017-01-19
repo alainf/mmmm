@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-56-86966222185",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Chemistry/Organic-Chemistry/",
+  "description": "Description de Organic chemistry",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368881,
+  "identifiant-drupal-parent": 368868,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-56",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Organic chemistry",
+  "nom-folder": "Organic-Chemistry",
+  "nom-machine": "terme-2015-12-06-16-23-56-86966222185",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Organic chemistry"
+    ]
+  }
+}

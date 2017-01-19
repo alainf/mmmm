@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2015-12-06-16-24-20-86966223615",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Health-Sciences/Palliative-Medicine-Chronic-Care/",
+  "description": "Description de Maladies chroniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368160,
+  "identifiant-drupal-parent": 368144,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-20",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Maladies chroniques",
+  "nom-folder": "Palliative-Medicine-Chronic-Care",
+  "nom-machine": "terme-2015-12-06-16-24-20-86966223615",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Palliative medicine chronic care"
+    ],
+    "ar": [
+      "رعاية مزمنة"
+    ],
+    "fr": [
+      "Maladies chroniques"
+    ]
+  }
+}

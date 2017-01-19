@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226320",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Education-des-adultes/Formation-des-adultes/",
+  "description": "Description de Formation des adultes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472053,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Formation des adultes",
+  "nom-folder": "Formation-des-adultes",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226320"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Adult education"
+    ],
+    "ar": [
+      "تعليم الكبار"
+    ],
+    "es": [
+      "Educación de adultos"
+    ],
+    "fr": [
+      "Formation des adultes"
+    ],
+    "it": [
+      "formazione degli adulti"
+    ]
+  }
+}

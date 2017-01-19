@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-39-86966228357",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-internationale/",
+  "description": "Description de Gestion internationale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469817,
+  "identifiant-drupal-parent": 352,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-39",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion internationale",
+  "nom-folder": "Gestion-internationale",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-39-86966228357"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International Management"
+    ],
+    "ar": [
+      "الإدارة الدولية"
+    ],
+    "es": [
+      "Gestión internacional"
+    ],
+    "fr": [
+      "Gestion internationale"
+    ],
+    "it": [
+      "gestione internazionale"
+    ]
+  }
+}

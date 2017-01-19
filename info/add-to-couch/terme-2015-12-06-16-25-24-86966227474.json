@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227474",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Communication-de-crise/",
+  "description": "Description de Communication de crise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2142,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Communication de crise",
+  "nom-folder": "Communication-de-crise",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227474"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Crisis Communications"
+    ],
+    "ar": [
+      "إتصال الأزمة"
+    ],
+    "es": [
+      "Comunicación de crisis"
+    ],
+    "fr": [
+      "Communication de crise"
+    ],
+    "it": [
+      "Comunicazione delle crisi"
+    ]
+  }
+}

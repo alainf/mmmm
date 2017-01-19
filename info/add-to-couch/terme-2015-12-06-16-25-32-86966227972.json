@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-32-86966227972",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Decoupage-en-taches/Reseau-PERT/",
+  "description": "Description de Réseau PERT",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1960,
+  "identifiant-drupal-parent": 1958,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-32",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Réseau PERT",
+  "nom-folder": "Reseau-PERT",
+  "nom-machine": "terme-2015-12-06-16-25-32-86966227972",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "PERT Diagram"
+    ],
+    "ar": [
+      "أسلوب تقييم ومراجعة المشروع"
+    ],
+    "es": [
+      "Técnica de revisión y evaluación de programas"
+    ],
+    "fr": [
+      "Réseau PERT"
+    ],
+    "it": [
+      "Tecnica di revisione e valutazione di programmi (PERT)"
+    ]
+  }
+}

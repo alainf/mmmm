@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-06-86966222782",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Linguistics/German-Language/",
+  "description": "Description de German language",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369083,
+  "identifiant-drupal-parent": 369077,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-06",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "German language",
+  "nom-folder": "German-Language",
+  "nom-machine": "terme-2015-12-06-16-24-06-86966222782",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "German language"
+    ]
+  }
+}

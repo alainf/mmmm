@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-12-86966233925",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/catalogue/catalogue-de-librairie/",
+  "description": "Description de Catalogue de librairie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369435,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-12",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Catalogue de librairie",
+  "nom-folder": "catalogue-de-librairie",
+  "nom-machine": "terme-2015-12-06-16-27-12-86966233925",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Bookstore catalog"
+    ],
+    "es": [
+      "Catálogo de librería"
+    ],
+    "fr": [
+      "Catalogue de librairie"
+    ],
+    "it": [
+      "Catalogo di libreria"
+    ]
+  }
+}

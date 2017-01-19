@@ -1,0 +1,58 @@
+{
+  "_id": "terme-2015-12-06-16-26-45-86966232307",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/",
+  "description": "Description de Méthodologies en sciences sociales",
+  "enfants": [
+    "terme-2015-12-06-16-26-45-86966232310",
+    "terme-2015-12-06-16-26-45-86966232313",
+    "terme-2015-12-06-16-26-45-86966232315",
+    "terme-2015-12-06-16-26-45-86966232318",
+    "terme-2015-12-06-16-26-45-86966232321",
+    "terme-2015-12-06-16-26-45-86966232324",
+    "terme-2015-12-06-16-26-45-86966232327",
+    "terme-2015-12-06-16-26-45-86966232330",
+    "terme-2015-12-06-16-26-45-86966232333",
+    "terme-2015-12-06-16-26-45-86966232335",
+    "terme-2015-12-06-16-26-45-86966232339",
+    "terme-2015-12-06-16-26-45-86966232342",
+    "terme-2015-12-06-16-26-45-86966232345",
+    "terme-2015-12-06-16-26-45-86966232348",
+    "terme-2015-12-06-16-26-46-86966232413",
+    "terme-2015-12-06-16-26-46-86966232416",
+    "terme-2015-12-06-16-26-47-86966232428",
+    "terme-2015-12-06-16-26-47-86966232431",
+    "terme-2015-12-06-16-26-47-86966232455"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1000,
+  "identifiant-drupal-parent": 891,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-45",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Méthodologies en sciences sociales",
+  "nom-folder": "Methodologies-en-sciences-sociales",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-45-86966232307"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Social sciences methodology"
+    ],
+    "ar": [
+      "مناهج فى العلوم الإجتماعية"
+    ],
+    "es": [
+      "Metodologías en ciencias sociales"
+    ],
+    "fr": [
+      "Méthodologies en sciences sociales"
+    ],
+    "it": [
+      "Metodologie nelle scienze sociali"
+    ]
+  }
+}

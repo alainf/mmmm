@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225664",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Sociologie-du-droit-(droit)/",
+  "description": "Description de Sociologie du droit (droit)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269151,
+  "identifiant-drupal-parent": 876,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Sociologie du droit (droit)",
+  "nom-folder": "Sociologie-du-droit-(droit)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225664"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology of law (law)"
+    ],
+    "ar": [
+      "علم الاجتماع القانون (القانون)"
+    ],
+    "es": [
+      "Sociología del Derecho (derecho)"
+    ],
+    "fr": [
+      "Sociologie du droit (droit)"
+    ],
+    "it": [
+      "sociologia del diritto (diritto)"
+    ]
+  }
+}

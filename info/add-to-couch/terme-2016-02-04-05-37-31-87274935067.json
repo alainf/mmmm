@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2016-02-04-05-37-31-87274935067",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Sindebele/",
+  "description": "Description de Sindebele",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "nd",
+  "ISO-639-2": "nde",
+  "ISO-639-3": "nde",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-37-31",
+  "moment-de-modification": "2016-02-04-05-38-11",
+  "nom": "Sindebele",
+  "nom-folder": "Sindebele",
+  "nom-machine": "terme-2016-02-04-05-37-31-87274935067",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Sindebele",
+  "nomLangues": {
+    "en": [
+      "North ndebele"
+    ],
+    "es": [
+      "Ndebele del norte"
+    ],
+    "fr": [
+      "Sindebele"
+    ],
+    "it": [
+      "Ndebele del Nord"
+    ],
+    "ru": [
+      "Северный ндебеле"
+    ]
+  }
+}

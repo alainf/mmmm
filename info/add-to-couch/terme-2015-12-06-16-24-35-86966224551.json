@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-35-86966224551",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-plastiques/Sculpture/Typologies-des-sculptures/Sarcophages-paleochretiens/",
+  "description": "Description de Sarcophages paléochrétiens",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467054,
+  "identifiant-drupal-parent": 467053,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-35",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Sarcophages paléochrétiens",
+  "nom-folder": "Sarcophages-paleochretiens",
+  "nom-machine": "terme-2015-12-06-16-24-35-86966224551",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Early Christian sarcophagi"
+    ],
+    "ar": [
+      "توابيت المسيحية المبكرة"
+    ],
+    "es": [
+      "Sarcófagos paleocristianos"
+    ],
+    "fr": [
+      "Sarcophages paléochrétiens"
+    ],
+    "it": [
+      "Sarcofagi paleocristiani"
+    ]
+  }
+}

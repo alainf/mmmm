@@ -1,0 +1,39 @@
+{
+  "_id": "terme-2015-12-06-16-24-40-86966224846",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Gravure/Techniques-de-la-gravure/Gravure-en-creux/",
+  "description": "Description de Gravure en creux",
+  "enfants": [
+    "terme-2015-12-06-16-24-40-86966224849",
+    "terme-2015-12-06-16-24-40-86966224851"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466931,
+  "identifiant-drupal-parent": 466929,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-40",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Gravure en creux",
+  "nom-folder": "Gravure-en-creux",
+  "nom-machine": "terme-2015-12-06-16-24-40-86966224846",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Intaglio (sculpture)"
+    ],
+    "ar": [
+      "نقش مجوف"
+    ],
+    "es": [
+      "Grabados en hueco"
+    ],
+    "fr": [
+      "Gravure en creux"
+    ],
+    "it": [
+      "Intaglio (scultura)"
+    ]
+  }
+}

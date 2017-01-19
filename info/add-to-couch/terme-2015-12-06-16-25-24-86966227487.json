@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-24-86966227487",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Communication-d'entreprise/Communication-evenementielle/",
+  "description": "Description de Communication événementielle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2147,
+  "identifiant-drupal-parent": 2141,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-24",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Communication événementielle",
+  "nom-folder": "Communication-evenementielle",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-24-86966227487"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Event Communication"
+    ],
+    "ar": [
+      "الإتصال وقائعيّ"
+    ],
+    "es": [
+      "Comunicación de eventos"
+    ],
+    "fr": [
+      "Communication événementielle"
+    ],
+    "it": [
+      "Comunicazione evenemenziale"
+    ]
+  }
+}

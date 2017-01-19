@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-41-86966228497",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Management-par-secteurs-d'activites/Gestion-agricole-(secteurs)/Developpement-durable-et-entreprises-agricoles/",
+  "description": "Description de Développement durable et entreprises agricoles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2199,
+  "identifiant-drupal-parent": 2190,
+  "mise-a-jour": "2016-05-09-16-46-21",
+  "moment-de-creation": "2015-12-06-16-25-41",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Développement durable et entreprises agricoles",
+  "nom-folder": "Developpement-durable-et-entreprises-agricoles",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-41-86966228497"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agricultural enterprises and sustainable development"
+    ],
+    "ar": [
+      "التنمية المستدامة و الشركات الزراعية"
+    ],
+    "es": [
+      "Desarrollo sostenible y empresas agrícolas"
+    ],
+    "fr": [
+      "Développement durable et entreprises agricoles"
+    ],
+    "it": [
+      "Sviluppo sostenibile e le imprese agricole"
+    ]
+  }
+}

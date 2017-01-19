@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-22-86966230929",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-vie/Biologie/Biometrie/",
+  "description": "Description de Biométrie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455629,
+  "identifiant-drupal-parent": 270762,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-22",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Biométrie",
+  "nom-folder": "Biometrie",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-22-86966230929"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Biometry"
+    ],
+    "ar": [
+      "القياسات الحيوية"
+    ],
+    "es": [
+      "Biometría"
+    ],
+    "fr": [
+      "Biométrie"
+    ],
+    "it": [
+      "Biometria"
+    ]
+  }
+}

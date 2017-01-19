@@ -1,0 +1,36 @@
+{
+  "_id": "terme-2015-12-06-16-24-46-86966225173",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Peinture/Theories-en-peinture/",
+  "description": "Description de Théories en peinture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467030,
+  "identifiant-drupal-parent": 467003,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-46",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Théories en peinture",
+  "nom-folder": "Theories-en-peinture",
+  "nom-machine": "terme-2015-12-06-16-24-46-86966225173",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories in painting"
+    ],
+    "ar": [
+      "النظريات فى الطلاء"
+    ],
+    "es": [
+      "Teorías en pintura"
+    ],
+    "fr": [
+      "Théories en peinture"
+    ],
+    "it": [
+      "Teorie in pittura"
+    ],
+    "ru": []
+  }
+}

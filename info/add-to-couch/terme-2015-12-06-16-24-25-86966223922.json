@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223922",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Conchyliculture/Mytiliculture/Mytilus-edulis/",
+  "description": "Mytilus edulis",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269051,
+  "identifiant-drupal-parent": 269045,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Moule commune",
+  "nom-folder": "Mytilus-edulis",
+  "nom-machine": "terme-2015-12-06-16-24-25-86966223922",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Blue mussel"
+    ],
+    "ar": [
+      "بلح البحر الأزرق"
+    ],
+    "es": [
+      "Mejillón (Mytilus edulis)"
+    ],
+    "fr": [
+      "Moule commune"
+    ],
+    "it": [
+      "Cozza (mytilus edulis)"
+    ]
+  }
+}

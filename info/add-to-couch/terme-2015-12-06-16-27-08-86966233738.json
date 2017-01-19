@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233738",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Droit-de-l'urbanisme/",
+  "description": "Description de Droit de l'urbanisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467118,
+  "identifiant-drupal-parent": 467095,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Droit de l'urbanisme",
+  "nom-folder": "Droit-de-l'urbanisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-08-86966233738"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban planning law"
+    ],
+    "ar": [
+      "قانون التخطيط الحضرى"
+    ],
+    "es": [
+      "Derecho del urbanismo"
+    ],
+    "fr": [
+      "Droit de l'urbanisme"
+    ],
+    "it": [
+      "diritto dell'urbanistica"
+    ]
+  }
+}

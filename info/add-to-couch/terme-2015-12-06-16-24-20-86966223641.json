@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-24-20-86966223641",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Life-Biomedical-Sciences/",
+  "description": "Description de Sciences biomédicales",
+  "enfants": [
+    "terme-2015-12-06-16-24-20-86966223644",
+    "terme-2015-12-06-16-24-20-86966223648",
+    "terme-2015-12-06-16-24-20-86966223650",
+    "terme-2015-12-06-16-24-20-86966223653",
+    "terme-2015-12-06-16-24-20-86966223656"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368145,
+  "identifiant-drupal-parent": 368143,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-20",
+  "moment-de-modification": "2015-01-04-02-27-32",
+  "nom": "Sciences biomédicales",
+  "nom-folder": "Life-Biomedical-Sciences",
+  "nom-machine": "terme-2015-12-06-16-24-20-86966223641",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Life biomedical sciences"
+    ],
+    "fr": [
+      "Sciences biomédicales"
+    ]
+  }
+}

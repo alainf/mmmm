@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-57-86966225860",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Branches-de-la-finance/Finances-publiques-(finance)/Dette-publique/",
+  "description": "Description de Dette publique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271358,
+  "identifiant-drupal-parent": 271339,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-57",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Dette publique",
+  "nom-folder": "Dette-publique",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-57-86966225860"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public debt"
+    ],
+    "ar": [
+      "دين عام"
+    ],
+    "es": [
+      "Deuda pública"
+    ],
+    "fr": [
+      "Dette publique"
+    ],
+    "it": [
+      "debito pubblico"
+    ]
+  }
+}

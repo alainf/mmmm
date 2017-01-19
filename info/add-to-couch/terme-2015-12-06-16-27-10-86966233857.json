@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-10-86966233857",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/actualites-du-milieu/",
+  "description": "Description de Actualités du milieu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369413,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-10",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Actualités du milieu",
+  "nom-folder": "actualites-du-milieu",
+  "nom-machine": "terme-2015-12-06-16-27-10-86966233857",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "News of the sector"
+    ],
+    "es": [
+      "Actualidades del sector"
+    ],
+    "fr": [
+      "Actualités du milieu"
+    ],
+    "it": [
+      "Attualità del settore"
+    ]
+  }
+}

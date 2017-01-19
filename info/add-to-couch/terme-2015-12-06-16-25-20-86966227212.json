@@ -1,0 +1,49 @@
+{
+  "_id": "terme-2015-12-06-16-25-20-86966227212",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Audit-et-controle-de-gestion/",
+  "description": "Description de Audit et contrôle de gestion",
+  "enfants": [
+    "terme-2015-12-06-16-25-20-86966227216",
+    "terme-2015-12-06-16-25-20-86966227218",
+    "terme-2015-12-06-16-25-20-86966227221",
+    "terme-2015-12-06-16-25-20-86966227224",
+    "terme-2015-12-06-16-25-20-86966227227",
+    "terme-2015-12-06-16-25-20-86966227230",
+    "terme-2015-12-06-16-25-20-86966227233",
+    "terme-2015-12-06-16-25-20-86966227236",
+    "terme-2015-12-06-16-25-20-86966227239",
+    "terme-2015-12-06-16-25-20-86966227241"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1777,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-20",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Audit et contrôle de gestion",
+  "nom-folder": "Audit-et-controle-de-gestion",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-20-86966227212"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Auditing and management control"
+    ],
+    "ar": [
+      "تدقيق والرقابة الإدارية"
+    ],
+    "es": [
+      "Auditoría y control de gestión"
+    ],
+    "fr": [
+      "Audit et contrôle de gestion"
+    ],
+    "it": [
+      "Verifica e controllo di gestione"
+    ]
+  }
+}

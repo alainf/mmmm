@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233601",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Sociologie-et-representations/",
+  "description": "Description de Sociologie et représentations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1195,
+  "identifiant-drupal-parent": 1005,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Sociologie et représentations",
+  "nom-folder": "Sociologie-et-representations",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-06-86966233601"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sociology and representations"
+    ],
+    "ar": [
+      "علم الاجتماع وتمثيلات"
+    ],
+    "es": [
+      "Sociología y representaciones"
+    ],
+    "fr": [
+      "Sociologie et représentations"
+    ],
+    "it": [
+      "Sociologia e rappresentazioni"
+    ]
+  }
+}

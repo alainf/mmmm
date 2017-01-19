@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-40-86966232003",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-appliquee/",
+  "description": "Description de Anthropologie appliquée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455696,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-40",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie appliquée",
+  "nom-folder": "Anthropologie-appliquee",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-40-86966232003"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Applied Anthropology"
+    ],
+    "ar": [
+      "الأنثروبولوجيا التطبيقية"
+    ],
+    "es": [
+      "Antropología aplicada"
+    ],
+    "fr": [
+      "Anthropologie appliquée"
+    ],
+    "it": [
+      "Antropologia applicata"
+    ]
+  }
+}

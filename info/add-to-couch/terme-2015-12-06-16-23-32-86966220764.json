@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220764",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Investissement/Fonds-sectoriels/",
+  "description": "Description de Fonds sectoriels",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270552,
+  "identifiant-drupal-parent": 270550,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Fonds sectoriels",
+  "nom-folder": "Fonds-sectoriels",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220764"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sectorial funds"
+    ],
+    "ar": [
+      "قطاع الصناديق"
+    ],
+    "es": [
+      "Fondos sectoriales"
+    ],
+    "fr": [
+      "Fonds sectoriels"
+    ],
+    "it": [
+      "Fondi settotiali"
+    ]
+  }
+}

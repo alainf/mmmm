@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-05-86966226309",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Democratisation-de-l'enseignement/",
+  "description": "Description de Démocratisation de l'enseignement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451282,
+  "identifiant-drupal-parent": 883,
+  "mise-a-jour": "2016-05-09-16-46-13",
+  "moment-de-creation": "2015-12-06-16-25-05",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Démocratisation de l'enseignement",
+  "nom-folder": "Democratisation-de-l'enseignement",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-05-86966226309"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Democratization of education"
+    ],
+    "ar": [
+      "ديمقراطية التعليم"
+    ],
+    "es": [
+      "Democratización de la enseñanza"
+    ],
+    "fr": [
+      "Démocratisation de l'enseignement"
+    ],
+    "it": [
+      "Democratizzazione dell'istruzione"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-08-86966226488",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Changement-climatique/Gaz-a-effet-de-serre/",
+  "description": "Description de Gaz à effet de serre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472209,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-08",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Gaz à effet de serre",
+  "nom-folder": "Gaz-a-effet-de-serre",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-08-86966226488"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Greenhouse gases"
+    ],
+    "ar": [
+      "غازات الدفيئة"
+    ],
+    "es": [
+      "Gases de efecto invernadero"
+    ],
+    "fr": [
+      "Gaz à effet de serre"
+    ],
+    "it": [
+      "Gas a effetto serra"
+    ]
+  }
+}

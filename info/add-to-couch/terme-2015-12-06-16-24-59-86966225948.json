@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-59-86966225948",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Instruments-de-titrisation/",
+  "description": "Description de Instruments de titrisation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451161,
+  "identifiant-drupal-parent": 451151,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-24-59",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Instruments de titrisation",
+  "nom-folder": "Instruments-de-titrisation",
+  "nom-machine": "terme-2015-12-06-16-24-59-86966225948",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Securitization instruments"
+    ],
+    "ar": [
+      "توريق المركبات"
+    ],
+    "es": [
+      "Instrumentos de titulización"
+    ],
+    "fr": [
+      "Instruments de titrisation"
+    ],
+    "it": [
+      "Strumenti di cartolarizzazione"
+    ]
+  }
+}

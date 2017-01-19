@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-23-47-86966221658",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-dialnet/Agricultura-y-alimentacion/",
+  "description": "Description de Agricultura y alimentacion",
+  "enfants": [
+    "terme-2015-12-06-16-23-47-86966221662",
+    "terme-2015-12-06-16-23-47-86966221664",
+    "terme-2015-12-06-16-23-47-86966221667",
+    "terme-2015-12-06-16-23-47-86966221670",
+    "terme-2015-12-06-16-23-47-86966221673",
+    "terme-2015-12-06-16-23-47-86966221676"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380839,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-47",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Agricultura y alimentacion",
+  "nom-folder": "Agricultura-y-alimentacion",
+  "nom-machine": "terme-2015-12-06-16-23-47-86966221658",
+  "sous-type": "sujets-dialnet",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Agricultura y alimentacion"
+    ]
+  }
+}

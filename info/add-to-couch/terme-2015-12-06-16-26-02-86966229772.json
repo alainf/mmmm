@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-02-86966229772",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Recherche-en-marketing/Analytique-web/",
+  "description": "Description de Analytique web",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472085,
+  "identifiant-drupal-parent": 2074,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-02",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Analytique web",
+  "nom-folder": "Analytique-web",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-02-86966229772"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Web analytics"
+    ],
+    "ar": [
+      "تحليل الويب (شبكة الإنترنيت)"
+    ],
+    "es": [
+      "Análisis web"
+    ],
+    "fr": [
+      "Analytique web"
+    ],
+    "it": [
+      "Analitiche Web"
+    ]
+  }
+}

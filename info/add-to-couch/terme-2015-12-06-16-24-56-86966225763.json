@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225763",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Reforme-du-marche/",
+  "description": "Description de Réforme du marché",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471919,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Réforme du marché",
+  "nom-folder": "Reforme-du-marche",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225763"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Market reform"
+    ],
+    "ar": [
+      "إصلاح السوق"
+    ],
+    "es": [
+      "Reforma del mercado"
+    ],
+    "fr": [
+      "Réforme du marché"
+    ],
+    "it": [
+      "Riforma del mercato"
+    ]
+  }
+}

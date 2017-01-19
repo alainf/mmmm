@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-44-86966232296",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Genealogie/Phylogeographie/",
+  "description": "Description de Phylogéographie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271431,
+  "identifiant-drupal-parent": 271411,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-44",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Phylogéographie",
+  "nom-folder": "Phylogeographie",
+  "nom-machine": "terme-2015-12-06-16-26-44-86966232296",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Phylogeography"
+    ],
+    "ar": [
+      "فيلوجيوجرافي"
+    ],
+    "es": [
+      "Filogeografía"
+    ],
+    "fr": [
+      "Phylogéographie"
+    ],
+    "it": [
+      "Filogeografia"
+    ]
+  }
+}

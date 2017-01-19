@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-56-86966229406",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Hesitation-systemique/",
+  "description": "Description de Hésitation systémique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2264,
+  "identifiant-drupal-parent": 2246,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-56",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Hésitation systémique",
+  "nom-folder": "Hesitation-systemique",
+  "nom-machine": "terme-2015-12-06-16-25-56-86966229406",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Systemic hesitation"
+    ],
+    "ar": [
+      "تردد النظامية"
+    ],
+    "es": [
+      "Vacilación sistémica"
+    ],
+    "fr": [
+      "Hésitation systémique"
+    ],
+    "it": [
+      "Esitazione sistemica"
+    ]
+  }
+}

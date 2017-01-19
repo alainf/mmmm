@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229793",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Service-a-la-clientele/",
+  "description": "Description de Service à la clientèle",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2077,
+  "identifiant-drupal-parent": 2046,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Service à la clientèle",
+  "nom-folder": "Service-a-la-clientele",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-03-86966229793"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Customer service"
+    ],
+    "ar": [
+      "خدمة العملاء"
+    ],
+    "es": [
+      "Servicio de atención al cliente"
+    ],
+    "fr": [
+      "Service à la clientèle"
+    ],
+    "it": [
+      "Assistenza clienti"
+    ]
+  }
+}

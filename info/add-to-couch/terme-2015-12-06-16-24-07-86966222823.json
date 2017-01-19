@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-07-86966222823",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Management-Science-Operations-Research/Mathematical-Programming/",
+  "description": "Description de Mathematical programming",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369097,
+  "identifiant-drupal-parent": 369092,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-07",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Mathematical programming",
+  "nom-folder": "Mathematical-Programming",
+  "nom-machine": "terme-2015-12-06-16-24-07-86966222823",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Mathematical programming"
+    ]
+  }
+}

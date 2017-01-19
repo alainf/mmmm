@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-24-07-86966222846",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Materials-Science-(category)/Materials-Synthesis/",
+  "description": "Description de Materials synthesis",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369105,
+  "identifiant-drupal-parent": 369100,
+  "mise-a-jour": "2016-05-09-16-46-00",
+  "moment-de-creation": "2015-12-06-16-24-07",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Materials synthesis",
+  "nom-folder": "Materials-Synthesis",
+  "nom-machine": "terme-2015-12-06-16-24-07-86966222846",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Materials synthesis"
+    ]
+  }
+}

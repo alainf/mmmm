@@ -1,0 +1,22 @@
+{
+  "_id": "terme-2016-07-07-15-13-23-88075128191",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-revuesOrg/Litterature/Litterature/",
+  "description": "Description de Littérature",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-07-07-15-13-23",
+  "moment-de-creation": "2016-07-07-15-13-23",
+  "moment-de-modification": "2016-07-07-15-13-53",
+  "nom": "Littérature",
+  "nom-folder": "Litterature",
+  "nom-machine": "terme-2016-07-07-15-13-23-88075128191",
+  "sous-type": "sujets-revuesOrg",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Littérature"
+    ]
+  }
+}

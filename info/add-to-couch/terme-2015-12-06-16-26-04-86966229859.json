@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-04-86966229859",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Technologie/Technosciences/Ingenierie/Heuristique-(ingenierie)/",
+  "description": "Description de Heuristique (ingénierie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272220,
+  "identifiant-drupal-parent": 270880,
+  "mise-a-jour": "2016-05-09-16-46-26",
+  "moment-de-creation": "2015-12-06-16-26-04",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Heuristique (ingénierie)",
+  "nom-folder": "Heuristique-(ingenierie)",
+  "nom-machine": "terme-2015-12-06-16-26-04-86966229859",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Heuristics"
+    ],
+    "ar": [
+      "حدسية جديدة (هندسة)"
+    ],
+    "es": [
+      "Heurística (ingeniería)"
+    ],
+    "fr": [
+      "Heuristique (ingénierie)"
+    ],
+    "it": [
+      "Euristica (ingegneria)"
+    ]
+  }
+}

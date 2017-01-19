@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-20-47-87274658846",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Frison/",
+  "description": "Description de Frison occidental",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "fy",
+  "ISO-639-2": "fry",
+  "ISO-639-3": "fry",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-20-47",
+  "moment-de-modification": "2016-02-04-04-21-29",
+  "nom": "Frison occidental",
+  "nom-folder": "Frison",
+  "nom-machine": "terme-2016-02-04-04-20-47-87274658846",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Frison_(langue)",
+  "nomLangues": {
+    "en": [
+      "Western frisian"
+    ],
+    "ar": [
+      "الفريزية الغربية"
+    ],
+    "es": [
+      "Frisón occidental"
+    ],
+    "fr": [
+      "Frison occidental"
+    ],
+    "it": [
+      "Frisone occidentale"
+    ],
+    "ru": [
+      "Западнофризский"
+    ]
+  }
+}

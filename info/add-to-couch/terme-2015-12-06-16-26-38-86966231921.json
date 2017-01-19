@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-38-86966231921",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Histoire-des-religions-(religions)/",
+  "description": "Description de Histoire des religions (religions)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466759,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-38",
+  "moment-de-modification": "2015-01-04-02-27-47",
+  "nom": "Histoire des religions (religions)",
+  "nom-folder": "Histoire-des-religions-(religions)",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-38-86966231921"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of religions (religions)"
+    ],
+    "ar": [
+      "تاريخ الأديان (الديانات)"
+    ],
+    "es": [
+      "Historia de las religiones (religiones)"
+    ],
+    "fr": [
+      "Histoire des religions (religions)"
+    ],
+    "it": [
+      "Storia delle religioni (religioni)"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174824",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Wallon/",
+  "description": "Description de Wallon",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 317668,
+  "ISO-639-1": "wa",
+  "ISO-639-2": "wln",
+  "ISO-639-3": "wln",
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2016-02-04-06-58-12",
+  "nom": "Wallon",
+  "nom-folder": "Wallon",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174824",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Wallon",
+  "nomLangues": {
+    "en": [
+      "Walloon"
+    ],
+    "ar": [
+      " والون"
+    ],
+    "es": [
+      "Valón"
+    ],
+    "fr": [
+      "Wallon"
+    ],
+    "it": [
+      "Vallone"
+    ],
+    "ru": [
+      "Валлонский"
+    ]
+  }
+}

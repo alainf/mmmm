@@ -1,0 +1,30 @@
+{
+  "_id": "terme-2016-02-04-00-01-00-86966230813",
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Chimie-metallo-organique/",
+  "description": "Description de Chimie métallo-organique",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2016-02-04-00-01-00",
+  "nom": "Chimie métallo-organique",
+  "nom-folder": "Chimie-metallo-organique",
+  "nom-machine": "terme-2016-02-04-00-01-00-86966230813",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "organometallic chemistry"
+    ],
+    "ar": [
+      "الكيمياء العضويه-فلِزّي"
+    ],
+    "es": [
+      "química organometállica"
+    ],
+    "fr": [
+      "Chimie métallo-organique"
+    ],
+    "it": [
+      "Chimica organometallica"
+    ]
+  }
+}

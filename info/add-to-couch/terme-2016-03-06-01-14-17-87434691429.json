@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2016-03-06-01-14-17-87434691429",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/roles/Historien/",
+  "description": "Description de Historien",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2016-03-06-01-14-17",
+  "moment-de-modification": "2016-03-06-01-17-39",
+  "nom": "Historien",
+  "nom-folder": "Historien",
+  "nom-machine": "terme-2016-03-06-01-14-17-87434691429",
+  "sous-type": "roles",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Historian"
+    ],
+    "ar": [
+      "مؤرخ"
+    ],
+    "es": [
+      "Historiador"
+    ],
+    "fr": [
+      "Historien"
+    ],
+    "it": [
+      "Storico"
+    ]
+  }
+}

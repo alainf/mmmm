@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-33-86966220782",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/Environnement-economique/",
+  "description": "Description de Environnement économique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270498,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-33",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Environnement économique",
+  "nom-folder": "Environnement-economique",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-33-86966220782"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Economic environment"
+    ],
+    "ar": [
+      "البيئة الاقتصادية"
+    ],
+    "es": [
+      "Entorno económico"
+    ],
+    "fr": [
+      "Environnement économique"
+    ],
+    "it": [
+      "Ambiente economico"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-48-86966225304",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-la-consommation-et-du-consommateur/",
+  "description": "Description de Études de la consommation et du consommateur",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466804,
+  "identifiant-drupal-parent": 466782,
+  "mise-a-jour": "2016-05-09-16-46-09",
+  "moment-de-creation": "2015-12-06-16-24-48",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Études de la consommation et du consommateur",
+  "nom-folder": "Etudes-de-la-consommation-et-du-consommateur",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-48-86966225304"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Consumer and consumption studies"
+    ],
+    "ar": [
+      "دراسات عن الاستهلاك و المستهلك"
+    ],
+    "es": [
+      "Estudios sobre el consumo y el consumidor"
+    ],
+    "fr": [
+      "Études de la consommation et du consommateur"
+    ],
+    "it": [
+      "Studi di consumo e consumatori"
+    ]
+  }
+}

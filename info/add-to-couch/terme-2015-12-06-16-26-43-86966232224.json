@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-43-86966232224",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Theories-anthropologiques/",
+  "description": "Description de Théories anthropologiques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1032,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-34",
+  "moment-de-creation": "2015-12-06-16-26-43",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Théories anthropologiques",
+  "nom-folder": "Theories-anthropologiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-43-86966232224"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anthropological theories"
+    ],
+    "ar": [
+      "النظريات الأنثروبولوجية"
+    ],
+    "es": [
+      "Teorías antropológicas"
+    ],
+    "fr": [
+      "Théories anthropologiques"
+    ],
+    "it": [
+      "Teorie antropologiche"
+    ]
+  }
+}

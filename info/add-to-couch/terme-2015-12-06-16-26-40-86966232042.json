@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-40-86966232042",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-de-la-ville/",
+  "description": "Description de Anthropologie de la ville",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469939,
+  "identifiant-drupal-parent": 994,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-40",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Anthropologie de la ville",
+  "nom-folder": "Anthropologie-de-la-ville",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-40-86966232042"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Anthropology of the city"
+    ],
+    "ar": [
+      "أنثروبولوجيا المدينة"
+    ],
+    "es": [
+      "Antropología de la ciudad"
+    ],
+    "fr": [
+      "Anthropologie de la ville"
+    ],
+    "it": [
+      "antropologia della città"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-23-86966223805",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Documents-et-collections-agricoles/",
+  "description": "Description de Documents et collections agricoles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 903,
+  "identifiant-drupal-parent": 895,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-23",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Documents et collections agricoles",
+  "nom-folder": "Documents-et-collections-agricoles",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-23-86966223805"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Agriculture documents and collections"
+    ],
+    "ar": [
+      "وثائق ومجموعات الزراعية"
+    ],
+    "es": [
+      "Documentos y colecciones agrícolas"
+    ],
+    "fr": [
+      "Documents et collections agricoles"
+    ],
+    "it": [
+      "Documenti e collezioni agricole"
+    ]
+  }
+}

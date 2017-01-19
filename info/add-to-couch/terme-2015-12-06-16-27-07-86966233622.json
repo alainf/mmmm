@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-27-07-86966233622",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sport/forme-physique,-entrainement-et-blessures/",
+  "description": "Description de Forme physique, Entraînement et blessures",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270910,
+  "identifiant-drupal-parent": 892,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-07",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Forme physique, Entraînement et blessures",
+  "nom-folder": "forme-physique,-entrainement-et-blessures",
+  "nom-machine": "terme-2015-12-06-16-27-07-86966233622",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fitness, Training and Injury"
+    ],
+    "ar": [
+      "لياقة بدنية، تدريب والاصابات"
+    ],
+    "es": [
+      "Forma física, entrenamiento y lesiones"
+    ],
+    "fr": [
+      "Forme physique, Entraînement et blessures"
+    ],
+    "it": [
+      "Forma fisica, allenamento e lesioni"
+    ]
+  }
+}

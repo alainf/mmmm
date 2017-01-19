@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-24-25-86966223951",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Elevage-des-crustaces/Astaciculture/",
+  "description": "Description de Astaciculture",
+  "enfants": [
+    "terme-2015-12-06-16-24-25-86966223954",
+    "terme-2015-12-06-16-24-25-86966223957",
+    "terme-2015-12-06-16-24-26-86966223960"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269060,
+  "identifiant-drupal-parent": 929,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-25",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Astaciculture",
+  "nom-folder": "Astaciculture",
+  "nom-machine": "terme-2015-12-06-16-24-25-86966223951",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Crayfish farming"
+    ],
+    "ar": [
+      "زراعة جراد البحر"
+    ],
+    "es": [
+      "Astacicultura"
+    ],
+    "fr": [
+      "Astaciculture"
+    ],
+    "it": [
+      "Astacicoltura"
+    ]
+  }
+}

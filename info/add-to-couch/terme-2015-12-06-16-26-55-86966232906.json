@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-55-86966232906",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Socialisme/Leninisme/",
+  "description": "Description de Léninisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1153,
+  "identifiant-drupal-parent": 1118,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-55",
+  "moment-de-modification": "2015-01-04-02-27-53",
+  "nom": "Léninisme",
+  "nom-folder": "Leninisme",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-55-86966232906"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Leninism"
+    ],
+    "ar": [
+      "اللينينية"
+    ],
+    "es": [
+      "Leninismo"
+    ],
+    "fr": [
+      "Léninisme"
+    ],
+    "it": [
+      "Leninismo"
+    ]
+  }
+}

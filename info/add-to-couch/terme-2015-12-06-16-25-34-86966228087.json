@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-34-86966228087",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-projets/Phases-de-projets/Phase-d'evaluation/",
+  "description": "Description de Phase d'évaluation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1984,
+  "identifiant-drupal-parent": 1983,
+  "mise-a-jour": "2016-05-09-16-46-19",
+  "moment-de-creation": "2015-12-06-16-25-34",
+  "moment-de-modification": "2015-01-04-02-27-41",
+  "nom": "Phase d'évaluation",
+  "nom-folder": "Phase-d'evaluation",
+  "nom-machine": "terme-2015-12-06-16-25-34-86966228087",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Evaluation stage"
+    ],
+    "ar": [
+      "مرحلة التقييم"
+    ],
+    "es": [
+      "Fase de evaluación"
+    ],
+    "fr": [
+      "Phase d'évaluation"
+    ],
+    "it": [
+      "Fase di valutazione"
+    ]
+  }
+}

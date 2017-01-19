@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-20-86966230810",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-chimiques/Chimie-organique/",
+  "description": "Description de Chimie organique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270436,
+  "identifiant-drupal-parent": 270431,
+  "mise-a-jour": "2016-05-09-16-46-29",
+  "moment-de-creation": "2015-12-06-16-26-20",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Chimie organique",
+  "nom-folder": "Chimie-organique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-20-86966230810"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Organic chemistry"
+    ],
+    "ar": [
+      "كيمياء عضوية"
+    ],
+    "es": [
+      "Química orgánica"
+    ],
+    "fr": [
+      "Chimie organique"
+    ],
+    "it": [
+      "chimica organica"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2015-12-06-16-10-39-86966174398",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/editeurs/institut-de-recherche/",
+  "description": "Description de Institut de recherche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2015-12-06-16-10-39",
+  "moment-de-modification": "2015-01-04-02-26-17",
+  "nom": "Institut de recherche",
+  "nom-folder": "institut-de-recherche",
+  "nom-machine": "terme-2015-12-06-16-10-39-86966174398",
+  "sous-type": "editeurs",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Research institute"
+    ],
+    "ar": [
+      "معهد البحوث"
+    ],
+    "es": [
+      "Instituto de investigación"
+    ],
+    "fr": [
+      "Institut de recherche"
+    ],
+    "it": [
+      "Istituto di ricerca"
+    ]
+  }
+}

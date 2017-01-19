@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-50-86966232612",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Acteurs-politiques/Institutions-internationales/",
+  "description": "Description de Institutions internationales",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1108,
+  "identifiant-drupal-parent": 1101,
+  "mise-a-jour": "2016-05-09-16-46-36",
+  "moment-de-creation": "2015-12-06-16-26-50",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Institutions internationales",
+  "nom-folder": "Institutions-internationales",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-50-86966232612"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "International Institutions"
+    ],
+    "ar": [
+      "مؤسسات دولية"
+    ],
+    "es": [
+      "Instituciones internacionales"
+    ],
+    "fr": [
+      "Institutions internationales"
+    ],
+    "it": [
+      "istituzioni internazionali"
+    ]
+  }
+}

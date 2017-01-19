@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-12-86966230334",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-des-couts-de-transaction/",
+  "description": "Description de Économie des coûts de transaction",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451203,
+  "identifiant-drupal-parent": 1492,
+  "mise-a-jour": "2016-05-09-16-46-27",
+  "moment-de-creation": "2015-12-06-16-26-12",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie des coûts de transaction",
+  "nom-folder": "Economie-des-couts-de-transaction",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-12-86966230334"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Transaction cost economics"
+    ],
+    "ar": [
+      "اقتصاد تكاليف المعاملات"
+    ],
+    "es": [
+      "Economía de los costos de transacción"
+    ],
+    "fr": [
+      "Économie des coûts de transaction"
+    ],
+    "it": [
+      "Economia dei costi di transazione"
+    ]
+  }
+}

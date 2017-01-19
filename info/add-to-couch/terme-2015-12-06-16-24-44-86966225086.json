@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-44-86966225086",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Musique/Industrie-de-la-musique/Studios-d'enregistrement-sonore/",
+  "description": "Studios d'enregistrement sonore",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466999,
+  "identifiant-drupal-parent": 466994,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-44",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Studios d’enregistrement sonore",
+  "nom-folder": "Studios-d'enregistrement-sonore",
+  "nom-machine": "terme-2015-12-06-16-24-44-86966225086",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sound recording studios"
+    ],
+    "ar": [
+      "استديوهات لتسجيل الصوت"
+    ],
+    "es": [
+      "Estudios de grabación de sonido"
+    ],
+    "fr": [
+      "Studios d’enregistrement sonore"
+    ],
+    "it": [
+      "Studi di registrazione sonora"
+    ]
+  }
+}

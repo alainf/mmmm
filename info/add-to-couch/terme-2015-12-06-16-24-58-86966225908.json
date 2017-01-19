@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-58-86966225908",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/Comptabilite-generale-(financier)/",
+  "description": "Description de Comptabilité générale (financier)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1773,
+  "identifiant-drupal-parent": 877,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-58",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Comptabilité générale (financier)",
+  "nom-folder": "Comptabilite-generale-(financier)",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-58-86966225908"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Financial Accounting"
+    ],
+    "ar": [
+      "المحاسبة العامة (المالية)"
+    ],
+    "es": [
+      "Contabilidad Pública (Hacienda)"
+    ],
+    "fr": [
+      "Comptabilité générale (financier)"
+    ],
+    "it": [
+      "Contabilità finanziaria"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-47-86966228844",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Gestion-de-la-remuneration/",
+  "description": "Description de Gestion de la rémunération",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2127,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-47",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Gestion de la rémunération",
+  "nom-folder": "Gestion-de-la-remuneration",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-47-86966228844"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Remuneration management"
+    ],
+    "ar": [
+      "إدارة التعويضات"
+    ],
+    "es": [
+      "Gestión de la remuneración"
+    ],
+    "fr": [
+      "Gestion de la rémunération"
+    ],
+    "it": [
+      "Gestione della remunerazione"
+    ]
+  }
+}

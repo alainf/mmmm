@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-01-86966233300",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Methodes-de-recherche-en-sociologie/Methodes-qualitatives-et-quantitatives/Analyse-de-reseau-(methodes)/",
+  "description": "Description de Analyse de réseau (méthodes)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1229,
+  "identifiant-drupal-parent": 1221,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-01",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Analyse de réseau (méthodes)",
+  "nom-folder": "Analyse-de-reseau-(methodes)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-01-86966233300"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Network Analysis (methods)"
+    ],
+    "ar": [
+      "تحليل الشبكة - الأساليب"
+    ],
+    "es": [
+      "Análisis de red (métodos)"
+    ],
+    "fr": [
+      "Analyse de réseau (méthodes)"
+    ],
+    "it": [
+      "Analisi di rete (metodi)"
+    ]
+  }
+}

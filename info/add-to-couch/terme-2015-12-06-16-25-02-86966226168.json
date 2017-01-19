@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-02-86966226168",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Langage-et-linguistique/Langues/Langue-arabe/",
+  "description": "Description de Langue arabe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270409,
+  "identifiant-drupal-parent": 270402,
+  "mise-a-jour": "2016-05-09-16-46-12",
+  "moment-de-creation": "2015-12-06-16-25-02",
+  "moment-de-modification": "2015-01-04-02-27-39",
+  "nom": "Langue arabe",
+  "nom-folder": "Langue-arabe",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-02-86966226168"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Arabic language"
+    ],
+    "ar": [
+      "اللغة العربية"
+    ],
+    "es": [
+      "Idioma árabe"
+    ],
+    "fr": [
+      "Langue arabe"
+    ],
+    "it": [
+      "lingua araba"
+    ]
+  }
+}

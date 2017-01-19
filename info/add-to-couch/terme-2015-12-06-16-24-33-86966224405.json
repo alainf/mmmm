@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224405",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Architecture/Theories-en-architecture/",
+  "description": "Description de Théories en architecture",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466833,
+  "identifiant-drupal-parent": 466817,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Théories en architecture",
+  "nom-folder": "Theories-en-architecture",
+  "nom-machine": "terme-2015-12-06-16-24-33-86966224405",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Theories in architecture"
+    ],
+    "ar": [
+      "النظريات الهندسة المعمارية"
+    ],
+    "es": [
+      "Teorías en arquitectura"
+    ],
+    "fr": [
+      "Théories en architecture"
+    ],
+    "it": [
+      "Teorie nell’architettura"
+    ]
+  }
+}

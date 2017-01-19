@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-08-86966233686",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Energie-renouvelable/",
+  "description": "Description de Énergie renouvelable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467104,
+  "identifiant-drupal-parent": 467101,
+  "mise-a-jour": "2016-05-09-16-46-40",
+  "moment-de-creation": "2015-12-06-16-27-08",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Énergie renouvelable",
+  "nom-folder": "Energie-renouvelable",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-08-86966233686"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Renewable energy"
+    ],
+    "ar": [
+      "طاقة متجددة"
+    ],
+    "es": [
+      "Energía renovable"
+    ],
+    "fr": [
+      "Énergie renouvelable"
+    ],
+    "it": [
+      "Energia rinnovabile"
+    ]
+  }
+}

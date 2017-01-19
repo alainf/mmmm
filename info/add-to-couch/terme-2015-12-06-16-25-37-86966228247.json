@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228247",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-usines/",
+  "description": "Description de Gestion des usines",
+  "enfants": [
+    "terme-2015-12-06-16-25-37-86966228249"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2007,
+  "identifiant-drupal-parent": 1775,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Gestion des usines",
+  "nom-folder": "Gestion-des-usines",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-37-86966228247"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Plant management"
+    ],
+    "ar": [
+      "إدارة المصانع"
+    ],
+    "es": [
+      "Gestión de fábricas"
+    ],
+    "fr": [
+      "Gestion des usines"
+    ],
+    "it": [
+      "gestione delle fabbriche"
+    ]
+  }
+}

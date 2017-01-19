@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-57-86966229470",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Theorie-des-conventions/Reciprocite/",
+  "description": "Description de Réciprocité",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472015,
+  "identifiant-drupal-parent": 2282,
+  "mise-a-jour": "2016-05-09-16-46-24",
+  "moment-de-creation": "2015-12-06-16-25-57",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Réciprocité",
+  "nom-folder": "Reciprocite",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-57-86966229470"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Reciprocity"
+    ],
+    "ar": [
+      "معاملة بالمثل"
+    ],
+    "es": [
+      "Reciprocidad"
+    ],
+    "fr": [
+      "Réciprocité"
+    ],
+    "it": [
+      "Reciprocità"
+    ]
+  }
+}

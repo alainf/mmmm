@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226585",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Protection-de-l'environnement/",
+  "description": "Description de Protection de l'environnement",
+  "enfants": [
+    "terme-2015-12-06-16-25-09-86966226589",
+    "terme-2015-12-06-16-25-09-86966226592"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270867,
+  "identifiant-drupal-parent": 884,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Protection de l'environnement",
+  "nom-folder": "Protection-de-l'environnement",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226585"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Environmental Protection"
+    ],
+    "ar": [
+      "الحفاظ على البيئة"
+    ],
+    "es": [
+      "Protección del medio ambiente"
+    ],
+    "fr": [
+      "Protection de l'environnement"
+    ],
+    "it": [
+      "Protezione dell'ambiente"
+    ]
+  }
+}

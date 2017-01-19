@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-46-86966228808",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Dynamique-en-gestion-des-ress-humaines/",
+  "description": "Description de Dynamique en gestion des ressources humaines",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2114,
+  "identifiant-drupal-parent": 2105,
+  "mise-a-jour": "2016-05-09-16-46-22",
+  "moment-de-creation": "2015-12-06-16-25-46",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "Dynamique en gestion des ressources humaines",
+  "nom-folder": "Dynamique-en-gestion-des-ress-humaines",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-46-86966228808"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Dynamics of human resource management"
+    ],
+    "ar": [
+      "ديناميكية فِي إدارة الموارد البشرية"
+    ],
+    "es": [
+      "Dinámica en Gestión de Recursos Humanos"
+    ],
+    "fr": [
+      "Dynamique en gestion des ressources humaines"
+    ],
+    "it": [
+      "Dinamica nella gestione di risorse umane"
+    ]
+  }
+}

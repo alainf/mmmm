@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228243",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-systemes-d'information/Systeme-de-gestion-de-donnees-techniques/",
+  "description": "Description de Système de gestion de données techniques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2004,
+  "identifiant-drupal-parent": 1992,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Système de gestion de données techniques",
+  "nom-folder": "Systeme-de-gestion-de-donnees-techniques",
+  "nom-machine": "terme-2015-12-06-16-25-37-86966228243",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Product Data Management PDM"
+    ],
+    "ar": [
+      "إدارة البيانات التقنية إنتاج"
+    ],
+    "es": [
+      "Sistema de gestión de datos técnicos"
+    ],
+    "fr": [
+      "Système de gestion de données techniques"
+    ],
+    "it": [
+      "Gestione di dati da prodotto"
+    ],
+    "ru": [
+      "PDM-"
+    ]
+  }
+}

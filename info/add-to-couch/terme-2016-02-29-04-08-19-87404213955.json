@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-08-19-87404213955",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/avec-quoi-ecrire/inclure-des-elements-visuels/",
+  "description": "Description de Inclure des éléments visuels",
+  "enfants": [
+    "terme-2016-02-29-04-09-13-87404217209"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-08-19",
+  "moment-de-modification": "2016-02-29-04-08-59",
+  "nom": "Inclure des éléments visuels",
+  "nom-folder": "inclure-des-elements-visuels",
+  "nom-machine": "terme-2016-02-29-04-08-19-87404213955",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Include visuals"
+    ],
+    "fr": [
+      "Inclure des éléments visuels"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-46-86966232392",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Entretien-familial/",
+  "description": "Description de Entretien familial",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472208,
+  "identifiant-drupal-parent": 1220,
+  "mise-a-jour": "2016-05-09-16-46-35",
+  "moment-de-creation": "2015-12-06-16-26-46",
+  "moment-de-modification": "2015-01-04-02-27-52",
+  "nom": "Entretien familial",
+  "nom-folder": "Entretien-familial",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-46-86966232392"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Family interview"
+    ],
+    "ar": [
+      "مقابلة أسرية"
+    ],
+    "es": [
+      "Entrevista de familia"
+    ],
+    "fr": [
+      "Entretien familial"
+    ],
+    "it": [
+      "intervista di famiglia"
+    ]
+  }
+}

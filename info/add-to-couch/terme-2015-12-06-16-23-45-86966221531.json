@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-23-45-86966221531",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Vie-culturelle/Arts-vivants/Cirque/",
+  "description": "Description de Cirque",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270615,
+  "identifiant-drupal-parent": 270606,
+  "mise-a-jour": "2016-05-09-16-45-55",
+  "moment-de-creation": "2015-12-06-16-23-45",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Cirque",
+  "nom-folder": "Cirque",
+  "nom-machine": "terme-2015-12-06-16-23-45-86966221531",
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Circus"
+    ],
+    "ar": [
+      "سيرك"
+    ],
+    "es": [
+      "Circo"
+    ],
+    "fr": [
+      "Cirque"
+    ],
+    "it": [
+      "Circo"
+    ]
+  }
+}

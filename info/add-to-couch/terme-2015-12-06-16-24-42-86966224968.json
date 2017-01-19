@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-42-86966224968",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Litterature/Litterature-celtique-galloise/",
+  "description": "Description de Littérature celtique galloise",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466957,
+  "identifiant-drupal-parent": 466943,
+  "mise-a-jour": "2016-05-09-16-46-08",
+  "moment-de-creation": "2015-12-06-16-24-42",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Littérature celtique galloise",
+  "nom-folder": "Litterature-celtique-galloise",
+  "nom-machine": "terme-2015-12-06-16-24-42-86966224968",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Medieval Welsh literature"
+    ],
+    "ar": [
+      "أدب سلتيك ويلز"
+    ],
+    "es": [
+      "Literatura de Gales"
+    ],
+    "fr": [
+      "Littérature celtique galloise"
+    ],
+    "it": [
+      "Letteratura gallese medievale"
+    ]
+  }
+}

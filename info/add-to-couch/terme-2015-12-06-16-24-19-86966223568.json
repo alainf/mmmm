@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2015-12-06-16-24-19-86966223568",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-NAF/Sylviculture-et-exploitation-forestiere/",
+  "description": "Description de Sylviculture et exploitation forestière",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Sylviculture et exploitation forestière",
+  "nom-folder": "Sylviculture-et-exploitation-forestiere",
+  "nom-machine": "terme-2015-12-06-16-24-19-86966223568",
+  "sous-type": "sujets-NAF",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Sylviculture et exploitation forestière"
+    ]
+  }
+}

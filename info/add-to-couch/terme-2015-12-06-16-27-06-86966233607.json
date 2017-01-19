@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-06-86966233607",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Theories-de-la-sociologie/Theorie-des-champs-(sociologie)/",
+  "description": "Description de Théorie des champs (sociologie)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471951,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-39",
+  "moment-de-creation": "2015-12-06-16-27-06",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Théorie des champs (sociologie)",
+  "nom-folder": "Theorie-des-champs-(sociologie)",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-06-86966233607"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fields theory (sociology)"
+    ],
+    "ar": [
+      "نظرية المجال (علم الاجتماع)"
+    ],
+    "es": [
+      "Theoría de los campos (sociología)"
+    ],
+    "fr": [
+      "Théorie des champs (sociologie)"
+    ],
+    "it": [
+      "Teoria dei campi (sociologia)"
+    ]
+  }
+}

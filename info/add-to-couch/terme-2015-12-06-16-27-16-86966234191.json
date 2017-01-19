@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-16-86966234191",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-contenu/textes/recueil-de-textes-actes/",
+  "description": "recueil de textes actes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369482,
+  "mise-a-jour": "2016-05-09-16-46-42",
+  "moment-de-creation": "2015-12-06-16-27-16",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Actes de conférence",
+  "nom-folder": "recueil-de-textes-actes",
+  "nom-machine": "terme-2015-12-06-16-27-16-86966234191",
+  "sous-type": "types-de-contenu",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Proceedings"
+    ],
+    "es": [
+      "Actas (reunión académica)"
+    ],
+    "fr": [
+      "Actes de conférence"
+    ],
+    "it": [
+      "Atti"
+    ]
+  }
+}

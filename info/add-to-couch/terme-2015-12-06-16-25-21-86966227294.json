@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-21-86966227294",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-de-gros/C-de-g-livres,-periodiques,-journaux/",
+  "description": "Description de Commerce de gros de livres, de périodiques et de journaux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451122,
+  "identifiant-drupal-parent": 451111,
+  "mise-a-jour": "2016-05-09-16-46-17",
+  "moment-de-creation": "2015-12-06-16-25-21",
+  "moment-de-modification": "2015-01-04-02-27-43",
+  "nom": "Commerce de gros de livres, de périodiques et de journaux",
+  "nom-folder": "C-de-g-livres,-periodiques,-journaux",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-21-86966227294"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wholesale trade of books, periodicals and newspapers"
+    ],
+    "ar": [
+      "تجارة بالجملة للكتب والدوريات والصحف"
+    ],
+    "es": [
+      "Comercio mayorista de libros, revistas y periódicos"
+    ],
+    "fr": [
+      "Commerce de gros de livres, de périodiques et de journaux"
+    ],
+    "it": [
+      "Commercio all'ingrosso di libri, riviste e giornali"
+    ]
+  }
+}

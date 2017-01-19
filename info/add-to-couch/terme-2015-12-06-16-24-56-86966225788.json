@@ -1,0 +1,52 @@
+{
+  "_id": "terme-2015-12-06-16-24-56-86966225788",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Finance/",
+  "custom-about": "terme-2015-12-06-16-24-56-86966225788",
+  "description": "Description de Finance",
+  "enfants": [
+    "terme-2015-12-06-16-24-56-86966225791",
+    "terme-2015-12-06-16-24-58-86966225908",
+    "terme-2015-12-06-16-24-58-86966225911",
+    "terme-2015-12-06-16-24-58-86966225914",
+    "terme-2015-12-06-16-24-58-86966225917",
+    "terme-2015-12-06-16-24-58-86966225920",
+    "terme-2015-12-06-16-24-59-86966225954",
+    "terme-2015-12-06-16-24-59-86966225956",
+    "terme-2015-12-06-16-24-59-86966225960",
+    "terme-2015-12-06-16-24-59-86966225962",
+    "terme-2015-12-06-16-24-59-86966225966",
+    "terme-2015-12-06-16-24-59-86966225972"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 877,
+  "identifiant-drupal-parent": 350,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-56",
+  "moment-de-modification": "2015-12-21-11-54-06",
+  "nom": "Finance",
+  "nom-folder": "Finance",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-56-86966225788"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Finance"
+    ],
+    "ar": [
+      "مالية"
+    ],
+    "es": [
+      "Finanza"
+    ],
+    "fr": [
+      "Finance"
+    ],
+    "it": [
+      "finanza"
+    ]
+  }
+}

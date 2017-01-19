@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-55-86966225745",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Mondialisation/Modes-de-gouvernement-et-de-legitimation/Dereglementation/",
+  "description": "Description de Déréglementation",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472076,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-55",
+  "moment-de-modification": "2015-01-04-02-27-37",
+  "nom": "Déréglementation",
+  "nom-folder": "Dereglementation",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-55-86966225745"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Deregulation"
+    ],
+    "ar": [
+      "تحرير"
+    ],
+    "es": [
+      "Desregulación"
+    ],
+    "fr": [
+      "Déréglementation"
+    ],
+    "it": [
+      "Deregolamentazione"
+    ]
+  }
+}

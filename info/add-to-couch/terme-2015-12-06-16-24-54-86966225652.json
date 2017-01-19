@@ -1,0 +1,41 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225652",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Droit/Relations-internationales/Defense-et-securite/",
+  "description": "Description de Défense et sécurité",
+  "enfants": [
+    "terme-2015-12-06-16-24-54-86966225655",
+    "terme-2015-12-06-16-24-54-86966225661"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451412,
+  "identifiant-drupal-parent": 269148,
+  "mise-a-jour": "2016-05-09-16-46-10",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Défense et sécurité",
+  "nom-folder": "Defense-et-securite",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225652"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Defence and security"
+    ],
+    "ar": [
+      "الدفاع و الامن"
+    ],
+    "es": [
+      "Defensa y seguridad"
+    ],
+    "fr": [
+      "Défense et sécurité"
+    ],
+    "it": [
+      "Difesa e sicurezza"
+    ]
+  }
+}

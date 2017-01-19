@@ -1,0 +1,44 @@
+{
+  "_id": "terme-2015-12-06-16-24-38-86966224721",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Cinema/Techniques-cinematographiques/",
+  "description": "Description de Techniques cinématographiques",
+  "enfants": [
+    "terme-2015-12-06-16-24-38-86966224724",
+    "terme-2015-12-06-16-24-38-86966224726",
+    "terme-2015-12-06-16-24-38-86966224729",
+    "terme-2015-12-06-16-24-38-86966224732",
+    "terme-2015-12-06-16-24-38-86966224735"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466889,
+  "identifiant-drupal-parent": 466876,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-38",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Techniques cinématographiques",
+  "nom-folder": "Techniques-cinematographiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-38-86966224721"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Cinematographic techniques"
+    ],
+    "ar": [
+      "تقنيات الفيلم"
+    ],
+    "es": [
+      "Técnicas cinematográficas"
+    ],
+    "fr": [
+      "Techniques cinématographiques"
+    ],
+    "it": [
+      "Tecniche cinematografiche"
+    ]
+  }
+}

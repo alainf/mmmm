@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-27-02-86966233351",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Perspectives-methodologiques-en-sociologie/Ethnomethodologie/",
+  "description": "Description de Ethnométhodologie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1241,
+  "identifiant-drupal-parent": 1191,
+  "mise-a-jour": "2016-05-09-16-46-38",
+  "moment-de-creation": "2015-12-06-16-27-02",
+  "moment-de-modification": "2015-01-04-02-27-51",
+  "nom": "Ethnométhodologie",
+  "nom-folder": "Ethnomethodologie",
+  "nom-machine": [
+    "terme-2015-12-06-16-27-02-86966233351"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ethnomethodology"
+    ],
+    "ar": [
+      "إثنوميثودولوجية"
+    ],
+    "es": [
+      "Etnometodología"
+    ],
+    "fr": [
+      "Ethnométhodologie"
+    ],
+    "it": [
+      "Etnometodologia"
+    ]
+  }
+}

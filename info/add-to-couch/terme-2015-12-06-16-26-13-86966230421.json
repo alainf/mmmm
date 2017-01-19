@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-13-86966230421",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-partagee/",
+  "description": "Description de Économie partagée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471895,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-13",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Économie partagée",
+  "nom-folder": "Economie-partagee",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-13-86966230421"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Shared economy"
+    ],
+    "ar": [
+      "الاقتصاد المشترك"
+    ],
+    "es": [
+      "Economía compartida"
+    ],
+    "fr": [
+      "Économie partagée"
+    ],
+    "it": [
+      "Economia della partecipazione"
+    ]
+  }
+}

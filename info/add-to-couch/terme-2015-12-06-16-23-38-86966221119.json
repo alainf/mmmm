@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-38-86966221119",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Affaires,-economie-et-finances-personnelles/Energie-et-environnement/",
+  "description": "Description de Énergie et environnement",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270672,
+  "identifiant-drupal-parent": 270643,
+  "mise-a-jour": "2016-05-09-16-45-53",
+  "moment-de-creation": "2015-12-06-16-23-38",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Énergie et environnement",
+  "nom-folder": "Energie-et-environnement",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-38-86966221119"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy and environment"
+    ],
+    "ar": [
+      "الطاقة والبيئة"
+    ],
+    "es": [
+      "Energía y medio ambiente"
+    ],
+    "fr": [
+      "Énergie et environnement"
+    ],
+    "it": [
+      "Energia e ambiente"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-01-86966229718",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Campagne-publicitaire/",
+  "description": "Description de Campagne publicitaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2089,
+  "identifiant-drupal-parent": 2083,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-01",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Campagne publicitaire",
+  "nom-folder": "Campagne-publicitaire",
+  "nom-machine": "terme-2015-12-06-16-26-01-86966229718",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Advertising campaign"
+    ],
+    "ar": [
+      "الحملة الإعلانية"
+    ],
+    "es": [
+      "Campaña publicitaria"
+    ],
+    "fr": [
+      "Campagne publicitaire"
+    ],
+    "it": [
+      "Campagna pubblicitaria"
+    ]
+  }
+}

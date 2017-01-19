@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-17-86966227045",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Theorie-de-l'information/",
+  "description": "Description de Théorie de l'information",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451034,
+  "identifiant-drupal-parent": 1478,
+  "mise-a-jour": "2016-05-09-16-46-16",
+  "moment-de-creation": "2015-12-06-16-25-17",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Théorie de l'information",
+  "nom-folder": "Theorie-de-l'information",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-17-86966227045"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Information Theory"
+    ],
+    "ar": [
+      "معلومات نظرية"
+    ],
+    "es": [
+      "Teoría de la Información"
+    ],
+    "fr": [
+      "Théorie de l'information"
+    ],
+    "it": [
+      "Teoria dell'informazione"
+    ]
+  }
+}

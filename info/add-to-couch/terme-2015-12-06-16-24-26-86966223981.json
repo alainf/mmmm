@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-26-86966223981",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Aquaculture/Pisciculture/Cages-piscicoles/",
+  "description": "Description de Cages piscicoles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269066,
+  "identifiant-drupal-parent": 934,
+  "mise-a-jour": "2016-05-09-16-46-04",
+  "moment-de-creation": "2015-12-06-16-24-26",
+  "moment-de-modification": "2015-01-04-02-27-35",
+  "nom": "Cages piscicoles",
+  "nom-folder": "Cages-piscicoles",
+  "nom-machine": "terme-2015-12-06-16-24-26-86966223981",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fish cages"
+    ],
+    "ar": [
+      "أقفاص الأسماك"
+    ],
+    "es": [
+      "Jaulas de peces"
+    ],
+    "fr": [
+      "Cages piscicoles"
+    ],
+    "it": [
+      "Gabbie ittiche"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "terme-2015-12-06-16-23-55-86966222122",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-JournalSeek/Business-Administration/Management-Information-Systems/",
+  "description": "Description de Management information systems",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368859,
+  "identifiant-drupal-parent": 368846,
+  "mise-a-jour": "2016-05-09-16-45-57",
+  "moment-de-creation": "2015-12-06-16-23-55",
+  "moment-de-modification": "2015-01-04-02-26-18",
+  "nom": "Management information systems",
+  "nom-folder": "Management-Information-Systems",
+  "nom-machine": "terme-2015-12-06-16-23-55-86966222122",
+  "sous-type": "sujets-JournalSeek",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Management information systems"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-33-86966224432",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Art-moderne/Action-Painting/",
+  "description": "Description de Action Painting",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466847,
+  "identifiant-drupal-parent": 466845,
+  "mise-a-jour": "2016-05-09-16-46-06",
+  "moment-de-creation": "2015-12-06-16-24-33",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Action Painting",
+  "nom-folder": "Action-Painting",
+  "nom-machine": "terme-2015-12-06-16-24-33-86966224432",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Action Painting"
+    ],
+    "ar": [
+      "تصوير انفعالي"
+    ],
+    "es": [
+      "Pintura de Acción"
+    ],
+    "fr": [
+      "Action Painting"
+    ],
+    "it": [
+      "Pittura d'azione"
+    ]
+  }
+}

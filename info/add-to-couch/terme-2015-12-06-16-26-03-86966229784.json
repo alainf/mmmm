@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-26-03-86966229784",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Segmentation-du-marche/Analyse-psychographique/",
+  "description": "Description de Analyse psychographique",
+  "enfants": [
+    "terme-2015-12-06-16-26-03-86966229787"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472403,
+  "identifiant-drupal-parent": 472404,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-26-03",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Analyse psychographique",
+  "nom-folder": "Analyse-psychographique",
+  "nom-machine": "terme-2015-12-06-16-26-03-86966229784",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Psychographics"
+    ],
+    "ar": [
+      "تخطيط شخصي للمجتمع"
+    ],
+    "es": [
+      "Análisis psicográfico"
+    ],
+    "fr": [
+      "Analyse psychographique"
+    ],
+    "it": [
+      "Analisi psicografica"
+    ]
+  }
+}

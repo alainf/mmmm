@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-09-86966226565",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Gestion-des-ressources-naturelles/",
+  "description": "Description de Gestion des ressources naturelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472369,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-14",
+  "moment-de-creation": "2015-12-06-16-25-09",
+  "moment-de-modification": "2015-01-04-02-27-45",
+  "nom": "Gestion des ressources naturelles",
+  "nom-folder": "Gestion-des-ressources-naturelles",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-09-86966226565"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Natural resource management"
+    ],
+    "ar": [
+      "إدارة الموارد الطبيعية"
+    ],
+    "es": [
+      "Gestión de recursos naturales"
+    ],
+    "fr": [
+      "Gestion des ressources naturelles"
+    ],
+    "it": [
+      "gestione di risorse naturali"
+    ]
+  }
+}

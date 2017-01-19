@@ -1,0 +1,26 @@
+{
+  "_id": "terme-2015-12-06-16-24-22-86966223759",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-sage/Social-Science-Humanities/Urban-Studies-Planning/",
+  "description": "Description de Planificationurbaine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 368207,
+  "identifiant-drupal-parent": 368147,
+  "mise-a-jour": "2016-05-09-16-46-03",
+  "moment-de-creation": "2015-12-06-16-24-22",
+  "moment-de-modification": "2015-01-04-02-27-32",
+  "nom": "Planificationurbaine",
+  "nom-folder": "Urban-Studies-Planning",
+  "nom-machine": "terme-2015-12-06-16-24-22-86966223759",
+  "sous-type": "sujets-sage",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Urban studies planning"
+    ],
+    "fr": [
+      "Planificationurbaine"
+    ]
+  }
+}

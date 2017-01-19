@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-15-86966230549",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-economiques/Fiscalite-et-droit-fiscal/Droit-fiscal-francais/",
+  "description": "Description de Droit fiscal français",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272255,
+  "identifiant-drupal-parent": 272236,
+  "mise-a-jour": "2016-05-09-16-46-28",
+  "moment-de-creation": "2015-12-06-16-26-15",
+  "moment-de-modification": "2015-01-04-02-27-38",
+  "nom": "Droit fiscal français",
+  "nom-folder": "Droit-fiscal-francais",
+  "nom-machine": "terme-2015-12-06-16-26-15-86966230549",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "French tax law"
+    ],
+    "ar": [
+      "قانون الضرائب الفرنسية"
+    ],
+    "es": [
+      "Derecho fiscal francés"
+    ],
+    "fr": [
+      "Droit fiscal français"
+    ],
+    "it": [
+      "Diritto fiscale francese"
+    ]
+  }
+}

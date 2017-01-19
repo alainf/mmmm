@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-29-86966231344",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Sante-et-bien-etre/Sante-publique/",
+  "description": "Description de Santé publique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465755,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-31",
+  "moment-de-creation": "2015-12-06-16-26-29",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Santé publique",
+  "nom-folder": "Sante-publique",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-29-86966231344"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Public Health"
+    ],
+    "ar": [
+      "الصحة العامة"
+    ],
+    "es": [
+      "Salud pública"
+    ],
+    "fr": [
+      "Santé publique"
+    ],
+    "it": [
+      "Salute pubblica"
+    ]
+  }
+}

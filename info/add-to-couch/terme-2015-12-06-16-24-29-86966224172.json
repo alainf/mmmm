@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-24-29-86966224172",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Agriculture/Peche/Histoire-de-la-peche/",
+  "description": "Description de Histoire de la pêche",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269070,
+  "identifiant-drupal-parent": 939,
+  "mise-a-jour": "2016-05-09-16-46-05",
+  "moment-de-creation": "2015-12-06-16-24-29",
+  "moment-de-modification": "2015-01-04-02-27-36",
+  "nom": "Histoire de la pêche",
+  "nom-folder": "Histoire-de-la-peche",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-29-86966224172"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "History of fishing"
+    ],
+    "ar": [
+      "تاريخ الصيد"
+    ],
+    "es": [
+      "Historia de la pesca"
+    ],
+    "fr": [
+      "Histoire de la pêche"
+    ],
+    "it": [
+      "Storia della pesca"
+    ]
+  }
+}

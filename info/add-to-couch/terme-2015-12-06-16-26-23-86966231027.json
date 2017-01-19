@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-23-86966231027",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-environnementale/Ecosystemes/",
+  "description": "Description de Écosystèmes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472213,
+  "identifiant-drupal-parent": 1302,
+  "mise-a-jour": "2016-05-09-16-46-30",
+  "moment-de-creation": "2015-12-06-16-26-23",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Écosystèmes",
+  "nom-folder": "Ecosystemes",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-23-86966231027"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Ecosystems"
+    ],
+    "ar": [
+      "النظم الإيكولوجية"
+    ],
+    "es": [
+      "Ecosistemas"
+    ],
+    "fr": [
+      "Écosystèmes"
+    ],
+    "it": [
+      "Ecosistemi"
+    ]
+  }
+}

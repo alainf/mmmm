@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-14-86966226894",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Genres-journalistiques/Tribune-libre/",
+  "description": "Description de Tribune libre",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 272314,
+  "identifiant-drupal-parent": 272308,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-14",
+  "moment-de-modification": "2015-01-04-02-27-48",
+  "nom": "Tribune libre",
+  "nom-folder": "Tribune-libre",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-14-86966226894"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Letter to the editor"
+    ],
+    "ar": [
+      "عمود الرأي"
+    ],
+    "es": [
+      "Tribuna abierta"
+    ],
+    "fr": [
+      "Tribune libre"
+    ],
+    "it": [
+      "Tribuna aperta"
+    ]
+  }
+}

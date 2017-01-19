@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-59-86966229576",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Analyse-du-marche-et-de-la-concurrence/Avantage-competitif/",
+  "description": "Description de Avantage compétitif",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455693,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-25",
+  "moment-de-creation": "2015-12-06-16-25-59",
+  "moment-de-modification": "2015-01-04-02-27-44",
+  "nom": "Avantage compétitif",
+  "nom-folder": "Avantage-competitif",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-59-86966229576"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Competitive advantage"
+    ],
+    "ar": [
+      "ميزة تنافسية"
+    ],
+    "es": [
+      "Ventaja Competitiva"
+    ],
+    "fr": [
+      "Avantage compétitif"
+    ],
+    "it": [
+      "Vantaggio competitivo"
+    ]
+  }
+}

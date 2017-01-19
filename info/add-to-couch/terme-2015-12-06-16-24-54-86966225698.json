@@ -1,0 +1,38 @@
+{
+  "_id": "terme-2015-12-06-16-24-54-86966225698",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Economie/Developpement-viable/",
+  "custom-about": "terme-2015-12-06-16-24-54-86966225698",
+  "description": "Description de Développement viable",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 472330,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-11",
+  "moment-de-creation": "2015-12-06-16-24-54",
+  "moment-de-modification": "2015-12-13-20-35-52",
+  "nom": "Développement viable",
+  "nom-folder": "Developpement-viable",
+  "nom-machine": [
+    "terme-2015-12-06-16-24-54-86966225698"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Sustainable development"
+    ],
+    "ar": [
+      "التنمية المستدامة (قابل للنمو)"
+    ],
+    "es": [
+      "Desarrollo sostenible"
+    ],
+    "fr": [
+      "Développement viable"
+    ],
+    "it": [
+      "Sviluppo viabile"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-24-36-86966224613",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Genres-theatraux/Revue-(theatre)/",
+  "description": "Description de Revue (théâtre)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467070,
+  "identifiant-drupal-parent": 467063,
+  "mise-a-jour": "2016-05-09-16-46-07",
+  "moment-de-creation": "2015-12-06-16-24-36",
+  "moment-de-modification": "2015-01-04-02-27-50",
+  "nom": "Revue (théâtre)",
+  "nom-folder": "Revue-(theatre)",
+  "nom-machine": "terme-2015-12-06-16-24-36-86966224613",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Review"
+    ],
+    "ar": [
+      "مسرح مجلة"
+    ],
+    "es": [
+      "Revista (género)"
+    ],
+    "fr": [
+      "Revue (théâtre)"
+    ],
+    "it": [
+      "Rivista (teatro)"
+    ]
+  }
+}

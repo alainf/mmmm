@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-32-86966220779",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/L'environnement-externe-de-l'entreprise/Environnement-competitif/",
+  "description": "Description de Environnement compétitif",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270497,
+  "identifiant-drupal-parent": 270483,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-32",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Environnement compétitif",
+  "nom-folder": "Environnement-competitif",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-32-86966220779"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Competitive environment"
+    ],
+    "ar": [
+      "البيئة التنافسية"
+    ],
+    "es": [
+      "Entorno competitivo"
+    ],
+    "fr": [
+      "Environnement compétitif"
+    ],
+    "it": [
+      "Ambiente competitivo"
+    ]
+  }
+}

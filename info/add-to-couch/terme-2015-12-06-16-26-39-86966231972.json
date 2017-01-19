@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-26-39-86966231972",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Religions-traditionnelles-africaines/",
+  "description": "Description de Religions traditionnelles africaines",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466773,
+  "identifiant-drupal-parent": 882,
+  "mise-a-jour": "2016-05-09-16-46-33",
+  "moment-de-creation": "2015-12-06-16-26-39",
+  "moment-de-modification": "2015-01-04-02-27-46",
+  "nom": "Religions traditionnelles africaines",
+  "nom-folder": "Religions-traditionnelles-africaines",
+  "nom-machine": [
+    "terme-2015-12-06-16-26-39-86966231972"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Traditional African religion"
+    ],
+    "ar": [
+      "الديانات التقليدية الافريقية"
+    ],
+    "es": [
+      "Religiones tradicionales africanas"
+    ],
+    "fr": [
+      "Religions traditionnelles africaines"
+    ],
+    "it": [
+      "religioni tradizionali africane"
+    ]
+  }
+}

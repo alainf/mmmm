@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-41-86966221296",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Revue-de-presse/Manchettes/",
+  "description": "Description de Manchettes",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270645,
+  "identifiant-drupal-parent": 270470,
+  "mise-a-jour": "2016-05-09-16-45-54",
+  "moment-de-creation": "2015-12-06-16-23-41",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Manchettes",
+  "nom-folder": "Manchettes",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-41-86966221296"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Headlines"
+    ],
+    "ar": [
+      "العناوين الرئيسية"
+    ],
+    "es": [
+      "Titulares"
+    ],
+    "fr": [
+      "Manchettes"
+    ],
+    "it": [
+      "Titoli (giornalismo)"
+    ],
+    "ru": [
+      "Последние новости"
+    ]
+  }
+}

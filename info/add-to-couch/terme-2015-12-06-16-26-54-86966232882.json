@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-26-54-86966232882",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Neo-conservatisme/",
+  "description": "Description de Néo-conservatisme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270723,
+  "identifiant-drupal-parent": 1105,
+  "mise-a-jour": "2016-05-09-16-46-37",
+  "moment-de-creation": "2015-12-06-16-26-54",
+  "moment-de-modification": "2015-01-04-02-27-54",
+  "nom": "Néo-conservatisme",
+  "nom-folder": "Neo-conservatisme",
+  "nom-machine": "terme-2015-12-06-16-26-54-86966232882",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Neoconservatism"
+    ],
+    "ar": [
+      "محافظون جدد"
+    ],
+    "es": [
+      "Neoconservadurismo"
+    ],
+    "fr": [
+      "Néo-conservatisme"
+    ],
+    "it": [
+      "Neoconservatorismo"
+    ]
+  }
+}

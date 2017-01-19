@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-41-43-87274734216",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Occidental/",
+  "description": "Description de Occidental",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "ie",
+  "ISO-639-2": "ile",
+  "ISO-639-3": "ile",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-41-43",
+  "moment-de-modification": "2016-02-04-04-42-35",
+  "nom": "Occidental",
+  "nom-folder": "Occidental",
+  "nom-machine": "terme-2016-02-04-04-41-43-87274734216",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Occidental_(langue)",
+  "nomLangues": {
+    "en": [
+      "Interlingue"
+    ],
+    "ar": [
+      "الغربي"
+    ],
+    "es": [
+      "Occidental"
+    ],
+    "fr": [
+      "Occidental"
+    ],
+    "it": [
+      "Occidental"
+    ],
+    "ru": [
+      "Интерлингве"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-23-31-86966220696",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Industries/Industrie-cinematographique/",
+  "description": "Description de Industrie cinématographique",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270591,
+  "identifiant-drupal-parent": 270556,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-31",
+  "moment-de-modification": "2015-01-04-02-27-34",
+  "nom": "Industrie cinématographique",
+  "nom-folder": "Industrie-cinematographique",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-31-86966220696"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Movie industry"
+    ],
+    "ar": [
+      "صناعة السينما"
+    ],
+    "es": [
+      "Industria cinematográfica"
+    ],
+    "fr": [
+      "Industrie cinématographique"
+    ],
+    "it": [
+      "Industria cinematografica"
+    ],
+    "ru": [
+      "киноиндустрии"
+    ]
+  }
+}

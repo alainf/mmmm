@@ -1,0 +1,29 @@
+{
+  "_id": "terme-2016-07-07-15-09-17-88075113430",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets-revuesOrg/Litterature/",
+  "description": "Description de Littérature",
+  "enfants": [
+    "terme-2016-07-07-15-09-46-88075115173",
+    "terme-2016-07-07-15-10-21-88075117307",
+    "terme-2016-07-07-15-12-07-88075123672",
+    "terme-2016-07-07-15-12-48-88075126100",
+    "terme-2016-07-07-15-13-23-88075128191"
+  ],
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-07-07-15-09-17",
+  "moment-de-creation": "2016-07-07-15-09-17",
+  "moment-de-modification": "2016-07-07-15-09-43",
+  "nom": "Littérature",
+  "nom-folder": "Litterature",
+  "nom-machine": "terme-2016-07-07-15-09-17-88075113430",
+  "sous-type": "sujets-revuesOrg",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Littérature"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-10-47-86966174827",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Wayuu/",
+  "description": "Description de Wayuu",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382418,
+  "mise-a-jour": "2016-05-09-16-45-49",
+  "moment-de-creation": "2015-12-06-16-10-47",
+  "moment-de-modification": "2015-01-04-02-27-58",
+  "nom": "Wayuu",
+  "nom-folder": "Wayuu",
+  "nom-machine": "terme-2015-12-06-16-10-47-86966174827",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Wayuu"
+    ],
+    "ar": [
+      "واييوية"
+    ],
+    "es": [
+      "Wayú"
+    ],
+    "fr": [
+      "Wayuu"
+    ],
+    "it": [
+      "Wayu"
+    ],
+    "ru": [
+      "Гуахиро"
+    ]
+  }
+}

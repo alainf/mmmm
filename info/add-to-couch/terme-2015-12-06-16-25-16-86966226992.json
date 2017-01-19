@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-25-16-86966226992",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Technologies-de-l'information-et-de-la-communication/Video/",
+  "description": "Description de Vidéo",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471983,
+  "identifiant-drupal-parent": 467199,
+  "mise-a-jour": "2016-05-09-16-46-15",
+  "moment-de-creation": "2015-12-06-16-25-16",
+  "moment-de-modification": "2015-01-04-02-27-49",
+  "nom": "Vidéo",
+  "nom-folder": "Video",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-16-86966226992"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Video"
+    ],
+    "ar": [
+      "فيديو"
+    ],
+    "es": [
+      "Vídeo"
+    ],
+    "fr": [
+      "Vidéo"
+    ],
+    "it": [
+      "Video"
+    ]
+  }
+}

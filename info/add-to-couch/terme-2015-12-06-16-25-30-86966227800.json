@@ -1,0 +1,35 @@
+{
+  "_id": "terme-2015-12-06-16-25-30-86966227800",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Normes-de-gestion-de-la-qualite/ISO-banques-et-services-financiers/ISO-3166/",
+  "description": "ISO 3166 code des pays",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 1894,
+  "identifiant-drupal-parent": 1891,
+  "mise-a-jour": "2016-05-09-16-46-18",
+  "moment-de-creation": "2015-12-06-16-25-30",
+  "moment-de-modification": "2015-01-04-02-27-40",
+  "nom": "ISO 3166 codes pour les noms des pays, territoires dépendants et les zones spéciales d'intérêt géographique",
+  "nom-folder": "ISO-3166",
+  "nom-machine": "terme-2015-12-06-16-25-30-86966227800",
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "ISO 3166 codes for the names of countries, dependent territories and special areas of geographical interest"
+    ],
+    "ar": [
+      "ISO 3166 رمز البلد"
+    ],
+    "es": [
+      "ISO 3166 códigos para los nombres de países, territorios dependientes y zonas especiales de interés geográfico"
+    ],
+    "fr": [
+      "ISO 3166 codes pour les noms des pays, territoires dépendants et les zones spéciales d'intérêt géographique"
+    ],
+    "it": [
+      "Iso 3166 Codici per la rappresentazione dei nomi dei Paesi e delle loro suddivisioni"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2016-02-04-04-46-00-87274749626",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Ido/",
+  "description": "Description de Ido",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "ISO-639-1": "io",
+  "ISO-639-2": "ido",
+  "ISO-639-3": "ido",
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-04-46-00",
+  "moment-de-modification": "2016-02-04-04-46-32",
+  "nom": "Ido",
+  "nom-folder": "Ido",
+  "nom-machine": "terme-2016-02-04-04-46-00-87274749626",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "URL-wikipedia": "https://fr.wikipedia.org/wiki/Ido",
+  "nomLangues": {
+    "en": [
+      "Ido"
+    ],
+    "ar": [
+      "إيدو"
+    ],
+    "es": [
+      "Ido"
+    ],
+    "fr": [
+      "Ido"
+    ],
+    "it": [
+      "Ido"
+    ],
+    "ru": [
+      "Идо"
+    ]
+  }
+}

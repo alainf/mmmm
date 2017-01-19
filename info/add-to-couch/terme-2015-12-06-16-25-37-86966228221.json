@@ -1,0 +1,40 @@
+{
+  "_id": "terme-2015-12-06-16-25-37-86966228221",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-des-systemes-d'information/Gestion-des-reseaux-informatiques/",
+  "description": "Description de Gestion des réseaux informatiques",
+  "enfants": [
+    "terme-2015-12-06-16-25-37-86966228224"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 2001,
+  "identifiant-drupal-parent": 1992,
+  "mise-a-jour": "2016-05-09-16-46-20",
+  "moment-de-creation": "2015-12-06-16-25-37",
+  "moment-de-modification": "2015-01-04-02-27-42",
+  "nom": "Gestion des réseaux informatiques",
+  "nom-folder": "Gestion-des-reseaux-informatiques",
+  "nom-machine": [
+    "terme-2015-12-06-16-25-37-86966228221"
+  ],
+  "sous-type": "sujets",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "IT Networking"
+    ],
+    "ar": [
+      "إدارة شبكات المعلوماتية"
+    ],
+    "es": [
+      "Gestión de redes informáticas"
+    ],
+    "fr": [
+      "Gestion des réseaux informatiques"
+    ],
+    "it": [
+      "Gestione di reti informatiche"
+    ]
+  }
+}

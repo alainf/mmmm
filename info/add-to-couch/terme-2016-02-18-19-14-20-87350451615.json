@@ -1,0 +1,33 @@
+{
+  "_id": "terme-2016-02-18-19-14-20-87350451615",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/Fongbe/",
+  "description": "Description de Fongbe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-51",
+  "moment-de-creation": "2016-02-18-19-14-20",
+  "moment-de-modification": "2016-02-18-19-15-13",
+  "nom": "Fongbe",
+  "nom-folder": "Fongbe",
+  "nom-machine": "terme-2016-02-18-19-14-20-87350451615",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Fon"
+    ],
+    "es": [
+      "Fon"
+    ],
+    "fr": [
+      "Fongbe"
+    ],
+    "it": [
+      "Fon"
+    ],
+    "ru": [
+      "Фон"
+    ]
+  }
+}

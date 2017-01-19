@@ -1,0 +1,28 @@
+{
+  "_id": "terme-2016-02-29-04-55-40-87404384457",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/cogitae/pourquoi-ecrire/ecrire-pour-temoigner/",
+  "description": "Description de Écrire pour témoigner",
+  "enfants": [
+    "terme-2016-02-29-04-56-30-87404387427"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "fiche-supprimee": false,
+  "mise-a-jour": "2016-05-09-16-45-47",
+  "moment-de-creation": "2016-02-29-04-55-40",
+  "moment-de-modification": "2016-02-29-04-56-21",
+  "nom": "Écrire pour témoigner",
+  "nom-folder": "ecrire-pour-temoigner",
+  "nom-machine": "terme-2016-02-29-04-55-40-87404384457",
+  "sous-type": "cogitae",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Writing to testify"
+    ],
+    "fr": [
+      "Écrire pour témoigner"
+    ]
+  }
+}

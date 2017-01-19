@@ -1,0 +1,31 @@
+{
+  "_id": "terme-2015-12-06-16-27-19-86966234349",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/types-de-acteur/syndicat/",
+  "description": "Description de Syndicat",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 369339,
+  "mise-a-jour": "2016-05-09-16-46-41",
+  "moment-de-creation": "2015-12-06-16-27-19",
+  "moment-de-modification": "2015-01-04-02-27-56",
+  "nom": "Syndicat",
+  "nom-folder": "syndicat",
+  "nom-machine": "terme-2015-12-06-16-27-19-86966234349",
+  "sous-type": "types-de-acteur",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Trade union"
+    ],
+    "es": [
+      "Sindicato"
+    ],
+    "fr": [
+      "Syndicat"
+    ],
+    "it": [
+      "Sindacato"
+    ]
+  }
+}

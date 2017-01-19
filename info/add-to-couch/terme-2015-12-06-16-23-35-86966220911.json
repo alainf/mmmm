@@ -1,0 +1,37 @@
+{
+  "_id": "terme-2015-12-06-16-23-35-86966220911",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/sections/Entreprise/Secteurs-industriels/Energie/",
+  "description": "Description de Énergie",
+  "fiche-a-completer": false,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270558,
+  "identifiant-drupal-parent": 270557,
+  "mise-a-jour": "2016-05-09-16-45-52",
+  "moment-de-creation": "2015-12-06-16-23-35",
+  "moment-de-modification": "2015-01-04-02-27-33",
+  "nom": "Énergie",
+  "nom-folder": "Energie",
+  "nom-machine": [
+    "terme-2015-12-06-16-23-35-86966220911"
+  ],
+  "sous-type": "sections",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Energy"
+    ],
+    "ar": [
+      "الطاقة"
+    ],
+    "es": [
+      "Energía"
+    ],
+    "fr": [
+      "Énergie"
+    ],
+    "it": [
+      "Energia"
+    ]
+  }
+}

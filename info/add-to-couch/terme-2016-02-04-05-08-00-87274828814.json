@@ -1,0 +1,21 @@
+{
+  "_id": "terme-2016-02-04-05-08-00-87274828814",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "taxonomies/langues/terme-2016-02-04-05-08-00-87274828814/",
+  "description": "Description de Terme-2016-02-04-05-08-00-87274828814",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-05-09-16-45-50",
+  "moment-de-creation": "2016-02-04-05-08-00",
+  "moment-de-modification": "2016-02-04-05-08-00",
+  "nom": "Terme-2016-02-04-05-08-00-87274828814",
+  "nom-folder": "terme-2016-02-04-05-08-00-87274828814",
+  "nom-machine": "terme-2016-02-04-05-08-00-87274828814",
+  "sous-type": "langues",
+  "type": "taxonomies",
+  "nomLangues": {
+    "fr": [
+      "Terme-2016-02-04-05-08-00-87274828814"
+    ]
+  }
+}
