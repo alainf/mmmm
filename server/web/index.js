@@ -229,6 +229,14 @@ exports.register = function (server, options, next) {
 // enfants?reduce=false&include_docs=true&startkey=["sections","terme-2015-12-06-16-23-35-86966220949"]&endkey=["sections","terme-2015-12-06-16-23-35-86966220949",{}]
 */
 
+  const mapperSousSujets = (request, callback) => {
+    callback(
+      null,
+      dbUrl + `/_design/app/_view/enfants?reduce=false&include_docs=true&startkey=${JSON.stringify(['sujets', request.params.sujetId])}&endkey=${JSON.stringify(['sujets', request.params.sujetId,{}])}`,
+      { accept: 'application/json' }
+    )
+  }
+
   const mapperSousSections = (request, callback) => {
     callback(
       null,
@@ -328,6 +336,13 @@ exports.register = function (server, options, next) {
   const sousSections = function (request, reply) {
     reply.proxy({
       mapUri: mapperSousSections,
+      onResponse: responderSousSections
+    })
+  }
+
+  const sousSujets = function (request, reply) {
+    reply.proxy({
+      mapUri: mapperSousSujets,
       onResponse: responderSousSections
     })
   }
@@ -666,6 +681,10 @@ topSujets
     path: '/{languageCode}/sujet/{sujetId}/{n?}',
     config: {
       pre: [
+        {
+          method: sousSujets,
+          assign: 'topSujets'
+        },
         {
           method: topSections,
           assign: 'topSections'
