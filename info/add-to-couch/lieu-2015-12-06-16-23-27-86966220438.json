@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-27-86966220438",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Zimbabwe/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365276,
+  "mise-a-jour": "2016-02-04-18-48-43",
+  "moment-de-creation": "2015-12-06-16-23-27",
+  "moment-de-modification": "2016-02-04-18-48-43",
+  "nom": "Zimbabwe",
+  "nom-folder": "Zimbabwe",
+  "nom-machine": "lieu-2015-12-06-16-23-27-86966220438",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Zimbabwe"
+    ],
+    "ar": [
+      "زيمبابوي"
+    ],
+    "es": [
+      "Zimbabue"
+    ],
+    "fr": [
+      "Zimbabwe"
+    ],
+    "it": [
+      "Zimbabwe"
+    ],
+    "ru": [
+      "Зимбабве"
+    ]
+  }
+}

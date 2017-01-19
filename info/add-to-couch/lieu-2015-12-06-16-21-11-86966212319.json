@@ -1,0 +1,24 @@
+{
+  "_id": "lieu-2015-12-06-16-21-11-86966212319",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Iles-Mariannes/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380816,
+  "mise-a-jour": "2016-02-04-17-36-39",
+  "moment-de-creation": "2015-12-06-16-21-11",
+  "moment-de-modification": "2016-02-04-17-36-39",
+  "nom": "Îles Mariannes",
+  "nom-folder": "Iles-Mariannes",
+  "nom-machine": "lieu-2015-12-06-16-21-11-86966212319",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Northern Mariana Islands"
+    ],
+    "fr": [
+      "Îles Mariannes"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-16-55-86966196948",
+  "breadcrumb": "lieux/ville/France/Aude/Aigues-Vives/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-16-55",
+  "nom": "Aigues-Vives",
+  "nom-folder": "Aigues-Vives",
+  "nom-machine": "lieu-2015-12-06-16-16-55-86966196948",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Aigues-Vives"
+    ]
+  }
+}

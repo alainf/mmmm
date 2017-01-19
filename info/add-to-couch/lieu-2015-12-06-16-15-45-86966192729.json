@@ -1,0 +1,32 @@
+{
+  "_id": "lieu-2015-12-06-16-15-45-86966192729",
+  "breadcrumb": "lieux/pays/Iles-Feroe/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-15-45",
+  "nom": "Îles Féroé",
+  "nom-folder": "Iles-Feroe",
+  "nom-machine": "lieu-2015-12-06-16-15-45-86966192729",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Faroe Islands"
+    ],
+    "ar": [
+      "جزر فارو"
+    ],
+    "es": [
+      "Islas Feroe"
+    ],
+    "fr": [
+      "Îles Féroé"
+    ],
+    "it": [
+      "Fær Øer"
+    ],
+    "ru": [
+      "Фарерские острова"
+    ]
+  }
+}

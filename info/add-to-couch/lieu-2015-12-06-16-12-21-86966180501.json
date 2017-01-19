@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-12-21-86966180501",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Antilles/Iles-Turques-et-Caiques/",
+  "description": "Îles Turques et Caïques",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380801,
+  "mise-a-jour": "2015-01-04-02-26-20",
+  "moment-de-creation": "2015-12-06-16-12-21",
+  "moment-de-modification": "2015-01-04-02-26-20",
+  "nom": "Îles Turques et Caïques",
+  "nom-folder": "Iles-Turques-et-Caiques",
+  "nom-machine": "lieu-2015-12-06-16-12-21-86966180501",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Turks and Caicos Islands"
+    ],
+    "ar": [
+      "جزر توركس وكايكوس"
+    ],
+    "es": [
+      "Islas Turcas y Caicos"
+    ],
+    "fr": [
+      "Îles Turques et Caïques"
+    ],
+    "it": [
+      "Turks e Caicos"
+    ],
+    "ru": [
+      "Теркс и Кайкос"
+    ]
+  }
+}

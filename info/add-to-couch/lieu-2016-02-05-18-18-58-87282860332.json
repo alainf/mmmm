@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2016-02-05-18-18-58-87282860332",
+  "breadcrumb": "lieux/reserve/Canada/Colombie-Britannique/Tsimshian/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2016-02-05-18-18-58",
+  "nom": "Tsimshian",
+  "nom-folder": "Tsimshian",
+  "nom-machine": "lieu-2016-02-05-18-18-58-87282860332",
+  "sous-type": "reserve",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Tsimshian"
+    ]
+  }
+}

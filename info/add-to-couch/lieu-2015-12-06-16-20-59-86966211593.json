@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-20-59-86966211593",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Guyana/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365295,
+  "mise-a-jour": "2016-02-04-16-49-40",
+  "moment-de-creation": "2015-12-06-16-20-59",
+  "moment-de-modification": "2016-02-04-16-49-40",
+  "nom": "Guyana",
+  "nom-folder": "Guyana",
+  "nom-machine": "lieu-2015-12-06-16-20-59-86966211593",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Guyana"
+    ],
+    "ar": [
+      "غيانا"
+    ],
+    "es": [
+      "Guayana"
+    ],
+    "fr": [
+      "Guyana"
+    ],
+    "it": [
+      "Guyana"
+    ],
+    "ru": [
+      "Гайана"
+    ]
+  }
+}

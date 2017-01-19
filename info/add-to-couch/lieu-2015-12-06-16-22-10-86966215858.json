@@ -1,0 +1,32 @@
+{
+  "_id": "lieu-2015-12-06-16-22-10-86966215858",
+  "breadcrumb": "lieux/pays/Kiribati/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-22-10",
+  "nom": "Kiribati",
+  "nom-folder": "Kiribati",
+  "nom-machine": "lieu-2015-12-06-16-22-10-86966215858",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Kiribati"
+    ],
+    "ar": [
+      "كيريباتي"
+    ],
+    "es": [
+      "Kiribati"
+    ],
+    "fr": [
+      "Kiribati"
+    ],
+    "it": [
+      "Kiribati"
+    ],
+    "ru": [
+      "Кирибати"
+    ]
+  }
+}

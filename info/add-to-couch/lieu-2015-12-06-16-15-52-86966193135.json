@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-52-86966193135",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Emirats-arabes-unis/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365415,
+  "mise-a-jour": "2016-02-04-15-45-35",
+  "moment-de-creation": "2015-12-06-16-15-52",
+  "moment-de-modification": "2016-02-04-15-45-35",
+  "nom": "Émirats arabes unis",
+  "nom-folder": "Emirats-arabes-unis",
+  "nom-machine": "lieu-2015-12-06-16-15-52-86966193135",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "United Arab Emirates"
+    ],
+    "ar": [
+      "الإمارات العربية المتحدة"
+    ],
+    "es": [
+      "Emiratos Árabes Unidos"
+    ],
+    "fr": [
+      "Émirats arabes unis"
+    ],
+    "it": [
+      "Emirati Arabi Uniti"
+    ],
+    "ru": [
+      "Объединённые Арабские Эмираты"
+    ]
+  }
+}

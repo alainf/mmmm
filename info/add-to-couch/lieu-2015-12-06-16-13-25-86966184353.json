@@ -1,0 +1,23 @@
+{
+  "_id": "lieu-2015-12-06-16-13-25-86966184353",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/reserve/Canada/Manitoba/Opaskwayak-Cree-Nation-21B/",
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": false,
+  "identifiant-drupal": 0,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2017-01-05-20-29-40",
+  "moment-de-creation": "2017-01-05-20-29-40",
+  "moment-de-modification": "2017-01-05-20-31-33",
+  "nom": "Opaskwayak Cree Nation 21B",
+  "nom-folder": "Opaskwayak-Cree-Nation-21B",
+  "nom-machine": "lieu-2015-12-06-16-13-25-86966184353",
+  "sous-type": "reserve",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Opaskwayak Cree Nation 21B"
+    ]
+  }
+}

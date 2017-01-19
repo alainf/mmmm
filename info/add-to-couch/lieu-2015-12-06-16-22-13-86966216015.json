@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-13-86966216015",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Nicaragua/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365287,
+  "mise-a-jour": "2016-02-04-17-47-13",
+  "moment-de-creation": "2015-12-06-16-22-13",
+  "moment-de-modification": "2016-02-04-17-47-13",
+  "nom": "Nicaragua",
+  "nom-folder": "Nicaragua",
+  "nom-machine": "lieu-2015-12-06-16-22-13-86966216015",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Nicaragua"
+    ],
+    "ar": [
+      "نيكاراغوا"
+    ],
+    "es": [
+      "Nicaragua"
+    ],
+    "fr": [
+      "Nicaragua"
+    ],
+    "it": [
+      "Nicaragua"
+    ],
+    "ru": [
+      "Никарагуа"
+    ]
+  }
+}

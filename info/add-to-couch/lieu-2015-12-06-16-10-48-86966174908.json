@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174908",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Amerique/Amerique-du-Nord/",
+  "description": "Amérique du Nord",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362055,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Amérique du Nord",
+  "nom-folder": "Amerique-du-Nord",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174908",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "North America"
+    ],
+    "ar": [
+      "أمريكا الشمالية"
+    ],
+    "es": [
+      "América del Norte"
+    ],
+    "fr": [
+      "Amérique du Nord"
+    ],
+    "it": [
+      "America del Nord"
+    ],
+    "ru": [
+      "Северная Америка"
+    ]
+  }
+}

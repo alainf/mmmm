@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-31-86966181066",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Bangladesh/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365313,
+  "mise-a-jour": "2016-02-04-16-03-01",
+  "moment-de-creation": "2015-12-06-16-12-31",
+  "moment-de-modification": "2016-02-04-16-03-01",
+  "nom": "Bangladesh",
+  "nom-folder": "Bangladesh",
+  "nom-machine": "lieu-2015-12-06-16-12-31-86966181066",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Bangladesh"
+    ],
+    "ar": [
+      "بنغلاديش"
+    ],
+    "es": [
+      "Bangladés"
+    ],
+    "fr": [
+      "Bangladesh"
+    ],
+    "it": [
+      "Bangladesh"
+    ],
+    "ru": [
+      "Бангладеш"
+    ]
+  }
+}

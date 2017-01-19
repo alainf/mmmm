@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-12-22-86966180527",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Antilles/Iles-Vierges-americaines/",
+  "description": "Îles Vierges américaines",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380833,
+  "mise-a-jour": "2015-01-04-02-26-20",
+  "moment-de-creation": "2015-12-06-16-12-22",
+  "moment-de-modification": "2015-01-04-02-26-20",
+  "nom": "Îles Vierges américaines",
+  "nom-folder": "Iles-Vierges-americaines",
+  "nom-machine": "lieu-2015-12-06-16-12-22-86966180527",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "United States Virgin Islands"
+    ],
+    "ar": [
+      "جزر العذراء الأمريكية"
+    ],
+    "es": [
+      "Islas Vírgenes de los Estados Unidos"
+    ],
+    "fr": [
+      "Îles Vierges américaines"
+    ],
+    "it": [
+      "Isole Vergini americane"
+    ],
+    "ru": [
+      "Вирги́нские острова Соединённых Штатов"
+    ]
+  }
+}

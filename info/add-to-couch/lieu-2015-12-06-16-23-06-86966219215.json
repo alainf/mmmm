@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-06-86966219215",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Tunisie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365274,
+  "mise-a-jour": "2016-02-04-18-35-22",
+  "moment-de-creation": "2015-12-06-16-23-06",
+  "moment-de-modification": "2016-02-04-18-35-22",
+  "nom": "Tunisie",
+  "nom-folder": "Tunisie",
+  "nom-machine": "lieu-2015-12-06-16-23-06-86966219215",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Tunisia"
+    ],
+    "ar": [
+      "تونس"
+    ],
+    "es": [
+      "Túnez"
+    ],
+    "fr": [
+      "Tunisie"
+    ],
+    "it": [
+      "Tunisia"
+    ],
+    "ru": [
+      "Тунис"
+    ]
+  }
+}

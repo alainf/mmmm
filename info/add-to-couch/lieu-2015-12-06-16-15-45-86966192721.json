@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-45-86966192721",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Danemark/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365357,
+  "mise-a-jour": "2016-02-04-16-31-22",
+  "moment-de-creation": "2015-12-06-16-15-45",
+  "moment-de-modification": "2016-02-04-16-31-22",
+  "nom": "Danemark",
+  "nom-folder": "Danemark",
+  "nom-machine": "lieu-2015-12-06-16-15-45-86966192721",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Denmark"
+    ],
+    "ar": [
+      "الدنمارك"
+    ],
+    "es": [
+      "Dinamarca"
+    ],
+    "fr": [
+      "Danemark"
+    ],
+    "it": [
+      "Danimarca"
+    ],
+    "ru": [
+      "Дания"
+    ]
+  }
+}

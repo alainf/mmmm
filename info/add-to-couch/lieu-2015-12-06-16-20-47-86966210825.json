@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-20-47-86966210825",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Ghana/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365248,
+  "mise-a-jour": "2016-02-04-16-43-57",
+  "moment-de-creation": "2015-12-06-16-20-47",
+  "moment-de-modification": "2016-02-04-16-43-57",
+  "nom": "Ghana",
+  "nom-folder": "Ghana",
+  "nom-machine": "lieu-2015-12-06-16-20-47-86966210825",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Ghana"
+    ],
+    "ar": [
+      "غانا"
+    ],
+    "es": [
+      "Ghana"
+    ],
+    "fr": [
+      "Ghana"
+    ],
+    "it": [
+      "Ghana"
+    ],
+    "ru": [
+      "Гана"
+    ]
+  }
+}

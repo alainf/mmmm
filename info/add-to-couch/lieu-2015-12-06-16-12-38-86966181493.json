@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-38-86966181493",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Benin/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365234,
+  "mise-a-jour": "2016-02-04-16-09-47",
+  "moment-de-creation": "2015-12-06-16-12-38",
+  "moment-de-modification": "2016-02-04-16-09-47",
+  "nom": "Bénin",
+  "nom-folder": "Benin",
+  "nom-machine": "lieu-2015-12-06-16-12-38-86966181493",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Benin"
+    ],
+    "ar": [
+      "بنين"
+    ],
+    "es": [
+      "Benín"
+    ],
+    "fr": [
+      "Bénin"
+    ],
+    "it": [
+      "Benin"
+    ],
+    "ru": [
+      "Бенин"
+    ]
+  }
+}

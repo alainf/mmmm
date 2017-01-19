@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-36-86966213760",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/La-Reunion/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362102,
+  "mise-a-jour": "2016-02-04-18-19-22",
+  "moment-de-creation": "2015-12-06-16-21-36",
+  "moment-de-modification": "2016-02-04-18-19-22",
+  "nom": "La Réunion",
+  "nom-folder": "La-Reunion",
+  "nom-machine": "lieu-2015-12-06-16-21-36-86966213760",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Reunion (French)"
+    ],
+    "ar": [
+      "لا ريونيون"
+    ],
+    "es": [
+      "Reunión"
+    ],
+    "fr": [
+      "La Réunion"
+    ],
+    "it": [
+      "Riunione"
+    ],
+    "ru": [
+      "Реюньон"
+    ]
+  }
+}

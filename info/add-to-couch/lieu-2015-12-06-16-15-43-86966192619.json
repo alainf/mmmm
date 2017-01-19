@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-43-86966192619",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Croatie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365356,
+  "mise-a-jour": "2016-02-04-16-52-13",
+  "moment-de-creation": "2015-12-06-16-15-43",
+  "moment-de-modification": "2016-02-04-16-52-13",
+  "nom": "Croatie",
+  "nom-folder": "Croatie",
+  "nom-machine": "lieu-2015-12-06-16-15-43-86966192619",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Croatia"
+    ],
+    "ar": [
+      "كرواتيا"
+    ],
+    "es": [
+      "Croacia"
+    ],
+    "fr": [
+      "Croatie"
+    ],
+    "it": [
+      "Croazia"
+    ],
+    "ru": [
+      "Хорватия"
+    ]
+  }
+}

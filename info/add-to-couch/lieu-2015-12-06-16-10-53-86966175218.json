@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-10-53-86966175218",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Allemagne/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365348,
+  "mise-a-jour": "2016-02-05-23-54-13",
+  "moment-de-creation": "2015-12-06-16-10-53",
+  "moment-de-modification": "2016-02-05-23-54-13",
+  "nom": "Allemagne",
+  "nom-folder": "Allemagne",
+  "nom-machine": "lieu-2015-12-06-16-10-53-86966175218",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Germany"
+    ],
+    "ar": [
+      "ألمانيا"
+    ],
+    "es": [
+      "Alemania"
+    ],
+    "fr": [
+      "Allemagne"
+    ],
+    "it": [
+      "Germania"
+    ],
+    "ru": [
+      "Германия"
+    ]
+  }
+}

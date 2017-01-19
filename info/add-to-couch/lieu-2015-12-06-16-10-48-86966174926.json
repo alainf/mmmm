@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174926",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Europe/",
+  "description": "Europe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362074,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Europe",
+  "nom-folder": "Europe",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174926",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Europe"
+    ],
+    "ar": [
+      "أوروبا"
+    ],
+    "es": [
+      "Europa"
+    ],
+    "fr": [
+      "Europe"
+    ],
+    "it": [
+      "Europa"
+    ],
+    "ru": [
+      "Европа"
+    ]
+  }
+}

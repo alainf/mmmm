@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-18-45-86966203508",
+  "breadcrumb": "lieux/region/France/Haut-Rhin/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-18-45",
+  "nom": "Haut-Rhin",
+  "nom-folder": "Haut-Rhin",
+  "nom-machine": "lieu-2015-12-06-16-18-45-86966203508",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Haut-Rhin"
+    ]
+  }
+}

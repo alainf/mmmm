@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-14-33-86966188434",
+  "breadcrumb": "lieux/region/Canada/Quebec/Lac-Saint-Jean-Est/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-14-33",
+  "nom": "Lac-Saint-Jean-Est",
+  "nom-folder": "Lac-Saint-Jean-Est",
+  "nom-machine": "lieu-2015-12-06-16-14-33-86966188434",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Lac-Saint-Jean-Est"
+    ]
+  }
+}

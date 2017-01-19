@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-46-86966218007",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Sainte-Lucie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365307,
+  "mise-a-jour": "2016-02-04-17-25-26",
+  "moment-de-creation": "2015-12-06-16-22-46",
+  "moment-de-modification": "2016-02-04-17-25-26",
+  "nom": "Sainte-Lucie",
+  "nom-folder": "Sainte-Lucie",
+  "nom-machine": "lieu-2015-12-06-16-22-46-86966218007",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Saint Lucia"
+    ],
+    "ar": [
+      "سانت لوسيا"
+    ],
+    "es": [
+      "Santa Lucía"
+    ],
+    "fr": [
+      "Sainte-Lucie"
+    ],
+    "it": [
+      "Santa Lucia"
+    ],
+    "ru": [
+      "Сент-Люсия"
+    ]
+  }
+}

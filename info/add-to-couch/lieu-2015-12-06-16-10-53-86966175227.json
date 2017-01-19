@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-10-53-86966175227",
+  "breadcrumb": "lieux/region/Allemagne/Bade-Wurtemberg/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-10-53",
+  "nom": "Bade-Wurtemberg",
+  "nom-folder": "Bade-Wurtemberg",
+  "nom-machine": "lieu-2015-12-06-16-10-53-86966175227",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Bade-Wurtemberg"
+    ]
+  }
+}

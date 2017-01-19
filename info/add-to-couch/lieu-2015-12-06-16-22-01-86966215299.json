@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-01-86966215299",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Martinique/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362104,
+  "mise-a-jour": "2016-02-04-17-37-19",
+  "moment-de-creation": "2015-12-06-16-22-01",
+  "moment-de-modification": "2016-02-04-17-37-19",
+  "nom": "Martinique",
+  "nom-folder": "Martinique",
+  "nom-machine": "lieu-2015-12-06-16-22-01-86966215299",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Martinique"
+    ],
+    "ar": [
+      "مارتينيك"
+    ],
+    "es": [
+      "Martinica"
+    ],
+    "fr": [
+      "Martinique"
+    ],
+    "it": [
+      "Martinica"
+    ],
+    "ru": [
+      "Мартиника"
+    ]
+  }
+}

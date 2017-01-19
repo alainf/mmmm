@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174929",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/France-Outre-Mer/",
+  "description": "France Outre-Mer",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362098,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "France d'outre-Mer",
+  "nom-folder": "France-Outre-Mer",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174929",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Overseas departments and territories of France"
+    ],
+    "ar": [
+      "مقاطعات وأقاليم ما وراء البحار الفرنسية"
+    ],
+    "es": [
+      "Francia de ultramar"
+    ],
+    "fr": [
+      "France d'outre-Mer"
+    ],
+    "it": [
+      "Francia d'oltremare"
+    ],
+    "ru": [
+      "Заморские территории Франции"
+    ]
+  }
+}

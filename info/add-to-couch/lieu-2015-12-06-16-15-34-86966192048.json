@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-34-86966192048",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Colombie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365293,
+  "mise-a-jour": "2016-02-04-16-25-15",
+  "moment-de-creation": "2015-12-06-16-15-34",
+  "moment-de-modification": "2016-02-04-16-25-15",
+  "nom": "Colombie",
+  "nom-folder": "Colombie",
+  "nom-machine": "lieu-2015-12-06-16-15-34-86966192048",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Colombia"
+    ],
+    "ar": [
+      "كولومبيا"
+    ],
+    "es": [
+      "Colombia"
+    ],
+    "fr": [
+      "Colombie"
+    ],
+    "it": [
+      "Colombia"
+    ],
+    "ru": [
+      "Колумбия"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-02-86966218925",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Swaziland/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365270,
+  "mise-a-jour": "2016-02-04-18-30-44",
+  "moment-de-creation": "2015-12-06-16-23-02",
+  "moment-de-modification": "2016-02-04-18-30-44",
+  "nom": "Swaziland",
+  "nom-folder": "Swaziland",
+  "nom-machine": "lieu-2015-12-06-16-23-02-86966218925",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Swaziland"
+    ],
+    "ar": [
+      "سوازيلاند"
+    ],
+    "es": [
+      "Suazilandia"
+    ],
+    "fr": [
+      "Swaziland"
+    ],
+    "it": [
+      "Swaziland"
+    ],
+    "ru": [
+      "Свазиленд"
+    ]
+  }
+}

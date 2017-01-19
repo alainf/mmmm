@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174922",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Commonwealth-of-Nations/",
+  "description": "Commonwealth-of-Nations",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 379213,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Commonwealth-of-Nations",
+  "nom-folder": "Commonwealth-of-Nations",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174922",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Commonwealth of Nations"
+    ],
+    "ar": [
+      "دول الكومنولث"
+    ],
+    "es": [
+      "Mancomunidad de Naciones"
+    ],
+    "fr": [
+      "Commonwealth-of-Nations"
+    ],
+    "it": [
+      "Commonwealth delle nazioni"
+    ],
+    "ru": [
+      "Содружество наций"
+    ]
+  }
+}

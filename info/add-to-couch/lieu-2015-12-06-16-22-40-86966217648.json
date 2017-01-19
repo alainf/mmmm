@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-40-86966217648",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Republique-democratique-du-Congo/",
+  "description": "République démocratique du Congo",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365241,
+  "mise-a-jour": "2015-01-04-02-27-21",
+  "moment-de-creation": "2015-12-06-16-22-40",
+  "moment-de-modification": "2015-01-04-02-27-21",
+  "nom": "République démocratique du Congo",
+  "nom-folder": "Republique-democratique-du-Congo",
+  "nom-machine": "lieu-2015-12-06-16-22-40-86966217648",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Democratic Republic of the Congo"
+    ],
+    "ar": [
+      "جمهورية الكونغو الديمقراطية"
+    ],
+    "es": [
+      "República Democrática del Congo"
+    ],
+    "fr": [
+      "République démocratique du Congo"
+    ],
+    "it": [
+      "Repubblica Democratica del Congo"
+    ],
+    "ru": [
+      "Демократическая Республика Конго"
+    ]
+  }
+}

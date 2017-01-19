@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-21-86966180476",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Andorre/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365349,
+  "mise-a-jour": "2016-02-04-15-42-31",
+  "moment-de-creation": "2015-12-06-16-12-21",
+  "moment-de-modification": "2016-02-04-15-42-31",
+  "nom": "Andorre",
+  "nom-folder": "Andorre",
+  "nom-machine": "lieu-2015-12-06-16-12-21-86966180476",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Andorra"
+    ],
+    "ar": [
+      "أندورا"
+    ],
+    "es": [
+      "Andorra"
+    ],
+    "fr": [
+      "Andorre"
+    ],
+    "it": [
+      "Andorra"
+    ],
+    "ru": [
+      "Андорра"
+    ]
+  }
+}

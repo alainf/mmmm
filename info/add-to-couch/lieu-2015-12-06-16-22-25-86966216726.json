@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2015-12-06-16-22-25-86966216726",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Panama/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-04-17-52-14",
+  "moment-de-creation": "2015-12-06-16-22-25",
+  "moment-de-modification": "2016-02-04-17-52-14",
+  "nom": "Panama",
+  "nom-folder": "Panama",
+  "nom-machine": "lieu-2015-12-06-16-22-25-86966216726",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Panama"
+    ],
+    "ar": [
+      "بنما"
+    ],
+    "es": [
+      "Panamá"
+    ],
+    "fr": [
+      "Panama"
+    ],
+    "it": [
+      "Panama"
+    ],
+    "ru": [
+      "Панама"
+    ]
+  }
+}

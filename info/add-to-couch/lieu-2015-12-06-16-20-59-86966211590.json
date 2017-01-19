@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-20-59-86966211590",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Guinee/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365404,
+  "mise-a-jour": "2016-02-04-16-46-08",
+  "moment-de-creation": "2015-12-06-16-20-59",
+  "moment-de-modification": "2016-02-04-16-46-08",
+  "nom": "Guinée",
+  "nom-folder": "Guinee",
+  "nom-machine": "lieu-2015-12-06-16-20-59-86966211590",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Guinea"
+    ],
+    "ar": [
+      "غينيا"
+    ],
+    "es": [
+      "Guinea"
+    ],
+    "fr": [
+      "Guinée"
+    ],
+    "it": [
+      "Guinea"
+    ],
+    "ru": [
+      "Гвинея"
+    ]
+  }
+}

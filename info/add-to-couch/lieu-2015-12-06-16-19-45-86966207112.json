@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-19-45-86966207112",
+  "breadcrumb": "lieux/ville/France/Saone-et-Loire/L'Hopital-le-Mercier/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-19-45",
+  "nom": "L'Hôpital-le-Mercier",
+  "nom-folder": "L'Hopital-le-Mercier",
+  "nom-machine": "lieu-2015-12-06-16-19-45-86966207112",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "L'Hôpital-le-Mercier"
+    ]
+  }
+}

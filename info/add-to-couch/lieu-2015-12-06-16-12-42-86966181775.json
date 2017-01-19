@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-42-86966181775",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Bosnie-Herzegovine/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365353,
+  "mise-a-jour": "2016-02-04-16-01-41",
+  "moment-de-creation": "2015-12-06-16-12-42",
+  "moment-de-modification": "2016-02-04-16-01-41",
+  "nom": "Bosnie-Herzégovine",
+  "nom-folder": "Bosnie-Herzegovine",
+  "nom-machine": "lieu-2015-12-06-16-12-42-86966181775",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Bosnia-Herzegovina"
+    ],
+    "ar": [
+      "البوسنة والهرسك"
+    ],
+    "es": [
+      "Bosnia y Herzegovina"
+    ],
+    "fr": [
+      "Bosnie-Herzégovine"
+    ],
+    "it": [
+      "Bosnia ed Erzegovina"
+    ],
+    "ru": [
+      "Босния и Герцеговина"
+    ]
+  }
+}

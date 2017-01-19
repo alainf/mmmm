@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-41-86966214116",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Libye/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365251,
+  "mise-a-jour": "2016-02-04-17-30-46",
+  "moment-de-creation": "2015-12-06-16-21-41",
+  "moment-de-modification": "2016-02-04-17-30-46",
+  "nom": "Libye",
+  "nom-folder": "Libye",
+  "nom-machine": "lieu-2015-12-06-16-21-41-86966214116",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Libya"
+    ],
+    "ar": [
+      "ليبيا"
+    ],
+    "es": [
+      "Libia"
+    ],
+    "fr": [
+      "Libye"
+    ],
+    "it": [
+      "Libia"
+    ],
+    "ru": [
+      "Ливия"
+    ]
+  }
+}

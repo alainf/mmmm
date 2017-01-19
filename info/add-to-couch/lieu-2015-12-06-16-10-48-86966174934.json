@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174934",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Mediterranee/",
+  "description": "Méditerranée",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362116,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Méditerranée",
+  "nom-folder": "Mediterranee",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174934",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Mediterranean"
+    ],
+    "ar": [
+      "البحر الأبيض المتوسط"
+    ],
+    "es": [
+      "Mediterráneo"
+    ],
+    "fr": [
+      "Méditerranée"
+    ],
+    "it": [
+      "Mediterraneo"
+    ],
+    "ru": [
+      "Средиземное"
+    ]
+  }
+}

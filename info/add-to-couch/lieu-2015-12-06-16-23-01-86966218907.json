@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-23-01-86966218907",
+  "breadcrumb": "lieux/ville/Suisse/Yverdon-les-Bains/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-23-01",
+  "nom": "Yverdon-les-Bains",
+  "nom-folder": "Yverdon-les-Bains",
+  "nom-machine": "lieu-2015-12-06-16-23-01-86966218907",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Yverdon-les-Bains"
+    ]
+  }
+}

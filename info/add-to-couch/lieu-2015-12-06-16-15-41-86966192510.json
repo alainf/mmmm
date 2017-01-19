@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-41-86966192510",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Cote-d'Ivoire/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365242,
+  "mise-a-jour": "2016-02-04-16-22-40",
+  "moment-de-creation": "2015-12-06-16-15-41",
+  "moment-de-modification": "2016-02-04-16-22-40",
+  "nom": "Côte d'Ivoire",
+  "nom-folder": "Cote-d'Ivoire",
+  "nom-machine": "lieu-2015-12-06-16-15-41-86966192510",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Ivory Coast"
+    ],
+    "ar": [
+      "ساحل العاج"
+    ],
+    "es": [
+      "Costa de Marfil"
+    ],
+    "fr": [
+      "Côte d'Ivoire"
+    ],
+    "it": [
+      "Costa d'Avorio"
+    ],
+    "ru": [
+      "Кот-д’Ивуар"
+    ]
+  }
+}

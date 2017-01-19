@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-17-86966212625",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Iran/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365324,
+  "mise-a-jour": "2016-02-04-17-09-29",
+  "moment-de-creation": "2015-12-06-16-21-17",
+  "moment-de-modification": "2016-02-04-17-09-29",
+  "nom": "Iran",
+  "nom-folder": "Iran",
+  "nom-machine": "lieu-2015-12-06-16-21-17-86966212625",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Iran"
+    ],
+    "ar": [
+      "إيران"
+    ],
+    "es": [
+      "Irán"
+    ],
+    "fr": [
+      "Iran"
+    ],
+    "it": [
+      "Iran"
+    ],
+    "ru": [
+      "Иран"
+    ]
+  }
+}

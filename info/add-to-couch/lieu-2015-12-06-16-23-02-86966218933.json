@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-02-86966218933",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Tadjikistan/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365340,
+  "mise-a-jour": "2016-02-04-18-34-08",
+  "moment-de-creation": "2015-12-06-16-23-02",
+  "moment-de-modification": "2016-02-04-18-34-08",
+  "nom": "Tadjikistan",
+  "nom-folder": "Tadjikistan",
+  "nom-machine": "lieu-2015-12-06-16-23-02-86966218933",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Tadjikistan"
+    ],
+    "ar": [
+      "طاجيكستان"
+    ],
+    "es": [
+      "Tayikistán"
+    ],
+    "fr": [
+      "Tadjikistan"
+    ],
+    "it": [
+      "Tagikistan"
+    ],
+    "ru": [
+      "Таджикистан"
+    ]
+  }
+}

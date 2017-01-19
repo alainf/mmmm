@@ -1,0 +1,21 @@
+{
+  "_id": "lieu-2015-12-06-16-12-12-86966179969",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/region/Allemagne/Hansestadt-(Schleswig-Holst)/",
+  "description": "Villes hanséatiques.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-25-02-45-43",
+  "moment-de-creation": "2015-12-06-16-12-12",
+  "moment-de-modification": "2016-02-25-02-45-43",
+  "nom": "Hansestadt (Schleswig-Holst)",
+  "nom-folder": "Hansestadt-(Schleswig-Holst)",
+  "nom-machine": "lieu-2015-12-06-16-12-12-86966179969",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Hansestadt (Schleswig-Holst)"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "lieu-2015-12-06-16-22-03-86966215435",
+  "breadcrumb": "lieux/pays/Fidji/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-22-03",
+  "nom": "Fidji",
+  "nom-folder": "Fidji",
+  "nom-machine": "lieu-2015-12-06-16-22-03-86966215435",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Fiji"
+    ],
+    "ar": [
+      "فيجي"
+    ],
+    "es": [
+      "Fiyi"
+    ],
+    "fr": [
+      "Fidji"
+    ],
+    "it": [
+      "Figi"
+    ],
+    "ru": [
+      "Фиджи"
+    ]
+  }
+}

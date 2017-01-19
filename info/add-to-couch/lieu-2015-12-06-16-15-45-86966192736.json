@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-45-86966192736",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Dominique/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 379217,
+  "mise-a-jour": "2016-02-04-16-31-52",
+  "moment-de-creation": "2015-12-06-16-15-45",
+  "moment-de-modification": "2016-02-04-16-31-52",
+  "nom": "Dominique",
+  "nom-folder": "Dominique",
+  "nom-machine": "lieu-2015-12-06-16-15-45-86966192736",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Dominica"
+    ],
+    "ar": [
+      "دومينيكا"
+    ],
+    "es": [
+      "Dominica"
+    ],
+    "fr": [
+      "Dominique"
+    ],
+    "it": [
+      "Dominica"
+    ],
+    "ru": [
+      "Доминика"
+    ]
+  }
+}

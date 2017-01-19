@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-12-28-86966180884",
+  "breadcrumb": "lieux/region/Australie/Baie-de-Jervis/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-12-28",
+  "nom": "Baie de Jervis",
+  "nom-folder": "Baie-de-Jervis",
+  "nom-machine": "lieu-2015-12-06-16-12-28-86966180884",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Baie de Jervis"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-46-86966218012",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Sao-Tome-et-Principe/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 379220,
+  "mise-a-jour": "2016-02-04-18-28-38",
+  "moment-de-creation": "2015-12-06-16-22-46",
+  "moment-de-modification": "2016-02-04-18-28-38",
+  "nom": "Sao Tomé-et-Principe",
+  "nom-folder": "Sao-Tome-et-Principe",
+  "nom-machine": "lieu-2015-12-06-16-22-46-86966218012",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "São Tomé and Príncipe"
+    ],
+    "ar": [
+      "ساو تومي وبرينسيب"
+    ],
+    "es": [
+      "Santo Tomé y Príncipe"
+    ],
+    "fr": [
+      "Sao Tomé-et-Principe"
+    ],
+    "it": [
+      "São Tomé e Príncipe"
+    ],
+    "ru": [
+      "Сан-Томе и Принсипи"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-17-86966216272",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Norvege/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365377,
+  "mise-a-jour": "2016-02-04-17-49-18",
+  "moment-de-creation": "2015-12-06-16-22-17",
+  "moment-de-modification": "2016-02-04-17-49-18",
+  "nom": "Norvège",
+  "nom-folder": "Norvege",
+  "nom-machine": "lieu-2015-12-06-16-22-17-86966216272",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Norway"
+    ],
+    "ar": [
+      "النرويج"
+    ],
+    "es": [
+      "Noruega"
+    ],
+    "fr": [
+      "Norvège"
+    ],
+    "it": [
+      "Norvegia"
+    ],
+    "ru": [
+      "Норвегия"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-45-86966217930",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Russie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365337,
+  "mise-a-jour": "2016-02-04-18-20-43",
+  "moment-de-creation": "2015-12-06-16-22-45",
+  "moment-de-modification": "2016-02-04-18-20-43",
+  "nom": "Russie",
+  "nom-folder": "Russie",
+  "nom-machine": "lieu-2015-12-06-16-22-45-86966217930",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Russia"
+    ],
+    "ar": [
+      "روسيا"
+    ],
+    "es": [
+      "Rusia"
+    ],
+    "fr": [
+      "Russie"
+    ],
+    "it": [
+      "Russia"
+    ],
+    "ru": [
+      "Россия"
+    ]
+  }
+}

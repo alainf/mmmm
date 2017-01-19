@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-13-86966216002",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Mozambique/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365257,
+  "mise-a-jour": "2016-02-04-17-43-20",
+  "moment-de-creation": "2015-12-06-16-22-13",
+  "moment-de-modification": "2016-02-04-17-43-20",
+  "nom": "Mozambique",
+  "nom-folder": "Mozambique",
+  "nom-machine": "lieu-2015-12-06-16-22-13-86966216002",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Mozambique"
+    ],
+    "ar": [
+      "موزمبيق"
+    ],
+    "es": [
+      "Mozambique"
+    ],
+    "fr": [
+      "Mozambique"
+    ],
+    "it": [
+      "Mozambico"
+    ],
+    "ru": [
+      "Мозамбик"
+    ]
+  }
+}

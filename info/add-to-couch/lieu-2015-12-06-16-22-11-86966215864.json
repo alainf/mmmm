@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-11-86966215864",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Moldavie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365374,
+  "mise-a-jour": "2016-02-04-17-32-22",
+  "moment-de-creation": "2015-12-06-16-22-11",
+  "moment-de-modification": "2016-02-04-17-32-22",
+  "nom": "Moldavie",
+  "nom-folder": "Moldavie",
+  "nom-machine": "lieu-2015-12-06-16-22-11-86966215864",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Moldavia"
+    ],
+    "ar": [
+      "مولدافيا"
+    ],
+    "es": [
+      "Moldavia"
+    ],
+    "fr": [
+      "Moldavie"
+    ],
+    "it": [
+      "Moldavia"
+    ],
+    "ru": [
+      "Молдавия"
+    ]
+  }
+}

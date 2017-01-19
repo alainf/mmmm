@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-20-58-86966211535",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Guinee-Bissau/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365406,
+  "mise-a-jour": "2016-02-04-16-49-12",
+  "moment-de-creation": "2015-12-06-16-20-58",
+  "moment-de-modification": "2016-02-04-16-49-12",
+  "nom": "Guinée-Bissau",
+  "nom-folder": "Guinee-Bissau",
+  "nom-machine": "lieu-2015-12-06-16-20-58-86966211535",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Guinea Bissau"
+    ],
+    "ar": [
+      "غينيا بيساو"
+    ],
+    "es": [
+      "Guinea-Bisáu"
+    ],
+    "fr": [
+      "Guinée-Bissau"
+    ],
+    "it": [
+      "Guinea-Bissau"
+    ],
+    "ru": [
+      "Гвинея-Бисау"
+    ]
+  }
+}

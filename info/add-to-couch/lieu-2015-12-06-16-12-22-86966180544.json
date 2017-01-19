@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-22-86966180544",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Arabie-saoudite/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365414,
+  "mise-a-jour": "2016-02-04-18-21-47",
+  "moment-de-creation": "2015-12-06-16-12-22",
+  "moment-de-modification": "2016-02-04-18-21-47",
+  "nom": "Arabie saoudite",
+  "nom-folder": "Arabie-saoudite",
+  "nom-machine": "lieu-2015-12-06-16-12-22-86966180544",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Saudi Arabia"
+    ],
+    "ar": [
+      "السعودية"
+    ],
+    "es": [
+      "Arabia Saudita"
+    ],
+    "fr": [
+      "Arabie saoudite"
+    ],
+    "it": [
+      "Arabia Saudita"
+    ],
+    "ru": [
+      "Саудовская Аравия"
+    ]
+  }
+}

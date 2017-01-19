@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-20-17-86966209061",
+  "breadcrumb": "lieux/ville/France/Sarthe/Sainte-Cerotte/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-20-17",
+  "nom": "Sainte-Cérotte",
+  "nom-folder": "Sainte-Cerotte",
+  "nom-machine": "lieu-2015-12-06-16-20-17-86966209061",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Sainte-Cérotte"
+    ]
+  }
+}

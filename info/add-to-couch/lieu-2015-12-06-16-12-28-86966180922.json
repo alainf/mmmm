@@ -1,0 +1,22 @@
+{
+  "_id": "lieu-2015-12-06-16-12-28-86966180922",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/ville/Australie/Australie/Armidale/",
+  "description": "Armidale",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 367828,
+  "mise-a-jour": "2015-01-04-02-26-44",
+  "moment-de-creation": "2015-12-06-16-12-28",
+  "moment-de-modification": "2015-01-04-02-26-44",
+  "nom": "Armidale",
+  "nom-folder": "Armidale",
+  "nom-machine": "lieu-2015-12-06-16-12-28-86966180922",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Armidale"
+    ]
+  }
+}

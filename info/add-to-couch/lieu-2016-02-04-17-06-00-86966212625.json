@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2016-02-04-17-06-00-86966212625",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Iraq/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-04-17-08-53",
+  "moment-de-creation": "2016-02-04-17-06-00",
+  "moment-de-modification": "2016-02-04-17-08-53",
+  "nom": "Iraq",
+  "nom-folder": "Iraq",
+  "nom-machine": "lieu-2016-02-04-17-06-00-86966212625",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Iraq"
+    ],
+    "ar": [
+      "العراق"
+    ],
+    "es": [
+      "Iraq"
+    ],
+    "fr": [
+      "Iraq"
+    ],
+    "it": [
+      "Iraq"
+    ],
+    "ru": [
+      "Ирак"
+    ]
+  }
+}

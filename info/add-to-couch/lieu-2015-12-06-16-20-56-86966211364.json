@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-20-56-86966211364",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Guadeloupe/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362100,
+  "mise-a-jour": "2016-02-04-16-46-41",
+  "moment-de-creation": "2015-12-06-16-20-56",
+  "moment-de-modification": "2016-02-04-16-46-41",
+  "nom": "Guadeloupe",
+  "nom-folder": "Guadeloupe",
+  "nom-machine": "lieu-2015-12-06-16-20-56-86966211364",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Guadeloupe"
+    ],
+    "ar": [
+      "غوادلوب"
+    ],
+    "es": [
+      "Guadalupe"
+    ],
+    "fr": [
+      "Guadeloupe"
+    ],
+    "it": [
+      "Guadalupa"
+    ],
+    "ru": [
+      "Гваделупа"
+    ]
+  }
+}

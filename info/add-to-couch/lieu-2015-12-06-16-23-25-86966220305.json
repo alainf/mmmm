@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-25-86966220305",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Vietnam/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365346,
+  "mise-a-jour": "2016-02-04-18-44-19",
+  "moment-de-creation": "2015-12-06-16-23-25",
+  "moment-de-modification": "2016-02-04-18-44-19",
+  "nom": "Vietnam",
+  "nom-folder": "Vietnam",
+  "nom-machine": "lieu-2015-12-06-16-23-25-86966220305",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Vietnam"
+    ],
+    "ar": [
+      "فيتنام"
+    ],
+    "es": [
+      "Vietnam"
+    ],
+    "fr": [
+      "Vietnam"
+    ],
+    "it": [
+      "Vietnam"
+    ],
+    "ru": [
+      "Вьетнам"
+    ]
+  }
+}

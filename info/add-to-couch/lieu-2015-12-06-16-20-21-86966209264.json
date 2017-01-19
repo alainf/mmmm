@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-20-21-86966209264",
+  "breadcrumb": "lieux/region/France/Val-d'Oise/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-20-21",
+  "nom": "Val-d'Oise",
+  "nom-folder": "Val-d'Oise",
+  "nom-machine": "lieu-2015-12-06-16-20-21-86966209264",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Val-d'Oise"
+    ]
+  }
+}

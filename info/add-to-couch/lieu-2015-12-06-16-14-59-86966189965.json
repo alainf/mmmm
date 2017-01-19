@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-14-59-86966189965",
+  "breadcrumb": "lieux/ville/Canada/Quebec/Saint-Laurent-de-l'Ile-d'Orleans/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-14-59",
+  "nom": "Saint-Laurent-de-l'Île-d'Orléans",
+  "nom-folder": "Saint-Laurent-de-l'Ile-d'Orleans",
+  "nom-machine": "lieu-2015-12-06-16-14-59-86966189965",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Saint-Laurent-de-l'Île-d'Orléans"
+    ]
+  }
+}

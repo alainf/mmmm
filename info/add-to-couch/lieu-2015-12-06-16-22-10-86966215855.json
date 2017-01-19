@@ -1,0 +1,32 @@
+{
+  "_id": "lieu-2015-12-06-16-22-10-86966215855",
+  "breadcrumb": "lieux/pays/Iles-Marshall/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-22-10",
+  "nom": "Îles Marshall",
+  "nom-folder": "Iles-Marshall",
+  "nom-machine": "lieu-2015-12-06-16-22-10-86966215855",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Marshall Islands"
+    ],
+    "ar": [
+      "جزر مارشال"
+    ],
+    "es": [
+      "Islas Marshall"
+    ],
+    "fr": [
+      "Îles Marshall"
+    ],
+    "it": [
+      "Isole Marshall"
+    ],
+    "ru": [
+      "Маршалловы Острова"
+    ]
+  }
+}

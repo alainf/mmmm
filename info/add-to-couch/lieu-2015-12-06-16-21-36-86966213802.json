@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-36-86966213802",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Laos/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365328,
+  "mise-a-jour": "2016-02-04-17-24-14",
+  "moment-de-creation": "2015-12-06-16-21-36",
+  "moment-de-modification": "2016-02-04-17-24-14",
+  "nom": "Laos",
+  "nom-folder": "Laos",
+  "nom-machine": "lieu-2015-12-06-16-21-36-86966213802",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Laos"
+    ],
+    "ar": [
+      "لاوس"
+    ],
+    "es": [
+      "Laos"
+    ],
+    "fr": [
+      "Laos"
+    ],
+    "it": [
+      "Laos"
+    ],
+    "ru": [
+      "Лаос"
+    ]
+  }
+}

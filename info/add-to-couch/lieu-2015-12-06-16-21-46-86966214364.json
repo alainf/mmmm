@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-46-86966214364",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Malaisie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365329,
+  "mise-a-jour": "2016-02-04-17-42-57",
+  "moment-de-creation": "2015-12-06-16-21-46",
+  "moment-de-modification": "2016-02-04-17-42-57",
+  "nom": "Malaisie",
+  "nom-folder": "Malaisie",
+  "nom-machine": "lieu-2015-12-06-16-21-46-86966214364",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Malaysia"
+    ],
+    "ar": [
+      "ماليزيا"
+    ],
+    "es": [
+      "Malasia"
+    ],
+    "fr": [
+      "Malaisie"
+    ],
+    "it": [
+      "Malesia"
+    ],
+    "ru": [
+      "Малайзия"
+    ]
+  }
+}

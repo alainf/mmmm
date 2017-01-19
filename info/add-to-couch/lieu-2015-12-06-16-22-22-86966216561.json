@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-22-86966216561",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Nouvelle-Zelande/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365410,
+  "mise-a-jour": "2016-02-04-17-51-16",
+  "moment-de-creation": "2015-12-06-16-22-22",
+  "moment-de-modification": "2016-02-04-17-51-16",
+  "nom": "Nouvelle-Zélande",
+  "nom-folder": "Nouvelle-Zelande",
+  "nom-machine": "lieu-2015-12-06-16-22-22-86966216561",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "New Zealand"
+    ],
+    "ar": [
+      "نيوزيلندا"
+    ],
+    "es": [
+      "Nueva Zelanda"
+    ],
+    "fr": [
+      "Nouvelle-Zélande"
+    ],
+    "it": [
+      "Nuova Zelanda"
+    ],
+    "ru": [
+      "Новая Зеландия"
+    ]
+  }
+}

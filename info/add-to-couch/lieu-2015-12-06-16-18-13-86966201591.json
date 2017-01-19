@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-18-13-86966201591",
+  "breadcrumb": "lieux/ville/France/Essonne/Gometz-la-Ville/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-18-13",
+  "nom": "Gometz-la-Ville",
+  "nom-folder": "Gometz-la-Ville",
+  "nom-machine": "lieu-2015-12-06-16-18-13-86966201591",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Gometz-la-Ville"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-15-39-86966192393",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Cordillere-des-Andes/",
+  "description": "Cordillère des Andes",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382365,
+  "mise-a-jour": "2015-01-04-02-27-21",
+  "moment-de-creation": "2015-12-06-16-15-39",
+  "moment-de-modification": "2015-01-04-02-27-21",
+  "nom": "Cordillère des Andes",
+  "nom-folder": "Cordillere-des-Andes",
+  "nom-machine": "lieu-2015-12-06-16-15-39-86966192393",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Cordillera of the Andes"
+    ],
+    "ar": [
+      "جبال الأنديز"
+    ],
+    "es": [
+      "Cordillera de los Andes"
+    ],
+    "fr": [
+      "Cordillère des Andes"
+    ],
+    "it": [
+      "Catena montuosa dei Andes"
+    ],
+    "ru": [
+      "Анды"
+    ]
+  }
+}

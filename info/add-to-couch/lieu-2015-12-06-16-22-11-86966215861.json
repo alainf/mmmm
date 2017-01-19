@@ -1,0 +1,32 @@
+{
+  "_id": "lieu-2015-12-06-16-22-11-86966215861",
+  "breadcrumb": "lieux/pays/Palaos/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-22-11",
+  "nom": "Palaos",
+  "nom-folder": "Palaos",
+  "nom-machine": "lieu-2015-12-06-16-22-11-86966215861",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Palau"
+    ],
+    "ar": [
+      "بالاو"
+    ],
+    "es": [
+      "Palaos"
+    ],
+    "fr": [
+      "Palaos"
+    ],
+    "it": [
+      "Palau"
+    ],
+    "ru": [
+      "Палау"
+    ]
+  }
+}

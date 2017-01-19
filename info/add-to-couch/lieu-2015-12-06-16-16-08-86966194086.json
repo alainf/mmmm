@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-16-08-86966194086",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Estonie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365359,
+  "mise-a-jour": "2016-02-04-16-34-35",
+  "moment-de-creation": "2015-12-06-16-16-08",
+  "moment-de-modification": "2016-02-04-16-34-35",
+  "nom": "Estonie",
+  "nom-folder": "Estonie",
+  "nom-machine": "lieu-2015-12-06-16-16-08-86966194086",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Estonia"
+    ],
+    "ar": [
+      "إستونيا"
+    ],
+    "es": [
+      "Estonia"
+    ],
+    "fr": [
+      "Estonie"
+    ],
+    "it": [
+      "Estonia"
+    ],
+    "ru": [
+      "Эстония"
+    ]
+  }
+}

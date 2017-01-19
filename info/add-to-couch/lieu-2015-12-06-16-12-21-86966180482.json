@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-21-86966180482",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Antarctique/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380440,
+  "mise-a-jour": "2016-02-04-15-48-42",
+  "moment-de-creation": "2015-12-06-16-12-21",
+  "moment-de-modification": "2016-02-04-15-48-42",
+  "nom": "Antarctique",
+  "nom-folder": "Antarctique",
+  "nom-machine": "lieu-2015-12-06-16-12-21-86966180482",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Antarctica"
+    ],
+    "ar": [
+      "القارة القطبية الجنوبية"
+    ],
+    "es": [
+      "Antártida"
+    ],
+    "fr": [
+      "Antarctique"
+    ],
+    "it": [
+      "Antartide"
+    ],
+    "ru": [
+      "Антарктида"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-27-86966220436",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Zambie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365275,
+  "mise-a-jour": "2016-02-04-18-48-16",
+  "moment-de-creation": "2015-12-06-16-23-27",
+  "moment-de-modification": "2016-02-04-18-48-16",
+  "nom": "Zambie",
+  "nom-folder": "Zambie",
+  "nom-machine": "lieu-2015-12-06-16-23-27-86966220436",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Zambia"
+    ],
+    "ar": [
+      "زامبيا"
+    ],
+    "es": [
+      "Zambia"
+    ],
+    "fr": [
+      "Zambie"
+    ],
+    "it": [
+      "Zambia"
+    ],
+    "ru": [
+      "Замбия"
+    ]
+  }
+}

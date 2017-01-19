@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-14-59-86966189975",
+  "breadcrumb": "lieux/ville/Canada/Quebec/Saint-Leon-de-Standon/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-14-59",
+  "nom": "Saint-Léon-de-Standon",
+  "nom-folder": "Saint-Leon-de-Standon",
+  "nom-machine": "lieu-2015-12-06-16-14-59-86966189975",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Saint-Léon-de-Standon"
+    ]
+  }
+}

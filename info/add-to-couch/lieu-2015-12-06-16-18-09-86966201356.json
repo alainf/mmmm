@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-18-09-86966201356",
+  "breadcrumb": "lieux/region/France/Departements/DROM-COM/Iles-eparses/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-18-09",
+  "nom": "Îles Éparses",
+  "nom-folder": "Iles-eparses",
+  "nom-machine": "lieu-2015-12-06-16-18-09-86966201356",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Îles Éparses"
+    ]
+  }
+}

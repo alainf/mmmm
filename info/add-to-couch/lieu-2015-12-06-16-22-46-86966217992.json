@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-46-86966217992",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Saint-Pierre-et-Miquelon/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362107,
+  "mise-a-jour": "2016-02-04-17-56-11",
+  "moment-de-creation": "2015-12-06-16-22-46",
+  "moment-de-modification": "2016-02-04-17-56-11",
+  "nom": "Saint-Pierre-et-Miquelon",
+  "nom-folder": "Saint-Pierre-et-Miquelon",
+  "nom-machine": "lieu-2015-12-06-16-22-46-86966217992",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Saint Pierre and Miquelon"
+    ],
+    "ar": [
+      "سان بيير وميكلون"
+    ],
+    "es": [
+      "San Pedro y Miquelón"
+    ],
+    "fr": [
+      "Saint-Pierre-et-Miquelon"
+    ],
+    "it": [
+      "Saint-Pierre e Miquelon"
+    ],
+    "ru": [
+      "Сен-Пьер и Микелон"
+    ]
+  }
+}

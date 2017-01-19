@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-12-40-86966181603",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Birmanie/",
+  "description": "Birmanie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365315,
+  "mise-a-jour": "2015-01-04-02-26-20",
+  "moment-de-creation": "2015-12-06-16-12-40",
+  "moment-de-modification": "2015-01-04-02-26-20",
+  "nom": "Myanmar-Birmanie",
+  "nom-folder": "Birmanie",
+  "nom-machine": "lieu-2015-12-06-16-12-40-86966181603",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Myanmar (Birmania)"
+    ],
+    "ar": [
+      "بورما"
+    ],
+    "es": [
+      "Myanmar (Birmania)"
+    ],
+    "fr": [
+      "Myanmar-Birmanie"
+    ],
+    "it": [
+      "Myanmar (Birmania)"
+    ],
+    "ru": [
+      "Мьянма"
+    ]
+  }
+}

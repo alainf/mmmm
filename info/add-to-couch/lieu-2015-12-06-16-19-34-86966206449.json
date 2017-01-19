@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-19-34-86966206449",
+  "breadcrumb": "lieux/region/France/Lot-et-Garonne/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-19-34",
+  "nom": "Lot-et-Garonne",
+  "nom-folder": "Lot-et-Garonne",
+  "nom-machine": "lieu-2015-12-06-16-19-34-86966206449",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Lot-et-Garonne"
+    ]
+  }
+}

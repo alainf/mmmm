@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-14-58-86966189916",
+  "breadcrumb": "lieux/ville/Canada/Quebec/Saint-Jean-sur-Richelieu/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-14-58",
+  "nom": "Saint-Jean-sur-Richelieu",
+  "nom-folder": "Saint-Jean-sur-Richelieu",
+  "nom-machine": "lieu-2015-12-06-16-14-58-86966189916",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Saint-Jean-sur-Richelieu"
+    ]
+  }
+}

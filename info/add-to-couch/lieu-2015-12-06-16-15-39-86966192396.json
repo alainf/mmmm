@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-39-86966192396",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Coree-du-Nord/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365320,
+  "mise-a-jour": "2016-02-04-17-21-45",
+  "moment-de-creation": "2015-12-06-16-15-39",
+  "moment-de-modification": "2016-02-04-17-21-45",
+  "nom": "Corée du Nord",
+  "nom-folder": "Coree-du-Nord",
+  "nom-machine": "lieu-2015-12-06-16-15-39-86966192396",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "North Korea"
+    ],
+    "ar": [
+      "كوريا الشمالية"
+    ],
+    "es": [
+      "Corea del Norte"
+    ],
+    "fr": [
+      "Corée du Nord"
+    ],
+    "it": [
+      "Corea del Nord"
+    ],
+    "ru": [
+      "Северная Корея"
+    ]
+  }
+}

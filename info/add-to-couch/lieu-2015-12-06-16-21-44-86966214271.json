@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-44-86966214271",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Macedoine/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365372,
+  "mise-a-jour": "2016-02-04-17-33-58",
+  "moment-de-creation": "2015-12-06-16-21-44",
+  "moment-de-modification": "2016-02-04-17-33-58",
+  "nom": "Macédoine",
+  "nom-folder": "Macedoine",
+  "nom-machine": "lieu-2015-12-06-16-21-44-86966214271",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Macedonia"
+    ],
+    "ar": [
+      "جمهورية مقدونيا"
+    ],
+    "es": [
+      "Macedonia"
+    ],
+    "fr": [
+      "Macédoine"
+    ],
+    "it": [
+      "Macedonia"
+    ],
+    "ru": [
+      "Македония"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174992",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Albanie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365347,
+  "mise-a-jour": "2016-02-07-03-17-39",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "moment-de-modification": "2016-02-07-03-17-39",
+  "nom": "Albanie",
+  "nom-folder": "Albanie",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174992",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Albania"
+    ],
+    "ar": [
+      "ألبانيا"
+    ],
+    "es": [
+      "Albania"
+    ],
+    "fr": [
+      "Albanie"
+    ],
+    "it": [
+      "Albania"
+    ],
+    "ru": [
+      "Албания"
+    ]
+  }
+}

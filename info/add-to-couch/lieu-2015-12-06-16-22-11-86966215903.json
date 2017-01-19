@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-11-86966215903",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Moyen-Orient/Proche-Orient/Israel/",
+  "description": "Israel",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365417,
+  "mise-a-jour": "2015-01-04-02-27-19",
+  "moment-de-creation": "2015-12-06-16-22-11",
+  "moment-de-modification": "2015-01-04-02-27-19",
+  "nom": "Israel",
+  "nom-folder": "Israel",
+  "nom-machine": "lieu-2015-12-06-16-22-11-86966215903",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Israel"
+    ],
+    "ar": [
+      "إسرائيل"
+    ],
+    "es": [
+      "Israel"
+    ],
+    "fr": [
+      "Israel"
+    ],
+    "it": [
+      "Israele"
+    ],
+    "ru": [
+      "Израиль"
+    ]
+  }
+}

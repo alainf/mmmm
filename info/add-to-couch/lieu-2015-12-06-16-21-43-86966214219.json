@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-43-86966214219",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Liechtenstein/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365369,
+  "mise-a-jour": "2016-02-04-17-25-50",
+  "moment-de-creation": "2015-12-06-16-21-43",
+  "moment-de-modification": "2016-02-04-17-25-50",
+  "nom": "Liechtenstein",
+  "nom-folder": "Liechtenstein",
+  "nom-machine": "lieu-2015-12-06-16-21-43-86966214219",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Liechtenstein"
+    ],
+    "ar": [
+      "ليختنشتاين"
+    ],
+    "es": [
+      "Liechtenstein"
+    ],
+    "fr": [
+      "Liechtenstein"
+    ],
+    "it": [
+      "Liechtenstein"
+    ],
+    "ru": [
+      "Лихтенштейн"
+    ]
+  }
+}

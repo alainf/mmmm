@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-43-86966214221",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Lituanie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365370,
+  "mise-a-jour": "2016-02-04-17-27-46",
+  "moment-de-creation": "2015-12-06-16-21-43",
+  "moment-de-modification": "2016-02-04-17-27-46",
+  "nom": "Lituanie",
+  "nom-folder": "Lituanie",
+  "nom-machine": "lieu-2015-12-06-16-21-43-86966214221",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Lithuania"
+    ],
+    "ar": [
+      "ليتوانيا"
+    ],
+    "es": [
+      "Lituania"
+    ],
+    "fr": [
+      "Lituanie"
+    ],
+    "it": [
+      "Lituania"
+    ],
+    "ru": [
+      "Литва"
+    ]
+  }
+}

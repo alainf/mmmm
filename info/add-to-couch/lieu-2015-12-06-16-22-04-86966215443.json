@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-04-86966215443",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Mexique/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365286,
+  "mise-a-jour": "2016-02-04-17-42-19",
+  "moment-de-creation": "2015-12-06-16-22-04",
+  "moment-de-modification": "2016-02-04-17-42-19",
+  "nom": "Mexique",
+  "nom-folder": "Mexique",
+  "nom-machine": "lieu-2015-12-06-16-22-04-86966215443",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Mexico"
+    ],
+    "ar": [
+      "المكسيك"
+    ],
+    "es": [
+      "México"
+    ],
+    "fr": [
+      "Mexique"
+    ],
+    "it": [
+      "Messico"
+    ],
+    "ru": [
+      "Мексика"
+    ]
+  }
+}

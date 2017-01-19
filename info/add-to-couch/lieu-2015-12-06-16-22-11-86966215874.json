@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-11-86966215874",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Montenegro/",
+  "description": "Monténégro",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365376,
+  "mise-a-jour": "2015-01-04-02-26-40",
+  "moment-de-creation": "2015-12-06-16-22-11",
+  "moment-de-modification": "2015-01-04-02-26-40",
+  "nom": "Monténégro",
+  "nom-folder": "Montenegro",
+  "nom-machine": "lieu-2015-12-06-16-22-11-86966215874",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Montenegro"
+    ],
+    "ar": [
+      "الجبل الأسود"
+    ],
+    "es": [
+      "Montenegro"
+    ],
+    "fr": [
+      "Monténégro"
+    ],
+    "it": [
+      "Montenegro"
+    ],
+    "ru": [
+      "Черногория"
+    ]
+  }
+}

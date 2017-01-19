@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174893",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Afrique/Afrique-de-l'Est/",
+  "description": "Afrique de l'Est",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 379168,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Afrique de l'Est",
+  "nom-folder": "Afrique-de-l'Est",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174893",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "East Africa"
+    ],
+    "ar": [
+      "شرق أفريقيا"
+    ],
+    "es": [
+      "África Oriental"
+    ],
+    "fr": [
+      "Afrique de l'Est"
+    ],
+    "it": [
+      "Africa orientale"
+    ],
+    "ru": [
+      "Восточная Африка"
+    ]
+  }
+}

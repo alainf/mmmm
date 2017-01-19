@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-19-51-86966207494",
+  "breadcrumb": "lieux/ville/France/Saone-et-Loire/Paris-l'Hopital/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-19-51",
+  "nom": "Paris-l'Hôpital",
+  "nom-folder": "Paris-l'Hopital",
+  "nom-machine": "lieu-2015-12-06-16-19-51-86966207494",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Paris-l'Hôpital"
+    ]
+  }
+}

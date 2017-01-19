@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-20-47-86966210832",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Grande-Bretagne/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365362,
+  "mise-a-jour": "2016-02-04-16-41-30",
+  "moment-de-creation": "2015-12-06-16-20-47",
+  "moment-de-modification": "2016-02-04-16-41-30",
+  "nom": "Grande-Bretagne",
+  "nom-folder": "Grande-Bretagne",
+  "nom-machine": "lieu-2015-12-06-16-20-47-86966210832",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Great Britain"
+    ],
+    "ar": [
+      "بريطانيا العظمى"
+    ],
+    "es": [
+      "Gran Bretaña"
+    ],
+    "fr": [
+      "Grande-Bretagne"
+    ],
+    "it": [
+      "Gran Bretagna"
+    ],
+    "ru": [
+      "Великобритания"
+    ]
+  }
+}

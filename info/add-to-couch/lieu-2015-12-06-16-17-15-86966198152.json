@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-17-15-86966198152",
+  "breadcrumb": "lieux/ville/France/Aude/Villeneuve-la-Comptal/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-17-15",
+  "nom": "Villeneuve-la-Comptal",
+  "nom-folder": "Villeneuve-la-Comptal",
+  "nom-machine": "lieu-2015-12-06-16-17-15-86966198152",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Villeneuve-la-Comptal"
+    ]
+  }
+}

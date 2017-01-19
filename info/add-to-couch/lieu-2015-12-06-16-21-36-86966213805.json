@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-36-86966213805",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Lesotho/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365278,
+  "mise-a-jour": "2016-02-04-17-27-18",
+  "moment-de-creation": "2015-12-06-16-21-36",
+  "moment-de-modification": "2016-02-04-17-27-18",
+  "nom": "Lesotho",
+  "nom-folder": "Lesotho",
+  "nom-machine": "lieu-2015-12-06-16-21-36-86966213805",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Lesotho"
+    ],
+    "ar": [
+      "ليسوتو"
+    ],
+    "es": [
+      "Lesoto"
+    ],
+    "fr": [
+      "Lesotho"
+    ],
+    "it": [
+      "Lesotho"
+    ],
+    "ru": [
+      "Лесото"
+    ]
+  }
+}

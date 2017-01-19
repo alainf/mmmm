@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-27-86966216824",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Paraguay/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365296,
+  "mise-a-jour": "2016-02-04-18-18-09",
+  "moment-de-creation": "2015-12-06-16-22-27",
+  "moment-de-modification": "2016-02-04-18-18-09",
+  "nom": "Paraguay",
+  "nom-folder": "Paraguay",
+  "nom-machine": "lieu-2015-12-06-16-22-27-86966216824",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Paraguay"
+    ],
+    "ar": [
+      "باراغواي"
+    ],
+    "es": [
+      "Paraguay"
+    ],
+    "fr": [
+      "Paraguay"
+    ],
+    "it": [
+      "Paraguay"
+    ],
+    "ru": [
+      "Парагвай"
+    ]
+  }
+}

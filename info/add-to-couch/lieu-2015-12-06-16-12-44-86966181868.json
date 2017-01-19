@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-44-86966181868",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Bulgarie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365354,
+  "mise-a-jour": "2016-02-04-16-08-10",
+  "moment-de-creation": "2015-12-06-16-12-44",
+  "moment-de-modification": "2016-02-04-16-08-10",
+  "nom": "Bulgarie",
+  "nom-folder": "Bulgarie",
+  "nom-machine": "lieu-2015-12-06-16-12-44-86966181868",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Bulgaria"
+    ],
+    "ar": [
+      "بلغاريا"
+    ],
+    "es": [
+      "Bulgaria"
+    ],
+    "fr": [
+      "Bulgarie"
+    ],
+    "it": [
+      "Bulgaria"
+    ],
+    "ru": [
+      "Болгария"
+    ]
+  }
+}

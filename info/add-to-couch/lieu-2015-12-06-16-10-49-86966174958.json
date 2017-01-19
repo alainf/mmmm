@@ -1,0 +1,22 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174958",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Test-ete-allo/",
+  "copyright": false,
+  "description": "Test été allo",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2015-11-08-20-09-11",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "moment-de-modification": "2015-11-08-20-09-11",
+  "nom": "Test été allo",
+  "nom-folder": "Test-ete-allo",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174958",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Test été allo"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "lieu-2015-12-06-16-22-03-86966215438",
+  "breadcrumb": "lieux/pays/Nouvelle-Caledonie/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-22-03",
+  "nom": "Nouvelle-Calédonie",
+  "nom-folder": "Nouvelle-Caledonie",
+  "nom-machine": "lieu-2015-12-06-16-22-03-86966215438",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "New Caledonia"
+    ],
+    "ar": [
+      "كاليدونيا الجديدة"
+    ],
+    "es": [
+      "Nueva Caledonia"
+    ],
+    "fr": [
+      "Nouvelle-Calédonie"
+    ],
+    "it": [
+      "Nuova Caledonia"
+    ],
+    "ru": [
+      "Новая Каледония"
+    ]
+  }
+}

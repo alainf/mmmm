@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-47-86966218027",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Sierra-Leone/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365266,
+  "mise-a-jour": "2016-02-04-18-26-49",
+  "moment-de-creation": "2015-12-06-16-22-47",
+  "moment-de-modification": "2016-02-04-18-26-49",
+  "nom": "Sierra Leone",
+  "nom-folder": "Sierra-Leone",
+  "nom-machine": "lieu-2015-12-06-16-22-47-86966218027",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Sierra Leone"
+    ],
+    "ar": [
+      "سيراليون"
+    ],
+    "es": [
+      "Sierra Leone"
+    ],
+    "fr": [
+      "Sierra Leone"
+    ],
+    "it": [
+      "Sierra Leone"
+    ],
+    "ru": [
+      "Сьерра-Леоне"
+    ]
+  }
+}

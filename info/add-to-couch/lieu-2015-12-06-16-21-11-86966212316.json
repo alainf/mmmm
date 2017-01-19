@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-11-86966212316",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Iles-Caimans/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380812,
+  "mise-a-jour": "2016-02-04-17-23-30",
+  "moment-de-creation": "2015-12-06-16-21-11",
+  "moment-de-modification": "2016-02-04-17-23-30",
+  "nom": "Îles Caïmans",
+  "nom-folder": "Iles-Caimans",
+  "nom-machine": "lieu-2015-12-06-16-21-11-86966212316",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Cayman Islands"
+    ],
+    "ar": [
+      "جزر كايمان"
+    ],
+    "es": [
+      "Islas Caimán"
+    ],
+    "fr": [
+      "Îles Caïmans"
+    ],
+    "it": [
+      "Isole Cayman"
+    ],
+    "ru": [
+      "Каймановы острова"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-18-14-86966201650",
+  "breadcrumb": "lieux/ville/France/Essonne/Le-Val-Saint-Germain/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-18-14",
+  "nom": "Le Val-Saint-Germain",
+  "nom-folder": "Le-Val-Saint-Germain",
+  "nom-machine": "lieu-2015-12-06-16-18-14-86966201650",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Le Val-Saint-Germain"
+    ]
+  }
+}

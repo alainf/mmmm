@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-47-86966218044",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Somaliland/",
+  "description": "Somaliland",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365268,
+  "mise-a-jour": "2015-01-04-02-27-05",
+  "moment-de-creation": "2015-12-06-16-22-47",
+  "moment-de-modification": "2015-01-04-02-27-05",
+  "nom": "Somaliland",
+  "nom-folder": "Somaliland",
+  "nom-machine": "lieu-2015-12-06-16-22-47-86966218044",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Somaliland"
+    ],
+    "ar": [
+      "رض الصومال"
+    ],
+    "es": [
+      "Somalilandia"
+    ],
+    "fr": [
+      "Somaliland"
+    ],
+    "it": [
+      "Somaliland"
+    ],
+    "ru": [
+      "Сомалиленд"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2016-02-14-13-31-00-86966180544",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Antilles-francaises/",
+  "description": "Antilles françaises ...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-15-17-14-30",
+  "moment-de-creation": "2016-02-14-13-31-00",
+  "moment-de-modification": "2016-02-15-17-14-30",
+  "nom": "Antilles françaises",
+  "nom-folder": "Antilles-francaises",
+  "nom-machine": "lieu-2016-02-14-13-31-00-86966180544",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "French West Indies"
+    ],
+    "ar": [
+      "الأنتيل الفرنسية"
+    ],
+    "es": [
+      "Antillas francesas"
+    ],
+    "fr": [
+      "Antilles françaises"
+    ],
+    "it": [
+      "Antille francesi"
+    ],
+    "ru": [
+      "Французская Вест-Индия"
+    ]
+  }
+}

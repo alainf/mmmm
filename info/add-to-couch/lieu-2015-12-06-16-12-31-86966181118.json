@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-12-31-86966181118",
+  "breadcrumb": "lieux/region/Belgique/Braine-le-Comte/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-12-31",
+  "nom": "Braine-le-Comte",
+  "nom-folder": "Braine-le-Comte",
+  "nom-machine": "lieu-2015-12-06-16-12-31-86966181118",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Braine-le-Comte"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2015-12-06-16-12-31-86966181063",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Bahamas/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-04-16-16-07",
+  "moment-de-creation": "2015-12-06-16-12-31",
+  "moment-de-modification": "2016-02-04-16-16-07",
+  "nom": "Bahamas",
+  "nom-folder": "Bahamas",
+  "nom-machine": "lieu-2015-12-06-16-12-31-86966181063",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Bahamas"
+    ],
+    "ar": [
+      "باهاماس"
+    ],
+    "es": [
+      "Bahamas"
+    ],
+    "fr": [
+      "Bahamas"
+    ],
+    "it": [
+      "Bahamas"
+    ],
+    "ru": [
+      "Багамские"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-21-17-86966212635",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Italie/",
+  "description": "Italie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365366,
+  "mise-a-jour": "2016-02-04-17-11-35",
+  "moment-de-creation": "2015-12-06-16-21-17",
+  "moment-de-modification": "2016-02-04-17-11-35",
+  "nom": "Italie",
+  "nom-folder": "Italie",
+  "nom-machine": "lieu-2015-12-06-16-21-17-86966212635",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Italy"
+    ],
+    "ar": [
+      "إيطاليا"
+    ],
+    "es": [
+      "Italia"
+    ],
+    "fr": [
+      "Italie"
+    ],
+    "it": [
+      "Italia"
+    ],
+    "ru": [
+      "Италия"
+    ]
+  }
+}

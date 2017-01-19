@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-35-86966213742",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Kazakhstan/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365325,
+  "mise-a-jour": "2016-02-04-17-23-50",
+  "moment-de-creation": "2015-12-06-16-21-35",
+  "moment-de-modification": "2016-02-04-17-23-50",
+  "nom": "Kazakhstan",
+  "nom-folder": "Kazakhstan",
+  "nom-machine": "lieu-2015-12-06-16-21-35-86966213742",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Kazakhstan"
+    ],
+    "ar": [
+      "كازاخستان"
+    ],
+    "es": [
+      "Kazajistán"
+    ],
+    "fr": [
+      "Kazakhstan"
+    ],
+    "it": [
+      "Kazakistan"
+    ],
+    "ru": [
+      "Казахстан"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174962",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Union-Africaine/",
+  "description": "Union Africaine",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 379214,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Union Africaine",
+  "nom-folder": "Union-Africaine",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174962",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "African Union"
+    ],
+    "ar": [
+      "الاتحاد الأفريقي"
+    ],
+    "es": [
+      "Unión Africana"
+    ],
+    "fr": [
+      "Union Africaine"
+    ],
+    "it": [
+      "Unione africana"
+    ],
+    "ru": [
+      "Африканский союз"
+    ]
+  }
+}

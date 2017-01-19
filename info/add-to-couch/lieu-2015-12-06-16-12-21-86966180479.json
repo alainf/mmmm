@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-21-86966180479",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Angola/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365233,
+  "mise-a-jour": "2016-02-04-15-47-53",
+  "moment-de-creation": "2015-12-06-16-12-21",
+  "moment-de-modification": "2016-02-04-15-47-53",
+  "nom": "Angola",
+  "nom-folder": "Angola",
+  "nom-machine": "lieu-2015-12-06-16-12-21-86966180479",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Angola"
+    ],
+    "ar": [
+      "أنغولا"
+    ],
+    "es": [
+      "Angola"
+    ],
+    "fr": [
+      "Angola"
+    ],
+    "it": [
+      "Angola"
+    ],
+    "ru": [
+      "Ангола"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-11-86966215868",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Monaco/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365375,
+  "mise-a-jour": "2016-02-04-17-31-47",
+  "moment-de-creation": "2015-12-06-16-22-11",
+  "moment-de-modification": "2016-02-04-17-31-47",
+  "nom": "Monaco",
+  "nom-folder": "Monaco",
+  "nom-machine": "lieu-2015-12-06-16-22-11-86966215868",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Monaco"
+    ],
+    "ar": [
+      "موناكو"
+    ],
+    "es": [
+      "Mónaco"
+    ],
+    "fr": [
+      "Monaco"
+    ],
+    "it": [
+      "Monaco"
+    ],
+    "ru": [
+      "Монако"
+    ]
+  }
+}

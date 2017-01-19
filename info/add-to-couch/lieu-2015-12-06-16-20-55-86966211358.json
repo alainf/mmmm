@@ -1,0 +1,33 @@
+{
+  "_id": "lieu-2015-12-06-16-20-55-86966211358",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Grece/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365363,
+  "mise-a-jour": "2016-02-04-16-47-40",
+  "moment-de-creation": "2015-12-06-16-20-55",
+  "moment-de-modification": "2016-02-04-16-47-40",
+  "nom": "Grèce",
+  "nom-folder": "Grece",
+  "nom-machine": "lieu-2015-12-06-16-20-55-86966211358",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Greece"
+    ],
+    "ar": [
+      "اليونان"
+    ],
+    "es": [
+      "Grecia"
+    ],
+    "fr": [
+      "Grèce"
+    ],
+    "it": [
+      "Grecia"
+    ]
+  }
+}

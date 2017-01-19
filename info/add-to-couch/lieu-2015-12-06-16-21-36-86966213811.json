@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2015-12-06-16-21-36-86966213811",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Liban/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-04-17-24-52",
+  "moment-de-creation": "2015-12-06-16-21-36",
+  "moment-de-modification": "2016-02-04-17-24-52",
+  "nom": "Liban",
+  "nom-folder": "Liban",
+  "nom-machine": "lieu-2015-12-06-16-21-36-86966213811",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Lebanon"
+    ],
+    "ar": [
+      "لبنان"
+    ],
+    "es": [
+      "Líbano"
+    ],
+    "fr": [
+      "Liban"
+    ],
+    "it": [
+      "Libano"
+    ],
+    "ru": [
+      "Ливан"
+    ]
+  }
+}

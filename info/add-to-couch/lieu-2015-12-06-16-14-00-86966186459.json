@@ -1,0 +1,18 @@
+{
+  "_id": "lieu-2015-12-06-16-14-00-86966186459",
+  "breadcrumb": "lieux/ville/Canada/Ontario/Lake-of-the-Woods/",
+  "fiche-publiee": true,
+  "identifiant-drupal": 363524,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-14-00",
+  "nom": "Lake of the Woods",
+  "nom-folder": "Lake-of-the-Woods",
+  "nom-machine": "lieu-2015-12-06-16-14-00-86966186459",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Lake of the Woods"
+    ]
+  }
+}

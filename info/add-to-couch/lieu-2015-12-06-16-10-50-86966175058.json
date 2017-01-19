@@ -1,0 +1,20 @@
+{
+  "_id": "lieu-2015-12-06-16-10-50-86966175058",
+  "breadcrumb": "lieux/region/Algerie-Wilayas/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-10-50",
+  "nom": "Wilayas d'Algérie",
+  "nom-folder": "Algerie-Wilayas",
+  "nom-machine": "lieu-2015-12-06-16-10-50-86966175058",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "ar": [
+      "محافظات الجزائر"
+    ],
+    "fr": [
+      "Wilayas d'Algérie"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-13-86966216010",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Nauru/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365392,
+  "mise-a-jour": "2016-02-04-17-50-20",
+  "moment-de-creation": "2015-12-06-16-22-13",
+  "moment-de-modification": "2016-02-04-17-50-20",
+  "nom": "Nauru",
+  "nom-folder": "Nauru",
+  "nom-machine": "lieu-2015-12-06-16-22-13-86966216010",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Nauru"
+    ],
+    "ar": [
+      "ناورو"
+    ],
+    "es": [
+      "Nauru"
+    ],
+    "fr": [
+      "Nauru"
+    ],
+    "it": [
+      "Nauru"
+    ],
+    "ru": [
+      "Науру"
+    ]
+  }
+}

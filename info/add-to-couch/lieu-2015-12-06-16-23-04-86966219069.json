@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-04-86966219069",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Tchad/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365272,
+  "mise-a-jour": "2016-02-04-18-32-26",
+  "moment-de-creation": "2015-12-06-16-23-04",
+  "moment-de-modification": "2016-02-04-18-32-26",
+  "nom": "Tchad",
+  "nom-folder": "Tchad",
+  "nom-machine": "lieu-2015-12-06-16-23-04-86966219069",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Chad"
+    ],
+    "ar": [
+      "تشاد"
+    ],
+    "es": [
+      "Chad"
+    ],
+    "fr": [
+      "Tchad"
+    ],
+    "it": [
+      "Ciad"
+    ],
+    "ru": [
+      "Чад"
+    ]
+  }
+}

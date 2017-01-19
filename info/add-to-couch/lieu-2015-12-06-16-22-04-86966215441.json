@@ -1,0 +1,32 @@
+{
+  "_id": "lieu-2015-12-06-16-22-04-86966215441",
+  "breadcrumb": "lieux/pays/Nouvelle-Guinee-occidentale/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-22-04",
+  "nom": "Nouvelle-Guinée occidentale",
+  "nom-folder": "Nouvelle-Guinee-occidentale",
+  "nom-machine": "lieu-2015-12-06-16-22-04-86966215441",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Western New Guinea"
+    ],
+    "ar": [
+      "غرب غينيا الجديدة"
+    ],
+    "es": [
+      "Nueva Guinea Occidental"
+    ],
+    "fr": [
+      "Nouvelle-Guinée occidentale"
+    ],
+    "it": [
+      "Nuova Guinea Occidentale"
+    ],
+    "ru": [
+      "Западная Новая Гвинея"
+    ]
+  }
+}

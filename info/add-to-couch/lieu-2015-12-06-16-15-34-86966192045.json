@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-15-34-86966192045",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Cite-du-Vatican/",
+  "description": "Cité du Vatican",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362090,
+  "mise-a-jour": "2015-01-04-02-27-22",
+  "moment-de-creation": "2015-12-06-16-15-34",
+  "moment-de-modification": "2015-01-04-02-27-22",
+  "nom": "Cité du Vatican",
+  "nom-folder": "Cite-du-Vatican",
+  "nom-machine": "lieu-2015-12-06-16-15-34-86966192045",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Vatican City"
+    ],
+    "ar": [
+      "الفاتيكان"
+    ],
+    "es": [
+      "Ciudad del Vaticano"
+    ],
+    "fr": [
+      "Cité du Vatican"
+    ],
+    "it": [
+      "Città del Vaticano"
+    ],
+    "ru": [
+      "Ватикан"
+    ]
+  }
+}

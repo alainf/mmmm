@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-11-55-86966178940",
+  "breadcrumb": "lieux/ville/Allemagne/Rhenanie-Palatinat/Landau-in-der-Pfalz/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-11-55",
+  "nom": "Landau in der Pfalz",
+  "nom-folder": "Landau-in-der-Pfalz",
+  "nom-machine": "lieu-2015-12-06-16-11-55-86966178940",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Landau in der Pfalz"
+    ]
+  }
+}

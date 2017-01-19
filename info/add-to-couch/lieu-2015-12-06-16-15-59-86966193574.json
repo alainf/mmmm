@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-15-59-86966193574",
+  "breadcrumb": "lieux/ville/Iles-Baleares/Majorque/Maria-de-la-Salut/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-15-59",
+  "nom": "Maria de la Salut",
+  "nom-folder": "Maria-de-la-Salut",
+  "nom-machine": "lieu-2015-12-06-16-15-59-86966193574",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Maria de la Salut"
+    ]
+  }
+}

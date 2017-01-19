@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-39-86966181593",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Bermudes/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380811,
+  "mise-a-jour": "2016-02-04-16-10-15",
+  "moment-de-creation": "2015-12-06-16-12-39",
+  "moment-de-modification": "2016-02-04-16-10-15",
+  "nom": "Bermudes",
+  "nom-folder": "Bermudes",
+  "nom-machine": "lieu-2015-12-06-16-12-39-86966181593",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Bermuda"
+    ],
+    "ar": [
+      "برمودا"
+    ],
+    "es": [
+      "Bermudas"
+    ],
+    "fr": [
+      "Bermudes"
+    ],
+    "it": [
+      "Bermuda"
+    ],
+    "ru": [
+      "Бермудские Острова"
+    ]
+  }
+}

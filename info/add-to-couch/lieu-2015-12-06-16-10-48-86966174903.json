@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174903",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Afrique/Afrique-sub-saharienne/",
+  "description": "Afrique sub-saharienne",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365232,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Afrique sub-saharienne",
+  "nom-folder": "Afrique-sub-saharienne",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174903",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Sub-Saharan Africa"
+    ],
+    "ar": [
+      "أفريقيا جنوب الصحراء"
+    ],
+    "es": [
+      "África subsahariana"
+    ],
+    "fr": [
+      "Afrique sub-saharienne"
+    ],
+    "it": [
+      "Africa subsahariana"
+    ],
+    "ru": [
+      "Чёрная Африка"
+    ]
+  }
+}

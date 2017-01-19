@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-18-32-86966202721",
+  "breadcrumb": "lieux/ville/France/Gironde/Ludon-Medoc/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-18-32",
+  "nom": "Ludon-Médoc",
+  "nom-folder": "Ludon-Medoc",
+  "nom-machine": "lieu-2015-12-06-16-18-32-86966202721",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Ludon-Médoc"
+    ]
+  }
+}

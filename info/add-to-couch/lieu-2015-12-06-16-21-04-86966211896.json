@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-04-86966211896",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Hong-Kong/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362092,
+  "mise-a-jour": "2016-02-04-16-50-24",
+  "moment-de-creation": "2015-12-06-16-21-04",
+  "moment-de-modification": "2016-02-04-16-50-24",
+  "nom": "Hong Kong",
+  "nom-folder": "Hong-Kong",
+  "nom-machine": "lieu-2015-12-06-16-21-04-86966211896",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Hong Kong"
+    ],
+    "ar": [
+      "هونغ كونغ"
+    ],
+    "es": [
+      "Hong Kong"
+    ],
+    "fr": [
+      "Hong Kong"
+    ],
+    "it": [
+      "Hong Kong"
+    ],
+    "ru": [
+      "Гонконг"
+    ]
+  }
+}

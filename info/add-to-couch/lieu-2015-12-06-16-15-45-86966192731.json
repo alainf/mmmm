@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-45-86966192731",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Djibouti/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365243,
+  "mise-a-jour": "2016-02-04-16-30-44",
+  "moment-de-creation": "2015-12-06-16-15-45",
+  "moment-de-modification": "2016-02-04-16-30-44",
+  "nom": "Djibouti",
+  "nom-folder": "Djibouti",
+  "nom-machine": "lieu-2015-12-06-16-15-45-86966192731",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Djibouti"
+    ],
+    "ar": [
+      "جيبوتي"
+    ],
+    "es": [
+      "Yibuti"
+    ],
+    "fr": [
+      "Djibouti"
+    ],
+    "it": [
+      "Gibuti"
+    ],
+    "ru": [
+      "Джибути"
+    ]
+  }
+}

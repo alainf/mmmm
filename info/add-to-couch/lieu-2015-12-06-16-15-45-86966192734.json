@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-15-45-86966192734",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/DOM-TOM/",
+  "description": "DOM-TOM",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362099,
+  "mise-a-jour": "2015-01-04-02-26-20",
+  "moment-de-creation": "2015-12-06-16-15-45",
+  "moment-de-modification": "2015-01-04-02-26-20",
+  "nom": "DOM-TOM",
+  "nom-folder": "DOM-TOM",
+  "nom-machine": "lieu-2015-12-06-16-15-45-86966192734",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "DOM-TOM"
+    ],
+    "ar": [
+      "دوم توم"
+    ],
+    "es": [
+      "DOM-TOM"
+    ],
+    "fr": [
+      "DOM-TOM"
+    ],
+    "it": [
+      "DOM-TOM"
+    ],
+    "ru": [
+      "DOM-TOM"
+    ]
+  }
+}

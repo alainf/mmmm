@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174955",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Sahara/",
+  "description": "Sahara",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362120,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Sahara",
+  "nom-folder": "Sahara",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174955",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Sahara"
+    ],
+    "ar": [
+      "الصحراء"
+    ],
+    "es": [
+      "Sahara"
+    ],
+    "fr": [
+      "Sahara"
+    ],
+    "it": [
+      "Sahara"
+    ],
+    "ru": [
+      "Сахара"
+    ]
+  }
+}

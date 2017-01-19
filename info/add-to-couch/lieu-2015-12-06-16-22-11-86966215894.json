@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-11-86966215894",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Moyen-Orient/Machrek/Koweit/",
+  "description": "Koweït",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365327,
+  "mise-a-jour": "2015-01-04-02-27-19",
+  "moment-de-creation": "2015-12-06-16-22-11",
+  "moment-de-modification": "2015-01-04-02-27-19",
+  "nom": "Koweït",
+  "nom-folder": "Koweit",
+  "nom-machine": "lieu-2015-12-06-16-22-11-86966215894",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Kuwait"
+    ],
+    "ar": [
+      "الكويت"
+    ],
+    "es": [
+      "Kuwait"
+    ],
+    "fr": [
+      "Koweït"
+    ],
+    "it": [
+      "Kuwait"
+    ],
+    "ru": [
+      "Кувейт"
+    ]
+  }
+}

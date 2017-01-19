@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-11-86966215870",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Mongolie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365331,
+  "mise-a-jour": "2016-02-04-17-35-31",
+  "moment-de-creation": "2015-12-06-16-22-11",
+  "moment-de-modification": "2016-02-04-17-35-31",
+  "nom": "Mongolie",
+  "nom-folder": "Mongolie",
+  "nom-machine": "lieu-2015-12-06-16-22-11-86966215870",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Mongolia"
+    ],
+    "ar": [
+      "منغوليا"
+    ],
+    "es": [
+      "Mongolia"
+    ],
+    "fr": [
+      "Mongolie"
+    ],
+    "it": [
+      "Mongolia"
+    ],
+    "ru": [
+      "Монголия"
+    ]
+  }
+}

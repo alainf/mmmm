@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174937",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Monde-arabe/",
+  "description": "Monde arabe",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362118,
+  "mise-a-jour": "2015-01-04-02-26-20",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-20",
+  "nom": "Monde arabe",
+  "nom-folder": "Monde-arabe",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174937",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Arab world"
+    ],
+    "ar": [
+      "الوطن العربي"
+    ],
+    "es": [
+      "Mundo árabe"
+    ],
+    "fr": [
+      "Monde arabe"
+    ],
+    "it": [
+      "Mondo arabo"
+    ],
+    "ru": [
+      "Арабский мир"
+    ]
+  }
+}

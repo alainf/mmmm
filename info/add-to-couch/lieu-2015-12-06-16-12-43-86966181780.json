@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2015-12-06-16-12-43-86966181780",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Bresil/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-04-16-13-46",
+  "moment-de-creation": "2015-12-06-16-12-43",
+  "moment-de-modification": "2016-02-04-16-13-46",
+  "nom": "Brésil",
+  "nom-folder": "Bresil",
+  "nom-machine": "lieu-2015-12-06-16-12-43-86966181780",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Brazil"
+    ],
+    "ar": [
+      "البرازيل"
+    ],
+    "es": [
+      "Brasil"
+    ],
+    "fr": [
+      "Brésil"
+    ],
+    "it": [
+      "Brasile"
+    ],
+    "ru": [
+      "Бразилия"
+    ]
+  }
+}

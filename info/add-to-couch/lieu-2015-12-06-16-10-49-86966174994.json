@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174994",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Algerie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365277,
+  "mise-a-jour": "2016-02-06-00-11-01",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "moment-de-modification": "2016-02-06-00-11-01",
+  "nom": "Algérie",
+  "nom-folder": "Algerie",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174994",
+  "sous-type": "pays",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Algeria"
+    ],
+    "ar": [
+      "الجزائر"
+    ],
+    "es": [
+      "Argelia"
+    ],
+    "fr": [
+      "Algérie"
+    ],
+    "it": [
+      "Algeria"
+    ],
+    "ru": [
+      "Алжир"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-13-86966216005",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Nagorno-Karabakh/",
+  "description": "Nagorno-Karabakh",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365332,
+  "mise-a-jour": "2015-01-04-02-27-01",
+  "moment-de-creation": "2015-12-06-16-22-13",
+  "moment-de-modification": "2015-01-04-02-27-01",
+  "nom": "Nagorno-Karabakh",
+  "nom-folder": "Nagorno-Karabakh",
+  "nom-machine": "lieu-2015-12-06-16-22-13-86966216005",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Nagorno-Karabakh"
+    ],
+    "ar": [
+      "مرتفعات قرة باغ"
+    ],
+    "es": [
+      "Nagorno Karabaj"
+    ],
+    "fr": [
+      "Nagorno-Karabakh"
+    ],
+    "it": [
+      "Nagorno Karabakh"
+    ],
+    "ru": [
+      "Нагорный Карабах"
+    ]
+  }
+}

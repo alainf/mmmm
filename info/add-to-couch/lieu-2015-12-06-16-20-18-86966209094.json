@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-20-18-86966209094",
+  "breadcrumb": "lieux/ville/France/Sarthe/Semur-en-Vallon/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-20-18",
+  "nom": "Semur-en-Vallon",
+  "nom-folder": "Semur-en-Vallon",
+  "nom-machine": "lieu-2015-12-06-16-20-18-86966209094",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Semur-en-Vallon"
+    ]
+  }
+}

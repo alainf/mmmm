@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-24-86966220288",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Tuvalu/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365396,
+  "mise-a-jour": "2016-02-04-18-38-00",
+  "moment-de-creation": "2015-12-06-16-23-24",
+  "moment-de-modification": "2016-02-04-18-38-00",
+  "nom": "Tuvalu",
+  "nom-folder": "Tuvalu",
+  "nom-machine": "lieu-2015-12-06-16-23-24-86966220288",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Tuvalu"
+    ],
+    "ar": [
+      "توفالو"
+    ],
+    "es": [
+      "Tuvalu"
+    ],
+    "fr": [
+      "Tuvalu"
+    ],
+    "it": [
+      "Tuvalu"
+    ],
+    "ru": [
+      "Тувалу"
+    ]
+  }
+}

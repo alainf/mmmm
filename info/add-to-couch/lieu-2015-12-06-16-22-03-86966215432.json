@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-03-86966215432",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Melanesie/",
+  "description": "Mélanésie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380814,
+  "mise-a-jour": "2015-01-04-02-27-03",
+  "moment-de-creation": "2015-12-06-16-22-03",
+  "moment-de-modification": "2015-01-04-02-27-03",
+  "nom": "Mélanésie",
+  "nom-folder": "Melanesie",
+  "nom-machine": "lieu-2015-12-06-16-22-03-86966215432",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Melanesia"
+    ],
+    "ar": [
+      "ميلانيزيا"
+    ],
+    "es": [
+      "Melanesia"
+    ],
+    "fr": [
+      "Mélanésie"
+    ],
+    "it": [
+      "Melanesia"
+    ],
+    "ru": [
+      "Меланезия"
+    ]
+  }
+}

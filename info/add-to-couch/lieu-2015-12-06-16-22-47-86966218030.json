@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-47-86966218030",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Singapour/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365338,
+  "mise-a-jour": "2016-02-04-18-24-51",
+  "moment-de-creation": "2015-12-06-16-22-47",
+  "moment-de-modification": "2016-02-04-18-24-51",
+  "nom": "Singapour",
+  "nom-folder": "Singapour",
+  "nom-machine": "lieu-2015-12-06-16-22-47-86966218030",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Singapore"
+    ],
+    "ar": [
+      "سنغافورة"
+    ],
+    "es": [
+      "Singapur"
+    ],
+    "fr": [
+      "Singapour"
+    ],
+    "it": [
+      "Singapore"
+    ],
+    "ru": [
+      "Сингапур"
+    ]
+  }
+}

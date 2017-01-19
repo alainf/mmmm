@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-12-86966212338",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Inde/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362067,
+  "mise-a-jour": "2016-02-04-16-55-55",
+  "moment-de-creation": "2015-12-06-16-21-12",
+  "moment-de-modification": "2016-02-04-16-55-55",
+  "nom": "Inde",
+  "nom-folder": "Inde",
+  "nom-machine": "lieu-2015-12-06-16-21-12-86966212338",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "India"
+    ],
+    "ar": [
+      "الهند"
+    ],
+    "es": [
+      "India"
+    ],
+    "fr": [
+      "Inde"
+    ],
+    "it": [
+      "India"
+    ],
+    "ru": [
+      "Индия"
+    ]
+  }
+}

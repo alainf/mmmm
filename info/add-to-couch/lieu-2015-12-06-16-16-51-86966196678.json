@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-16-51-86966196678",
+  "breadcrumb": "lieux/ville/France/Ain/Saint-Jean-de-Niost/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-16-51",
+  "nom": "Saint-Jean-de-Niost",
+  "nom-folder": "Saint-Jean-de-Niost",
+  "nom-machine": "lieu-2015-12-06-16-16-51-86966196678",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Saint-Jean-de-Niost"
+    ]
+  }
+}

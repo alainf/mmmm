@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-15-24-86966191476",
+  "breadcrumb": "lieux/ville/Canada/Terre-Neuve-et-Labrador/Port-au-Choix/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-15-24",
+  "nom": "Port au Choix",
+  "nom-folder": "Port-au-Choix",
+  "nom-machine": "lieu-2015-12-06-16-15-24-86966191476",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Port au Choix"
+    ]
+  }
+}

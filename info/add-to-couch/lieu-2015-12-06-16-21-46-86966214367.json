@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2015-12-06-16-21-46-86966214367",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Malawi/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-04-17-41-58",
+  "moment-de-creation": "2015-12-06-16-21-46",
+  "moment-de-modification": "2016-02-04-17-41-58",
+  "nom": "Malawi",
+  "nom-folder": "Malawi",
+  "nom-machine": "lieu-2015-12-06-16-21-46-86966214367",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Malawi"
+    ],
+    "ar": [
+      "مالاوي"
+    ],
+    "es": [
+      "Malaui"
+    ],
+    "fr": [
+      "Malawi"
+    ],
+    "it": [
+      "Malawi"
+    ],
+    "ru": [
+      "Малави"
+    ]
+  }
+}

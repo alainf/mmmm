@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-31-86966181061",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Azerbaidjan/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365312,
+  "mise-a-jour": "2016-02-04-16-00-09",
+  "moment-de-creation": "2015-12-06-16-12-31",
+  "moment-de-modification": "2016-02-04-16-00-09",
+  "nom": "Azerbaïdjan",
+  "nom-folder": "Azerbaidjan",
+  "nom-machine": "lieu-2015-12-06-16-12-31-86966181061",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Azerbaijan"
+    ],
+    "ar": [
+      "أذربيجان"
+    ],
+    "es": [
+      "Azerbaiyán"
+    ],
+    "fr": [
+      "Azerbaïdjan"
+    ],
+    "it": [
+      "Azerbaigian"
+    ],
+    "ru": [
+      "Азербайджан"
+    ]
+  }
+}

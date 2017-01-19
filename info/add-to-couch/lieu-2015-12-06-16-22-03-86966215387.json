@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-03-86966215387",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Mauritanie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365256,
+  "mise-a-jour": "2016-02-04-17-37-57",
+  "moment-de-creation": "2015-12-06-16-22-03",
+  "moment-de-modification": "2016-02-04-17-37-57",
+  "nom": "Mauritanie",
+  "nom-folder": "Mauritanie",
+  "nom-machine": "lieu-2015-12-06-16-22-03-86966215387",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Mauritania"
+    ],
+    "ar": [
+      "موريتانيا"
+    ],
+    "es": [
+      "Mauritania"
+    ],
+    "fr": [
+      "Mauritanie"
+    ],
+    "it": [
+      "Mauritania"
+    ],
+    "ru": [
+      "Мавритания"
+    ]
+  }
+}

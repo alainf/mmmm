@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-06-86966219197",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Thailande/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365342,
+  "mise-a-jour": "2016-02-04-18-33-41",
+  "moment-de-creation": "2015-12-06-16-23-06",
+  "moment-de-modification": "2016-02-04-18-33-41",
+  "nom": "Thaïlande",
+  "nom-folder": "Thailande",
+  "nom-machine": "lieu-2015-12-06-16-23-06-86966219197",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Thailand"
+    ],
+    "ar": [
+      "تايلاند"
+    ],
+    "es": [
+      "Tailandia"
+    ],
+    "fr": [
+      "Thaïlande"
+    ],
+    "it": [
+      "Thailandia"
+    ],
+    "ru": [
+      "Танзания"
+    ]
+  }
+}

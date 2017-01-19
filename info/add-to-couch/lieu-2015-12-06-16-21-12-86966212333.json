@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-12-86966212333",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Iles-Salomon/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365407,
+  "mise-a-jour": "2016-02-04-18-22-14",
+  "moment-de-creation": "2015-12-06-16-21-12",
+  "moment-de-modification": "2016-02-04-18-22-14",
+  "nom": "Îles Salomon",
+  "nom-folder": "Iles-Salomon",
+  "nom-machine": "lieu-2015-12-06-16-21-12-86966212333",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Solomon Islands"
+    ],
+    "ar": [
+      "جزر سليمان"
+    ],
+    "es": [
+      "Islas Salomón"
+    ],
+    "fr": [
+      "Îles Salomon"
+    ],
+    "it": [
+      "Isole Salomone"
+    ],
+    "ru": [
+      "Соломоновы Острова"
+    ]
+  }
+}

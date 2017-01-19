@@ -1,0 +1,20 @@
+{
+  "_id": "lieu-2015-12-06-16-10-50-86966175051",
+  "breadcrumb": "lieux/region/Algerie-Regions/Les-Hauts-plateaux/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-10-50",
+  "nom": "Les Hauts plateaux",
+  "nom-folder": "Les-Hauts-plateaux",
+  "nom-machine": "lieu-2015-12-06-16-10-50-86966175051",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "ar": [
+      "المرتفعات"
+    ],
+    "fr": [
+      "Les Hauts plateaux"
+    ]
+  }
+}

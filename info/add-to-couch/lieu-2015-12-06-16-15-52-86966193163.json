@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-15-52-86966193163",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Equateur/",
+  "description": "Équateur",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365294,
+  "mise-a-jour": "2015-01-04-02-27-28",
+  "moment-de-creation": "2015-12-06-16-15-52",
+  "moment-de-modification": "2015-01-04-02-27-28",
+  "nom": "Équateur",
+  "nom-folder": "Equateur",
+  "nom-machine": "lieu-2015-12-06-16-15-52-86966193163",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Ecuador"
+    ],
+    "ar": [
+      "الإكوادور"
+    ],
+    "es": [
+      "Ecuador"
+    ],
+    "fr": [
+      "Équateur"
+    ],
+    "it": [
+      "Ecuador"
+    ],
+    "ru": [
+      "Эквадор"
+    ]
+  }
+}

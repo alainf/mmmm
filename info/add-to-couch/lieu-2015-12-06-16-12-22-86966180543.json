@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-22-86966180543",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Antilles/",
+  "description": "Antilles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-12-22",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Antilles",
+  "nom-folder": "Antilles",
+  "nom-machine": "lieu-2015-12-06-16-12-22-86966180543",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Antilles"
+    ],
+    "ar": [
+      "جزر الأنتيل"
+    ],
+    "es": [
+      "Antillas"
+    ],
+    "fr": [
+      "Antilles"
+    ],
+    "it": [
+      "Antille"
+    ],
+    "ru": [
+      "Антильские острова"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-14-52-86966189571",
+  "breadcrumb": "lieux/ville/Canada/Quebec/Saint-Charles-Borromee/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-14-52",
+  "nom": "Saint-Charles-Borromée",
+  "nom-folder": "Saint-Charles-Borromee",
+  "nom-machine": "lieu-2015-12-06-16-14-52-86966189571",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Saint-Charles-Borromée"
+    ]
+  }
+}

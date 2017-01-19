@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-14-33-86966188399",
+  "breadcrumb": "lieux/ville/Canada/Quebec/Lac-des-ecorces/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-14-33",
+  "nom": "Lac-des-Écorces",
+  "nom-folder": "Lac-des-ecorces",
+  "nom-machine": "lieu-2015-12-06-16-14-33-86966188399",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Lac-des-Écorces"
+    ]
+  }
+}

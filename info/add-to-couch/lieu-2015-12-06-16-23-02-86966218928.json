@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-02-86966218928",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Syrie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365420,
+  "mise-a-jour": "2016-02-04-18-30-05",
+  "moment-de-creation": "2015-12-06-16-23-02",
+  "moment-de-modification": "2016-02-04-18-30-05",
+  "nom": "Syrie",
+  "nom-folder": "Syrie",
+  "nom-machine": "lieu-2015-12-06-16-23-02-86966218928",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Syria"
+    ],
+    "ar": [
+      "سوريا"
+    ],
+    "es": [
+      "Siria"
+    ],
+    "fr": [
+      "Syrie"
+    ],
+    "it": [
+      "Siria"
+    ],
+    "ru": [
+      "Сирия"
+    ]
+  }
+}

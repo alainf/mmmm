@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-20-47-86966210829",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Golfe-du-Mexique/",
+  "description": "Golfe du Mexique",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 382409,
+  "mise-a-jour": "2015-01-04-02-27-01",
+  "moment-de-creation": "2015-12-06-16-20-47",
+  "moment-de-modification": "2015-01-04-02-27-01",
+  "nom": "Golfe du Mexique",
+  "nom-folder": "Golfe-du-Mexique",
+  "nom-machine": "lieu-2015-12-06-16-20-47-86966210829",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Gulf of Mexico"
+    ],
+    "ar": [
+      "خليج المكسيك"
+    ],
+    "es": [
+      "Golfo de México"
+    ],
+    "fr": [
+      "Golfe du Mexique"
+    ],
+    "it": [
+      "Golfo del Messico"
+    ],
+    "ru": [
+      "Мексиканский залив"
+    ]
+  }
+}

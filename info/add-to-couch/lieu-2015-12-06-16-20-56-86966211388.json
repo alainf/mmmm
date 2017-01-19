@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-20-56-86966211388",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Guatemala/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365283,
+  "mise-a-jour": "2016-02-04-16-48-19",
+  "moment-de-creation": "2015-12-06-16-20-56",
+  "moment-de-modification": "2016-02-04-16-48-19",
+  "nom": "Guatemala",
+  "nom-folder": "Guatemala",
+  "nom-machine": "lieu-2015-12-06-16-20-56-86966211388",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Guatemala"
+    ],
+    "ar": [
+      "غواتيمالا"
+    ],
+    "es": [
+      "Guatemala"
+    ],
+    "fr": [
+      "Guatemala"
+    ],
+    "it": [
+      "Guatemala"
+    ],
+    "ru": [
+      "Гватемала"
+    ]
+  }
+}

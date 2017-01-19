@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-25-86966216718",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Ouzbekistan/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365335,
+  "mise-a-jour": "2016-02-04-18-42-03",
+  "moment-de-creation": "2015-12-06-16-22-25",
+  "moment-de-modification": "2016-02-04-18-42-03",
+  "nom": "Ouzbékistan",
+  "nom-folder": "Ouzbekistan",
+  "nom-machine": "lieu-2015-12-06-16-22-25-86966216718",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Uzbekistan"
+    ],
+    "ar": [
+      "أوزبكستان"
+    ],
+    "es": [
+      "Uzbekistán"
+    ],
+    "fr": [
+      "Ouzbékistan"
+    ],
+    "it": [
+      "Uzbekistan"
+    ],
+    "ru": [
+      "Уганда"
+    ]
+  }
+}

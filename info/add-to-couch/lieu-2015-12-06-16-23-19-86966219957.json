@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-23-19-86966219957",
+  "breadcrumb": "lieux/region/Tunisie/gouvernorat-de-Tunis/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-23-19",
+  "nom": "gouvernorat de Tunis",
+  "nom-folder": "gouvernorat-de-Tunis",
+  "nom-machine": "lieu-2015-12-06-16-23-19-86966219957",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "gouvernorat de Tunis"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-20-56-86966211362",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Grenade/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 379218,
+  "mise-a-jour": "2016-02-04-16-42-02",
+  "moment-de-creation": "2015-12-06-16-20-56",
+  "moment-de-modification": "2016-02-04-16-42-02",
+  "nom": "Grenade",
+  "nom-folder": "Grenade",
+  "nom-machine": "lieu-2015-12-06-16-20-56-86966211362",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Grenada"
+    ],
+    "ar": [
+      "غرينادا"
+    ],
+    "es": [
+      "Granada"
+    ],
+    "fr": [
+      "Grenade"
+    ],
+    "it": [
+      "Grenada"
+    ],
+    "ru": [
+      "Греция"
+    ]
+  }
+}

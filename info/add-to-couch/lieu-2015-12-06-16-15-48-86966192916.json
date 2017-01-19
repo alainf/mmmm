@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-15-48-86966192916",
+  "breadcrumb": "lieux/ville/Egypte/Medinet-el-Fayoum/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-15-48",
+  "nom": "Médinet el-Fayoum",
+  "nom-folder": "Medinet-el-Fayoum",
+  "nom-machine": "lieu-2015-12-06-16-15-48-86966192916",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Médinet el-Fayoum"
+    ]
+  }
+}

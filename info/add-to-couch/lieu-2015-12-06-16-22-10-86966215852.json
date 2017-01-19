@@ -1,0 +1,32 @@
+{
+  "_id": "lieu-2015-12-06-16-22-10-86966215852",
+  "breadcrumb": "lieux/pays/Iles-Mariannes-du-Nord/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-22-10",
+  "nom": "Îles Mariannes du Nord",
+  "nom-folder": "Iles-Mariannes-du-Nord",
+  "nom-machine": "lieu-2015-12-06-16-22-10-86966215852",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Northern Mariana Islands"
+    ],
+    "ar": [
+      "جزر ماريانا الشمالي"
+    ],
+    "es": [
+      "Islas Marianas del Norte"
+    ],
+    "fr": [
+      "Îles Mariannes du Nord"
+    ],
+    "it": [
+      "Isole Marianne Settentrionali"
+    ],
+    "ru": [
+      "Северные Марианские острова"
+    ]
+  }
+}

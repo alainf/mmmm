@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2016-02-06-00-02-25-87284096726",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/region/Uruguay/Montevideo/",
+  "description": "Montevideo ou Montévidéo2, nom complet San Felipe y Santiago de Montevideo, est la capitale, le principal port et la plus grande ville d'Uruguay et est aussi celle du département de Montevideo. Montevideo possède une des plus importantes rades des Amériques (appelée Rambla[réf. souhaitée]). Elle se trouve dans la partie sud du pays et est bordée par le Rio de la Plata. La ville comptait 1 325 968 habitants en 2004 et son aire métropolitaine 1 668 335, soit presque la moitié de la population du pays. La ville possède également de superbes plages, telles que Pocitos, Buceo, Malvín, Playa de los Ingleses, Playa Verde, Punta Gorda et Carrasco.<br>Montevideo accueille le siège du Mercosur et celui de l'ALADI. Montevideo est considérée comme la ville d'Amérique latine où la qualité de vie est la plus élevée et fait partie des 30 villes les plus sûres du monde.[réf. nécessaire] La maire de la ville depuis le 8 juillet 2010 est Ana Olivera. Montevideo est le siège d'un archevêché catholique.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-06-00-06-14",
+  "moment-de-creation": "2016-02-06-00-02-25",
+  "moment-de-modification": "2016-02-06-00-06-14",
+  "nom": "Montevideo",
+  "nom-folder": "Montevideo",
+  "nom-machine": "lieu-2016-02-06-00-02-25-87284096726",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Montevideo"
+    ],
+    "ar": [
+      "مونتفيدو"
+    ],
+    "es": [
+      "Montevideo"
+    ],
+    "fr": [
+      "Montevideo"
+    ],
+    "it": [
+      "Montevideo"
+    ],
+    "ru": [
+      "Монтевидео"
+    ]
+  }
+}

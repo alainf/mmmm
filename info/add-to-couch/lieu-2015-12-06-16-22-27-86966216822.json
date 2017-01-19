@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-27-86966216822",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Papouasie-Nouvelle-Guinee/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365411,
+  "mise-a-jour": "2016-02-04-17-54-06",
+  "moment-de-creation": "2015-12-06-16-22-27",
+  "moment-de-modification": "2016-02-04-17-54-06",
+  "nom": "Papouasie-Nouvelle-Guinée",
+  "nom-folder": "Papouasie-Nouvelle-Guinee",
+  "nom-machine": "lieu-2015-12-06-16-22-27-86966216822",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Papua New Guinea"
+    ],
+    "ar": [
+      "بابوا غينيا الجديدة"
+    ],
+    "es": [
+      "Papúa Nueva Guinea"
+    ],
+    "fr": [
+      "Papouasie-Nouvelle-Guinée"
+    ],
+    "it": [
+      "Papua Nuova Guinea"
+    ],
+    "ru": [
+      "Папуа — Новая Гвинея"
+    ]
+  }
+}

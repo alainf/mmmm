@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-35-86966213739",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Japon/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362094,
+  "mise-a-jour": "2016-02-04-17-15-07",
+  "moment-de-creation": "2015-12-06-16-21-35",
+  "moment-de-modification": "2016-02-04-17-15-07",
+  "nom": "Japon",
+  "nom-folder": "Japon",
+  "nom-machine": "lieu-2015-12-06-16-21-35-86966213739",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Japan"
+    ],
+    "ar": [
+      "اليابان"
+    ],
+    "es": [
+      "Japón"
+    ],
+    "fr": [
+      "Japon"
+    ],
+    "it": [
+      "Giappone"
+    ],
+    "ru": [
+      "Япония"
+    ]
+  }
+}

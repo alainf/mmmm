@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-47-86966218050",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Sri-Lanka/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365339,
+  "mise-a-jour": "2016-02-04-17-26-21",
+  "moment-de-creation": "2015-12-06-16-22-47",
+  "moment-de-modification": "2016-02-04-17-26-21",
+  "nom": "Sri Lanka",
+  "nom-folder": "Sri-Lanka",
+  "nom-machine": "lieu-2015-12-06-16-22-47-86966218050",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Sri Lanka"
+    ],
+    "ar": [
+      "سريلانكا"
+    ],
+    "es": [
+      "Sri Lanka"
+    ],
+    "fr": [
+      "Sri Lanka"
+    ],
+    "it": [
+      "Sri Lanka"
+    ],
+    "ru": [
+      "Шри-Ланка"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-48-86966214488",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Maroc/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365255,
+  "mise-a-jour": "2016-02-04-17-31-10",
+  "moment-de-creation": "2015-12-06-16-21-48",
+  "moment-de-modification": "2016-02-04-17-31-10",
+  "nom": "Maroc",
+  "nom-folder": "Maroc",
+  "nom-machine": "lieu-2015-12-06-16-21-48-86966214488",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Morocco"
+    ],
+    "ar": [
+      "المغرب"
+    ],
+    "es": [
+      "Marruecos"
+    ],
+    "fr": [
+      "Maroc"
+    ],
+    "it": [
+      "Marocco"
+    ],
+    "ru": [
+      "Марокко"
+    ]
+  }
+}

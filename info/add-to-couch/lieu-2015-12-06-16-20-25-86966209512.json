@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-20-25-86966209512",
+  "breadcrumb": "lieux/region/France/Provence-Alpes-Cote-d-Azur/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-20-25",
+  "nom": "Provence-Alpes-Côte d'Azur",
+  "nom-folder": "Provence-Alpes-Cote-d-Azur",
+  "nom-machine": "lieu-2015-12-06-16-20-25-86966209512",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-11-86966215886",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Moyen-Orient/Machrek/Iraq/",
+  "description": "Iraq",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365399,
+  "mise-a-jour": "2015-01-04-02-27-19",
+  "moment-de-creation": "2015-12-06-16-22-11",
+  "moment-de-modification": "2015-01-04-02-27-19",
+  "nom": "Iraq",
+  "nom-folder": "Iraq",
+  "nom-machine": "lieu-2015-12-06-16-22-11-86966215886",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Iraq"
+    ],
+    "ar": [
+      "العراق"
+    ],
+    "es": [
+      "Iraq"
+    ],
+    "fr": [
+      "Iraq"
+    ],
+    "it": [
+      "Iraq"
+    ],
+    "ru": [
+      "Ирак"
+    ]
+  }
+}

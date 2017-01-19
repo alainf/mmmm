@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174898",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Afrique/Afrique-du-Nord/",
+  "description": "Afrique du Nord",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362052,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Afrique du Nord",
+  "nom-folder": "Afrique-du-Nord",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174898",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "North Africa"
+    ],
+    "ar": [
+      "شمال أفريقيا"
+    ],
+    "es": [
+      "África del Norte"
+    ],
+    "fr": [
+      "Afrique du Nord"
+    ],
+    "it": [
+      "Nordafrica"
+    ],
+    "ru": [
+      "Северная Африка"
+    ]
+  }
+}

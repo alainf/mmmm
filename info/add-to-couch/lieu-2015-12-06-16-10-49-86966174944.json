@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174944",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Moyen-Orient/Proche-Orient/",
+  "description": "Proche-Orient",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Proche-Orient",
+  "nom-folder": "Proche-Orient",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174944",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Near East"
+    ],
+    "ar": [
+      "شرق أدنى"
+    ],
+    "es": [
+      "Oriente Medio"
+    ],
+    "fr": [
+      "Proche-Orient"
+    ],
+    "it": [
+      "Vicino Oriente"
+    ],
+    "ru": [
+      "Ближний Восток"
+    ]
+  }
+}

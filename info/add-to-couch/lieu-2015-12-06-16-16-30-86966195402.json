@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-16-30-86966195402",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Finlande/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365360,
+  "mise-a-jour": "2016-02-04-16-37-32",
+  "moment-de-creation": "2015-12-06-16-16-30",
+  "moment-de-modification": "2016-02-04-16-37-32",
+  "nom": "Finlande",
+  "nom-folder": "Finlande",
+  "nom-machine": "lieu-2015-12-06-16-16-30-86966195402",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Finland"
+    ],
+    "ar": [
+      "فنلندا"
+    ],
+    "es": [
+      "Finlandia"
+    ],
+    "fr": [
+      "Finlande"
+    ],
+    "it": [
+      "Finlandia"
+    ],
+    "ru": [
+      "Финляндия"
+    ]
+  }
+}

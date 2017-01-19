@@ -1,0 +1,18 @@
+{
+  "_id": "lieu-2015-12-06-16-14-00-86966186412",
+  "breadcrumb": "lieux/ville/Canada/Ontario/Kenora/",
+  "fiche-publiee": true,
+  "identifiant-drupal": 363510,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-14-00",
+  "nom": "Kenora",
+  "nom-folder": "Kenora",
+  "nom-machine": "lieu-2015-12-06-16-14-00-86966186412",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Kenora"
+    ]
+  }
+}

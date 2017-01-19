@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-03-86966215430",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Mayotte/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362105,
+  "mise-a-jour": "2016-02-04-18-46-48",
+  "moment-de-creation": "2015-12-06-16-22-03",
+  "moment-de-modification": "2016-02-04-18-46-48",
+  "nom": "Mayotte",
+  "nom-folder": "Mayotte",
+  "nom-machine": "lieu-2015-12-06-16-22-03-86966215430",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Mayotte"
+    ],
+    "ar": [
+      "مايوت"
+    ],
+    "es": [
+      "Mayotte"
+    ],
+    "fr": [
+      "Mayotte"
+    ],
+    "it": [
+      "Mayotte"
+    ],
+    "ru": [
+      "Майотта"
+    ]
+  }
+}

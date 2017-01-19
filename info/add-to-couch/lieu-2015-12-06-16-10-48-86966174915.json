@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-48-86966174915",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Amerique/Amerique-latine/Amerique-du-Sud/",
+  "description": "Amérique du Sud",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362058,
+  "mise-a-jour": "2015-01-04-02-26-19",
+  "moment-de-creation": "2015-12-06-16-10-48",
+  "moment-de-modification": "2015-01-04-02-26-19",
+  "nom": "Amérique du Sud",
+  "nom-folder": "Amerique-du-Sud",
+  "nom-machine": "lieu-2015-12-06-16-10-48-86966174915",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "South America"
+    ],
+    "ar": [
+      "أمريكا الجنوبية"
+    ],
+    "es": [
+      "América del Sur"
+    ],
+    "fr": [
+      "Amérique du Sud"
+    ],
+    "it": [
+      "America del Sud"
+    ],
+    "ru": [
+      "Южная Америка"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "lieu-2015-12-06-16-23-02-86966218930",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/ville/Syrie/Idleb-(Muhafazah)/",
+  "description": "Gouvernorat de Syrie.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-25-02-27-30",
+  "moment-de-creation": "2015-12-06-16-23-02",
+  "moment-de-modification": "2016-02-25-02-27-30",
+  "nom": "Idleb (Muhafazah)",
+  "nom-folder": "Idleb-(Muhafazah)",
+  "nom-machine": "lieu-2015-12-06-16-23-02-86966218930",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Idleb (Muhafazah)"
+    ]
+  }
+}

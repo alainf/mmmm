@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-17-86966216270",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Niue/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 380830,
+  "mise-a-jour": "2016-02-04-17-50-47",
+  "moment-de-creation": "2015-12-06-16-22-17",
+  "moment-de-modification": "2016-02-04-17-50-47",
+  "nom": "Niue",
+  "nom-folder": "Niue",
+  "nom-machine": "lieu-2015-12-06-16-22-17-86966216270",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Niue"
+    ],
+    "ar": [
+      "نييوي"
+    ],
+    "es": [
+      "Niue"
+    ],
+    "fr": [
+      "Niue"
+    ],
+    "it": [
+      "Niue"
+    ],
+    "ru": [
+      "Ниуэ"
+    ]
+  }
+}

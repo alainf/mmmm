@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-20-08-86966208528",
+  "breadcrumb": "lieux/ville/France/Sarthe/La-Chapelle-d'Aligne/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-20-08",
+  "nom": "La Chapelle-d'Aligné",
+  "nom-folder": "La-Chapelle-d'Aligne",
+  "nom-machine": "lieu-2015-12-06-16-20-08-86966208528",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "La Chapelle-d'Aligné"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "lieu-2015-12-06-16-12-21-86966180490",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/region/France/Saint-Martin-(Antilles-francaises)/",
+  "description": "Saint-Martin (Antilles françaises)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362063,
+  "mise-a-jour": "2015-01-04-02-27-03",
+  "moment-de-creation": "2015-12-06-16-12-21",
+  "moment-de-modification": "2015-01-04-02-27-03",
+  "nom": "Saint-Martin (Antilles françaises)",
+  "nom-folder": "Saint-Martin-(Antilles-francaises)",
+  "nom-machine": "lieu-2015-12-06-16-12-21-86966180490",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Saint-Martin (Antilles françaises)"
+    ]
+  }
+}

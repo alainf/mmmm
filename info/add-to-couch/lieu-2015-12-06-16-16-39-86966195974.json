@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-16-39-86966195974",
+  "breadcrumb": "lieux/ville/France/Ain/Chanoz-Chatenay/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-16-39",
+  "nom": "Chanoz-Châtenay",
+  "nom-folder": "Chanoz-Chatenay",
+  "nom-machine": "lieu-2015-12-06-16-16-39-86966195974",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Chanoz-Châtenay"
+    ]
+  }
+}

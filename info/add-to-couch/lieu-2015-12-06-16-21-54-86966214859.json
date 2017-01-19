@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-21-54-86966214859",
+  "breadcrumb": "lieux/ville/Maroc/Jorf-El-Melha/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-21-54",
+  "nom": "Jorf El Melha",
+  "nom-folder": "Jorf-El-Melha",
+  "nom-machine": "lieu-2015-12-06-16-21-54-86966214859",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Jorf El Melha"
+    ]
+  }
+}

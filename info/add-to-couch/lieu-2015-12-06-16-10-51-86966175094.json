@@ -1,0 +1,20 @@
+{
+  "_id": "lieu-2015-12-06-16-10-51-86966175094",
+  "breadcrumb": "lieux/region/Algerie-Wilayas/Blida--w/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-10-51",
+  "nom": "Blida -w",
+  "nom-folder": "Blida--w",
+  "nom-machine": "lieu-2015-12-06-16-10-51-86966175094",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "ar": [
+      "ولاية البليدة"
+    ],
+    "fr": [
+      "Blida -w"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174997",
+  "breadcrumb": "lieux/region/Algerie-Regions/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "nom": "Régions d'Algérie",
+  "nom-folder": "Algerie-Regions",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174997",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "ar": [
+      "مناطق الجزائر"
+    ],
+    "fr": [
+      "Régions d'Algérie"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "lieu-2015-12-06-16-12-21-86966180488",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/region/France/Saint-Barthelemy-(Antilles-francaises)/",
+  "description": "Saint-Barthélemy (Antilles françaises)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362062,
+  "mise-a-jour": "2015-01-04-02-27-03",
+  "moment-de-creation": "2015-12-06-16-12-21",
+  "moment-de-modification": "2015-01-04-02-27-03",
+  "nom": "Saint-Barthélemy (Antilles françaises)",
+  "nom-folder": "Saint-Barthelemy-(Antilles-francaises)",
+  "nom-machine": "lieu-2015-12-06-16-12-21-86966180488",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Saint-Barthélemy (Antilles françaises)"
+    ]
+  }
+}

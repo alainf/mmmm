@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-19-34-86966206499",
+  "breadcrumb": "lieux/region/France/Saone-et-Loire/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-19-34",
+  "nom": "Saône-et-Loire",
+  "nom-folder": "Saone-et-Loire",
+  "nom-machine": "lieu-2015-12-06-16-19-34-86966206499",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Saône-et-Loire"
+    ]
+  }
+}

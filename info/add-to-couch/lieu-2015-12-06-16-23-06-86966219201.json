@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-23-06-86966219201",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Timor-oriental/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365343,
+  "mise-a-jour": "2016-02-04-18-36-34",
+  "moment-de-creation": "2015-12-06-16-23-06",
+  "moment-de-modification": "2016-02-04-18-36-34",
+  "nom": "Timor oriental",
+  "nom-folder": "Timor-oriental",
+  "nom-machine": "lieu-2015-12-06-16-23-06-86966219201",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "East Timor"
+    ],
+    "ar": [
+      "تيمور الشرقية"
+    ],
+    "es": [
+      "Timor Oriental"
+    ],
+    "fr": [
+      "Timor oriental"
+    ],
+    "it": [
+      "Timor Est"
+    ],
+    "ru": [
+      "Восточный Тимор"
+    ]
+  }
+}

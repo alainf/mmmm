@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174948",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/monde/Pacifique-Sud/",
+  "description": "Pacifique Sud",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362117,
+  "mise-a-jour": "2015-01-04-02-26-20",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "moment-de-modification": "2015-01-04-02-26-20",
+  "nom": "Pacifique Sud",
+  "nom-folder": "Pacifique-Sud",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174948",
+  "sous-type": "monde",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "South Pacific"
+    ],
+    "ar": [
+      "جنوب المحيط الهادئ"
+    ],
+    "es": [
+      "Pacífico Sur"
+    ],
+    "fr": [
+      "Pacifique Sud"
+    ],
+    "it": [
+      "Sud Pacifico"
+    ],
+    "ru": [
+      "Южнотихоокеанская"
+    ]
+  }
+}

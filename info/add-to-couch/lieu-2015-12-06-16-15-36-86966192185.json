@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-15-36-86966192185",
+  "breadcrumb": "lieux/ville/Colombie/Choco/El-Canton-de-San-Pablo/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-15-36",
+  "nom": "El Cantón de San Pablo",
+  "nom-folder": "El-Canton-de-San-Pablo",
+  "nom-machine": "lieu-2015-12-06-16-15-36-86966192185",
+  "sous-type": "ville",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "El Cantón de San Pablo"
+    ]
+  }
+}

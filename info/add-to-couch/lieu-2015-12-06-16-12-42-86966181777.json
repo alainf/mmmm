@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-42-86966181777",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Botswana/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365235,
+  "mise-a-jour": "2016-02-04-16-17-31",
+  "moment-de-creation": "2015-12-06-16-12-42",
+  "moment-de-modification": "2016-02-04-16-17-31",
+  "nom": "Botswana",
+  "nom-folder": "Botswana",
+  "nom-machine": "lieu-2015-12-06-16-12-42-86966181777",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Botswana"
+    ],
+    "ar": [
+      "بوتسوانا"
+    ],
+    "es": [
+      "Botswana"
+    ],
+    "fr": [
+      "Botswana"
+    ],
+    "it": [
+      "Botswana"
+    ],
+    "ru": [
+      "Ботсвана"
+    ]
+  }
+}

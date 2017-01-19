@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-10-86966215849",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Etats-federes-de-Micronesie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362095,
+  "mise-a-jour": "2016-02-04-16-39-17",
+  "moment-de-creation": "2015-12-06-16-22-10",
+  "moment-de-modification": "2016-02-04-16-39-17",
+  "nom": "États fédérés de Micronésie",
+  "nom-folder": "Etats-federes-de-Micronesie",
+  "nom-machine": "lieu-2015-12-06-16-22-10-86966215849",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Micronesia"
+    ],
+    "ar": [
+      "ميكرونيسيا"
+    ],
+    "es": [
+      "Micronesia"
+    ],
+    "fr": [
+      "États fédérés de Micronésie"
+    ],
+    "it": [
+      "Micronesia"
+    ],
+    "ru": [
+      "Микронезия"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-15-86966216152",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Niger/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365259,
+  "mise-a-jour": "2016-02-04-17-45-50",
+  "moment-de-creation": "2015-12-06-16-22-15",
+  "moment-de-modification": "2016-02-04-17-45-50",
+  "nom": "Niger",
+  "nom-folder": "Niger",
+  "nom-machine": "lieu-2015-12-06-16-22-15-86966216152",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Niger"
+    ],
+    "ar": [
+      "النيجر"
+    ],
+    "es": [
+      "Niger"
+    ],
+    "fr": [
+      "Niger"
+    ],
+    "it": [
+      "Niger"
+    ],
+    "ru": [
+      "Нигер"
+    ]
+  }
+}

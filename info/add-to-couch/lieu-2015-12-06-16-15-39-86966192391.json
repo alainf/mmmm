@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2015-12-06-16-15-39-86966192391",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Comores/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-04-17-20-21",
+  "moment-de-creation": "2015-12-06-16-15-39",
+  "moment-de-modification": "2016-02-04-17-20-21",
+  "nom": "Comores",
+  "nom-folder": "Comores",
+  "nom-machine": "lieu-2015-12-06-16-15-39-86966192391",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Comoros"
+    ],
+    "ar": [
+      "جزر القمر"
+    ],
+    "es": [
+      "Comoras"
+    ],
+    "fr": [
+      "Comores"
+    ],
+    "it": [
+      "Comore"
+    ],
+    "ru": [
+      "Колумбия"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-12-35-86966181335",
+  "breadcrumb": "lieux/region/Belgique/Ottignies-Louvain-la-Neuve/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-12-35",
+  "nom": "Ottignies-Louvain-la-Neuve",
+  "nom-folder": "Ottignies-Louvain-la-Neuve",
+  "nom-machine": "lieu-2015-12-06-16-12-35-86966181335",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Ottignies-Louvain-la-Neuve"
+    ]
+  }
+}

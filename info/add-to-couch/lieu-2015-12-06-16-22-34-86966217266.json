@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-34-86966217266",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Republique-centrafricaine/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365262,
+  "mise-a-jour": "2016-02-04-16-20-09",
+  "moment-de-creation": "2015-12-06-16-22-34",
+  "moment-de-modification": "2016-02-04-16-20-09",
+  "nom": "République centrafricaine",
+  "nom-folder": "Republique-centrafricaine",
+  "nom-machine": "lieu-2015-12-06-16-22-34-86966217266",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Central African Republic"
+    ],
+    "ar": [
+      "جمهورية أفريقيا الوسطى"
+    ],
+    "es": [
+      "República Centroafricana"
+    ],
+    "fr": [
+      "République centrafricaine"
+    ],
+    "it": [
+      "Repubblica Centrafricana"
+    ],
+    "ru": [
+      "Центральноафриканская Республика"
+    ]
+  }
+}

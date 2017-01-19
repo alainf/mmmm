@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2015-12-06-16-21-43-86966214224",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Luxembourg/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-04-17-29-47",
+  "moment-de-creation": "2015-12-06-16-21-43",
+  "moment-de-modification": "2016-02-04-17-29-47",
+  "nom": "Luxembourg (pays)",
+  "nom-folder": "Luxembourg",
+  "nom-machine": "lieu-2015-12-06-16-21-43-86966214224",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Luxembourg"
+    ],
+    "ar": [
+      "لوكسمبورغ"
+    ],
+    "es": [
+      "Luxemburgo"
+    ],
+    "fr": [
+      "Luxembourg (pays)"
+    ],
+    "it": [
+      "Lussemburgo"
+    ],
+    "ru": [
+      "Люксембург"
+    ]
+  }
+}

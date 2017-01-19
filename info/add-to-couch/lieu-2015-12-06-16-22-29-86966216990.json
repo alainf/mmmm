@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-29-86966216990",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Pologne/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365379,
+  "mise-a-jour": "2016-02-04-17-55-32",
+  "moment-de-creation": "2015-12-06-16-22-29",
+  "moment-de-modification": "2016-02-04-17-55-32",
+  "nom": "Pologne",
+  "nom-folder": "Pologne",
+  "nom-machine": "lieu-2015-12-06-16-22-29-86966216990",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Poland"
+    ],
+    "ar": [
+      "بولندا"
+    ],
+    "es": [
+      "Polonia"
+    ],
+    "fr": [
+      "Pologne"
+    ],
+    "it": [
+      "Polonia"
+    ],
+    "ru": [
+      "Польша"
+    ]
+  }
+}

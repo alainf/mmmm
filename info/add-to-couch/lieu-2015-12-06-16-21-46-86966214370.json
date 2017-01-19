@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-21-46-86966214370",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Maldives/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365330,
+  "mise-a-jour": "2016-02-04-17-39-43",
+  "moment-de-creation": "2015-12-06-16-21-46",
+  "moment-de-modification": "2016-02-04-17-39-43",
+  "nom": "Maldives",
+  "nom-folder": "Maldives",
+  "nom-machine": "lieu-2015-12-06-16-21-46-86966214370",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Maldives"
+    ],
+    "ar": [
+      "جزر المالديف"
+    ],
+    "es": [
+      "Maldivas"
+    ],
+    "fr": [
+      "Maldives"
+    ],
+    "it": [
+      "Maldive"
+    ],
+    "ru": [
+      "Мальдивы"
+    ]
+  }
+}

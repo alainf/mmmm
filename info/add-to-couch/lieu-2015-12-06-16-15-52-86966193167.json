@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-52-86966193167",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Erythree/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365244,
+  "mise-a-jour": "2016-02-04-16-36-16",
+  "moment-de-creation": "2015-12-06-16-15-52",
+  "moment-de-modification": "2016-02-04-16-36-16",
+  "nom": "Érythrée",
+  "nom-folder": "Erythree",
+  "nom-machine": "lieu-2015-12-06-16-15-52-86966193167",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Eritrea"
+    ],
+    "ar": [
+      "إريتريا"
+    ],
+    "es": [
+      "Eritrea"
+    ],
+    "fr": [
+      "Érythrée"
+    ],
+    "it": [
+      "Eritrea"
+    ],
+    "ru": [
+      "Эритрея"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "lieu-2015-12-06-16-10-50-86966175046",
+  "breadcrumb": "lieux/region/Algerie-Regions/Le-Touat/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-10-50",
+  "nom": "Le Touat",
+  "nom-folder": "Le-Touat",
+  "nom-machine": "lieu-2015-12-06-16-10-50-86966175046",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "ar": [
+      "توات"
+    ],
+    "fr": [
+      "Le Touat"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-47-86966218021",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Serbie/",
+  "description": "Serbie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365385,
+  "mise-a-jour": "2015-01-04-02-27-03",
+  "moment-de-creation": "2015-12-06-16-22-47",
+  "moment-de-modification": "2015-01-04-02-27-03",
+  "nom": "Serbie",
+  "nom-folder": "Serbie",
+  "nom-machine": "lieu-2015-12-06-16-22-47-86966218021",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Serbia"
+    ],
+    "ar": [
+      "صربيا"
+    ],
+    "es": [
+      "Serbia"
+    ],
+    "fr": [
+      "Serbie"
+    ],
+    "it": [
+      "Serbia"
+    ],
+    "ru": [
+      "Сербия"
+    ]
+  }
+}

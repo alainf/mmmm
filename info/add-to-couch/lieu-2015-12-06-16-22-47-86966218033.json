@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-47-86966218033",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Slovaquie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365386,
+  "mise-a-jour": "2016-02-04-18-26-18",
+  "moment-de-creation": "2015-12-06-16-22-47",
+  "moment-de-modification": "2016-02-04-18-26-18",
+  "nom": "Slovaquie",
+  "nom-folder": "Slovaquie",
+  "nom-machine": "lieu-2015-12-06-16-22-47-86966218033",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Slovakia"
+    ],
+    "ar": [
+      "سلوفاكيا"
+    ],
+    "es": [
+      "Eslovaquia"
+    ],
+    "fr": [
+      "Slovaquie"
+    ],
+    "it": [
+      "Slovacchia"
+    ],
+    "ru": [
+      "Словакия"
+    ]
+  }
+}

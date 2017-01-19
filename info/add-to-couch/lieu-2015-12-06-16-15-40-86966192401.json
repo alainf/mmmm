@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-15-40-86966192401",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Costa-Rica/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365280,
+  "mise-a-jour": "2016-02-04-16-26-18",
+  "moment-de-creation": "2015-12-06-16-15-40",
+  "moment-de-modification": "2016-02-04-16-26-18",
+  "nom": "Costa Rica",
+  "nom-folder": "Costa-Rica",
+  "nom-machine": "lieu-2015-12-06-16-15-40-86966192401",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Costa Rica"
+    ],
+    "ar": [
+      "كوستاريكا"
+    ],
+    "es": [
+      "Costa Rica"
+    ],
+    "fr": [
+      "Costa Rica"
+    ],
+    "it": [
+      "Costarica"
+    ],
+    "ru": [
+      "Коста-Рика"
+    ]
+  }
+}

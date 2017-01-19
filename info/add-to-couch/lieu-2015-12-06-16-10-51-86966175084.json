@@ -1,0 +1,20 @@
+{
+  "_id": "lieu-2015-12-06-16-10-51-86966175084",
+  "breadcrumb": "lieux/region/Algerie-Wilayas/Bejaia-w/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-10-51",
+  "nom": "Béjaïa-w",
+  "nom-folder": "Bejaia-w",
+  "nom-machine": "lieu-2015-12-06-16-10-51-86966175084",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "ar": [
+      "ولاية بجاية"
+    ],
+    "fr": [
+      "Béjaïa-w"
+    ]
+  }
+}

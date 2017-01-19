@@ -1,0 +1,17 @@
+{
+  "_id": "lieu-2015-12-06-16-20-25-86966209514",
+  "breadcrumb": "lieux/region/France/Alpes-Maritimes/",
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-04-16-01-36-56",
+  "moment-de-creation": "2015-12-06-16-20-25",
+  "nom": "Alpes-Maritimes",
+  "nom-folder": "Alpes-Maritimes",
+  "nom-machine": "lieu-2015-12-06-16-20-25-86966209514",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "Alpes-Maritimes"
+    ]
+  }
+}

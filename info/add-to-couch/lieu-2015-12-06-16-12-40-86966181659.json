@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-12-40-86966181659",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Bolivie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365290,
+  "mise-a-jour": "2016-02-04-16-11-10",
+  "moment-de-creation": "2015-12-06-16-12-40",
+  "moment-de-modification": "2016-02-04-16-11-10",
+  "nom": "Bolivie",
+  "nom-folder": "Bolivie",
+  "nom-machine": "lieu-2015-12-06-16-12-40-86966181659",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Bolivia"
+    ],
+    "ar": [
+      "بوليفيا"
+    ],
+    "es": [
+      "Bolivia"
+    ],
+    "fr": [
+      "Bolivie"
+    ],
+    "it": [
+      "Bolivia"
+    ],
+    "ru": [
+      "Боливия"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "lieu-2015-12-06-16-21-35-86966213754",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/region/La-Reunion-(departement)/",
+  "description": "La Réunion (département)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 362103,
+  "mise-a-jour": "2015-01-04-02-27-08",
+  "moment-de-creation": "2015-12-06-16-21-35",
+  "moment-de-modification": "2015-01-04-02-27-08",
+  "nom": "La Réunion (département)",
+  "nom-folder": "La-Reunion-(departement)",
+  "nom-machine": "lieu-2015-12-06-16-21-35-86966213754",
+  "sous-type": "region",
+  "type": "lieux",
+  "nomLangues": {
+    "fr": [
+      "La Réunion (département)"
+    ]
+  }
+}

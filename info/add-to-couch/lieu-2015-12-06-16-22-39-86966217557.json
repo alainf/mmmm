@@ -1,0 +1,37 @@
+{
+  "_id": "lieu-2015-12-06-16-22-39-86966217557",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Republique-de-Maurice/",
+  "description": "République de Maurice",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365409,
+  "mise-a-jour": "2015-01-04-02-27-07",
+  "moment-de-creation": "2015-12-06-16-22-39",
+  "moment-de-modification": "2015-01-04-02-27-07",
+  "nom": "République de Maurice",
+  "nom-folder": "Republique-de-Maurice",
+  "nom-machine": "lieu-2015-12-06-16-22-39-86966217557",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "Mauritius"
+    ],
+    "ar": [
+      "موريشيوس"
+    ],
+    "es": [
+      "Mauricio"
+    ],
+    "fr": [
+      "République de Maurice"
+    ],
+    "it": [
+      "Mauritius"
+    ],
+    "ru": [
+      "Маврикий"
+    ]
+  }
+}

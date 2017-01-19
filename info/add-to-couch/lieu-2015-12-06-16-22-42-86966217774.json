@@ -1,0 +1,36 @@
+{
+  "_id": "lieu-2015-12-06-16-22-42-86966217774",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Royaume-Uni/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 365383,
+  "mise-a-jour": "2016-02-04-18-40-35",
+  "moment-de-creation": "2015-12-06-16-22-42",
+  "moment-de-modification": "2016-02-04-18-40-35",
+  "nom": "Royaume-Uni",
+  "nom-folder": "Royaume-Uni",
+  "nom-machine": "lieu-2015-12-06-16-22-42-86966217774",
+  "sous-type": "pays",
+  "type": "lieux",
+  "nomLangues": {
+    "en": [
+      "United Kingdom"
+    ],
+    "ar": [
+      "المملكة المتحدة"
+    ],
+    "es": [
+      "Reino Unido"
+    ],
+    "fr": [
+      "Royaume-Uni"
+    ],
+    "it": [
+      "Regno Unito"
+    ],
+    "ru": [
+      "Великобритания"
+    ]
+  }
+}

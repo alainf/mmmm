@@ -1,0 +1,35 @@
+{
+  "_id": "lieu-2015-12-06-16-10-49-86966174987",
+  "ajouter-aux-favoris": false,
+  "breadcrumb": "lieux/pays/Abkhazie/",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "mise-a-jour": "2016-02-06-00-45-48",
+  "moment-de-creation": "2015-12-06-16-10-49",
+  "moment-de-modification": "2016-02-06-00-45-48",
+  "nom": "Abkhazie",
+  "nom-folder": "Abkhazie",
+  "nom-machine": "lieu-2015-12-06-16-10-49-86966174987",
+  "sous-type": "pays",
+  "type": "taxonomies",
+  "nomLangues": {
+    "en": [
+      "Abkhazia"
+    ],
+    "ar": [
+      "أبخازيا"
+    ],
+    "es": [
+      "Abjasia"
+    ],
+    "fr": [
+      "Abkhazie"
+    ],
+    "it": [
+      "Abcasia"
+    ],
+    "ru": [
+      "Абхазия"
+    ]
+  }
+}
