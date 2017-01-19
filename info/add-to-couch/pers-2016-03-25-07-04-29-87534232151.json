@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-04-29-87534232151",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 468414,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-04-29",
+  "moment-de-modification": "2016-03-25-07-04-29",
+  "nom": "Dilma Felizardo",
+  "nom-machine": "pers-2016-03-25-07-04-29-87534232151",
+  "personne-nom-famille": "Felizardo",
+  "personne-nom-prenom": "Dilma",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-04-29-87534232151",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-48-86966225311",
+    "terme-2015-12-06-16-24-53-86966225587",
+    "terme-2015-12-06-16-25-05-86966226331",
+    "terme-2015-12-06-16-25-43-86966228632",
+    "terme-2015-12-06-16-26-11-86966230293",
+    "terme-2015-12-06-16-26-43-86966232230",
+    "terme-2015-12-06-16-26-49-86966232548",
+    "terme-2015-12-06-16-26-49-86966232562",
+    "terme-2015-12-06-16-27-06-86966233564",
+    "terme-2015-12-06-16-27-06-86966233610"
+  ],
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Dilma Felizardo"
+    ]
+  }
+}

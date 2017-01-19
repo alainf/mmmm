@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216133",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Arthur Asher Miller (New York, États-Unis, 17 octobre 1915 - Roxbury, États-Unis, 10 février 2005) est un dramaturge, écrivain et essayiste américain.<br>Miller est une figure importante de la littérature et du cinéma américain du xxe siècle. Il a écrit un nombre important de pièces de théâtre dont les plus connues sont Les Sorcières de Salem (The Crucible) et Mort d'un commis voyageur (Death of a Salesman) qui sont toujours abondamment jouées. Miller est aussi connu pour son court mariage avec Marilyn Monroe.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455450,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Arthur Miller",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216133"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227831",
+  "personne-nom-famille": "Miller",
+  "personne-nom-prenom": "Arthur",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216133",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Arthur Miller"
+    ]
+  }
+}

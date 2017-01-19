@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216352",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "René de Obaldia est un poète, romancier et dramaturge français, né le 22 octobre 1918 à Hong Kong. \"Inventeur du langage\", René de Obaldia écrit des textes qui sont presque tous empreints d'humour fantastique, de fantaisie et d'imagination.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455545,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "René de Obaldia",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216352"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227888",
+  "personne-nom-famille": "de Obaldia",
+  "personne-nom-prenom": "René",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216352",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "René de Obaldia"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216128",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Anton Pavlovitch Tchekhov1, né le 17 janvier/29 janvier[?] 1860 à Taganrog (Russie) et mort le 2 juillet/15 juillet 1904 à Badenweiler (Allemagne), est un écrivain, nouvelliste et dramaturge russe, médecin de profession. Tout en exerçant la médecine principalement bénévolement, il publie entre 1880 et 1903 plus de 600 œuvres littéraires. Tchekhov est connu notamment pour ses pièces de théâtres telles que Les Trois Sœurs, La Mouette ou La Cerisaie. Il est l’un des auteurs les plus connus de la littérature russe, notamment pour sa manière typique, neutre et retenue de décrire les aspects de la vie et de la pensée des hommes dans la province russe. Ami d’Ivan Bounine, de Maxime Gorki, de Fédor Chaliapine, d'Alexeï Souvorine, il est l’oncle de Mikhaïl Tchekhov, fils de son frère Alexander et de Natalia Golden, et disciple de Constantin Stanislavski.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455447,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Anton Tchekhov",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216128"
+  ],
+  "personne-date-deces": "1904",
+  "personne-date-naissance": "terme-2015-12-06-16-25-27-86966227662",
+  "personne-nom-famille": "Tchekhov",
+  "personne-nom-prenom": "Anton",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216128",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Anton Tchekhov"
+    ]
+  }
+}

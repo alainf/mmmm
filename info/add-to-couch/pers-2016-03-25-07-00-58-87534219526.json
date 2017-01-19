@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-00-58-87534219526",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-58",
+  "description": "Julien GAUTHEY - Doctorant - La qualification des alertes dans le domaine de la santé environnementale <br>L’avènement d’une société du risque, les différentes crises sanitaires et technologiques ou encore la reconnaissance du principe de précaution ont conféré aux « alertes » et aux dispositifs qui les supportent un rôle particulier dans la construction et la gestion des risques..",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 457157,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-00-58",
+  "moment-de-modification": "2016-03-25-07-00-58",
+  "nom": "Julien GAUTHEY",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-58-87534219526"
+  ],
+  "personne-nom-famille": "GAUTHEY",
+  "personne-nom-prenom": "Julien",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-58-87534219526",
+  "sous-type": "pers",
+  "tip": "Doctorant - La qualification des alertes dans le domaine de la santé environnementale",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Julien GAUTHEY"
+    ]
+  }
+}

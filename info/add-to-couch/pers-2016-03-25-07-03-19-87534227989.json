@@ -1,0 +1,73 @@
+{
+  "_id": "pers-2016-03-25-07-03-19-87534227989",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-03-19",
+  "description": "Le perfectionnisme autour de Stanley Cavell et de la philosophie américaine mais aussi d'une dimension morale et intellectuelle bien présente dans notre tradition.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466240,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-03-19",
+  "moment-de-modification": "2016-03-25-07-03-19",
+  "mots-clefs": [
+    "Cavell",
+    "cinéma",
+    "constitution",
+    "conversation",
+    "discours",
+    "Elise Domenach",
+    "Emerson",
+    "esclavage",
+    "John Rawls",
+    "justice",
+    "Marine Duval",
+    "Maureen Duvall",
+    "Nietzsche",
+    "Obama",
+    "perfectionnisme",
+    "philosophie",
+    "philosophie américaine",
+    "philosophie anglo-saxonne",
+    "philosophie continentale",
+    "politique",
+    "Raoul Moati",
+    "Sandra Laugier",
+    "speech-acts",
+    "Stanley Cavell",
+    "théâtre",
+    "Wittgenstein"
+  ],
+  "nom": "Stanley Cavell",
+  "nom-machine": [
+    "pers-2016-03-25-07-03-19-87534227989"
+  ],
+  "personne-nom-famille": "Cavell",
+  "personne-nom-prenom": "Stanley",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-03-19-87534227989",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-10-86966233857",
+    "terme-2015-12-06-16-27-11-86966233866",
+    "terme-2015-12-06-16-27-11-86966233869",
+    "terme-2015-12-06-16-27-11-86966233885"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Stanley Cavell"
+    ]
+  }
+}

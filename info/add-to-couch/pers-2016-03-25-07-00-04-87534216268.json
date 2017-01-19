@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216268",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Né en 1946, Jean-Pierre Sarrazac est un homme de théâtre (auteur dramatique, metteur en scène, enseignant, formateur de comédiens, théoricien du drame).",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455509,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean-Pierre Sarrazac",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216268"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227926",
+  "personne-nom-famille": "Sarrazac",
+  "personne-nom-prenom": "Jean-Pierre",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216268",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean-Pierre Sarrazac"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224302",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "François Dubet, né le 23 mai 1946 à Périgueux, est un sociologue français, professeur à l'Université Bordeaux II et directeur d'études à l'École des hautes études en sciences sociales (EHESS). Il est l’auteur de nombreux ouvrages consacrés à la marginalité juvénile, à l'école et aux institutions et a dirigé l'élaboration du rapport Le Collège de l'an 2000 remis à la ministre chargée de l'enseignement scolaire en 19991.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461523,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "François Dubet",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224302"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227926",
+  "personne-nom-famille": "Dubet",
+  "personne-nom-prenom": "François",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224302",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "François Dubet"
+    ]
+  }
+}

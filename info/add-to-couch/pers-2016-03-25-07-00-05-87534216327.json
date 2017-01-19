@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216327",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Noëlle Renaude (née à Paris en 1949) est une dramaturge française contemporaine.<br>Elle a aujourd'hui une vingtaine de pièces à son actif, la plupart traduites en plusieurs langues et jouées ou éditées à l'étranger.<br>Elle écrit pour le théâtre depuis l'âge de 27 ans. Ce n'est qu'après des études d'histoire de l'art et de langues orientales qu'elle se consacre à l'écriture théâtrale tout en écrivant pour des revues diverses sur le théâtre et les arts plastiques.<br>Oeuvre protéiforme, en régénération permanente, ses textes explorent la scène tout en la provoquant. De 1994 à 1997 elle écrit Ma Solange, comment t'écrire mon désastre, Alex Roux, texte fleuve de 18 heures, qu'elle destine à l'acteur Christophe Brault, et qu'elle met en scène au fur et à mesure de l'avancée de l'écriture.<br>En France, des metteurs en scène comme Robert Cantarella, Michel Didym, François Rancillac, Frédéric Fisbach, Philippe Calvario, Frédéric Maragnani, ainsi que l'artiste plasticien Thierry Fournier, ont monté ses textes. Florence Giorgetti, pour sa part, a mis en scène Blanche Aurore Céleste, Madame Ka et récemment Une belle journée. Ses textes font par ailleurs l'objet de créations radiophoniques sur France Culture et d'autres radios étrangères. L'atlas alphabétique d'un nouveau monde , sous la direction de Michel Corvin, explore les territoires de son écriture.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455534,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Noëlle Renaude",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216327"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227937",
+  "personne-nom-famille": "Renaude",
+  "personne-nom-prenom": "Noëlle",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216327",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Noëlle Renaude"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224309",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "Professor of Sociology<br>8141 Sewell Social Sciences<br>(608) 262-4419<br>Education: Ph.D., Harvard University, 1989<br>Areas of Interest:<br>Comparative/Historical Sociology<br>Ethnomethodology and Conversation Analysis<br>General Social Theory<br>Social Movements and Collective Action<br>Sociology of Culture<br>Affiliations: Sociology",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461527,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Mustafa Emirbayer",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224309"
+  ],
+  "personne-nom-famille": "Emirbayer",
+  "personne-nom-prenom": "Mustafa",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224309",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Mustafa Emirbayer"
+    ]
+  }
+}

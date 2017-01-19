@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216135",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Johan August Strindberg , né le 22 janvier 1849 à Stockholm, mort le 14 mai 1912 à Stockholm, est un écrivain, dramaturge et peintre suédois. Il fait partie des auteurs suédois les plus importants et est un des pères du théâtre moderne. Ses œuvres se classent parmi deux courants littéraires majeurs, le naturalisme et l'expressionnisme.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455451,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "August Strindberg",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216135"
+  ],
+  "personne-date-deces": "1912",
+  "personne-date-naissance": "terme-2015-12-06-16-25-27-86966227632",
+  "personne-nom-famille": "Strindberg",
+  "personne-nom-prenom": "August",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216135",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "August Strindberg"
+    ]
+  }
+}

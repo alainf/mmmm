@@ -1,0 +1,35 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224295",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "Mohamed Cherkaoui a été ministre d'Etat sous le Gouvernement Bekkay Ben M'barek Lahbil 1. Le 27 mai 1960, il a occupé le portefeuille de Ministre des PTT dans le Gouvernement Mohammed V. Il a été Ministre des Affaires économiques et des Finances sous le Gouvernement Ahmed Bahnini. Sous la présidence du conseil de Hassan II, il est devenu Ministre du Développement",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461518,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Mohamed Cherkaoui",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224295"
+  ],
+  "personne-nom-famille": "Cherkaoui",
+  "personne-nom-prenom": "Mohamed",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224295",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Mohamed Cherkaoui"
+    ]
+  }
+}

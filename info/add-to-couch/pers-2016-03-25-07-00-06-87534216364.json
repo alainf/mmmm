@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216364",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Samuel Beckett (Foxrock, Dublin, 13 avril 1906 - Paris, 22 décembre 1989) est un écrivain, poète et dramaturge irlandais d'expression française et anglaise, prix Nobel de littérature.<br>S'il est l'auteur de romans, tels que Molloy, Malone meurt et l'Innommable et de textes brefs en prose, son nom reste surtout associé au théâtre de l'absurde, dont sa pièce En attendant Godot (1952) est l'une des plus célèbres illustrations. Son œuvre est austère et minimaliste, ce qui est généralement interprété comme l'expression d'un profond pessimisme devant la condition humaine. Opposer ce pessimisme à l'humour omniprésent chez lui n'aurait guère de sens : il faut plutôt les voir comme étant au service l'un de l'autre, pris dans le cadre plus large d'une immense entreprise de dérision.[réf. souhaitée] Avec le temps, il traite ces thèmes dans un style de plus en plus lapidaire, tendant à rendre sa langue de plus en plus concise et sèche. En 1969, il reçoit le prix Nobel de littérature pour « son œuvre, qui à travers un renouvellement des formes du roman et du théâtre, prend toute son élévation dans la destitution de l'homme moderne »1.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455550,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Samuel Beckett",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216364"
+  ],
+  "personne-date-deces": "1989",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227783",
+  "personne-nom-famille": "Beckett",
+  "personne-nom-prenom": "Samuel",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216364",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Samuel Beckett"
+    ]
+  }
+}

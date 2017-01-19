@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216323",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Cnaeus (ou Gnaeus) Naevius , en français Névius ou Nevius (-264–-194), dramaturge romain.<br>C'est un Campanien (Capoue), originaire d'un milieu fortement marqué par les Grecs. Il est venu s’installer à Rome à la fin de la Première guerre punique où il avait combattu comme allié de Rome. Aulu Gelle nous dit qu’il donne sa première représentation en 235. Les Metelli le font emprisonner en 205. Il est libéré par Marcus Claudius Marcellus, fils du grand Marcellus, mais doit s’exiler en raison de ses positions contre les Metelli et les Scipions, disant que les destins des deux familles \"est de naître consuls à Rome.\"",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455532,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Naevius",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216323"
+  ],
+  "personne-date-deces": "-194",
+  "personne-date-naissance": "-264",
+  "personne-nom-famille": "Naevius",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216323",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Naevius"
+    ]
+  }
+}

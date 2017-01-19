@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216240",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jean Cocteau est né le 5 juillet 1889 à Maisons-Laffitte et mort le 11 octobre 1963 à Milly-la-Forêt. Il est un poète français, artiste aux multiples talents, graphiste, dessinateur, dramaturge, mais aussi cinéaste.<br>Il fut élu à l'Académie française en 1955.<br>Comptant parmi les artistes qui ont marqué le XXe siècle, il côtoya la plupart de ceux qui animèrent la vie artistique de son époque. Il fut l'imprésario de son temps, le lanceur de modes, le bon génie d'innombrables artistes et posa sa touche inspirée sur tout ce qu'il créa avec une grâce particulière, une originalité de tous les instants et une intuition rare.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455497,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean Cocteau",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216240"
+  ],
+  "personne-date-deces": "1963",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227755",
+  "personne-nom-famille": "Cocteau",
+  "personne-nom-prenom": "Jean",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216240",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean Cocteau"
+    ]
+  }
+}

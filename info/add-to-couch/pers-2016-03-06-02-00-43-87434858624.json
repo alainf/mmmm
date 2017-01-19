@@ -1,0 +1,77 @@
+{
+  "_id": "pers-2016-03-06-02-00-43-87434858624",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463490,
+  "importance": 0,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-48-86966174886",
+    "lieu-2015-12-06-16-12-44-86966181868",
+    "lieu-2015-12-06-16-13-21-86966184112",
+    "lieu-2015-12-06-16-13-24-86966184298",
+    "lieu-2015-12-06-16-22-44-86966217877"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-06-02-00-43",
+  "moment-de-modification": "2016-03-06-02-02-16",
+  "nom": "Edward Palmer \"E. P.\" Thompson",
+  "nom-machine": [
+    "pers-2016-03-06-02-00-43-87434858624"
+  ],
+  "personne-concernee": [
+    "pers-2016-03-02-16-18-06-87417209195",
+    "pers-2016-03-02-17-01-42-87417366156",
+    "pers-2016-03-06-01-09-56-87434675809",
+    "pers-2016-03-06-01-37-01-87434773317",
+    "pers-2016-03-06-01-40-48-87434786887",
+    "pers-2016-03-06-01-53-36-87434832972",
+    "pers-2016-03-06-01-58-32-87434850745",
+    "pers-2016-03-10-02-14-59-87455645997",
+    "pers-2016-03-25-07-00-27-87534217667",
+    "pers-2016-03-25-07-02-34-87534225287",
+    "pers-2016-03-25-07-02-47-87534226033",
+    "pers-2016-03-25-07-02-54-87534226457",
+    "pers-2016-03-25-07-02-56-87534226599"
+  ],
+  "personne-date-deces": "1993-08-28",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227854",
+  "personne-nom-famille": "Thompson ",
+  "personne-nom-prenom": "E. P.",
+  "personne-wikipedia": "https://en.wikipedia.org/wiki/E._P._Thompson",
+  "robots-txt": "https://en.wikipedia.org/robots.txt",
+  "sigle": "E. P.",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-langue-anglais": [
+    "https://en.wikipedia.org/wiki/E._P._Thompson"
+  ],
+  "source-langue-francais": [
+    "http://fr.wikipedia.org/wiki/E._P._Thompson"
+  ],
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-06-02-00-43-87434858624",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-36-86966224613",
+    "terme-2015-12-06-16-25-04-86966226266",
+    "terme-2015-12-06-16-25-35-86966228117",
+    "terme-2015-12-06-16-26-26-86966231160",
+    "terme-2015-12-06-16-27-05-86966233545"
+  ],
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "en": [
+      "E. P. Thompson"
+    ],
+    "fr": [
+      "Edward Palmer \"E. P.\" Thompson"
+    ]
+  }
+}

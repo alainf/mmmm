@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-02-20-87534224449",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-20",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 462598,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-08",
+  "moment-de-creation": "2016-03-25-07-02-20",
+  "moment-de-modification": "2016-03-25-07-02-20",
+  "nom": "Nathalie Almar",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-20-87534224449"
+  ],
+  "personne-nom-famille": "Almar",
+  "personne-nom-prenom": "Nathalie ",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-20-87534224449",
+  "sous-type": "pers",
+  "tip": "SCS-459496",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Nathalie Almar"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "pers-2016-03-25-07-02-59-87534226797",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-59",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 46437,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-16",
+  "moment-de-creation": "2016-03-25-07-02-59",
+  "moment-de-modification": "2016-03-25-07-02-59",
+  "nom": "Pierre Bouchard INDICO",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-59-87534226797"
+  ],
+  "personne-nom-famille": "INDICO",
+  "personne-nom-prenom": "Pierre Bouchard",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-59-87534226797",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234380"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Pierre Bouchard INDICO"
+    ]
+  }
+}

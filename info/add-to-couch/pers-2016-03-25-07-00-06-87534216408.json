@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216408",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Zeami (世阿弥, 1363 - 1443), de son nom d'origine Kanze Motokiyo(観世 元清), acteur et dramaturge japonais, fut le théoricien du Nō.<br>Fils de Kan'ami Kiyotsugu, acteur et directeur d'une troupe près de Nara, Zeami est remarqué à l'âge de 13 ans lors d'une représentation, par un Shogun Ashikaga qui en fait son protégé. Pendant toute sa vie d'artiste, il s'efforça de clarifier et codifier le Sarugaku no nō, alors emprunt de danses populaires, en un art d'esthétisme et de raffinement.<br>Il a énoncé tous les grands principes du Nō tel qu'on le joue encore aujourd'hui, il en a défini les secrets par des conseils savants et délicats. Sous sa direction, apparaissent l'ensemble des composantes de cet art : costumes, masques, musique, gestuelle codifiée. Il composa près de 90 pièces de théâtre, parmi les plus célèbres : Hagoromo, Shunkan, Takasago. Ses traités demeurent une référence. Après avoir été transmis de pères en fils par les dynasties d'acteurs traditionnels, ils ne furent découverts par le public qu'en 1909. Fūshi kaden (La transmission de la fleur artistique) également appelé kaden sho est sans doute son ouvrage le plus respecté. Il y expose la manière de faire fleurir l'interprétation d'un personnage. Dans ce livre, écrit en exil, il fait ainsi référence au concept de Yūgen (le charme subtil) comme base de son enseignement théâtral.<br>En 1422, à 59 ans, Zeami se détache du monde flottant pour entrer en religion. Sa succession est transmise à ses fils qui disparaissent prématurément, puis à son gendre, Komparu Zenchiku (金春 禅竹), qui reprend ses enseignements et les fait perdurer. Aujourd'hui encore, les pièces de Zeami sont les plus jouées dans le répertoire du théâtre Nō.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455570,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Zeami",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216408"
+  ],
+  "personne-date-deces": "1443",
+  "personne-date-naissance": "page-2016-03-25-06-58-35-87534210916",
+  "personne-nom-famille": "Zeami",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216408",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Zeami"
+    ]
+  }
+}

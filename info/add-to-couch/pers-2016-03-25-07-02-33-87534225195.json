@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-02-33-87534225195",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-33",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 462936,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-10",
+  "moment-de-creation": "2016-03-25-07-02-33",
+  "moment-de-modification": "2016-03-25-07-02-33",
+  "nom": "Max Gluckman",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-33-87534225195"
+  ],
+  "personne-date-deces": "1975",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227817",
+  "personne-nom-famille": "Gluckman ",
+  "personne-nom-prenom": "Max",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-33-87534225195",
+  "sous-type": "pers",
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Max Gluckman"
+    ]
+  }
+}

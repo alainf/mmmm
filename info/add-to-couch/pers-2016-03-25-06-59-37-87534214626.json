@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-06-59-37-87534214626",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-37",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4302,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-02",
+  "moment-de-creation": "2016-03-25-06-59-37",
+  "moment-de-modification": "2016-03-25-06-59-37",
+  "nom": "Francois Eymard-Duvernay",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-37-87534214626"
+  ],
+  "personne-nom-famille": "Eymard-Duvernay",
+  "personne-nom-prenom": "Francois",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-37-87534214626",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234380",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Francois Eymard-Duvernay"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216398",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "William Wycherley (né en 1640 à Clive près de Shrewsbury - mort en 1716) est un dramaturge et un poète anglais dont les œuvres sont typiques de la littérature de la Restauration anglaise.<br>Le jeune homme fit des études en France et à Oxford, mais passa ensuite le reste de sa vie à Londres, où sa prédilection pour les tavernes et les endroits peu fréquentables est longtemps restée dans les mémoires.<br>Ses pièces, pour la plupart des comédies satiriques assez féroces, incluent L'Amour dans un bois (1672), La Provinciale (1675) et L'Homme franc (1676). Après la publication de ses Miscellany Poems en 1704, Wycherley conquit l'amitié d'Alexander Pope, qui le fit connaître du grand public en amendant et en atténuant certains de ses écrits.<br>Wycherley fut contraint en 1689 de retourner se réfugier dans la maison paternelle, dans le Shropshire, en raison des troubles politiques : le nouveau roi Guillaume III d'Angleterre appréciait en effet assez peu les écrivains, en particulier lorsqu'ils étaient aussi ouvertement libertins que Wycherley.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455565,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "William Wycherley",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216398"
+  ],
+  "personne-date-deces": "1716",
+  "personne-date-naissance": "1640",
+  "personne-nom-famille": "Wycherley",
+  "personne-nom-prenom": "William",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216398",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "William Wycherley"
+    ]
+  }
+}

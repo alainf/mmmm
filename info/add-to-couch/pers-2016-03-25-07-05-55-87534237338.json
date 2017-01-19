@@ -1,0 +1,46 @@
+{
+  "_id": "pers-2016-03-25-07-05-55-87534237338",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-05-55",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471851,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-05-55",
+  "moment-de-modification": "2016-03-25-07-05-55",
+  "nom": "Friedrich Ebert",
+  "nom-machine": [
+    "pers-2016-03-25-07-05-55-87534237338"
+  ],
+  "personne-nom-famille": "Ebert",
+  "personne-nom-prenom": "Friedrich",
+  "section": [
+    "terme-2015-12-06-16-23-34-86966220846",
+    "terme-2015-12-06-16-23-37-86966221060",
+    "terme-2015-12-06-16-23-41-86966221311"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-05-55-87534237338",
+  "sous-type": "pers",
+  "tip": "président de la république sociale-démocrate allemande de Weimar entre les deux Guerres",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-11-86966233904",
+    "terme-2015-12-06-16-27-11-86966233910"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485",
+    "terme-2015-12-06-16-27-21-86966234497"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Friedrich Ebert"
+    ]
+  }
+}

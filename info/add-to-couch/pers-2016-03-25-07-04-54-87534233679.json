@@ -1,0 +1,51 @@
+{
+  "_id": "pers-2016-03-25-07-04-54-87534233679",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-04-54",
+  "description": "Dounia Bouzar est anthropologue du fait religieux, expert au sein du Cabinet Cultes et Cultures Consulting et auprès du Conseil de l'Europe.<br>Elle intervient régulièrement sur l'application de la laïcité in concreto et la gestion de la diversité des convictions auprès des collectivités territoriales ou des entreprises. Elle a été nommée \"héroïne européenne\" par le Time Magazine pour son travail novateur sur l'islam en Europe et plusieurs de ses ouvrages ont été primées par l'Académie de Sciences Morales et Politiques de Paris.<br>Dernier livre : Laïcité mode d’emploi, 42 situations (Eyrolles) ou La République ou la burqa (Albin Michel)",
+  "editeur": [
+    "req-2016-03-25-07-03-18-87534227916"
+  ],
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469547,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-04-54",
+  "moment-de-modification": "2016-03-25-07-04-54",
+  "nom": "Dounia Bouzar",
+  "nom-machine": [
+    "pers-2016-03-25-07-04-54-87534233679"
+  ],
+  "personne-nom-famille": "Bouzar",
+  "personne-nom-prenom": "Dounia",
+  "section": [
+    "terme-2015-12-06-16-23-38-86966221133"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-04-54-87534233679",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-26-41-86966232098",
+    "terme-2015-12-06-16-27-05-86966233513"
+  ],
+  "tip": "auteur et chroniqueuse",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-13-86966234009"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Dounia Bouzar"
+    ]
+  }
+}

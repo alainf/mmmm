@@ -1,0 +1,50 @@
+{
+  "_id": "pers-2016-03-25-06-59-38-87534214712",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-38",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4333,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-02",
+  "moment-de-creation": "2016-03-25-06-59-38",
+  "moment-de-modification": "2016-03-25-06-59-38",
+  "nom": "Antonio Gramsci",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-38-87534214712"
+  ],
+  "personne-date-deces": "1937",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227791",
+  "personne-nom-famille": "Gramsci",
+  "personne-nom-prenom": "Antonio",
+  "section": [
+    "terme-2015-12-06-16-23-35-86966220955",
+    "terme-2015-12-06-16-23-36-86966220987",
+    "terme-2015-12-06-16-23-44-86966221458"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-38-87534214712",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-25-57-86966229444",
+    "terme-2015-12-06-16-26-57-86966233050",
+    "terme-2015-12-06-16-27-02-86966233369",
+    "terme-2015-12-06-16-27-03-86966233431"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Antonio Gramsci"
+    ]
+  }
+}

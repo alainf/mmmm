@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216297",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Juan Ruiz de Alarcón y Mendoza ou, plus couramment, Juan Ruiz de Alarcón (né le 2 octobre 1581 à Real de Taxco dans l'actuel État de Guerrero, Mexique, et mort le 4 août 1639 à Madrid, Espagne) était un dramaturge espagnol du début du xviie siècle.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455520,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Juan Ruiz de Alarcón y Mendoza",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216297"
+  ],
+  "personne-date-deces": "1639",
+  "personne-date-naissance": "1581",
+  "personne-nom-famille": "de Alarcón y Mendoza",
+  "personne-nom-prenom": "Juan Ruiz",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216297",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Juan Ruiz de Alarcón y Mendoza"
+    ]
+  }
+}

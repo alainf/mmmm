@@ -1,0 +1,55 @@
+{
+  "_id": "pers-2016-03-25-07-02-58-87534226710",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-58",
+  "description": "Critique des médias sur le web",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463705,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-45-86966174748"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-22-32-86966217173"
+  ],
+  "lieu-edition": [
+    "lieu-2015-12-06-16-22-32-86966217173"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-16",
+  "moment-de-creation": "2016-03-25-07-02-58",
+  "moment-de-modification": "2016-03-25-07-02-58",
+  "nom": "Sociologias - site",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-58-87534226710"
+  ],
+  "personne-nom-famille": "dos Santos",
+  "personne-nom-prenom": "José Marques",
+  "section": [
+    "terme-2015-12-06-16-23-43-86966221427"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-58-87534226710",
+  "sous-type": "pers",
+  "suggestion-relation": "4256,4271,4358",
+  "sujet": [
+    "terme-2015-12-06-16-26-59-86966233192"
+  ],
+  "tip": "blogue",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-11-86966233885"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Sociologias - site"
+    ]
+  }
+}

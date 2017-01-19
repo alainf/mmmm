@@ -1,0 +1,38 @@
+{
+  "_id": "pers-2016-03-25-07-02-46-87534226005",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-46",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463294,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-14",
+  "moment-de-creation": "2016-03-25-07-02-46",
+  "moment-de-modification": "2016-03-25-07-02-46",
+  "nom": "Karl Popper",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-46-87534226005"
+  ],
+  "personne-nom-famille": "Popper ",
+  "personne-nom-prenom": "Karl",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-46-87534226005",
+  "sous-type": "pers",
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Karl Popper"
+    ]
+  }
+}

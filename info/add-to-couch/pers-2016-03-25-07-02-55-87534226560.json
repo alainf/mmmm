@@ -1,0 +1,35 @@
+{
+  "_id": "pers-2016-03-25-07-02-55-87534226560",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-55",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463536,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-16",
+  "moment-de-creation": "2016-03-25-07-02-55",
+  "moment-de-modification": "2016-03-25-07-02-55",
+  "nom": "Duncan Watts",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-55-87534226560"
+  ],
+  "personne-nom-famille": "Watts ",
+  "personne-nom-prenom": "Duncan",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-55-87534226560",
+  "sous-type": "pers",
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Duncan Watts"
+    ]
+  }
+}

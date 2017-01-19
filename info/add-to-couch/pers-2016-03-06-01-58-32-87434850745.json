@@ -1,0 +1,48 @@
+{
+  "_id": "pers-2016-03-06-01-58-32-87434850745",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-11-01-86966175681",
+    "lieu-2015-12-06-16-14-01-86966186496"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-06-01-58-32",
+  "moment-de-modification": "2016-03-06-02-00-00",
+  "nom": "Dorothy Katharine Gane Thompson (née Towers)",
+  "nom-machine": "pers-2016-03-06-01-58-32-87434850745",
+  "personne-concernee": [
+    "pers-2016-03-06-01-58-32-87434850745",
+    "pers-2016-03-10-02-14-59-87455645997",
+    "pers-2016-03-25-07-02-45-87534225920"
+  ],
+  "personne-date-deces": "2011-01-29",
+  "personne-date-naissance": "1923-10-30",
+  "personne-nom-famille": "Thompson",
+  "personne-nom-prenom": "Dorothy ",
+  "personne-wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Thompson_%28historian%29",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-06-01-58-32-87434850745",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-36-86966224613",
+    "terme-2015-12-06-16-24-47-86966225278",
+    "terme-2015-12-06-16-25-11-86966226696",
+    "terme-2015-12-06-16-25-35-86966228117",
+    "terme-2015-12-06-16-26-26-86966231160"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Dorothy Katharine Gane Thompson (née Towers)"
+    ]
+  }
+}

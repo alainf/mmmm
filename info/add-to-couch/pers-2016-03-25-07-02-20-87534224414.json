@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-02-20-87534224414",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-20",
+  "description": "Norbert Wiley is professor emeritus of Sociology at University of Illinois Urbana-Champaign, Illinois, and was Visiting Scholar at the University of California, Berkley. He is a prize-winning sociologist who has published on both the history and systematics of theory. In his book The Semiotic Self (University of Chicago, 1994) Wiley offered a new interpretation of the nature of the self. Wiley believes that the self can be seen as a \"trialogue\" in which the present self (\"I\") talks to the future self (\"you\") about the past self (\"me\"). A distinctive feature of Wiley's view is that there is a mutually supportive relation between the self and democracy,l and he traces this view through American history. In finding a way to decenter the self without eliminating it, Wiley supplies closure to classical pragmatism and gives new direction to neo-pragmatism.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461580,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-20",
+  "moment-de-modification": "2016-03-25-07-02-20",
+  "nom": "Norbert Wiley",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-20-87534224414"
+  ],
+  "personne-nom-famille": "Wiley",
+  "personne-nom-prenom": "Norbert",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-20-87534224414",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Norbert Wiley"
+    ]
+  }
+}

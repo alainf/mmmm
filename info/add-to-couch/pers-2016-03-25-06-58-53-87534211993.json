@@ -1,0 +1,68 @@
+{
+  "_id": "pers-2016-03-25-06-58-53-87534211993",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-58-53",
+  "description": "All Things Digital is the online extension of the prestigious D: All Things Digital conference, where annually since 2003 we've invited the leaders of the digital revolution, the top technology and media figures, to discuss where things are heading.<br>The conference has been a big hit, but it has only been open to about 500 people a year. With this free Web site, we hope to open the conversation to everyone.<br>AllThingsD.com is a Web site devoted to news, analysis and opinion on technology, the Internet and media. But it is different from other sites in this space. It is a fusion of different media styles, different topics, different formats and different sources.<br>Because the site is wholly owned by Dow Jones, publisher of The Wall Street Journal, we aim to adhere to the journalistic standards of the best of the mainstream media. But, because it is run autonomously as a small online start-up, we aim to exhibit the fresh thinking and nimbleness of the best of the new media. We want to be first, and sassy, but also well sourced and accurate. We will offer lots of opinion and analysis, but plenty of fact as well.<br>There are other ways in which this site is an unusual fusion. It is a combination of blogs and newspaper columns, featuring both the BoomTown blog by Kara Swisher, which is a new take on her old print column, and the new free online home--and free archive--of Walt Mossberg's technology product review columns from The Wall Street Journal. Walt will also have his own blog here, called Mossblog, in which he will occasionally post text and video entries on topics not covered in his columns.<br>This site also aspires to be a mix of sobriety and humor, best exemplified by Digital Daily, our daily tech news summary with attitude, penned by John Paczkowski, who for years wrote the highly informative and entertaining Good Morning Silicon Valley news Web site.<br>We will also have a fusion of authors. Walt, Kara and John are veteran journalists, and so is Katie Boehret, who works for Walt as a product reviewer, and our associate editor, Barry Owen. But the site will also be infused with reader comments. And, in our Voices section, we'll feature guest bloggers, ranging from industry titans with household names to smart, but more obscure, writers.<br>Finally, our All Things Digital site is a fusion of forms--both text and video. Some blog posts, in fact, will be simply videos, recorded in front of a Web cam. Our Digital Daily news summary will be delivered in both formats.<br>So, welcome to AllThingsD.com. We hope you read, and return, and contribute.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 220457,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-58-53",
+  "moment-de-modification": "2016-03-25-06-58-53",
+  "mots-clefs": [
+    "All Things Digital",
+    "AllThingsD",
+    "BoomTown",
+    "D Conference",
+    "Digital Daily",
+    "Head-to-Head",
+    "Kara Swisher",
+    "MediaMemo",
+    "Mossbergs Mailbox",
+    "Mossblog",
+    "nouvelles technologies",
+    "NTIC",
+    "numérique",
+    "Personal Technology",
+    "Peter Kafka",
+    "The Mossberg Report",
+    "The Mossberg Solution",
+    "video",
+    "Walt Mossberg"
+  ],
+  "nom": "Walter Mossberg",
+  "nom-machine": [
+    "pers-2016-03-25-06-58-53-87534211993"
+  ],
+  "personne-nom-famille": "Mossberg",
+  "personne-nom-prenom": "Walter",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-58-53-87534211993",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-26-03-86966229816"
+  ],
+  "tip": "News, analysis and opinion about the digital revolution. Chroniqueur du Wall Street Journal. ",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-15-86966234147"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Walter Mossberg"
+    ]
+  }
+}

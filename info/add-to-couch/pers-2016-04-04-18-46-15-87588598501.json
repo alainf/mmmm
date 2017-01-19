@@ -1,0 +1,29 @@
+{
+  "_id": "pers-2016-04-04-18-46-15-87588598501",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-30",
+  "moment-de-creation": "2016-04-04-18-46-15",
+  "moment-de-modification": "2016-04-04-18-46-15",
+  "nom": "Kristiane Leme-hebuterne",
+  "nom-machine": "pers-2016-04-04-18-46-15-87588598501",
+  "personne-nom-famille": "Leme-hebuterne",
+  "personne-nom-prenom": "Kristiane",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-04-04-18-46-15-87588598501,",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Kristiane Leme-hebuterne"
+    ]
+  }
+}

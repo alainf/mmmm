@@ -1,0 +1,41 @@
+{
+  "_id": "pers-2016-03-25-06-59-05-87534212716",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-05",
+  "description": "Le socioBlog d'Emmanuel Ethis",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 26684,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-05",
+  "moment-de-modification": "2016-03-25-06-59-05",
+  "nom": "Emmanuel Ethis",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-05-87534212716"
+  ],
+  "personne-nom-famille": "Ethis",
+  "personne-nom-prenom": "Emmanuel",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-05-87534212716",
+  "sous-type": "pers",
+  "tip": "un making-of du spectateur",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234380",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Emmanuel Ethis"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216171",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Étienne Jodelle, né en 1532 à Paris où il est mort en juillet 1573, est un poète et dramaturge français.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455468,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Étienne Jodelle",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216171"
+  ],
+  "personne-date-deces": "1573",
+  "personne-date-naissance": "1532",
+  "personne-nom-famille": "Jodelle",
+  "personne-nom-prenom": "Étienne",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216171",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Étienne Jodelle"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216213",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Gil Vicente, (né vers 1465, mort vers 1537), est un homme de théâtre portugais ; il est généralement considéré comme le premier dramaturge \"littéraire\" portugais. On l'identifie aussi souvent comme l'orfèvre de la Custódia de Belém (Reliquaire de Belém), et comme le maître de rhétorique du roi Dom Manuel. En tant qu'homme de théâtre, il semble avoir aussi été musicien, acteur et metteur en scène.<br>Il est fréquemment tenu pour le père du théâtre portugais moderne, ou même du théâtre ibérique, puisqu'il écrivait aussi en espagnol - partageant la paternité du drame espagnol avec Juan del Encina.<br>L'œuvre Vicentine est tenue comme le reflet de la mutation des temps, et du passage du Moyen Âge à la Renaissance, époque balançant entre un temps ou les hiérarchies et l'ordre social étaient régis par des règles inflexibles, et une nouvelle société où l'ordre institué commence à être subverti, à être questionné. C'est le principal représentant de la littérature Renaissante portugaise, antérieure à Camões (Camoens), qui, incorporant de nombreux éléments populaires dans ses écrits, a influencé à son tour la culture populaire portugaise.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455486,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Gil Vicente",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216213"
+  ],
+  "personne-date-deces": "1537",
+  "personne-date-naissance": "1465",
+  "personne-nom-famille": "Vicente",
+  "personne-nom-prenom": "Gil",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216213",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Gil Vicente"
+    ]
+  }
+}

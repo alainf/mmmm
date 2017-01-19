@@ -1,0 +1,41 @@
+{
+  "_id": "pers-2016-03-25-06-59-22-87534213733",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-22",
+  "description": "Magaly Sala-Skup ...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 3132,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-22",
+  "moment-de-modification": "2016-03-25-06-59-22",
+  "mots-clefs": [
+    "interprétation simultanée",
+    "rédaction",
+    "traduction"
+  ],
+  "nom": "Magaly Sala-Skup",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-22-87534213733"
+  ],
+  "personne-nom-famille": "Sala-Skup",
+  "personne-nom-prenom": "Magaly",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-22-87534213733",
+  "sous-type": "pers",
+  "tip": "Magaly Sala-Skup: rédaction, interprétation simultanée, traduction",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Magaly Sala-Skup"
+    ]
+  }
+}

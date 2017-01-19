@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216161",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Christopher Marlowe (baptisé le 26 février 1564 – mort le 30 mai 1593) était un dramaturge, poète et traducteur anglais de l'ère élisabéthaine. Tragédien élisabéthain le plus connu après Shakespeare, il est connu pour sa maîtrise du pentamètre iambique, pour ses protagonistes emblématiques, ainsi que pour sa mort prématurée et entourée de mystère. Il passe pour l'un des précurseurs de la tragédie moderne, et pour père fondateur du drame élisabéthain.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455463,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Christopher Marlowe",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216161"
+  ],
+  "personne-date-deces": "1593",
+  "personne-date-naissance": "terme-2015-12-06-16-25-16-86966227008",
+  "personne-nom-famille": "Marlowe",
+  "personne-nom-prenom": "Christopher",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216161",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Christopher Marlowe"
+    ]
+  }
+}

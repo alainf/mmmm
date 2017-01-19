@@ -1,0 +1,41 @@
+{
+  "_id": "pers-2016-03-25-07-00-21-87534217300",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-21",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 456095,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-21",
+  "moment-de-modification": "2016-03-25-07-00-21",
+  "nom": "T. D. Wilson",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-21-87534217300"
+  ],
+  "personne-nom-famille": "Wilson",
+  "personne-nom-prenom": "T. D.",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-21-87534217300",
+  "sous-type": "pers",
+  "tip": "Professor at University of Sheffield, UK",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234355",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "T. D. Wilson"
+    ]
+  }
+}

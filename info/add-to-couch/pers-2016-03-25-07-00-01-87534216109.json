@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-01-87534216109",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-01",
+  "description": "François-Joseph Talma (Paris, 15 janvier 1763 - † 19 octobre 1826) fut l'acteur français le plus prestigieux de son époque, suivant en cela Lekain.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455439,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-07-00-01",
+  "moment-de-modification": "2016-03-25-07-00-01",
+  "nom": "François-Joseph Talma",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-01-87534216109"
+  ],
+  "personne-date-deces": "1826",
+  "personne-date-naissance": "terme-2015-12-06-16-23-44-86966221446",
+  "personne-nom-famille": "Talma",
+  "personne-nom-prenom": "François-Joseph",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-01-87534216109",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "François-Joseph Talma"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_id": "pers-2016-03-10-02-14-59-87455645997",
+  "ajouter-aux-favoris": false,
+  "cogitae": [
+    "terme-2016-02-29-04-17-10-87404245846",
+    "terme-2016-02-29-04-17-49-87404248161",
+    "terme-2016-02-29-04-52-23-87404372613",
+    "terme-2016-03-02-00-32-46-87413805998",
+    "terme-2016-03-02-00-46-20-87413854846"
+  ],
+  "description": "Militaire tué lorws de la IIe Guerre Mondiale, frère de l'historien et fondateur de l'école de marxisme analytique E.P. Thompson qui a écrit deux livres à son sujet, et dont le chef-lieu de son eécution en Bulgarie porte son nom.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-48-86966174886",
+    "lieu-2015-12-06-16-12-44-86966181868",
+    "lieu-2015-12-06-16-14-01-86966186496",
+    "lieu-2015-12-06-16-21-12-86966212338"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-10-02-14-59",
+  "moment-de-modification": "2016-03-10-02-42-38",
+  "mots-clefs": [
+    "antifasciste",
+    "bulgare",
+    "communiste",
+    "E. P. Thompson",
+    "liaison",
+    "resistance"
+  ],
+  "nom": "Frank Thompson (SOE officer)",
+  "nom-machine": "pers-2016-03-10-02-14-59-87455645997",
+  "personne-concernee": [
+    "pers-2016-03-10-02-14-59-87455645997"
+  ],
+  "personne-date-deces": "1944-06-10",
+  "personne-date-naissance": "1920-08-17",
+  "personne-nom-famille": "Thompson",
+  "personne-nom-prenom": "Frank",
+  "personne-wikipedia": "https://en.wikipedia.org/wiki/Frank_Thompson_%28SOE_officer%29",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-langue-russe": [
+    "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%BF%D1%81%D0%BE%D0%BD,_%D0%A4%D1%80%D1%8D%D0%BD%D0%BA"
+  ],
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-10-02-14-59-87455645997",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-36-86966224613",
+    "terme-2015-12-06-16-24-43-86966225029",
+    "terme-2015-12-06-16-25-04-86966226256",
+    "terme-2015-12-06-16-25-11-86966226696",
+    "terme-2015-12-06-16-26-50-86966232647",
+    "terme-2015-12-06-16-27-04-86966233458"
+  ],
+  "tip": "Militaire communiste frère d'un auteur",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Frank Thompson (SOE officer)"
+    ]
+  }
+}

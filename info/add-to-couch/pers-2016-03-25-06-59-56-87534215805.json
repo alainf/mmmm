@@ -1,0 +1,55 @@
+{
+  "_id": "pers-2016-03-25-06-59-56-87534215805",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-56",
+  "description": "Blogue d'Alain Gavand",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 452411,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-06-59-56",
+  "moment-de-modification": "2016-03-25-06-59-56",
+  "mots-clefs": [
+    "égalité",
+    "éthique",
+    "Alain Gavand",
+    "cabinet RH",
+    "cabinets RH",
+    "compétence égale",
+    "compétences",
+    "CV anonyme",
+    "discriminations",
+    "diversité",
+    "emploi",
+    "handicapés",
+    "lutte contre les discriminations",
+    "minorités",
+    "minorités ethniques",
+    "minorités visibles",
+    "ressources humaines"
+  ],
+  "nom": "Alain Gavand",
+  "nom-machine": "pers-2016-03-25-06-59-56-87534215805",
+  "personne-nom-famille": "Gavand",
+  "personne-nom-prenom": "Alain",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-56-87534215805",
+  "sous-type": "pers",
+  "suggestion-varia": [
+    "272419|Discrimination raciale"
+  ],
+  "sujet": [
+    "terme-2015-12-06-16-25-35-86966228148",
+    "terme-2015-12-06-16-25-48-86966228882"
+  ],
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Alain Gavand"
+    ]
+  }
+}

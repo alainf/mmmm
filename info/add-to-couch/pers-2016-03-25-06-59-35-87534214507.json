@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-06-59-35-87534214507",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-35",
+  "description": "Michel CALLON - Ingénieur, Sociologue, Professeur - Professeur de sociologie à l'Ecole des Mines de Paris, directeur du Centre de Sociologie de l'Innovation de 1982 à 1994, président de la 4S (Society for Social Studies of Science) en 1998-1999, Michel Callon est, aux côtés de Bruno Latour et John Law, l'un des «fondateurs» de ce qui est appelé l'Actor-Network Theory (théorie de l'acteur-réseau), ou encore sociologie de la traduction...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4260,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-02",
+  "moment-de-creation": "2016-03-25-06-59-35",
+  "moment-de-modification": "2016-03-25-06-59-35",
+  "nom": "Michel Callon",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-35-87534214507"
+  ],
+  "personne-nom-famille": "Callon",
+  "personne-nom-prenom": "Michel",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-35-87534214507",
+  "sous-type": "pers",
+  "tip": "Ingénieur, Sociologue, Professeur",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Michel Callon"
+    ]
+  }
+}

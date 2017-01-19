@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-00-32-87534217948",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-32",
+  "description": "his page is dedicated to the work of Dr.  J. W. Roberts. Dr. Roberts taught Greek at Abilene Christian College from 1946 to 1973. Here is a short biography and complete bibliography: Restoration Quarterly 1974. I invite his former students, friends, and anyone interested in New Testament Greek to assist me in this project. At present I am working on editing and republishing his incomparable:  A Grammar of the Greek New Testament for Beginners. The Roberts' Grammar hyperlink at the top of the page will take you to the Table of Contents where you will be able to download the Adobe pdf file for each chapter. This is a work in progress. Please e-mail me any errors you note. I should like to publish a carefully edited work worthy of the distinguished author.  I plan to publish the Grammar in both e-book format and as a loose leaf notebook. Audio CDs will be availabe to help students develop oral fluency and comprehension. Dr. Ian Fair, who studied under Dr. Roberts and taught Roberts' Grammar while teaching at the Natal Bible School in South Africa, encouraged me to republish Roberts' great work, mentioning that he considered it better than W. H. Davis. Here are some articles by Dr. Roberts from the Restoration Quarterly: Every Scripture Inspired of God, and The Preposition eis in Mat. 12: 41.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 456396,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-32",
+  "moment-de-modification": "2016-03-25-07-00-32",
+  "nom": "J.W. Roberts",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-32-87534217948"
+  ],
+  "personne-nom-famille": "Roberts",
+  "personne-nom-prenom": "J.W.",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-32-87534217948",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "J.W. Roberts"
+    ]
+  }
+}

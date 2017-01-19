@@ -1,0 +1,42 @@
+{
+  "_id": "pers-2016-03-25-06-59-06-87534212807",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-06",
+  "description": "Jean-Paul Fitoussi est un économiste français d'origine tunisienne. Il est professeur des Universités à l'Institut d'études politiques de Paris depuis 1982 et président de l'Observatoire français des conjonctures économiques (OFCE) depuis 1989. Il est membre du conseil scientifique de l'Institut François-Mitterrand.<br>Il travaille sur les théories de l'inflation, du chômage, des économies ouvertes, et sur le rôle des politiques macroéconomiques. Il est critique au sujet de la rigidité budgétaire et monétaire, au motif qu'elle aurait un effet négatif sur la croissance et l'emploi. Ses travaux récents portent sur les rapports entre la démocratie et le développement économique.<br>Il est également président du conseil scientifique de l'IEP de Paris depuis 1997 et membre du Conseil d'analyse économique auprès du Premier ministre.<br>Il est aussi membre du conseil d'administration de Telecom Italia (opérateur historique en Italie) depuis l'Assemblée Générale du 14 avril 2008.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269845,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-06",
+  "moment-de-modification": "2016-03-25-06-59-06",
+  "mots-clefs": [
+    "économies ouvertes",
+    "chômage",
+    "Inflation",
+    "macroéconomie"
+  ],
+  "nom": "Jean-Paul Fitoussi",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-06-87534212807"
+  ],
+  "personne-nom-famille": "Fitoussi",
+  "personne-nom-prenom": "Jean-Paul",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-06-87534212807",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234380"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean-Paul Fitoussi"
+    ]
+  }
+}

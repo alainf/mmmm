@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216290",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "John Ford (nom de naissance John Martin Feeney) est un réalisateur américain, également producteur, né le 1er février 1894 à Cape Elizabeth (en) près de Portland (Maine), mort le 31 août 1973 à Palm Desert (Californie). Il a été quatre fois lauréat de l'Oscar du meilleur réalisateur (seul cinéaste à avoir réussi le quadruplé).<br>John Ford est considéré comme l'un des réalisateurs les plus importants de la période classique d'Hollywood (de la fin des années 1920 à la fin des années 1960). De tous les grands cinéastes américains il est celui dont l'influence est la plus considérable. Sa carrière embrasse celle des studios puisqu'il arrive à Hollywood au moment où les grandes majors se mettent en place et réalise son dernier film alors que ces majors commencent à être dirigées par des financiers. Ford fut admiré et respecté par les grands patrons d'Hollywood dont il fut souvent l'ami : il tournait vite et respectait les budgets. Malgré cela, il se considérait comme un salarié surpayé par ces studios pour faire des films dénués de son style afin de ne pas perturber les affaires de ses employeurs1.<br>Il fut l'un des réalisateurs effectuant le moins de prises par plan (ratio de 2,5), cela lui permettant de garder la mainmise sur le montage des films, les prises alternatives n'existant tout simplement pas. « Nous devons à John Ford le droit accordé au metteur en scène de superviser le montage », reconnaît Fred Zinnemann. Ford mit sa notoriété au service du syndicat des metteurs en scène américains dont il fut l'un des dirigeants les plus actifs. Sa fidélité tout au long de sa carrière, envers sa famille d'acteurs, de techniciens et de scénaristes, dont beaucoup étaient originaires, comme ses parents, d'Irlande, est remarquable.<br>Son œuvre est surtout reconnue pour ses westerns. La connaissance de cette filmographie souffre de la disparition de la quasi-totalité de ses premiers films, soit un tiers. Un d'entre eux, Upstream (1927), qu'on croyait disparu, a été retrouvé en Nouvelle-Zélande en juin 20102.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455517,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "John Ford",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216290"
+  ],
+  "personne-date-deces": "1973",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227800",
+  "personne-nom-famille": "Ford",
+  "personne-nom-prenom": "John",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216290",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "John Ford"
+    ]
+  }
+}

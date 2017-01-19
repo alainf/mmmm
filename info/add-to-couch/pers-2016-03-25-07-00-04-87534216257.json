@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216257",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jean-Paul Alègre est un auteur dramatique français né en 1951.<br>Il est depuis plusieurs saisons, et d'après les statistiques de la Fédération nationale des compagnies de théâtre et d’animation, un des auteurs vivants les plus joués en France.<br>Il est traduit dans une vingtaine de langues (anglais, japonais, russe, arabe moderne, grec, espagnol, etc.) et présent dans plus de trente pays. Il est également le Président du Centre des Bords de Marne au Perreux",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455504,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean-Paul Alègre",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216257"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227943",
+  "personne-nom-famille": "Alègre",
+  "personne-nom-prenom": "Jean-Paul",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216257",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean-Paul Alègre"
+    ]
+  }
+}

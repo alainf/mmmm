@@ -1,0 +1,42 @@
+{
+  "_id": "pers-2016-03-25-06-59-21-87534213717",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-21",
+  "description": "Avocate de la compagnie<br>Possédant plus de 20 ans d'expérience en droit des affaires, Marie Laure Leclercq est spécialisée dans le domaine de la propriété intellectuelle et des technologies. Elle agit pour le compte d’une clientèle composée principalement d’entreprises et d’organismes en ce qui a trait à tous enjeux juridiques liés à la propriété intellectuelle, qu'il s'agisse de brevets, de marques de commerce, de droits d'auteur (logiciels, droit de l'Internet et droit du divertissement) ou de dessins industriels.<br>Au fil de sa carrière, Me Leclercq a œuvré pendant plusieurs années à titre de vice-présidente, Finances et vice-présidente exécutive d'une entreprise de développement et de commercialisation de logiciels ainsi que de conception de matériel pédagogique. Dans le cadre des ses fonctions, elle a contribué à tous les aspects de la gestion, notamment l’acquisition et la vente d'entreprises, le financement, la mise en marché et l’établissement de partenariat, lui conférant des aptitudes éprouvées pour conseiller judicieusement les entrepreneurs dans l’atteinte de leurs objectifs d’affaires.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 3120,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-21",
+  "moment-de-modification": "2016-03-25-06-59-21",
+  "mots-clefs": [
+    "avocat",
+    "propriété intellecteulle"
+  ],
+  "nom": "Marie-Laure Leclercq",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-21-87534213717"
+  ],
+  "personne-nom-famille": "Leclercq",
+  "personne-nom-prenom": "Marie-Laure",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-21-87534213717",
+  "sous-type": "pers",
+  "tip": "Avocate de la compagnie.",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Marie-Laure Leclercq"
+    ]
+  }
+}

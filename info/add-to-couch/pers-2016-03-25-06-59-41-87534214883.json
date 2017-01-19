@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-06-59-41-87534214883",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-41",
+  "description": "Achille Mbembe ...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4392,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-06-59-41",
+  "moment-de-modification": "2016-03-25-06-59-41",
+  "nom": "Achille Mbembe",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-41-87534214883"
+  ],
+  "personne-nom-famille": "Mbembe",
+  "personne-nom-prenom": "Achille",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-41-87534214883",
+  "sous-type": "pers",
+  "tip": "Achille Mbembe",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234380"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Achille Mbembe"
+    ]
+  }
+}

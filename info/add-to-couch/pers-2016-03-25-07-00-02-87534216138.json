@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216138",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Benjamin (dit Ben) Jonson (11 juin 1572 – 6 août 1637) est un dramaturge anglais de la Renaissance. Inventeur de la « comédie des humeurs », il est notamment connu pour ses pièces Volpone et L'Alchimiste et son amitié et sa rivalité avec William Shakespeare.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455453,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Ben Jonson",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216138"
+  ],
+  "personne-date-deces": "1637",
+  "personne-date-naissance": "1572",
+  "personne-nom-famille": "Jonson",
+  "personne-nom-prenom": "Ben",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216138",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Ben Jonson"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_id": "pers-2016-03-25-06-59-22-87534213738",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-22",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 3135,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-15-34-86966192048"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-22",
+  "moment-de-modification": "2016-03-25-06-59-22",
+  "mots-clefs": [
+    "",
+    "Administration",
+    "Anglais",
+    "Business Administration and Business Economics",
+    "Commerce Equitable",
+    "Concepto de trabajo",
+    "développement durable",
+    "Desarraigo",
+    "Development Latin America",
+    "espagnol",
+    "Flexibilización",
+    "Français",
+    "HEC",
+    "ingénierie",
+    "Instituciones",
+    "Langues et traduction",
+    "Modelo de acumulación",
+    "Sentido del trabajo"
+  ],
+  "nom": "Luz Dinora Vera Acevedo",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-22-87534213738"
+  ],
+  "personne-nom-famille": "Vera Acevedo",
+  "personne-nom-prenom": "Luz Dinora",
+  "section": [
+    "terme-2015-12-06-16-23-32-86966220730",
+    "terme-2015-12-06-16-23-32-86966220736",
+    "terme-2015-12-06-16-23-43-86966221413",
+    "terme-2015-12-06-16-23-44-86966221472"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-22-87534213738",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-25-22-86966227358",
+    "terme-2015-12-06-16-25-22-86966227378",
+    "terme-2015-12-06-16-25-47-86966228868",
+    "terme-2015-12-06-16-25-57-86966229455",
+    "terme-2015-12-06-16-25-57-86966229467",
+    "terme-2015-12-06-16-26-45-86966232348",
+    "terme-2015-12-06-16-26-49-86966232574",
+    "terme-2015-12-06-16-26-50-86966232606",
+    "terme-2015-12-06-16-26-51-86966232680"
+  ],
+  "tip": "Docteure Vera Acevedo brillamment soutenu sa thèse le 15 décembre 2010.",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-11-86966233885",
+    "terme-2015-12-06-16-27-15-86966234127",
+    "terme-2015-12-06-16-27-16-86966234186"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Luz Dinora Vera Acevedo"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "pers-2016-03-25-06-59-22-87534213731",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-22",
+  "description": "Vice-Présidente administration et Ressources humaines de la compagnie",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 3131,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-22",
+  "moment-de-modification": "2016-03-25-06-59-22",
+  "mots-clefs": [
+    "Anglais",
+    "espagnol",
+    "Français",
+    "Italien",
+    "Langues et traduction",
+    "Russe"
+  ],
+  "nom": "Evelyne",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-22-87534213731"
+  ],
+  "personne-nom-famille": "Follain",
+  "personne-nom-prenom": "Evelyne",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-22-87534213731",
+  "sous-type": "pers",
+  "tip": "Vice-Présidente administration et Ressources humaines de la compagnie",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Evelyne"
+    ]
+  }
+}

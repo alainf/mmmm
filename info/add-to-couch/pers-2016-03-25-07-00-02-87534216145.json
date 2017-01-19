@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216145",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Carlo Goldoni, né le 25 février 1707 à Venise et mort le 6 février 1793 à Paris, est un auteur dramatique italien, de langues italienne, vénitienne et française. Créateur de la comédie italienne moderne, il s’était exilé en France en 1762 à la suite de différends esthétiques avec ses confrères.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455456,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Carlo Goldoni",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216145"
+  ],
+  "personne-date-deces": "1793",
+  "personne-date-naissance": "terme-2015-12-06-16-23-42-86966221352",
+  "personne-nom-famille": "Goldoni",
+  "personne-nom-prenom": "Carlo",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216145",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Carlo Goldoni"
+    ]
+  }
+}

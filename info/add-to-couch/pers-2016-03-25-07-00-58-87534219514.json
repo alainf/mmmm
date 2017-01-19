@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-00-58-87534219514",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-58",
+  "description": "Jérôme BOURDON - Chercheur associé - Jérôme Bourdon est directeur du département de communications de l'université de Tel Aviv qu'il a rejoint en 1997. Il était auparavant chercheur à l'Institut national de l'audiovisuel. Ses travaux portent sur l'histoire et la sociologie des médias...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 457152,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-00-58",
+  "moment-de-modification": "2016-03-25-07-00-58",
+  "nom": "Jérôme Bourdon",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-58-87534219514"
+  ],
+  "personne-nom-famille": "Bourdon",
+  "personne-nom-prenom": "Jérôme",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-58-87534219514",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jérôme Bourdon"
+    ]
+  }
+}

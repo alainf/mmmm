@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216304",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Marcel Aymé est un écrivain, dramaturge et nouvelliste français, né à Joigny le 29 mars 1902 et mort à Paris le 14 octobre 1967. Écrivain prolifique, il a laissé deux essais, dix-sept romans, plusieurs dizaines de nouvelles, une dizaine de pièces de théâtre, plus de cent soixante articles et des contes.<br>Il est resté très attaché à sa région d'origine, la Franche-Comté, à laquelle il a fait une place de choix dans ses romans : La Table aux crevés (1929) pour lequel il obtient le Prix Renaudot, La Vouivre (1941), Gustalin (1938). Mais il est néanmoins devenu un véritable « parigot » de Paris dont il a mis en scène les classes populaires : La Rue sans nom (1930) pour lequel il obtient le Prix du roman populiste, la petite bourgeoisie : Le Bœuf clandestin (1939), les intellectuels et les snobs : Travelingue (1941).<br>En cela il fournit une « étude sociale », avec un vocabulaire précis pour chaque type humain. Son langage est d'ailleurs un des plus riches de la littérature contemporaine, mêlant argot, français châtié, patois régional franc-comtois, et anglais phonétiquement francisé1,2<br>Très attaqué par la critique, y compris pour ses textes les plus inoffensifs comme Les Contes du chat perché3, son succès a été assuré surtout par le public. Au théâtre, son plaidoyer contre la peine de mort La Tête des autres, 1952 a soulevé de vives réactions, mais aussi de l'enthousiasme tout comme ses comédies grinçantes Clérambard, 1950, Lucienne et le boucher, 1948.<br>Il a également écrit de nombreux scénarios, traduit des auteurs américains importants : Arthur Miller (Les Sorcières de Salem), Tennessee Williams (La Nuit de l'iguane). De nombreux films, téléfilms et dessins animés ont été tirés de ses œuvres. Mais, cultivant son statut d'écrivain politiquement incorrect, il est resté très à l'écart des milieux intellectuels, ce qui l'a fait classer dans les écrivains d'abord de gauche, puis de droite, puis anarchiste de droite 4.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455523,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Marcel Aymé",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216304"
+  ],
+  "personne-date-deces": "1967",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227768",
+  "personne-nom-famille": "Aymé",
+  "personne-nom-prenom": "Marcel",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216304",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Marcel Aymé"
+    ]
+  }
+}

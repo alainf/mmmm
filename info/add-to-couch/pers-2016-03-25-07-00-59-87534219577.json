@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-00-59-87534219577",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-59",
+  "description": "Martin TIRONI - Doctorant - Usagers, technologie et la mobilité durable: le cas du vélo en libre-service à Paris<br>Cette thèse a pour objectif général de reconstruire la généalogie du processus de production d'une technologie de transport urbain publico-individuel : il s'agit du programme de vélos en libre-service connu sous le nom de Vélib', mis en place à Paris en juillet 2007...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 457179,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-00-59",
+  "moment-de-modification": "2016-03-25-07-00-59",
+  "nom": "Martin TIRONI",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-59-87534219577"
+  ],
+  "personne-nom-famille": "TIRONI",
+  "personne-nom-prenom": "Martin",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-59-87534219577",
+  "sous-type": "pers",
+  "tip": "Doctorant - Usagers, technologie et la mobilité durable: le cas du vélo ...",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Martin TIRONI"
+    ]
+  }
+}

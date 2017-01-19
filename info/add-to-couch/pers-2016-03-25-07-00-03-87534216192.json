@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216192",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Françoise Pascal, née à Lyon en 1632 et morte à Paris après 1698, est une poétesse, peintre, dramaturge et parolière française.<br>Fille d’un commis des douanes devenu garde du maréchal de Villeroy, le gouverneur de la ville, Françoise Pascal fut au service de la prestigieuse famille des Villeroy. Elle se fit connaître par ses poésies, ses peintures (aujourd’hui disparues) et surtout par ses pièces de théâtre.<br>Elle est la première femme, connue à ce jour, dont l’œuvre dramatique ait été jouée par des troupes professionnelles. Elle s’installa à Paris vers 1667, peut-être pour tenter une carrière théâtrale sur les scènes de la capitale, mais apparemment sans succès. Elle évolua alors dans certains salons de la capitale, composant les paroles d’œuvres musicales et religieuses.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455477,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Françoise Pascal",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216192"
+  ],
+  "personne-date-deces": "1698",
+  "personne-date-naissance": "1632",
+  "personne-nom-famille": "Pascal",
+  "personne-nom-prenom": "Françoise",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216192",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Françoise Pascal"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "pers-2016-03-07-05-18-22-87440754158",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463309,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-16-09-86966194142"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-07-05-18-22",
+  "moment-de-modification": "2016-03-07-05-21-21",
+  "nom": "Adam Przeworski",
+  "nom-machine": [
+    "pers-2016-03-07-05-18-22-87440754158"
+  ],
+  "personne-concernee": [
+    "pers-2016-03-07-05-18-22-87440754158"
+  ],
+  "personne-date-naissance": "1940-05-05",
+  "personne-nom-famille": "Przeworski ",
+  "personne-nom-prenom": "Adam",
+  "personne-role": [
+    "terme-2015-12-06-16-23-28-86966220508<br>terme-2015-12-06-16-23-29-86966220547"
+  ],
+  "personne-wikipedia": "http://fr.wikipedia.org/wiki/Adam_Przeworski",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-langue-anglais": [
+    "https://en.wikipedia.org/wiki/Adam_Przeworski"
+  ],
+  "source-langue-francais": [
+    "http://fr.wikipedia.org/wiki/Adam_Przeworski"
+  ],
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-07-05-18-22-87440754158",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-43-86966225029",
+    "terme-2015-12-06-16-25-02-86966226145",
+    "terme-2015-12-06-16-25-02-86966226157",
+    "terme-2015-12-06-16-25-04-86966226256",
+    "terme-2015-12-06-16-26-48-86966232494"
+  ],
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Adam Przeworski"
+    ]
+  }
+}

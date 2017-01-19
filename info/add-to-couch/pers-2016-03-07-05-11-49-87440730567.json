@@ -1,0 +1,64 @@
+{
+  "_id": "pers-2016-03-07-05-11-49-87440730567",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-12-57-86966182664",
+    "lieu-2015-12-06-16-13-11-86966183510",
+    "lieu-2015-12-06-16-16-19-86966194773",
+    "lieu-2015-12-06-16-22-25-86966216758",
+    "lieu-2015-12-06-16-22-43-86966217801"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-07-05-11-49",
+  "moment-de-modification": "2016-03-07-05-13-25",
+  "nom": "Samuel Stebbins Bowles",
+  "nom-machine": "pers-2016-03-07-05-11-49-87440730567",
+  "personne-concernee": [
+    "pers-2016-03-07-04-55-22-87440671356",
+    "pers-2016-03-07-04-57-53-87440680417",
+    "pers-2016-03-07-04-59-19-87440685596",
+    "pers-2016-03-07-05-11-49-87440730567",
+    "pers-2016-03-07-05-14-05-87440738741",
+    "pers-2016-03-07-05-15-56-87440745408",
+    "pers-2016-03-07-05-18-22-87440754158",
+    "pers-2016-03-07-05-22-23-87440768614",
+    "pers-2016-03-25-06-59-41-87534214874",
+    "pers-2016-03-25-07-01-50-87534222652",
+    "pers-2016-03-25-07-02-33-87534225181",
+    "pers-2016-03-25-07-02-46-87534225995",
+    "pers-2016-03-25-07-02-51-87534226311"
+  ],
+  "personne-date-naissance": "1939-01-06",
+  "personne-nom-famille": "Bowles",
+  "personne-nom-prenom": "Samuel",
+  "personne-role": [
+    "terme-2015-12-06-16-23-28-86966220508",
+    "terme-2015-12-06-16-23-29-86966220547"
+  ],
+  "personne-wikipedia": "https://en.wikipedia.org/wiki/Samuel_Bowles_%28economist%29",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-07-05-11-49-87440730567",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-25-14-86966226884",
+    "terme-2015-12-06-16-25-56-86966229401",
+    "terme-2015-12-06-16-26-10-86966230248",
+    "terme-2015-12-06-16-26-17-86966230652",
+    "terme-2015-12-06-16-26-34-86966231673"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Samuel Stebbins Bowles"
+    ]
+  }
+}

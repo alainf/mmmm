@@ -1,0 +1,33 @@
+{
+  "_id": "pers-2016-03-25-07-02-59-87534226769",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-59",
+  "description": "Un endroit où je peux élever et faire pousser des choses agiles...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463907,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-16",
+  "moment-de-creation": "2016-03-25-07-02-59",
+  "moment-de-modification": "2016-03-25-07-02-59",
+  "nom": "Fabrice Aimetti",
+  "nom-machine": "pers-2016-03-25-07-02-59-87534226769",
+  "personne-nom-famille": "Aimetti",
+  "personne-nom-prenom": "Fabrice",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-59-87534226769",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-25-31-86966227911",
+    "terme-2015-12-06-16-25-33-86966227993"
+  ],
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Fabrice Aimetti"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "pers-2016-03-25-06-59-08-87534212910",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-08",
+  "description": "Biographie [modifier]<br>Après une licence en lettres à Genève, elle a étudié le journalisme à École supérieure de journalisme de Lille. Elle vit aujourd'hui à Paris. Journaliste (Le Monde diplomatique), elle anime également le site de critique culturelle « Périphéries ».<br>La Tyrannie de la réalité [modifier]<br>Dans La Tyrannie de la réalité, Mona Chollet analyse l'usage pernicieux fait aujourd'hui de la notion de réalité dans les discours politique et médiatique. Une vision étroite de la « réalité », qui condamne les rêveurs comme des excentriques inadaptés, permet de brandir ce mot pour couper court à toute contestation. Parce qu'elle renvoie toujours le sujet à l'actualité la plus immédiate, l'évocation de la « réalité » engendre un sentiment de fatalisme et d'impuissance.<br>Mona Chollet retrace le parcours de cette notion depuis l'émergence du rationalisme cartésien et montre les conséquences néfastes de cette vision partielle dans les domaines politique, littéraire ou encore environnemental et médiatico-journalistique. L'auteur en appelle à un mouvement de recul et de ressourcement qui rappelle les théories du philosophe canadien anglo-saxon Charles Taylor réaffirmant l'idéal d'authenticité dévoyé par la modernité hyperrationaliste.<br>Son essai, marqué à gauche, s'inscrit dans la tradition de critique de la modernité politique et de la société de consommation, lancée par des philosophes comme Jean Baudrillard. Sa critique du réalisme rejoint également celle prononcée par le courant constructiviste en épistémologie.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270992,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-08",
+  "moment-de-modification": "2016-03-25-06-59-08",
+  "nom": "Mona Chollet",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-08-87534212910"
+  ],
+  "personne-nom-famille": "Chollet",
+  "personne-nom-prenom": "Mona",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-08-87534212910",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Mona Chollet"
+    ]
+  }
+}

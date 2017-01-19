@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216159",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Christopher Fry (né le 12 décembre 1907 à Bristol, Gloucestershire, décédé le 30 janvier 2005 à Chichester dans le Sussex) était un dramaturge britannique et un directeur de théâtre. Il fut le dernier écrivain de langue anglaise à avoir du succès avec des pièces en vers.<br>Son véritable nom est Christopher Harris (surnom Kit). Il prit comme pseudonyme le nom de jeune fille de sa grand-mère maternelle, parente d'Elizabeth Fry, et devint quaker. Son père mourut des conséquences de son alcoolisme alors qu'il avait trois ans. Il assista pour la première fois à une pièce de théâtre (Peter Pan) lorsqu'il avait cinq ans, à Bedford.<br>Il obtint son premier succès en 1938 lorsqu'un vicaire du Sussex lui demanda d'écrire une pièce pour son église (« The boy with a Cart »). Elle attira l'attention de T.S. Eliot qui devint son mentor et son ami.<br>Ses pièces les plus célèbres sont : « A Phoenix Too Frequent » (1946), « The Firstborn » (1946), « The Lady's Not for Burning » (1949), «  Venus Observed » (1950).<br>À partir des années 1950, certaines de ses pièces furent adaptées à l'écran. Il participa à la rédaction de scénario (Ben Hur en 1959 et Barabbas en 1962).",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455462,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Christopher Fry",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216159"
+  ],
+  "personne-date-deces": "2005",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227786",
+  "personne-nom-famille": "Fry",
+  "personne-nom-prenom": "Christopher",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216159",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Christopher Fry"
+    ]
+  }
+}

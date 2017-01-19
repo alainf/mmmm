@@ -1,0 +1,43 @@
+{
+  "_id": "pers-2016-03-25-06-59-07-87534212842",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-07",
+  "description": "Muhammad Yunus (né le 28 juin 1940 à Chittagong) est un économiste et entrepreneur bangladais connu pour avoir fondé la première institution de microcrédit, la Grameen Bank, ce qui lui valut le prix Nobel de la paix en 2006. Il est surnommé le « banquier des pauvres »[1].",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 270744,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-07",
+  "moment-de-modification": "2016-03-25-06-59-07",
+  "mots-clefs": [
+    "Banque",
+    "Grameen Bank",
+    "micro-crédit",
+    "pauvreté"
+  ],
+  "nom": "Muhammad Yunus",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-07-87534212842"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227902",
+  "personne-nom-famille": "Yunus",
+  "personne-nom-prenom": "Muhammad",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-07-87534212842",
+  "sous-type": "pers",
+  "tip": "Prix Nobel de l'économie pour l'invention du micro-crédit",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Muhammad Yunus"
+    ]
+  }
+}

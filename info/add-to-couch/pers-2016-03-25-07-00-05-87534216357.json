@@ -1,0 +1,35 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216357",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Richemont-Banchereau (prénom inconnu, né en 1612 à Saumur, Maine-et-Loire et mort à une date inconnue) est un jurisconsulte et auteur dramatique français.<br>Avocat au Parlement, Banchereau n'est connu que par deux pièces qu'il écrivit à vingt ans, publiées à Paris en 1632 :<br>L'Espérance glorieuse ou Amour et Justice, tragi-comédie en cinq actes et en vers (dédiée au prince de Condé)<br>Les Passions égarées ou le Roman du temps, tragi-comédie en cinq actes et en vers.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455547,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Richemont-Banchereau",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216357"
+  ],
+  "personne-date-naissance": "1612",
+  "personne-nom-famille": "Richemont-Banchereau",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216357",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Richemont-Banchereau"
+    ]
+  }
+}

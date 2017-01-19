@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-02-26-87534224762",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-defectueuse": false,
+  "fiche-publiee": false,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2017-01-05-20-20-48",
+  "moment-de-creation": "2017-01-05-20-20-48",
+  "moment-de-modification": "2017-01-05-20-22-43",
+  "nom": "Aaron Cicourel",
+  "nom-machine": "pers-2016-03-25-07-02-26-87534224762",
+  "personne-nom-famille": "Cicourel",
+  "personne-nom-prenom": "Aaron",
+  "section": [
+    "terme-2015-12-06-16-23-44-86966221458"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-26-87534224762",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-26-27-86966231270",
+    "terme-2015-12-06-16-26-48-86966232512",
+    "terme-2015-12-06-16-26-59-86966233192",
+    "terme-2015-12-06-16-27-02-86966233351",
+    "terme-2015-12-06-16-27-06-86966233572"
+  ],
+  "type": "personnes",
+  "nomLangues": {
+    "fr": [
+      "Aaron Cicourel"
+    ]
+  }
+}

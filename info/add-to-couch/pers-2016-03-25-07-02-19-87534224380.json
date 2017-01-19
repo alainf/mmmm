@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-02-19-87534224380",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-19",
+  "description": "Louis Quéré (né en 1947) est un sociologue français, directeur de recherche au CNRS et directeur de l'Institut Marcel-Mauss (EHESS-CNRS).<br>Ses recherches portent surtout sur la sociologie de l'action, la question régionale et l'épistémologie des sciences sociales. Son approche s'inscrit notamment dans le sillage de la pensée de Jürgen Habermas, de l'herméneutique de Hans Georg Gadamer (La sociologie à l'épreuve de l'herméneutique, 1999), du pragmatisme (John Dewey et George Herbert Mead) et de l'ethnométhodologie.<br>En 2006, il fait paraître une nouvelle traduction de Mind, self and society from the standpoint of a social behaviorist (L'esprit, le soi et la société) de George Herbert Mead avec Daniel Cefaï (Paris, Presses universitaires de France).<br>Il a coordonné avec Michel Barthélémy, la traduction des Recherches en ethnométhodologie de Harold Garfinkel (PUF, « Quadrige ». Grands textes, 2007)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461563,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-19",
+  "moment-de-modification": "2016-03-25-07-02-19",
+  "nom": "Louis Quéré",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-19-87534224380"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227932",
+  "personne-nom-famille": "Quéré",
+  "personne-nom-prenom": "Louis",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-19-87534224380",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Louis Quéré"
+    ]
+  }
+}

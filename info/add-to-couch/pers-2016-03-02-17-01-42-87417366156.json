@@ -1,0 +1,52 @@
+{
+  "_id": "pers-2016-03-02-17-01-42-87417366156",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-48-86966174886",
+    "lieu-2015-12-06-16-15-32-86966191971",
+    "lieu-2015-12-06-16-16-10-86966194201",
+    "lieu-2015-12-06-16-19-34-86966206484",
+    "lieu-2015-12-06-16-22-44-86966217863"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-02-17-01-42",
+  "moment-de-modification": "2016-03-03-03-08-51",
+  "nom": "Perry Anderson",
+  "nom-machine": "pers-2016-03-02-17-01-42-87417366156",
+  "personne-concernee": [
+    "pers-2016-03-02-17-01-42-87417366156",
+    "pers-2016-03-25-07-00-28-87534217705",
+    "pers-2016-03-25-07-02-30-87534225011",
+    "pers-2016-03-25-07-02-36-87534225415",
+    "pers-2016-03-25-07-02-40-87534225644"
+  ],
+  "personne-date-naissance": "1938-09-11",
+  "personne-nom-famille": "Anderson",
+  "personne-nom-prenom": "Perry",
+  "personne-wikipedia": "https://fr.wikipedia.org/wiki/Perry_Anderson",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-02-17-01-42-87417366156",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-36-86966224613",
+    "terme-2015-12-06-16-25-04-86966226256",
+    "terme-2015-12-06-16-25-04-86966226266",
+    "terme-2015-12-06-16-25-35-86966228117",
+    "terme-2015-12-06-16-25-57-86966229424"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Perry Anderson"
+    ]
+  }
+}

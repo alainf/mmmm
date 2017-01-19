@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216344",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Pierre Corneille, appelé aussi le « Grand Corneille » ou « Corneille l'aîné », né à Rouen le 6 juin 1606 et mort à Paris (paroisse Saint-Roch) le 1er octobre 1684, est un dramaturge français de la période pré-classique et classique de la France du xviie siècle.<br>Né à Rouen dans une famille de la bourgeoisie de robe cultivée, Pierre Corneille envisage, après de solides études chez les Jésuites, une carrière d'avocat avant de se tourner vers la littérature. Il écrit d'abord des comédies comme Mélite (1629, sa première œuvre), La Place royale (1634), L’Illusion comique (1636) ou plus tard Le Menteur (1643, pièce qui inspirera les comédies de mœurs de Molière). Mais à partir de 1637, il se tourne vers le genre tragique avec en (1637), une tragi-comédie qui fait grand bruit Le Cid. Suivront des tragédies aux sujets romains comme Horace (1640), Cinna ou la Clémence d'Auguste (1641), Polyeucte (1642), Rodogune (1644) ou encore Nicomède (1651).<br>À cette date, après une décennie de gloire – il est élu à l’Académie française dès 1647 -, ses pièces rencontrent moins de succès et Pierre Corneille cesse d'écrire pendant près d'une dizaine d'années. Il revient au théâtre en 1659 mais la faveur nouvelle pour les œuvres de Jean Racine moins démonstratives relègue ses créations - encore nombreuses - dans l'ombre. Il cesse d'écrire après l'échec de Suréna en 1674 et sa vie devient difficile (il doit être pensionné par Louis XIV), même si ses anciennes pièces continuent à être représentées.<br>Son œuvre importante, riche de 32 pièces, est diverse puisque à côté de comédies proches de l'esthétique baroque et pleines d'invention théâtrale comme dans L’Illusion comique ou dans des « comédies-machines », Pierre Corneille a su donner sa véritable dimension à la tragédie moderne naissante au milieu du XVIIe siècle. Aux prises avec la mise en place des règles classiques, il a marqué de son empreinte le genre par les hautes figures qu'il a créées : des âmes fortes confrontées à des choix moraux fondamentaux (le fameux « dilemme cornélien ») comme Rodrigue qui doit choisir entre amour et honneur familial, Auguste qui préfère la clémence à la vengeance ou Polyeucte placé entre l'amour humain et l'amour de Dieu. Si les figures des jeunes hommes pleins de fougue (Rodrigue, le jeune Horace) s'associent à des figures de pères nobles (Don Diègue ou le vieil Horace), les figures masculines ne doivent pas faire oublier les personnages féminins vibrant de sentiments comme Chimène dans Le Cid, Camille dans Horace ou Cléopâtre, reine de Syrie, dans Rodogune.<br>L'œuvre de Pierre Corneille est aussi marquée par la puissance d'un alexandrin rythmé qui donne de célèbres morceaux de bravoure (monologue de Don Diègue dans Le Cid, imprécations de Camille dans Horace) et la force de maximes à certaines paroles (« Laisse faire le temps, ta vaillance et ton roi », dernier vers du Cid - « Je suis maître de moi comme de l'univers », Cinna, V, 3 - « Dieu ne veut point d'un coeur où le monde domine » Polyeucte, I,1 ).<br>Le théâtre de Pierre Corneille fait ainsi écho aux tournures du Grand Siècle dont il reflète aussi les valeurs comme l'honneur et les grandes interrogations, sur le pouvoir par exemple (contexte de la mort de Richelieu et de Louis XIII et question de la guerre civile dans La Mort de Pompée (1643) - lutte pour le trône dans Nicomède (1651, dans le contexte de la Fronde).",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455541,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Pierre Corneille",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216344"
+  ],
+  "personne-date-deces": "1684",
+  "personne-date-naissance": "1606",
+  "personne-nom-famille": "Corneille",
+  "personne-nom-prenom": "Pierre",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216344",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Pierre Corneille"
+    ]
+  }
+}

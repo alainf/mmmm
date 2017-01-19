@@ -1,0 +1,50 @@
+{
+  "_id": "pers-2016-03-25-06-59-37-87534214642",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-37",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4309,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-02",
+  "moment-de-creation": "2016-03-25-06-59-37",
+  "moment-de-modification": "2016-03-25-06-59-37",
+  "nom": "Michel Foucault",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-37-87534214642"
+  ],
+  "personne-date-deces": "1984",
+  "personne-date-naissance": "1926",
+  "personne-nom-famille": "Foucault",
+  "personne-nom-prenom": "Michel",
+  "section": [
+    "terme-2015-12-06-16-23-44-86966221458"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-37-87534214642",
+  "sous-type": "pers",
+  "suggestion-relation": "pers-2016-03-25-06-59-37-87534214642",
+  "sujet": [
+    "terme-2015-12-06-16-25-19-86966227175",
+    "terme-2015-12-06-16-26-45-86966232327",
+    "terme-2015-12-06-16-26-45-86966232356",
+    "terme-2015-12-06-16-26-49-86966232574"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Michel Foucault"
+    ]
+  }
+}

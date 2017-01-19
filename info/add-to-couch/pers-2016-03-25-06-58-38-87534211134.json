@@ -1,0 +1,68 @@
+{
+  "_id": "pers-2016-03-25-06-58-38-87534211134",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-58-38",
+  "description": "1-academiques-revues-conferences<br>Founded in 1980, Mary Ann Liebert, Inc. is universally acknowledged for publishing authoritative peer-reviewed journals, books, and trade magazines in the most promising areas of biotechnology, biomedical research/life sciences, clinical medicine and surgery, alternative and complementary medicine, law, philanthropy, environmental science and sustainability.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 180927,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "lieu-edition": [
+    "lieu-2015-12-06-16-16-08-86966194089"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-58-38",
+  "moment-de-modification": "2016-03-25-06-58-38",
+  "mots-clefs": [
+    "alternative and complementary medicine",
+    "biomedical research",
+    "biotechnology",
+    "clinical medicine",
+    "environmental science",
+    "journals",
+    "law",
+    "life sciences",
+    "Mary Ann Liebert",
+    "philanthropy",
+    "surgery",
+    "sustainability"
+  ],
+  "nom": "Mary Ann Liebert",
+  "nom-machine": [
+    "pers-2016-03-25-06-58-38-87534211134"
+  ],
+  "personne-nom-famille": "Liebert",
+  "personne-nom-prenom": "Mary Ann",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-58-38-87534211134",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-32-86966224325",
+    "terme-2015-12-06-16-25-07-86966226468",
+    "terme-2015-12-06-16-26-22-86966230923",
+    "terme-2015-12-06-16-26-27-86966231270",
+    "terme-2015-12-06-16-27-07-86966233636"
+  ],
+  "tip": "is universally acknowledged for publishing authoritative peer-reviewed journals of biotechnology",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-11-86966233919"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234482"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Mary Ann Liebert"
+    ]
+  }
+}

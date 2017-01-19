@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-02-26-87534224771",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-26",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 462747,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-09",
+  "moment-de-creation": "2016-03-25-07-02-26",
+  "moment-de-modification": "2016-03-25-07-02-26",
+  "nom": "Richard Cloward",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-26-87534224771"
+  ],
+  "personne-date-deces": "2001",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227840",
+  "personne-nom-famille": "Cloward ",
+  "personne-nom-prenom": "Richard",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-26-87534224771",
+  "sous-type": "pers",
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Richard Cloward"
+    ]
+  }
+}

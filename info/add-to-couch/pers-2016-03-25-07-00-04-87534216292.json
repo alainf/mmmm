@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216292",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Juan de la Cueva de Garoza ou Juan de la Cueva (né en 1543 à Séville - mort en 1612), était un poète et dramaturge espagnol du Siècle d'or.<br>Il était le frère de l'archidiacre de la cathédrale de Guadalajara. Il vécut à Cuenca, dans les îles Canaries, puis, de 1574 à 1577 au Mexique. A son retour en Espagne, il commença sa carrière de dramaturge.<br>Il s'inspira du Romancero - on désigne sous ce vocable l'ensemble des romans écrits en Espagne depuis le xive siècle - et de la mythologie gréco-latine et adopta des thèmes légendaires et historiques, pour mettre en valeur le patriotisme castillan. Il rompit les unités aristotéliciennes d'action, de temps et de lieu, préfigurant en partie en cela la formule dramatique qui fera le succès de Lope de Vega. C'est ainsi que dans son œuvre, ses pièces sont toujours divisées en quatre journées.<br>Il écrivit en outre vingt-cinq sonnets, quelques églogues, une élégie, une sextine, trois madrigaux et deux odes, qui furent publiés dans le recueil « Flores de Varia Poesía » (Fleurs de poésie diverse). L' « Ejemplar poético » (Poétique exemplaire) - sa dernière œuvre, écrite entre 1606 et 1609, et divisée en trois lettres - est un art poétique maniériste, qui décrit l'art poétique de son époque.<br>Parmi ses autres œuvres, on peut citer « Viaje de Sannio » (Le voyage de Sannio), poème de crítique littéraire, dans lequel il mentionne de nombreux génies de son époque, « La Muracinda », qui est une narration épique et burlesque d'une vengeance entre chiens et chats, le poème mythologique « Llanto de Venus en la muerte de Adonis » (Lamentations de Vénus pour la mort d'Adonis), la narration mythologique et burlesque « Los amores de Marte y Venus » (Les amours de Mars et Vénus) et « Reto de Zamora » (Le défi de Zamora).<br>Un ensemble de ses poèmes fut publié sous le titre « Œuvres de Juan de la Cueva » à Séville en 1582 et ses romans le furent dans « Coro Febeo de Romances historiales » (1587). Il s'essaya également au genre épique, avec le poème en vingt-quatre chants « La conquista de la Bética » (La conquête de la Bétique) - publié à Séville en 1603 - qui décrit la reconquête de Séville par Ferdinand III le Saint en 1286.<br>Ont également été conservées une quinzaine de pièces de théâtre (en quatre journées), dont les plus importantes sont « El infamador », (L'infâme), dont le héros, Leucino, préfigure l'archétype du Don Juan classique et qui introduit des personnages allégoriques, « El Saco de Roma » (Le sac de Rome), « La muerte del Rey Don Sancho » (La mort du roi Sanche), « La libertad de España por Bernardo de Carpio » (La liberté de l'Espagne selon Bernard de Carpio) et « La Tragedia de los siete Infantes de Lara » (La tragédie des sept enfants de Lara), qui fut représentée en 1579 et est considérée comme un joyau de la poésie espagnole. Elles figurent, avec quelques autres dans le recueil imprimé en 1583 sous le titre « Première partie des tragédies et comédies de Juan de la Cueva » (la seconde partie ne parvint jamais à sortir, bien que l'autorisation en ait été demandée). Dans ces œuvres il est parfois difficile de faire clairement la distinction entre le genre tragique et le genre comique.<br>Abandonnant le modèle universel hétité de Sénèque jusqu'alors en vigueur en Espagne, Cueva a pris pour sujets des thèmes de légende nationale, de tradition historique, des évènements récents ou même les réalités de la vie contemporaine. Cet amalgame d'éléments épiques et réalistes, et l'introduction d'une grande variété formelle, ont préparé l'émergence du drame romantique espagnol du xviie siècle.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455518,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Juan de la Cueva",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216292"
+  ],
+  "personne-date-deces": "1612",
+  "personne-date-naissance": "1543",
+  "personne-nom-famille": "de la Cueva",
+  "personne-nom-prenom": "Juan",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216292",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Juan de la Cueva"
+    ]
+  }
+}

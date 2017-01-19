@@ -1,0 +1,35 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216361",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Poète du Moyen Âge, Rutebeuf (ancien français Rustebuef, né à une date inconnue, dans les premières décennies du xiiie siècle, avant 1230 - mort v. 1285), doit probablement son nom au surnom « Rudebœuf » (bœuf vigoureux), qu'il utilise lui-même dans son œuvre. Il serait originaire de Champagne (il a décrit les conflits à Troyes en 1249), mais a vécu adulte à Paris.<br>On ne sait quasiment rien de sa vie sauf qu'il était probablement un jongleur avec une formation de clerc (il connaissait le latin). Son œuvre, très diversifiée, qui rompit avec la tradition de la poésie courtoise des trouvères, comprend des hagiographies (Vie de Sainte Helysabel), du théâtre (Miracle de Théophile), des poèmes polémiques et satiriques (Renart le Bestourné ou Dit de l'Herberie) envers les puissants de son temps. Rutebeuf est aussi un poète « personnel », l'un des premiers à nous parler de ses misères et des difficultés de la vie. Parmi ses vers les plus célèbres on trouve certainement ceux issus des Poèmes de l’infortune : « Que sont mes amis devenus, que j’avais de si près tenus, et tant aimés ... »<br>Les poèmes de Rutebeuf ont inspiré Léo Ferré en a fait une chanson qu'il a appelée Pauvre Rutebeuf. Plusieurs interprétations de cette chanson existent, entre autres : Léo Ferré (1955 en studio, 1958, 1984 et 1986 en récitals), Catherine Sauvage (1956), Jacques Douai (1957), Hugues Aufray (1967), Hélène Martin (1983), James Ollivier (1988), Philippe Léotard (1994), Marc Ogeret (1999), Joan Baez (1965) et aussi Cora Vaucaire ou Nana Mouskouri et Dani Klein (Vaya Con Dios)(2009).",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455549,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Rutebeuf",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216361"
+  ],
+  "personne-date-deces": "1285",
+  "personne-nom-famille": "Rutebeuf",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216361",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Rutebeuf"
+    ]
+  }
+}

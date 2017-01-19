@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216396",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "William Shakespeare, né probablement le 23 avril 1564 à Stratford-upon-Avon et mort le 23 avril 1616 dans la même ville, est considéré comme l'un des plus grands poètes, dramaturges et écrivains de la culture anglaise1. Il est réputé pour sa maîtrise des formes poétiques et littéraires, ainsi que sa capacité à représenter les aspects de la nature humaine.<br>Figure éminente de la culture occidentale, Shakespeare continue d’influencer les artistes d’aujourd’hui. Il est traduit dans un grand nombre de langues et ses pièces sont régulièrement jouées partout dans le monde. Shakespeare est l’un des rares dramaturges à avoir pratiqué aussi bien la comédie que la tragédie.<br>Shakespeare écrivit trente-sept œuvres dramatiques entre les années 1580 et 1613. Mais la chronologie exacte de ses pièces est encore sujette à discussion. Cependant, le volume de ses créations n'apparaît pas comme exceptionnel en regard des critères de l’époque.<br>On mesure l’influence de Shakespeare sur la culture anglo-saxonne en observant les nombreuses références qui lui sont faites, que ce soit à travers des citations, des titres d’œuvres ou les innombrables adaptations de ses travaux. L'anglais est également surnommé « la langue de Shakespeare ».",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455564,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "William Shakespeare",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216396"
+  ],
+  "personne-date-deces": "1616",
+  "personne-date-naissance": "terme-2015-12-06-16-25-16-86966227008",
+  "personne-nom-famille": "Shakespeare",
+  "personne-nom-prenom": "William",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216396",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "William Shakespeare"
+    ]
+  }
+}

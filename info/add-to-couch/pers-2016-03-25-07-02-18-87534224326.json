@@ -1,0 +1,41 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224326",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "Luciano Gallino (Torino, 1927) è un sociologo, scrittore e docente di sociologia italiano.<br>Uno tra i sociologi italiani più autorevoli, ha contribuito all'istituzionalizzazione della disciplina nel secondo dopoguerra, lavorando dentro e fuori l'accademia su tematiche che riguardano la sociologia dei processi economici e del lavoro, di tecnologia, di formazione e, più in generale, di teoria sociale. È considerato uno dei maggiori esperti italiani del rapporto tra nuove tecnologie e formazione, nonché delle trasformazioni del mercato del lavoro. I suoi principali campi di ricerca sono la teoria dell'azione e teoria dell'attore sociale; le implicazioni sociali e culturali della scienza e della tecnologia; gli aspetti socio-culturali delle nuove tecnologie di telecomunicazione.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461535,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-43-86966174600"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Luciano Gallino",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224326"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227868",
+  "personne-nom-famille": "Gallino",
+  "personne-nom-prenom": "Luciano",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224326",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Luciano Gallino"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216280",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Johann Nepomuk Eduard Ambrosius Nestroy (7 décembre 1801 à Vienne - † 25 mai 1862 à Graz (Autriche), est un acteur, chanteur et dramaturge autrichien.<br>Après une carrière de chanteur d'opéra de 1822 à 1831 qui le conduisit dans plusieurs villes européennes, Nestroy retourna dans sa ville natale, Vienne. C'est en ces lieux qu'il débuta son activité d'acteur mais surtout d'auteur de théâtre. Similaire à celle d'autres grands hommes de théâtre, de par son existence et de son importance pour son pays natal, il fut considéré et appelé par certains « le Shakespeare Autrichien ».<br>Contrairement à Shakespeare, sa carrière d'écrivain fut un franc et immédiat succès : dès 1833, sa pièce Lumpacivagabundus reçut un important écho dans la société intellectuelle viennoise et il devint aussitôt une des figures majeures de la vie culturelle et sociale de l'Autriche tout entière. C'est dans cette période qu'il succéda à Ferdinand Raimund comme directeur artistique des spectacles commerciaux de Vienne.<br>Alors que Raimund, héritier d'une tradition plus conventionnelle, avait préféré les fantaisies magiques et romantiques, Nestroy fut le promoteur de la comédie à portée parodique et même parfois critique. Opposé à une société des plus conservatrice, représentée en la personne du ministre Clemens Metternich, il dut jouer habilement avec les sous-entendus et les limites de la polémique ouverte pour pouvoir exprimer ses talents de critique de la société au travers du théâtre. Cette pratique fut caractérisée par l'emploi de langage viennois. Il fut également considéré comme l'un des précurseurs quant à l'utilisation de la musique pour souligner l'action théâtrale.<br>Productif, Nestroy écrivit plus de quatre-vingts pièces durant les années 1840 et 1850. Parmi les plus reconnues, on peut citer les comédies burlesques Lumpacivagabundus, Liebesgeschichten und Heiratssachen, Der Talisman, Einen Jux will er sich machen ou encore Der Zerrissene : toutes sont marquées par une profonde critique sociale épaulée par un sens aigüe de la satire cinglante.<br>Il fut contemporain des styles Restauration et Louis-Philippe, et participa au mouvement artistique Biedermeier courant qui désigna la culture et l'art bourgeois apparus à cette époque.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455513,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Johann Nestroy",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216280"
+  ],
+  "personne-date-deces": "1862",
+  "personne-date-naissance": "terme-2015-12-06-16-25-22-86966227364",
+  "personne-nom-famille": "Nestroy",
+  "personne-nom-prenom": "Johann",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216280",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Johann Nestroy"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-01-21-87534220884",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-01-21",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 457750,
+  "identifiant-jtoc": "http://www.ingentaconnect.com",
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-01-21",
+  "moment-de-modification": "2016-03-25-07-01-21",
+  "nom": "Johnson Matthey",
+  "nom-machine": [
+    "pers-2016-03-25-07-01-21-87534220884"
+  ],
+  "personne-nom-famille": "Matthey",
+  "personne-nom-prenom": "Johnson",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-01-21-87534220884",
+  "sous-type": "pers",
+  "tip": "industrie",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-20-86966234417"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Johnson Matthey"
+    ]
+  }
+}

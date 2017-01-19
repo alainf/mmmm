@@ -1,0 +1,32 @@
+{
+  "_id": "pers-2016-03-25-07-03-38-87534229099",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467137,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-03-38",
+  "moment-de-modification": "2016-03-25-07-03-38",
+  "nom": "KAYEMBE LUKENGU",
+  "nom-machine": "pers-2016-03-25-07-03-38-87534229099",
+  "personne-nom-famille": "LUKENGU",
+  "personne-nom-prenom": "KAYEMBE",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-03-38-87534229099",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-53-86966225598",
+    "terme-2015-12-06-16-25-04-86966226256",
+    "terme-2015-12-06-16-25-04-86966226258"
+  ],
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "KAYEMBE LUKENGU"
+    ]
+  }
+}

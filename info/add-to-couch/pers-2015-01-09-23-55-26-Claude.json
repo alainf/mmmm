@@ -1,0 +1,116 @@
+{
+  "_id": "pers-2015-01-09-23-55-26-Claude",
+  "ajouter-aux-favoris": true,
+  "date-edition": "2013-06-29",
+  "description": "Description de Claude Berthiaume.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-dc": "Dublin Core Identifier",
+  "identifiant-dewey": "500 - Informatique",
+  "identifiant-drupal": 1392,
+  "identifiant-drupal-parent": 123,
+  "identifiant-eissn": "http://domaine.com/exemple/0123456789",
+  "identifiant-isbn": "ISBN-8888-2",
+  "identifiant-issn": "ISSN-9999-1",
+  "identifiant-journalseek": "JournalSeek-0123456789",
+  "identifiant-jtoc": "JTOC-0123456789",
+  "importance": 1,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-41-86966174481"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-16-09-86966194142"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2015-01-09-23-55-26",
+  "moment-de-modification": "2016-01-14-04-16-37",
+  "mots-clefs": [
+    "Claude"
+  ],
+  "nom": "Claude Berthiaume",
+  "nom-autres-langues": [
+    "Claude Berthiaume en une autre langue."
+  ],
+  "nom-machine": [
+    "pers-2015-01-09-23-55-26-Claude"
+  ],
+  "personne": [
+    "Claude Berthiaume"
+  ],
+  "personne-adresse": "1234, St-Laurent, Longueil, Québec, Canada",
+  "personne-concernee": [
+    "pers-2015-01-09-23-55-26-Claude"
+  ],
+  "personne-courriel": "claude@phdadministration.net",
+  "personne-date-deces": "2064-03-20",
+  "personne-date-naissance": "1964-03-20",
+  "personne-nom-famille": "Berthiaume",
+  "personne-nom-prenom": "Claude",
+  "personne-wikipedia": "https://fr.wikipedia.org/wiki/Claude_Berthiaume",
+  "robots-txt": "http://www.claudeberthiaume.org/robots.txt",
+  "section": [
+    "terme-2015-12-06-16-23-41-86966221275"
+  ],
+  "sigle": "CB",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "sitemap-eux": "http://www.claudeberthiaume.org/sitemap.xml",
+  "source-defectueuse": true,
+  "source-fichier": "file:///example.html",
+  "source-langue-anglais": [
+    "http://www.claudeberthiaume.org/Berthiaume/Claude/?lang=en"
+  ],
+  "source-langue-arabe": [
+    "http://www.claudeberthiaume.org/Berthiaume/Claude/?lang=ar"
+  ],
+  "source-langue-espagnol": [
+    "http://www.claudeberthiaume.org/Berthiaume/Claude/?lang=es"
+  ],
+  "source-langue-francais": [
+    "http://www.claudeberthiaume.org/Berthiaume/Claude/?lang=fr"
+  ],
+  "source-langue-italien": [
+    "http://www.claudeberthiaume.org/Berthiaume/Claude/?lang=it"
+  ],
+  "source-langue-russe": [
+    "http://www.claudeberthiaume.org/Berthiaume/Claude/?lang=ru"
+  ],
+  "source-url": "http://www.phdadministration.net/?id=pers-2015-01-09-23-55-26-Claude",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-43-86966225029",
+    "terme-2015-12-06-16-25-02-86966226145",
+    "terme-2015-12-06-16-25-02-86966226157",
+    "terme-2015-12-06-16-25-04-86966226256",
+    "terme-2015-12-06-16-26-03-86966229816",
+    "terme-2015-12-06-16-26-48-86966232494"
+  ],
+  "tip": "Aperçu de Claude Berthiaume.",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-17-86966234221",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "en": [
+      "Claude Berthiaume in english"
+    ],
+    "ar": [
+      "Claude Berthiaume en arabe"
+    ],
+    "es": [
+      "Claude Berthiaume en espagnol"
+    ],
+    "fr": [
+      "Claude Berthiaume"
+    ],
+    "it": [
+      "Claude Berthiaume en italien"
+    ],
+    "ru": [
+      "Claude Berthiaume en russe"
+    ]
+  }
+}

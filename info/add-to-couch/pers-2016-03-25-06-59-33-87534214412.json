@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-06-59-33-87534214412",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-33",
+  "description": "Madeleine AKRICH</a> - Ingénieur, Sociologue, Directrice du CSI<br>Madeleine Akrich a consacré l’essentiel de ses travaux à la sociologie des techniques, en s'intéressant spécifiquement aux usagers ...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4222,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-33",
+  "moment-de-modification": "2016-03-25-06-59-33",
+  "nom": "Madeleine Akrich",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-33-87534214412"
+  ],
+  "personne-nom-famille": "Akrich",
+  "personne-nom-prenom": "Madeleine",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-33-87534214412",
+  "sous-type": "pers",
+  "tip": "Ingénieur, Sociologue, Directrice du CSI",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Madeleine Akrich"
+    ]
+  }
+}

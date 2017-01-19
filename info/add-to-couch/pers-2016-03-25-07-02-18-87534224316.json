@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224316",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "Enzo Faletto (Santiago de Chile, 1935 - 2003) était un sociologue du Chili.<br>Sa publication la plus importante est Dépendance et développement en Amérique latine, qu'il publia en 1969 avec l'ancien président du Brésil, le sociologue Fernando Henrique Cardoso.<br>Professeur titulaire de l'Universidad de Chile, il a étudié en histoire. Plus tard, il se spécialisa en sociologie lors d'études à la Faculté latinoaméricaine de sciences sociales (FLACSO - Facultad Latinoamericana de Ciencias Sociales).<br>Entre 1967 et 1972 il donnera des cours en sociologie et en journalisme à l'Universidad de Chile. À partir de 1973 il travaillera à la CEPAL (Commission économique pour l'Amérique latine et les Caraïbes) où il sera chargé de recherches. Il maintint ses liens avec la FLACSO, et retournera en 1990 à l'enseignement à l'Universidad de Chile où il sera actif jusqu'à ses derniers jours.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461530,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Enzo Faletto",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224316"
+  ],
+  "personne-date-deces": "2003",
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227882",
+  "personne-nom-famille": "Faletto",
+  "personne-nom-prenom": "Enzo",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224316",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Enzo Faletto"
+    ]
+  }
+}

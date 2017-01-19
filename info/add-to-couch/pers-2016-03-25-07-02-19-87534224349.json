@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-02-19-87534224349",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-19",
+  "description": "RAND L. KANNENBERG is a Licensed Addiction Counselor, a Certified Case Manager, and a Certified Clinical Sociologist as well as an approved education provider by both NBCC and NAADAC. Kannenberg, creator of Resocial Group TM: \"A Group Treatment Curriculum for Adults with Antisocial Behavior and Substance Abuse,\" has been executive director of Criminal Justice Addiction Services in Lakewood, Colorado since 1995, and has provided substance abuse and corrections advanced level training and continuing education workshops in 40 states, Italy, Puerto Rico and South Africa. He also has a private clinical practice specializing in forensic drug and alcohol adult assessments.<br>Kannenberg graduated from the state department of corrections basic training academy and completed the extended prison based training program. He has worked in two correctional facilities, a halfway house, a day reporting center and at a treatment center. He is a credentialed consultant with physicians in emergency departments and on the medical units at several local hospitals. He completed his graduate program in 1984 and has been treating amphetamine and amphetamine-like substance use disorders regularly since 1999. He has been a featured speaker or trainer at nearly 300 state, regional, national, and international workshops or conferences. Kannenberg, distinguished career award nominee and Public Health Champion of the Year recipient, is author of Sociotherapy for Sociopaths TM (2003) and Case Management Handbook for Clinicians (2004).",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461547,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-19",
+  "moment-de-modification": "2016-03-25-07-02-19",
+  "nom": "Rand L. Kannenberg",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-19-87534224349"
+  ],
+  "personne-nom-famille": "Kannenberg",
+  "personne-nom-prenom": "Rand L.",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-19-87534224349",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Rand L. Kannenberg"
+    ]
+  }
+}

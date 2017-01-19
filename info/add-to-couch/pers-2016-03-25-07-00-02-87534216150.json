@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216150",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Catherine Fradonnet, dite Catherine Des Roches, née en décembre 1542 et morte en novembre 1587 est une écrivaine féministe de la Renaissance.<br>Contemporaine de Ronsard et de l’humaniste Estienne Pasquier qu’avec sa mère, Madeleine Des Roches, elle connaissait bien, Catherine Des Roches était, avec celle-ci, au centre d’un cercle littéraire à Poitiers entre 1570 et 1587. Grâce à sa mère, qui lui a servi de mentor intellectuel, Catherine Des Roches a plus écrit que cette dernière. Son œuvre la plus connue est son sonnet À ma quenouille où « ayant dedans la main, le fuzeau et la plume », elle dépeint la femme partagée entre ses tâches domestiques et les activités de l’esprit.<br>Elle refusa de se marier pour pouvoir se consacrer à ses travaux intellectuels. Elle mourut de la peste le même jour que sa mère.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455458,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Catherine Des Roches",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216150"
+  ],
+  "personne-date-deces": "1587",
+  "personne-date-naissance": "1542",
+  "personne-nom-famille": "Des Roches",
+  "personne-nom-prenom": "Catherine",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216150",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Catherine Des Roches"
+    ]
+  }
+}

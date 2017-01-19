@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216275",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jean-Baptiste Poquelin, dit Molière, né à Paris, baptisé le 15 janvier 1622 et mort à Paris le 17 février 1673, est un dramaturge auteur de comédies, mais aussi un comédien et chef de troupe de théâtre français qui s'est illustré au début du règne de Louis XIV.<br>Issu d'une famille de petite bourgeoisie parisienne (son père occupe la charge de « tapissier du Roi »), Jean-Baptiste Poquelin se consacre au théâtre à 21 ans après la rencontre de Madeleine et Joseph Béjart avec qui il fonde « l'Illustre Théâtre » et prend le pseudonyme de Molière. Après la faillite de la troupe, il quitte Paris et parcourt les différentes provinces de 1645 à 1658 en écrivant ses premières farces (L'Étourdi – Le Dépit amoureux).<br>De retour à Paris en 1658, il obtient la protection du frère du roi : sa troupe prend le nom de « Troupe de Monsieur » et représente en particulier les tragédies de Pierre Corneille (Nicomède – Cinna). Sa carrière d'auteur dramatique commence vraiment avec Les Précieuses ridicules qui remporte un grand succès en novembre 1659. Soutenu par le roi Louis XIV, (mal)marié avec Armande Béjart et vite malade du poumon, Molière affronte les cabales et continue à jouer et à diriger sa troupe – devenue « Troupe du Roy » - tout en écrivant des comédies de genres variés (des comédies proches de la farce comme Le médecin malgré lui (1666) ou Les Fourberies de Scapin (1671), des comédies plus psychologiques comme L'École des femmes (1662) ou L'Avare (1668), des comédies-ballets comme Le Bourgeois gentilhomme en 1670 (avec Lully) ou Le malade imaginaire (avec Marc-Antoine Charpentier) en 1673, des pièces plus élaborées approfondissant caractère et étude sociale, en vers comme Le Misanthrope (1665), Tartuffe (1664-1669), Les Femmes savantes (1672), ou en prose comme Dom Juan (1665).<br>Peintre des mœurs de son temps, surtout de la bourgeoisie dont il dénonce les travers (prétention nobiliaire, place des femmes, mariage d'intérêt...), Molière a créé en même temps des personnages individualisés emblématiques et approfondis dont la liste est longue : Monsieur Jourdain, Harpagon, Alceste et Célimène, Orgon et Tartuffe, Dom Juan et son valet Sganarelle, Argan le malade imaginaire...<br>L'invention dramatique de Molière est assez limitée puisqu'il reprend Plaute (L'Avare), les fabliaux (Le médecin malgré lui), les auteurs espagnols et italiens (Dom Juan) et des thèmes traitées par d'autres à son époque. Mais son œuvre écrite sur 15 ans montre à la fois une grande variété et une grande vérité humaine en même temps qu'une maîtrise efficace du jeu scénique et du texte de théâtre qui révèle l'homme de scène qu'il était avant tout puisqu'il a continué à jouer malgré la maladie jusqu'à son dernier jour survenu à 51 ans, le 17 février 1673.<br>Molière demeure depuis le XVIIe siècle l'un des tout premiers auteurs de comédies de la littérature française, chaque époque trouvant en lui des thématiques modernes. Il constitue aussi un des piliers de l'enseignement littéraire en France.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455512,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Molière",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216275"
+  ],
+  "personne-date-deces": "1673",
+  "personne-date-naissance": "1622",
+  "personne-nom-famille": "Poquelin",
+  "personne-nom-prenom": "Jean-Baptiste",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216275",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Molière"
+    ]
+  }
+}

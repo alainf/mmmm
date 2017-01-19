@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216273",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jeannine Worms est une dramaturge et femme de lettres française née le 19 avril 1923 à Buenos Aires et morte le 28 avril 2006 à Paris.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455511,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jeannine Worms",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216273"
+  ],
+  "personne-date-deces": "2006",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227851",
+  "personne-nom-famille": "Worms",
+  "personne-nom-prenom": "Jeannine",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216273",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jeannine Worms"
+    ]
+  }
+}

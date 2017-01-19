@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-02-19-87534224382",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-19",
+  "description": "Michael W. Raphael is currently a student at Northeastern University in Boston, MA. He studies dramaturgy, sociology of knowledge, sociology of law, semiotics, phenomenology and social theory. For over a decade, he has conducted ethnographic research in the inflatable amusements industry studying the phenomenon of temporality and social interaction. Simultaneously, as an avid chess player, he has won 3 State Chess Championships and other honors. He uses his deep understanding of chess to bring to light new perspectives in sociology, criminology, semiotics, phenomenology and dramaturgy.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461564,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-19",
+  "moment-de-modification": "2016-03-25-07-02-19",
+  "nom": "Michael W. Raphael",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-19-87534224382"
+  ],
+  "personne-nom-famille": "Raphael",
+  "personne-nom-prenom": "Michael W.",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-19-87534224382",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Michael W. Raphael"
+    ]
+  }
+}

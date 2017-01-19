@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216366",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Sénèque (en latin Lucius Annaeus Seneca), né dans l'actuelle Cordoue au sud de l'Espagne vers 4 av. J.-C. et mort le 12 avril 65 ap. J.-C., est un philosophe de l'école stoïcienne, un dramaturge et un homme d'État romain du ier siècle de l'ère chrétienne. Il est parfois nommé Sénèque le Philosophe, Sénèque le Tragique ou Sénèque le Jeune pour le distinguer de son père, Sénèque l'Ancien.<br>Conseiller à la cour impériale sous Caligula et précepteur de Néron, Sénèque joue un rôle important de conseiller auprès de ce dernier avant d'être discrédité et acculé au suicide. Ses traités philosophiques comme De la colère, Sur la vie heureuse (en latin, De Vita beata) ou De la brièveté de la vie (De Brevitate vitæ), et surtout ses Lettres à Lucilius exposent ses conceptions philosophiques stoïciennes : « Le souverain bien c'est une âme qui méprise les événements extérieurs et se réjouit par la vertu ». Ses tragédies constituent l'un des meilleurs exemples du théâtre tragique latin avec des œuvres qui nourriront le théâtre classique français du xviie siècle comme Médée, Œdipe ou Phèdre.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455551,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Sénèque",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216366"
+  ],
+  "personne-date-deces": "65",
+  "personne-date-naissance": "-4",
+  "personne-nom-famille": "Sénèque",
+  "personne-nom-prenom": "Lucius Annaeus",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216366",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Sénèque"
+    ]
+  }
+}

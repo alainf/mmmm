@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216318",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Maurice Polydore Marie Bernard Maeterlinck (/ma.tɛʁ.lɛ̃ːk/ en Belgique ; /mɛ.teʁ.lɛ̃ːk/ en France1), né le 29 août 1862 à Gand (Belgique) et décédé le 5 mai 1949 à Nice (France), est un écrivain francophone belge. Il reçut le prix Prix Nobel de littérature en 1911.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455529,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Maurice Maeterlinck",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216318"
+  ],
+  "personne-date-deces": "1949",
+  "personne-date-naissance": "terme-2015-12-06-16-25-27-86966227672",
+  "personne-nom-famille": "Maeterlinck",
+  "personne-nom-prenom": "Maurice",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216318",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Maurice Maeterlinck"
+    ]
+  }
+}

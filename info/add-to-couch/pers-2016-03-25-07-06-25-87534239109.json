@@ -1,0 +1,28 @@
+{
+  "_id": "pers-2016-03-25-07-06-25-87534239109",
+  "ajouter-aux-favoris": false,
+  "description": "Anthropologie de la nature (surtout en oasis) et anthropologie urbaine (espaces publics) -- Maghreb, Proche-Orient",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 78477,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-06-25",
+  "moment-de-modification": "2016-03-25-07-06-25",
+  "nom": "Vincent Battesti",
+  "nom-machine": "pers-2016-03-25-07-06-25-87534239109",
+  "personne-nom-famille": "Battesti",
+  "personne-nom-prenom": "Vincent",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-06-25-87534239109",
+  "sous-type": "pers",
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Vincent Battesti"
+    ]
+  }
+}

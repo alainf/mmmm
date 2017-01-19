@@ -1,0 +1,42 @@
+{
+  "_id": "pers-2016-03-25-06-59-22-87534213724",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-22",
+  "description": "Technicien en câblodistribution, frère d'Evelyne.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 3122,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-22",
+  "moment-de-modification": "2016-03-25-06-59-22",
+  "mots-clefs": [
+    "configuration",
+    "installation",
+    "réseaux câblés",
+    "Télévision"
+  ],
+  "nom": "Marc Follain",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-22-87534213724"
+  ],
+  "personne-nom-famille": "Follain",
+  "personne-nom-prenom": "Marc",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-22-87534213724",
+  "sous-type": "pers",
+  "tip": "Technicien en câblodistribution, frère d'Evelyne.",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Marc Follain"
+    ]
+  }
+}

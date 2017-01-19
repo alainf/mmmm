@@ -1,0 +1,46 @@
+{
+  "_id": "pers-2016-03-25-07-00-21-87534217312",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-21",
+  "description": "<p>L’École de Francfort est le nom donné, dans les années 1960, à un groupe d'intellectuels allemands réunis autour de l'Institut de Recherche sociale fondé en 1923 et soutenu par le mécène Felix Weil. Elle est actuellement dirigée par le philosophe Axel Honneth. Connue pour ses illustres chercheurs, parmi lesquels on compte notamment Theodor W. Adorno, Max Horkheimer, Herbert Marcuse et Walter Benjamin, son projet initial était d'accomplir une analyse critique des sciences sociales dans une perspective néo-marxiste. L'école de Francfort est notamment connue pour s'être penchée sur l'apparition de la culture de masse dans les sociétés modernes, dont elle développera une critique à l'aide du concept de l'« industrie culturelle ».</p><br><p>Cette école se penche sur les concepts de critique comme :</p><br><ul><br><li>au sens des <em>Lumières</em> : la raison pour décrypter les textes,</li><br><li>au sens de la philosophie idéaliste allemande : voir Kant (épistémologie),</li><br><li>au sens marxiste : il faut prendre conscience de la situation pour s'en libérer.</li><br></ul><br><p>A l'arrivée du parti nazi au pouvoir en 1933, l'Institut est fermé et ses membres sont contraints à l'exil. Adorno, Horkheimer et Marcuse partent aux États-Unis. Herbert Marcuse enseignera à Berkeley, en Californie. Après une escale à Genève, l'Institut est transféré à New York, où il restera jusqu'en 1950, date de son retour à Francfort. Jürgen Habermas, par un réinvestissement de la théorie critique, contribuera à fonder ce que l'on nommera la « Seconde génération de l'École de Francfort ».</p>",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4561,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-21",
+  "moment-de-modification": "2016-03-25-07-00-21",
+  "mots-clefs": [
+    "Allemand"
+  ],
+  "nom": "École de Francfort",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-21-87534217312"
+  ],
+  "personne-nom-famille": "Francfort",
+  "personne-nom-prenom": "École de",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-21-87534217312",
+  "sous-type": "pers",
+  "suggestion-relation": "4221,4343,4386,4242,4318,4339",
+  "sujet": [
+    "terme-2015-12-06-16-27-02-86966233348"
+  ],
+  "tip": "Groupe d'intellectuels allemands réunis autour de l'Institut de Recherche sociale ...",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234289"
+  ],
+  "nomLangues": {
+    "fr": [
+      "École de Francfort"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-06-58-44-87534211465",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-58-44",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 18705,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-58-44",
+  "moment-de-modification": "2016-03-25-06-58-44",
+  "nom": "Luc Mandret",
+  "nom-machine": [
+    "pers-2016-03-25-06-58-44-87534211465"
+  ],
+  "personne-nom-famille": "Mandret",
+  "personne-nom-prenom": "Luc",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-58-44-87534211465",
+  "sous-type": "pers",
+  "tip": "Fil RSS du blog politique de Luc Mandret",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234380",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Luc Mandret"
+    ]
+  }
+}

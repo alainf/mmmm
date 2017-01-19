@@ -1,0 +1,38 @@
+{
+  "_id": "pers-2016-03-25-07-05-00-87534234038",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-05-00",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 469800,
+  "identifiant-drupal-parent": 465853,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-05-00",
+  "moment-de-modification": "2016-03-25-07-05-00",
+  "nom": "Professor Andy Field's Posts",
+  "nom-machine": [
+    "pers-2016-03-25-07-05-00-87534234038"
+  ],
+  "personne-nom-famille": "Field",
+  "personne-nom-prenom": "Andy",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-05-00-87534234038",
+  "sous-type": "pers",
+  "tip": "Methodspace - home of the Research Methods community",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-19-86966234380"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Professor Andy Field's Posts"
+    ]
+  }
+}

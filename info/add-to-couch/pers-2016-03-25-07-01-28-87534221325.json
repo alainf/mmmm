@@ -1,0 +1,57 @@
+{
+  "_id": "pers-2016-03-25-07-01-28-87534221325",
+  "ajouter-aux-favoris": false,
+  "description": "Radio dédiée aux actualités dans le Pacifique et dans le monde et Une passerelle les communautés océaniennes anglophones et francophones du Pacifique.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 457940,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-49-86966174948",
+    "lieu-2015-12-06-16-12-25-86966180704"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-01-28",
+  "moment-de-modification": "2016-03-25-07-01-28",
+  "mots-clefs": [
+    "ABC",
+    "Australian Broadcasting Corporation",
+    "Caroline Lafargue",
+    "Pierre Riant",
+    "Robert Menzies"
+  ],
+  "nom": "Pierre Riant",
+  "nom-machine": [
+    "pers-2016-03-25-07-01-28-87534221325"
+  ],
+  "personne-nom-famille": "Riant",
+  "personne-nom-prenom": "Pierre ",
+  "section": [
+    "terme-2015-12-06-16-23-39-86966221142",
+    "terme-2015-12-06-16-23-41-86966221270",
+    "terme-2015-12-06-16-23-44-86966221497"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-01-28-87534221325",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-10-86966233857",
+    "terme-2015-12-06-16-27-14-86966234069"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Pierre Riant"
+    ]
+  }
+}

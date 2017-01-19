@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216294",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Juan del Encina (né à Encina de San Silvestre (Salamanque) en 1468 ou 1469 et mort en 1533) est un poète, musicien, compositeur et dramaturge espagnol ayant vécu à l'époque des Rois Catholiques.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455519,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Juan del Enzina",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216294"
+  ],
+  "personne-date-deces": "1533",
+  "personne-date-naissance": "terme-2015-12-06-16-26-29-86966231384",
+  "personne-nom-famille": "del Enzina",
+  "personne-nom-prenom": "Juan",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216294",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Juan del Enzina"
+    ]
+  }
+}

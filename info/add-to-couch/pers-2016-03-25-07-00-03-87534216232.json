@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216232",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Honoré de Balzac, né Honoré Balzac1,2,3 à Tours le 20 mai 1799 (1er prairial an VII) et mort à Paris le 18 août 1850, est un écrivain français. Tour à tour romancier, dramaturge, critique littéraire, critique d'art, essayiste, journaliste, imprimeur, il a laissé une œuvre romanesque qui compte parmi les plus imposantes de la littérature française, avec 91 romans et nouvelles parus (137 prévus) de 1829 à 1852.<br>Travailleur forcené, fragilisant par des excès sa santé déjà précaire (il mourra d'ailleurs prématurément à 51 ans), endetté par des investissements hasardeux, fuyant ses créanciers sous de faux noms dans différentes demeures, Balzac a vécu de nombreuses liaisons féminines avant d'épouser, en 1850, la comtesse Hańska qu'il avait courtisée pendant plus de dix-sept ans4,5,6.<br>Honoré de Balzac est un des maîtres incontestés du roman français dont il a abordé plusieurs genres : le roman historique / politique, avec Les Chouans, le roman philosophique avec le Le Chef-d'œuvre inconnu, le roman fantastique avec La Peau de chagrin, le roman poétique avec Le Lys dans la vallée. Mais ses romans réalistes et psychologiques les plus célèbres comme Le Père Goriot ou Eugénie Grandet, qui constituent une part très importante de son œuvre, ont induit, à tort7, une classification réductrice d'« auteur réaliste»8.<br>Les études balzaciennes récentes soulignent au contraire le romantisme de Balzac et la poétique de ses romans, notamment dans Lys dans la vallée, ainsi que l'inspiration fantastique, voire mystique, qui imprègne nombre de ses romans ou nouvelles, et qui, selon Jacques Martineau, « ne disparaît jamais totalement de la Comédie humaine depuis La Peau de chagrin et La Messe de l'athée jusqu'à Louis Lambert »9,10.<br>Balzac a organisé ses œuvres en un vaste ensemble, La Comédie humaine, dont le titre est une référence à la Divine Comédie de Dante11. Son projet est d'explorer les différentes classes sociales et les individus qui les composent. Il entend « faire concurrence à l'état civil » selon la formule qu'il emploie dans l'Avant-propos de la Comédie humaine12.<br>Il a réuni ses textes dans des ensembles génériques : Études de mœurs, Études analytiques, Études philosophiques. Il attachait une énorme importance aux Études philosophiques qui permettent de comprendre l'ensemble de son œuvre13. La Peau de chagrin représentait selon ses propres termes « la clé de voûte qui relie les études de mœurs aux études philosophiques par l'anneau d’une fantaisie presque orientale où la vie elle-même est prise avec le Désir, principe de toute passion14. »<br>Honoré de Balzac a brossé un vaste tableau de la société de son temps créant des archétypes comme celui du jeune provincial ambitieux à la conquête de Paris Eugène de Rastignac, de l'avare tyran domestique : Félix Grandet, l'icône du père : Jean-Joachim Goriot, ce « Christ de la paternité15», ou le bagnard reconverti en policier : Vautrin.<br>Il a influencé directement des auteurs comme Gustave Flaubert dont le roman L'Éducation sentimentale est directement inspiré du Lys dans la vallée, et Madame Bovary, de La Femme de trente ans16. Le cycle romanesque de La Comédie humaine et le principe des personnages reparaissant ont également influencé de nombreux auteurs de son siècle et du siècle suivant, notamment Émile Zola, pour le cycle des Rougon-Macquart, et plus tard, Marcel Proust17 à propos duquel Georges Cattaui écrit : « Ce sont les fameux « monomanes » de Balzac que nous revoyons, en effet, dans les grands passionnés de Proust 18,19. »<br>On continue de réimprimer les œuvres de Balzac, y compris ses œuvres de jeunesse. Ses romans sont encore une source inépuisable pour le cinéma qui a adapté dès 1906 La Marâtre, et qui ne cesse depuis de porter ses romans à l'écran, environ une centaine de films et téléfilms dans de nombreux pays.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455494,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Honoré de Balzac",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216232"
+  ],
+  "personne-date-deces": "1850",
+  "personne-date-naissance": "terme-2015-12-06-16-25-22-86966227358",
+  "personne-nom-famille": "de Balzac",
+  "personne-nom-prenom": "Honoré",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216232",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Honoré de Balzac"
+    ]
+  }
+}

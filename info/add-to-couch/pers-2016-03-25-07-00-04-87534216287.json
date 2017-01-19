@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216287",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "John Fletcher (1579-1625), auteur dramatique et dramaturge anglais, fils de Richard Fletcher.<br>Il fut destiné au barreau, mais renonça à cette carrière pour les lettres, se lia avec le poète Francis Beaumont, et donna en société avec lui plus de 50 pièces, tragédies et comédies. Il survécut à son ami, mort en 1615, et fit seul quelques nouvelles pièces. Il mourut de la peste en 1625.<br>Autant qu'il est possible de distinguer les ouvrages des deux amis, le Dictionnaire Bouillet estime au xixe siècle davantage les comédies de Fletcher : elles brillent par l'esprit, la vivacité et la fidélité des peintures de mœurs. Les meilleures pour lui sont : le Fat, le Capitaine, le Voyage des amants, l'Ennemi des femmes.<br>Contemporains de Shakespeare, Beaumont et Fletcher eurent de leur temps plus de vogue que ce grand poète. Il composa une tragi-comédie pastorale, The Faithful Shepherdess, et collabora avec Shakespeare pour Les Deux Nobles Cousins, et peut-être pour Henri VIII.<br>L'édition la plus complète de leurs œuvres est celle de Dyce, Londres, 1844, 11 volumes in-8. Elles ont été traduites dans les Chefs-d'œuvre des Maîtres étrangers, 1813 et séparément par Ernest Lafond, 1864.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455516,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "John Fletcher",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216287"
+  ],
+  "personne-date-deces": "1625",
+  "personne-date-naissance": "1579",
+  "personne-nom-famille": "Fletcher",
+  "personne-nom-prenom": "John",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216287",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "John Fletcher"
+    ]
+  }
+}

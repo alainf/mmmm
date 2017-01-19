@@ -1,0 +1,98 @@
+{
+  "_id": "pers-2016-01-14-00-13-33-Robert",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-01-14",
+  "description": "Description de Robert Ducharme",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 1,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-16-09-86966194142"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-01-14-00-13-33",
+  "moment-de-modification": "2016-01-14-04-15-51",
+  "mots-clefs": [
+    "programmeur"
+  ],
+  "nom": "Robert Ducharme",
+  "nom-autres-langues": [
+    "Robert Ducharme en une autre langue."
+  ],
+  "nom-machine": "pers-2016-01-14-00-13-33-Robert",
+  "personne": [
+    "Alain Farmer"
+  ],
+  "personne-concernee": [
+    "pers-2016-01-14-00-13-33-Robert"
+  ],
+  "personne-courriel": "rducharme735@gmail.com",
+  "personne-nom-famille": "Ducharme",
+  "personne-nom-prenom": "Robert",
+  "personne-role": [
+    "terme-2015-12-06-16-23-28-86966220528",
+    "terme-2015-12-06-16-23-29-86966220544",
+    "terme-2015-12-06-16-23-29-86966220553",
+    "terme-2015-12-06-16-23-29-86966220559",
+    "terme-2015-12-06-16-23-30-86966220611"
+  ],
+  "personne-wikipedia": "https://fr.wikipedia.org/wiki/Robert_Ducharme",
+  "sigle": "RD",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": true,
+  "source-fichier": "file:///example.html",
+  "source-langue-anglais": [
+    "http://www.personnes.bidon/Ducharme/Robert/?lang=en"
+  ],
+  "source-langue-arabe": [
+    "http://www.personnes.bidon/Ducharme/Robert/?lang=ar"
+  ],
+  "source-langue-espagnol": [
+    "http://www.personnes.bidon/Ducharme/Robert/?lang=es"
+  ],
+  "source-langue-francais": [
+    "http://www.personnes.bidon/Ducharme/Robert/?lang=fr"
+  ],
+  "source-langue-italien": [
+    "http://www.personnes.bidon/Ducharme/Robert/?lang=it"
+  ],
+  "source-langue-russe": [
+    "http://www.personnes.bidon/Ducharme/Robert/?lang=ru"
+  ],
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-01-14-00-13-33-Robert",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-43-86966225029",
+    "terme-2015-12-06-16-25-02-86966226145",
+    "terme-2015-12-06-16-25-02-86966226157",
+    "terme-2015-12-06-16-25-04-86966226256",
+    "terme-2015-12-06-16-26-48-86966232494"
+  ],
+  "tip": "Aperçu de Robert Ducharme.",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "en": [
+      "Robert Ducharme"
+    ],
+    "ar": [
+      "Robert Ducharme en arabe"
+    ],
+    "es": [
+      "Robert Ducharme en espagnol"
+    ],
+    "fr": [
+      "Robert Ducharme"
+    ],
+    "it": [
+      "Robert Ducharme en italien"
+    ],
+    "ru": [
+      "Robert Ducharme en russe"
+    ]
+  }
+}

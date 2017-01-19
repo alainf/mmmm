@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216206",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Georges Courteline, nom de plume de Georges Victor Marcel Moinaux ou Moineau1, est un romancier et dramaturge français, né le 25 juin 1858 à Tours, mort le 25 juin 1929 à Paris.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455483,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Georges Courteline",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216206"
+  ],
+  "personne-date-deces": "1929",
+  "personne-date-naissance": "terme-2015-12-06-16-25-28-86966227680",
+  "personne-nom-famille": "Courteline",
+  "personne-nom-prenom": "Georges",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216206",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Georges Courteline"
+    ]
+  }
+}

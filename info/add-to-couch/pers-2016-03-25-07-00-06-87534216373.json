@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216373",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Térence (en latin Publius Terentius Afer), né à Carthage vers -190 et mort en -159, est un poète comique latin d'origine berbère.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455554,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Térence",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216373"
+  ],
+  "personne-date-deces": "-159",
+  "personne-date-naissance": "-190",
+  "personne-nom-famille": "Térence",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216373",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Térence"
+    ]
+  }
+}

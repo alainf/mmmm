@@ -1,0 +1,30 @@
+{
+  "_id": "pers-2016-03-06-01-09-56-87434675809",
+  "ajouter-aux-favoris": false,
+  "description": "Christopher Hill is a historian.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-06-01-09-56",
+  "moment-de-modification": "2016-03-17-03-16-53",
+  "nom": "Christopher Hill",
+  "nom-machine": "pers-2016-03-06-01-09-56-87434675809",
+  "personne-nom-famille": "Hill",
+  "personne-nom-prenom": "Christopher",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-06-01-09-56-87434675809",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Christopher Hill"
+    ]
+  }
+}

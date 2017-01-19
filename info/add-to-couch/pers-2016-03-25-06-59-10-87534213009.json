@@ -1,0 +1,51 @@
+{
+  "_id": "pers-2016-03-25-06-59-10-87534213009",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-10",
+  "description": "Cornelius CASTORIADIS<br>(1922-1997)<br>Né à Constantinople en 1922, arrivé en France en 1945 pour y faire une thèse de philosophie, puis installé dans ce pays où il écrira toute son œuvre en français, Castoriadis a marqué son époque à deux titres. Sur le plan politique d’abord : il fut le co-fondateur et l’animateur principal, de 1949 à 1965, d’un groupe et d’une revue, Socialisme ou barbarie (issus d’une dissidence avec le mouvement trotskyste, ils s’en éloigneront au point de rompre avec le marxisme lui-même) qui ont compté dans la vie politique et intellectuelle, en France et ailleurs, exerçant une influence considérable, d’abord souterraine, puis ouverte à partir de 1968. Sur le plan philosophique, plus tard, par une activité multiforme, à la croisée de plusieurs domaines : philosophie de l’histoire, épistémologie, psychanalyse, économie… Cette recherche philosophique, dont Castoriadis avait fait très tôt sa raison de vivre, remonte au tout début de ses années d’études en Grèce ; mais elle n’est devenue publique qu’assez tard, à partir de 1970, lorsque, après un quart de siècle de séjour en France, il put, ayant été naturalisé, publier sous son nom.<br>Mais entre le militant révolutionnaire et le philosophe, il n’y a pas de coupure ; nous trouvons, au contraire, une continuité profonde. Elle est dans le mouvement d’une pensée qui se veut « interrogation perpétuelle, remise en cause radicale des significations héritées, dans la perspective de l’autonomie individuelle et collective » (comme l’écrit Nicolas Poirier dans son excellente présentation, Castoriadis. L’imaginaire radical, Paris, P.U.F., 2004). Cette réflexion, qui donnera lieu, de 1981 à 1995, à un enseignement à l’ Ecole des Hautes Etudes en Sciences Sociales (EHESS), s’est nourrie, outre l’activité militante, de deux pratiques professionnelles : l’économie (Castoriadis a travaillé comme expert à l’OCDE de 1945 à 1970) et la psychanalyse (qu’il a pratiquée de 1973 à sa mort).<br>Castoriadis tenait à la Grèce par des liens affectifs et intellectuels très forts, qui n’ont cependant jamais limité son esprit critique. Ce qui devait prévaloir à ses yeux, c’était en effet l’idée d’universalité, née dans la Grèce ancienne avec la création conjointe de la démocratie et de la philosophie ; on peut dire qu’il a consacré sa vie à la défendre et à l’élucider.<br>Son livre fondamental, L’Institution imaginaire de la société (1975), et la série qui l’a suivi, intitulée « Les Carrefours du labyrinthe » (6 volumes parus à partir de 1979), sont publiés aux éditions du Seuil, ainsi que le texte des séminaires donnés à l’EHESS (3 volumes parus).<br>Pour une première approche, très vivante et d’accès facile, on pourra lire, aux éditions de l’Aube, le texte d’un entretien radiophonique de Castoriadis avec Daniel Mermet, Post-scriptum sur l’insignifiance.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271727,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-10",
+  "moment-de-modification": "2016-03-25-06-59-10",
+  "mots-clefs": [
+    "économie",
+    "démocratie",
+    "Epistémologie",
+    "Marxisme",
+    "philosophie",
+    "Psychanalyse",
+    "Socialisme",
+    "trotskysme"
+  ],
+  "nom": "Cornelius Castoriadis",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-10-87534213009"
+  ],
+  "personne-date-deces": "1997",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227848",
+  "personne-nom-famille": "Castoriadis",
+  "personne-nom-prenom": "Cornelius",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-10-87534213009",
+  "sous-type": "pers",
+  "tip": "Philosophe,militant socialiste,politique, chercheur en psychanalyse, économie, épistémologie",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Cornelius Castoriadis"
+    ]
+  }
+}

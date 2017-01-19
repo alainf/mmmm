@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216387",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Vittorio Alfieri est un poète, dramaturge et philosophe italien. Il est né le 16 janvier 1749 à Asti (Piémont) et mort le 8 octobre 1803 à Florence. Il a été fortement influencé par la culture classique et l'esprit romantique.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455561,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Vittorio Alfieri",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216387"
+  ],
+  "personne-date-deces": "1803",
+  "personne-date-naissance": "terme-2015-12-06-16-23-43-86966221416",
+  "personne-nom-famille": "Alfieri",
+  "personne-nom-prenom": "Vittorio",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216387",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Vittorio Alfieri"
+    ]
+  }
+}

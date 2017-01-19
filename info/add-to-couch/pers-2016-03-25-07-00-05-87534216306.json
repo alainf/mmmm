@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216306",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Marcel Pagnol est un écrivain, dramaturge et cinéaste français, né le 28 février 1895 à Aubagne (Bouches-du-Rhône), mort le 18 avril 1974 à Paris.<br>Marcel Pagnol devient célèbre avec Marius, pièce représentée au théâtre en mars 1929. Il fonde à Marseille en 1934 sa propre société de production et ses studios de cinéma, et réalise de nombreux films avec les grands acteurs du moment (en particulier Raimu, Fernandel, Pierre Fresnay ou Louis Jouvet) : Angèle (1934), Regain (1937), La Femme du boulanger (1938)…<br>Élu à l'Académie française en 1946, il abandonne le cinéma et le théâtre, et commence la rédaction de ses Souvenirs d'enfance avec notamment La Gloire de mon père et Le Château de ma mère. Il publie enfin, en 1962, L'Eau des collines, roman en deux tomes : Jean de Florette et Manon des Sources, près de dix ans après son film Manon des sources avec sa femme Jacqueline Pagnol.<br>Honoré et célèbre, Marcel Pagnol meurt à Paris en 1974, à l'âge de 79 ans.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455524,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Marcel Pagnol",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216306"
+  ],
+  "personne-date-deces": "1974",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227803",
+  "personne-nom-famille": "Pagnol",
+  "personne-nom-prenom": "Marcel",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216306",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Marcel Pagnol"
+    ]
+  }
+}

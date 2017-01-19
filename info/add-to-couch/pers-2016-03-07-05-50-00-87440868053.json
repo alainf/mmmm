@@ -1,0 +1,52 @@
+{
+  "_id": "pers-2016-03-07-05-50-00-87440868053",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463568,
+  "importance": 0,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-16-08-86966194089",
+    "lieu-2015-12-06-16-16-10-86966194201",
+    "lieu-2015-12-06-16-16-11-86966194279",
+    "lieu-2015-12-06-16-16-27-86966195263",
+    "lieu-2015-12-06-16-16-27-86966195277"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-07-05-50-00",
+  "moment-de-modification": "2016-03-07-05-55-02",
+  "nom": "Erik Olin Wright",
+  "nom-machine": [
+    "pers-2016-03-07-05-50-00-87440868053"
+  ],
+  "personne-nom-famille": "Wright ",
+  "personne-nom-prenom": "Erik Olin",
+  "personne-role": [
+    "terme-2015-12-06-16-23-28-86966220508<br>terme-2015-12-06-16-23-29-86966220547<br>terme-2015-12-06-16-23-30-86966220620"
+  ],
+  "personne-wikipedia": "https://fr.wikipedia.org/wiki/Erik_Olin_Wright",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-07-05-50-00-87440868053",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-26-25-86966231110",
+    "terme-2015-12-06-16-26-48-86966232506",
+    "terme-2015-12-06-16-26-55-86966232909",
+    "terme-2015-12-06-16-26-59-86966233192",
+    "terme-2015-12-06-16-27-04-86966233476"
+  ],
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Erik Olin Wright"
+    ]
+  }
+}

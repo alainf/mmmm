@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-02-49-87534226186",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-49",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463374,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-14",
+  "moment-de-creation": "2016-03-25-07-02-49",
+  "moment-de-modification": "2016-03-25-07-02-49",
+  "nom": "Saskia Sassen",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-49-87534226186"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227937",
+  "personne-nom-famille": "Sassen ",
+  "personne-nom-prenom": "Saskia",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-49-87534226186",
+  "sous-type": "pers",
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Saskia Sassen"
+    ]
+  }
+}

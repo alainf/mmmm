@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216164",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Dario Fo (né le 24 mars 1926 à Sangiano, près de Varèse, en Lombardie, Italie) est un écrivain italien, dramaturge, metteur en scène et acteur, ce qui en fait un « homme de théâtre complet. »<br>Connu pour ses engagements politiques, Dario Fo est l'un des dramaturges italiens les plus représentés dans le monde avec Goldoni.<br>Dario Fo a une admiration sans bornes pour un dramaturge vénitien du xvie siècle, Angelo Beolco, dit Ruzzante, qu'il considère comme son « plus grand maître avec Molière. » Dans le discours pour la réception du prix Nobel de littérature qu'il prononça à Stockholm en 1997, il rendit un hommage appuyé à « un extraordinaire homme de théâtre de ma terre, peu connu ... même en Italie. Mais qui est sans aucun doute le plus grand auteur de théâtre que l'Europe ait connu pendant la Renaissance avant l'arrivée de Shakespeare1. » Il insista sur la qualité du théâtre de Ruzzante, qu'il considère comme « le vrai père de la Commedia dell'arte, qui inventa un langage original, un langage de et pour le théâtre, basé sur une variété de langues : les dialectes de la Vallée du Pô, des expressions en latin, en espagnol, même en allemand, le tout mélangé avec des onomatopées de sa propre invention1. »",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455464,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Dario Fo",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216164"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227840",
+  "personne-nom-famille": "Fo",
+  "personne-nom-prenom": "Dario",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216164",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Dario Fo"
+    ]
+  }
+}

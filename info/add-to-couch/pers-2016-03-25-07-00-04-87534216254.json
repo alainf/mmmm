@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216254",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jean-Luc Lagarce (né le 14 février 1957 – décédé le 30 septembre 1995) est un homme de théâtre : comédien, metteur en scène, directeur de troupe et écrivain dramatique. C'est aujourd'hui l'auteur contemporain le plus joué en France, et globalement l'auteur le plus joué après Shakespeare et Molière, mais avant Racine et Tchekhov1. La simplicité de ses mots, la profondeur de sa pensée et l'originalité de sa syntaxe font de lui un écrivain classique contemporain. Ses textes font l'objet de multiples traductions et sont joués dans de nombreux pays.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455503,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean-Luc Lagarce",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216254"
+  ],
+  "personne-date-deces": "1995",
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227964",
+  "personne-nom-famille": "Lagarce",
+  "personne-nom-prenom": "Jean-Luc",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216254",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean-Luc Lagarce"
+    ]
+  }
+}

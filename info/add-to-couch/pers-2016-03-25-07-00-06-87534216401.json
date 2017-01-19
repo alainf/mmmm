@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216401",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Witold Gombrowicz (4 août 1904, Małoszyce, près de Kielce, Pologne - 24 juillet 1969, Vence, près de Nice, France) est un écrivain polonais. Il est aujourd'hui reconnu comme l'un des plus grands auteurs du XXe siècle et a influencé de nombreux écrivains, tels que Milan Kundera.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455566,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Witold Gombrowicz",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216401"
+  ],
+  "personne-date-deces": "1969",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227777",
+  "personne-nom-famille": "Gombrowicz",
+  "personne-nom-prenom": "Witold",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216401",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Witold Gombrowicz"
+    ]
+  }
+}

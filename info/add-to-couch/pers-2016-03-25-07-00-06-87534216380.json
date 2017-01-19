@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216380",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Václav Havel (IPA : /ˈva:ʦlaf ˈɦavɛl/) (né le 5 octobre 1936 à Prague) est un écrivain, intellectuel et homme politique tchécoslovaque puis tchèque. Durant la période communiste, il a été l'une des figures de l'opposition à la République socialiste tchécoslovaque. Il a ensuite été le président de la République fédérale tchèque et slovaque de 1989 à 1992 puis le président de la République tchèque de 1993 à 2003. Politicien atypique, généralement estimé comme une « personnalité extraordinaire » dans son pays, souvent appelé le « président-philosophe », sa vie a été qualifiée d'« œuvre d'art» par Milan Kundera.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455557,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Václav Havel",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216380"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227885",
+  "personne-nom-famille": "Havel",
+  "personne-nom-prenom": "Václav",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216380",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Václav Havel"
+    ]
+  }
+}

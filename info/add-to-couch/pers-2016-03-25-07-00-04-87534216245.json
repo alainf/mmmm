@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216245",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Hippolyte Jean GiraudouxN 1 est un écrivain1 et un diplomate français, né le 29 octobre 1882 à Bellac en Haute-Vienne et mort le 31 janvier 1944 à Paris.<br>Brillant étudiant et soldat décoré pendant la Première Guerre mondiale, il occupe des fonctions diplomatiques et administratives tout en écrivant des romans (Suzanne et le Pacifique en 1921, Siegfried et le Limousin en 1922) avant de se diriger vers le théâtre après sa rencontre avec le comédien Louis Jouvet qui mettra en scène et interprétera ses œuvres principales.<br>Il est aujourd'hui surtout connu pour son théâtre qui compte des pièces célèbres comme Amphitryon 38 (1929), La guerre de Troie n'aura pas lieu (1935), Électre (1937) ou Ondine (1939) ou La Folle de Chaillot jouée en 1945 après sa mort. Jean Giraudoux a participé comme d'autres dramaturges des années 1930-1940 (Cocteau, Sartre, Camus par exemple) à la réécriture des mythes antiques éclairés par les mentalités modernes. Il a su allier fantaisie poétique et goût pour les images insolites et également associer le tragique et le léger dans une langue élégante et fine, parfois même poétique comme dans Intermezzo ou Ondine.<br>Germanophile et diplomate de carrière, il est Commissaire général à l'information en 1939-1940 et sa situation pendant l'Occupation est complexe et son rôle contrasté.<br>Jean Giraudoux meurt à Paris le 31 janvier 1944, à l'âge de soixante et un ans, à la suite d'un empoisonnement alimentaire ou d'une inflammation du pancréas.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455499,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean Giraudoux",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216245"
+  ],
+  "personne-date-deces": "1944",
+  "personne-date-naissance": "1882",
+  "personne-nom-famille": "Giraudoux",
+  "personne-nom-prenom": "Jean",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216245",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean Giraudoux"
+    ]
+  }
+}

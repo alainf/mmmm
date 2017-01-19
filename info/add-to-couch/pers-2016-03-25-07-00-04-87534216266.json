@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216266",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jean-Paul Sartre est un philosophe et écrivain français (dramaturge, romancier et nouvelliste), né le 21 juin 1905 à Paris et mort le 15 avril 1980 à Paris. Sa vie d'intellectuel révolutionnaire a suscité polémiques et réticences. Prolifique et hyperactif, il est autant connu pour son œuvre, et notamment ses paradigmes philosophiques que l'on regroupe sous le nom d'existentialisme, que pour son engagement politique à gauche1. Sartre est connu aussi comme le compagnon de la philosophe Simone de Beauvoir. Leurs philosophies, bien que très proches, ne sauraient être confondues ; les deux auteurs se sont influencés réciproquement.<br>L'œuvre de Jean-Paul Sartre est riche d'essais et de textes philosophiques majeurs comme L'Être et le Néant (1943) ou L'existentialisme est un humanisme (1945), mais aussi de textes littéraires avec son recueil de nouvelles publié en 1939 Le Mur ou ses romans : La Nausée (1938) et Les Chemins de la liberté (1945). Son théâtre avec des pièces – par exemple Les Mouches (1943), Huis clos (1944) ou Les Mains sales (1948) - constitue une part importante de son activité littéraire entre drame social et réflexion existentialiste, par exemple \"Les mouches\"(1943),\"Huis clos\"(1944),\"La p...respectueuse\"(1946), \"Le diable et le bon Dieu\"(1951), \"Les séquestrés d'Altona\"(1959). Dans une période plus tardive, il publie aussi en 1964 un texte autobiographique remarqué Les Mots qui porte sur les onze premières années de sa vie, ainsi qu'une vaste étude sur Gustave Flaubert (L'Idiot de la famille, 1970-1971).<br>Intransigeant et fidèle à lui-même et à ses idées, il a toujours rejeté les honneurs (à l'exception toutefois du titre de Docteur Honoris Causa de l'Université de Jérusalem en 1976). Il a notamment refusé le prix Nobel de littérature 1964.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455508,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean-Paul Sartre",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216266"
+  ],
+  "personne-date-deces": "1980",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227779",
+  "personne-nom-famille": "Sartre",
+  "personne-nom-prenom": "Jean-Paul",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216266",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean-Paul Sartre"
+    ]
+  }
+}

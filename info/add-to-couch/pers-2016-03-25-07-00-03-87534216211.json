@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216211",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Georges Feydeau, né à Paris le 8 décembre 1862 et mort à Rueil-Malmaison le 5 juin 1921, est un auteur dramatique français, connu pour ses très nombreux vaudevilles.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455485,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Georges Feydeau",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216211"
+  ],
+  "personne-date-deces": "1921",
+  "personne-date-naissance": "terme-2015-12-06-16-25-27-86966227672",
+  "personne-nom-famille": "Feydeau",
+  "personne-nom-prenom": "Georges",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216211",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Georges Feydeau"
+    ]
+  }
+}

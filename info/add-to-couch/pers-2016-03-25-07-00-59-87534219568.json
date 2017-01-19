@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-00-59-87534219568",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-59",
+  "description": "Catherine REMY - Sociologue, Chargé de recherche CNRS - Catherine Rémy est chargée de recherches au CNRS. Ses travaux portent sur l’évolution des concepts de nature et de culture à travers la question du rapport des hommes aux animaux (thèse soutenue en 2005), sur les controverses socio-techniques relatives aux innovations biomédicales, mais aussi sur la pratique de l’ethnographie comme méthode d’enquête...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 457175,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-00-59",
+  "moment-de-modification": "2016-03-25-07-00-59",
+  "nom": "Catherine REMY",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-59-87534219568"
+  ],
+  "personne-nom-famille": "REMY",
+  "personne-nom-prenom": "Catherine",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-59-87534219568",
+  "sous-type": "pers",
+  "tip": "Sociologue, Chargé de recherche CNRS",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Catherine REMY"
+    ]
+  }
+}

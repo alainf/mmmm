@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216390",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "François Marie Arouet, dit Voltaire, né le 21 novembre 1694 à Paris où il est mort le 30 mai 1778, est un écrivain et philosophe qui a marqué le xviiie siècle et qui occupe une place particulière dans la mémoire collective française. Il esquisse en effet la figure de l’intellectuel engagé au service de la vérité, de la justice et de la liberté de penser.<br>Symbole des Lumières, chef de file du parti philosophique, son nom reste attaché à son combat contre « l’infâme », nom qu’il donne au fanatisme religieux, et pour le progrès et la tolérance. Il est cependant déiste et son idéal reste celui d’une monarchie modérée et libérale, éclairée par les « philosophes ». Il agit d’ailleurs auprès des élites éclairées de l’Europe des Lumières en se servant de son immense notoriété et prend, seul, la défense des victimes de l’intolérance religieuse et de l’arbitraire dans des affaires qu’il a rendues célèbres (Calas, Sirven, chevalier de La Barre, comte de Lally).<br>De son imposante œuvre littéraire, on lit aujourd’hui essentiellement ses écrits « philosophiques » en prose : contes et romans, Lettres philosophiques, Dictionnaire philosophique et sa correspondance. Son théâtre, ses poésies épiques, ses œuvres historiques, qui firent de lui l’un des écrivains français les plus célèbres au xviiie siècle, sont aujourd’hui largement négligées ou ignorées. La réputation de Voltaire tient aussi à son style, marqué par l’élégance et la précision, et souvent au service d’une ironie mordante.<br>Tout au long de sa vie, Voltaire fréquente les Grands et courtise les monarques, sans dissimuler son dédain pour le peuple, mais il est aussi en butte aux interventions du pouvoir qui l’embastille et le contraint à l’exil en Angleterre ou à l’écart de Paris. En 1749, après la mort d’Émilie du Châtelet avec laquelle il a entretenu une liaison houleuse de quinze ans, il part pour la cour de Prusse mais, déçu dans ses espoirs de jouer un grand rôle auprès de Frédéric II à Berlin, se brouille avec lui après trois ans et quitte Berlin en 1753. Il se réfugie un peu plus tard aux Délices, près de Genève, avant d’acquérir en 1759 un domaine à Ferney, sur la frontière franco-genevoise, à l’abri des puissants. Il mettra en valeur son domaine et fera de Ferney un centre de culture réputé dans toute l’Europe. Il ne reviendra à Paris qu’en 1778, ovationné par le peuple. Il y meurt à 83 ans.<br>Chantre du « bon temps (de) ce siècle de fer ! » dans Le Mondain, Voltaire aime le luxe, les plaisirs de la table et de la conversation, qu’il considère, avec le théâtre, comme l’une des formes les plus achevées de la vie en société. Soucieux de son aisance matérielle qui garantit sa liberté et son indépendance, il acquiert une fortune considérable dans des opérations spéculatives ce qui lui permettra de s’installer en 1759 au château de Ferney entouré d’une cour de beaux esprits. Il est néanmoins chicanier et parfois féroce avec ses adversaires comme Jean-Jacques Rousseau.<br>Considéré par la Révolution française - avec Jean-Jacques Rousseau, son adversaire - comme un précurseur (il entre au Panthéon en 1791, le deuxième, après Mirabeau), célébré par la IIIe République (dès 1870 à Paris un boulevard et une place portent son nom, puis un quai, une rue, un lycée, une station de métro…), il a nourri au xixe siècle les passions antagonistes des adversaires et des défenseurs de la laïcité de l’État et de l’école publique, et au-delà de l’esprit des Lumières.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455562,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Voltaire",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216390"
+  ],
+  "personne-date-deces": "1778",
+  "personne-date-naissance": "terme-2015-12-06-16-23-37-86966221048",
+  "personne-nom-famille": "Arouet (Voltaire)",
+  "personne-nom-prenom": "François Marie",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216390",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Voltaire"
+    ]
+  }
+}

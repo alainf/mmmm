@@ -1,0 +1,61 @@
+{
+  "_id": "pers-2016-03-25-06-58-53-87534212006",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-58-53",
+  "description": "Marc-André Lussier<br>Journaliste à La Presse depuis 1995, Marc-André Lussier est fou de cinéma. Depuis son adolescence, il se tape quelques centaines de films par an, affichant sans honte son éclectisme. Aussi entiché de bon cinéma populaire que d’oeuvres un peu plus pointues, notre blogueur s’est d’abord fait connaître à la radio dans les années 90 pour ensuite se consacrer principalement à l’écrit. Son but est toujours le même: communiquer la passion du 7e art.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 222634,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-58-53",
+  "moment-de-modification": "2016-03-25-06-58-53",
+  "mots-clefs": [
+    "analyse",
+    "Cinéma",
+    "critique",
+    "films",
+    "la presse",
+    "Marc-André Lussier",
+    "Montréal"
+  ],
+  "nom": "Marc-André Lussier",
+  "nom-machine": [
+    "pers-2016-03-25-06-58-53-87534212006"
+  ],
+  "periodicite": [
+    "quotidienne",
+    "terme-2015-12-06-16-23-28-86966220485"
+  ],
+  "personne-nom-famille": "Lussier",
+  "personne-nom-prenom": "Marc-André",
+  "section": [
+    "terme-2015-12-06-16-23-38-86966221081"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-58-53-87534212006",
+  "sous-type": "pers",
+  "tip": "Blogue du critique de cinéma de La Presse, quotidien de Montréal",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-15-86966234132",
+    "terme-2015-12-06-16-27-15-86966234147"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Marc-André Lussier"
+    ]
+  }
+}

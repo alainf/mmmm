@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216225",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Heinrich von Kleist (Francfort-sur-l'Oder le 18 octobre 1777 – Berlin, Wannsee, le 21 novembre 1811) est un écrivain allemand.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455491,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Heinrich von Kleist",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216225"
+  ],
+  "personne-date-deces": "1811",
+  "personne-date-naissance": "terme-2015-12-06-16-25-20-86966227212",
+  "personne-nom-famille": "von Kleist",
+  "personne-nom-prenom": "Heinrich",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216225",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Heinrich von Kleist"
+    ]
+  }
+}

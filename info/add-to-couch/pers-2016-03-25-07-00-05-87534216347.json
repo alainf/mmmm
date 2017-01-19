@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216347",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Pierre Laville, né en 1937 à Saint-Vincent-Rive-d'Olt, dans le Lot, est un écrivain, dramaturge et metteur en scène français.<br>Né dans une famille d'enseignants, Pierre Laville a d'abord fait ses études secondaires au lycée Gambetta à Cahors, puis des études de droit à l'université de Toulouse qui le conduisent aux doctorats de droit et de sciences politiques. À son arrivée à Paris (comme professeur de droit à l'École pratique des hautes études, en Sorbonne, auprès de Henri Desroche)il fait la connaissance de Jean-Marie Serreau, de Marie Bell, qui dirige alors le Théâtre du Gymnase. Il collabore avec le cinéaste Guy Gilles et Jacques Bouzerand, pour le tournage du film Mélancholia, produit par François Reichenbach et participe plus tard à La Noire de..., film du Sénégalais Sembène Ousmane.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455542,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Pierre Laville",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216347"
+  ],
+  "personne-date-naissance": "1937",
+  "personne-nom-famille": "Laville",
+  "personne-nom-prenom": "Pierre",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216347",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Pierre Laville"
+    ]
+  }
+}

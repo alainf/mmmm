@@ -1,0 +1,47 @@
+{
+  "_id": "pers-2016-03-25-06-59-34-87534214491",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-34",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4253,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-34",
+  "moment-de-modification": "2016-03-25-06-59-34",
+  "nom": "Pierre Bourdieu",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-34-87534214491"
+  ],
+  "personne-date-deces": "2002",
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227877",
+  "personne-nom-famille": "Bourdieu",
+  "personne-nom-prenom": "Pierre",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-34-87534214491",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-46-86966225176",
+    "terme-2015-12-06-16-24-46-86966225196",
+    "terme-2015-12-06-16-25-57-86966229444",
+    "terme-2015-12-06-16-27-03-86966233428",
+    "terme-2015-12-06-16-27-06-86966233607"
+  ],
+  "tip": "Fils-RSS de Pierre Bourdieu.",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Pierre Bourdieu"
+    ]
+  }
+}

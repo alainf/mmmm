@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216124",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Alfred Jarry, né à Laval (Mayenne) le 8 septembre 1873 et mort à Paris le 1er novembre 1907, est un poète, romancier et dramaturge français.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455445,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Alfred Jarry",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216124"
+  ],
+  "personne-date-deces": "1907",
+  "personne-date-naissance": "terme-2015-12-06-16-25-28-86966227706",
+  "personne-nom-famille": "Jarry",
+  "personne-nom-prenom": "Alfred",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216124",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Alfred Jarry"
+    ]
+  }
+}

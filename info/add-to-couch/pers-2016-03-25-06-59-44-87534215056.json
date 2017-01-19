@@ -1,0 +1,42 @@
+{
+  "_id": "pers-2016-03-25-06-59-44-87534215056",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-44",
+  "description": "Professeur en science politique, UdS<br>Membre de l'Institut Universitaire de France<br>Professor of Political Science, IEP Strasbourg, Institut Universitaire de France",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451044,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-06-59-44",
+  "moment-de-modification": "2016-03-25-06-59-44",
+  "mots-clefs": [
+    "sociologie politique"
+  ],
+  "nom": "Vincent Dubois",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-44-87534215056"
+  ],
+  "personne-nom-famille": "Dubois",
+  "personne-nom-prenom": "Vincent",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-44-87534215056",
+  "sous-type": "pers",
+  "tip": "Professeur en science politique, UdS",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Vincent Dubois"
+    ]
+  }
+}

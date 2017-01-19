@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216252",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jean-François Regnard, né à Paris le 7 février 1655 et mort au château de Grillon, près de Dourdan, le 4 septembre 1709, est un écrivain et dramaturge français.<br>Il est considéré aux xviiie et xixe siècles comme le meilleur poète comique français après Molière1. Voltaire dira à son sujet : « Qui ne se plaît pas avec Regnard n'est pas digne d'admirer Molière. »<br>Outre ses célèbres comédies, on lui doit des récits de ses voyages, un petit roman, la Provençale, qui n'est que sa propre histoire ainsi que des poésies diverses, parmi lesquelles on remarque une Satire contre les maris, en réponse à la satire de Boileau contre les femmes.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455502,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean-François Regnard",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216252"
+  ],
+  "personne-date-deces": "1709",
+  "personne-date-naissance": "1655",
+  "personne-nom-famille": "Regnard",
+  "personne-nom-prenom": "Jean-François",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216252",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean-François Regnard"
+    ]
+  }
+}

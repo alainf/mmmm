@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-00-59-87534219582",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-59",
+  "description": "Frédéric VERGNAUD - Ingénieur CNRS - De formation en Sociologie et en Informatique, Frédéric Vergnaud est Ingénieur d’Etudes au CNRS. Il s'occupe notamment de la conception et de la réalisation d’enquêtes qualitatives et quantitatives et est spécialisé en Sociologie de la Médecine, Sociologie de la Culture et de la Communication, Démographie, Economie politique et sociale, Psychologie Sociale, Ethologie Humaine et Biologie Sociale...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 457181,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-00-59",
+  "moment-de-modification": "2016-03-25-07-00-59",
+  "nom": "Frédéric VERGNAUD",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-59-87534219582"
+  ],
+  "personne-nom-famille": "VERGNAUD",
+  "personne-nom-prenom": "Frédéric",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-59-87534219582",
+  "sous-type": "pers",
+  "tip": "Frédéric Vergnaud est Ingénieur d’Etudes au CNRS.",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Frédéric VERGNAUD"
+    ]
+  }
+}

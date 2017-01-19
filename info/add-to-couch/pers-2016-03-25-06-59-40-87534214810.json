@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-06-59-40-87534214810",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-40",
+  "description": "<table><tr><br><td>Dans sa derniére livraison, <em>Cogitamus, six letttres sur les humanités scientifiques</em>, Bruno Latour nous livre une de ses tentatives successives de <em>vulgarisation</em> de sa pensée (comme dans <em>la science en action</em>, <em>petites leçons de sociologie des sciences</em>, etc). Mais si les autres textes ouvraient le champ des possibles vers de nouvelles conception de la sociologie des sciences (et des techniques) celle-ci semble opérer un replis sur <em>l'analyse de controverses</em> qu'il prolonge par la cartographie de ces mêmes controverses.</td><br><td><img src=\"http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BrunoLatour.jpg/250px-BrunoLatour.jpg\" width=\"250\" height=\"296\" alt=\"Bruno Latour\" /></td><br></tr></table><br><a href=\"http://www.csi.ensmp.fr/index.php?page=EMembres&amp;lang=&amp;IdM=4\">Bruno LATOUR</a> - Sociologue, Membre d'honneur. Nouvelle adresse postale : Sciences-PO, CSO, 10 rue de la Chaise, 75007 PARIS. Bruno Latour, né en 1947 à Beaune, en Côte d'Or, après une agrégation de philosophie, s'est formé à l'anthropologie en Côte d'Ivoire. Très vite il s'est intéressé aux sciences et aux techniques...<a href=\"http://www.csi.ensmp.fr/index.php?page=EMembres&amp;lang=&amp;IdM=4\">Plus</a>",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4365,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-02",
+  "moment-de-creation": "2016-03-25-06-59-40",
+  "moment-de-modification": "2016-03-25-06-59-40",
+  "nom": "Bruno Latour",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-40-87534214810"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227932",
+  "personne-nom-famille": "Latour",
+  "personne-nom-prenom": "Bruno",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-40-87534214810",
+  "sous-type": "pers",
+  "tip": "Sociologue, Membre d'honneur.",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Bruno Latour"
+    ]
+  }
+}

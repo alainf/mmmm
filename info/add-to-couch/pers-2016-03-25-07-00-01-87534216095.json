@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-01-87534216095",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-01",
+  "description": "Sir Laurence Kerr Olivier, Baron Olivier, est né le 22 mai 1907 à Dorking dans le Surrey et mort le 11 juillet 1989 à Steyning (West Sussex), est un acteur, metteur en scène, directeur de théâtre, réalisateur et scénariste britannique.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455431,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-07-00-01",
+  "moment-de-modification": "2016-03-25-07-00-01",
+  "nom": "Laurence Olivier",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-01-87534216095"
+  ],
+  "personne-date-deces": "1989",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227786",
+  "personne-nom-famille": "Olivier",
+  "personne-nom-prenom": "Laurence",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-01-87534216095",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Laurence Olivier"
+    ]
+  }
+}

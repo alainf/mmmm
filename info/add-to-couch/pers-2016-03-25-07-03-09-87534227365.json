@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-03-09-87534227365",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-03-09",
+  "description": "Les entreprises les plus performantes sont celles qui pensent solidairement le changement technologique, le contenu du travail et le changement des rapports sociaux internes à l’entreprise. (Antoine Riboud)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465975,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-03-09",
+  "moment-de-modification": "2016-03-25-07-03-09",
+  "nom": "Bloc-Notes de Bertrand Duperrin",
+  "nom-machine": [
+    "pers-2016-03-25-07-03-09-87534227365"
+  ],
+  "personne-nom-famille": "Duperrin",
+  "personne-nom-prenom": "Bertrand",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-03-09-87534227365",
+  "sous-type": "pers",
+  "tip": "Reflexions sur l'entreprise, le management, la collaboration et les réseaux sociaux. Vers l'entreprise 2.0…",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Bloc-Notes de Bertrand Duperrin"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224283",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "Patrick Baert is Reader in Social Theory at the University of Cambridge. He is also Fellow and Director of Studies at Selwyn College, Cambridge. He is interested in social theory; philosophy of social science; and sociology of culture. Amongst his publications are Social Theory in the Twentieth Century and Beyond (with F. Carreira da Silva, 2010), Philosophy of the Social Sciences: Towards Pragmatism (2005), Social Theory in the 20th Century (1998), Time, Self and Social Being (1992), and the edited volumes Conflict, Citizenship and Civil Society (with S.Koniordos, G.Procacci and C.Ruzza, 2010), Pragmatism and European Social Theory (with BS Turner, 2007) and Time in Contemporary Intellectual Thought (2000). He studied at the Universities of Brussels and Oxford, where he obtained his D.Phil. He has held various visiting posts; for instance, Amiens, Aix-en-Provence, Berlin, Brussels, Cape Town, Concepcion, London, Paris, Providence (Rhode Island), Rome and Vancouver. He has been Vice-President for Publications of the European Sociological Association and Coordinator of the Social Theory Research Network of the ESA. He holds editorial positions at European Societies, the Journal for Classical Sociology, the European Journal of Social Theory, the International Journal of the Humanities, the International Journal of Interdisciplinary Social Sciences and the Journal of Change Management.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461513,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Patrick Baert",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224283"
+  ],
+  "personne-nom-famille": "Baert",
+  "personne-nom-prenom": "Patrick",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224283",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Patrick Baert"
+    ]
+  }
+}

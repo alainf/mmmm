@@ -1,0 +1,38 @@
+{
+  "_id": "pers-2016-03-25-07-02-30-87534225037",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-30",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 462865,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-10",
+  "moment-de-creation": "2016-03-25-07-02-30",
+  "moment-de-modification": "2016-03-25-07-02-30",
+  "nom": "Adam Ferguson",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-30-87534225037"
+  ],
+  "personne-nom-famille": "Ferguson ",
+  "personne-nom-prenom": "Adam",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-30-87534225037",
+  "sous-type": "pers",
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Adam Ferguson"
+    ]
+  }
+}

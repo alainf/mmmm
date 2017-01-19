@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216264",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Louise Labé née Louise Charly en 1524 à Lyon, décédée le 25 avril 1566 à Parcieux-en-Dombes, est une poétesse française. Surnommée « La Belle Cordière », elle fait partie des poètes en activité à Lyon pendant la Renaissance.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455507,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Louise Labé",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216264"
+  ],
+  "personne-date-deces": "1566",
+  "personne-date-naissance": "1524",
+  "personne-nom-famille": "Labé",
+  "personne-nom-prenom": "Louise",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216264",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Louise Labé"
+    ]
+  }
+}

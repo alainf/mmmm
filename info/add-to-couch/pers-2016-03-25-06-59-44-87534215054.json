@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-06-59-44-87534215054",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-44",
+  "description": "Cécile Joséphine Julie Lavergne, née le 19 décembre 1823 à Paris et morte le 16 mars 1886 à Paris, était une écrivain française.<br>Fille de Georges Ozaneaux, elle épousa en 1848 le peintre Claudius Lavergne. Elle écrivit de nombreux contes et nouvelles, évoquant souvent l'histoire et les paysages de sa Normandie. Son fils, Joseph, publia sa Correspondance après sa mort, en 1902.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 451042,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-06-59-44",
+  "moment-de-modification": "2016-03-25-06-59-44",
+  "nom": "Cécile Lavergne",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-44-87534215054"
+  ],
+  "personne-nom-famille": "Lavergne",
+  "personne-nom-prenom": "Cécile",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-44-87534215054",
+  "sous-type": "pers",
+  "tip": "Chercheure à l'ENS de Lyon, sciences humaines et Lettres",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Cécile Lavergne"
+    ]
+  }
+}

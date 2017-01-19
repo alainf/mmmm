@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216126",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "André Obey est un auteur dramatique, romancier et essayiste français né le 8 mai 1892 à Douai et mort le 11 avril 1975 à Montsoreau (Maine-et-Loire). Après une enfance passée entre le collège et l’école de musique, il passe ses licences de Droit et de Lettres à Lille.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455446,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "André Obey",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216126"
+  ],
+  "personne-date-deces": "1975",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227794",
+  "personne-nom-famille": "Obey",
+  "personne-nom-prenom": "André",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216126",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "André Obey"
+    ]
+  }
+}

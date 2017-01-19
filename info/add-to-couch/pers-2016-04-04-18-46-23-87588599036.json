@@ -1,0 +1,29 @@
+{
+  "_id": "pers-2016-04-04-18-46-23-87588599036",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-32",
+  "moment-de-creation": "2016-04-04-18-46-23",
+  "moment-de-modification": "2016-04-04-18-46-23",
+  "nom": "Georges Molinie",
+  "nom-machine": "pers-2016-04-04-18-46-23-87588599036",
+  "personne-nom-famille": "Molinie",
+  "personne-nom-prenom": "Georges",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-04-04-18-46-23-87588599036,",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Georges Molinie"
+    ]
+  }
+}

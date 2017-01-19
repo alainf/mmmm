@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216354",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Richard Brinsley Sheridan, né à Dublin le 30 octobre 1751 et décédé le 7 juillet 1816 à Londres, est un homme politique et dramaturge irlandais.<br>Son père était directeur de théâtre et sa mère, écrivaine (The Memoirs of Sidney Biddulph)<br>Il fréquente la Harrow School dans le but de devenir juriste, mais son mariage romantique avec Elizabeth Linley (fille de Thomas Linley) compromet ces plans. Il écrit sa première pièce, The Rivals qu'il produit à Covent Garden en 1775. La première représentation est un four et Sheridan embauche un nouvel acteur pour le rôle comique de l'Irlandais. La seconde représentation est un succès et établit immédiatement la réputation d'auteur du jeune homme.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455546,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Richard Brinsley Sheridan",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216354"
+  ],
+  "personne-date-deces": "1816",
+  "personne-date-naissance": "terme-2015-12-06-16-23-43-86966221421",
+  "personne-nom-famille": "Sheridan",
+  "personne-nom-prenom": "Richard Brinsley",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216354",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Richard Brinsley Sheridan"
+    ]
+  }
+}

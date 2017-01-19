@@ -1,0 +1,35 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216131",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Arnoul et Simon Gréban sont des auteurs dramatiques français, nés à Compiègne au xve siècle. On ne sait presque rien de la vie de ces deux frères, qui soutinrent avec éclat le genre des mystères, dans sa dernière période. Arnoul devint, vers 1450, chanoine de l’église du Mans, organiste à Notre-Dame de Paris et maître de la chorale, ainsi que professeur de théologie à l’université de Paris. Simon, moine de Saint-Riquier (Ponthieu), fut secrétaire de Charles d'Anjou, comte du Maine. C’est ce qui fait que Clément Marot, qui aime à réunir les deux frères « au bien résonnant style », a pu dire (Épigr. 223) :<br>« Les deux Gresban ont le Mans honoré. »",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455449,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Arnoul Gréban",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216131"
+  ],
+  "personne-nom-famille": "Gréban",
+  "personne-nom-prenom": "Arnoul",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216131",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Arnoul Gréban"
+    ]
+  }
+}

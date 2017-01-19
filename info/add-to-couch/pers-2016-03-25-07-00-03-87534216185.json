@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216185",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Félix Lope de Vega y Carpio est un dramaturge et poète espagnol (25 novembre 1562 - 27 août 1635), considéré comme l'un des écrivains majeurs du Siècle d'or espagnol. Surnommé par Miguel de Cervantes « le Phénix, le monstre de la nature », il est le fondateur de la Comedia nueva1 ou tragi-comédie à l'espagnole à un moment où le théâtre devenait un phénomène culturel de masse.<br>Lope de Vega a été un auteur extrêmement prolifique : il aurait écrit environ 3 000 sonnets, 9 épopées, des romans, 1 800 pièces profanes, 400 drames religieux, de nombreux intermèdes2. Il a cultivé tous les tons et abordé tous les thèmes.<br>Ami de Quevedo et de Juan Ruiz de Alarcón, ennemi de Luis de Góngora et envié par Cervantes, sa vie a été aussi extrême que son œuvre.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455474,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Félix Lope de Vega",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216185"
+  ],
+  "personne-date-deces": "1635",
+  "personne-date-naissance": "terme-2015-12-06-16-25-10-86966226650",
+  "personne-nom-famille": "de Vega",
+  "personne-nom-prenom": "Félix Lope",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216185",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Félix Lope de Vega"
+    ]
+  }
+}

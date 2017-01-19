@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216121",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Alfred Victor, comte de Vigny est un écrivain, dramaturge et poète français, né le 27 mars 1797 ou 7 Germinal An 5 à Loches (Indre-et-Loire) et mort le 17 septembre 1863 à Paris, 8e.<br>Figure du romantisme, il écrit parallèlement à une carrière militaire entamée en 1814 et publie ses premiers poèmes en 1822. Avec la publication de Cinq-Mars en 1826, il contribue au développement du roman historique français. Ses traductions versifiées de Shakespeare s'inscrivent dans le drame romantique, de même que sa pièce Chatterton (1835). Son œuvre se caractérise par un pessimisme fondamental, et une vision désenchantée de la société. Il développe à plusieurs reprises le thème du paria, incarné par le poète, le prophète, le noble, Satan et le soldat. Sa poésie est empreinte d’un stoïcisme hautain, qui s’exprime en vers denses et dépouillés, souvent riches en symboles, annonçant la modernité poétique de Baudelaire, Verlaine et Mallarmé.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455444,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Alfred de Vigny",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216121"
+  ],
+  "personne-date-deces": "1863",
+  "personne-date-naissance": "terme-2015-12-06-16-25-22-86966227352",
+  "personne-nom-famille": "de Vigny",
+  "personne-nom-prenom": "Alfred",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216121",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Alfred de Vigny"
+    ]
+  }
+}

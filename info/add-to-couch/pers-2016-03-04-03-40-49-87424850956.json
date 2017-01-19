@@ -1,0 +1,60 @@
+{
+  "_id": "pers-2016-03-04-03-40-49-87424850956",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-48-86966174886",
+    "lieu-2015-12-06-16-10-48-86966174926",
+    "lieu-2015-12-06-16-14-13-86966187191",
+    "lieu-2015-12-06-16-16-35-86966195724",
+    "lieu-2015-12-06-16-19-34-86966206484"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-04-03-40-49",
+  "moment-de-modification": "2016-03-04-03-42-20",
+  "nom": "Étienne Balibar",
+  "nom-machine": "pers-2016-03-04-03-40-49-87424850956",
+  "personne-concernee": [
+    "pers-2016-03-02-16-18-06-87417209195",
+    "pers-2016-03-04-03-40-49-87424850956",
+    "pers-2016-03-25-06-59-41-87534214874",
+    "pers-2016-03-25-06-59-44-87534215054",
+    "pers-2016-03-25-07-02-25-87534224704",
+    "pers-2016-03-25-07-02-55-87534226552",
+    "pers-2016-04-04-18-45-24-87588595449"
+  ],
+  "personne-date-naissance": "1942-04-23",
+  "personne-nom-famille": "Balibar",
+  "personne-nom-prenom": "Étienne ",
+  "personne-role": [
+    "terme-2015-12-06-16-23-28-86966220508",
+    "terme-2015-12-06-16-23-29-86966220547",
+    "terme-2015-12-06-16-23-29-86966220574",
+    "terme-2015-12-06-16-23-30-86966220620"
+  ],
+  "personne-wikipedia": "https://fr.wikipedia.org/wiki/%C3%89tienne_Balibar",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-04-03-40-49-87424850956",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-25-04-86966226256",
+    "terme-2015-12-06-16-26-25-86966231113",
+    "terme-2015-12-06-16-26-31-86966231498",
+    "terme-2015-12-06-16-26-32-86966231565",
+    "terme-2015-12-06-16-26-57-86966233050"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Étienne Balibar"
+    ]
+  }
+}

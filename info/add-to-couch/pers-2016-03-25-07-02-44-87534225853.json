@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-02-44-87534225853",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-44",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 463230,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-13",
+  "moment-de-creation": "2016-03-25-07-02-44",
+  "moment-de-modification": "2016-03-25-07-02-44",
+  "nom": "Charles Murray",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-44-87534225853"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227911",
+  "personne-nom-famille": "Murray ",
+  "personne-nom-prenom": "Charles",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-44-87534225853",
+  "sous-type": "pers",
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Charles Murray"
+    ]
+  }
+}

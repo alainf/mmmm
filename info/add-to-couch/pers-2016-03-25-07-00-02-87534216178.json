@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216178",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Augustin Eugène Scribe est un auteur dramatique français, né le 24 décembre 1791 à Paris, où il est mort le 20 février 1861.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455471,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Eugène Scribe",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216178"
+  ],
+  "personne-date-deces": "1861",
+  "personne-date-naissance": "terme-2015-12-06-16-25-22-86966227331",
+  "personne-nom-famille": "Scribe",
+  "personne-nom-prenom": "Eugène",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216178",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Eugène Scribe"
+    ]
+  }
+}

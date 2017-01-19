@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216261",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Luigi Pirandello est un écrivain Italien, poète, nouvelliste, romancier et dramaturge, né le 28 juin 1867 à Agrigente en Sicile au lieu dit « Le Chaos », entre Agrigente et Porto Empedocle, durant une épidémie de choléra, et mort à Rome le 10 décembre 1936. Son œuvre a été récompensée du Prix Nobel de littérature en 1934.<br>C'est le père du peintre Fausto Pirandello.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455506,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Luigi Pirandello",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216261"
+  ],
+  "personne-date-deces": "1936",
+  "personne-date-naissance": "terme-2015-12-06-16-25-28-86966227684",
+  "personne-nom-famille": "Pirandello",
+  "personne-nom-prenom": "Luigi",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216261",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Luigi Pirandello"
+    ]
+  }
+}

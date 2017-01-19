@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216157",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Christian Dietrich Grabbe, né à Detmold le 11 décembre 1801 et mort à Detmold le 12 septembre 1836, est un écrivain et auteur dramatique allemand. Il est, avec Georg Büchner, l'acteur le plus important de la réinvention du drame allemand au xixe siècle. Influencé par William Shakespeare et par le Sturm und Drang, Grabbe révèle dans ses pièces un regard pessimiste et sans illusion sur le monde.<br>André Breton a dit à son propos dans son Anthologie de l’humour noir : « Une œuvre dont la géniale bouffonnerie n’a jamais été surpassée, qui détonne au plus haut point dans son temps et est douée plus que toute autre de prolongements innombrables jusqu’à nous. »",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455460,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Christian Dietrich Grabbe",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216157"
+  ],
+  "personne-date-deces": "1836",
+  "personne-date-naissance": "terme-2015-12-06-16-25-22-86966227364",
+  "personne-nom-famille": "Grabbe",
+  "personne-nom-prenom": "Christian Dietrich",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216157",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Christian Dietrich Grabbe"
+    ]
+  }
+}

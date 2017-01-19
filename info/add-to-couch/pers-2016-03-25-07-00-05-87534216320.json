@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216320",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Max Frisch (15 mai 1911 à Zurich - 4 avril 1991 à Zurich) est un écrivain et architecte suisse alémanique.<br>Membre du Groupe Olten, il est considéré comme faisant partie des écrivains les plus importants de la littérature allemande de l'après-guerre. Dans son œuvre, Frisch a particulièrement prêté attention aux problématiques d'identité personnelle, de morale et d'engagement politique. L'ironie est une caractéristique significative de ses publications d'après guerre. « Pire que le bruit des bottes, le silence des pantoufles » est une célèbre phrase de cet écrivain.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455530,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Max Frisch",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216320"
+  ],
+  "personne-date-deces": "1991",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227817",
+  "personne-nom-famille": "Frisch",
+  "personne-nom-prenom": "Max",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216320",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Max Frisch"
+    ]
+  }
+}

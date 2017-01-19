@@ -1,0 +1,33 @@
+{
+  "_id": "pers-2016-03-25-06-58-44-87534211462",
+  "ajouter-aux-favoris": false,
+  "description": "À propos<br>Alexandre Cayla<br>Je suis l’idéateur et rédacteur principal de 4fois21. Je suis bachelier en Sciences politiques et je détient une maîtrise en Commerce électronique de HEC Montréal. Je m’intéresse tout particulièrement aux médias numériques, aux mutations dans le monde du journalisme et aux changements que sont engendrés (ou facilités) par la numérisation de la société.<br>Bien que la majorité des billets publiés ici portent sur le journalisme en ligne, il m’arrive de publier des textes sur d’autres sujets.<br>Je suis aussi stratège et designer d’interface. Pour plus d’informations, vous pouvez consulter mon profil LinkedIn.<br>À propos des travaux<br>Lors de mes études à HEC Montréal, j’ai eu l’occasion de me pencher sur l’industrie du journalisme en ligne à deux reprises. Les résultats de ce travail est disponible dans sur ce blogue.<br>Le premier travail a été réalisé avec German Gold et Constane Lemaire dans le cadre d’un cours sur l’économie numérique, donné par Sylvain Amoros.<br>Le second a été réalisé avec la collaboration de Marc-André Rioux, Carolina Vinueza et Mariane Sawan.<br>Je les remercie sincèrement pour leur aide et leur collaboration ainsi que pour avoir accepté que ces travaux soient mis à la disposition de tous sur mon blogue.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 18694,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-58-44",
+  "moment-de-modification": "2016-03-25-06-58-44",
+  "mots-clefs": [
+    "Alexandre Cayla",
+    "journalisme",
+    "journalisme numérique"
+  ],
+  "nom": "Alexandre Cayla",
+  "nom-machine": "pers-2016-03-25-06-58-44-87534211462",
+  "personne-nom-famille": "Cayla",
+  "personne-nom-prenom": "Alexandre",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-58-44-87534211462",
+  "sous-type": "pers",
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Alexandre Cayla"
+    ]
+  }
+}

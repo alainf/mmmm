@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224323",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "Stephan Fuchs received his M.A. in History in 1985 from Bremen University, and then received a Ph.D. in Sociology from the University of California at Riverside in 1989. From 1989 until 1991, he was Assistant Professor of Sociology at the University of New Hampshire, and then moved to the University of Virginia, where he is now Professor of Sociology. His main interests are in social theory, sociology of culture and science, and complex organizations.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461534,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Stephan Fuchs",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224323"
+  ],
+  "personne-nom-famille": "Fuchs",
+  "personne-nom-prenom": "Stephan",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224323",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Stephan Fuchs"
+    ]
+  }
+}

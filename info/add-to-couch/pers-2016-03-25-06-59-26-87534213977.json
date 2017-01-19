@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-06-59-26-87534213977",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-26",
+  "description": "Il a l'oeil, mais ne connaît pas la technologie.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 3313,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-26",
+  "moment-de-modification": "2016-03-25-06-59-26",
+  "mots-clefs": [
+    "artiste visuel",
+    "client potentiel"
+  ],
+  "nom": "Luc Bourbonnais",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-26-87534213977"
+  ],
+  "personne-nom-famille": "Bourbonnais",
+  "personne-nom-prenom": "Luc",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-26-87534213977",
+  "sous-type": "pers",
+  "tip": "Consultant & graphiste: il a l'oeil, mais ne connaît pas la technologie.",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Luc Bourbonnais"
+    ]
+  }
+}

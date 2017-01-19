@@ -1,0 +1,61 @@
+{
+  "_id": "pers-2016-03-25-07-03-38-87534229127",
+  "ajouter-aux-favoris": false,
+  "description": "Didier Eribon est philosophe. Il est l’auteur d’une célèbre biographie de Michel Foucault (traduite en vingt langues) et de plusieurs autres ouvrages qui ont fait date : Réflexions sur la question gay (Fayard, 1999), Une morale du minoritaire. Variations sur un thème de Jean Genet (Fayard, 2001), Hérésies. Essais sur la théorie de la sexualité (Fayard, 2003). Invité dans de nombreuses universités étrangères (notamment à Berkeley où il a été Visiting Professor pendant plusieurs années), il est considéré à l’échelle internationale comme l’un des intellectuels français les plus importants d’aujourd’hui.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 467148,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-03-38",
+  "moment-de-modification": "2016-03-25-07-03-38",
+  "nom": "Didier Eribon",
+  "nom-machine": [
+    "pers-2016-03-25-07-03-38-87534229127"
+  ],
+  "personne-nom-famille": "Eribon",
+  "personne-nom-prenom": "Didier",
+  "section": [
+    "terme-2015-12-06-16-23-35-86966220957",
+    "terme-2015-12-06-16-23-43-86966221427"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-03-38-87534229127",
+  "sous-type": "pers",
+  "suggestion-relation": "4291,4309,4253,455498,4391,455508,99414,463540,4388,456314,4297,4386",
+  "sujet": [
+    "terme-2015-12-06-16-24-48-86966225296",
+    "terme-2015-12-06-16-25-55-86966229332",
+    "terme-2015-12-06-16-26-31-86966231498",
+    "terme-2015-12-06-16-26-35-86966231751",
+    "terme-2015-12-06-16-26-39-86966231993",
+    "terme-2015-12-06-16-26-52-86966232776",
+    "terme-2015-12-06-16-26-53-86966232813",
+    "terme-2015-12-06-16-26-53-86966232821"
+  ],
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-12-86966233954",
+    "terme-2015-12-06-16-27-12-86966233960",
+    "terme-2015-12-06-16-27-12-86966233963",
+    "terme-2015-12-06-16-27-13-86966233991"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "voir-aussi": [
+    "page-2016-03-25-07-03-38-87534229124"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Didier Eribon"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224335",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "Pablo González Casanova (Toluca, Estado de México, 1922) es un destacado sociólogo y crítico mexicano condecorado por la Unesco en 2003 con el Premio Internacional José Martí por su defensa de la identidad de los pueblos indígenas de América Latina.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461539,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-41-86966174518"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Pablo González Casanova",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224335"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227848",
+  "personne-nom-famille": "Casanova",
+  "personne-nom-prenom": "Pablo González",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224335",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Pablo González Casanova"
+    ]
+  }
+}

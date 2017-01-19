@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216173",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Eugène Ionesco, né Eugen Ionescu le 26 novembre 1909 à Slatina (Roumanie) et mort le 28 mars 1994 à Paris, est un auteur dramatique et écrivain roumain et français. Il passe la majeure partie de sa vie à voyager entre la France et la Roumanie. Représentant du théâtre de l'absurde, il écrit de nombreuses œuvres dont les plus connues sont La Cantatrice chauve, Les Chaises ou bien encore Rhinocéros.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455469,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Eugène Ionesco",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216173"
+  ],
+  "personne-date-deces": "1994",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227812",
+  "personne-nom-famille": "Ionesco",
+  "personne-nom-prenom": "Eugène",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216173",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Eugène Ionesco"
+    ]
+  }
+}

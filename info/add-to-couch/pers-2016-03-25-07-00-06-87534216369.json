@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216369",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Sophocle (en grec ancien : Σοφοκλῆς / Sophoklễs), né à Colone en 496 ou 495 av. J.-C. et mort en 406 ou 405 av. J.-C. est l'un des trois grands tragiques grecs dont l'œuvre nous est partiellement parvenue, avec Eschyle (526-456) et Euripide (480-406). Il est principalement l'auteur de cent-vingt-deux pièces (dont une centaine de tragédies), mais dont seules sept nous sont parvenues. Cité comme paradigme de la tragédie par Aristote, notamment pour l'usage qu'il fait du chœur1 et pour sa pièce Œdipe roi2, il remporte également le nombre le plus élevé de victoires au concours tragique des grandes Dionysies (dix-huit), et n'y figure jamais dernier.<br>Son théâtre rompt avec la trilogie « liée » et approfondit les aspects psychologiques des personnages. Ses pièces mettent en scène des héros, souvent solitaires et même rejetés (Ajax, Antigone, Œdipe, Électre), et confrontés à des problèmes moraux desquels naît la situation tragique. Comparé à Eschyle, Sophocle ne met pas ou peu en scène les dieux, qui n'interviennent que par des oracles dont le caractère obscur trompe souvent les hommes, sur le mode de l'ironie tragique.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455552,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Sophocle",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216369"
+  ],
+  "personne-date-deces": "-405",
+  "personne-date-naissance": "-496",
+  "personne-nom-famille": "Sophocle",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216369",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Sophocle"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": "pers-2016-03-25-07-05-44-87534236652",
+  "ajouter-aux-favoris": false,
+  "description": "Diffusion de travaux scientifiques et de notes portant sur la Zone euro, l’économie européenne et sur la Russie. Ce carnet est réalisé avec l’assistance technique de la FMSH et en particulier de Nicolas de Lavergne<br>Dissemination of scientific works (working papers, position papers en brief notes) on the Eurozone, the European economy and Russia. This blog is technically assisted by the FMSH and specifically by Nicolas de Lavergne.<br>Jacques Sapir<br>Ses travaux de chercheur se sont orientés dans trois dimensions, l’étude de l’économie russe et de la transition, l’analyse des crises financières et des recherches théoriques sur les institutions économiques et les interactions entre les comportements individuels. Il a poursuivi ses recherches à partir de 2000 sur les interactions entre les régimes de change, la structuration des systèmes financiers et les instabilités macroéconomiques. Depuis 2007 il s'est impliqué dans l’analyse de la crise financière actuelle, et en particulier dans la crise de la zone Euro.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 471543,
+  "identifiant-drupal-parent": 2572,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-05-44",
+  "moment-de-modification": "2016-03-25-07-05-44",
+  "nom": "Jacques Sapir",
+  "nom-machine": [
+    "pers-2016-03-25-07-05-44-87534236652"
+  ],
+  "personne-nom-famille": "Sapir",
+  "personne-nom-prenom": "Jacques",
+  "section": [
+    "terme-2015-12-06-16-23-43-86966221427",
+    "terme-2015-12-06-16-23-44-86966221455"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-05-44-87534236652",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-54-86966225669",
+    "terme-2015-12-06-16-26-25-86966231145"
+  ],
+  "tip": "blogue scientifique",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-10-86966233857",
+    "terme-2015-12-06-16-27-11-86966233866",
+    "terme-2015-12-06-16-27-11-86966233869",
+    "terme-2015-12-06-16-27-11-86966233885",
+    "terme-2015-12-06-16-27-12-86966233963",
+    "terme-2015-12-06-16-27-13-86966233991",
+    "terme-2015-12-06-16-27-14-86966234077",
+    "terme-2015-12-06-16-27-14-86966234089",
+    "terme-2015-12-06-16-27-14-86966234098",
+    "terme-2015-12-06-16-27-15-86966234101",
+    "terme-2015-12-06-16-27-15-86966234112",
+    "terme-2015-12-06-16-27-15-86966234124",
+    "terme-2015-12-06-16-27-15-86966234138"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234380",
+    "terme-2015-12-06-16-27-20-86966234411",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "voir-aussi": [
+    "468449,466390,22295,451885,451504"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jacques Sapir"
+    ]
+  }
+}

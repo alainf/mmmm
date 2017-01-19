@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-06-58-45-87534211532",
+  "ajouter-aux-favoris": false,
+  "description": "Ce blog recense toute l'information liée au Projet Grand Paris et apporte un éclairage sur les enjeux en cours, les débats d'idées, le rôle des nouvelles technologies et les évolutions de l'urbanisme dans le monde. Responsable de la publication : Antoine Lefébure.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 18964,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-58-45",
+  "moment-de-modification": "2016-03-25-06-58-45",
+  "mots-clefs": [
+    "Antoine Lefebure",
+    "France",
+    "Grand Paris",
+    "information",
+    "Paris",
+    "urbanisme"
+  ],
+  "nom": "Antoine Lefébure",
+  "nom-machine": "pers-2016-03-25-06-58-45-87534211532",
+  "personne-nom-famille": "Lefébure",
+  "personne-nom-prenom": "Antoine ",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-58-45-87534211532",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-27-09-86966233748",
+    "terme-2015-12-06-16-27-09-86966233772"
+  ],
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Antoine Lefébure"
+    ]
+  }
+}

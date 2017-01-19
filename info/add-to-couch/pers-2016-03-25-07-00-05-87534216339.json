@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216339",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Peter Handke est un écrivain, dramaturge, scénariste, réalisateur et traducteur autrichien né à Griffen (Carinthie) le 6 décembre 1942.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455539,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Peter Handke",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216339"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227905",
+  "personne-nom-famille": "Handke",
+  "personne-nom-prenom": "Peter",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216339",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Peter Handke"
+    ]
+  }
+}

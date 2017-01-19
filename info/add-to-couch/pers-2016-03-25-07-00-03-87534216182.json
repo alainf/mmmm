@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216182",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Falaba Issa Traoré était un écrivain, comédien, réalisateur et dramaturge malien. Il est né vers 1930 à Bougouni (Mali) et est décédé le 8 août 2003 à Rabat (Maroc).<br>Instituteur de profession, il dirige une troupe de théâtre amateur avant de diriger entre 1962 et 1968 la troupe régionale de Bamako. De 1969 à 1973, il crée et dirige la troupe folklorique et d’art dramatique Yankadi.<br>En 1973, il part en Allemagne[réf. souhaitée] étudier la réalisation au cinéma. De retour au Mali en 1976, il dirige la section Cinéma au ministère des Sports, des Arts et de la Culture.<br>Comédien, il a notamment joué dans des films de Kalifa Dienta (A Banna), de Cheick Oumar Sissoko (Nidiougou Guimba), de Boubacar Sidibé (Le Pacte social, Sanoudié et N’Tronkélé). Il a également été réalisateur, son dernier film, Bamunan (« Le Pagne sacré »), est sorti en 1990.<br>Dramaturge, il est l’auteur des opéras Soundiata ou l’Épopée mandingue et Dah Monzon ou l’Épopée bambara.<br>Il est lauréat du prix Afrique de Poésie de la Francophonie en 1972.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455473,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Falaba Issa Traoré",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216182"
+  ],
+  "personne-date-deces": "2003",
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227877",
+  "personne-nom-famille": "Traoré",
+  "personne-nom-prenom": "Falaba Issa",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216182",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Falaba Issa Traoré"
+    ]
+  }
+}

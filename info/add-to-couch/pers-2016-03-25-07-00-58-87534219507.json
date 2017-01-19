@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-00-58-87534219507",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-58",
+  "description": "Yannick Barthe - Sociologue, Chargé de recherche CNRS - Yannick Barthe est chargé de recherche au CNRS. Ses travaux portent sur les controverses socio-techniques et les politiques publiques relatives aux «risques collectifs». Il s’est notamment intéressé au problème des déchets nucléaires et au traitement dont celui-ci a fait l’objet de la part des autorités publiques. Dans Le pouvoir d’indécision...",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 457149,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-00-58",
+  "moment-de-modification": "2016-03-25-07-00-58",
+  "nom": "Yannick Barthe",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-58-87534219507"
+  ],
+  "personne-nom-famille": "Barthe",
+  "personne-nom-prenom": "Yannick",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-58-87534219507",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Yannick Barthe"
+    ]
+  }
+}

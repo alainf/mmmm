@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216238",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Jean Anouilh est un écrivain et dramaturge français, né le 23 juin 1910 à Bordeaux (Gironde) et mort le 3 octobre 1987 à Lausanne (Suisse). Son œuvre théâtrale commencée en 1932 est particulièrement abondante et variée : elle est constituée de nombreuses comédies souvent grinçantes et d'œuvres à la tonalité dramatique ou tragique comme sa pièce la plus célèbre, Antigone, réécriture moderne de la pièce de Sophocle.<br>Anouilh a lui-même organisé ses œuvres en séries thématiques, faisant alterner d'abord « Pièces roses » et « Pièces noires ». Les premières sont des comédies savoureuses marquées par la fantaisie comme Le Bal des voleurs (1938) alors que les secondes montrent dans la gravité l'affrontement des « héros » entourés de gens ordinaires en prenant souvent appui sur des mythes comme Eurydice (1942), Antigone (1944) ou Médée (1946).<br>Après la guerre apparaissent les « Pièces brillantes » qui jouent sur la mise en abyme du théâtre au théâtre (La Répétition ou l'Amour puni, 1947 - Colombe, 1951), puis les « Pièces grinçantes », comédies satiriques comme Pauvre Bitos ou le Dîner de têtes (1956). Dans la même période, Jean Anouilh s'intéresse dans des « Pièces costumées » à des figures lumineuses qui se sacrifient au nom du devoir : envers la patrie comme Jeanne d'Arc dans L'Alouette (1953) ou envers Dieu comme Thomas Becket (Becket ou l'Honneur de Dieu (1959) adapté au cinéma en 1964. Le dramaturge a continué dans le même temps à servir le genre de la comédie dans de nombreuses pièces où il mêle farce et ironie (par exemple Les Poissons rouges ou Mon père ce héros, 1970) jusque dans les dernières années de sa vie.<br>Jean Anouilh a également adapté plusieurs pièces d'auteurs étrangers, Shakespeare en particulier. Il a aussi mis en scène certaines de ses œuvres (par exemple en 1974 Colombe, en même temps qu'il travaillait à des scénarios pour le cinéma ou à la télévision.)",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455496,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Jean Anouilh",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216238"
+  ],
+  "personne-date-deces": "1987",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227815",
+  "personne-nom-famille": "Anouilh",
+  "personne-nom-prenom": "Jean",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216238",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean Anouilh"
+    ]
+  }
+}

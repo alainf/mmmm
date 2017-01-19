@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-02-87534216175",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-02",
+  "description": "Eugène Labiche est un dramaturge français, né le 6 mai 1815 à Paris où il est mort le 22 janvier 1888.<br>Il a été élu membre de l'Académie française en 1880 au fauteuil 15, à la suite du journaliste Ustazade Silvestre de Sacy.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455470,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-02",
+  "moment-de-modification": "2016-03-25-07-00-02",
+  "nom": "Eugène Labiche",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-02-87534216175"
+  ],
+  "personne-date-deces": "1888",
+  "personne-date-naissance": "terme-2015-12-06-16-25-23-86966227405",
+  "personne-nom-famille": "Labiche",
+  "personne-nom-prenom": "Eugène",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-02-87534216175",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Eugène Labiche"
+    ]
+  }
+}

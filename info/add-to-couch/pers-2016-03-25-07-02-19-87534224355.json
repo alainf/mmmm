@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-02-19-87534224355",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-19",
+  "description": "Georges Lapassade est un philosophe et un sociologue français, né le 10 mai 1924 à Arbus, dans le Béarn, et mort le 30 juillet 2008 à Stains.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461550,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-19",
+  "moment-de-modification": "2016-03-25-07-02-19",
+  "nom": "Georges Lapassade",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-19-87534224355"
+  ],
+  "personne-date-deces": "2008",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227854",
+  "personne-nom-famille": "Lapassade",
+  "personne-nom-prenom": "Georges",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-19-87534224355",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Georges Lapassade"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "pers-2016-03-25-07-03-33-87534228819",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466604,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-16-35-86966195724"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-03-33",
+  "moment-de-modification": "2016-03-25-07-03-33",
+  "nom": "Erwan NEAU",
+  "nom-machine": [
+    "pers-2016-03-25-07-03-33-87534228819"
+  ],
+  "personne-nom-famille": "NEAU",
+  "personne-nom-prenom": "Erwan",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-03-33-87534228819",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-11-86966233899",
+    "terme-2015-12-06-16-27-12-86966233937",
+    "terme-2015-12-06-16-27-14-86966234054"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Erwan NEAU"
+    ]
+  }
+}

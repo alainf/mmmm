@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216271",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jean-Pierre Vallotton, né à Genève le 3 mai 1955, est un écrivain suisse.<br>Après des études de lettres et d'art dramatique, on retrouve son nom dans des entretiens publiés avec Jean Tardieu, ainsi que différents écrits dans la \"NRF\", \"Sud\", \"Europe\", la \"Revue des Belles-Lettres\", \"PoEsie\". Parallèlement à ses études, il suit pendant quatre ans les cours d’art dramatique de Paul Pasquier. Il interprète sur scène Musset, Oscar Wilde, Marivaux, Giraudoux, Zeami, Robert Thomas, etc. Il crée ensuite la troupe du Théâtre de Chambre qui présente plusieurs spectacles poétiques. En 1977, sa pièce pour marionnettes, Métronome la lumière, est créée au Théâtre de Vidy.<br>Un premier recueil de poèmes paraît en 1987. Sa longue amitié avec Jean Tardieu donne lieu à un livre d’entretiens, publié l’année suivante: Causeries devant la fenêtre. Il traduit d’autre part en français Wolfgang Borchert, Ion Caraion, Sylvia Plath et Robert Louis Stevenson et collabore à de nombreuses revues. Ses propres essais et poèmes ont été traduits en anglais, hongrois, néerlandais, espagnol, allemand, tchèque, roumain, grec, macédonien, arabe, italien et farsi. On lui doit aussi: Tout cela brûlera, La Bartavelle (1992), Face aux ruines blanches de l'enfance, L'Âge d'Homme (1995), Relief d'un automne, L'Arbre à paroles (1995); Blancheur dévastée, éd. d'Orzens et enfin Sommeils de givre sommeils de plombaux éditions Empreintes (1997).<br>Dès 1997, Jean-Pierre Vallotton reçoit de nombreux prix littéraires en Belgique (prix Unimuse), France, (prix Louise-Labé, prix Poncetton de la Société des Gens de Lettres), Suisse (Hermann Ganz de la Société suisse des écrivains, de la Ville de Lancy).<br>En juin 2004, Jean-Pierre Vallotton participe au tournage du film de Thomas Grandjean sur Pierrette Micheloud, Chemins de poésie. Il est membre de la Société des gens de lettres de France, de l’Association des autrices et auteurs de Suisse, ainsi que de l’Association des traducteurs littéraires de France. Membre du Conseil de la Fondation Pierrette Micheloud, il est également président du jury de ses prix littéraires.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455510,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean-Pierre Vallotton",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216271"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227955",
+  "personne-nom-famille": "Vallotton",
+  "personne-nom-prenom": "Jean-Pierre",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216271",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean-Pierre Vallotton"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_id": "pers-2016-03-25-07-01-32-87534221562",
+  "ajouter-aux-favoris": false,
+  "description": "blog scientifique spécialisé dans le domaine des études visuelles",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 458359,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-16-35-86966195724"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-06",
+  "moment-de-creation": "2016-03-25-07-01-32",
+  "moment-de-modification": "2016-03-25-07-01-32",
+  "mots-clefs": [
+    "étude visuelle",
+    "Andre GUNTHERT",
+    "blog",
+    "Ecole des hautes études en sciences sociales",
+    "EHESS",
+    "histoire visuel",
+    "Laboratoire d'histoire visuelle contemporaine",
+    "visuel"
+  ],
+  "nom": "Andre GUNTHERT",
+  "nom-machine": [
+    "pers-2016-03-25-07-01-32-87534221562"
+  ],
+  "personne-nom-famille": "GUNTHERT",
+  "personne-nom-prenom": "Andre ",
+  "section": [
+    "terme-2015-12-06-16-23-33-86966220834",
+    "terme-2015-12-06-16-23-42-86966221325",
+    "terme-2015-12-06-16-23-42-86966221352",
+    "terme-2015-12-06-16-23-42-86966221361",
+    "terme-2015-12-06-16-23-45-86966221503"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-01-32-87534221562",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-25-13-86966226791"
+  ],
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-10-86966233857",
+    "terme-2015-12-06-16-27-12-86966233960",
+    "terme-2015-12-06-16-27-15-86966234147"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-20-86966234417"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Andre GUNTHERT"
+    ]
+  }
+}

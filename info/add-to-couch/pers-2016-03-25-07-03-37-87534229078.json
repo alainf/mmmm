@@ -1,0 +1,67 @@
+{
+  "_id": "pers-2016-03-25-07-03-37-87534229078",
+  "ajouter-aux-favoris": false,
+  "description": "Veille quotidienne sur l'entrepreneuriat en France et dans le monde",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466749,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-48-86966174886",
+    "lieu-2015-12-06-16-16-35-86966195724"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-03-37",
+  "moment-de-modification": "2016-03-25-07-03-37",
+  "mots-clefs": [
+    "advancia",
+    "apce",
+    "ccip",
+    "creation d'entreprise",
+    "creer entreprise",
+    "entreprenariat",
+    "entreprendre",
+    "entrepreneur",
+    "entrepreneuriat",
+    "entrepreneuriat feminin",
+    "entrepreneuriat social",
+    "esprit d'entreprendre",
+    "franchise",
+    "intrapreneuriat",
+    "reprise d'entreprise",
+    "transmission"
+  ],
+  "nom": "Anne Brunet-Mbappe",
+  "nom-machine": [
+    "pers-2016-03-25-07-03-37-87534229078"
+  ],
+  "personne-nom-famille": "Brunet-Mbappe",
+  "personne-nom-prenom": "Anne",
+  "section": [
+    "terme-2015-12-06-16-23-34-86966220843"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-03-37-87534229078",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-25-25-86966227547",
+    "terme-2015-12-06-16-25-44-86966228658",
+    "terme-2015-12-06-16-26-15-86966230540"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Anne Brunet-Mbappe"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "pers-2016-03-25-07-03-34-87534228857",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 466618,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-17",
+  "moment-de-creation": "2016-03-25-07-03-34",
+  "moment-de-modification": "2016-03-25-07-03-34",
+  "mots-clefs": [
+    "ambiguïté",
+    "audit",
+    "confiance",
+    "conséquences",
+    "conséquentialisme",
+    "contexte",
+    "corruption",
+    "définition",
+    "dimension",
+    "flatland",
+    "fraude",
+    "hypocrisie morale",
+    "identité",
+    "internet",
+    "jugement moral",
+    "lieu",
+    "motivation",
+    "normativité",
+    "personnage",
+    "philanthropie",
+    "pratique",
+    "psychopathie",
+    "publicité",
+    "règle",
+    "règles",
+    "réputation",
+    "rôle",
+    "scepticisme",
+    "théorie des jeux",
+    "traders",
+    "vie privée"
+  ],
+  "nom": "Alain Anquetil",
+  "nom-machine": "pers-2016-03-25-07-03-34-87534228857",
+  "personne-nom-famille": "Anquetil",
+  "personne-nom-prenom": "Alain",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-03-34-87534228857",
+  "sous-type": "pers",
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Alain Anquetil"
+    ]
+  }
+}

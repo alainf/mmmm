@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216308",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Marguerite de Navarre, appelée également Marguerite d’Angoulême et parfois Marguerite d'Alençon, est née le 11 avril 1492 à Angoulême et morte le 21 décembre 1549 à Odos-en-Bigorre. Elle joue un rôle capital au cours de la première partie du xvie siècle : elle exerce une influence profonde en diplomatie et manifeste un certain intérêt pour les idées nouvelles, encourageant les artistes tant à la Cour de France qu'à Nérac. Sœur du roi François Ier, elle est la mère de Jeanne d'Albret (reine de Navarre et mère du futur Henri IV). Elle est aussi connue pour être, après Christine de Pisan et Marie de France, l'une des premières femmes de lettres françaises, surnommée la dixième des muses.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455525,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Marguerite de Navarre",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216308"
+  ],
+  "personne-date-deces": "1549",
+  "personne-date-naissance": "terme-2015-12-06-16-26-10-86966230254",
+  "personne-nom-famille": "de Navarre",
+  "personne-nom-prenom": "Marguerite",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216308",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Marguerite de Navarre"
+    ]
+  }
+}

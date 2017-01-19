@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-06-59-58-87534215913",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-58",
+  "description": "Michel Grossetti, né le 24 juin 1957 à Toulouse, est un sociologue français, directeur de recherche au CNRS. Il est l’auteur de nombreux ouvrages consacrés à la science, le développement des institutions scientifiques, et l'analyse des réseaux.<br>Il est membre du LISST. Il a dirigé de nombreux projets collectifs au cours de sa carrière, dont le programme « Villes et institutions scientifiques » dans le cadre du PIRVILLE dans les années 1994-1996 et le projet européen Interreg « Développement des potentiels scientifiques et structuration du système urbain, scénarios pour l'avenir » entre 1999 et 2001 (à l’origine de l’ouvrage co-dirigé avec Philippe Losego en 2003, \"La territorialisation de l’enseignement supérieur et de la recherche. France, Espagne, Portugal\").<br>Sociologue français, directeur de recherche au CNRS. Il est l’auteur de nombreux ouvrages consacrés à la science, le développement des institutions scientifiques, et l'analyse des réseaux.<br>L'un des principaux apports de Michel Grossetti est sa contribution à la théorie sociologique. Alors qu'une vision classique associe la régularité au niveau macrosociologique et l'imprévisibilité au niveau microsociologique, Il montre que les phénomènes imprévisibles peuvent changer de niveau d'analyse.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 452482,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-06-59-58",
+  "moment-de-modification": "2016-03-25-06-59-58",
+  "nom": "Michel Grossetti",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-58-87534215913"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-32-86966227964",
+  "personne-nom-famille": "Grossetti",
+  "personne-nom-prenom": "Michel",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-58-87534215913",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-contenu": [
+    "?"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Michel Grossetti"
+    ]
+  }
+}

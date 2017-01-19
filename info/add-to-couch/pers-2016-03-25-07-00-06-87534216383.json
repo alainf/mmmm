@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216383",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Sir Tom Stoppard, dramaturge britannique, est né Tomáš Straussler le 3 juillet 1937 à Zlín en Tchécoslovaquie. Sa famille émigre d'abord à Singapour (15 mars 1939 au moment de l'invasion du pays) pour échapper aux persécutions nazies à l'encontre des Juifs, puis en Inde où il prend le nom du second mari de sa mère « Stoppard ». Il débute en 1954 comme journaliste, écrit sa première pièce en 1960, « Enter a Free Man », la première à être montée est « Rosencrantz and Guildenstern Are Dead » (Rosencrantz et Guildenstern sont morts dont il tirera lui-même un film en 1990).<br>Tom Stoppard a également écrit de nombreuses pièces radiophoniques, des adaptations pour la télévision et des scénarios, dont les célèbres « Brazil » (nommé aux Oscars) et « Shakespeare in Love » (Oscar du meilleur film et du meilleur scénario) pour lesquels il a également reçu des « Academy Awards ». Il a aussi traduit et adapté des pièces de Sławomir Mrożek, Arthur Schnitzler, Federico Garcia Lorca et Václav Havel. Il est devenu membre de l'Outrapo et a été anobli par Élisabeth II en 1997.<br>Il est par ailleurs réalisateur d'un seul film à ce jour : Rosencrantz & Guildenstern sont morts (Rosencrantz & Guildenstern Are Dead) (d'après sa pièce), sorti en 1990 (film qui a remporté le Lion d'or à la Mostra de Venise).",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455558,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Tom Stoppard",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216383"
+  ],
+  "personne-date-naissance": "1937",
+  "personne-nom-famille": "Stoppard",
+  "personne-nom-prenom": "Tom",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216383",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Tom Stoppard"
+    ]
+  }
+}

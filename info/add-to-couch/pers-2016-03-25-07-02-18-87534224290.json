@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224290",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461516,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174426"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Hans-Peter Blossfeld",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224290"
+  ],
+  "personne-nom-famille": "Blossfeld",
+  "personne-nom-prenom": "Hans-Peter",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224290",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234482"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Hans-Peter Blossfeld"
+    ]
+  }
+}

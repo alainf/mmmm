@@ -1,0 +1,28 @@
+{
+  "_id": "pers-2016-03-25-06-59-22-87534213726",
+  "ajouter-aux-favoris": false,
+  "description": "Insight, analysis, and research about emerging technologies.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 31229,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-22",
+  "moment-de-modification": "2016-03-25-06-59-22",
+  "nom": "Bill O'Reilly",
+  "nom-machine": "pers-2016-03-25-06-59-22-87534213726",
+  "personne-nom-famille": "O'Reilly",
+  "personne-nom-prenom": "Bill",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-22-87534213726",
+  "sous-type": "pers",
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Bill O'Reilly"
+    ]
+  }
+}

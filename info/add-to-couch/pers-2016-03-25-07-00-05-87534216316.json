@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-05-87534216316",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-05",
+  "description": "Pierre Carlet de Chamblain de Marivaux (Paris, (baptisé le) 4 février 1688 - Paris, 12 février 1763), communément appelé Marivaux, est un écrivain français. Homme solitaire et discret, longtemps mal compris1, il fut un journaliste, un romancier, mais surtout un auteur dramatique fécond, qui, amoureux du théâtre et de la vérité, observait en spectateur lucide le monde en pleine évolution et écrivit pour les Comédiens italiens, entre 1722 et 1740, des comédies sur mesure et d'un ton nouveau, dans le langage « de la conversation ». Il est, après Molière, Racine, Pierre Corneille et Musset le cinquième auteur le plus joué par la Comédie française2.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455528,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-05",
+  "moment-de-modification": "2016-03-25-07-00-05",
+  "nom": "Pierre Carlet de Chamblain de Marivaux",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-05-87534216316"
+  ],
+  "personne-date-deces": "1763",
+  "personne-date-naissance": "terme-2015-12-06-16-23-37-86966221072",
+  "personne-nom-famille": "Carlet de Chamblain de Marivaux",
+  "personne-nom-prenom": "Pierre",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-05-87534216316",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Pierre Carlet de Chamblain de Marivaux"
+    ]
+  }
+}

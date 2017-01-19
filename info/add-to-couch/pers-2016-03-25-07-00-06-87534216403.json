@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216403",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "Wolfgang Borchert est un écrivain allemand engagé, né à Hambourg le 20 mai 1921. Il meurt à Bâle le 20 novembre 1947.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455567,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "Wolfgang Borchert",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216403"
+  ],
+  "personne-date-deces": "1947",
+  "personne-date-naissance": "terme-2015-12-06-16-25-30-86966227845",
+  "personne-nom-famille": "Borchert",
+  "personne-nom-prenom": "Wolfgang",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216403",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Wolfgang Borchert"
+    ]
+  }
+}

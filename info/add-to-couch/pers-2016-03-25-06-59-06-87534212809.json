@@ -1,0 +1,38 @@
+{
+  "_id": "pers-2016-03-25-06-59-06-87534212809",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-06",
+  "description": "Abdelmalek Sayad est né en 1933 à Aghbala, commune de Beni Djellil en petite Kabylie, région berbère du nord de l'Algérie (Algérie française à l'époque), troisième et unique garçon d'une famille de cinq enfants. Entré à l'école à l'âge de sept ans, il fait ses études primaires dans son village natal. Il continue sa scolarité au lycée de Bejaïa (Bougie), puis fait une formation d'instituteur à l'école normale de Bouzareah à Alger. Il est ensuite nommé instituteur à l'école du quartier Barberousse dans la casbah d'Alger. Il poursuit enfin ses études à l'université d'Alger où il fait la rencontre de Pierre Bourdieu.<br>En 1963, il s'installe en France. D'abord vacataire au Centre de sociologie européenne de l'École des hautes études en sciences sociales (EHESS), il intègre en 1977 le Centre national de la recherche scientifique (CNRS), nommé Directeur de recherches en sociologie. Abdelmalek Sayad décède le 13 mars 1998.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 269846,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-06",
+  "moment-de-modification": "2016-03-25-06-59-06",
+  "nom": "Abdelmalek Sayad",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-06-87534212809"
+  ],
+  "personne-nom-famille": "Sayad",
+  "personne-nom-prenom": "Abdelmalek",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-06-87534212809",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Abdelmalek Sayad"
+    ]
+  }
+}

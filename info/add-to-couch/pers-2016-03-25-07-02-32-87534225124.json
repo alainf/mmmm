@@ -1,0 +1,40 @@
+{
+  "_id": "pers-2016-03-25-07-02-32-87534225124",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-32",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 462904,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-10",
+  "moment-de-creation": "2016-03-25-07-02-32",
+  "moment-de-modification": "2016-03-25-07-02-32",
+  "nom": "Francis Galton",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-32-87534225124"
+  ],
+  "personne-date-deces": "1911",
+  "personne-date-naissance": "terme-2015-12-06-16-25-23-86966227427",
+  "personne-nom-famille": "Galton ",
+  "personne-nom-prenom": "Francis",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-32-87534225124",
+  "sous-type": "pers",
+  "tip": "auteurs.html",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Francis Galton"
+    ]
+  }
+}

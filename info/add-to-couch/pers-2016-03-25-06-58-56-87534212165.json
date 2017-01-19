@@ -1,0 +1,38 @@
+{
+  "_id": "pers-2016-03-25-06-58-56-87534212165",
+  "ajouter-aux-favoris": false,
+  "description": "Blogue de Dario Lezzoni sur l'économie humaine et solidaire<br>Émission radio de Dario Lezzoni sur l'économie humaine et solidaire",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 23700,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-58-56",
+  "moment-de-modification": "2016-03-25-06-58-56",
+  "mots-clefs": [
+    "échelle humaine",
+    "CIBL",
+    "Dario Lezzoni",
+    "radio",
+    "radio de Montréal"
+  ],
+  "nom": "Dario Lezzoni",
+  "nom-machine": "pers-2016-03-25-06-58-56-87534212165",
+  "personne-nom-famille": "Dario",
+  "personne-nom-prenom": "Lezzoni",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-58-56-87534212165",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-26-15-86966230543"
+  ],
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Dario Lezzoni"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-06-58-48-87534211722",
+  "ajouter-aux-favoris": false,
+  "description": "Blogue - Critique de cinéma indépendant<br>Helen : J'ai été critique de cinéma pour l'hebdo culturel montréalais ICI de mai 2003 à juin 2006. J'ai également été chef de la section cinéma de cet hebdo de mai 2005 à mai 2006.Je suis maintenant rédactrice en chef du www.revue24images.com Mais j'ai eu envie de partager ma passion des films d'une autre façon, en toute liberté.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 20409,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-58-48",
+  "moment-de-modification": "2016-03-25-06-58-48",
+  "mots-clefs": [
+    "blogue",
+    "cinéma",
+    "cinéma indépendant",
+    "critique",
+    "Helen",
+    "michel Boujut"
+  ],
+  "nom": "Helen Helen",
+  "nom-machine": "pers-2016-03-25-06-58-48-87534211722",
+  "personne-nom-famille": "Helen",
+  "personne-nom-prenom": "Helen",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-58-48-87534211722",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-38-86966224698"
+  ],
+  "type": "ressources",
+  "nomLangues": {
+    "fr": [
+      "Helen Helen"
+    ]
+  }
+}

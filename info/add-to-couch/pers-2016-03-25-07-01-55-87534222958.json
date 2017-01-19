@@ -1,0 +1,39 @@
+{
+  "_id": "pers-2016-03-25-07-01-55-87534222958",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-01-55",
+  "description": "Paul Karl Feyerabend (13 janvier 1924 – 11 février 1994) est un philosophe des sciences d'origine autrichienne, naturalisé Américain, qui a vécu en Angleterre, aux États-Unis, en Nouvelle-Zélande, en Italie et finalement en Suisse.<br>Ses principaux travaux sont Contre la méthode (publié en 1975), La science dans une société libre (publié en 1978) et Adieu la raison (un recueil d'articles publié en 1987). Il devient célèbre pour sa vision anarchiste de la science et son déni de l'existence de règles méthodologiques universelles. Il est une figure influente dans le domaine de la philosophie des sciences, notamment par sa théorie épistémologique dite de « l'anarchisme épistémologique » qu'il a exposée dans l'ouvrage Contre la méthode. Esquisse d’une théorie anarchiste de la connaissance en 1975.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 459021,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-01-55",
+  "moment-de-modification": "2016-03-25-07-01-55",
+  "nom": "Paul Feyerabend",
+  "nom-machine": [
+    "pers-2016-03-25-07-01-55-87534222958"
+  ],
+  "personne-nom-famille": "Feyerabend",
+  "personne-nom-prenom": "Paul",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-01-55-87534222958",
+  "sous-type": "pers",
+  "tip": "Philosophe des sciences (anarchisme épistémologique)",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Paul Feyerabend"
+    ]
+  }
+}

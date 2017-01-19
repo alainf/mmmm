@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-06-87534216393",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-06",
+  "description": "William Congreve (24 janvier 1670 à Bardsey près de Leeds – 19 janvier 1729 à Londres) est un dramaturge et poète britannique.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455563,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-05",
+  "moment-de-creation": "2016-03-25-07-00-06",
+  "moment-de-modification": "2016-03-25-07-00-06",
+  "nom": "William Congreve",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-06-87534216393"
+  ],
+  "personne-date-deces": "1729",
+  "personne-date-naissance": "terme-2015-12-06-16-23-42-86966221331",
+  "personne-nom-famille": "Congreve",
+  "personne-nom-prenom": "William",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-06-87534216393",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "William Congreve"
+    ]
+  }
+}

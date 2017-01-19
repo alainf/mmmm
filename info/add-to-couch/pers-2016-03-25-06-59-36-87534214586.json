@@ -1,0 +1,36 @@
+{
+  "_id": "pers-2016-03-25-06-59-36-87534214586",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-36",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4291,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-02",
+  "moment-de-creation": "2016-03-25-06-59-36",
+  "moment-de-modification": "2016-03-25-06-59-36",
+  "nom": "Gilles Deleuze",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-36-87534214586"
+  ],
+  "personne-date-deces": "1995",
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227863",
+  "personne-nom-famille": "Deleuze",
+  "personne-nom-prenom": "Gilles",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-36-87534214586",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Gilles Deleuze"
+    ]
+  }
+}

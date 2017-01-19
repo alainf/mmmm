@@ -1,0 +1,51 @@
+{
+  "_id": "pers-2016-03-25-07-03-04-87534227063",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-03-04",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 465839,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-16",
+  "moment-de-creation": "2016-03-25-07-03-04",
+  "moment-de-modification": "2016-03-25-07-03-04",
+  "nom": "Jean-Paul Galibert",
+  "nom-machine": [
+    "pers-2016-03-25-07-03-04-87534227063"
+  ],
+  "personne-nom-famille": "Galibert",
+  "personne-nom-prenom": "Jean-Paul ",
+  "section": [
+    "terme-2015-12-06-16-23-43-86966221427"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-03-04-87534227063",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-26-31-86966231498",
+    "terme-2015-12-06-16-26-32-86966231557"
+  ],
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-11-86966233878",
+    "terme-2015-12-06-16-27-11-86966233885",
+    "terme-2015-12-06-16-27-14-86966234095"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234411",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean-Paul Galibert"
+    ]
+  }
+}

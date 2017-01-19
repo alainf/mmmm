@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-01-87534216104",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-01",
+  "description": "Sacha Guitry, de son nom complet Alexandre Georges-Pierre Guitry, est un comédien et dramaturge français, metteur en scène de théâtre, réalisateur et scénariste de cinéma, né le 21 février 1885 à Saint-Pétersbourg (Russie) et mort le 24 juillet 1957 à Paris.<br>Auteur dramatique prolifique, il a écrit 124 pièces de théâtre, dont beaucoup furent de grands succès, et en a adapté lui-même dix-sept au cinéma. Interprète de la quasi-totalité de ses films, il est l'auteur d'une œuvre cinématographique, riche de trente-six films, qui comprend notamment Le Roman d'un tricheur, Désiré, Mon père avait raison, Quadrille, Ils étaient neuf célibataires, La Poison, Si Versailles m'était conté, Assassins et voleurs.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455437,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-03",
+  "moment-de-creation": "2016-03-25-07-00-01",
+  "moment-de-modification": "2016-03-25-07-00-01",
+  "nom": "Sacha Guitry",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-01-87534216104"
+  ],
+  "personne-date-deces": "1957",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227743",
+  "personne-nom-famille": "Guitry",
+  "personne-nom-prenom": "Sacha",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-01-87534216104",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Sacha Guitry"
+    ]
+  }
+}

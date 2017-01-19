@@ -1,0 +1,50 @@
+{
+  "_id": "pers-2016-03-25-06-59-10-87534213016",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-06-59-10",
+  "description": "Chroniqueure médias, Nathalie Collard est journaliste à La Presse depuis 2001. Elle a été éditorialiste de 2005 à 2010. Auparavant, elle a collaboré à plusieurs publications québécoises et canadiennes. Elle est l’auteure, avec Pascale Navarro, d’Interdit aux femmes, un essai portant sur la pornographie, le féminisme et la liberté d’expression, et avec Dr Jean-François Chicoine, de l’essai Le bébé et l’eau du bain.<br>Elle explore le monde des médias dans les pages de La Presse, sur son blogue et sur twitter.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 271739,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-01",
+  "moment-de-creation": "2016-03-25-06-59-10",
+  "moment-de-modification": "2016-03-25-06-59-10",
+  "mots-clefs": [
+    "journaliste",
+    "médias",
+    "quotidien"
+  ],
+  "nom": "Nathalie Collard",
+  "nom-machine": [
+    "pers-2016-03-25-06-59-10-87534213016"
+  ],
+  "personne-nom-famille": "Collard",
+  "personne-nom-prenom": "Nathalie",
+  "section": [
+    "terme-2015-12-06-16-23-38-86966221133"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-06-59-10-87534213016",
+  "sous-type": "pers",
+  "tip": "Chroniqueur Médias de Cyberpresse",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-10-86966233857",
+    "terme-2015-12-06-16-27-15-86966234132"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-19-86966234380",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Nathalie Collard"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "pers-2016-03-06-01-37-01-87434773317",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "importance": 0,
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-13-59-86966186354",
+    "lieu-2015-12-06-16-19-38-86966206705"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-06-01-37-01",
+  "moment-de-modification": "2016-03-06-01-39-59",
+  "nom": "Rodney Howard Hilton",
+  "nom-machine": "pers-2016-03-06-01-37-01-87434773317",
+  "personne-concernee": [
+    "pers-2016-03-06-01-37-01-87434773317"
+  ],
+  "personne-date-deces": "2002-06-07",
+  "personne-date-naissance": "1916-11-17",
+  "personne-nom-famille": "Hilton",
+  "personne-nom-prenom": "Rodney ",
+  "personne-wikipedia": "https://en.wikipedia.org/wiki/Rodney_Hilton",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-06-01-37-01-87434773317",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-24-47-86966225242",
+    "terme-2015-12-06-16-25-11-86966226696",
+    "terme-2015-12-06-16-26-26-86966231160",
+    "terme-2015-12-06-16-26-26-86966231190",
+    "terme-2015-12-06-16-26-53-86966232821"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Rodney Howard Hilton"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-04-87534216247",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-04",
+  "description": "Jean Racine, né à La Ferté-Milon le 22 décembre 1639 et mort à Paris le 21 avril 1699, est un dramaturge français considéré comme l'un des plus grands auteurs de tragédies de la période classique de la France de Louis XIV.<br>Issu d'une famille de petits notables et vite orphelin, il est élevé par sa grand-mère et sa marraine et reçoit une solide éducation littéraire marquée par le jansénisme. Il choisit ensuite de se consacrer à la littérature et particulièrement au théâtre en faisant jouer La Thébaïde en 1664 et Alexandre le Grand en 1665, qui est son premier succès et qui lui vaut le soutien du jeune roi Louis XIV mais il se brouille avec Molière.<br>Le succès d'Andromaque en 1667 ouvre une décennie de grande création où l'on trouve à côté d'une unique comédie (Les Plaideurs en 1668) six grandes tragédies : Britannicus (1669), Bérénice (1670), Bajazet (1672), Mithridate (1673), Iphigénie (1674) et Phèdre (1677). Auteur à succès mais ébranlé par les cabales et ayant renoué avec le jansénisme, Racine abandonne le théâtre, devient Historiographe du Roi et entre à l'Académie française en 1672. C'est pour répondre à la demande de Madame de Maintenon qu'il revient à l'écriture théâtrale et donne deux tragédies aux sujets bibliques aux jeunes filles de Saint-Cyr : Esther (en 1689) et Athalie (en 1691).<br>Privilégiant les sujets grecs, Racine, cherchant à rivaliser avec Pierre Corneille, a néanmoins traité trois sujets romains, et un sujet moderne, Bajazet (1672), mais décalé dans l'espace puisque se déroulant dans l'Empire ottoman. On a pu lui reprocher le manque de vérité historique (dans Britannicus ou Mithridate par exemple) et le manque d'action (particulièrement dans Bérénice), mais on a salué la musique de ses vers, son respect assez strict des unités de temps, de lieu et d'action qui renforcent la densité et le sentiment tragique, ainsi que de la vraisemblance psychologique : les passions de chacun deviennent en effet les instruments du destin. Parmi ces passions, l'amour tient la première place et Racine l'analyse avec ses manifestations physiologiques (ex. : Je le vis, je rougis, je pâlis à sa vue ;// Un trouble s'éleva dans mon âme éperdue, Phèdre, v.272-273). La passion anime et détruit les personnages pourtant tout-puissants (rois, empereurs, princesses...) qui ne peuvent rien sur leur propre destin. Associant la prédestination janséniste et le fatum des tragédies de l'Antiquité, Racine montre ce cheminement inexorable propre à faire naître la terreur et la pitié de la catharsis d'Aristote.<br>L'économie des moyens (densité du propos avec un nombre restreint de mots pour toutes ses œuvres, utilisation du confident pour rendre plus naturelle l'expression des personnages), la rigueur de la construction (situation de crise menée à son acmé), la maîtrise de l'alexandrin et la profondeur de l'analyse psychologique font des œuvres de Jean Racine un modèle de la tragédie classique française.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455500,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-04",
+  "moment-de-modification": "2016-03-25-07-00-04",
+  "nom": "Jean Racine",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-04-87534216247"
+  ],
+  "personne-date-deces": "1699",
+  "personne-date-naissance": "1639",
+  "personne-nom-famille": "Racine",
+  "personne-nom-prenom": "Jean",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-04-87534216247",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Jean Racine"
+    ]
+  }
+}

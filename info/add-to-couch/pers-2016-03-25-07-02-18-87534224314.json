@@ -1,0 +1,41 @@
+{
+  "_id": "pers-2016-03-25-07-02-18-87534224314",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-18",
+  "description": "Hartmut Esser (* 21. Dezember 1943 in Elend, Harz) ist Professor für Soziologie und Wissenschaftslehre an der Universität Mannheim.<br>In seinem Einführungswerk \"Soziologie. Allgemeine Grundlagen\" von 1993 sowie in dem ab 1999 erschienenen sechsbändigen Werk \"Soziologie. Spezielle Grundlagen\" stellt er seinen an der Theorie der rationalen Entscheidung (rational choice) orientierten Ansatz mikrofundierter Methodologie in den Sozialwissenschaften vor. In diesem Gebiet gilt er als Vorreiter.<br>In früheren Jahren war er vor allem im Bereich der Migrationssoziologie tätig. Seine wissenschaftstheoretische Ausrichtung ist die des von Karl Popper begründeten Kritischen Rationalismus.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461529,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174426"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-18",
+  "moment-de-modification": "2016-03-25-07-02-18",
+  "nom": "Hartmut Esser",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-18-87534224314"
+  ],
+  "personne-date-naissance": "terme-2015-12-06-16-25-31-86966227911",
+  "personne-nom-famille": "Esser",
+  "personne-nom-prenom": "Hartmut",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-18-87534224314",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-21-86966234485"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Hartmut Esser"
+    ]
+  }
+}

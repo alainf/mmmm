@@ -1,0 +1,54 @@
+{
+  "_id": "pers-2016-03-25-07-02-17-87534224260",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-02-17",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 461502,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-40-86966174431"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-15-45-86966192740",
+    "lieu-2015-12-06-16-22-45-86966217930"
+  ],
+  "lieu-edition": [
+    "lieu-2015-12-06-16-15-45-86966192740"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-07",
+  "moment-de-creation": "2016-03-25-07-02-17",
+  "moment-de-modification": "2016-03-25-07-02-17",
+  "nom": "Möna Abouissa",
+  "nom-machine": [
+    "pers-2016-03-25-07-02-17-87534224260"
+  ],
+  "personne-nom-famille": "Abouissa",
+  "personne-nom-prenom": "Möna",
+  "section": [
+    "terme-2015-12-06-16-23-38-86966221136",
+    "terme-2015-12-06-16-23-39-86966221142"
+  ],
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-02-17-87534224260",
+  "sous-type": "pers",
+  "tip": "Journaliste basée au Caire",
+  "type": "ressources",
+  "type-de-contenu": [
+    "terme-2015-12-06-16-27-11-86966233881"
+  ],
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335",
+    "terme-2015-12-06-16-27-20-86966234417",
+    "terme-2015-12-06-16-27-20-86966234423"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Möna Abouissa"
+    ]
+  }
+}

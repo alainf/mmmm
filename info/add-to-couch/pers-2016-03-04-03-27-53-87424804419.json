@@ -1,0 +1,69 @@
+{
+  "_id": "pers-2016-03-04-03-27-53-87424804419",
+  "ajouter-aux-favoris": false,
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 4386,
+  "importance": 0,
+  "langue-edition": [
+    "terme-2015-12-06-16-10-42-86966174537"
+  ],
+  "lieu-concerne": [
+    "lieu-2015-12-06-16-10-48-86966174886",
+    "lieu-2015-12-06-16-10-53-86966175218",
+    "lieu-2015-12-06-16-16-08-86966194089",
+    "lieu-2015-12-06-16-16-35-86966195724",
+    "lieu-2015-12-06-16-19-34-86966206484"
+  ],
+  "mise-a-jour": "2016-05-09-16-44-00",
+  "moment-de-creation": "2016-03-04-03-27-53",
+  "moment-de-modification": "2016-03-04-03-29-59",
+  "nom": "Herbert Marcuse",
+  "nom-machine": [
+    "pers-2016-03-04-03-27-53-87424804419"
+  ],
+  "personne-concernee": [
+    "pers-2016-03-04-03-27-53-87424804419",
+    "pers-2016-03-04-03-30-52-87424815143",
+    "pers-2016-03-25-06-59-10-87534213009",
+    "pers-2016-03-25-06-59-33-87534214410",
+    "pers-2016-03-25-06-59-36-87534214579",
+    "pers-2016-03-25-06-59-37-87534214670",
+    "pers-2016-03-25-06-59-41-87534214874",
+    "pers-2016-03-25-07-00-28-87534217696",
+    "pers-2016-03-25-07-02-29-87534224985",
+    "pers-2016-03-25-07-02-40-87534225641",
+    "pers-2016-03-25-07-02-57-87534226679"
+  ],
+  "personne-date-deces": "1979-07-29",
+  "personne-date-naissance": "terme-2015-12-06-16-25-29-86966227760",
+  "personne-nom-famille": "Marcuse",
+  "personne-nom-prenom": "Herbert",
+  "personne-role": [
+    "terme-2015-12-06-16-23-28-86966220508<br>terme-2015-12-06-16-23-29-86966220574<br>terme-2015-12-06-16-23-30-86966220620"
+  ],
+  "personne-wikipedia": "https://fr.wikipedia.org/wiki/Herbert_Marcuse",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-04-03-27-53-87424804419",
+  "sous-type": "pers",
+  "sujet": [
+    "terme-2015-12-06-16-25-04-86966226256",
+    "terme-2015-12-06-16-25-14-86966226873",
+    "terme-2015-12-06-16-26-25-86966231110",
+    "terme-2015-12-06-16-26-31-86966231498",
+    "terme-2015-12-06-16-27-05-86966233545"
+  ],
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Herbert Marcuse"
+    ]
+  }
+}

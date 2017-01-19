@@ -1,0 +1,37 @@
+{
+  "_id": "pers-2016-03-25-07-00-03-87534216197",
+  "ajouter-aux-favoris": false,
+  "date-edition": "2016-03-25-07-00-03",
+  "description": "Franz Grillparzer (né le 15 janvier 1791 à Vienne - mort le 21 janvier 1872 à Vienne) est un dramaturge autrichien.",
+  "fiche-a-completer": true,
+  "fiche-publiee": true,
+  "identifiant-drupal": 455479,
+  "importance": 0,
+  "mise-a-jour": "2016-05-09-16-44-04",
+  "moment-de-creation": "2016-03-25-07-00-03",
+  "moment-de-modification": "2016-03-25-07-00-03",
+  "nom": "Franz Grillparzer",
+  "nom-machine": [
+    "pers-2016-03-25-07-00-03-87534216197"
+  ],
+  "personne-date-deces": "1872",
+  "personne-date-naissance": "terme-2015-12-06-16-25-22-86966227331",
+  "personne-nom-famille": "Grillparzer",
+  "personne-nom-prenom": "Franz",
+  "site-de-diffusion": [
+    "terme-2015-12-06-16-23-47-86966221646"
+  ],
+  "source-defectueuse": false,
+  "source-url": "http://www.phdadministration.net/?id=pers-2016-03-25-07-00-03-87534216197",
+  "sous-type": "pers",
+  "type": "ressources",
+  "type-de-ressource": [
+    "terme-2015-12-06-16-27-16-86966234209",
+    "terme-2015-12-06-16-27-18-86966234335"
+  ],
+  "nomLangues": {
+    "fr": [
+      "Franz Grillparzer"
+    ]
+  }
+}
