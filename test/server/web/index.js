@@ -74,9 +74,65 @@ lab.experiment('Home Page View (fr)', () => {
 
   lab.test('fr home page renders properly (/fr/accueil)', (done) => {
     server.inject(request, (response) => {
-      Code.expect(response.result).to.match(/<h3 id='page-main-title' class='text-center'>Accueil de PhdAdmin<\/h3>/i)
-      Code.expect(response.result).to.match(/<a href="\/fr\/accueil"><span title="Français" class="badge alert">Fr<\/span>&nbsp;<\/a>/i)
-      Code.expect(response.result).to.match(/<a href="\/en\/accueil"><span title="English" class="badge">En<\/span>&nbsp;<\/a>/i)
+      Code.expect(response.result).to.match(/<a target='_blank' href="\/fr\/detail\/lead-2016-12-01-18-00-01-random" title="Tooltip du hyperlien dont le href est dans path">Donald Trump nomme un banquier de Wall Street à la tête de l'économie américaine<\/a>/i)
+      Code.expect(response.result).to.match(/<p class='strong'><a target='_blank' href="\/fr\/detail\/lead-2016-12-03-18-00-42-random">La régulation des goûts<\/a><\/p>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/section\/terme-2015-12-06-16-23-30-86966220628">À propos<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/sujet\/terme-2015-12-06-16-24-22-86966223762">Agriculture<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<a href="\/fr\/accueil"><img src="\/img\/phdadmin_logo.png" alt="PhD Administration"><\/a>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/sujet\/terme-2015-12-06-16-24-49-86966225379">Droit<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<h5 class='bloc-title'>En bref<\/h5>/i)
+
+      Code.expect(response.statusCode).to.equal(200)
+
+      done()
+    })
+  })
+})
+
+lab.experiment('Home Page View (en)', () => {
+  lab.beforeEach((done) => {
+    request = {
+      method: 'GET',
+      url: '/en/accueil'
+    }
+
+    done()
+  })
+
+  lab.test('en home page renders properly (/en/accueil)', (done) => {
+    server.inject(request, (response) => {
+      Code.expect(response.result).to.match(/<a target='_blank' href="\/en\/detail\/lead-2016-12-01-18-00-01-random" title="Tooltip du hyperlien dont le href est dans path">Donald Trump nomme un banquier de Wall Street à la tête de l'économie américaine<\/a>/i)
+      Code.expect(response.result).to.match(/<p class='strong'><a target='_blank' href="\/en\/detail\/lead-2016-12-03-18-00-42-random">La régulation des goûts<\/a><\/p>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/en\/section\/terme-2015-12-06-16-23-30-86966220628">About<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/en\/sujet\/terme-2015-12-06-16-24-22-86966223762">Agriculture<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<a href="\/en\/accueil"><img src="\/img\/phdadmin_logo.png" alt="PhD Administration"><\/a>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/en\/sujet\/terme-2015-12-06-16-24-49-86966225379">Law<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<h5 class='bloc-title'>In short<\/h5>/i)
+
+      Code.expect(response.statusCode).to.equal(200)
+
+      done()
+    })
+  })
+})
+
+lab.experiment('Trump nomme banquier (fr)', () => {
+  lab.beforeEach((done) => {
+    request = {
+      method: 'GET',
+      url: '/fr/detail/lead-2016-12-01-18-00-01-random'
+    }
+
+    done()
+  })
+
+  lab.test('fr Trump nomme banquier detail page renders properly (/fr/detail/lead-2016-12-01-18-00-01-random)', (done) => {
+    server.inject(request, (response) => {
+      Code.expect(response.result).to.match(/<h2>Trump nomme banquier de Wall Street à la tête de l'économie américaine<\/h2>/i)
+      Code.expect(response.result).to.match(/<a href="\/fr\/section\/terme-2015-12-06-16-23-37-86966221060">Politique<\/a>/i)
+      Code.expect(response.result).to.match(/<a href="\/fr\/sujet\/terme-2015-12-06-16-24-54-86966225669">Économie<\/a>/i)
+      Code.expect(response.result).to.match(/<dd><p>lead-2016-12-01-18-00-01-random<\/p><\/dd>/i)
+      Code.expect(response.result).to.match(/<img src="\/img\/phdadmin_logo.png" alt="Accueil" title="Consulter la page d&#39;accueil">/i)
 
       Code.expect(response.statusCode).to.equal(200)
 
