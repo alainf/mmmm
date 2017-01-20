@@ -114,7 +114,8 @@
   "Criticable": "Mediocre",
   "À éliminer": "Eliminate",
   "Recevoir notifications": "Recevoir notifications",
-  "Accueil du site PhdAdmin": "Accueil du site PhdAdmin",
+  "Accueil du site PhdAdmin": "Welcome to PhdAdmin",
   "PhdAdmin Sujet %s": "PhdAdmin Subject %s",
-  "PhdAdmin Section %s": "PhdAdmin Section %s"
+  "PhdAdmin Section %s": "PhdAdmin Section %s",
+  "Accueil de PhdAdmin": "Welcome to PhdAdmin"
 }

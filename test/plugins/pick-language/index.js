@@ -147,7 +147,7 @@ lab.experiment('Home Page View (en)', () => {
 
   lab.test('en home page renders properly (/en/accueil)', (done) => {
     server.inject(request, (response) => {
-      // Code.expect(response.result).to.match(/<h3 id='page-main-title' class='text-center'>Accueil de PhdAdmin<\/h3>/i)
+      Code.expect(response.result).to.match(/<h3 id='page-main-title' class='text-center'>Welcome to PhdAdmin<\/h3>/i)
       Code.expect(response.result).to.match(/<a href="\/fr\/accueil"><span title="Français" class="badge">Fr<\/span>&nbsp;<\/a>/i)
       Code.expect(response.result).to.match(/<a href="\/en\/accueil"><span title="English" class="badge alert">En<\/span>&nbsp;<\/a>/i)
       Code.expect(response.statusCode).to.equal(200)
