@@ -140,3 +140,76 @@ lab.experiment('Trump nomme banquier (fr)', () => {
     })
   })
 })
+
+lab.experiment('Section politique (fr)', () => {
+  lab.beforeEach((done) => {
+    request = {
+      method: 'GET',
+      url: '/fr/section/terme-2015-12-06-16-23-37-86966221060'
+    }
+
+    done()
+  })
+
+  lab.test('fr Section politique page renders properly (/fr/section/terme-2015-12-06-16-23-37-86966221060)', (done) => {
+    server.inject(request, (response) => {
+      Code.expect(response.result).to.match(/<a target='_blank' href="\/fr\/detail\/lead-2016-12-01-18-00-01-random" title="Tooltip du hyperlien dont le href est dans path">Donald Trump nomme un banquier de Wall Street à la tête de l'économie américaine<\/a>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/sujet\/terme-2015-12-06-16-24-22-86966223762">Agriculture<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/section\/terme-2015-12-06-16-23-37-86966221063">Actions contre la corruption<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<h3 id='page-main-title' class='text-center'>Politique<\/h3>/i)
+
+      Code.expect(response.statusCode).to.equal(200)
+
+      done()
+    })
+  })
+})
+
+lab.experiment('Sujet Économie (fr)', () => {
+  lab.beforeEach((done) => {
+    request = {
+      method: 'GET',
+      url: '/fr/sujet/terme-2015-12-06-16-24-54-86966225669'
+    }
+
+    done()
+  })
+
+  lab.test('fr Sujet Économie page renders properly (/fr/sujet/terme-2015-12-06-16-24-54-86966225669)', (done) => {
+    server.inject(request, (response) => {
+      Code.expect(response.result).to.match(/<a target='_blank' href="\/fr\/detail\/lead-2016-12-01-18-00-01-random" title="Tooltip du hyperlien dont le href est dans path">Donald Trump nomme un banquier de Wall Street à la tête de l'économie américaine<\/a>/i)
+      Code.expect(response.result).to.match(/<a target='_blank' href="\/fr\/detail\/lead-2016-12-03-18-00-05-random" title="Tooltip du hyperlien dont le href est dans path">When oil is no longer in demand<\/a>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/sujet\/terme-2015-12-06-16-24-54-86966225673">Coûts environnementaux<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/sujet\/terme-2015-12-06-16-24-54-86966225669\/5" aria-label='Last page'>5<\/a><\/li>/i)
+
+      Code.expect(response.statusCode).to.equal(200)
+
+      done()
+    })
+  })
+})
+
+lab.experiment('Sujet Économie, page 2 (fr)', () => {
+  lab.beforeEach((done) => {
+    request = {
+      method: 'GET',
+      url: '/fr/sujet/terme-2015-12-06-16-24-54-86966225669/2'
+    }
+
+    done()
+  })
+
+  lab.test('fr Sujet Économie page 2 renders properly (/fr/sujet/terme-2015-12-06-16-24-54-86966225669/2)', (done) => {
+    server.inject(request, (response) => {
+      Code.expect(response.result).to.match(/<a target='_blank' href="\/fr\/detail\/lead-2016-12-03-18-00-11-random" title="Publié le jeudi 17 novembre 2016 à 09 h 19">Ottawa devrait signer d&#39;ici 6 mois<\/a>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/sujet\/terme-2015-12-06-16-24-54-86966225673">Coûts environnementaux<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/sujet\/terme-2015-12-06-16-24-54-86966225669\/5" aria-label='Last page'>5<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<li><a href="\/fr\/sujet\/terme-2015-12-06-16-24-54-86966225669\/1" aria-label='Page 1'>1<\/a><\/li>/i)
+      Code.expect(response.result).to.match(/<li class="current">2<\/li>/i)
+
+      Code.expect(response.statusCode).to.equal(200)
+
+      done()
+    })
+  })
+})
