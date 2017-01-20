@@ -5,7 +5,7 @@ const Config = require('./config')
 const criteria = { env: process.env.NODE_ENV }
 
 const manifest = {
-  $meta: 'This file defines the plot device.',
+  $meta: 'This file configures the mmmmm app.',
   server: {
     app: {
       siteTitle: Config.get('/app/siteTitle'),
@@ -70,6 +70,7 @@ const manifest = {
     { plugin: 'inert' },
     { plugin: 'vision' },
     { plugin: './plugins/pick-language/index' },
+/*
     {
       plugin: {
         register: './server/pro/index',
@@ -83,6 +84,7 @@ const manifest = {
       },
       options: { routes: { prefix: '/{languageCode}/pro' } }
     },
+*/
     {
       plugin: {
         register: './server/demo/index',
