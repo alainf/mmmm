@@ -214,25 +214,10 @@ exports.register = function (server, options, next) {
     })
   }
 
-/*
-
-/*
-* http://localhost:5990/machina/
-* _design/app/_view/
-* enfants?
-* reduce=false&
-* include_docs=true&
-* startkey=[%22sections%22,%22terme-2015-12-06-16-23-35-86966220949%22]&
-* endkey=[%22sections%22,%22terme-2015-12-06-16-23-35-86966220949%22,{}]
-
-
-// enfants?reduce=false&include_docs=true&startkey=["sections","terme-2015-12-06-16-23-35-86966220949"]&endkey=["sections","terme-2015-12-06-16-23-35-86966220949",{}]
-*/
-
   const mapperSousSujets = (request, callback) => {
     callback(
       null,
-      dbUrl + `/_design/app/_view/enfants?reduce=false&include_docs=true&startkey=${JSON.stringify(['sujets', request.params.sujetId])}&endkey=${JSON.stringify(['sujets', request.params.sujetId,{}])}`,
+      dbUrl + `/_design/app/_view/enfants?reduce=false&include_docs=true&startkey=${JSON.stringify(['sujets', request.params.sujetId])}&endkey=${JSON.stringify(['sujets', request.params.sujetId, {}])}`,
       { accept: 'application/json' }
     )
   }
@@ -240,7 +225,7 @@ exports.register = function (server, options, next) {
   const mapperSousSections = (request, callback) => {
     callback(
       null,
-      dbUrl + `/_design/app/_view/enfants?reduce=false&include_docs=true&startkey=${JSON.stringify(['sections', request.params.sectionId])}&endkey=${JSON.stringify(['sections', request.params.sectionId,{}])}`,
+      dbUrl + `/_design/app/_view/enfants?reduce=false&include_docs=true&startkey=${JSON.stringify(['sections', request.params.sectionId])}&endkey=${JSON.stringify(['sections', request.params.sectionId, {}])}`,
       { accept: 'application/json' }
     )
   }
@@ -258,12 +243,14 @@ exports.register = function (server, options, next) {
         }
         const sousType = types[row.key[0]]
         // console.log('ROW:', row)
-        if (!row.doc) { return {
-          id: row.value._id,
-          sousType: sousType,
-          href: '/' + [request.locale, sousType, row.value._id].join('/'),
-          nom: row.value._id
-        } }
+        if (!row.doc) {
+          return {
+            id: row.value._id,
+            sousType: sousType,
+            href: '/' + [request.locale, sousType, row.value._id].join('/'),
+            nom: row.value._id
+          }
+        }
         return {
           id: row.doc._id,
           sousType: sousType,
@@ -463,14 +450,14 @@ exports.register = function (server, options, next) {
       }
 
       reply.view('accueil', {
+        lesSections: sections.items,
+        lesSujets: sujets.items,
         pageInfo: pageInfo,
         breves: request.pre.bla,
         rows: rows,
         lastPage: lastPage,
         // lastPage: Math.ceil(payload.rows.length / 4),
-        page: request.params.n ? parseInt(request.params.n, 10) : 1,
-        lesSections: sections.items,
-        lesSujets: sujets.items
+        page: request.params.n ? parseInt(request.params.n, 10) : 1
       })
     })
   }

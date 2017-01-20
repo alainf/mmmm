@@ -57,11 +57,11 @@ exports.register = (server, options, next) => {
           sousType: v[0].key[0],
           enfants: v.map((x) => {
             if (!x.doc || !x.doc.nomLangues) { return { id: x.value._id } }
-             return {
-               nomLangue: firstArrayString(x.doc.nomLangues[request.locale]) || firstArrayString(x.doc.nomLangues.fr),
-               id: x.doc._id,
-               enfants: x.doc.enfants
-             }
+            return {
+              nomLangue: firstArrayString(x.doc.nomLangues[request.locale]) || firstArrayString(x.doc.nomLangues.fr),
+              id: x.doc._id,
+              enfants: x.doc.enfants
+            }
           })
         }
       })
@@ -156,7 +156,6 @@ exports.register = (server, options, next) => {
       }
     }
   })
-
 
   server.route({
     method: 'GET',
