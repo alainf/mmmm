@@ -65,14 +65,6 @@ lab.beforeEach((done) => {
   })
 })
 
-lab.experiment('Config meta', () => {
-  const fetchedMeta = Config.meta('/')
-  lab.test('get config meta', (done) => {
-    Code.expect(fetchedMeta).to.match(/This file configures mmmmm\./i)
-    done()
-  })
-})
-
 lab.experiment('Home Page View', () => {
   lab.beforeEach((done) => {
     request = {

@@ -1,7 +1,10 @@
 'use strict'
 
+// npm
 const Lab = require('lab')
 const Code = require('code')
+
+// self
 const Config = require('../config')
 
 const lab = exports.lab = Lab.script()
@@ -13,7 +16,7 @@ lab.experiment('Config', () => {
   })
 
   lab.test('it gets config meta data', (done) => {
-    Code.expect(Config.meta('/')).to.match(/this file configures the plot device/i)
+    Code.expect(Config.meta('/')).to.match(/This file configures mmmmm\./i)
     done()
   })
 })
