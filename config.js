@@ -18,7 +18,7 @@ const defFalse = {
 }
 
 const config = {
-  $meta: 'This file configures the plot device.',
+  $meta: 'This file configures mmmmm.',
   projectName: 'hapi-demo',
   app: {
     siteTitle: process.env.SITETITLE,
