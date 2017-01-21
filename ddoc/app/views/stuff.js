@@ -4,11 +4,11 @@
 module.exports = {
   map: function (doc) {
     var r
-
+    var t
     for (r in doc) {
-      // if (r !== '_rev' && r !== 'apercu' && r !== 'citation' && r !== 'contenu' && r !== 'description') {
       if (r !== '_rev') {
-        if (typeof doc[r] === 'string' || typeof doc[r] === 'number' || typeof doc[r] === 'boolean') {
+        t = typeof doc[r]
+        if (t === 'string' || t === 'number' || t === 'boolean') {
           emit([r, doc[r]])
         } else if (typeof doc[r] === 'object' && doc[r].length) {
           doc[r].forEach(function (x) {
