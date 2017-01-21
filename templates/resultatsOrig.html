@@ -7,26 +7,23 @@
 
 <%= partials.liensPublics({ usertype: "membre" }) %>
 
-<%= partials.displayHeader({ data: data, headerName: 'logoChercherFiltrer' }) %>
+<%= partials.displayHeader({ headerName: 'logoChercherFiltrer' }) %>
 
 <%= partials.displayBreadcrumb({ pageID: 'breadcrumbResultats' }) %>
 
-<%= partials.displayHeader({ data: data, headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: "membre" }) %>
+<%= partials.displayHeader({ headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: "membre" }) %>
 
 <br>
 <div class='row' id='afficher-resultats'>
 
   <div class='small-7 columns'>
     <div class=''>
-    <% data.rows.forEach((row) => { %>
-      <%= partials.resultat({ doc: row, languageCode: data.languageCode }) %>
-    <% }) %>
-
+    <p><img src="/img/placeholders/search-left.png" alt="Résultats de recherche"></p>
     </div>
   </div>
-
+  
   <div class='small-5 columns'>
-
+   
     <!-- capsule -->
     <div class='' id='afficher-capsule'>
       <p><a target='_blank' href="https://en.wikipedia.org/wiki/Albert_Einstein">
