@@ -1,6 +1,5 @@
 'use strict'
 
-
 /*
 FROM https://cloudant.com/product/pricing/
 
