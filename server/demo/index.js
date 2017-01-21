@@ -65,22 +65,31 @@ exports.register = (server, options, next) => {
           })
         }
       })
-/*
-      const ret2 = {}
-      for (let r in ret) {
-        if (!ret2[r]) { ret2[r] = [] }
-        ret2[r].push({
-          // aaa: ret[r],
-          nomParent: ret[r][0].value.nomParent,
-          sousType: ret[r][0].doc && ret[r][0].doc['sous-type'],
-          id: ret[r][0].doc && ret[r][0].doc._id,
-          nomLangues: ret[r][0].doc && ret[r][0].doc.nomLangues
-        })
-      }
-*/
       reply.view('demoSections', { ret: ret2 })
     })
   }
+
+  const mapperSearch = (request, callback) => {
+    const u = `/_design/app/_view/words?reduce=false&startkey="${request.query.word}"&endkey="${request.query.word}\\ufff0"&include_docs=true`
+    callback(null, dbUrl + u, { accept: 'application/json' })
+  }
+
+  const responderSearch = (err, res, request, reply, settings, ttl) => {
+    if (err) { return reply(err) } // FIXME: how to test?
+    if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
+    Wreck.read(res, { json: true }, (err, payload) => {
+      if (err) { return reply(err) } // FIXME: how to test?
+      reply(
+        '<p>Found: ' + payload.rows.length + ' items, see below.</p>' +
+        payload.rows
+          .map((x) => {
+            return '<pre>' + JSON.stringify(x, null, '  ') + '</pre>'
+          })
+          .join('')
+      )
+    })
+  }
+
 
   const mapperBy = (request, callback) => {
     callback(null, dbUrl + '/_design/app/_view/stuff?group_level=1', { accept: 'application/json' })
@@ -177,6 +186,18 @@ exports.register = (server, options, next) => {
         passThrough: true,
         mapUri: mapperBy,
         onResponse: responderBy
+      }
+    }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/search',
+    handler: {
+      proxy: {
+        passThrough: true,
+        mapUri: mapperSearch,
+        onResponse: responderSearch
       }
     }
   })
