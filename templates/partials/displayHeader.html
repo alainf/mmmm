@@ -4,10 +4,10 @@
     <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a>
   </div>
   <div class='small-6 columns'>
-    <br><form>
+    <br><form action="/<%- data.data.languageCode %>/demo/search">
     <div class='row'>
       <div class='small-6 columns'>
-         <input type='text' value="">
+         <input type="text" name="word">
       </div>
       <div class='small-6 columns'>
         <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/resultats" class='hollow button' title="Chercher parmi tous les articles ">Chercher</a>&nbsp;
@@ -25,10 +25,10 @@
     <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/accueil"><img src="/img/phdadmin_logo.png" alt="PhD Administration"></a>
   </div>
   <div class='small-6 columns'>
-    <br><form>
+    <br><form action="/<%- data.data.languageCode %>/demo/search">
     <div class='row'>
       <div class='small-6 columns'>
-         <input type='text' value="">
+         <input type="text" name="word">
       </div>
       <div class='small-6 columns'>
       <a href="/<%- data.data && data.data.pathparts && data.data.pathparts[0] || 'fr' %>/resultats" class='hollow button' title="Chercher parmi tous les articles ">Chercher</a>&nbsp;
