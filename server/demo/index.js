@@ -140,9 +140,13 @@ exports.register = (server, options, next) => {
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
-      reply(`<h1><a href="../../by">By...</a></h1><h2><a href="../../by/${payload.rows[0].key[0]}">${payload.rows[0].key[0]}</a></h2><h3>${payload.rows[0].key[1]}</h3>` + payload.rows.map((r) => {
-        return `<li><a href="../../doc/${r.id}">${r.id}</a></li>`
-      }).join('\n'))
+      if (payload.rows.length) {
+        reply(`<h1><a href="../../by">By...</a></h1><h2><a href="../../by/${payload.rows[0].key[0]}">${payload.rows[0].key[0]}</a></h2><h3>${payload.rows[0].key[1]}</h3>` + payload.rows.map((r) => {
+          return `<li><a href="../../doc/${r.id}">${r.id}</a></li>`
+        }).join('\n'))
+      } else {
+        reply('Nothing??')
+      }
     })
   }
 
