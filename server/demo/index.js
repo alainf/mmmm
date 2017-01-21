@@ -27,7 +27,7 @@ exports.register = (server, options, next) => {
 
   const firstArrayString = (aors) => {
     // console.log('AORS:', aors)
-    if (typeof aors === 'string') return { aors }
+    if (typeof aors === 'string') { return aors }
     if (typeof aors === 'object' && aors.length) { return aors[0] }
     // throw new Error('Bad ArrayOrString')
     return false
