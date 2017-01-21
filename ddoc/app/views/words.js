@@ -6,7 +6,7 @@ module.exports = {
     var cutter = function (str) {
       if (!str || typeof str !== 'string') { return [] }
       return str
-        .split(/[ ',.?!;<>/ \n=+\d…_"()\[\]«»&%$` —“„ˈ]+/)
+        .split(/[ ',.?!;<>/ \n=+\d…_"()\[\]«»&%$` —“„ˈ]+/) // eslint-disable-line
     }
 
     var firstArrayString = function (aors) {
@@ -47,8 +47,8 @@ module.exports = {
       .concat(cut2, cut3, cut4, cut5, cut6, cut7, cut8, cut9)
       .map(function (x) {
         return x
-          .replace(/^[\- ',.?!;<>/ \n=+\d…_"()\[\]«»&%$` —“„ˈ]+/, '')
-          .replace(/[\- ',.?!;<>/ \n=+\d…_"()\[\]«»&%$` —“„ˈ]+$/, '')
+          .replace(/^[\- ',.?!;<>/ \n=+\d…_"()\[\]«»&%$` —“„ˈ]+/, '') // eslint-disable-line
+          .replace(/[\- ',.?!;<>/ \n=+\d…_"()\[\]«»&%$` —“„ˈ]+$/, '') // eslint-disable-line
       })
       .filter(function (x) { return x && x.length > 2 })
       .forEach(function (x) { ret[x.toLowerCase()] = true })

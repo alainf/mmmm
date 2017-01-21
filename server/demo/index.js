@@ -90,7 +90,6 @@ exports.register = (server, options, next) => {
     })
   }
 
-
   const mapperBy = (request, callback) => {
     callback(null, dbUrl + '/_design/app/_view/stuff?group_level=1', { accept: 'application/json' })
   }
