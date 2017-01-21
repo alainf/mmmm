@@ -2,17 +2,17 @@
   <div class="small-4 columns">
     <div id="bloc-langues">
     <ul class="menu align-left">
-      <li><a href="/fr/accueil"><span title="Français" class="alert badge">Fr</span></a></li>
-      <li><a href="/en/accueil"><span title="English" class="badge">En</span></a></li>
-      <li><a href="/es/accueil"><span title="Español" class="badge">Es</span></a></li>
-      <li><a href="/it/accueil"><span title="Italiano" class="badge">It</span></a></li>
-      <li><a href="/ru/accueil"><span title="Русский" class="badge">Ru</span></a></li>
-      <li><a href="/ar/accueil"><span title="العربية" class="badge">Ar</span></a></li>
+      <li><a href="/fr/<%- `${data.pathparts[1]}${data.pathparts[2] ? ('/' + data.pathparts[2]) : ''}${data.pathparts[3] ? ('/' + data.pathparts[3]) : ''}` %>"><span title="Français" class="<%- data.languageCode === 'fr' ? 'alert ' : '' %>badge">Fr</span></a></li>
+      <li><a href="/en/<%- `${data.pathparts[1]}${data.pathparts[2] ? ('/' + data.pathparts[2]) : ''}${data.pathparts[3] ? ('/' + data.pathparts[3]) : ''}` %>"><span title="English" class="<%- data.languageCode === 'en' ? 'alert ' : '' %>badge">En</span></a></li>
+      <li><a href="/es/<%- `${data.pathparts[1]}${data.pathparts[2] ? ('/' + data.pathparts[2]) : ''}${data.pathparts[3] ? ('/' + data.pathparts[3]) : ''}` %>"><span title="Español" class="<%- data.languageCode === 'es' ? 'alert ' : '' %>badge">Es</span></a></li>
+      <li><a href="/it/<%- `${data.pathparts[1]}${data.pathparts[2] ? ('/' + data.pathparts[2]) : ''}${data.pathparts[3] ? ('/' + data.pathparts[3]) : ''}` %>"><span title="Italiano" class="<%- data.languageCode === 'it' ? 'alert ' : '' %>badge">It</span></a></li>
+      <li><a href="/ru/<%- `${data.pathparts[1]}${data.pathparts[2] ? ('/' + data.pathparts[2]) : ''}${data.pathparts[3] ? ('/' + data.pathparts[3]) : ''}` %>"><span title="Русский" class="<%- data.languageCode === 'ru' ? 'alert ' : '' %>badge">Ru</span></a></li>
+      <li><a href="/ar/<%- `${data.pathparts[1]}${data.pathparts[2] ? ('/' + data.pathparts[2]) : ''}${data.pathparts[3] ? ('/' + data.pathparts[3]) : ''}` %>"><span title="العربية" class="<%- data.languageCode === 'ar' ? 'alert ' : '' %>badge">Ar</span></a></li>
     </ul>
     </div>
   </div>
   <div class="small-8 columns">
-	 <div id="bloc-fonctions">
+   <div id="bloc-fonctions">
      <ul class="menu align-right">
       <li class="icon"><a title="<%- data.__('Aidez-moi') %>" href="/fr/aider"><i class="fi-info"></i></a></li>
       <li class="icon"><a title="<%- data.__('Mon historique') %>" href="#"><i class="fi-clock"></i></a></li>
