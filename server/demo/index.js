@@ -79,14 +79,7 @@ exports.register = (server, options, next) => {
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
-      reply(
-        '<p>Found: ' + payload.rows.length + ' items, see below.</p>' +
-        payload.rows
-          .map((x) => {
-            return '<pre>' + JSON.stringify(x, null, '  ') + '</pre>'
-          })
-          .join('')
-      )
+      reply.view('resultats', { rows: payload.rows.map((x) => x.doc) })
     })
   }
 
