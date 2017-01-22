@@ -48,7 +48,7 @@
     "inert": "^4.1.0",
     "joi": "^10.2.0",
     "lodash": "^4.17.4",
-    "lodash-vision": "^0.1.0",
+    "lodash-vision": "^0.2.0",
     "lout": "^9.2.0",
     "pify": "^2.3.0",
     "vision": "^4.1.1",

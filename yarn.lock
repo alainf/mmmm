@@ -628,7 +628,7 @@ debug-log@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/debug-log/-/debug-log-1.0.1.tgz#2307632d4c04382b8df8a32f70b895046d52745f"
 
-debug@*, debug@^2.1.0, debug@^2.2.0:
+debug@*, debug@^2.1.0, debug@^2.1.1, debug@^2.2.0:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.3.2.tgz#94cb466ef7d6d2c7e5245cdd6e4104f2d0d70d30"
   dependencies:
@@ -640,7 +640,7 @@ debug@2.2.0, debug@~2.2.0:
   dependencies:
     ms "0.7.1"
 
-debug@2.3.3, debug@^2.0.0, debug@^2.1.1:
+debug@2.3.3, debug@^2.0.0:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.3.3.tgz#40c453e67e6e13c901ddec317af8986cda9eff8c"
   dependencies:
@@ -2049,11 +2049,11 @@ load-json-file@^1.0.0:
     pinkie-promise "^2.0.0"
     strip-bom "^2.0.0"
 
-lodash-vision@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/lodash-vision/-/lodash-vision-0.1.0.tgz#3ef6df27acf58a321c110c93ba60d402cda5beb7"
+lodash-vision@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/lodash-vision/-/lodash-vision-0.2.0.tgz#9aa56bd6562cb098541f2169ebcac6c19d53713c"
   dependencies:
-    lodash "^4.17.3"
+    lodash "^4.17.4"
 
 lodash._baseassign@^3.0.0:
   version "3.2.0"
@@ -2133,7 +2133,7 @@ lodash@^3.5.0:
   version "3.10.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
 
-lodash@^4.0.0, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.3.0:
+lodash@^4.0.0, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.3.0:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
