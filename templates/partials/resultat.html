@@ -8,6 +8,6 @@
 <h3><%- data.doc.nomLangues[data.languageCode] || data.doc.nomLangues.fr %> <small><%- data.doc['sous-type'] %></small></h3>
 <% } else { %>
 <h3>Autre... <small><%- data.doc._id %></small></h3>
-<pre><%- JSON.stringify(data.doc, null, '  ') %></pre>
+<pre><%- main.pretty(data.doc) %></pre>
 <% } %>
 </div>

@@ -482,6 +482,7 @@ exports.register = function (server, options, next) {
     engines: { html: require('lodash-vision') },
     path: 'templates',
     partialsPath: 'templates/partials',
+    helpersPath: 'templates/helpers',
     isCached: options.templateCached
   })
 
