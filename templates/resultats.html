@@ -9,9 +9,9 @@
 
 <%= partials.displayHeader({ data: data, headerName: 'logoChercherFiltrer' }) %>
 
-<%= partials.displayBreadcrumb({ pageID: 'breadcrumbResultats' }) %>
+<%= partials.displayBreadcrumb({ langue: data.languageCode, pageID: 'breadcrumbResultatsRYM' }) %>
 
-<%= partials.displayHeader({ data: data, headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: "membre" }) %>
+<%= partials.displayHeader({ data: data, langue: data.languageCode, headerName: 'mmSearchHeader', title: "Résultats de recherche", usertype: "membre" }) %>
 
 <br>
 <div class='row' id='afficher-resultats'>
@@ -78,7 +78,7 @@
  </div>
 </div>
 
-<%= partials.footer({ pagination: true, lastPage: "500", username: "Alain Farmer" }) %>
+<%= partials.footer({ pagination: false, username: 'Alain Farmer' }) %>
 
 <%= partials.displayDropdown({ dropName: 'ajouter-terme-dropdown' }) %>
 
