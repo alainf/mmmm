@@ -1443,23 +1443,24 @@ hapi-capitalize-modules@1.x.x:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/hapi-capitalize-modules/-/hapi-capitalize-modules-1.1.6.tgz#7991171415e15e6aa3231e64dda73c8146665318"
 
-hapi-context-app@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/hapi-context-app/-/hapi-context-app-0.2.1.tgz#2f836234e1c8713547444b2d2bf6866809acfbe0"
+hapi-context-app@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/hapi-context-app/-/hapi-context-app-0.3.0.tgz#e3030ad50584fb9967e5260bfc45427454c48008"
 
 hapi-context-credentials@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/hapi-context-credentials/-/hapi-context-credentials-2.0.0.tgz#bc0093c128a94ed6a4aac57614eea16065c71224"
 
-hapi-couchdb-login@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/hapi-couchdb-login/-/hapi-couchdb-login-0.2.1.tgz#8b4b967ea87b4ddc776fac72910be4168e1510c1"
+hapi-couchdb-login@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/hapi-couchdb-login/-/hapi-couchdb-login-0.3.0.tgz#cc529a21d2fe24dc86d7fd74d862d1036b5c8103"
   dependencies:
     boom "^4.2.0"
     cloudant-nano "^6.4.1"
+    hapi "^16.1.0"
     hapi-auth-cookie "^6.1.1"
     hapi-boom-decorators "^2.2.2"
-    lodash "^4.17.2"
+    lodash "^4.17.4"
     pify "^2.3.0"
 
 hapi-favicon@^1.0.0:
@@ -1579,9 +1580,9 @@ hawk@~3.1.3:
     hoek "2.x.x"
     sntp "1.x.x"
 
-he@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/he/-/he-1.1.0.tgz#29319d49beec13a9b1f3c4f9b2a6dde4859bb2a7"
+he@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
 
 heavy@4.x.x:
   version "4.0.2"
@@ -2133,7 +2134,7 @@ lodash@^3.5.0:
   version "3.10.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
 
-lodash@^4.0.0, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.3.0:
+lodash@^4.0.0, lodash@^4.17.4, lodash@^4.3.0:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
