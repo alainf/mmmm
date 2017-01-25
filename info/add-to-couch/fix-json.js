@@ -26,6 +26,37 @@ const fs = require('fs')
 const decodeHtmlEntities = require('he').decode
 const _ = require('lodash')
 
+const fix = (str) => decodeHtmlEntities(
+  str
+    .replace(/&#227;&#132;/g, 'ä')
+    .replace(/&#227;&#133;/g, 'å')
+    .replace(/&#227;&#135;/g, 'ç')
+    .replace(/&#227;&#137;/g, 'é')
+    .replace(/&#227;&#138;/g, 'ê')
+    .replace(/&#227;&#145;/g, 'ò')
+    .replace(/&#227;&#146;/g, 'ò')
+    .replace(/&#227;&#147;/g, 'ò')
+    .replace(/&#227;&#149;/g, 'õ')
+    .replace(/&#227;&#150;/g, 'ő')
+    .replace(/&#227;&#152;/g, 'ø')
+    .replace(/&#227;&#154;/g, 'ù')
+    .replace(/&#227;&#156;/g, 'ü')
+    .replace(/&#227;&#161;/g, 'á')
+    .replace(/&#227;&#167;/g, 'ç')
+    .replace(/&#227;&#168;/g, 'è')
+    .replace(/&#227;&#169;/g, 'é')
+    .replace(/&#227;&#171;/g, 'ë')
+    .replace(/&#227;&#174;/g, 'î')
+    .replace(/&#227;&#175;/g, 'ï')
+    .replace(/&#227;&#178;/g, 'ò')
+    .replace(/&#227;&#179;/g, 'ó')
+    .replace(/&#227;&#180;/g, 'ô')
+    .replace(/&#227;&#182;/g, 'ö')
+    .replace(/&#227;&#186;/g, 'ú')
+    .replace(/&#227;&#188;/g, 'ü')
+)
+
+
 const nomLangues = [
   'nom-francais',
   'nom-russe',
@@ -54,12 +85,12 @@ const entities = (doc) => {
   for (r in doc) {
     if (r === 'nomLangues') {
       for (t in doc.nomLangues) {
-        doc.nomLangues[t] = doc.nomLangues[t].map((x) => decodeHtmlEntities(x))
+        doc.nomLangues[t] = doc.nomLangues[t].map((x) => fix(x))
       }
     } else if (typeof doc[r] === 'string') {
-      doc[r] = decodeHtmlEntities(doc[r])
+      doc[r] = fix(doc[r])
     } else if (typeof doc[r] === 'object' && doc[r].length) {
-      doc[r] = doc[r].map((x) => decodeHtmlEntities(x))
+      doc[r] = doc[r].map((x) => fix(x))
     }
   }
   return doc
