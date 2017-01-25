@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Finance/Finance-publique/",
   "description": "Description de Finance publique",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466739,
   "identifiant-drupal-parent": 877,
-  "mise-a-jour": "2016-05-09-16-46-11",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-58",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Finance publique",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-58-86966225914"
   ],
+  "parent": "terme-2015-12-06-16-24-56-86966225788",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-24-42-86966224933",
     "terme-2015-12-06-16-24-42-86966224936"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466945,
   "identifiant-drupal-parent": 466943,
-  "mise-a-jour": "2016-05-09-16-46-08",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-42",
   "moment-de-modification": "2015-01-04-02-27-50",
   "nom": "Genres littéraires",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-42-86966224922"
   ],
+  "parent": "terme-2015-12-06-16-24-41-86966224916",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

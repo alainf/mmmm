@@ -13,11 +13,11 @@
     "terme-2015-12-06-16-24-30-86966224255",
     "terme-2015-12-06-16-24-31-86966224302"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 269001,
   "identifiant-drupal-parent": 940,
-  "mise-a-jour": "2016-05-09-16-46-05",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-30",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Élevage (zootechnie)",
@@ -25,6 +25,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-30-86966224234"
   ],
+  "parent": "terme-2015-12-06-16-24-30-86966224231",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

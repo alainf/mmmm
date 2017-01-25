@@ -7,15 +7,16 @@
     "terme-2016-02-29-04-26-14-87404278453",
     "terme-2016-02-29-04-27-23-87404282591"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": false,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-02-29-04-32-35",
   "moment-de-modification": "2016-02-29-04-33-18",
   "nom": "Écrire pour tout le monde",
   "nom-folder": "ecrire-pour-tout-le-monde",
   "nom-machine": "terme-2016-02-29-04-32-35-87404301338",
+  "parent": "terme-2016-02-29-04-25-21-87404275308",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

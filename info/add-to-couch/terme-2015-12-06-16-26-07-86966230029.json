@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-26-07-86966230033",
     "terme-2015-12-06-16-26-07-86966230035"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 471986,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-26",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-07",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Géosciences",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-07-86966230029"
   ],
+  "parent": "terme-2015-12-06-16-26-06-86966230007",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

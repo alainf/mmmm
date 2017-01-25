@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-de-masse/Imagerie-populaire/",
   "description": "Description de Imagerie populaire",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472138,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-14",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-11",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Imagerie populaire",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-11-86966226713"
   ],
+  "parent": "terme-2015-12-06-16-25-11-86966226710",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

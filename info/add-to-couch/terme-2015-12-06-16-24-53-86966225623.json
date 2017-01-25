@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-24-53-86966225634",
     "terme-2015-12-06-16-24-53-86966225637"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1253,
   "identifiant-drupal-parent": 1193,
-  "mise-a-jour": "2016-05-09-16-46-10",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-53",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Droit (problématiques)",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-53-86966225623"
   ],
+  "parent": "terme-2015-12-06-16-24-49-86966225379",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

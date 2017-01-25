@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Culture-organisationnelle/Reconnaissance-et-construction-de-l'identite/",
   "description": "Reconnaissance et construction de l'identité",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472184,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-24",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-58",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Reconnaissance et construction de l’identité",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-58-86966229515"
   ],
+  "parent": "terme-2015-12-06-16-25-58-86966229508",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

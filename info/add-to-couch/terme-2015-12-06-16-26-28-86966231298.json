@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-humaines/Medecine/Medecine-dentaire/",
   "description": "Description de Médecine dentaire",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 465715,
   "identifiant-drupal-parent": 1399,
-  "mise-a-jour": "2016-05-09-16-46-31",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-28",
   "moment-de-modification": "2015-01-04-02-27-47",
   "nom": "Médecine dentaire",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-28-86966231298"
   ],
+  "parent": "terme-2015-12-06-16-26-27-86966231270",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

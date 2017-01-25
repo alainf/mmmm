@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-economiques/Developpement-economique/Pillage-des-mers/",
   "description": "Description de Pillage des mers",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472300,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-28",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-15",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Pillage des mers",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-15-86966230500"
   ],
+  "parent": "terme-2015-12-06-16-26-14-86966230489",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

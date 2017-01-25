@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Etudes-urbaines-et-touristiques/Collectivites-territoriales/Patrimoine-rural/",
   "description": "Description de Patrimoine rural",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472044,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-24",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-58",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Patrimoine rural",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-58-86966229533"
   ],
+  "parent": "terme-2015-12-06-16-25-58-86966229530",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

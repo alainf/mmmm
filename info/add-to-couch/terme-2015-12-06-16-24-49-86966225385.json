@@ -6,16 +6,17 @@
   "enfants": [
     "terme-2015-12-06-16-24-49-86966225388"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 455592,
   "identifiant-drupal-parent": 269096,
-  "mise-a-jour": "2016-05-09-16-46-09",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-49",
   "moment-de-modification": "2015-01-04-02-27-55",
   "nom": "Droit maritime",
   "nom-folder": "Droit-maritime",
   "nom-machine": "terme-2015-12-06-16-24-49-86966225385",
+  "parent": "terme-2015-12-06-16-24-49-86966225382",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

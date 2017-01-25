@@ -8,11 +8,11 @@
     "terme-2015-12-06-16-25-49-86966228980",
     "terme-2015-12-06-16-25-49-86966228983"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 271284,
   "identifiant-drupal-parent": 270916,
-  "mise-a-jour": "2016-05-09-16-46-22",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-49",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Audit comptable et financier",
@@ -20,6 +20,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-49-86966228964"
   ],
+  "parent": "terme-2015-12-06-16-25-49-86966228960",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

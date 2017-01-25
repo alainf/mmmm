@@ -8,15 +8,16 @@
     "terme-2015-12-06-16-27-17-86966234271",
     "terme-2015-12-06-16-27-17-86966234274"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 317549,
-  "mise-a-jour": "2016-05-09-16-46-41",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-17",
   "moment-de-modification": "2015-01-04-02-27-57",
   "nom": "Entreprise",
   "nom-folder": "entreprise",
   "nom-machine": "terme-2015-12-06-16-27-17-86966234266",
+  "parent": "terme-2015-12-06-16-27-16-86966234209",
   "sous-type": "types-de-acteur",
   "type": "taxonomies",
   "nomLangues": {

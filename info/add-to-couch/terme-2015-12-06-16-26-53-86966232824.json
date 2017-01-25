@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Ideologies-politiques/Liberalisme-(ideologie)/Capitalisme/Echappatoires-fiscaux/",
   "description": "Description de Échappatoires fiscaux",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472293,
   "identifiant-drupal-parent": 1131,
-  "mise-a-jour": "2016-05-09-16-46-36",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-53",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Échappatoires fiscaux",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-53-86966232824"
   ],
+  "parent": "terme-2015-12-06-16-26-53-86966232821",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

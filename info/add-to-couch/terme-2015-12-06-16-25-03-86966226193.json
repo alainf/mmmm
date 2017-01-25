@@ -22,11 +22,11 @@
     "terme-2015-12-06-16-25-04-86966226244",
     "terme-2015-12-06-16-25-04-86966226247"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270393,
   "identifiant-drupal-parent": 880,
-  "mise-a-jour": "2016-05-09-16-46-12",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-03",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Linguistique",
@@ -34,6 +34,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-03-86966226193"
   ],
+  "parent": "terme-2015-12-06-16-25-02-86966226150",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

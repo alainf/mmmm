@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Sociologie-comparative/",
   "description": "Description de Sociologie comparative",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272340,
   "identifiant-drupal-parent": 1005,
-  "mise-a-jour": "2016-05-09-16-46-39",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-06",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Sociologie comparative",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-06-86966233576"
   ],
+  "parent": "terme-2015-12-06-16-26-59-86966233192",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

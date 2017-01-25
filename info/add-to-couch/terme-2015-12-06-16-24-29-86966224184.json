@@ -8,11 +8,11 @@
     "terme-2015-12-06-16-24-29-86966224189",
     "terme-2015-12-06-16-24-29-86966224192"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 269075,
   "identifiant-drupal-parent": 939,
-  "mise-a-jour": "2016-05-09-16-46-05",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-29",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Pêche en bateau",
@@ -20,6 +20,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-29-86966224184"
   ],
+  "parent": "terme-2015-12-06-16-24-29-86966224163",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

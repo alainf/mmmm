@@ -42,11 +42,11 @@
     "terme-2015-12-06-16-24-49-86966225367",
     "terme-2015-12-06-16-24-49-86966225370"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466782,
   "identifiant-drupal-parent": 466754,
-  "mise-a-jour": "2016-05-09-16-46-09",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-46",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Études culturelles",
@@ -54,6 +54,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-46-86966225210"
   ],
+  "parent": "terme-2015-12-06-16-24-46-86966225201",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

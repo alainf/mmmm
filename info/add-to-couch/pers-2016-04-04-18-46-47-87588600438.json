@@ -4,18 +4,18 @@
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "importance": 0,
-  "mise-a-jour": "2016-05-09-16-44-38",
+  "mise-a-jour": "2017-01-22-15-48-57",
   "moment-de-creation": "2016-04-04-18-46-47",
   "moment-de-modification": "2016-04-04-18-46-47",
-  "nom": "Hervã© Thery",
+  "nom": "Hervé Thery",
   "nom-machine": "pers-2016-04-04-18-46-47-87588600438",
   "personne-nom-famille": "Thery",
-  "personne-nom-prenom": "Hervã©",
+  "personne-nom-prenom": "Hervé",
   "site-de-diffusion": [
     "terme-2015-12-06-16-23-47-86966221646"
   ],
   "source-defectueuse": false,
-  "source-url": "http://www.phdadministration.net/?id=pers-2016-04-04-18-46-47-87588600438,",
+  "source-url": "http://www.phdadministration.net/personne/pers-2016-04-04-18-46-47-87588600438,",
   "sous-type": "pers",
   "type": "ressources",
   "type-de-ressource": [
@@ -23,7 +23,7 @@
   ],
   "nomLangues": {
     "fr": [
-      "Hervã© Thery"
+      "Hervé Thery"
     ]
   }
 }

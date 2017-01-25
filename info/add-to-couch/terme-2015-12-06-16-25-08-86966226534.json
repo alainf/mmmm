@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ecologie/Ecologie-acoustique/Pollution-par-le-bruit/",
   "description": "Description de Pollution par le bruit",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272385,
   "identifiant-drupal-parent": 272384,
-  "mise-a-jour": "2016-05-09-16-46-14",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-08",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Pollution par le bruit",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-08-86966226534"
   ],
+  "parent": "terme-2015-12-06-16-25-08-86966226526",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -7,15 +7,16 @@
     "terme-2016-02-29-04-38-40-87404323236",
     "terme-2016-02-29-04-39-41-87404326899"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": false,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-02-29-04-37-32",
   "moment-de-modification": "2016-02-29-04-38-16",
   "nom": "Lieu de la narration",
   "nom-folder": "lieu-de-la-narration",
   "nom-machine": "terme-2016-02-29-04-37-32-87404319172",
+  "parent": "terme-2016-02-29-04-36-22-87404314978",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

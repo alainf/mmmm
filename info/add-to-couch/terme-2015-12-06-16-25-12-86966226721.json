@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-25-12-86966226730",
     "terme-2015-12-06-16-25-12-86966226734"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272185,
   "identifiant-drupal-parent": 272180,
-  "mise-a-jour": "2016-05-09-16-46-14",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-12",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Nouvelles technologies de l'information et de la communication",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-12-86966226721"
   ],
+  "parent": "terme-2015-12-06-16-25-11-86966226710",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

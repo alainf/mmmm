@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-economiques/Branches-de-l'economie/Economie-de-la-distribution/",
   "description": "Description de Économie de la distribution",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451196,
   "identifiant-drupal-parent": 1492,
-  "mise-a-jour": "2016-05-09-16-46-27",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-11",
   "moment-de-modification": "2015-01-04-02-27-38",
   "nom": "Économie de la distribution",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-11-86966230307"
   ],
+  "parent": "terme-2015-12-06-16-26-10-86966230254",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

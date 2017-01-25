@@ -14,14 +14,15 @@
     "terme-2016-02-05-01-24-28-87279208103",
     "terme-2016-02-05-01-26-12-87279214370"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
-  "mise-a-jour": "2016-05-09-16-46-40",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-02-05-01-05-18",
   "moment-de-modification": "2016-02-05-01-06-16",
   "nom": "Ontologie des genres littéraires",
   "nom-folder": "Ontologie-des-genres-litteraires",
   "nom-machine": "terme-2016-02-05-01-05-18-87279139120",
+  "parent": "terme-2015-12-06-16-24-41-86966224916",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

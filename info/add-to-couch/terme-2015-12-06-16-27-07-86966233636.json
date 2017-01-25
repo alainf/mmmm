@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-27-07-86966233640",
     "terme-2015-12-06-16-27-07-86966233642"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270915,
   "identifiant-drupal-parent": 892,
-  "mise-a-jour": "2016-05-09-16-46-39",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-07",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Santé (sport)",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-07-86966233636"
   ],
+  "parent": "terme-2015-12-06-16-27-06-86966233620",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

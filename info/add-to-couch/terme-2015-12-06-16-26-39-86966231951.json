@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-26-39-86966231960",
     "terme-2015-12-06-16-26-39-86966231963"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466768,
   "identifiant-drupal-parent": 882,
-  "mise-a-jour": "2016-05-09-16-46-33",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-39",
   "moment-de-modification": "2015-01-04-02-27-47",
   "nom": "Religion et société",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-39-86966231951"
   ],
+  "parent": "terme-2015-12-06-16-26-38-86966231891",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

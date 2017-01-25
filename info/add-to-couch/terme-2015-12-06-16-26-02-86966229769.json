@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-26-02-86966229772",
     "terme-2015-12-06-16-26-02-86966229776"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2074,
   "identifiant-drupal-parent": 2046,
-  "mise-a-jour": "2016-05-09-16-46-25",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-02",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Recherche en marketing",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-02-86966229769"
   ],
+  "parent": "terme-2015-12-06-16-25-59-86966229567",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

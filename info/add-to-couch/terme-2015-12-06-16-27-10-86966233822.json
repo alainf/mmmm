@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Zoologie/Entomologie/",
   "description": "Description de Entomologie",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 271426,
   "identifiant-drupal-parent": 271417,
-  "mise-a-jour": "2016-05-09-16-46-40",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-10",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Entomologie",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-10-86966233822"
   ],
+  "parent": "terme-2015-12-06-16-27-10-86966233810",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

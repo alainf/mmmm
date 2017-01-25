@@ -18,11 +18,11 @@
     "terme-2015-12-06-16-26-54-86966232873",
     "terme-2015-12-06-16-26-54-86966232877"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1117,
   "identifiant-drupal-parent": 1105,
-  "mise-a-jour": "2016-05-09-16-46-36",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-54",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Nationalisme",
@@ -30,6 +30,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-54-86966232840"
   ],
+  "parent": "terme-2015-12-06-16-26-52-86966232735",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

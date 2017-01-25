@@ -27,11 +27,11 @@
     "terme-2015-12-06-16-26-02-86966229764",
     "terme-2015-12-06-16-26-02-86966229766"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2083,
   "identifiant-drupal-parent": 1775,
-  "mise-a-jour": "2016-05-09-16-46-25",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-01",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Publicité",
@@ -39,6 +39,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-01-86966229701"
   ],
+  "parent": "terme-2015-12-06-16-25-59-86966229567",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

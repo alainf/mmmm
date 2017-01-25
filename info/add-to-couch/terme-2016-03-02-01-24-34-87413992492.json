@@ -6,15 +6,16 @@
   "enfants": [
     "terme-2016-03-02-01-25-32-87413995933"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": false,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-03-02-01-24-34",
   "moment-de-modification": "2016-03-02-01-25-16",
   "nom": "Une petite fille raconte son enfance",
   "nom-folder": "une-petite-fille-raconte-son-enfance",
   "nom-machine": "terme-2016-03-02-01-24-34-87413992492",
+  "parent": "terme-2016-03-02-01-23-59-87413990392",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

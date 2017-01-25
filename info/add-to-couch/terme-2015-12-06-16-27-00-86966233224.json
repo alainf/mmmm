@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Champs-de-la-sociologie/Epistemologie/Epistemologie-du-visuel/",
   "description": "Description de Épistémologie du visuel",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472341,
   "identifiant-drupal-parent": 1201,
-  "mise-a-jour": "2016-05-09-16-46-38",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-00",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Épistémologie du visuel",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-00-86966233224"
   ],
+  "parent": "terme-2015-12-06-16-27-00-86966233215",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-25-12-86966226740",
     "terme-2015-12-06-16-25-12-86966226742"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272180,
   "identifiant-drupal-parent": 1478,
-  "mise-a-jour": "2016-05-09-16-46-14",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-11",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Communication de masse",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-11-86966226710"
   ],
+  "parent": "terme-2015-12-06-16-25-10-86966226635",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

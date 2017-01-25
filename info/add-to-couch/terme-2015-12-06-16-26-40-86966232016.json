@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-culturelle/Analyse-culturelle/",
   "description": "Description de Analyse culturelle",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472242,
   "identifiant-drupal-parent": 1010,
-  "mise-a-jour": "2016-05-09-16-46-33",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-40",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Analyse culturelle",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-40-86966232016"
   ],
+  "parent": "terme-2015-12-06-16-26-40-86966232012",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

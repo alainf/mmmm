@@ -15,24 +15,28 @@
     "terme-2015-12-06-16-23-52-86966221945",
     "terme-2015-12-06-16-23-52-86966221948"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
+  "fiche-defectueuse": false,
   "fiche-publiee": true,
-  "identifiant-drupal": 368788,
-  "identifiant-drupal-parent": 368787,
-  "mise-a-jour": "2016-05-09-16-45-56",
-  "moment-de-creation": "2015-12-06-16-23-51",
-  "moment-de-modification": "2015-01-04-02-26-18",
+  "identifiant-drupal": 0,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2017-01-23-16-33-30",
+  "moment-de-creation": "2017-01-19-14-12-39",
+  "moment-de-modification": "2017-01-19-14-17-44",
   "nom": "Arts and literature",
   "nom-folder": "Arts-and-literature",
   "nom-machine": "terme-2015-12-06-16-23-51-86966221919",
   "sous-type": "sujets-JournalSeek",
   "type": "taxonomies",
+  "voir": [
+    "terme-2015-12-06-16-24-33-86966224408"
+  ],
   "nomLangues": {
     "en": [
       "Arts and literature"
     ],
     "fr": [
-      "Arts and literature"
+      "Art et litérature"
     ]
   }
 }

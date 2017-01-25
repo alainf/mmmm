@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Culture-en-sociologie/Heritage-culturel/",
   "description": "Description de Héritage culturel",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 471949,
   "identifiant-drupal-parent": 1252,
-  "mise-a-jour": "2016-05-09-16-46-39",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-03",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Héritage culturel",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-03-86966233434"
   ],
+  "parent": "terme-2015-12-06-16-27-03-86966233407",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/Transport-aerien/Transport-aerien-non-regulier/",
   "description": "Description de Transport aérien non régulier",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451133,
   "identifiant-drupal-parent": 272293,
-  "mise-a-jour": "2016-05-09-16-46-20",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-39",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Transport aérien non régulier",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-39-86966228396"
   ],
+  "parent": "terme-2015-12-06-16-25-39-86966228393",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

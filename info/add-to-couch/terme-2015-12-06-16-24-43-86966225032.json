@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Art/Litterature/Mediations-litteraires/",
   "description": "Description de Médiations littéraires",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 471894,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-08",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-43",
   "moment-de-modification": "2015-01-04-02-27-50",
   "nom": "Médiations littéraires",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-43-86966225032"
   ],
+  "parent": "terme-2015-12-06-16-24-41-86966224916",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

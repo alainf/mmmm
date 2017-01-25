@@ -6,15 +6,16 @@
   "enfants": [
     "terme-2016-02-29-04-21-32-87404261537"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": false,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-02-29-04-19-49",
   "moment-de-modification": "2016-02-29-04-21-15",
   "nom": "Utiliser des procédés littéraires",
   "nom-folder": "utiliser-des-procedes-litteraires",
   "nom-machine": "terme-2016-02-29-04-19-49-87404255383",
+  "parent": "terme-2016-02-29-04-13-02-87404230947",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

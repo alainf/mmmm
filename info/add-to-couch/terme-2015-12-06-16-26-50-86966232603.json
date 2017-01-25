@@ -27,11 +27,11 @@
     "terme-2015-12-06-16-26-58-86966233116",
     "terme-2015-12-06-16-26-59-86966233148"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1004,
   "identifiant-drupal-parent": 891,
-  "mise-a-jour": "2016-05-09-16-46-36",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-50",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Sciences politiques",
@@ -39,6 +39,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-50-86966232603"
   ],
+  "parent": "terme-2015-12-06-16-26-39-86966231993",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

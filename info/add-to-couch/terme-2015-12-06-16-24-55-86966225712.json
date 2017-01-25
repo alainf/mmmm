@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Economie/Economie-du-Quebec/",
   "description": "Description de Économie du Québec",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472165,
   "identifiant-drupal-parent": 1254,
-  "mise-a-jour": "2016-05-09-16-46-11",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-55",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Économie du Québec",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-55-86966225712"
   ],
+  "parent": "terme-2015-12-06-16-24-54-86966225669",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

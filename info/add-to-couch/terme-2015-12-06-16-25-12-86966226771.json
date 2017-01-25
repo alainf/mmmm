@@ -14,11 +14,11 @@
     "terme-2015-12-06-16-25-13-86966226826",
     "terme-2015-12-06-16-25-15-86966226950"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272181,
   "identifiant-drupal-parent": 1478,
-  "mise-a-jour": "2016-05-09-16-46-15",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-12",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Études médiatiques",
@@ -26,6 +26,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-12-86966226771"
   ],
+  "parent": "terme-2015-12-06-16-25-10-86966226635",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

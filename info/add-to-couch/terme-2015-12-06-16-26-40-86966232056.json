@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Anthropologie-des-organisations/",
   "description": "Description de Anthropologie des organisations",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1014,
   "identifiant-drupal-parent": 994,
-  "mise-a-jour": "2016-05-09-16-46-33",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-40",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Anthropologie des organisations",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-40-86966232056"
   ],
+  "parent": "terme-2015-12-06-16-26-39-86966231997",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

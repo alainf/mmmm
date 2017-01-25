@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Publicite/Discours-publicitaire/",
   "description": "Description de Discours publicitaire",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2093,
   "identifiant-drupal-parent": 2083,
-  "mise-a-jour": "2016-05-09-16-46-25",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-02",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Discours publicitaire",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-02-86966229730"
   ],
+  "parent": "terme-2015-12-06-16-26-01-86966229701",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

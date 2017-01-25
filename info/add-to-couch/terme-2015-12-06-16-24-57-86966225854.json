@@ -11,11 +11,11 @@
     "terme-2015-12-06-16-24-57-86966225869",
     "terme-2015-12-06-16-24-58-86966225880"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 271339,
   "identifiant-drupal-parent": 271320,
-  "mise-a-jour": "2016-05-09-16-46-11",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-57",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Finances publiques (finance)",
@@ -23,6 +23,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-57-86966225854"
   ],
+  "parent": "terme-2015-12-06-16-24-56-86966225791",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

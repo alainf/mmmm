@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Culture-en-sociologie/Medias-(culture-en-sociologie)/Medias-et-journalisme/",
   "description": "Description de Médias et journalisme",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 455666,
   "identifiant-drupal-parent": 1266,
-  "mise-a-jour": "2016-05-09-16-46-39",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-04",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Médias et journalisme",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-04-86966233441"
   ],
+  "parent": "terme-2015-12-06-16-27-03-86966233437",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

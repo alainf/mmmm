@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Deontologie-du-journalisme/Protection-des-sources/",
   "description": "Description de Protection des sources",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472190,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-15",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-14",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Protection des sources",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-14-86966226853"
   ],
+  "parent": "terme-2015-12-06-16-25-14-86966226850",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

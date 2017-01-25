@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Informatique/Simulation-informatique/",
   "description": "Description de Simulation informatique",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451004,
   "identifiant-drupal-parent": 879,
-  "mise-a-jour": "2016-05-09-16-46-12",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-02",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Simulation informatique",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-02-86966226134"
   ],
+  "parent": "terme-2015-12-06-16-24-59-86966225980",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

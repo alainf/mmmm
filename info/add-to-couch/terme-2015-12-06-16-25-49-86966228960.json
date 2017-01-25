@@ -12,11 +12,11 @@
     "terme-2015-12-06-16-25-50-86966229023",
     "terme-2015-12-06-16-25-50-86966229048"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270916,
   "identifiant-drupal-parent": 350,
-  "mise-a-jour": "2016-05-09-16-46-22",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-49",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Sciences comptables",
@@ -24,6 +24,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-49-86966228960"
   ],
+  "parent": "terme-2015-12-06-16-25-20-86966227205",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

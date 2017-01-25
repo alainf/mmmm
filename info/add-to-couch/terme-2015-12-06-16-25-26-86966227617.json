@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Gestion-de-la-securite-et-de-la-sante-au-travail/",
   "description": "Description de Gestion de la sécurité et de la santé au travail",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1844,
   "identifiant-drupal-parent": 1837,
-  "mise-a-jour": "2016-05-09-16-46-18",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-26",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Gestion de la sécurité et de la santé au travail",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-26-86966227617"
   ],
+  "parent": "terme-2015-12-06-16-25-26-86966227575",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

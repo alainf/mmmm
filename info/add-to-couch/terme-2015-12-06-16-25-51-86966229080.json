@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Sciences-comptables/Types-de-comptabilite/Comptabilite-de-gestion/",
   "description": "Description de Comptabilité de gestion",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 271274,
   "identifiant-drupal-parent": 270934,
-  "mise-a-jour": "2016-05-09-16-46-23",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-51",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Comptabilité de gestion",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-51-86966229080"
   ],
+  "parent": "terme-2015-12-06-16-25-50-86966229048",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

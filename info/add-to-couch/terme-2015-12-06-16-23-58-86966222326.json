@@ -6,15 +6,16 @@
   "enfants": [
     "terme-2015-12-06-16-23-58-86966222329"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal-parent": 368910,
-  "mise-a-jour": "2016-05-09-16-45-58",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-23-58",
   "moment-de-modification": "2015-01-04-02-26-18",
   "nom": "Seismology",
   "nom-folder": "Seismology",
   "nom-machine": "terme-2015-12-06-16-23-58-86966222326",
+  "parent": "terme-2015-12-06-16-23-57-86966222268",
   "sous-type": "sujets-JournalSeek",
   "type": "taxonomies",
   "nomLangues": {

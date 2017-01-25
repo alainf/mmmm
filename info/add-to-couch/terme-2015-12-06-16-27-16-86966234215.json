@@ -1,20 +1,22 @@
 {
-  "_id": "terme-2015-12-06-16-27-16-86966234215",
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/types-de-acteur/agence/",
   "description": "Description de Agence",
   "enfants": [
     "terme-2015-12-06-16-27-16-86966234218"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
+  "fiche-defectueuse": false,
   "fiche-publiee": true,
-  "identifiant-drupal": 369337,
-  "mise-a-jour": "2016-05-09-16-46-40",
-  "moment-de-creation": "2015-12-06-16-27-16",
-  "moment-de-modification": "2015-01-04-02-27-56",
+  "identifiant-drupal": 0,
+  "identifiant-drupal-parent": 0,
+  "mise-a-jour": "2017-01-23-16-33-30",
+  "moment-de-creation": "2017-01-06-23-21-28",
+  "moment-de-modification": "2017-01-06-23-21-46",
   "nom": "Agence",
   "nom-folder": "agence",
   "nom-machine": "terme-2015-12-06-16-27-16-86966234215",
+  "parent": "terme-2015-12-06-16-27-16-86966234209",
   "sous-type": "types-de-acteur",
   "type": "taxonomies",
   "nomLangues": {
@@ -30,5 +32,6 @@
     "it": [
       "Agenzia"
     ]
-  }
+  },
+  "_id": "terme-2015-12-06-16-27-16-86966234215"
 }

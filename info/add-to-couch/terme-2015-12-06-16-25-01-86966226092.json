@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-25-01-86966226100",
     "terme-2015-12-06-16-25-01-86966226103"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270357,
   "identifiant-drupal-parent": 879,
-  "mise-a-jour": "2016-05-09-16-46-12",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-01",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Internet (informatique)",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-01-86966226092"
   ],
+  "parent": "terme-2015-12-06-16-24-59-86966225980",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

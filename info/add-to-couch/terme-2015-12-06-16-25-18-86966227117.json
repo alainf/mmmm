@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Administration-des-affaires/Immobilier/Immobilier-d'affaires/",
   "description": "Description de Immobilier d'affaires",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 455411,
   "identifiant-drupal-parent": 272225,
-  "mise-a-jour": "2016-05-09-16-46-16",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-18",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Immobilier d'affaires",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-18-86966227117"
   ],
+  "parent": "terme-2015-12-06-16-25-18-86966227106",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

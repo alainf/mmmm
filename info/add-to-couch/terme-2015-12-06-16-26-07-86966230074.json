@@ -13,11 +13,11 @@
     "terme-2015-12-06-16-26-08-86966230094",
     "terme-2015-12-06-16-26-08-86966230097"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451068,
   "identifiant-drupal-parent": 270826,
-  "mise-a-jour": "2016-05-09-16-46-26",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-07",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Extraction de minerais métalliques",
@@ -25,6 +25,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-07-86966230074"
   ],
+  "parent": "terme-2015-12-06-16-26-07-86966230056",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

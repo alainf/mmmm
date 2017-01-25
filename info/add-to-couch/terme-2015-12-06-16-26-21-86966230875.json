@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-exactes/Sciences-de-la-nature/Sciences-physiques/Energie-nucleaire/",
   "description": "Description de Énergie nucléaire",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270457,
   "identifiant-drupal-parent": 270456,
-  "mise-a-jour": "2016-05-09-16-46-29",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-21",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Énergie nucléaire",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-21-86966230875"
   ],
+  "parent": "terme-2015-12-06-16-26-21-86966230864",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

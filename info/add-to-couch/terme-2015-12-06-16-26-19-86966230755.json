@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-26-19-86966230758",
     "terme-2015-12-06-16-26-21-86966230864"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270430,
   "identifiant-drupal-parent": 889,
-  "mise-a-jour": "2016-05-09-16-46-29",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-19",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Sciences de la nature",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-19-86966230755"
   ],
+  "parent": "terme-2015-12-06-16-26-17-86966230658",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

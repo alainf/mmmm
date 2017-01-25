@@ -6,11 +6,11 @@
   "enfants": [
     "terme-2015-12-06-16-25-54-86966229249"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2235,
   "identifiant-drupal-parent": 2231,
-  "mise-a-jour": "2016-05-09-16-46-23",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-54",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Critères sociaux",
@@ -18,6 +18,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-54-86966229246"
   ],
+  "parent": "terme-2015-12-06-16-25-53-86966229233",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

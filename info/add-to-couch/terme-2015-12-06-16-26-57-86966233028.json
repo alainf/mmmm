@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Politique-generalites/Guerres/Armes-de-destruction-massive/",
   "description": "Description de Armes de destruction massive",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472074,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-37",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-57",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Armes de destruction massive",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-57-86966233028"
   ],
+  "parent": "terme-2015-12-06-16-26-57-86966233021",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

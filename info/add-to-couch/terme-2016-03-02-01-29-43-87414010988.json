@@ -7,15 +7,16 @@
     "terme-2016-03-02-01-30-21-87414013292",
     "terme-2016-03-02-01-30-59-87414015547"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": false,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-03-02-01-29-43",
   "moment-de-modification": "2016-03-02-01-30-14",
   "nom": "Un récit d'enfance",
   "nom-folder": "un-recit-d-enfance",
   "nom-machine": "terme-2016-03-02-01-29-43-87414010988",
+  "parent": "terme-2016-03-02-01-29-14-87414009279",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

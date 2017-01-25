@@ -8,11 +8,11 @@
     "terme-2015-12-06-16-25-58-86966229536",
     "terme-2015-12-06-16-25-58-86966229539"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2181,
   "identifiant-drupal-parent": 352,
-  "mise-a-jour": "2016-05-09-16-46-24",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-58",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Études urbaines et touristiques",
@@ -20,6 +20,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-58-86966229526"
   ],
+  "parent": "terme-2015-12-06-16-25-17-86966227055",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

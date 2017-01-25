@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-26-57-86966233050",
     "terme-2015-12-06-16-26-57-86966233053"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1172,
   "identifiant-drupal-parent": 1106,
-  "mise-a-jour": "2016-05-09-16-46-37",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-57",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Philosophie politique",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-57-86966233048"
   ],
+  "parent": "terme-2015-12-06-16-26-55-86966232945",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Communication-de-masse/NTIC/Usages-des-nouvelles-technologies/Geolocalisation/",
   "description": "Description de Géolocalisation",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472223,
   "identifiant-drupal-parent": 272433,
-  "mise-a-jour": "2016-05-09-16-46-15",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-12",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Géolocalisation",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-12-86966226736"
   ],
+  "parent": "terme-2015-12-06-16-25-12-86966226734",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -16,11 +16,11 @@
     "terme-2015-12-06-16-24-39-86966224769",
     "terme-2015-12-06-16-24-39-86966224772"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466897,
   "identifiant-drupal-parent": 466896,
-  "mise-a-jour": "2016-05-09-16-46-07",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-39",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Typologies du design",
@@ -28,6 +28,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-39-86966224741"
   ],
+  "parent": "terme-2015-12-06-16-24-38-86966224738",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

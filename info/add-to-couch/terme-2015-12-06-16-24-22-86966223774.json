@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/Agriculture-et-environnement/Agriculture-biologique/",
   "description": "Description de Agriculture biologique",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272373,
   "identifiant-drupal-parent": 896,
-  "mise-a-jour": "2016-05-09-16-46-03",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-22",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Agriculture biologique",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-22-86966223774"
   ],
+  "parent": "terme-2016-04-14-03-04-49-87637049345",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

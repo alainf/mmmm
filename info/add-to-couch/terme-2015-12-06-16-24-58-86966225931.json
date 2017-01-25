@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Finance/Fonds-et-instruments-financiers/Fonds-d'obligations/",
   "description": "Fonds d'obligations",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451156,
   "identifiant-drupal-parent": 451151,
-  "mise-a-jour": "2016-05-09-16-46-12",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-58",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Fonds d’obligations",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-58-86966225931"
   ],
+  "parent": "terme-2015-12-06-16-24-58-86966225920",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -6,11 +6,11 @@
   "enfants": [
     "terme-2015-12-06-16-26-27-86966231229"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451337,
   "identifiant-drupal-parent": 978,
-  "mise-a-jour": "2016-05-09-16-46-31",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-27",
   "moment-de-modification": "2015-01-04-02-27-47",
   "nom": "Histoire des révolutions",
@@ -18,6 +18,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-27-86966231226"
   ],
+  "parent": "terme-2015-12-06-16-26-26-86966231206",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-25-29-86966227768",
     "terme-2015-12-06-16-25-29-86966227771"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1898,
   "identifiant-drupal-parent": 1890,
-  "mise-a-jour": "2016-05-09-16-46-18",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-29",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "Gestion de données et documents d'archives",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-29-86966227760"
   ],
+  "parent": "terme-2015-12-06-16-25-29-86966227757",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

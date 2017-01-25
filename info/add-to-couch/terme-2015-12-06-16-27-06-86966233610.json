@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-27-06-86966233613",
     "terme-2015-12-06-16-27-06-86966233616"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1006,
   "identifiant-drupal-parent": 891,
-  "mise-a-jour": "2016-05-09-16-46-39",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-06",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Travail social",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-06-86966233610"
   ],
+  "parent": "terme-2015-12-06-16-26-39-86966231993",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

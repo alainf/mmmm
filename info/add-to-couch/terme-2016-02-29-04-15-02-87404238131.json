@@ -6,15 +6,16 @@
   "enfants": [
     "terme-2016-02-29-04-17-10-87404245846"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": false,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-02-29-04-15-02",
   "moment-de-modification": "2016-02-29-04-16-58",
   "nom": "Faire appel à ses souvenirs",
   "nom-folder": "faire-appel-a-ses-souvenirs",
   "nom-machine": "terme-2016-02-29-04-15-02-87404238131",
+  "parent": "terme-2016-02-29-04-13-02-87404230947",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

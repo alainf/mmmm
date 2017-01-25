@@ -21,11 +21,11 @@
     "terme-2015-12-06-16-25-46-86966228799",
     "terme-2015-12-06-16-25-46-86966228802"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2110,
   "identifiant-drupal-parent": 2105,
-  "mise-a-jour": "2016-05-09-16-46-22",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-45",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "Comportement organisationnel",
@@ -33,6 +33,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-45-86966228753"
   ],
+  "parent": "terme-2015-12-06-16-25-45-86966228732",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

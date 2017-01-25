@@ -6,11 +6,11 @@
   "enfants": [
     "terme-2015-12-06-16-24-59-86966225968"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272229,
   "identifiant-drupal-parent": 877,
-  "mise-a-jour": "2016-05-09-16-46-12",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-59",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Monnaie",
@@ -18,6 +18,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-59-86966225966"
   ],
+  "parent": "terme-2015-12-06-16-24-56-86966225788",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

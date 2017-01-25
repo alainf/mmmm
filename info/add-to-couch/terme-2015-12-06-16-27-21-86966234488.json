@@ -7,15 +7,16 @@
     "terme-2015-12-06-16-27-21-86966234491",
     "terme-2015-12-06-16-27-21-86966234494"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 369935,
-  "mise-a-jour": "2016-05-09-16-46-43",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-21",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Portail",
   "nom-folder": "portail",
   "nom-machine": "terme-2015-12-06-16-27-21-86966234488",
+  "parent": "terme-2015-12-06-16-27-21-86966234482",
   "sous-type": "types-de-ressource",
   "type": "taxonomies",
   "nomLangues": {

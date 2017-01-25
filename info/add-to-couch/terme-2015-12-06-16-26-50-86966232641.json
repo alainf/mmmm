@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-26-50-86966232656",
     "terme-2015-12-06-16-26-50-86966232659"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472057,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-36",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-50",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Guerre et politique",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-50-86966232641"
   ],
+  "parent": "terme-2015-12-06-16-26-50-86966232638",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

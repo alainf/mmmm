@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-25-28-86966227692",
     "terme-2015-12-06-16-25-28-86966227695"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1858,
   "identifiant-drupal-parent": 1854,
-  "mise-a-jour": "2016-05-09-16-46-18",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-28",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Méthodes de planification",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-28-86966227680"
   ],
+  "parent": "terme-2015-12-06-16-25-27-86966227651",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

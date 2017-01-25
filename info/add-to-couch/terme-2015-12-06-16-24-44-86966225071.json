@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-24-44-86966225082",
     "terme-2015-12-06-16-24-44-86966225086"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466994,
   "identifiant-drupal-parent": 466993,
-  "mise-a-jour": "2016-05-09-16-46-08",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-44",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Industrie de la musique",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-44-86966225071"
   ],
+  "parent": "terme-2015-12-06-16-24-44-86966225068",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

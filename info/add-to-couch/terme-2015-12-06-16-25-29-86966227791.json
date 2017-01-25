@@ -11,11 +11,11 @@
     "terme-2015-12-06-16-25-30-86966227806",
     "terme-2015-12-06-16-25-30-86966227809"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1891,
   "identifiant-drupal-parent": 1890,
-  "mise-a-jour": "2016-05-09-16-46-18",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-29",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "ISO banques et services financiers",
@@ -23,6 +23,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-29-86966227791"
   ],
+  "parent": "terme-2015-12-06-16-25-29-86966227757",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

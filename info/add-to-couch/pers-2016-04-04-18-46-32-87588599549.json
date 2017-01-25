@@ -2,28 +2,32 @@
   "_id": "pers-2016-04-04-18-46-32-87588599549",
   "ajouter-aux-favoris": false,
   "fiche-a-completer": true,
+  "fiche-defectueuse": false,
   "fiche-publiee": true,
   "importance": 0,
-  "mise-a-jour": "2016-05-09-16-44-34",
-  "moment-de-creation": "2016-04-04-18-46-32",
-  "moment-de-modification": "2016-04-04-18-46-32",
-  "nom": "Josã© Marã­a Portillo",
+  "mise-a-jour": "2017-01-22-15-48-57",
+  "mm-source-doublon": false,
+  "moment-de-creation": "2017-01-22-13-13-08",
+  "moment-de-modification": "2017-01-22-13-14-03",
+  "nom": "José María Portillo Valdés",
   "nom-machine": "pers-2016-04-04-18-46-32-87588599549",
-  "personne-nom-famille": "Portillo",
-  "personne-nom-prenom": "Josã© Marã­a",
+  "personne-nom-famille": "Portillo Valdés",
+  "personne-nom-prenom": "José María",
+  "req": [
+    "https://dialnet.unirioja.es/servlet/autor?codigo=130690"
+  ],
   "site-de-diffusion": [
     "terme-2015-12-06-16-23-47-86966221646"
   ],
-  "source-defectueuse": false,
-  "source-url": "http://www.phdadministration.net/?id=pers-2016-04-04-18-46-32-87588599549,",
+  "source-url": "http://www.phdadministration.net/personne/pers-2016-04-04-18-46-32-87588599549",
   "sous-type": "pers",
-  "type": "ressources",
-  "type-de-ressource": [
-    "terme-2015-12-06-16-27-21-86966234485"
-  ],
+  "type": "personnes",
   "nomLangues": {
+    "es": [
+      "José María Portillo Valdés"
+    ],
     "fr": [
-      "Josã© Marã­a Portillo"
+      "José María Portillo Valdés"
     ]
   }
 }

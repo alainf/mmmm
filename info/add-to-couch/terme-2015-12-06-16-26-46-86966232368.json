@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Methodologies-en-sciences-sociales/Methodes-qualitatives/Analyse-du-discours/Hermeneutique/",
   "description": "Description de Herméneutique",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272188,
   "identifiant-drupal-parent": 1224,
-  "mise-a-jour": "2016-05-09-16-46-35",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-46",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Herméneutique",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-46-86966232368"
   ],
+  "parent": "terme-2015-12-06-16-26-45-86966232356",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

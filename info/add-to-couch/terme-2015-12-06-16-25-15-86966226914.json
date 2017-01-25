@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Journalisme/Journalisme-radio/",
   "description": "Description de Journalisme radio",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270727,
   "identifiant-drupal-parent": 270725,
-  "mise-a-jour": "2016-05-09-16-46-15",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-15",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Journalisme radio",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-15-86966226914"
   ],
+  "parent": "terme-2015-12-06-16-25-13-86966226826",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

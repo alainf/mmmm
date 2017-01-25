@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Culture/Etudes-culturelles/Etudes-de-genre/Sexualite/Gestion-de-la-diversite-sexuelle/",
   "description": "Description de Gestion de la diversité sexuelle",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 271820,
   "identifiant-drupal-parent": 271818,
-  "mise-a-jour": "2016-05-09-16-46-09",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-48",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Gestion de la diversité sexuelle",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-48-86966225292"
   ],
+  "parent": "terme-2015-12-06-16-24-48-86966225290",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

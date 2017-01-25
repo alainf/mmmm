@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Commandite/Commandite-de-partenariat-d'affaires/",
   "description": "Description de Commandite de partenariat d'affaires",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272197,
   "identifiant-drupal-parent": 2050,
-  "mise-a-jour": "2016-05-09-16-46-25",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-59",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Commandite de partenariat d'affaires",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-59-86966229591"
   ],
+  "parent": "terme-2015-12-06-16-25-59-86966229585",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

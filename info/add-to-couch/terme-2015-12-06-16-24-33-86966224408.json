@@ -38,11 +38,11 @@
     "terme-2015-12-06-16-24-46-86966225196",
     "terme-2015-12-06-16-24-46-86966225199"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466753,
   "identifiant-drupal-parent": 350,
-  "mise-a-jour": "2016-05-09-16-46-06",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-33",
   "moment-de-modification": "2015-12-21-11-52-54",
   "nom": "Art",
@@ -51,6 +51,9 @@
     "terme-2015-12-06-16-24-33-86966224408"
   ],
   "sous-type": "sujets",
+  "sujets-JournalSeek": [
+    "terme-2015-12-06-16-23-51-86966221919"
+  ],
   "type": "taxonomies",
   "nomLangues": {
     "en": [

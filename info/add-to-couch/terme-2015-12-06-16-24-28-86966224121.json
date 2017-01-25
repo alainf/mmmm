@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Agriculture/Foresterie/Exploitation-forestiere/",
   "description": "Description de Exploitation forestière",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 268999,
   "identifiant-drupal-parent": 938,
-  "mise-a-jour": "2016-05-09-16-46-05",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-28",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Exploitation forestière",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-28-86966224121"
   ],
+  "parent": "terme-2015-12-06-16-24-28-86966224115",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

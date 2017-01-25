@@ -13,11 +13,11 @@
     "terme-2015-12-06-16-25-40-86966228421",
     "terme-2015-12-06-16-25-40-86966228425"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2037,
   "identifiant-drupal-parent": 2035,
-  "mise-a-jour": "2016-05-09-16-46-20",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-39",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Gestion du transport",
@@ -25,6 +25,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-39-86966228387"
   ],
+  "parent": "terme-2015-12-06-16-25-39-86966228377",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

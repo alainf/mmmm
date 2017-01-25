@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Conflits,-droits-humains-et-impunite/Deplacements-forces/",
   "description": "Description de Déplacements forcés",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 471877,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-36",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-51",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Déplacements forcés",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-51-86966232683"
   ],
+  "parent": "terme-2015-12-06-16-26-51-86966232680",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

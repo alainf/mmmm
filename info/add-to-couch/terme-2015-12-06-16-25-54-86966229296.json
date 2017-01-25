@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-25-54-86966229300",
     "terme-2015-12-06-16-25-55-86966229303"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2220,
   "identifiant-drupal-parent": 352,
-  "mise-a-jour": "2016-05-09-16-46-24",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-54",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Modèles organisationnels",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-54-86966229296"
   ],
+  "parent": "terme-2015-12-06-16-25-54-86966229285",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Art/Arts-vivants/Theatre-(art)/Genres-theatraux/Danse-theatre/",
   "description": "Description de Danse-théâtre",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 467067,
   "identifiant-drupal-parent": 467063,
-  "mise-a-jour": "2016-05-09-16-46-07",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-36",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Danse-théâtre",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-36-86966224604"
   ],
+  "parent": "terme-2015-12-06-16-24-36-86966224592",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

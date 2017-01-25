@@ -25,11 +25,11 @@
     "terme-2015-12-06-16-25-21-86966227311",
     "terme-2015-12-06-16-25-21-86966227314"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451111,
   "identifiant-drupal-parent": 1785,
-  "mise-a-jour": "2016-05-09-16-46-16",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Commerce de gros",
@@ -37,6 +37,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-20-86966227256"
   ],
+  "parent": "terme-2015-12-06-16-25-20-86966227250",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

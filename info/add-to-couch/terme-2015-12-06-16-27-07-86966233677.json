@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Urbanisme/Aspects-de-l'urbanisation/Energie/Economie-de-l'energie/",
   "description": "Description de Économie de l'énergie",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 468544,
   "identifiant-drupal-parent": 467101,
-  "mise-a-jour": "2016-05-09-16-46-39",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-07",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Économie de l'énergie",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-07-86966233677"
   ],
+  "parent": "terme-2015-12-06-16-27-07-86966233675",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

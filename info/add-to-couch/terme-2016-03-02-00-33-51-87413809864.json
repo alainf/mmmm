@@ -7,15 +7,16 @@
     "terme-2016-03-02-00-34-28-87413812121",
     "terme-2016-03-02-00-46-20-87413854846"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": true,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-03-02-00-33-51",
   "moment-de-modification": "2016-03-02-00-40-35",
   "nom": "L'auteur se distancie des événements",
   "nom-folder": "l-auteur-se-distancie-des-evenements",
   "nom-machine": "terme-2016-03-02-00-33-51-87413809864",
+  "parent": "terme-2016-03-02-00-32-46-87413805998",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

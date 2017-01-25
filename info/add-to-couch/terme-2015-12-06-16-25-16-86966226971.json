@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'information-et-de-la-communication/Etudes-mediatiques/Technologies-de-l'information-et-de-la-communication/Google/",
   "description": "Description de Google",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 471964,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-15",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-16",
   "moment-de-modification": "2015-01-04-02-27-49",
   "nom": "Google",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-16-86966226971"
   ],
+  "parent": "terme-2015-12-06-16-25-15-86966226950",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

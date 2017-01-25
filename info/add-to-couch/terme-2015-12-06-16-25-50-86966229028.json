@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-25-50-86966229038",
     "terme-2015-12-06-16-25-50-86966229041"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 271276,
   "identifiant-drupal-parent": 271275,
-  "mise-a-jour": "2016-05-09-16-46-23",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-50",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Plan comptable",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-50-86966229028"
   ],
+  "parent": "terme-2015-12-06-16-25-50-86966229023",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

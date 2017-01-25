@@ -6,15 +6,16 @@
   "enfants": [
     "terme-2016-03-02-00-33-51-87413809864"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": true,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-03-02-00-32-46",
   "moment-de-modification": "2016-03-02-01-23-41",
   "nom": "L'auteur est un témoin",
   "nom-folder": "l-auteur-est-un-temoin",
   "nom-machine": "terme-2016-03-02-00-32-46-87413805998",
+  "parent": "terme-2016-03-02-00-31-56-87413802975",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

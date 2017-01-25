@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-24-34-86966224490",
     "terme-2015-12-06-16-24-34-86966224493"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466864,
   "identifiant-drupal-parent": 466753,
-  "mise-a-jour": "2016-05-09-16-46-06",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-34",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Arts décoratifs",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-34-86966224479"
   ],
+  "parent": "terme-2015-12-06-16-24-33-86966224408",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

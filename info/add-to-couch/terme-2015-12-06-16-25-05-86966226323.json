@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Education-des-adultes/Formation-sur-mesure/",
   "description": "Description de Formation sur mesure",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472010,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-13",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-05",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Formation sur mesure",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-05-86966226323"
   ],
+  "parent": "terme-2015-12-06-16-25-05-86966226317",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

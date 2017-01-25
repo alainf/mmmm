@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Art/Cinema/Metiers-du-cinema/Presentation-de-films/",
   "description": "Description de Présentation de films",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466886,
   "identifiant-drupal-parent": 466883,
-  "mise-a-jour": "2016-05-09-16-46-07",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-38",
   "moment-de-modification": "2015-01-04-02-27-50",
   "nom": "Présentation de films",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-38-86966224713"
   ],
+  "parent": "terme-2015-12-06-16-24-38-86966224707",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

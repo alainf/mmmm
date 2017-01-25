@@ -17,11 +17,11 @@
     "terme-2015-12-06-16-24-50-86966225445",
     "terme-2015-12-06-16-24-50-86966225447"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 269121,
   "identifiant-drupal-parent": 269113,
-  "mise-a-jour": "2016-05-09-16-46-10",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-50",
   "moment-de-modification": "2015-01-04-02-27-55",
   "nom": "Droit des affaires",
@@ -29,6 +29,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-50-86966225414"
   ],
+  "parent": "terme-2015-12-06-16-24-49-86966225391",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

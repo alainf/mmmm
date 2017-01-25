@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Gestion-du-transport/Transport-de-tourisme/",
   "description": "Description de Transport de tourisme",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451137,
   "identifiant-drupal-parent": 2037,
-  "mise-a-jour": "2016-05-09-16-46-21",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-40",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Transport de tourisme",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-40-86966228403"
   ],
+  "parent": "terme-2015-12-06-16-25-39-86966228387",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

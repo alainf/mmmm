@@ -7,15 +7,16 @@
     "terme-2016-02-29-04-40-39-87404330365",
     "terme-2016-02-29-04-42-09-87404335796"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": false,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-02-29-04-38-40",
   "moment-de-modification": "2016-02-29-04-39-31",
   "nom": "Lieu embématique",
   "nom-folder": "lieu-embematique",
   "nom-machine": "terme-2016-02-29-04-38-40-87404323236",
+  "parent": "terme-2016-02-29-04-37-32-87404319172",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

@@ -4,6 +4,7 @@
   "breadcrumb": "taxonomies/sujets/Agriculture/Agriculture-generalites/",
   "description": "Description de Agriculture généralités",
   "enfants": [
+    "terme-2016-04-14-03-04-49-87637049345",
     "terme-2015-12-06-16-24-23-86966223788",
     "terme-2015-12-06-16-24-23-86966223791",
     "terme-2015-12-06-16-24-23-86966223794",
@@ -29,21 +30,20 @@
     "terme-2015-12-06-16-24-24-86966223880",
     "terme-2015-12-06-16-24-24-86966223888",
     "terme-2015-12-06-16-24-24-86966223891",
-    "terme-2015-12-06-16-24-24-86966223894",
-    "terme-2016-04-14-03-04-49-87637049345"
+    "terme-2015-12-06-16-24-24-86966223894"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
+  "fiche-defectueuse": false,
   "fiche-publiee": true,
   "identifiant-drupal": 895,
   "identifiant-drupal-parent": 348,
-  "mise-a-jour": "2016-05-09-16-46-03",
-  "moment-de-creation": "2015-12-06-16-24-22",
-  "moment-de-modification": "2016-02-13-19-49-52",
+  "mise-a-jour": "2017-01-23-16-33-30",
+  "moment-de-creation": "2017-01-23-14-58-05",
+  "moment-de-modification": "2017-01-23-14-58-12",
   "nom": "Agriculture généralités",
   "nom-folder": "Agriculture-generalites",
-  "nom-machine": [
-    "terme-2015-12-06-16-24-22-86966223768"
-  ],
+  "nom-machine": "terme-2015-12-06-16-24-22-86966223768",
+  "parent": "terme-2015-12-06-16-24-22-86966223762",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

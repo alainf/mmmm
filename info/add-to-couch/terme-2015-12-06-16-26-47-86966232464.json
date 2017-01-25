@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Polemologie/Complexe-militaro-industriel/",
   "description": "Description de Complexe militaro-industriel",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472298,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-35",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-47",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Complexe militaro-industriel",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-47-86966232464"
   ],
+  "parent": "terme-2015-12-06-16-26-47-86966232458",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

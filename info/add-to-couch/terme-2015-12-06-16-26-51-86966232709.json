@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Conflits,-droits-humains-et-impunite/Terrorisme/Terrorisme-economique/",
   "description": "Description de Terrorisme économique",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451303,
   "identifiant-drupal-parent": 451300,
-  "mise-a-jour": "2016-05-09-16-46-36",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-51",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Terrorisme économique",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-51-86966232709"
   ],
+  "parent": "terme-2015-12-06-16-26-51-86966232700",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

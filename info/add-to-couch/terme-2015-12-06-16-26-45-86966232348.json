@@ -18,11 +18,11 @@
     "terme-2015-12-06-16-26-46-86966232407",
     "terme-2015-12-06-16-26-46-86966232410"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1220,
   "identifiant-drupal-parent": 1188,
-  "mise-a-jour": "2016-05-09-16-46-35",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-45",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Méthodes qualitatives",
@@ -30,6 +30,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-45-86966232348"
   ],
+  "parent": "terme-2015-12-06-16-26-45-86966232307",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

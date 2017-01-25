@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-25-23-86966227405",
     "terme-2015-12-06-16-25-23-86966227408"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1812,
   "identifiant-drupal-parent": 1802,
-  "mise-a-jour": "2016-05-09-16-46-17",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-23",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Organisations économiques régionales",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-23-86966227397"
   ],
+  "parent": "terme-2015-12-06-16-25-22-86966227367",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

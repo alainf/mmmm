@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Recherche-academique/Production-du-savoir/",
   "description": "Description de Production du savoir",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472349,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-13",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-07",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Production du savoir",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-07-86966226423"
   ],
+  "parent": "terme-2015-12-06-16-25-07-86966226420",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

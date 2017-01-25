@@ -14,11 +14,11 @@
     "terme-2015-12-06-16-25-59-86966229562",
     "terme-2015-12-06-16-25-59-86966229565"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272227,
   "identifiant-drupal-parent": 2181,
-  "mise-a-jour": "2016-05-09-16-46-24",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-58",
   "moment-de-modification": "2015-01-04-02-27-44",
   "nom": "Tourisme",
@@ -26,6 +26,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-58-86966229539"
   ],
+  "parent": "terme-2015-12-06-16-25-58-86966229526",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

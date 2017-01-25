@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-financiere-ou-finance-d'entreprise/Produits-financiers/Services-financiers/",
   "description": "Description de Services financiers",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 271345,
   "identifiant-drupal-parent": 2030,
-  "mise-a-jour": "2016-05-09-16-46-20",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-39",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Services financiers",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-39-86966228342"
   ],
+  "parent": "terme-2015-12-06-16-25-38-86966228339",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

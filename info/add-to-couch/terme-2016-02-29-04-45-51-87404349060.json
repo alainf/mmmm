@@ -6,15 +6,16 @@
   "enfants": [
     "terme-2016-02-29-04-49-48-87404363338"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "fiche-supprimee": false,
-  "mise-a-jour": "2016-05-09-16-45-47",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-02-29-04-45-51",
   "moment-de-modification": "2016-02-29-04-46-56",
   "nom": "Dénoter une certaine vision de la réalité",
   "nom-folder": "denoter-une-certaine-vision-de-la-realite",
   "nom-machine": "terme-2016-02-29-04-45-51-87404349060",
+  "parent": "terme-2016-02-29-04-45-07-87404346439",
   "sous-type": "cogitae",
   "type": "taxonomies",
   "nomLangues": {

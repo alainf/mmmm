@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Ressources-humaines-et-organisation/Organisation-du-travail/Organisation-du-travail-et-stress/",
   "description": "Description de Organisation du travail et stress",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451348,
   "identifiant-drupal-parent": 2132,
-  "mise-a-jour": "2016-05-09-16-46-22",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-48",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "Organisation du travail et stress",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-48-86966228921"
   ],
+  "parent": "terme-2015-12-06-16-25-48-86966228911",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

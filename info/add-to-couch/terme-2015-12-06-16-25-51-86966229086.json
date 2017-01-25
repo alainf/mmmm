@@ -8,11 +8,11 @@
     "terme-2015-12-06-16-25-51-86966229119",
     "terme-2015-12-06-16-25-52-86966229122"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270968,
   "identifiant-drupal-parent": 270934,
-  "mise-a-jour": "2016-05-09-16-46-23",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-51",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Comptabilité générale (types)",
@@ -20,6 +20,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-51-86966229086"
   ],
+  "parent": "terme-2015-12-06-16-25-50-86966229048",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

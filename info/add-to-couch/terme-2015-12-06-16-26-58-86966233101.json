@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sciences-politiques/Regimes-politiques/Autoritarisme/",
   "description": "Description de Autoritarisme",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1180,
   "identifiant-drupal-parent": 1107,
-  "mise-a-jour": "2016-05-09-16-46-37",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-58",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Autoritarisme",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-58-86966233101"
   ],
+  "parent": "terme-2015-12-06-16-26-58-86966233093",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

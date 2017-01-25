@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Marketing/Gestion-de-la-marque/",
   "description": "Description de Gestion de la marque",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2056,
   "identifiant-drupal-parent": 2046,
-  "mise-a-jour": "2016-05-09-16-46-25",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-00",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Gestion de la marque",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-00-86966229619"
   ],
+  "parent": "terme-2015-12-06-16-25-59-86966229567",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

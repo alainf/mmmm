@@ -20,11 +20,11 @@
     "terme-2015-12-06-16-25-45-86966228703",
     "terme-2015-12-06-16-25-45-86966228706"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2168,
   "identifiant-drupal-parent": 2183,
-  "mise-a-jour": "2016-05-09-16-46-21",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-44",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Veille stratégique",
@@ -32,6 +32,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-44-86966228658"
   ],
+  "parent": "terme-2015-12-06-16-25-43-86966228600",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

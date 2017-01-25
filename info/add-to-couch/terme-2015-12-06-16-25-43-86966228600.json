@@ -19,11 +19,11 @@
     "terme-2015-12-06-16-25-44-86966228653",
     "terme-2015-12-06-16-25-44-86966228658"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2183,
   "identifiant-drupal-parent": 352,
-  "mise-a-jour": "2016-05-09-16-46-21",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-43",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Management",
@@ -31,6 +31,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-43-86966228600"
   ],
+  "parent": "terme-2015-12-06-16-25-20-86966227205",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

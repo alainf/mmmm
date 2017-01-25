@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Strategie,-responsabilite-sociale-et-environnementale/Criteres-de-la-resp-sociale-et-env-des-entreprises/Criteres-environnementaux/",
   "description": "Description de Critères environnementaux",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2234,
   "identifiant-drupal-parent": 2231,
-  "mise-a-jour": "2016-05-09-16-46-23",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-54",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Critères environnementaux",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-54-86966229243"
   ],
+  "parent": "terme-2015-12-06-16-25-53-86966229233",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

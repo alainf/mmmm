@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-24-47-86966225267",
     "terme-2015-12-06-16-24-47-86966225270"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466800,
   "identifiant-drupal-parent": 466798,
-  "mise-a-jour": "2016-05-09-16-46-09",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-47",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Études féministes",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-47-86966225264"
   ],
+  "parent": "terme-2015-12-06-16-24-47-86966225256",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-26-22-86966230934",
     "terme-2015-12-06-16-26-22-86966230937"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270762,
   "identifiant-drupal-parent": 270761,
-  "mise-a-jour": "2016-05-09-16-46-30",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-22",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Biologie",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-22-86966230926"
   ],
+  "parent": "terme-2015-12-06-16-26-22-86966230923",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

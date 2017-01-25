@@ -8,11 +8,11 @@
     "terme-2015-12-06-16-26-33-86966231633",
     "terme-2015-12-06-16-26-38-86966231891"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 881,
   "identifiant-drupal-parent": 890,
-  "mise-a-jour": "2016-05-09-16-46-31",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-31",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Philosophie psychologie et religion",
@@ -20,6 +20,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-31-86966231495"
   ],
+  "parent": "terme-2015-12-06-16-26-22-86966230961",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

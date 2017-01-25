@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-physique/Geomorphologie/",
   "description": "Description de Géomorphologie",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 965,
   "identifiant-drupal-parent": 953,
-  "mise-a-jour": "2016-05-09-16-46-30",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-24",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Géomorphologie",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-24-86966231064"
   ],
+  "parent": "terme-2015-12-06-16-26-24-86966231053",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

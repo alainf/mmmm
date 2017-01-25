@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Religion-(philosophie)/Religion-et-art/",
   "description": "Description de Religion et art",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466766,
   "identifiant-drupal-parent": 882,
-  "mise-a-jour": "2016-05-09-16-46-33",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-39",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Religion et art",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-39-86966231944"
   ],
+  "parent": "terme-2015-12-06-16-26-38-86966231891",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

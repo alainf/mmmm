@@ -9,15 +9,16 @@
     "terme-2015-12-06-16-27-18-86966234298",
     "terme-2015-12-06-16-27-18-86966234301"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 317546,
-  "mise-a-jour": "2016-05-09-16-46-41",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-18",
   "moment-de-modification": "2015-01-04-02-27-57",
   "nom": "Groupe",
   "nom-folder": "groupe",
   "nom-machine": "terme-2015-12-06-16-27-18-86966234289",
+  "parent": "terme-2015-12-06-16-27-16-86966234209",
   "sous-type": "types-de-acteur",
   "type": "taxonomies",
   "nomLangues": {

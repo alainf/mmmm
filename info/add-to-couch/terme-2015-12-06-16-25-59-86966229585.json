@@ -11,11 +11,11 @@
     "terme-2015-12-06-16-25-59-86966229599",
     "terme-2015-12-06-16-26-00-86966229602"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2050,
   "identifiant-drupal-parent": 2046,
-  "mise-a-jour": "2016-05-09-16-46-25",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-59",
   "moment-de-modification": "2016-03-11-06-39-33",
   "nom": "Commandite",
@@ -23,6 +23,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-59-86966229585"
   ],
+  "parent": "terme-2015-12-06-16-25-59-86966229567",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

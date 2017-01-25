@@ -26,11 +26,11 @@
     "terme-2015-12-06-16-24-37-86966224649",
     "terme-2015-12-06-16-24-37-86966224652"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 467063,
   "identifiant-drupal-parent": 467060,
-  "mise-a-jour": "2016-05-09-16-46-07",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-36",
   "moment-de-modification": "2015-01-04-02-27-50",
   "nom": "Genres théâtraux",
@@ -38,6 +38,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-36-86966224592"
   ],
+  "parent": "terme-2015-12-06-16-24-36-86966224583",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

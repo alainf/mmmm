@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-terre/Petrologie/Distribution-du-petrole/",
   "description": "Description de Distribution du pétrole",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272269,
   "identifiant-drupal-parent": 270829,
-  "mise-a-jour": "2016-05-09-16-46-27",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-09",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Distribution du pétrole",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-09-86966230167"
   ],
+  "parent": "terme-2015-12-06-16-26-09-86966230164",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

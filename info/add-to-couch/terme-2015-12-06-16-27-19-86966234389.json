@@ -6,15 +6,16 @@
   "enfants": [
     "terme-2015-12-06-16-27-19-86966234392"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 317560,
-  "mise-a-jour": "2016-05-09-16-46-42",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-19",
   "moment-de-modification": "2015-01-04-02-27-56",
   "nom": "Hub",
   "nom-folder": "hub",
   "nom-machine": "terme-2015-12-06-16-27-19-86966234389",
+  "parent": "terme-2015-12-06-16-27-19-86966234380",
   "sous-type": "types-de-ressource",
   "type": "taxonomies",
   "nomLangues": {

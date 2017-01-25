@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Audit-et-controle-de-gestion/Controle-de-gestion-et-qualite/",
   "description": "Description de Contrôle de gestion et qualité",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1779,
   "identifiant-drupal-parent": 1777,
-  "mise-a-jour": "2016-05-09-16-46-16",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Contrôle de gestion et qualité",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-20-86966227221"
   ],
+  "parent": "terme-2015-12-06-16-25-20-86966227212",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

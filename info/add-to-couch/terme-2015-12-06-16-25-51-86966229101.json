@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-25-51-86966229113",
     "terme-2015-12-06-16-25-51-86966229116"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270974,
   "identifiant-drupal-parent": 270970,
-  "mise-a-jour": "2016-05-09-16-46-23",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-51",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Documents de synthèse",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-51-86966229101"
   ],
+  "parent": "terme-2015-12-06-16-25-51-86966229089",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

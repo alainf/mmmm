@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-26-22-86966230950",
     "terme-2015-12-06-16-26-22-86966230953"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270761,
   "identifiant-drupal-parent": 889,
-  "mise-a-jour": "2016-05-09-16-46-30",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-22",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Sciences de la vie",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-22-86966230923"
   ],
+  "parent": "terme-2015-12-06-16-26-17-86966230658",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

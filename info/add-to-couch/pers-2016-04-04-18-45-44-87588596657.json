@@ -4,18 +4,18 @@
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "importance": 0,
-  "mise-a-jour": "2016-05-09-16-44-22",
+  "mise-a-jour": "2017-01-22-15-48-57",
   "moment-de-creation": "2016-04-04-18-45-44",
   "moment-de-modification": "2016-04-04-18-45-44",
-  "nom": "Stã©phane Courtois",
+  "nom": "Stéphane Courtois",
   "nom-machine": "pers-2016-04-04-18-45-44-87588596657",
   "personne-nom-famille": "Courtois",
-  "personne-nom-prenom": "Stã©phane",
+  "personne-nom-prenom": "Stéphane",
   "site-de-diffusion": [
     "terme-2015-12-06-16-23-47-86966221646"
   ],
   "source-defectueuse": false,
-  "source-url": "http://www.phdadministration.net/?id=pers-2016-04-04-18-45-44-87588596657,",
+  "source-url": "http://www.phdadministration.net/personne/pers-2016-04-04-18-45-44-87588596657,",
   "sous-type": "pers",
   "type": "ressources",
   "type-de-ressource": [
@@ -23,7 +23,7 @@
   ],
   "nomLangues": {
     "fr": [
-      "Stã©phane Courtois"
+      "Stéphane Courtois"
     ]
   }
 }

@@ -11,11 +11,11 @@
     "terme-2015-12-06-16-26-44-86966232270",
     "terme-2015-12-06-16-26-44-86966232273"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1052,
   "identifiant-drupal-parent": 997,
-  "mise-a-jour": "2016-05-09-16-46-34",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-44",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Théories en éthologie",
@@ -23,6 +23,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-44-86966232255"
   ],
+  "parent": "terme-2015-12-06-16-26-44-86966232246",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

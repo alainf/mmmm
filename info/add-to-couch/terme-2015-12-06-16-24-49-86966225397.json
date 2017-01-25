@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Droit/Branches-du-droit/Droit-prive/Droit-civil/Droit-de-la-famille/",
   "description": "Description de Droit de la famille",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 269117,
   "identifiant-drupal-parent": 269114,
-  "mise-a-jour": "2016-05-09-16-46-10",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-49",
   "moment-de-modification": "2015-01-04-02-27-55",
   "nom": "Droit de la famille",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-49-86966225397"
   ],
+  "parent": "terme-2015-12-06-16-24-49-86966225394",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

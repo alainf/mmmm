@@ -9,11 +9,11 @@
     "terme-2015-12-06-16-26-51-86966232709",
     "terme-2015-12-06-16-26-51-86966232712"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451300,
   "identifiant-drupal-parent": 1004,
-  "mise-a-jour": "2016-05-09-16-46-36",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-51",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Terrorisme",
@@ -21,6 +21,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-51-86966232700"
   ],
+  "parent": "terme-2015-12-06-16-26-51-86966232680",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

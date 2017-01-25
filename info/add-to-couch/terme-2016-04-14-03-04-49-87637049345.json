@@ -10,14 +10,15 @@
     "terme-2015-12-06-16-24-23-86966223783",
     "terme-2015-12-06-16-24-23-86966223785"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
-  "mise-a-jour": "2016-05-09-16-46-40",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-04-14-03-04-49",
   "moment-de-modification": "2016-04-14-03-04-49",
   "nom": "Agriculture et environnement",
   "nom-folder": "Agriculture-et-environnement",
   "nom-machine": "terme-2016-04-14-03-04-49-87637049345",
+  "parent": "terme-2015-12-06-16-24-22-86966223768",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

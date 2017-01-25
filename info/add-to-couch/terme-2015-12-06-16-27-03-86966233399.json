@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Problematiques-en-sociologie/Anonymat/",
   "description": "Description de Anonymat",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472197,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-38",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-03",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Anonymat",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-03-86966233399"
   ],
+  "parent": "terme-2015-12-06-16-27-03-86966233395",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

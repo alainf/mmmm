@@ -12,11 +12,11 @@
     "terme-2015-12-06-16-25-41-86966228472",
     "terme-2015-12-06-16-25-41-86966228475"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272266,
   "identifiant-drupal-parent": 2035,
-  "mise-a-jour": "2016-05-09-16-46-21",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-40",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Transport et entreposage",
@@ -24,6 +24,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-40-86966228452"
   ],
+  "parent": "terme-2015-12-06-16-25-39-86966228377",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

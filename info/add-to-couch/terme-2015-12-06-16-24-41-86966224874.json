@@ -12,11 +12,11 @@
     "terme-2015-12-06-16-24-41-86966224890",
     "terme-2015-12-06-16-24-41-86966224893"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 982,
   "identifiant-drupal-parent": 466753,
-  "mise-a-jour": "2016-05-09-16-46-08",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-41",
   "moment-de-modification": "2015-01-04-02-27-50",
   "nom": "Histoire de l'art",
@@ -24,6 +24,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-41-86966224874"
   ],
+  "parent": "terme-2015-12-06-16-24-33-86966224408",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Logistique/Transport-et-entreposage/Gestion-des-aeroports/",
   "description": "Description de Gestion des aéroports",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272268,
   "identifiant-drupal-parent": 272266,
-  "mise-a-jour": "2016-05-09-16-46-21",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-41",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Gestion des aéroports",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-41-86966228469"
   ],
+  "parent": "terme-2015-12-06-16-25-40-86966228452",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

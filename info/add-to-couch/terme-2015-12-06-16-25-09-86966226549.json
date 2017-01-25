@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Energies-alternatives/Energie-solaire-(alternative)/",
   "description": "Description de Énergie solaire (alternative)",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272404,
   "identifiant-drupal-parent": 270879,
-  "mise-a-jour": "2016-05-09-16-46-14",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-09",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Énergie solaire (alternative)",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-09-86966226549"
   ],
+  "parent": "terme-2015-12-06-16-25-09-86966226543",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

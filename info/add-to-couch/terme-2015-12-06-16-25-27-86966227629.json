@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-production/Methodes-en-gestion-de-la-production/Analyse-qualitative/",
   "description": "Description de Analyse qualitative",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472151,
   "identifiant-drupal-parent": 1846,
-  "mise-a-jour": "2016-05-09-16-46-18",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-27",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Analyse qualitative",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-27-86966227629"
   ],
+  "parent": "terme-2015-12-06-16-25-27-86966227623",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

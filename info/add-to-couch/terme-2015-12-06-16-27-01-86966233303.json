@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Sociologie/Methodes-de-recherche-en-sociologie/Methodes-qualitatives-et-quantitatives/Dialectique/",
   "description": "Description de Dialectique",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1230,
   "identifiant-drupal-parent": 1221,
-  "mise-a-jour": "2016-05-09-16-46-38",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-01",
   "moment-de-modification": "2015-01-04-02-27-52",
   "nom": "Dialectique",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-01-86966233303"
   ],
+  "parent": "terme-2015-12-06-16-27-01-86966233296",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

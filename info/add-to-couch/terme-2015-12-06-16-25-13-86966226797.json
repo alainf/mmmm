@@ -13,11 +13,11 @@
     "terme-2015-12-06-16-25-13-86966226821",
     "terme-2015-12-06-16-25-13-86966226824"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466834,
   "identifiant-drupal-parent": 466753,
-  "mise-a-jour": "2016-05-09-16-46-15",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-13",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Industries créatives",
@@ -25,6 +25,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-13-86966226797"
   ],
+  "parent": "terme-2015-12-06-16-25-12-86966226771",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

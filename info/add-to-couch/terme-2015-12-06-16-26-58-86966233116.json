@@ -15,11 +15,11 @@
     "terme-2015-12-06-16-26-59-86966233142",
     "terme-2015-12-06-16-26-59-86966233146"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 471366,
   "identifiant-drupal-parent": 1004,
-  "mise-a-jour": "2016-05-09-16-46-37",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-58",
   "moment-de-modification": "2015-01-04-02-27-54",
   "nom": "Résistance sociale (sciences politiques)",
@@ -27,6 +27,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-58-86966233116"
   ],
+  "parent": "terme-2015-12-06-16-26-50-86966232603",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

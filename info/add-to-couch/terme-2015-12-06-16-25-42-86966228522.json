@@ -12,11 +12,11 @@
     "terme-2015-12-06-16-25-42-86966228541",
     "terme-2015-12-06-16-25-42-86966228544"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2191,
   "identifiant-drupal-parent": 2189,
-  "mise-a-jour": "2016-05-09-16-46-21",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-42",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Gestion bancaire",
@@ -24,6 +24,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-42-86966228522"
   ],
+  "parent": "terme-2015-12-06-16-25-41-86966228487",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

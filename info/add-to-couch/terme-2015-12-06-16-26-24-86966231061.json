@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Branches-de-la-geographie/Geographie-physique/Climatologie/Modeles-climatiques/",
   "description": "Description de Modèles climatiques",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472214,
   "identifiant-drupal-parent": 964,
-  "mise-a-jour": "2016-05-09-16-46-30",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-24",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Modèles climatiques",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-24-86966231061"
   ],
+  "parent": "terme-2015-12-06-16-26-24-86966231058",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

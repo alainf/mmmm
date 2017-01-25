@@ -14,11 +14,11 @@
     "terme-2015-12-06-16-24-27-86966224042",
     "terme-2015-12-06-16-24-27-86966224045"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 937,
   "identifiant-drupal-parent": 936,
-  "mise-a-jour": "2016-05-09-16-46-04",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-26",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Céréales",
@@ -26,6 +26,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-26-86966224018"
   ],
+  "parent": "terme-2015-12-06-16-24-26-86966223996",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

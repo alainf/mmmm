@@ -18,11 +18,11 @@
     "terme-2015-12-06-16-26-18-86966230722",
     "terme-2015-12-06-16-26-18-86966230725"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270765,
   "identifiant-drupal-parent": 270764,
-  "mise-a-jour": "2016-05-09-16-46-29",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-18",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Astronomie",
@@ -30,6 +30,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-18-86966230688"
   ],
+  "parent": "terme-2015-12-06-16-26-18-86966230684",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

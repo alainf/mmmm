@@ -4,18 +4,18 @@
   "fiche-a-completer": true,
   "fiche-publiee": true,
   "importance": 0,
-  "mise-a-jour": "2016-05-09-16-44-36",
+  "mise-a-jour": "2017-01-22-15-48-57",
   "moment-de-creation": "2016-04-04-18-46-41",
   "moment-de-modification": "2016-04-04-18-46-41",
-  "nom": "Franã§ois Schuler",
+  "nom": "François Schuler",
   "nom-machine": "pers-2016-04-04-18-46-41-87588600089",
   "personne-nom-famille": "Schuler",
-  "personne-nom-prenom": "Franã§ois",
+  "personne-nom-prenom": "François",
   "site-de-diffusion": [
     "terme-2015-12-06-16-23-47-86966221646"
   ],
   "source-defectueuse": false,
-  "source-url": "http://www.phdadministration.net/?id=pers-2016-04-04-18-46-41-87588600089,",
+  "source-url": "http://www.phdadministration.net/personne/pers-2016-04-04-18-46-41-87588600089,",
   "sous-type": "pers",
   "type": "ressources",
   "type-de-ressource": [
@@ -23,7 +23,7 @@
   ],
   "nomLangues": {
     "fr": [
-      "Franã§ois Schuler"
+      "François Schuler"
     ]
   }
 }

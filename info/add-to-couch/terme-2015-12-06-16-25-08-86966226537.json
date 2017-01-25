@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'environnement/Ecologie/Ecologie-economique/",
   "description": "Description de Écologie économique",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 468541,
   "identifiant-drupal-parent": 270869,
-  "mise-a-jour": "2016-05-09-16-46-14",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-08",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Écologie économique",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-08-86966226537"
   ],
+  "parent": "terme-2015-12-06-16-25-08-86966226513",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

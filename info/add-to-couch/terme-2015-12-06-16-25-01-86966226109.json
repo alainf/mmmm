@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Informatique/Logiciels-applicatifs/",
   "description": "Description de Logiciels applicatifs",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472226,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-12",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-01",
   "moment-de-modification": "2015-01-04-02-27-45",
   "nom": "Logiciels applicatifs",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-01-86966226109"
   ],
+  "parent": "terme-2015-12-06-16-24-59-86966225980",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

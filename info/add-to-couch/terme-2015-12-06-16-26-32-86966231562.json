@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Philosophie/Philosophie-de-la-medecine/",
   "description": "Description de Philosophie de la médecine",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 455604,
   "identifiant-drupal-parent": 270366,
-  "mise-a-jour": "2016-05-09-16-46-32",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-32",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Philosophie de la médecine",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-32-86966231562"
   ],
+  "parent": "terme-2015-12-06-16-26-31-86966231498",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

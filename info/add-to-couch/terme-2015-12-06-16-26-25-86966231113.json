@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-humaines/Geographie/Europe/",
   "description": "Description de Europe",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 455657,
   "identifiant-drupal-parent": 467199,
-  "mise-a-jour": "2016-05-09-16-46-30",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-25",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Europe",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-25-86966231113"
   ],
+  "parent": "terme-2015-12-06-16-26-22-86966230968",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-l'education/Education-interculturelle/",
   "description": "Description de Éducation interculturelle",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451291,
   "identifiant-drupal-parent": 883,
-  "mise-a-jour": "2016-05-09-16-46-13",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-05",
   "moment-de-modification": "2015-01-04-02-27-46",
   "nom": "Éducation interculturelle",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-05-86966226331"
   ],
+  "parent": "terme-2015-12-06-16-25-04-86966226295",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

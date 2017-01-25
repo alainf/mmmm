@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Neuropsychologie/",
   "description": "Description de Neuropsychologie",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270376,
   "identifiant-drupal-parent": 270368,
-  "mise-a-jour": "2016-05-09-16-46-32",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-35",
   "moment-de-modification": "2015-01-04-02-27-47",
   "nom": "Neuropsychologie",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-35-86966231717"
   ],
+  "parent": "terme-2015-12-06-16-26-33-86966231633",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

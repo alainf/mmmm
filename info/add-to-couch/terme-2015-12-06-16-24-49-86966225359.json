@@ -6,16 +6,17 @@
   "enfants": [
     "terme-2015-12-06-16-24-49-86966225362"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 470184,
   "identifiant-drupal-parent": 891,
-  "mise-a-jour": "2016-05-09-16-46-09",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-49",
   "moment-de-modification": "2015-01-04-02-27-35",
   "nom": "Minorités (sciences sociales)",
   "nom-folder": "Minorites-(sciences-sociales)",
   "nom-machine": "terme-2015-12-06-16-24-49-86966225359",
+  "parent": "terme-2015-12-06-16-24-46-86966225210",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

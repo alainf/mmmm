@@ -8,18 +8,18 @@
     "terme-2015-12-06-16-24-29-86966224158",
     "terme-2015-12-06-16-24-29-86966224161"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
+  "fiche-defectueuse": false,
   "fiche-publiee": true,
   "identifiant-drupal": 465718,
   "identifiant-drupal-parent": 348,
-  "mise-a-jour": "2016-05-09-16-46-05",
-  "moment-de-creation": "2015-12-06-16-24-29",
-  "moment-de-modification": "2015-01-04-02-27-35",
+  "mise-a-jour": "2017-01-23-16-33-30",
+  "moment-de-creation": "2017-01-23-14-59-29",
+  "moment-de-modification": "2017-01-23-14-59-38",
   "nom": "Industrie alimentaire",
   "nom-folder": "Industrie-alimentaire",
-  "nom-machine": [
-    "terme-2015-12-06-16-24-29-86966224152"
-  ],
+  "nom-machine": "terme-2015-12-06-16-24-29-86966224152",
+  "parent": "terme-2015-12-06-16-24-22-86966223762",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

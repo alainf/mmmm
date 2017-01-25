@@ -58,11 +58,11 @@
     "terme-2015-12-06-16-25-55-86966229316",
     "terme-2015-12-06-16-25-55-86966229320"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1775,
   "identifiant-drupal-parent": 352,
-  "mise-a-jour": "2016-05-09-16-46-16",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-20",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Branches des sciences de la gestion",
@@ -70,6 +70,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-20-86966227205"
   ],
+  "parent": "terme-2015-12-06-16-25-17-86966227055",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

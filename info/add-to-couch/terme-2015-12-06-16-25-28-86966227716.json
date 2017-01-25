@@ -6,11 +6,11 @@
   "enfants": [
     "terme-2015-12-06-16-25-28-86966227718"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1874,
   "identifiant-drupal-parent": 1837,
-  "mise-a-jour": "2016-05-09-16-46-18",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-28",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Progiciels de gestion intégré (gestion production)",
@@ -18,6 +18,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-28-86966227716"
   ],
+  "parent": "terme-2015-12-06-16-25-26-86966227575",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

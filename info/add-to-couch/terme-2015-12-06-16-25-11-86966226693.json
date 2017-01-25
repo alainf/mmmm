@@ -7,11 +7,11 @@
     "terme-2015-12-06-16-25-11-86966226696",
     "terme-2015-12-06-16-25-11-86966226698"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 272237,
   "identifiant-drupal-parent": 1562,
-  "mise-a-jour": "2016-05-09-16-46-14",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-11",
   "moment-de-modification": "2015-01-04-02-27-48",
   "nom": "Ouvrages de référence",
@@ -19,6 +19,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-11-86966226693"
   ],
+  "parent": "terme-2015-12-06-16-25-11-86966226667",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -8,11 +8,11 @@
     "terme-2015-12-06-16-25-27-86966227662",
     "terme-2015-12-06-16-25-27-86966227666"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1856,
   "identifiant-drupal-parent": 1854,
-  "mise-a-jour": "2016-05-09-16-46-18",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-27",
   "moment-de-modification": "2015-01-04-02-27-42",
   "nom": "Gestion des flux de travail",
@@ -20,6 +20,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-27-86966227657"
   ],
+  "parent": "terme-2015-12-06-16-25-27-86966227651",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

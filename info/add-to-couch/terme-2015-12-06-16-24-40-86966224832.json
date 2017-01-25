@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Art/Expositions/",
   "description": "Description de Expositions",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466926,
   "identifiant-drupal-parent": 466753,
-  "mise-a-jour": "2016-05-09-16-46-07",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-40",
   "moment-de-modification": "2015-01-04-02-27-51",
   "nom": "Expositions",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-40-86966224832"
   ],
+  "parent": "terme-2015-12-06-16-24-33-86966224408",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

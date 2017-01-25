@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-humaines/Philosophie,-psychologie-et-religion/Psychologie/Toxicomanie/",
   "description": "Description de Toxicomanie",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 455612,
   "identifiant-drupal-parent": 270368,
-  "mise-a-jour": "2016-05-09-16-46-33",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-38",
   "moment-de-modification": "2015-01-04-02-27-47",
   "nom": "Toxicomanie",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-38-86966231888"
   ],
+  "parent": "terme-2015-12-06-16-26-33-86966231633",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

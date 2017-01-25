@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-26-36-86966231763",
     "terme-2015-12-06-16-26-36-86966231766"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 451181,
   "identifiant-drupal-parent": 270368,
-  "mise-a-jour": "2016-05-09-16-46-32",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-35",
   "moment-de-modification": "2015-01-04-02-27-47",
   "nom": "Psychanalyse",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-35-86966231751"
   ],
+  "parent": "terme-2015-12-06-16-26-33-86966231633",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

@@ -18,11 +18,11 @@
     "terme-2015-12-06-16-27-08-86966233727",
     "terme-2015-12-06-16-27-08-86966233730"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 467096,
   "identifiant-drupal-parent": 467095,
-  "mise-a-jour": "2016-05-09-16-46-39",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-27-07",
   "moment-de-modification": "2015-01-04-02-27-37",
   "nom": "Aspects de l'urbanisation",
@@ -30,6 +30,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-27-07-86966233654"
   ],
+  "parent": "terme-2015-12-06-16-27-07-86966233652",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

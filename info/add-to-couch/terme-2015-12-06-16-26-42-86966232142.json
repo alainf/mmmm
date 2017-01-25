@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-sociales/Anthropologie/Courants-anthropologiques/Anthropologie-dynamique/Dynamique-identitaire/",
   "description": "Description de Dynamique identitaire",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 472054,
   "identifiant-drupal-parent": 1034,
-  "mise-a-jour": "2016-05-09-16-46-34",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-42",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Dynamique identitaire",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-42-86966232142"
   ],
+  "parent": "terme-2015-12-06-16-26-42-86966232139",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

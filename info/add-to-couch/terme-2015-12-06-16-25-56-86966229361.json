@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Theories-des-organisations/Dependance-des-ressources/",
   "description": "Dépendance des ressources",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2259,
   "identifiant-drupal-parent": 2246,
-  "mise-a-jour": "2016-05-09-16-46-24",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-56",
   "moment-de-modification": "2015-01-04-02-27-39",
   "nom": "Théorie de la dépendance des ressources",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-56-86966229361"
   ],
+  "parent": "terme-2015-12-06-16-25-55-86966229320",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

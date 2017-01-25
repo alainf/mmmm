@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Gestion-de-la-qualite-(gestion)/Controle-des-defauts-de-production/",
   "description": "Description de Contrôle des défauts de production",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1881,
   "identifiant-drupal-parent": 1877,
-  "mise-a-jour": "2016-05-09-16-46-18",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-28",
   "moment-de-modification": "2015-01-04-02-27-40",
   "nom": "Contrôle des défauts de production",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-28-86966227735"
   ],
+  "parent": "terme-2015-12-06-16-25-28-86966227723",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

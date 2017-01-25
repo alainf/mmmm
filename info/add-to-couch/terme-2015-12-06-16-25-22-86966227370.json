@@ -3,11 +3,11 @@
   "ajouter-aux-favoris": false,
   "breadcrumb": "taxonomies/sujets/Sciences-de-la-gestion/Branches-des-sciences-de-la-gestion/Commerce/Commerce-international/Commerce-de-concentration/",
   "description": "Description de Commerce de concentration",
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1803,
   "identifiant-drupal-parent": 1802,
-  "mise-a-jour": "2016-05-09-16-46-17",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-22",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Commerce de concentration",
@@ -15,6 +15,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-22-86966227370"
   ],
+  "parent": "terme-2015-12-06-16-25-22-86966227367",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

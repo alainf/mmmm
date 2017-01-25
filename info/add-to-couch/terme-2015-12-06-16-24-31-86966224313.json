@@ -21,11 +21,11 @@
     "terme-2015-12-06-16-24-32-86966224357",
     "terme-2015-12-06-16-24-32-86966224360"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 269028,
   "identifiant-drupal-parent": 940,
-  "mise-a-jour": "2016-05-09-16-46-06",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-24-31",
   "moment-de-modification": "2015-01-04-02-27-36",
   "nom": "Soins vétérinaires",
@@ -33,6 +33,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-24-31-86966224313"
   ],
+  "parent": "terme-2015-12-06-16-24-30-86966224231",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

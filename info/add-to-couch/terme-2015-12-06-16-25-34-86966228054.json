@@ -6,16 +6,17 @@
   "enfants": [
     "terme-2015-12-06-16-25-34-86966228056"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 1978,
   "identifiant-drupal-parent": 1943,
-  "mise-a-jour": "2016-05-09-16-46-19",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-34",
   "moment-de-modification": "2015-01-04-02-27-41",
   "nom": "Gestion du temps (projets)",
   "nom-folder": "Gestion-du-temps-(projets)",
   "nom-machine": "terme-2015-12-06-16-25-34-86966228054",
+  "parent": "terme-2015-12-06-16-25-31-86966227911",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

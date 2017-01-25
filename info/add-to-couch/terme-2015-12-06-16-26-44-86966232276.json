@@ -6,11 +6,11 @@
   "enfants": [
     "terme-2015-12-06-16-26-44-86966232279"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 466711,
   "identifiant-drupal-parent": 891,
-  "mise-a-jour": "2016-05-09-16-46-34",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-26-44",
   "moment-de-modification": "2015-01-04-02-27-53",
   "nom": "Études des sciences et de la société",
@@ -18,6 +18,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-26-44-86966232276"
   ],
+  "parent": "terme-2015-12-06-16-26-39-86966231993",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

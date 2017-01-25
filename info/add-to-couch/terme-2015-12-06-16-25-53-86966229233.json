@@ -10,11 +10,11 @@
     "terme-2015-12-06-16-25-54-86966229246",
     "terme-2015-12-06-16-25-54-86966229251"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 2231,
   "identifiant-drupal-parent": 2140,
-  "mise-a-jour": "2016-05-09-16-46-23",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-53",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Critères de la responsabilité sociale et environnementale des entreprises",
@@ -22,6 +22,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-53-86966229233"
   ],
+  "parent": "terme-2015-12-06-16-25-53-86966229218",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

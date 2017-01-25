@@ -13,11 +13,11 @@
     "terme-2015-12-06-16-25-51-86966229075",
     "terme-2015-12-06-16-25-51-86966229078"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
   "identifiant-drupal": 270982,
   "identifiant-drupal-parent": 270981,
-  "mise-a-jour": "2016-05-09-16-46-23",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2015-12-06-16-25-50",
   "moment-de-modification": "2015-01-04-02-27-43",
   "nom": "Méthodes de comptabilité analytique",
@@ -25,6 +25,7 @@
   "nom-machine": [
     "terme-2015-12-06-16-25-50-86966229054"
   ],
+  "parent": "terme-2015-12-06-16-25-50-86966229051",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {

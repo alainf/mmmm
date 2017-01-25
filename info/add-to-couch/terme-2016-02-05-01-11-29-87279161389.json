@@ -8,14 +8,15 @@
     "terme-2016-02-05-01-31-41-87279234071",
     "terme-2016-02-05-01-35-31-87279247860"
   ],
-  "fiche-a-completer": true,
+  "fiche-a-completer": false,
   "fiche-publiee": true,
-  "mise-a-jour": "2016-05-09-16-46-40",
+  "mise-a-jour": "2017-01-23-16-33-30",
   "moment-de-creation": "2016-02-05-01-11-29",
   "moment-de-modification": "2016-02-05-01-12-46",
   "nom": "Avec quoi écrire",
   "nom-folder": "Avec-quoi-ecrire",
   "nom-machine": "terme-2016-02-05-01-11-29-87279161389",
+  "parent": "terme-2016-02-05-01-05-18-87279139120",
   "sous-type": "sujets",
   "type": "taxonomies",
   "nomLangues": {
