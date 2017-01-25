@@ -28,6 +28,8 @@ const _ = require('lodash')
 
 const fix = (str) => decodeHtmlEntities(
   str
+    .replace(/&#195;&#129;/g, 'Á')
+    .replace(/&#195;&#179;/g, 'ó')
     .replace(/&#227;&#132;/g, 'ä')
     .replace(/&#227;&#133;/g, 'å')
     .replace(/&#227;&#135;/g, 'ç')
@@ -50,6 +52,7 @@ const fix = (str) => decodeHtmlEntities(
     .replace(/&#227;&#175;/g, 'ï')
     .replace(/&#227;&#178;/g, 'ò')
     .replace(/&#227;&#179;/g, 'ó')
+//    .replace(/&#227;&#179;/g, 'ô')
     .replace(/&#227;&#180;/g, 'ô')
     .replace(/&#227;&#182;/g, 'ö')
     .replace(/&#227;&#186;/g, 'ú')
@@ -85,12 +88,12 @@ const entities = (doc) => {
   for (r in doc) {
     if (r === 'nomLangues') {
       for (t in doc.nomLangues) {
-        doc.nomLangues[t] = doc.nomLangues[t].map((x) => fix(x))
+        doc.nomLangues[t] = doc.nomLangues[t].map(fix)
       }
     } else if (typeof doc[r] === 'string') {
       doc[r] = fix(doc[r])
     } else if (typeof doc[r] === 'object' && doc[r].length) {
-      doc[r] = doc[r].map((x) => fix(x))
+      doc[r] = doc[r].map(fix)
     }
   }
   return doc
@@ -137,6 +140,7 @@ const fixJson = (filename) => new Promise((resolve, reject) => {
           if (typeof doc[r] === 'string') { doc[r] = [doc[r]] }
           lang = r.slice(4, 6)
           if (lang === 'an') { lang = 'en' }
+          // doc.nomLangues[lang] = doc[r].map(fix)
           doc.nomLangues[lang] = doc[r].slice()
           delete doc[r]
         } else if (r === 'identifiant-drupal' || r === 'identifiant-drupal-parent') {
