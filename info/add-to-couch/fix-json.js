@@ -59,7 +59,6 @@ const fix = (str) => decodeHtmlEntities(
     .replace(/&#227;&#188;/g, 'ü')
 )
 
-
 const nomLangues = [
   'nom-francais',
   'nom-russe',
