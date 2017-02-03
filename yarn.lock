@@ -628,7 +628,7 @@ debug-log@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/debug-log/-/debug-log-1.0.1.tgz#2307632d4c04382b8df8a32f70b895046d52745f"
 
-debug@*, debug@^2.1.0, debug@^2.2.0:
+debug@*, debug@^2.1.0, debug@^2.1.1, debug@^2.2.0:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.3.2.tgz#94cb466ef7d6d2c7e5245cdd6e4104f2d0d70d30"
   dependencies:
@@ -640,7 +640,7 @@ debug@2.2.0, debug@~2.2.0:
   dependencies:
     ms "0.7.1"
 
-debug@2.3.3, debug@^2.0.0, debug@^2.1.1:
+debug@2.3.3, debug@^2.0.0:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.3.3.tgz#40c453e67e6e13c901ddec317af8986cda9eff8c"
   dependencies:
@@ -1894,7 +1894,7 @@ jodid25519@^1.0.0:
   dependencies:
     jsbn "~0.1.0"
 
-joi@10.x.x, joi@^10.2.0:
+joi@10.x.x:
   version "10.2.0"
   resolved "https://registry.yarnpkg.com/joi/-/joi-10.2.0.tgz#2c9dba08240d453e58145667f0d5006de527e328"
   dependencies:
@@ -1920,6 +1920,15 @@ joi@9.X.X, joi@9.x.x:
     isemail "2.x.x"
     items "2.x.x"
     moment "2.x.x"
+    topo "2.x.x"
+
+joi@^10.2.1:
+  version "10.2.1"
+  resolved "https://registry.yarnpkg.com/joi/-/joi-10.2.1.tgz#f3a5f6a492d311735f17b109487646c2194aa92d"
+  dependencies:
+    hoek "4.x.x"
+    isemail "2.x.x"
+    items "2.x.x"
     topo "2.x.x"
 
 js-tokens@^2.0.0:
@@ -1997,9 +2006,9 @@ kind-of@^3.0.2:
   dependencies:
     is-buffer "^1.0.2"
 
-lab@^12.0.0:
-  version "12.0.0"
-  resolved "https://registry.yarnpkg.com/lab/-/lab-12.0.0.tgz#2e83e493b9f65ac7ee74c2a3ba4dbf5c9204a25c"
+lab@^12.1.0:
+  version "12.1.0"
+  resolved "https://registry.yarnpkg.com/lab/-/lab-12.1.0.tgz#94cc889c6a9d71e30ab9e9d249b819664d60be47"
   dependencies:
     bossy "3.x.x"
     diff "3.x.x"
