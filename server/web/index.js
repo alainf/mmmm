@@ -48,23 +48,33 @@ exports.register = function (server, options, next) {
     const doOne = (id) => {
       return got([dbUrl, id].join('/'), { json: true })
         .then((x) => {
+          let sousType
+          switch (x.body['sous-type']) {
+            case 'sections':
+              sousType = 'section'
+              break
+
+            case 'sujets':
+              sousType = 'sujet'
+              break
+
+            default:
+              sousType = x.body['sous-type']
+          }
           parents.push({
             id: x.body._id,
             nom: x.body.nomLangues[l] && x.body.nomLangues[l][0] || x.body.nomLangues.fr[0],
-            href: '/' + [l, x.body['sous-type'], x.body._id].join('/')
+            href: '/' + [l, sousType, x.body._id].join('/')
           })
           if (x.body.parent) {
             doOne(x.body.parent)
           } else {
-            parents.push(x.body['sous-type'])
+            parents.push(sousType)
             parents.push(x.body.type)
             resolve(parents.reverse())
           }
         })
-        .catch((e) => {
-          // console.log('Err fetch all parents:', e)
-          reject(e)
-        })
+        .catch((e) => reject(e))
     }
     doOne(id2)
   })
