@@ -16,7 +16,15 @@
   <div class='small-12 columns'>
   <nav>
     <ul class='breadcrumbs'>
+    <% if (data.allParents) { %>
+    <li><%- data.__(data.allParents[1]) %>:</li>
+    <li><a href="/<%- data.langue %>/accueil"><%- data.__('Accueil') %></a></li>
+    <% data.allParents.slice(2).forEach((crumb) => { %>
+    <li><a href="<%- crumb.href %>"><%- crumb.nom %></a></li>
+    <% }) %>
+    <% } else { %>
     <li>Accueil</li>
+    <% } %>
     <li>
       <a class="prev-page<%- data.currentPage === 1 ? ' disabled' : '' %>" href="/<%- data.langue %>/accueil/<%- Math.max(data.currentPage - 1, 1) %>">&lt;</a>
       <span> Page <%- data.currentPage %> </span>
