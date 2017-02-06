@@ -6,6 +6,7 @@ const url = require('url')
 // npm
 const Wreck = require('wreck')
 const _ = require('lodash')
+const got = require('got')
 
 // const sections = require('../../data/list1.json')
 // const sujets = require('../../data/list2.json')
@@ -40,6 +41,40 @@ const pages = [
 
 exports.register = function (server, options, next) {
   const dbUrl = url.resolve(options.db.url, options.db.name)
+
+  const fetchAllParents = (id2, l) => new Promise((resolve, reject) => {
+    if (!l) { l = 'fr' }
+    const parents = []
+    const doOne = (id) => {
+      return got([dbUrl, id].join('/'), { json: true })
+        .then((x) => {
+          parents.push({
+            id: x.body._id,
+            nom: x.body.nomLangues[l] && x.body.nomLangues[l][0] || x.body.nomLangues.fr[0],
+            href: '/' + [l, x.body['sous-type'], x.body._id].join('/')
+          })
+          if (x.body.parent) {
+            doOne(x.body.parent)
+          } else {
+            parents.push(x.body['sous-type'])
+            parents.push(x.body.type)
+            resolve(parents.reverse())
+          }
+        })
+        .catch((e) => {
+          // console.log('Err fetch all parents:', e)
+          reject(e)
+        })
+    }
+    doOne(id2)
+  })
+
+/*
+  fetchAllParents('terme-2015-12-06-16-26-33-86966231633', 'en')
+    .then((p) => {
+      console.log('Parents:', JSON.stringify(p, null, '  '))
+    })
+*/
 
   const mapperDetail666 = (request, callback) => {
     const sk = [request.params.pageId]
@@ -439,6 +474,11 @@ exports.register = function (server, options, next) {
         })
 
       const pageInfo = { }
+
+      if (request.pre.allParents) {
+        pageInfo.allParents = request.pre.allParents
+      }
+
       if (request.pre.topSections) {
         pageInfo.topSections = request.pre.topSections
       }
@@ -478,14 +518,6 @@ exports.register = function (server, options, next) {
     })
   }
 
-  server.views({
-    engines: { html: require('lodash-vision') },
-    path: 'templates',
-    partialsPath: 'templates/partials',
-    helpersPath: 'templates/helpers',
-    isCached: options.templateCached
-  })
-
   const thing1 = function (request, reply) {
     reply.proxy({
       passThrough: true,
@@ -501,6 +533,31 @@ exports.register = function (server, options, next) {
       onResponse: responderDetail666
     })
   }
+
+  const allParents = function (request, reply) {
+    const what = request.params.sujetId || request.params.sectionId
+    if (!what) { return reply(false) }
+    // console.log('what:', what)
+    const p = fetchAllParents(what, request.params.languageCode)
+/*
+      .then((a) => {
+        console.log('A:', a)
+        return a
+      })
+*/
+      .catch((e) => {
+        return false
+      })
+    reply(p)
+  }
+
+  server.views({
+    engines: { html: require('lodash-vision') },
+    path: 'templates',
+    partialsPath: 'templates/partials',
+    helpersPath: 'templates/helpers',
+    isCached: options.templateCached
+  })
 
   server.route({
     method: 'GET',
@@ -686,6 +743,10 @@ topSujets
     config: {
       pre: [
         {
+          method: allParents,
+          assign: 'allParents'
+        },
+        {
           method: sousSujets,
           assign: 'topSujets'
         },
@@ -721,6 +782,10 @@ topSujets
     path: '/{languageCode}/section/{sectionId}/{n?}',
     config: {
       pre: [
+        {
+          method: allParents,
+          assign: 'allParents'
+        },
         {
           method: sousSections,
           assign: 'topSections'
