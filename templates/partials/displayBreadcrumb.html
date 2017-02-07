@@ -19,9 +19,10 @@
     <% if (data.allParents) { %>
     <li><%- data.__(data.allParents[1]) %>:</li>
     <li><a href="/<%- data.langue %>/accueil"><%- data.__('Accueil') %></a></li>
-    <% data.allParents.slice(2).forEach((crumb) => { %>
+    <% data.allParents.slice(2, -1).forEach((crumb) => { %>
     <li><a href="<%- crumb.href %>"><%- crumb.nom %></a></li>
     <% }) %>
+    <li><%- data.allParents[data.allParents.length - 1].nom %></li>
     <% } else { %>
     <li>Accueil</li>
     <% } %>
