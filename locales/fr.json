@@ -142,5 +142,8 @@
   "section": "section",
   "sujet": "sujet",
   "Art": "Art",
-  "Arts et culture": "Arts et culture"
+  "Arts et culture": "Arts et culture",
+  "Peinture": "Peinture",
+  "Aucun": "Aucun",
+  "Architecture": "Architecture"
 }
