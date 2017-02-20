@@ -65,7 +65,7 @@
       </dd>
       <% } %>
 
-      <% if (data.doc.section) { %>
+      <% if (data.doc.section && data.doc.section.length) { %>
       <dt><%- data.__('Sections du site') %></dt>
       <dd>
         <% data.doc.section.forEach(function (valeur) { %>
@@ -81,7 +81,7 @@
       </dd>
       <% } %>
 
-      <% if (data.doc.sujet) { %>
+      <% if (data.doc.sujet && data.doc.sujet.length) { %>
       <dt>
         <%- data.__('Sujets') %>&nbsp;
         <a class="icon" data-toggle="ajouter-sujet-dropdown" title="<%- data.__('Ajouter un sujet') %>"><i class="fi-plus"></i></a>
