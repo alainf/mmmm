@@ -1,17 +1,21 @@
 <div class=''>
   <div class='callout'>
-  <ul class='menu vertical'>
     <% if (data.pageInfo && data.pageInfo.topSujets) { %>
+    <% if (data.pageInfo.topSujets.length) { %>
+    <ul class='menu vertical'>
       <% data.pageInfo.topSujets.forEach((item) => { %>
         <li><a href="<%- item.href %>"><%- item.nom %></a></li>
       <% }) %>
+    </ul>
     <% } else { %>
-      <!-- debut -->
+      <p><%- data.__('Fin de cette branche de l\'arborescence des sujets.') %></p>
+    <% } %>
+    <% } else { %>
+    <ul class='menu vertical'>
       <% data.lesSujets.forEach((item) => { %>
         <li><a href="/fr/sujet"><%- item %></a></li>
       <% }) %>
-      <!-- fin -->
+    </ul>
     <% } %>
-  </ul>
   </div>
 </div>
