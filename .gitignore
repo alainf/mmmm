@@ -1,4 +1,5 @@
 node_modules
+fi
 test/artifacts
 npm-debug.log
 .env
