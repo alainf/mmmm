@@ -60,7 +60,7 @@
     "eslint-plugin-json": "^1.2.0",
     "lab": "^12.1.0",
     "nodemon": "^1.11.0",
-    "standard": "^8.6.0"
+    "standard": "^9.0.1"
   },
   "eslintConfig": {
     "plugins": [
