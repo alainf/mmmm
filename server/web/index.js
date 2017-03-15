@@ -63,7 +63,7 @@ exports.register = function (server, options, next) {
           }
           parents.push({
             id: x.body._id,
-            nom: x.body.nomLangues[l] && x.body.nomLangues[l][0] || x.body.nomLangues.fr[0],
+            nom: (x.body.nomLangues[l] && x.body.nomLangues[l][0]) || x.body.nomLangues.fr[0],
             href: '/' + [l, sousType, x.body._id].join('/')
           })
           if (x.body.parent) {
@@ -206,7 +206,7 @@ exports.register = function (server, options, next) {
       /* $lab:coverage:off$ */
       if (err) { return reply(err) } // FIXME: how to test?
       /* $lab:coverage:on$ */
-      reply(payload.rows && payload.rows[0] && payload.rows[0].value || 0)
+      reply((payload.rows && payload.rows[0] && payload.rows[0].value) || 0)
     })
   }
 
