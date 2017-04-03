@@ -6,3 +6,4 @@ npm-debug.log
 .env-orig
 .env-cloudant
 info/add-to-couch/new
+yarn-error.log
