@@ -16,6 +16,7 @@ const manifest = {
     connections: { routes: { security: true } }
   },
   connections: [{
+    host: 'localhost',
     port: Config.get('/port/web'),
     labels: ['web']
   }],
