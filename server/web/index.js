@@ -144,6 +144,8 @@ exports.register = function (server, options, next) {
     })
   }
 
+// https://monphd.cloudant.com/machina/_design/app/_view/pertinence?limit=20&reduce=false
+
   const mapperAccueilPaged = (request, callback) => {
     callback(
       null,
@@ -530,7 +532,7 @@ exports.register = function (server, options, next) {
 
   const thing1 = function (request, reply) {
     reply.proxy({
-      passThrough: true,
+      // passThrough: true,
       mapUri: mapperDetail,
       onResponse: responderDetail
     })
@@ -538,7 +540,7 @@ exports.register = function (server, options, next) {
 
   const thing2 = function (request, reply) {
     reply.proxy({
-      passThrough: true,
+      // passThrough: true,
       mapUri: mapperDetail666,
       onResponse: responderDetail666
     })
@@ -662,7 +664,7 @@ topSujets
       ],
       handler: {
         proxy: {
-          passThrough: true,
+          // passThrough: true,
           mapUri: mapperAccueilPaged,
           onResponse: responderAccueil
         }
@@ -779,7 +781,7 @@ topSujets
       ],
       handler: {
         proxy: {
-          passThrough: true,
+          // passThrough: true,
           mapUri: mapperSujetPaged,
           onResponse: responderAccueil
         }
@@ -819,7 +821,7 @@ topSujets
       ],
       handler: {
         proxy: {
-          passThrough: true,
+          // passThrough: true,
           mapUri: mapperSectionPaged,
           onResponse: responderAccueil
         }
