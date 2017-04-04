@@ -43,6 +43,7 @@
     "hapi-favicon": "^1.0.0",
     "hapi-graceful-pm2": "^1.0.15",
     "hapi-i18n": "^1.0.3",
+    "hapi-info": "^2.0.3",
     "hapijs-status-monitor": "^0.5.0",
     "he": "^1.1.1",
     "hoek": "^4.1.1",

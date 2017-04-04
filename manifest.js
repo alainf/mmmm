@@ -66,6 +66,13 @@ const manifest = {
       options: { routes: { prefix: '/user' } }
     },
     {
+      plugin:  {
+        register: 'hapi-info',
+        options: { path: '/version' }
+      },
+      options: { routes: { prefix: '/system' } }
+    },
+    {
       plugin: 'hapijs-status-monitor',
       options: { routes: { prefix: '/system' } }
     },

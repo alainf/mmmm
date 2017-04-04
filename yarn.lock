@@ -1545,6 +1545,13 @@ hapi-i18n@^1.0.3:
     i18n "^0.5.0"
     lodash "^3.5.0"
 
+hapi-info@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/hapi-info/-/hapi-info-2.0.3.tgz#2c9ad7e7238b1d3d17ae4bc6cadb2b5f6c4e780f"
+  dependencies:
+    hoek "3.x.x"
+    joi "7.x.x"
+
 hapi-scope-start@2.x.x:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/hapi-scope-start/-/hapi-scope-start-2.1.1.tgz#7495a726fe72b7bca8de2cdcc1d87cd8ce6ab4f2"
