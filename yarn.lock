@@ -282,13 +282,7 @@ boom@3.X.X, boom@3.x.x:
   dependencies:
     hoek "4.x.x"
 
-boom@4.x.x, boom@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/boom/-/boom-4.2.0.tgz#c1a74174b11fbba223f6162d4fd8851a1b82a536"
-  dependencies:
-    hoek "4.x.x"
-
-boom@^4.3.1:
+boom@4.x.x, boom@^4.2.0, boom@^4.3.1:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/boom/-/boom-4.3.1.tgz#4f8a3005cb4a7e3889f749030fd25b96e01d2e31"
   dependencies:
@@ -1512,6 +1506,14 @@ hapi-auth-cookie@^6.1.1:
     hoek "3.x.x"
     joi "7.x.x"
 
+hapi-auth-cookie@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/hapi-auth-cookie/-/hapi-auth-cookie-7.0.0.tgz#1bb9130d85ab0efe02f7df518e864867616a49a4"
+  dependencies:
+    boom "3.x.x"
+    hoek "4.x.x"
+    joi "8.x.x"
+
 hapi-boom-decorators@^2.2.2:
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/hapi-boom-decorators/-/hapi-boom-decorators-2.2.2.tgz#6ab6ac2468f7be0d1235335b8ddb70fd4c54bae1"
@@ -2035,6 +2037,15 @@ joi@7.x.x:
   resolved "https://registry.yarnpkg.com/joi/-/joi-7.3.0.tgz#4d9c9f181830444083665b5b6cd5b8ca6779a5e9"
   dependencies:
     hoek "3.x.x"
+    isemail "2.x.x"
+    moment "2.x.x"
+    topo "2.x.x"
+
+joi@8.x.x:
+  version "8.4.2"
+  resolved "https://registry.yarnpkg.com/joi/-/joi-8.4.2.tgz#bd7774658fe99058d8994ed1d4b9962484ebb859"
+  dependencies:
+    hoek "4.x.x"
     isemail "2.x.x"
     moment "2.x.x"
     topo "2.x.x"
