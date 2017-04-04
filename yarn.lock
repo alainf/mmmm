@@ -1979,7 +1979,7 @@ jodid25519@^1.0.0:
   dependencies:
     jsbn "~0.1.0"
 
-joi@10.x.x, joi@^10.2.2:
+joi@10.x.x:
   version "10.2.2"
   resolved "https://registry.yarnpkg.com/joi/-/joi-10.2.2.tgz#dc5a792b7b4c6fffa562242a95b55d9d3f077e24"
   dependencies:
@@ -2005,6 +2005,15 @@ joi@9.X.X, joi@9.x.x:
     isemail "2.x.x"
     items "2.x.x"
     moment "2.x.x"
+    topo "2.x.x"
+
+joi@^10.4.1:
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/joi/-/joi-10.4.1.tgz#a2fca1f0d603d1b843f2c1e086b52461f6be1f36"
+  dependencies:
+    hoek "4.x.x"
+    isemail "2.x.x"
+    items "2.x.x"
     topo "2.x.x"
 
 js-tokens@^2.0.0:
