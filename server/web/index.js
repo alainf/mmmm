@@ -40,7 +40,10 @@ const pages = [
 ]
 
 exports.register = function (server, options, next) {
-  const dbUrl = url.resolve(options.db.url, options.db.name)
+  const dbImp = url.parse(options.db.url)
+  dbImp.pathname = options.db.name
+  dbImp.auth = [options.db.reader, options.db.readerPassword].join(':')
+  const dbUrl = url.format(dbImp)
 
   const fetchAllParents = (id2, l) => new Promise((resolve, reject) => {
     if (!l) { l = 'fr' }

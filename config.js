@@ -33,7 +33,9 @@ const config = {
     url: process.env.DBURL,
     name: process.env.DBNAME,
     admin: process.env.DBADMIN,
-    password: process.env.DBPASSWORD
+    password: process.env.DBPASSWORD,
+    reader: process.env.DBRDR,
+    readerPassword: process.env.DBRDRPASSWORD
   },
   i18n: {
     syncFiles: defTrue,

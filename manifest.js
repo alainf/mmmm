@@ -121,7 +121,9 @@ const manifest = {
           templateCached: Config.get('/cache/web'),
           db: {
             url: Config.get('/db/url'),
-            name: Config.get('/db/name')
+            name: Config.get('/db/name'),
+            reader: Config.get('/db/reader'),
+            readerPassword: Config.get('/db/readerPassword')
           }
         }
       }
