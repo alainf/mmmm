@@ -288,6 +288,12 @@ boom@4.x.x, boom@^4.2.0:
   dependencies:
     hoek "4.x.x"
 
+boom@^4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/boom/-/boom-4.3.1.tgz#4f8a3005cb4a7e3889f749030fd25b96e01d2e31"
+  dependencies:
+    hoek "4.x.x"
+
 bossy@3.x.x:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/bossy/-/bossy-3.0.2.tgz#87fe996e6039060fd91b8d07ba097c384656876b"
