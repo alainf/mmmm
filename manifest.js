@@ -66,7 +66,7 @@ const manifest = {
       options: { routes: { prefix: '/user' } }
     },
     {
-      plugin:  {
+      plugin: {
         register: 'hapi-info',
         options: { path: '/version' }
       },
