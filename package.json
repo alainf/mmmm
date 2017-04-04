@@ -56,11 +56,11 @@
   },
   "devDependencies": {
     "code": "^4.0.0",
-    "eslint": "^3.17.1",
+    "eslint": "^3.19.0",
     "eslint-plugin-json": "^1.2.0",
     "lab": "^13.0.1",
     "nodemon": "^1.11.0",
-    "standard": "^9.0.1"
+    "standard": "^9.0.2"
   },
   "eslintConfig": {
     "plugins": [
