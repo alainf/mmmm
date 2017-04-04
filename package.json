@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "boom": "^4.2.0",
-    "catbox-redis": "^2.0.2",
+    "catbox-redis": "^3.0.1",
     "cloudant-nano": "^6.4.1",
     "confidence": "^3.0.2",
     "couchdb-push": "^2.3.2",
