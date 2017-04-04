@@ -1532,6 +1532,10 @@ hapi-for-you@1.x.x:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hapi-for-you/-/hapi-for-you-1.0.0.tgz#d362fbee8d7bda9c2c7801e207e5a5cd1a0b6a7b"
 
+hapi-graceful-pm2@^1.0.15:
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/hapi-graceful-pm2/-/hapi-graceful-pm2-1.0.15.tgz#6edcf967025df70521a75655436cb6cd3f6aae48"
+
 hapi-i18n@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/hapi-i18n/-/hapi-i18n-1.0.3.tgz#b7143ffd59747df1675a896935ad2ae05a9ccd60"

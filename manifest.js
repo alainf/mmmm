@@ -42,6 +42,14 @@ const manifest = {
     },
     {
       plugin: {
+        register: 'hapi-graceful-pm2',
+        options: {
+          timeout: (parseInt(process.env.PM2_GRACEFUL_TIMEOUT) || 8000) - 500
+        }
+      }
+    },
+    {
+      plugin: {
         options: {
           db: {
             url: Config.get('/db/url'),
