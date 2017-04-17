@@ -47,9 +47,11 @@ exports.register = function (server, options, next) {
 
   const fetchAllParents = (id2, l) => new Promise((resolve, reject) => {
     if (!l) { l = 'fr' }
+    // console.log('fetchAllParents', id2, l)
     const parents = []
     const doOne = (id) => {
-      return got([dbUrl, id].join('/'), { json: true })
+      // console.log('DOONE', id)
+      return got([options.db.url, options.db.name, id].join('/'), { auth: dbImp.auth, json: true })
         .then((x) => {
           let sousType
           switch (x.body['sous-type']) {
@@ -64,6 +66,7 @@ exports.register = function (server, options, next) {
             default:
               sousType = x.body['sous-type']
           }
+          // console.log('SOUSTYPE', sousType)
           parents.push({
             id: x.body._id,
             nom: (x.body.nomLangues[l] && x.body.nomLangues[l][0]) || x.body.nomLangues.fr[0],
@@ -74,10 +77,14 @@ exports.register = function (server, options, next) {
           } else {
             parents.push(sousType)
             parents.push(x.body.type)
+            // console.log('PARENTS', parents)
             resolve(parents.reverse())
           }
         })
-        .catch((e) => reject(e))
+        .catch((e) => {
+          // console.log('ERRRR', e)
+          return reject(e)
+        })
     }
     doOne(id2)
   })
@@ -550,6 +557,7 @@ exports.register = function (server, options, next) {
   }
 
   const allParents = function (request, reply) {
+    // console.log('PARAMS', request.params)
     const what = request.params.sujetId || request.params.sectionId
     if (!what) { return reply(false) }
     // console.log('what:', what)
