@@ -647,9 +647,9 @@ debug-log@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/debug-log/-/debug-log-1.0.1.tgz#2307632d4c04382b8df8a32f70b895046d52745f"
 
-debug@*, debug@^2.1.0, debug@^2.1.1, debug@^2.2.0:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-2.3.2.tgz#94cb466ef7d6d2c7e5245cdd6e4104f2d0d70d30"
+debug@*, debug@2.3.3, debug@^2.0.0:
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-2.3.3.tgz#40c453e67e6e13c901ddec317af8986cda9eff8c"
   dependencies:
     ms "0.7.2"
 
@@ -659,9 +659,9 @@ debug@2.2.0, debug@~2.2.0:
   dependencies:
     ms "0.7.1"
 
-debug@2.3.3, debug@^2.0.0:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-2.3.3.tgz#40c453e67e6e13c901ddec317af8986cda9eff8c"
+debug@^2.1.0, debug@^2.1.1, debug@^2.2.0:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-2.3.2.tgz#94cb466ef7d6d2c7e5245cdd6e4104f2d0d70d30"
   dependencies:
     ms "0.7.2"
 
@@ -765,9 +765,9 @@ domutils@1.5:
     dom-serializer "0"
     domelementtype "1"
 
-dotenv-safe@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/dotenv-safe/-/dotenv-safe-4.0.3.tgz#3c98f69f6072f7b2d0df120a65add27ac2550029"
+dotenv-safe@^4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/dotenv-safe/-/dotenv-safe-4.0.4.tgz#8b0e7ced8e70b1d3c5d874ef9420e406f39425b3"
   dependencies:
     dotenv "^4.0.0"
 
@@ -1526,6 +1526,12 @@ hapi-boom-decorators@^2.2.2:
   dependencies:
     boom "^4.2.0"
 
+hapi-boom-decorators@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/hapi-boom-decorators/-/hapi-boom-decorators-2.3.0.tgz#4990dafddc259ffdd0e245fd6a99974f40bd8e9c"
+  dependencies:
+    boom "^4.3.1"
+
 hapi-capitalize-modules@1.x.x:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/hapi-capitalize-modules/-/hapi-capitalize-modules-1.1.6.tgz#7991171415e15e6aa3231e64dda73c8146665318"
@@ -1562,9 +1568,9 @@ hapi-graceful-pm2@^1.0.15:
   version "1.0.15"
   resolved "https://registry.yarnpkg.com/hapi-graceful-pm2/-/hapi-graceful-pm2-1.0.15.tgz#6edcf967025df70521a75655436cb6cd3f6aae48"
 
-hapi-i18n@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/hapi-i18n/-/hapi-i18n-1.0.3.tgz#b7143ffd59747df1675a896935ad2ae05a9ccd60"
+hapi-i18n@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/hapi-i18n/-/hapi-i18n-1.0.4.tgz#81127fff8157d915467882d35da27dded3e3b777"
   dependencies:
     boom "^2.6.1"
     hoek "^2.11.1"
@@ -2283,13 +2289,9 @@ lodash.restparam@^3.0.0:
   version "3.6.1"
   resolved "https://registry.yarnpkg.com/lodash.restparam/-/lodash.restparam-3.6.1.tgz#936a4e309ef330a7645ed4145986c85ae5b20805"
 
-lodash@3.7.x:
+lodash@3.7.x, lodash@^3.5.0:
   version "3.7.0"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.7.0.tgz#3678bd8ab995057c07ade836ed2ef087da811d45"
-
-lodash@^3.5.0:
-  version "3.10.1"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
 
 lodash@^4.0.0, lodash@^4.17.4, lodash@^4.3.0, lodash@^4.8.2:
   version "4.17.4"
@@ -3582,9 +3584,9 @@ wreck@9.X.X:
     boom "3.x.x"
     hoek "4.x.x"
 
-wreck@^12.0.0:
-  version "12.0.0"
-  resolved "https://registry.yarnpkg.com/wreck/-/wreck-12.0.0.tgz#952684ae83815189f1b3ff4dbdfe2e63d3b65507"
+wreck@^12.1.0:
+  version "12.1.0"
+  resolved "https://registry.yarnpkg.com/wreck/-/wreck-12.1.0.tgz#01e4fa5bd667afb5e5921748d9adb9bf903dc5da"
   dependencies:
     boom "4.x.x"
     hoek "4.x.x"
