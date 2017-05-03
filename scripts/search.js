@@ -11,6 +11,13 @@ if (
   console.error('Argument requis: chaine à chercher')
   console.error('On peut passer des facettes en option:')
   facets.forEach((x) => console.error(`--${x}=CHAINE`))
+  console.error(`
+Exemples d'utilisation:
+  ${process.argv[1]} "trump pentagon"
+  ${process.argv[1]} "trump pentagon" --sous-type=site
+  ${process.argv[1]} "trump pentagon" --sous-type=site --type=ressources
+
+Notez que les guillemets "" sont requis.`)
   process.exit(1)
 }
 
