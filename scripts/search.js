@@ -58,10 +58,15 @@ const ddFlags = process.argv
   .map((x) => x.replace(/^-+/, '').split('='))
   .filter(isFacet)
 
-yoyo('wall street', ddFlags)
+yoyo(process.argv[2], ddFlags)
   .then((res) => {
     console.error(res.headers)
     console.log(JSON.stringify(res.body, null, '  '))
+    console.error(`Recherche de "${process.argv[2]}".`)
+    console.error(`Total de ${res.body.total_rows} résultats.`)
+    if (res.body.rows.length !== res.body.total_rows) {
+      console.error(`${res.body.rows.length} résultats présentés.`)
+    }
     console.error('Drilldown:')
     facets.forEach((x) => {
       const k = Object.keys(res.body.counts[x])
@@ -74,3 +79,42 @@ yoyo('wall street', ddFlags)
       }
     })
   })
+
+/*
+function indexFunc (doc) {
+  function yo (it, b) {
+    var it2 = it === 'contenu' ? 'default' : it
+    var store = it !== 'citation'
+    if (doc[it]) {
+      index(it2, doc[it], { store: store, boost: b });
+    }
+  }
+
+  function facet (it) {
+    if (doc[it]) {
+      index(it, doc[it], { store: true, facet: true });
+    }
+  }
+
+  facet('type')
+  facet('sous-type')
+  yo('contenu', 1)
+  yo('citation', 2)
+  yo('description', 1.5)
+  yo('titre', 2.5)
+}
+
+Search design doc:
+{
+  "_id": "_design/search1",
+  "_rev": "16-03a296f1a5cd08ba828058028624854c",
+  "views": {},
+  "language": "javascript",
+  "indexes": {
+    "storing": {
+      "analyzer": "standard",
+      "index": indexFunc.toString()
+    }
+  }
+}
+*/
