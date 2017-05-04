@@ -5,11 +5,22 @@
 
 <body>
 
-<%= partials.liensPublics({ usertype: "membre" }) %>
-
-<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
 
 <%= partials.displayHeader({ headerName: 'titreSeulement', title: "Me connecter", soustitre: "Compléter le formulaire ci-dessous" }) %>
+
+
+
+
+
+<%= partials.liensPublics({ data: data, usertype: "membre" }) %>
+
+<%= partials.displayHeader({ data: data, headerName: 'logoChercherFiltrer' }) %>
+
+<%= partials.displayHeader({ data: data, page: data.page, langue:
+  data.languageCode, headerName: 'mmPageHeaderRYM', usertype: "membre",
+  title: data.__('Me connecter'), soustitre: data.__('Compléter le formulaire ci-dessous') }) %>
+
+
 
 <div class='row' id='form'>
   <div class='small-6 columns'>
