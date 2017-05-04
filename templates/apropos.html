@@ -5,11 +5,11 @@
 
 <body>
 
-<%= partials.liensPublics({ usertype: "membre" }) %>
+<%= partials.liensPublics({ data: data, usertype: "membre" }) %>
 
-<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
+<%= partials.displayHeader({ data: data, headerName: 'logoChercherFiltrer' }) %>
 
-<%= partials.displayHeader({ headerName: 'titreSeulement', title: "À propos", soustitre: "Information concernant ce site, cette organisation, nos politiques ..." }) %>
+<%= partials.displayHeader({ data: data, page: data.page, langue: data.languageCode, headerName: 'mmPageHeaderRYM', usertype: "membre", title: data.pageInfo && data.pageInfo.title2 || data.__('Accueil de PhdAdmin') }) %>
 
 <div class='row'>
 
