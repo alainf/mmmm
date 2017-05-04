@@ -5,11 +5,13 @@
 
 <body>
 
-<%= partials.liensPublics({ usertype: "membre" }) %>
+<%= partials.liensPublics({ data: data, usertype: "membre" }) %>
 
-<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
+<%= partials.displayHeader({ data: data, headerName: 'logoChercherFiltrer' }) %>
 
-<%= partials.displayHeader({ headerName: 'titreSeulement', title: "Me déconnecter", soustitre: "Merci d'avoir fréquenté notre site" }) %>
+<%= partials.displayHeader({ data: data, page: data.page, langue:
+  data.languageCode, headerName: 'titreSeulement', usertype: "membre",
+  title: data.__('Me déconnecter'), soustitre: data.__('Merci d\'avoir fréquenté notre site') }) %>
 
 <div class='row'>
   <div class='small-12 columns'>
