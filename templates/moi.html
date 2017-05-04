@@ -5,11 +5,13 @@
 
 <body>
 
-<%= partials.liensPublics({ usertype: "membre" }) %>
+<%= partials.liensPublics({ data: data, usertype: "membre" }) %>
 
-<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
+<%= partials.displayHeader({ data: data, headerName: 'logoChercherFiltrer' }) %>
 
-<%= partials.displayHeader({ headerName: 'titreSeulement', title: "Moi", soustitre: "Informations qui me concernent" }) %>
+<%= partials.displayHeader({ data: data, page: data.page, langue:
+  data.languageCode, headerName: 'mmPageHeaderRYM', usertype: "membre",
+  title: data.__('Moi'), soustitre: data.__('Informations qui me concernent') }) %>
 
 <div class='row'>
 
@@ -543,7 +545,7 @@
     </div>
     </div>
   </div>
- 
+
 </div>
 
 <%= partials.footer({ pagination: false, lastPage: "0", username: "Alain Farmer" }) %>
