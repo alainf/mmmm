@@ -5,11 +5,11 @@
 
 <body>
 
-<%= partials.liensPublics({ usertype: "membre" }) %>
+<%= partials.liensPublics({ data: data, usertype: "membre" }) %>
 
-<%= partials.displayHeader({ headerName: 'logoChercher' }) %>
+<%= partials.displayHeader({ data: data, headerName: 'logoChercherFiltrer' }) %>
 
-<%= partials.displayHeader({ headerName: 'titreSeulement', title: "Favoris", soustitre: "Répertoire des favoris que j'ai ajoutés contextuellement" }) %>
+<%= partials.displayHeader({ data: data, page: data.page, langue: data.languageCode, headerName: 'mmPageHeaderRYM', usertype: "membre", title: data.__('Favoris'), soustitre: data.__('Répertoire des favoris que j\'ai ajoutés contextuellement') }) %>
 
 <div class='row'>
 
@@ -31,7 +31,7 @@
     <li class='tabs-title is-active'><a href="#mes-sujets" aria-selected='true'><span class='tabs-size'>Sujets</span></a></li>
   </ul>
   </div>
-  
+
   <div class='small-9 columns'>
   <div>
   <div class='tabs-content' data-tabs-content='compte'>
@@ -186,7 +186,7 @@
     </div>
     </div>
   </div>
- 
+
 </div>
 
 <%= partials.footer({ pagination: false, lastPage: "0", username: "Alain Farmer" }) %>
