@@ -24,7 +24,7 @@
     }
   ],
   "dependencies": {
-    "boom": "^4.3.1",
+    "boom": "^5.0.0",
     "catbox-redis": "^3.0.1",
     "cloudant-nano": "^6.5.0",
     "confidence": "^3.0.2",
