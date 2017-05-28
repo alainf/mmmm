@@ -54,7 +54,7 @@
     "lout": "^10.0.1",
     "pify": "^2.3.0",
     "vision": "^4.1.1",
-    "wreck": "^12.1.0"
+    "wreck": "^12.2.2"
   },
   "devDependencies": {
     "code": "^4.0.0",
