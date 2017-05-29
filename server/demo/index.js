@@ -6,17 +6,28 @@ const url = require('url')
 // npm
 const Wreck = require('wreck')
 const _ = require('lodash')
+const got = require('got')
+
+const makeQ = (words) => {
+  const w = words.toLowerCase().split(' ')
+  return ['', 'titre:', 'description:', 'citation:']
+    .map((f) => w.map((x) => f + x).join(' AND '))
+    .map((x) => `(${x})`).join(' OR ')
+}
 
 exports.register = (server, options, next) => {
   const dbUrl = url.resolve(options.db.url, options.db.name)
 
-  server.views({
-    engines: { html: require('lodash-vision') },
-    path: 'templates',
-    partialsPath: 'templates/partials',
-    helpersPath: 'templates/helpers',
-    isCached: options.templateCached
-  })
+  const counts = JSON.stringify(['type', 'sous-type'])
+
+  const yoyo = (str) => {
+    const u2 = url.parse([options.db.url, options.db.name, '_design/search1/_search/storing'].join('/'))
+    u2.query = { counts, q: makeQ(str) }
+    return got(url.format(u2), {
+      auth: [options.db.reader, options.db.readerPassword].join(':'),
+      json: true
+    })
+  }
 
   const mapperSujets = (request, callback) => {
     callback(null, dbUrl + '/_design/app/_view/enfants?reduce=false&startkey=[%22sujets%22]&endkey=[%22sujets%22,%20{}]&include_docs=true', { accept: 'application/json' })
@@ -80,7 +91,7 @@ exports.register = (server, options, next) => {
     if (res.statusCode >= 400) { return reply(res.statusMessage).code(res.statusCode) }
     Wreck.read(res, { json: true }, (err, payload) => {
       if (err) { return reply(err) } // FIXME: how to test?
-      reply.view('resultats', { rows: payload.rows.map((x) => x.doc) })
+      reply.view('resultats-v2', { rows: payload.rows.map((x) => x.doc) })
     })
   }
 
@@ -151,6 +162,14 @@ exports.register = (server, options, next) => {
     })
   }
 
+  server.views({
+    engines: { html: require('lodash-vision') },
+    path: 'templates',
+    partialsPath: 'templates/partials',
+    helpersPath: 'templates/helpers',
+    isCached: options.templateCached
+  })
+
   server.route({
     method: 'GET',
     path: '/sections',
@@ -189,7 +208,7 @@ exports.register = (server, options, next) => {
 
   server.route({
     method: 'GET',
-    path: '/search',
+    path: '/search-v2',
     handler: {
       proxy: {
         passThrough: true,
@@ -197,6 +216,26 @@ exports.register = (server, options, next) => {
         onResponse: responderSearch
       }
     }
+  })
+
+  server.route({
+    method: 'GET',
+    path: '/search',
+    config: {
+      handler: function (request, reply) {
+        reply.view('resultats', { rows: [] })
+      }
+    }
+
+/*
+    handler: {
+      proxy: {
+        passThrough: true,
+        mapUri: mapperSearch,
+        onResponse: responderSearch
+      }
+    }
+*/
   })
 
   server.route({
