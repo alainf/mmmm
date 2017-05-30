@@ -18,13 +18,14 @@
 
   <div class='small-7 columns'>
     <div class=''>
-    <% data.rows.forEach((row) => { %>
-      <%= partials.resultat({ doc: row, languageCode: data.languageCode }) %>
-    <% }) %>
-
+    <% if (data.rows && data.rows.length) { %>
+      <% data.rows.forEach((row) => { %>
+        <%= partials.resultat({ doc: row, languageCode: data.languageCode }) %>
+      <% }) %>
+    <% } else { %>
+      <h3>Aucun résultat.</h3>
+    <% } %>
     </div>
-
-    <pre><%- JSON.stringify(data, null, ' ') %></pre>
   </div>
 
   <div class='small-5 columns'>

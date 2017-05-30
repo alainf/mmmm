@@ -1,13 +1,11 @@
 <div>
-<% if (data.doc.affichage === 'article' || data.doc.affichage === 'breve') { %>
-<h3><a href="/<%- data.languageCode %>/detail/<%- data.doc._id %>"><%- data.doc.titre %> <small><%- data.doc.affichage %></small></a></h3>
-<%= data.doc.description %>
-<% } else if (data.doc.type === 'taxonomies' && (data.doc['sous-type'] === 'sections' || data.doc['sous-type'] === 'sujets'))  { %>
-<h3><a href="/<%- data.languageCode %>/<%- data.doc['sous-type'] === 'sections' ? 'section' : 'sujet' %>/<%- data.doc._id %>"><%- data.doc.nomLangues[data.language] || data.doc.nomLangues.fr %> <small><%- data.doc['sous-type'] %></small></a></h3>
-<% } else if (data.doc['sous-type'] === 'types-de-contenu' || data.doc['sous-type'] === 'pers') { %>
-<h3><%- data.doc.nomLangues[data.languageCode] || data.doc.nomLangues.fr %> <small><%- data.doc['sous-type'] %></small></h3>
-<% } else { %>
-<h3>Autre... <small><%- data.doc._id %></small></h3>
-<pre><%- main.pretty(data.doc) %></pre>
-<% } %>
+<h3>
+  <a href="/<%- data.languageCode %>/detail/<%- data.doc.id %>">
+    <%- data.doc.fields.titre %>
+    <small>
+      <%- data.doc.fields['type'] %> <%- data.doc.fields['sous-type'] %>
+    </small>
+  </a>
+</h3>
+<p><%- data.doc.fields.description %></p>
 </div>

@@ -223,19 +223,12 @@ exports.register = (server, options, next) => {
     path: '/search',
     config: {
       handler: function (request, reply) {
-        reply.view('resultats', { rows: [] })
+        yoyo(request.query.word)
+          .then((x) => {
+            reply.view('resultats', x.body)
+          })
       }
     }
-
-/*
-    handler: {
-      proxy: {
-        passThrough: true,
-        mapUri: mapperSearch,
-        onResponse: responderSearch
-      }
-    }
-*/
   })
 
   server.route({
